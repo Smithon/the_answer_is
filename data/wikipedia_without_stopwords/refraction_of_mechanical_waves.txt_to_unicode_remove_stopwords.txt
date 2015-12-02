@@ -1,0 +1,124 @@
+optics refractive index index refraction n optical medium dimensionless number describes light radiation propagates medium defined
+c speed light vacuum v phase velocity light medium
+refractive index determines much light bent refracted entering material historically first use refractive indices described snells law refraction n sin n sin angles incidence refraction respectively ray crossing interface two media refractive indices n n refractive indices also determine amount light reflected reaching interface well critical angle total internal reflection brewsters angle
+refractive index seen factor speed wavelength radiation reduced respect vacuum values phase velocity light medium v cn similarly wavelength medium n wavelength light vacuum implies vacuum refractive index frequency f v wave affected refractive index
+refractive index varies wavelength light called dispersion causes splitting white light constituent colors prisms rainbows chromatic aberration lenses light propagation absorbing materials described using complexvalued refractive index imaginary part handles attenuation real part accounts refraction
+concept refractive index widely used within full electromagnetic spectrum xrays radio waves also used wave phenomena sound case speed sound used instead light reference medium vacuum must chosen
+definition
+refractive index n optical medium defined ratio speed light vacuum c ms phase velocity v light medium
+phase velocity speed crests phase wave moves may different group velocity speed pulse light envelope wave moves
+definition sometimes referred absolute refractive index absolute index refraction distinguish definitions speed light reference media vacuum used historically air standardized pressure temperature common reference medium
+history
+thomas young presumably person first used invented name index refraction time changed value refractive power single number instead traditional ratio two numbers ratio disadvantage different appearances newton called proportion sines incidence refraction wrote ratio two numbers like nearly water hauksbee called ratio refraction wrote ratio fixed numerator like urine hutton wrote ratio fixed denominator like water
+young use symbol index refraction next years others started using different symbols n m symbol n gradually prevailed
+typical values
+visible light transparent media refractive indices examples given adjacent table values measured yellow doublet sodium dline wavelength nanometers conventionally done gases atmospheric pressure refractive indices close low density almost solids liquids refractive indices aerogel clear exception aerogel low density solid produced refractive index range diamond lies end range refractive index high plastics refractive indices range highrefractiveindex polymers values high
+infrared light refractive indices considerably higher germanium transparent wavelength region m refractive index making important material infrared optics
+refractive index unity
+according theory relativity information travel faster speed light vacuum mean refractive index cannot lower refractive index measures phase velocity light carry information phase velocity speed crests wave move faster speed light vacuum thereby give refractive index occur close resonance frequencies absorbing media plasmas xrays xray regime refractive indices lower close exceptions close resonance frequencies example water refractive index xray radiation photon energy kev nm wavelength
+negative refractive index
+recent research also demonstrated existence materials negative refractive index occur permittivity permeability simultaneous negative values achieved periodically constructed metamaterials resulting negative refraction ie reversal snells law offers possibility superlens exotic phenomena
+microscopic explanation
+microscale electromagnetic waves phase velocity slowed material electric field creates disturbance charges atom primarily electrons proportional electric susceptibility medium similarly magnetic field creates disturbance proportional magnetic susceptibility electromagnetic fields oscillate wave charges material shaken back forth frequency charges thus radiate electromagnetic wave frequency usually phase delay charges may move phase force driving see sinusoidally driven harmonic oscillator light wave traveling medium macroscopic superposition sum contributions material original wave plus waves radiated moving charges wave typically wave frequency shorter wavelength original leading slowing waves phase velocity radiation oscillating material charges modify incoming wave changing velocity however net energy radiated directions even frequencies see scattering
+depending relative phase original driving wave waves radiated charge motion several possibilities
+electrons emit light wave phase light wave shaking cause total light wave travel slowly called normal refraction observed transparent materials like glass water corresponds refractive index real greater
+electrons emit light wave phase light wave shaking cause total light wave travel quickly called anomalous refraction observed close absorption lines xrays microwave systems corresponds refractive index less even though phase velocity light greater speed light vacuum c signal velocity discussed response sufficiently strong outofphase result negative refractive index
+electrons emit light wave phase light wave shaking destructively interfere original light reduce total light intensity light absorption opaque materials corresponds imaginary refractive index
+electrons emit light wave phase light wave shaking amplify light wave rare occurs lasers due stimulated emission corresponds imaginary index refraction opposite sign absorption
+materials visiblelight frequencies phase somewhere corresponding combination refraction absorption
+dispersion
+refractive index materials varies wavelength frequency light called dispersion causes prisms rainbows divide white light constituent spectral colors refractive index varies wavelength refraction angle light goes one material another dispersion also causes focal length lenses wavelength dependent type chromatic aberration often needs corrected imaging systems regions spectrum material absorb light refractive index tends decrease increasing wavelength thus increase frequency called normal dispersion contrast anomalous dispersion refractive index increases wavelength visible light normal dispersion means refractive index higher blue light red
+optics visual range amount dispersion lens material often quantified abbe number
+accurate description wavelength dependence refractive index sellmeier equation used empirical formula works well describing dispersion sellmeier coefficients often quoted instead refractive index tables
+dispersion usually important specify vacuum wavelength light refractive index measured typically measurements done various welldefined spectral emission lines example nd usually denotes refractive index fraunhofer d line centre yellow sodium double emission nm wavelength
+complex refractive index
+light passes medium part always attenuated conveniently taken account defining complex refractive index
+real part n refractive index indicates phase velocity imaginary part called extinction coefficient although also refer mass attenuation coefficient indicates amount attenuation electromagnetic wave propagates material
+corresponds attenuation seen inserting refractive index expression electric field plane electromagnetic wave traveling zdirection relating complex wave number k complex refractive index n k n vacuum wavelength inserted plane wave expression
+see gives exponential decay expected beerlambert law since intensity proportional square electric field depend depth material expz attenuation coefficient becomes also relates penetration depth distance intensity reduced e p
+n dependent frequency circumstances light absorbed light travels forever without loss special situations especially gain medium lasers also possible corresponding amplification light
+alternative convention uses n n instead n n still corresponds loss therefore two conventions inconsistent confused difference related defining sinusoidal time dependence reexpit versus reexpit see mathematical descriptions opacity
+dielectric loss nonzero dc conductivity materials cause absorption good dielectric materials glass extremely low dc conductivity low frequencies dielectric loss also negligible resulting almost absorption however higher frequencies visible light dielectric loss may increase absorption significantly reducing materials transparency frequencies
+real n imaginary parts complex refractive index related kramerskronig relations ar forouhi bloomer deduced equation describing function photon energy e applicable amorphous materials forouhi bloomer applied kramerskronig relation derive corresponding equation n function e formalism applied crystalline materials forouhi bloomer
+refractive index extinction coefficient n cannot measured directly must determined indirectly measurable quantities depend reflectance r transmittance ellipsometric parameters determination n measured quantities involve developing theoretical expression r terms valid physical model n fitting theoretical model measured r using regression analysis n deduced
+xray extreme ultraviolet radiation complex refractive index deviates slightly unity usually real part smaller therefore normally written n n alternative convention mentioned
+relations quantities
+optical path length
+optical path length opl product geometric length d path light follows system index refraction medium propagates
+important concept optics determines phase light governs interference diffraction light propagates according fermats principle light rays characterized curves optimize optical path length
+refraction
+light moves one medium another changes direction ie refracted moves medium refractive index n one refractive index n incidence angle surface normal refraction angle calculated snells law
+light enters material higher refractive index angle refraction smaller angle incidence light refracted towards normal surface higher refractive index closer normal direction light travel passing medium lower refractive index light instead refracted away normal towards surface
+total internal reflection
+angle fulfilling snells law ie
+light cannot transmitted instead undergo total internal reflection occurs going less optically dense material ie one lower refractive index get total internal reflection angles incidence must larger critical angle
+reflectivity
+apart transmitted light also reflected part reflection angle equal incidence angle amount light reflected determined reflectivity surface reflectivity calculated refractive index incidence angle fresnel equations normal incidence reduces
+common glass air n n thus incident power reflected incidence angles reflectivity also depend polarization incoming light certain angle called brewsters angle ppolarized light light electric field plane incidence totally transmitted brewsters angle calculated two refractive indices interface
+lenses
+focal length lens determined refractive index n radii curvature r r surfaces power thin lens air given lensmakers formula
+f focal length lens
+microscope resolution
+resolution good optical microscope mainly determined numerical aperture na objective lens numerical aperture turn determined refractive index n medium filling space sample lens half collection angle light according
+reason oil immersion commonly used obtain high resolution microscopy technique objective dipped drop high refractive index immersion oil sample study
+relative permittivity permeability
+refractive index electromagnetic radiation equals
+r materials relative permittivity r relative permeability refractive index used optics fresnel equations snells law relative permittivity permeability used maxwells equations electronics naturally occurring materials nonmagnetic optical frequencies r close therefore n approximately r particular case complex relative permittivity r real imaginary parts r r complex refractive index n real imaginary parts n latter called extinction coefficient follow relation
+components related
+complex modulus
+density
+general refractive index glass increases density however exist overall linear relation refractive index density silicate borosilicate glasses relatively high refractive index low density obtained glasses containing light metal oxides lio mgo opposite trend observed glasses containing pbo bao seen diagram right
+many oils olive oil ethyl alcohol examples liquids refractive less dense water contrary general correlation density refractive index
+gases n proportional density gas long chemical composition change means also proportional pressure inversely proportional temperature ideal gases
+group index
+sometimes group velocity refractive index usually called group index defined
+vg group velocity value confused n always defined respect phase velocity dispersion small group velocity linked phase velocity relation
+wavelength medium case group index thus written terms wavelength dependence refractive index
+refractive index medium known function vacuum wavelength instead wavelength medium corresponding expressions group velocity index values dispersion
+wavelength vacuum
+momentum abrahamminkowski controversy
+hermann minkowski calculated momentum p refracted ray follows
+e energy photon c speed light vacuum n refractive index medium max abraham proposed following formula calculation
+study suggested equations correct abraham version kinetic momentum minkowski version canonical momentum claims explain contradicting experimental results using interpretation
+relations
+shown fizeau experiment light transmitted moving medium speed relative stationary observer
+refractive index substance related polarizability lorentzlorenz equation molar refractivities constituents gladstonedale relation
+refractivity
+atmospheric applications refractivity taken n n atmospheric refractivity often expressed either n n n n multiplication factors used refractive index air n deviates unity parts per ten thousand
+molar refractivity hand measure total polarizability mole substance calculated refractive index
+density m molar mass
+nonscalar nonlinear nonhomogeneous refraction
+far assumed refraction given linear equations involving spatially constant scalar refractive index assumptions break different ways described following subsections
+birefringence
+materials refractive index depends polarization propagation direction light called birefringence optical anisotropy
+simplest form uniaxial birefringence one special direction material axis known optical axis material light linear polarization perpendicular axis experience ordinary refractive index light polarized parallel experience extraordinary refractive index ne birefringence material difference indices refraction n ne light propagating direction optical axis affected birefringence since refractive index independent polarization propagation directions light split two linearly polarized beams light traveling perpendicularly optical axis beams direction used change polarization direction linearly polarized light convert linear circular elliptical polarizations waveplates
+many crystals naturally birefringent isotropic materials plastics glass also often made birefringent introducing preferred direction eg external force electric field utilized determination stresses structures using photoelasticity birefringent material placed crossed polarizers change birefringence alter polarization thereby fraction light transmitted second polarizer
+general case trirefringent materials described field crystal optics dielectric constant rank tensor matrix case propagation light cannot simply described refractive indices except polarizations along principal axes
+nonlinearity
+strong electric field high intensity light output laser may cause mediums refractive index vary light passes giving rise nonlinear optics index varies quadratically field linearly intensity called optical kerr effect causes phenomena selffocusing selfphase modulation index varies linearly field nontrivial linear coefficient possible materials possess inversion symmetry known pockels effect
+inhomogeneity
+refractive index medium constant varies gradually position material known gradientindex grin medium described gradient index optics light traveling medium bent focused effect exploited produce lenses optical fibers devices introducing grin elements design optical system greatly simplify system reducing number elements much third maintaining overall performance crystalline lens human eye example grin lens refractive index varying inner core approximately less dense cortex common mirages caused spatially varying refractive index air
+refractive index measurement
+homogeneous media
+refractive index liquids solids measured refractometers typically measure angle refraction critical angle total internal reflection first laboratory refractometers sold commercially developed ernst abbe late th century principles still used today instrument thin layer liquid measured placed two prisms light shone liquid incidence angles way ie light rays parallel surface second prism index refraction higher liquid light enters prism angles smaller critical angle total reflection angle measured either looking telescope digital photodetector placed focal plane lens refractive index n liquid calculated maximum transmission angle n ng sin ng refractive index prism
+type devices commonly used chemical laboratories identification substances quality control handheld variants used agriculture eg wine makers determine sugar content grape juice inline process refractometers used eg chemical pharmaceutical industry process control
+gemology different type refractometer used measure index refraction birefringence gemstones gem placed high refractive index prism illuminated high refractive index contact liquid used achieve optical contact gem prism small incidence angles light transmitted gem high angles total internal reflection occur prism critical angle normally measured looking telescope
+refractive index variations
+unstained biological structures appear mostly transparent brightfieldmicroscopy cellular structures attenuate appreciable quantities light nevertheless variation materials constitutes structures also corresponds variation refractive index following techniques convert variation measurable amplitude differences
+measure spatial variation refractive index sample phasecontrast imaging methods used methods measure variations phase light wave exiting sample phase proportional optical path length light ray traversed thus gives measure integral refractive index along ray path phase cannot measured directly optical higher frequencies therefore needs converted intensity interference reference beam visual spectrum done using zernike phasecontrast microscopy differential interference contrast microscopy dic interferometry
+zernike phasecontrast microscopy introduces phase shift low spatial frequency components image phaseshifting annulus fourier plane sample highspatialfrequency parts image interfere lowfrequency reference beam dic illumination split two beams given different polarizations phase shifted differently shifted transversely slightly different amounts specimen two parts made interfere giving image derivative optical path length direction difference transverse shift interferometry illumination split two beams partially reflective mirror one beams let sample combined interfere give direct image phase shifts optical path length variations wavelength image contain fringes
+exist several phasecontrast xray imaging techniques determine d d spatial distribution refractive index samples xray regime
+applications
+refractive index important property components optical instrument uses refraction determines focusing power lenses dispersive power prisms generally path light system increase refractive index core guides light optical fiber variations refractive index reduces reflectivity surface treated antireflective coating
+since refractive index fundamental physical property substance often used identify particular substance confirm purity measure concentration refractive index used measure solids liquids gases commonly used measure concentration solute aqueous solution also used useful tool differentiate different types gemstone due unique chatoyance individual stone displays refractometer instrument used measure refractive index solution sugar refractive index used determine sugar content see brix
+gps index refraction utilized raytracing account radio propagation delay due earths electrically neutral atmosphere also used satellite link design computation radiowave attenuation atmosphere
+see also
+references
+external links
+nist calculator determining refractive index air
+dielectric materials
+science world
+filmetrics online database free database refractive index absorption coefficient information
+refractiveindexinfo refractive index database featuring online plotting parameterisation data
+soprasacom refractive index database text files signup required
+luxpop thin film bulk index refraction photonics calculations

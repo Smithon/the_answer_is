@@ -1,0 +1,69 @@
+chemical kinetics also known as reaction kinetics is the study of rates of chemical processes chemical kinetics includes investigations of how different experimental conditions can influence the speed of a chemical reaction and yield information about the reaction's mechanism and transition states as well as the construction of mathematical models that can describe the characteristics of a chemical reaction in 1864 peter waage and cato guldberg pioneered the development of chemical kinetics by formulating the law of mass action which states that the speed of a chemical reaction is proportional to the quantity of the reacting substances
+chemical kinetics deals with the experimental determination of reaction rates from which rate laws and rate constants are derived relatively simple rate laws exist for zero order reactions (for which reaction rates are independent of concentration) first order reactions and second order reactions and can be derived for others elementary reactions follow the law of mass action but the rate law of stepwise reactions has to be derived by combining the rate laws of the various elementary steps and can become rather complex in consecutive reactions the rate-determining step often determines the kinetics in consecutive first order reactions a steady state approximation can simplify the rate law the activation energy for a reaction is experimentally determined through the arrhenius equation and the eyring equation the main factors that influence the reaction rate include: the physical state of the reactants the concentrations of the reactants the temperature at which the reaction occurs and whether or not any catalysts are present in the reaction
+== factors affecting reaction rate ==
+=== nature of the reactants ===
+depending upon what substances are reacting the reaction rate varies acid/base reactions the formation of salts and ion exchange are fast reactions when covalent bond formation takes place between the molecules and when large molecules are formed the reactions tend to be very slow nature and strength of bonds in reactant molecules greatly influence the rate of its transformation into products
+=== physical state ===
+the physical state (solid liquid or gas) of a reactant is also an important factor of the rate of change when reactants are in the same phase as in aqueous solution thermal motion brings them into contact however when they are in different phases the reaction is limited to the interface between the reactants reaction can occur only at their area of contact; in the case of a liquid and a gas at the surface of the fluid vigorous shaking and stirring may be needed to bring the reaction to completion this means that the more finely divided a solid or liquid reactant the greater its surface area per unit volume and the more contact it with the other reactant thus the faster the reaction to make an analogy for example when one starts a fire one uses wood chips and small branches one does not start with large logs right away in organic chemistry on water reactions are the exception to the rule that homogeneous reactions take place faster than heterogeneous reactions
+=== concentration ===
+the reactions are due to collisions of reactant species the frequency with which the molecules or ions collide depends upon their concentrations the more crowded the molecules are the more likely they are to collide and react with one another thus an increase in the concentrations of the reactants will usually result in the corresponding increase in the reaction rate while a decrease in the concentrations will usually have a reverse effect for example combustion that occurs in air (21% oxygen) will occur more rapidly in pure oxygen
+=== temperature ===
+temperature usually has a major effect on the rate of a chemical reaction molecules at a higher temperature have more thermal energy although collision frequency is greater at higher temperatures this alone contributes only a very small proportion to the increase in rate of reaction much more important is the fact that the proportion of reactant molecules with sufficient energy to react (energy greater than activation energy: e > ea) is significantly higher and is explained in detail by the maxwellboltzmann distribution of molecular energies
+the 'rule of thumb' that the rate of chemical reactions doubles for every 10 c temperature rise is a common misconception this may have been generalized from the special case of biological systems where the (temperature coefficient) is often between 1.5 and 2.5
+a reaction's kinetics can also be studied with a temperature jump approach this involves using a sharp rise in temperature and observing the relaxation time of the return to equilibrium a particularly useful form of temperature jump apparatus is a shock tube which can rapidly jump a gas's temperature by more than 1000 degrees
+=== catalysts ===
+a catalyst is a substance that accelerates the rate of a chemical reaction but remains chemically unchanged afterwards the catalyst increases the rate of the reaction by providing a different reaction mechanism to occur with a lower activation energy in autocatalysis a reaction product is itself a catalyst for that reaction leading to positive feedback proteins that act as catalysts in biochemical reactions are called enzymes michaelismenten kinetics describe the rate of enzyme mediated reactions a catalyst does not affect the position of the equilibria as the catalyst speeds up the backward and forward reactions equally
+in certain organic molecules specific substituents can have an influence on reaction rate in neighbouring group participation
+=== pressure ===
+increasing the pressure in a gaseous reaction will increase the number of collisions between reactants increasing the rate of reaction this is because the activity of a gas is directly proportional to the partial pressure of the gas this is similar to the effect of increasing the concentration of a solution
+in addition to this straightforward mass-action effect the rate coefficients themselves can change due to pressure the rate coefficients and products of many high-temperature gas-phase reactions change if an inert gas is added to the mixture; variations on this effect are called fall-off and chemical activation these phenomena are due to exothermic or endothermic reactions occurring faster than heat transfer causing the reacting molecules to have non-thermal energy distributions (non-boltzmann distribution) increasing the pressure increases the heat transfer rate between the reacting molecules and the rest of the system reducing this effect
+condensed-phase rate coefficients can also be affected by (very high) pressure; this is a completely different effect than fall-off or chemical-activation it is often studied using diamond anvils
+a reaction's kinetics can also be studied with a pressure jump approach this involves making fast changes in pressure and observing the relaxation time of the return to equilibrium
+== experimental methods ==
+the experimental determination of reaction rates involves measuring how the concentrations of reactants or products change over time for example the concentration of a reactant can be measured by spectrophotometry at a wavelength where no other reactant or product in the system absorbs light
+for reactions which take at least several minutes it is possible to start the observations after the reactants have been mixed at the temperature of interest
+=== fast reactions ===
+for faster reactions the time required to mix the reactants and bring them to a specified temperature may be comparable or longer than the half-life of the reaction special methods to start fast reactions without slow mixing step include
+stopped flow methods which can reduce the mixing time to the order of a millisecond
+chemical relaxation methods such as temperature jump and pressure jump in which a pre-mixed system initially at equilibrium is perturbed by rapid heating or depressurization so that it is no longer at equilibrium and the relaxation back to equilibrium is observed for example this method has been used to study the neutralization h3o+ + oh with a half-life of 1 s or less under ordinary conditions
+flash photolysis in which a laser pulse produces highly excited species such as free radicals whose reactions are then studied
+== equilibrium ==
+while chemical kinetics is concerned with the rate of a chemical reaction thermodynamics determines the extent to which reactions occur in a reversible reaction chemical equilibrium is reached when the rates of the forward and reverse reactions are equal (the principle of detailed balance) and the concentrations of the reactants and products no longer change this is demonstrated by for example the haberbosch process for combining nitrogen and hydrogen to produce ammonia chemical clock reactions such as the belousovzhabotinsky reaction demonstrate that component concentrations can oscillate for a long time before finally attaining the equilibrium
+== free energy ==
+in general terms the free energy change (g) of a reaction determines whether a chemical change will take place but kinetics describes how fast the reaction is a reaction can be very exothermic and have a very positive entropy change but will not happen in practice if the reaction is too slow if a reactant can produce two different products the thermodynamically most stable one will in general form except in special circumstances when the reaction is said to be under kinetic reaction control the curtinhammett principle applies when determining the product ratio for two reactants interconverting rapidly each going to a different product it is possible to make predictions about reaction rate constants for a reaction from free-energy relationships
+the kinetic isotope effect is the difference in the rate of a chemical reaction when an atom in one of the reactants is replaced by one of its isotopes
+chemical kinetics provides information on residence time and heat transfer in a chemical reactor in chemical engineering and the molar mass distribution in polymer chemistry
+== applications and models ==
+the mathematical models that describe chemical reaction kinetics provide chemists and chemical engineers with tools to better understand and describe chemical processes such as food decomposition microorganism growth stratospheric ozone decomposition and the complex chemistry of biological systems these models can also be used in the design or modification of chemical reactors to optimize product yield more efficiently separate products and eliminate environmentally harmful by-products when performing catalytic cracking of heavy hydrocarbons into gasoline and light gas for example kinetic models can be used to find the temperature and pressure at which the highest yield of heavy hydrocarbons into gasoline will occur
+chemical kinetics is frequently validated and explored through modeling in specialized packages as a function of ordinary differential equation-solving (ode-solving) and curve-fitting
+== see also ==
+autocatalytic reactions and order creation
+detonation
+electrochemical kinetics
+flame speed
+heterogenous catalysis
+intrinsic low-dimensional manifold
+mlab chemical kinetics modeling package
+nonthermal surface reaction
+potterswheel matlab toolbox to fit chemical rate constants to experimental data
+reaction progress kinetic analysis
+== references ==
+preparing for the chemistry ap exam upper saddle river new jersey: pearson education 2004 131134 isbn 0-536-73157-8
+^ c.m guldberg and p waage,"studies concerning affinity" c m forhandlinger: videnskabs-selskabet i christiana (1864) 35
+^ p waage "experiments for determining the affinity law" forhandlinger i videnskabs-selskabet i christiania (1864) 92
+^ c.m guldberg "concerning the laws of chemical affinity" c m forhandlinger i videnskabs-selskabet i christiania (1864) 111
+^ a b c d laidler k j chemical kinetics (3rd ed. harper and row 1987) p.33-39 isbn 0-06-043862-2
+^ espenson j.h chemical kinetics and reaction mechanisms (2nd ed. mcgraw-hill 2002) p.254-256 isbn 0-07-288362-6
+^ a b atkins p and de paula j. physical chemistry (8th ed. w.h freeman 2006) p.793 isbn 0-7167-8759-8
+^ espenson,j.h chemical kinetics and reaction mechanisms (2nd ed. mcgraw-hill 2002) p.256-8 isbn 0-07-288362-6
+^ steinfeld j.i. francisco j.s and hase w.l chemical kinetics and dynamics (2nd ed. prentice-hall 1999) p.140-3 isbn 0-13-737123-3
+^ a b atkins p and de paula j. physical chemistry (8th ed. w.h freeman 2006) pp.805-7 isbn 0-7167-8759-8
+^ laidler k.j chemical kinetics (3rd ed. harper and row 1987) p.359-360 isbn 0-06-043862-2
+^ espenson j.h chemical kinetics and reaction mechanisms (2nd ed. mcgraw-hill 2002) p.264-6 isbn 0-07-288362-6
+^ steinfeld j.i. francisco j.s and hase w.l chemical kinetics and dynamics (2nd ed. prentice-hall 1999) p.94-97 isbn 0-13-737123-3
+^ >"chemical kinetics: simple binding: f + g b" (pdf) civilized software inc retrieved 2015-09-01
+== external links ==
+chemistry applets
+university of waterloo
+chemical kinetics of gas phase reactions
+kinpy: python code generator for solving kinetic equations

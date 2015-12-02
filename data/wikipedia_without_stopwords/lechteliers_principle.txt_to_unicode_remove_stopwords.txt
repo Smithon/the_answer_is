@@ -1,0 +1,127 @@
+physics particularly electromagnetism lorentz force combination electric magnetic force point charge due electromagnetic fields particle charge q moves velocity v presence electric field e magnetic field b experience force
+si units variations basic formula describe magnetic force currentcarrying wire sometimes called laplace force electromotive force wire loop moving magnetic field aspect faradays law induction force charged particle might travelling near speed light relativistic form lorentz force
+first derivation lorentz force commonly attributed oliver heaviside although historians suggest earlier origin paper james clerk maxwell hendrik lorentz derived years heaviside
+equation si unitsedit
+charged particleedit
+force f acting particle electric charge q instantaneous velocity v due external electric field e magnetic field b given
+vector cross product boldface quantities vectors explicitly stated
+r position vector charged particle time overdot time derivative
+positively charged particle accelerated linear orientation e field curve perpendicularly instantaneous velocity vector v b field according righthand rule detail thumb right hand points along v index finger along b middle finger points along f
+term qe called electric force term qv b called magnetic force according definitions term lorentz force refers specifically formula magnetic force total electromagnetic force including electric force given nonstandard name article follow nomenclature follows term lorentz force refer expression total force
+magnetic force component lorentz force manifests force acts currentcarrying wire magnetic field context also called laplace force
+continuous charge distributionedit
+continuous charge distribution motion lorentz force equation becomes
+df force small piece charge distribution charge dq sides equation divided volume small piece charge distribution dv result
+f force density force per unit volume charge density charge per unit volume next current density corresponding motion charge continuum
+continuous analogue equation
+total force volume integral charge distribution
+eliminating j using maxwells equations manipulating using theorems vector calculus form equation used derive maxwell stress tensor turn combined poynting vector obtain electromagnetic stressenergy tensor used general relativity
+terms another way write lorentz force per unit d volume
+c speed light denotes divergence tensor field rather amount charge velocity electric magnetic fields equation relates energy flux flow energy per unit time per unit distance fields force exerted charge distribution see covariant formulation classical electromagnetism details
+historyedit
+early attempts quantitatively describe electromagnetic force made midth century proposed force magnetic poles johann tobias mayer others electrically charged objects henry cavendish obeyed inversesquare law however cases experimental proof neither complete conclusive charlesaugustin de coulomb using torsion balance able definitively show experiment true soon discovery h c rsted magnetic needle acted voltaic current andrmarie ampre year able devise experimentation formula angular dependence force two current elements descriptions force always given terms properties objects involved distances rather terms electric magnetic fields
+modern concept electric magnetic fields first arose theories michael faraday particularly idea lines force later given full mathematical description lord kelvin james clerk maxwell modern perspective possible identify maxwells formulation field equations form lorentz force equation relation electric currents however time maxwell evident equations related forces moving charged objects j j thomson first attempt derive maxwells field equations electromagnetic forces moving charged object terms objects properties external fields interested determining electromagnetic behavior charged particles cathode rays thomson published paper wherein gave force particles due external magnetic field
+thomson derived correct basic form formula miscalculations incomplete description displacement current included incorrect scalefactor half front formula oliver heaviside invented modern vector notation applied maxwells field equations fixed mistakes thomsons derivation arrived correct form magnetic force moving charged object finally hendrik lorentz derived modern form formula electromagnetic force includes contributions total force electric magnetic fields lorentz began abandoning maxwellian descriptions ether conduction instead lorentz made distinction matter luminiferous aether sought apply maxwell equations microscopic scale using heavisides version maxwell equations stationary ether applying lagrangian mechanics see lorentz arrived correct complete form force law bears name
+trajectories particles due lorentz forceedit
+many cases practical interest motion magnetic field electrically charged particle electron ion plasma treated superposition relatively fast circular motion around point called guiding center relatively slow drift point drift speeds may differ various species depending charge states masses temperatures possibly resulting electric currents chemical separation
+significance lorentz forceedit
+modern maxwells equations describe electrically charged particles currents moving charged particles give rise electric magnetic fields lorentz force law completes picture describing force acting moving point charge q presence electromagnetic fields lorentz force law describes effect e b upon point charge electromagnetic forces entire picture charged particles possibly coupled forces notably gravity nuclear forces thus maxwells equations stand separate physical laws coupled via charge current densities response point charge lorentz law one aspect generation e b currents charges another
+real materials lorentz force inadequate describe behavior charged particles principle matter computation charged particles material medium respond e b fields generate fields complex transport equations must solved determine time spatial response charges example boltzmann equation fokkerplanck equation navierstokes equations example see magnetohydrodynamics fluid dynamics electrohydrodynamics superconductivity stellar evolution entire physical apparatus dealing matters developed see example greenkubo relations greens function manybody theory
+lorentz force law definition e bedit
+many textbook treatments classical electromagnetism lorentz force law used definition electric magnetic fields e b specific lorentz force understood following empirical statement
+electromagnetic force f test charge given point time certain function charge q velocity v parameterized exactly two vectors e b functional form
+valid countless experiments shown even particles approaching speed light magnitude v v c two vector fields e b thereby defined throughout space time called electric field magnetic field note fields defined everywhere space time respect force test charge would receive regardless whether charge present experience force
+note also definition e b lorentz force definition principle real particle opposed hypothetical test charge infinitesimallysmall mass charge would generate finite e b fields would alter electromagnetic force experiences addition charge experiences acceleration forced curved trajectory external agency emits radiation causes braking motion see example bremsstrahlung synchrotron light effects occur direct effect called radiation reaction force indirectly affecting motion nearby charges currents moreover net force must include gravity electroweak forces aside electromagnetic force
+force currentcarrying wireedit
+wire carrying electric current placed magnetic field moving charges comprise current experiences lorentz force together create macroscopic force wire sometimes called laplace force combining lorentz force law definition electric current following equation results case straight stationary wire
+vector whose magnitude length wire whose direction along wire aligned direction conventional current flow
+wire straight curved force computed applying formula infinitesimal segment wire d adding forces integration formally net force stationary rigid wire carrying steady current
+net force addition usually torque plus effects wire perfectly rigid
+one application ampres force law describes two currentcarrying wires attract repel since experiences lorentz force others magnetic field information see article ampres force law
+emfedit
+magnetic force q v b component lorentz force responsible motional electromotive force motional emf phenomenon underlying many electrical generators conductor moved magnetic field magnetic force tries push electrons wire creates emf term motional emf applied phenomenon since emf due motion wire
+electrical generators magnets move conductors case emf due electric force qe term lorentz force equation electric field question created changing magnetic field resulting induced emf described maxwellfaraday equation one four modern maxwells equations
+emfs despite different origins described equation namely emf rate change magnetic flux wire faradays law induction see einsteins special theory relativity partially motivated desire better understand link two effects fact electric magnetic fields different faces electromagnetic field moving one inertial frame another solenoidal vector field portion efield change whole part bfield vice versa
+lorentz force faradays law inductionedit
+given loop wire magnetic field faradays law induction states induced electromotive force emf wire
+magnetic flux loop b magnetic field surface bounded closed contour time da infinitesimal vector area element magnitude area infinitesimal patch surface direction orthogonal surface patch
+sign emf determined lenzs law note valid stationary wire also moving wire
+faradays law induction valid moving wire instance motor maxwell equations lorentz force deduced reverse also true lorentz force maxwell equations used derive faraday law
+let moving wire moving together without rotation constant velocity v internal surface wire emf around closed path given
+electric field d infinitesimal vector element contour
+nb d da sign ambiguity get correct sign righthand rule used explained article kelvinstokes theorem
+result compared version faradays law induction appears modern maxwells equations called maxwellfaraday equation
+maxwellfaraday equation also written integral form using kelvinstokes theorem
+maxwell faraday equation
+faraday law
+two equivalent wire moving using leibniz integral rule div b results
+using maxwell faraday equation
+since valid wire position implies
+faradays law induction holds whether loop wire rigid stationary motion process deformation holds whether magnetic field constant time changing however cases faradays law either inadequate difficult use application underlying lorentz force law necessary see inapplicability faradays law
+magnetic field fixed time conducting loop moves field magnetic flux b linking loop change several ways example bfield varies position loop moves location different bfield b change alternatively loop changes orientation respect bfield b da differential element change different angle b da also changing b third example portion circuit swept uniform timeindependent bfield another portion circuit held stationary flux linking entire closed circuit change due shift relative position circuits component parts time surface timedependent three cases faradays law induction predicts emf generated change b
+note maxwell faradays equation implies electric field e non conservative magnetic field b varies time expressible gradient scalar field subject gradient theorem since rotational zero
+lorentz force terms potentialsedit
+e b fields replaced magnetic vector potential scalar electrostatic potential
+gradient divergence curl
+force becomes
+using identity triple product simplifies
+using chain rule total derivative
+expression rewritten
+take convenient eulerlagrange form
+lorentz force analytical mechanicsedit
+lagrangian charged particle mass m charge q electromagnetic field equivalently describes dynamics particle terms energy rather force exerted classical expression given
+potential fields using lagranges equations equation lorentz force obtained
+potential energy depends velocity particle force velocity dependent conservative
+relativistic lagrangian
+action relativistic arclength path particle space time minus potential energy contribution plus extra contribution quantum mechanically extra phase charged particle gets moving along vector potential
+equation cgs unitsedit
+abovementioned formulae use si units common among experimentalists technicians engineers cgsgaussian units somewhat common among theoretical physicists one instead
+c speed light although equation looks slightly different completely equivalent since one following relations
+vacuum permittivity vacuum permeability practice subscripts cgs si always omitted unit system assessed context
+relativistic form lorentz forceedit
+covariant form lorentz forceedit
+field tensoredit
+using metric signature lorentz force charge q written covariant form
+p fourmomentum defined
+proper time particle f contravariant electromagnetic tensor
+u covariant velocity particle defined
+lorentz factor
+fields transformed frame moving constant relative velocity
+lorentz transformation tensor
+translation vector notationedit
+component xcomponent force
+substituting components covariant electromagnetic tensor f yields
+using components covariant fourvelocity yields
+calculation force components y z directions yields similar results collecting equations one
+since differentials coordinate time dt proper time d related lorentz factor
+arrive
+precisely lorentz force law however important note p relativistic expression
+sta form lorentz forceedit
+electric magnetic fields dependent velocity observer relativistic form lorentz force law best exhibited starting coordinateindependent expression electromagnetic magnetic fields arbitrary timedirection
+spacetime bivector oriented plane segment like vector oriented line segment six degrees freedom corresponding boosts rotations spacetime planes rotations rotations spacespace planes dot product vector pulls vector space algebra translational part wedgeproduct creates trivector space algebra dual vector usual magnetic field vector relativistic velocity given timelike changes timeposition vector
+shows choice metric velocity
+proper invariant inadequate term transformation defined form lorentz force law simply
+note order important bivector vector dot product antisymmetric upon space time split like one obtain velocity fields yielding usual expression
+applicationsedit
+lorentz force occurs many devices including
+cyclotrons circular path particle accelerators
+mass spectrometers
+velocity filters
+magnetrons
+lorentz force velocimetry
+manifestation laplace force electric current conductor force occurs many devices including
+see alsoedit
+footnotesedit
+referencesedit
+numbered references refer part list immediately
+feynman richard phillips leighton robert b sands matthew l feynman lectures physics vol pearson addisonwesley isbn volume
+griffiths david j introduction electrodynamics rd ed upper saddle river nj prenticehall isbn x
+jackson john david classical electrodynamics rd ed new york ny wiley isbn x
+serway raymond jewett john w jr physics scientists engineers modern physics belmont ca thomson brookscole isbn x
+srednicki mark quantum field theory cambridge england new york ny cambridge university press isbn
+external linksedit
+interactive java tutorial lorentz force national high magnetic field laboratory
+lorentz force demonstration
+faradays law tankersley mosca
+notes physics astronomy hyperphysics georgia state university see also home page
+interactive java applet magnetic deflection particle beam homogeneous magnetic field wolfgang bauer

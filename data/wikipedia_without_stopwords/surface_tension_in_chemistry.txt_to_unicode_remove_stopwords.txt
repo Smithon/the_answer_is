@@ -1,0 +1,149 @@
+surface tension elastic tendency liquids makes acquire least surface area possible surface tension important property markedly influences many ecosystems surface tension responsible example object insect eg water striders denser water able float run along water surface
+liquidair interfaces surface tension results greater attraction liquid molecules due cohesion molecules air due adhesion net effect inward force surface causes liquid behave surface covered stretched elastic membrane thus surface becomes tension imbalanced forces probably term surface tension came relatively high attraction water molecules water high surface tension millinewtons per meter c compared liquids surface tension important factor phenomenon capillarity
+surface tension dimension force per unit length energy per unit area two equivalentbut referring energy per unit area people use term surface energywhich general term sense applies also solids liquids
+materials science surface tension used either surface stress surface free energy
+causes
+cohesive forces among liquid molecules responsible phenomenon surface tension bulk liquid molecule pulled equally every direction neighboring liquid molecules resulting net force zero molecules surface molecules sides therefore pulled inwards creates internal pressure forces liquid surfaces contract minimal area
+surface tension responsible shape liquid droplets although easily deformed droplets water tend pulled spherical shape imbalance cohesive forces surface layer absence forces including gravity drops virtually liquids would approximately spherical spherical shape minimizes necessary wall tension surface layer according laplaces law
+another way view surface tension terms energy molecule contact neighbor lower state energy alone contact neighbor interior molecules many neighbors possibly boundary molecules missing neighbors compared interior molecules therefore higher energy liquid minimize energy state number higher energy boundary molecules must minimized minimized quantity boundary molecules results minimal surface area result surface area minimization surface assume smoothest shape mathematical proof smooth shapes minimize surface area relies use eulerlagrange equation since curvature surface shape results greater area higher energy also result consequently surface push back curvature much way ball pushed uphill push back minimize gravitational potential energy
+effects surface tension
+water
+several effects surface tension seen ordinary water
+beading rain water waxy surface leaf water adheres weakly wax strongly water clusters drops surface tension gives nearspherical shape sphere smallest possible surface area volume ratio
+b formation drops occurs mass liquid stretched animation shows water adhering faucet gaining mass stretched point surface tension longer keep drop linked faucet separates surface tension forms drop sphere stream water running faucet stream would break drops fall gravity stretches stream surface tension pinches spheres
+c flotation objects denser water occurs object nonwettable weight small enough borne forces arising surface tension example water striders use surface tension walk surface pond surface water behaves like elastic film insects feet cause indentations waters surface increasing surface area
+d separation oil water case water liquid wax caused tension surface dissimilar liquids type surface tension called interface tension chemistry
+e tears wine formation drops rivulets side glass containing alcoholic beverage cause complex interaction differing surface tensions water ethanol induced combination surface tension modification water ethanol together ethanol evaporating faster water
+surfactants
+surface tension visible common phenomena especially surfactants used decrease
+soap bubbles large surface areas little mass bubbles pure water unstable addition surfactants however stabilizing effect bubbles see marangoni effect notice surfactants actually reduce surface tension water factor three
+emulsions type solution surface tension plays role tiny fragments oil suspended pure water spontaneously assemble much larger masses presence surfactant provides decrease surface tension permits stability minute droplets oil bulk water vice versa
+physics
+physical units
+surface tension usually represented symbol measured force per unit length si unit newton per meter cgs unit dyne per cm also used
+surface area growth
+effect surface tension interface area two liquids may equivalently defined either force energy terms force surface tension liquid onehalf force per unit length required keep still movable side frame liquid stretched say thin film visualize imagine rectangular frame composed three unmovable sides form u shape fourth movable side slide along two parallel unmovable sides either towards away unmovable bottom side u imagine liquid stretched thin film frame much like soap water gets stretched bubbleblowing ring ring dunked soapy water observed movable side pulled film towards bottom u force required stop movable side sliding turns proportional length movable side thus ratio depends intrinsic properties liquid composition temperature etc geometry example frame complicated shape ratio length movable side force required stop sliding found shapes therefore define surface tension
+reason film two sides contributes equally force force contributed side adds total force
+terms energy surface tension liquid ratio change energy liquid change surface area liquid led change energy easily related previous definition terms force force required stop side starting slide also force would keep side state sliding constant speed newtons second law side moving surface area stretched liquid increasing applied force work liquid means increasing surface area increases energy film work done force moving side distance time total area film increases factor liquid two sides two surfaces thus multiplying numerator denominator get
+work usual arguments interpreted stored potential energy consequently surface tension also measured si system joules per square meter cgs system ergs per cm since mechanical systems try find state minimum potential energy free droplet liquid naturally assumes spherical shape minimum surface area given volume equivalence measurement energy per unit area force per unit length proven dimensional analysis
+surface curvature pressure
+force acts normal tensioned surface surface must remain flat pressure one side surface differs pressure side pressure difference times surface area results normal force order surface tension forces cancel force due pressure surface must curved diagram shows surface curvature tiny patch surface leads net component surface tension forces acting normal center patch forces balanced resulting equation known younglaplace equation
+p pressure difference known laplace pressure
+surface tension
+rx ry radii curvature axes parallel surface
+quantity parentheses right hand side fact twice mean curvature surface depending normalisation solutions equation determine shape water drops puddles menisci soap bubbles shapes determined surface tension shape impressions water striders feet make surface pond table shows internal pressure water droplet increases decreasing radius small drops effect subtle pressure difference becomes enormous drop sizes approach molecular size limit single molecule concept becomes meaningless
+floating objects
+object placed liquid weight fw depresses surface balanced surface tension forces either side fs parallel waters surface points contacts object notice horizontal components two fs arrows point opposite directions cancel vertical components point direction therefore add balance fw objects surface must wettable happen weight must low enough surface tension support
+liquid surface
+find shape minimal surface bounded arbitrary shaped frame using strictly mathematical means daunting task yet fashioning frame wire dipping soapsolution locally minimal surface appear resulting soapfilm within seconds
+reason pressure difference across fluid interface proportional mean curvature seen younglaplace equation open soap film pressure difference zero hence mean curvature zero minimal surfaces property zero mean curvature
+contact angles
+surface liquid interface liquid medium top surface pond example interface pond water air surface tension property liquid alone property liquids interface another medium liquid container besides liquidair interface top surface also interface liquid walls container surface tension liquid air usually different greater surface tension walls container two surfaces meet geometry must forces balance
+two surfaces meet form contact angle angle tangent surface makes solid surface diagram right shows two examples tension forces shown liquidair interface liquidsolid interface solidair interface example left difference liquidsolid solidair surface tension less liquidair surface tension nevertheless positive
+diagram vertical horizontal forces must cancel exactly contact point known equilibrium horizontal component canceled adhesive force
+telling balance forces though vertical direction vertical component must exactly cancel force
+since forces direct proportion respective surface tensions also
+liquidsolid surface tension
+liquidair surface tension
+solidair surface tension
+contact angle concave meniscus contact angle less convex meniscus contact angle greater
+means although difference liquidsolid solidair surface tension difficult measure directly inferred liquidair surface tension equilibrium contact angle function easily measurable advancing receding contact angles see main article contact angle
+relationship exists diagram right case see contact angle less liquidsolidsolidair surface tension difference must negative
+special contact angles
+observe special case watersilver interface contact angle equal liquidsolidsolidair surface tension difference exactly zero
+another special case contact angle exactly water specially prepared teflon approaches contact angle occurs liquidsolid surface tension exactly equal liquidair surface tension
+methods measurement
+surface tension manifests various effects offers number paths measurement method optimal depends upon nature liquid measured conditions tension measured stability surface deformed
+du noy ring method traditional method used measure surface interfacial tension wetting properties surface interface little influence measuring technique maximum pull exerted ring surface measured
+du noypadday method minimized version du noy method uses small diameter metal needle instead ring combination high sensitivity microbalance record maximum pull advantage method small sample volumes tens microliters measured high precision without need correct buoyancy needle rather rod proper geometry measurement performed quickly minimally seconds first commercial multichannel tensiometers cmceeker recently built based principle
+wilhelmy plate method universal method especially suited check surface tension long time intervals vertical plate known perimeter attached balance force due wetting measured
+spinning drop method technique ideal measuring low interfacial tensions diameter drop within heavy phase measured rotated
+pendant drop method surface interfacial tension measured technique even elevated temperatures pressures geometry drop analyzed optically details see drop
+bubble pressure method jaegers method measurement technique determining surface tension short surface ages maximum pressure bubble measured
+drop volume method method determining interfacial tension function interface age liquid one density pumped second liquid different density time drops produced measured
+capillary rise method end capillary immersed solution height solution reaches inside capillary related surface tension equation discussed
+stalagmometric method method weighting reading drop liquid
+sessile drop method method determining surface tension density placing drop substrate measuring contact angle see sessile drop technique
+vibrational frequency levitated drops natural frequency vibrational oscillations magnetically levitated drops used measure surface tension superfluid value estimated dyncm k
+resonant oscillations spherical hemispherical liquid drop technique based measuring resonant frequency spherical hemispherical pendant droplets driven oscillations modulated electric field surface tension viscosity evaluated obtained resonant curves
+effects
+liquid vertical tube
+old style mercury barometer consists vertical glass tube cm diameter partially filled mercury vacuum called torricellis vacuum unfilled volume see diagram right notice mercury level center tube higher edges making upper surface mercury domeshaped center mass entire column mercury would slightly lower top surface mercury flat entire crossection tube domeshaped top gives slightly less surface area entire mass mercury two effects combine minimize total potential energy surface shape known convex meniscus
+consider surface area entire mass mercury including part surface contact glass mercury adhere glass surface tension mercury acts entire surface area including contact glass instead glass tube made copper situation would different mercury aggressively adheres copper copper tube level mercury center tube lower edges would concave meniscus situation liquid adheres walls container consider part fluids surface area contact container negative surface tension fluid works maximize contact surface area case increasing area contact container decreases rather increases potential energy decrease enough compensate increased potential energy associated lifting fluid near walls container
+tube sufficiently narrow liquid adhesion walls sufficiently strong surface tension draw liquid tube phenomenon known capillary action height column lifted given
+height liquid lifted
+liquidair surface tension
+density liquid
+radius capillary
+acceleration due gravity
+angle contact described greater mercury glass container liquid depressed rather lifted
+puddles surface
+pouring mercury onto horizontal flat sheet glass results puddle perceptible thickness puddle spread point little half centimetre thick thinner due action mercurys strong surface tension liquid mass flattens brings much mercury low level possible surface tension time acting reduce total surface area result compromise puddle nearly fixed thickness
+surface tension demonstration done water lime water even saline surface made substance water adhere wax substance water poured onto smooth flat horizontal wax surface say waxed sheet glass behave similarly mercury poured onto glass
+thickness puddle liquid surface whose contact angle given
+reality thicknesses puddles slightly less predicted formula surfaces contact angle liquid contact angle less thickness given
+mercury glass hg dyncm hg gcm gives hhg cm water paraffin c dyncm gcm gives hho cm
+formula also predicts contact angle liquid spread microthin layer surface surface said fully wettable liquid
+breakup streams drops
+daytoday life us observe stream water emerging faucet break droplets matter smoothly stream emitted faucet due phenomenon called plateaurayleigh instability entirely consequence effects surface tension
+explanation instability begins existence tiny perturbations stream always present matter smooth stream perturbations resolved sinusoidal components find components grow time others decay time among grow time grow faster rates others whether component decays grows fast grows entirely function wave number measure many peaks troughs per centimeter radii original cylindrical stream
+thermodynamics
+stated mechanical work needed increase surface hence constant temperature pressure surface tension equals gibbs free energy per surface area
+gibbs free energy area
+thermodynamics requires spontaneous changes state accompanied decrease gibbs free energy
+easy understand decreasing surface area mass liquid always spontaneous provided coupled energy changes follows order increase surface area certain amount energy must added
+gibbs free energy defined equation enthalpy entropy based upon fact surface tension gibbs free energy per unit area possible obtain following expression entropy per unit area
+kelvins equation surfaces arises rearranging previous equations states surface enthalpy surface energy different surface free energy depends surface tension derivative temperature constant pressure relationship
+thermodynamics soap bubbles
+pressure inside ideal one surface soap bubble derived thermodynamic free energy considerations constant temperature particle number differential helmholtz energy given
+difference pressure inside outside bubble surface tension equilibrium
+spherical bubble volume surface area given simply
+substituting relations previous expression find
+equivalent younglaplace equation rx ry real soap bubbles pressure doubled due presence two interfaces one inside one outside
+influence temperature
+surface tension dependent temperature reason value given surface tension interface temperature must explicitly stated general trend surface tension decreases increase temperature reaching value critical temperature details see etvs rule empirical equations relate surface tension temperature
+etvs
+v molar volume substance tc critical temperature k constant valid almost substances typical value k x j k mol water one use v mlmol tc c
+variant etvs described ramay shields
+temperature offset kelvins provides formula better fit reality lower temperatures
+guggenheimkatayama
+constant liquid n empirical factor whose value organic liquids equation also proposed van der waals proposed could given expression universal constant liquids critical pressure liquid although later experiments found vary degree one liquid another
+guggenheimkatayama etvs take account fact surface tension reaches critical temperature whereas ramay shields fails match reality endpoint
+influence solute concentration
+solutes different effects surface tension depending structure
+little effect example sugar
+increase surface tension inorganic salts
+decrease surface tension progressively alcohols
+decrease surface tension minimum reached effect surfactants
+complicates effect solute exist different concentration surface solvent bulk difference varies one solutesolvent combination another
+gibbs isotherm states
+known surface concentration represents excess solute per unit area surface would present bulk concentration prevailed way surface units molm
+concentration substance bulk solution
+gas constant temperature
+certain assumptions taken deduction therefore gibbs isotherm applied ideal dilute solutions two components
+influence particle size vapor pressure
+clausiusclapeyron relation leads another equation also attributed kelvin kelvin equation explains surface tension vapor pressure small droplets liquid suspension greater standard vapor pressure liquid interface flat say liquid forming small droplets equilibrium concentration vapor surroundings greater arises pressure inside droplet greater outside
+standard vapor pressure liquid temperature pressure
+molar volume
+gas constant
+kelvin radius radius droplets
+effect explains supersaturation vapors absence nucleation sites tiny droplets must form evolve larger droplets requires vapor pressure many times vapor pressure phase transition point
+equation also used catalyst chemistry assess mesoporosity solids
+effect viewed terms average number molecular neighbors surface molecules see diagram
+table shows calculated values effect water different drop sizes
+effect becomes clear small drop sizes drop nm radius molecules inside quantity small enough require quantum mechanics analysis
+data table
+see also
+gallery effects
+notes
+mercury barometer upper liquid surface interface liquid vacuum containing molecules evaporated liquid
+references
+external links
+surface tension interesting realworld cases
+mit lecture notes surface tension
+surface tensions various liquids
+calculation temperaturedependent surface tensions common components
+surface tension calculator aqueous solutions containing ions h nh na k mg ca cl co br oh
+proctor hall new methods measuring surface tension liquids philosophical magazine series link biodiversity heritage library
+bubble wall audio slideshow national high magnetic field laboratory explaining cohesion surface tension hydrogen bonds
+c pfister interface free energy scholarpedia first principles statistical mechanics

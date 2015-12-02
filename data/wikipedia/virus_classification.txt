@@ -1,0 +1,147 @@
+virus classification is the process of naming viruses and placing them into a taxonomic system similar to the classification systems used for cellular organisms virus classification is the subject of ongoing debate and proposals this is mainly due to the pseudo-living nature of viruses which is to say they are non-living particles with some chemical characteristics similar to those of life as such they do not fit neatly into the established biological classification system in place for cellular organisms
+viruses are mainly classified by phenotypic characteristics such as morphology nucleic acid type mode of replication host organisms and the type of disease they cause currently two main schemes are used for the classification of viruses: the international committee on taxonomy of viruses (ictv) system and baltimore classification system which places viruses into one of seven groups accompanying this broad method of classification are specific naming conventions and further classification guidelines set out by the ictv
+a catalog of all the world's viruses has been proposed; some related preliminary efforts have been accomplished
+== virus species definition ==
+species form the basis for any biological classification system the ictv had adopted the principle that a virus species is a polythetic class of viruses that constitutes a replicating lineage and occupies a particular ecological niche in july 2013 the ictv definition of species changed to state: "a species is a monophyletic group of viruses whose properties can be distinguished from those of other species by multiple criteria."
+== ictv classification ==
+the international committee on taxonomy of viruses began to devise and implement rules for the naming and classification of viruses early in the 1970s an effort that continues to the present the ictv is the only body charged by the international union of microbiological societies with the task of developing refining and maintaining a universal virus taxonomy
+the system shares many features with the classification system of cellular organisms such as taxon structure however this system of nomenclature differs from other taxonomic codes on several points a minor point is that names of orders and families are italicized unlike in the international code of nomenclature for algae fungi and plants and international code of zoological nomenclature
+viral classification starts at the level of order and continues as follows with the taxon suffixes given in italics:
+order (-virales)
+family (-viridae)
+subfamily (-virinae)
+genus (-virus)
+species
+species names generally take the form of [disease] virus
+the establishment of an order is based on the inference that the virus families it contains have most likely evolved from a common ancestor the majority of virus families remain unplaced currently (2012) seven orders 96 families 22 subfamilies 420 genera and 2,618 species of viruses have been defined by the ictv the orders are the caudovirales herpesvirales ligamenvirales mononegavirales nidovirales picornavirales and tymovirales these orders span viruses with varying host ranges the ligamenvirales infecting archaea are the most recent addition to the classification system
+caudovirales are tailed dsdna (group i) bacteriophages
+herpesvirales contain large eukaryotic dsdna viruses
+ligamenvirales contains linear dsdna (group i) archaean viruses
+mononegavirales include nonsegmented (-) strand ssrna (group v) plant and animal viruses
+nidovirales are composed of (+) strand ssrna (group iv) viruses with vertebrate hosts
+picornavirales contains small (+) strand ssrna viruses that infect a variety of plant insect and animal hosts
+tymovirales contain monopartite (+) ssrna viruses that infect plants
+other variations occur between the orders: nidovirales for example are isolated for their differentiation in expressing structural and nonstructural proteins separately
+== structure-based virus classification ==
+it has been suggested that similarity in virion assembly and structure observed for certain viral groups infecting hosts from different domains of life (e.g. bacterial tectiviruses and eukaryotic adenoviruses or prokaryotic caudovirales and eukaryotic herpesviruses) reflects an evolutionary relationship between these viruses therefore structural relationship between viruses has been suggested to be used as a basis for defining higher-level taxa - structure-based viral lineages - that could complement the existing ictv classification scheme
+== baltimore classification ==
+baltimore classification (first defined in 1971) is a classification system that places viruses into one of seven groups depending on a combination of their nucleic acid (dna or rna) strandedness (single-stranded or double-stranded) sense and method of replication named after david baltimore a nobel prize-winning biologist these groups are designated by roman numerals other classifications are determined by the disease caused by the virus or its morphology neither of which are satisfactory due to different viruses either causing the same disease or looking very similar in addition viral structures are often difficult to determine under the microscope classifying viruses according to their genome means that those in a given category will all behave in a similar fashion offering some indication of how to proceed with further research viruses can be placed in one of the seven following groups:
+i: dsdna viruses (e.g adenoviruses herpesviruses poxviruses)
+ii: ssdna viruses (+ strand or "sense") dna (e.g parvoviruses)
+iii: dsrna viruses (e.g reoviruses)
+iv: (+)ssrna viruses (+ strand or sense) rna (e.g picornaviruses togaviruses)
+v: ()ssrna viruses ( strand or antisense) rna (e.g orthomyxoviruses rhabdoviruses)
+vi: ssrna-rt viruses (+ strand or sense) rna with dna intermediate in life-cycle (e.g retroviruses)
+vii: dsdna-rt viruses (e.g hepadnaviruses)
+=== dna viruses ===
+group i: viruses possess double-stranded dna viruses that cause chickenpox and herpes are found here
+group ii: viruses possess single-stranded dna
+=== rna viruses ===
+group iii: viruses possess double-stranded rna genomes e.g rotavirus
+group iv: viruses possess positive-sense single-stranded rna genomes many well known viruses are found in this group including the picornaviruses (which is a family of viruses that includes well-known viruses like hepatitis a virus enteroviruses rhinoviruses poliovirus and foot-and-mouth virus) sars virus hepatitis c virus yellow fever virus and rubella virus
+group v: viruses possess negative-sense single-stranded rna genomes the deadly ebola and marburg viruses are well known members of this group along with influenza virus measles mumps and rabies
+=== reverse transcribing viruses ===
+group vi: viruses possess single-stranded rna viruses that replicate through a dna intermediate the retroviruses are included in this group of which hiv is a member
+group vii: viruses possess double-stranded dna genomes and replicate using reverse transcriptase the hepatitis b virus can be found in this group
+== holmes classification ==
+holmes (1948) used carl linnaeus's system of binomial nomenclature to classify viruses into 3 groups under one order virales they are placed as follows:
+group i: phaginae (attacks bacteria)
+group ii: phytophaginae (attacks plants)
+group iii: zoophaginae (attacks animals)
+== lht system of virus classification ==
+the lht system of virus classification is based on chemical and physical characters like nucleic acid (dna or rna) symmetry (helical or icosahedral or complex) presence of envelope diameter of capsid number of capsomers this classification was approved by the provisional committee on nomenclature of virus (pnvc) of the international association of microbiological societies (1962) it is as follows:
+phylum vira (divided into 2 subphyla)
+subphylum deoxyvira (dna viruses)
+class deoxybinala (dual symmetry)
+order urovirales
+family phagoviridae
+class deoxyhelica (helical symmetry)
+order chitovirales
+family poxviridae
+class deoxycubica (cubical symmetry)
+order peplovirales
+family herpesviridae (162 capsomeres)
+order haplovirales (no envelope)
+family iridoviridae (812 capsomeres)
+family adenoviridae (252 capsomeres)
+family papiloviridae (72 capsomeres)
+family paroviridae (32 capsomeres)
+family microviridae (12 capsomeres)
+subphylum ribovira (rna viruses)
+class ribocubica
+order togovirales
+family arboviridae
+order lymovirales
+family napoviridae
+family reoviridae
+class ribohelica
+order sagovirales
+family stomataviridae
+family paramyxoviridae
+family myxoviridae
+order rhabdovirales
+suborder flexiviridales
+family mesoviridae
+family peptoviridae
+suborder rigidovirales
+family pachyviridae
+family protoviridae
+family polichoviridae
+== subviral agents ==
+the following agents are smaller than viruses but have only some of their properties
+=== viroids ===
+family avsunviroidaegenus avsunviroid; type species: avocado sunblotch viroid
+genus pelamoviroid; type species: peach latent mosaic viroid
+genus elaviroid; type species: eggplant latent viroid
+family pospiviroidaegenus pospiviroid; type species: potato spindle tuber viroid
+genus hostuviroid; type species: hop stunt viroid
+genus cocadviroid; type species: coconut cadang-cadang viroid
+genus apscaviroid; type species: apple scar skin viroid
+genus coleviroid; type species: coleus blumei viroid 1
+=== satellites ===
+satellites depend on co-infection of a host cell with a helper virus for productive multiplication their nucleic acids have substantially distinct nucleotide sequences from either their helper virus or host when a satellite subviral agent encodes the coat protein in which it is encapsulated it is then called a satellite virus
+satellite virusessingle-stranded rna satellite viruses
+subgroup 1: chronic bee-paralysis satellite virus
+subgroup 2: tobacco necrosis satellite virus
+double-stranded dna satellite viruses (virophages)
+satellite nucleic acids
+single-stranded satellite dnas
+double-stranded satellite rnas
+single-stranded satellite rnas
+subgroup 1: large satellite rnas
+subgroup 2: small linear satellite rnas
+subgroup 3: circular satellite rnas (virusoids)
+=== prions ===
+prions named for their description as "proteinaceous and infectious particles" lack any detectable (as of 2002) nucleic acids or virus-like particles they resist inactivation procedures that normally affect nucleic acids
+mammalian prions:
+agents of spongiform encephalopathies
+fungal prions:
+psi+ prion of saccharomyces cerevisiae
+ure3 prion of saccharomyces cerevisiae
+rnq/pin+ prion of saccharomyces cerevisiae
+het-s prion of podospora anserina
+=== defective interfering particles ===
+defective interfering rna
+defective interfering dna
+== see also ==
+== notes ==
+^ zimmer carl (5 september 2013) "a catalog for all the worlds viruses?" new york times retrieved 6 september 2013
+^ witzany g (ed) (2012) viruses: essential agents of life springer isbn 978-94-007-4898-9
+^ adams mj; lefkowitz ej; king amq; carstens eb (2013) "recently agreed changes to the international code of virus classification and nomenclature" arch virol doi:10.1007/s00705-013-1749-9
+^ the virus species concept: introduction virus taxonomy online: seventh report of the international committee on taxonomy of viruses 2000 retrieved on 2007-07-14
+^ a b ictv home
+^ ictv virus taxonomy 2012
+^ prangishvili d krupovic m (2012) "a new proposed taxon for double-stranded dna viruses the order "ligamenvirales"" arch virol 157 (4): 791795 doi:10.1007/s00705-012-1229-7 pmid 22270758
+^ bamford dh (2003) "do viruses form lineages across different domains of life?" res microbiol 154 (4): 231236 doi:10.1016/s0923-2508(03)00065-2 pmid 12798226
+^ krupovic m bamford dh (2010) "order to the viral universe" (pdf) j virol 84 (24): 1247612479 doi:10.1128/jvi.01489-10 pmc 3004316 pmid 20926569
+^ "baltimore classification of viruses" (website.) molecular biology web book - http://web-books.com/ retrieved on 2008-08-18
+^ lwoff a horne r tournier p (1962) "a system of viruses" cold spring harb symp quant biol 27: 515 doi:10.1101/sqb.1962.027.001.008 pmid 13931895
+^ "80.002 avsunviroidae - ictvdb index of viruses." (website.) u.s national institutes of health website retrieved on 2007-09-27
+^ "80.001 popsiviroidae - ictvdb index of viruses." (website.) u.s national institutes of health website retrieved on 2007-09-27
+^ "81 satellites - ictvdb index of viruses." (website.) u.s national institutes of health website retrieved on 2007-09-27
+^ "90 prions - ictvdb index of viruses." (website.) u.s national institutes of health website retrieved on 2007-09-27
+== external links ==
+ictv web site
+ictv international committee on taxonomy of viruses master species list 2009 version 10 (this is version was published on august 24 2011)
+the baltimore method
+virus pathogen database and analysis resource (vipr)

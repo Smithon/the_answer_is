@@ -1,0 +1,53 @@
+a thermochemical equation is a balanced stoichiometric chemical equation that includes the enthalpy change h in variable form a thermochemical equation would look like this:
+a + b c
+h = () #
+where {a b c} are the usual agents of a chemical equation with coefficients and () # is a positive or negative numerical value usually with units of kj
+== understanding aspects of thermochemical equations ==
+enthalpy (h) is the transfer of energy in a reaction (for chemical reactions it is in the form of heat) and h is the change in enthalpy h is a state function being a state function means that h is independent of the processes between initial and final states in other words it does not matter what steps we take to get from initial reactants to final productsthe h will always be the same hrxn or the change in enthalpy of a reaction has the same value of h as in a thermochemical equation but is in units of kj/mol being that it is the enthalpy change per moles of any particular substance in the equation values of h are determined experimentally under standard conditions of 1atm and 25 c (298.15k)
+as discussed earlier h can have a positive or negative sign a positive sign means that the system uses heat and is endothermic the negative value means that heat is produced and the system is exothermic
+endothermic: a + b + heat c h > 0
+exothermic: a + b c + heat h < 0
+since enthalpy is a state function the h given for a particular reaction is only true for that exact reaction physical states (of reactants or products) matter as do molar concentrations
+this matter of h being dependent on physical state and molar concentration means that thermochemical equations must be stoichiometrically correct if one agent of the equation is changed through multiplication then all agents must be proportionally changed including h (see manipulating thermochemical equations below.)
+thermochemical equations multiplicative property is largely due to the first law of thermodynamics which says that energy can be neither created nor destroyed a concept commonly known as the conservation of energy it holds true on a physical or molecular scale
+== manipulating thermochemical equations ==
+=== coefficient multiplication ===
+thermochemical equations can be changed as mentioned above by multiplying by any numerical coefficient all agents must be multiplied including h using our thermochemical equation of variables as above we get the following example
+a + b c
+h= () #
+lets say that we need to multiply a by two in order to use the thermochemical equation (as in addition below) we must then multiply all the agents in the reaction by the same coefficient like so:
+2a + 2b 2c
+2h= 2[() #]
+this is again logical when the first law of thermodynamics is considered twice as much product is produced so twice as much heat is removed or given off
+it should also be noted that division of coefficients works in the same way
+=== hesss law: addition of thermochemical equations ===
+hesss law states that the sum of the energy changes of all the thermochemical equations included in an overall reaction is equal to the overall energy change since h is a state function and so is not dependent on how the reactants become the products we can use several steps (in the form of several thermochemical equations) to find the h of the overall reaction
+example:
+reaction (1) c(graphite s) + o2(g) co2(g)
+this reaction comes about via two steps (a reaction sequence):
+c(graphite s) + o2(g) co(g)
+h = 110.5 kj
+co(g) + o2(g) co2(g)
+h = 283.0 kj
+we want to add these two reactions together to get reaction (1) so that we can find h so we check to make sure that agents in the reaction sequence not present in (1) cancel each other in this example co(g) is not in (1) and cancels we add the reaction sequence together
+c(graphite s) + 1o2(g) + o2(g) co2(g)
+or
+c(graphite s) + o2(g) co2(g) reaction (1)
+to figure out h we add the h of the two equations in the reaction sequence:
+(110.5 kj) + (283.0 kj) = (393.5 kj) = h of reaction (1)
+=== some things to remember ===
+if you have to reverse a reaction to get things to cancel the sign of h must also be reversed
+if you have to multiply an agent to get it to cancel all other agents and h must also be multiplied by that number
+generally h values given in tables are under 1atm and 25 c (298.15 k) so be aware of what conditions your reaction is under
+== where to find values of h ==
+values of h have been experimentally determined and are available in table form most general chemistry textbooks have appendixes including common h values there are several online tables available for more extensive information there is software offered with active thermochemical tables (atct) available online
+== see also ==
+chemistry
+thermochemistry
+chemical reaction
+enthalpy
+== references ==
+atkins peter and loretta jones 2005 chemical principles the quest for insight (3rd edition) w h freeman and co. new york ny
+== external links ==
+general chemistry information index: http://chemistry.about.com/library/blazlist4.htm
+further step by step help on hesss law: http://members.aol.com/profchm/hess.html

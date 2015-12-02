@@ -1,0 +1,98 @@
+mineralogy crystallography crystal structure unique arrangement atoms ions molecules crystalline liquid solid describes highly ordered structure occurring due intrinsic nature constituents form symmetric patterns
+box thought array small boxes infinitely repeating three spatial directions unit cell smallest unit volume contains structural symmetry information buildup macroscopic structure lattice translation
+patterns located upon points lattice array points repeating periodically three dimensions lengths edges unit cell angles called lattice parameters symmetry properties crystal embodied space group
+crystals structure symmetry play role determining many physical properties cleavage electronic band structure optical transparency
+unit celledit
+crystal structure material arrangement atoms within given type crystal described terms unit cell unit cell small box containing one atoms arranged dimensions unit cells stacked threedimensional space describe bulk arrangement atoms crystal unit cell represented terms lattice parameters lengths cell edges ab c angles alpha beta gamma positions atoms inside unit cell described set atomic positions xi yi zi measured lattice point commonly atomic positions represented terms fractional coordinates relative unit cell lengths
+atom positions within unit cell calculated application symmetry operations asymmetric unit asymmetric unit refers smallest possible occupation space within unit cell however imply entirety asymmetric unit must lie within boundaries unit cell symmetric transformations atom positions calculated space group crystal structure usually black box operation performed computer programs however manual calculation atomic positions within unit cell performed asymmetric unit application symmetry operators described within international tables crystallography volume
+miller indicesedit
+vectors atomic planes crystal lattice described threevalue miller index notation mn m n directional indices separated thus orthogonal
+definition mn denotes plane intercepts three points multiple thereof miller indices proportional inverses intercepts plane unit cell basis lattice vectors one indices zero means planes intersect axis ie intercept infinity plane containing coordinate axis translated longer contains axis miller indices determined miller indices plane integers common factors negative indices indicated horizontal bars orthogonal coordinate system cubic cell miller indices plane cartesian components vector normal plane
+considering mn planes intersecting one lattice points lattice planes distance d adjacent lattice planes related shortest reciprocal lattice vector orthogonal planes formula
+planes directionsedit
+crystallographic directions geometric lines linking nodes atoms ions molecules crystal likewise crystallographic planes geometric planes linking nodes directions planes higher density nodes high density planes influence behavior crystal follows
+optical properties refractive index directly related density periodic density fluctuations
+adsorption reactivity physical adsorption chemical reactions occur near surface atoms molecules phenomena thus sensitive density nodes
+surface tension condensation material means atoms ions molecules stable surrounded similar species surface tension interface thus varies according density surface
+microstructural defects pores crystallites tend straight grain boundaries following higher density planes
+cleavage typically occurs preferentially parallel higher density planes
+plastic deformation dislocation glide occurs preferentially parallel higher density planes perturbation carried dislocation burgers vector along dense direction shift one node dense direction requires lesser distortion crystal lattice
+directions planes defined symmetry crystal system monoclinic rombohedral tetragonal trigonalhexagonal systems one unique axis sometimes called principal axis higher rotational symmetry two axes basal plane plane perpendicular principal axis crystal systems triclinic orthorhombic cubic crystal systems axis designation arbitrary principal axis
+cubic structuresedit
+special case simple cubic crystals lattice vectors orthogonal equal length usually denoted similarly reciprocal lattice common case miller indices mn mn simply denote normalsdirections cartesian coordinates cubic crystals lattice constant spacing d adjacent mn lattice planes
+symmetry cubic crystals possible change place sign integers equivalent directions planes
+coordinates angle brackets denote family directions equivalent due symmetry operations negative directions
+coordinates curly brackets braces denote family plane normals equivalent due symmetry operations much way angle brackets denote family directions
+facecentered cubic fcc bodycentered cubic bcc lattices primitive lattice vectors orthogonal however cases miller indices conventionally defined relative lattice vectors cubic supercell hence simply cartesian directions
+classificationedit
+defining property crystal inherent symmetry mean certain operations crystal remains unchanged crystals translational symmetry three directions symmetry elements well example rotating crystal certain axis may result atomic configuration identical original configuration crystal said twofold rotational symmetry axis addition rotational symmetries like crystal may symmetries form mirror planes translational symmetries also socalled compound symmetries combination translation rotationmirror symmetries full classification crystal achieved inherent symmetries crystal identified
+lattice systemsedit
+lattice systems grouping crystal structures according axial system used describe lattice lattice system consists set three axes particular geometric arrangement seven lattice systems similar quite seven crystal systems six crystal families
+simplest symmetric cubic isometric system symmetry cube exhibits four threefold rotational axes oriented tetrahedral angle respect threefold axes lie along body diagonals cube six lattice systems hexagonal tetragonal rhombohedral often confused trigonal crystal system orthorhombic monoclinic triclinic
+reciprocal spacingedit
+spacing d adjacent hkl lattice planes
+cubic
+tetragonal
+hexagonal
+rhombohedral
+orthorhombic
+monoclinic
+atomic coordinationedit
+considering arrangement atoms relative coordination numbers number nearest neighbors interatomic distances types bonding etc possible form general view structures alternative ways visualizing
+close packingedit
+principles involved understood considering efficient way packing together equalsized spheres stacking closepacked atomic planes three dimensions example plane lies beneath plane b two possible ways placing additional atom top layer b additional layer placed directly plane would give rise following series
+abababab
+arrangement atoms crystal structure known hexagonal close packing hcp
+however three planes staggered relative fourth layer positioned directly plane sequence repeated following sequence arises
+abcabcabc
+type structural arrangement known cubic close packing ccp
+unit cell ccp arrangement atoms facecentered cubic fcc unit cell immediately obvious closely packed layers parallel planes fcc unit cell four different orientations closepacked layers
+packing efficiency worked calculating total volume spheres dividing volume cell follows
+packing efficiency maximum density possible unit cells constructed spheres one size crystalline forms metallic elements hcp fcc bcc bodycentered cubic coordination number atoms hcp fcc structures atomic packing factor apf number mentioned compared apf bcc structure
+bravais latticesedit
+crystal systems combined various possible lattice centerings arrive bravais lattices describe geometric arrangement lattice points thereby translational symmetry crystal three dimensions unique bravais lattices distinct one another translational symmetry contain crystalline materials recognized including quasicrystals fit one arrangements fourteen threedimensional lattices classified crystal system shown bravais lattices sometimes referred space lattices
+crystal structure consists group atoms basis positioned around every lattice point group atoms therefore repeats indefinitely three dimensions according arrangement one bravais lattices characteristic rotation mirror symmetries group atoms unit cell described crystallographic point group
+point groupsedit
+crystallographic point group crystal class mathematical group comprising symmetry operations leave least one point unmoved leave appearance crystal structure unchanged symmetry operations include
+reflection reflects structure across reflection plane
+rotation rotates structure specified portion circle rotation axis
+inversion changes sign coordinate point respect center symmetry inversion point
+improper rotation consists rotation axis followed inversion
+rotation axes proper improper reflection planes centers symmetry collectively called symmetry elements possible crystal classes one classified one seven crystal systems
+space groupsedit
+addition operations point group space group crystal structure contains translational symmetry operations include
+pure translations move point along vector
+screw axes rotate point around axis translating parallel axis
+glide planes reflect point plane translating parallel plane
+distinct space groups
+grain boundariesedit
+grain boundaries interfaces crystals different orientations meet grain boundary singlephase interface crystals side boundary identical except orientation term crystallite boundary sometimes though rarely used grain boundary areas contain atoms perturbed original lattice sites dislocations impurities migrated lower energy grain boundary
+treating grain boundary geometrically interface single crystal cut two parts one rotated see five variables required define grain boundary first two numbers come unit vector specifies rotation axis third number designates angle rotation grain final two numbers specify plane grain boundary unit vector normal plane
+grain boundaries disrupt motion dislocations material reducing crystallite size common way improve strength described hallpetch relationship since grain boundaries defects crystal structure tend decrease electrical thermal conductivity material high interfacial energy relatively weak bonding grain boundaries often makes preferred sites onset corrosion precipitation new phases solid also important many mechanisms creep
+grain boundaries general nanometers wide common materials crystallites large enough grain boundaries account small fraction material however small grain sizes achievable nanocrystalline solids grain boundaries become significant volume fraction material profound effects properties diffusion plasticity limit small crystallites volume fraction grain boundaries approaches material ceases crystalline character thus becomes amorphous solid
+defects impuritiesedit
+real crystals feature defects irregularities ideal arrangements described defects critically determine many electrical mechanical properties real materials one atom substitutes one principal atomic components within crystal structure alteration electrical thermal properties material may ensue impurities may also manifest spin impurities certain materials research magnetic impurities demonstrates substantial alteration certain properties specific heat may affected small concentrations impurity example impurities semiconducting ferromagnetic alloys may lead different properties first predicted late dislocations crystal lattice allow shear lower stress needed perfect crystal structure
+prediction structureedit
+difficulty predicting stable crystal structures based knowledge chemical composition long stumbling block way fully computational materials design powerful algorithms highperformance computing structures medium complexity predicted using approaches evolutionary algorithms random sampling metadynamics
+crystal structures simple ionic solids eg nacl table salt long rationalized terms paulings rules first set linus pauling referred many since father chemical bond pauling also considered nature interatomic forces metals concluded half five dorbitals transition metals involved bonding remaining nonbonding dorbitals responsible magnetic properties therefore able correlate number dorbitals bond formation bond length well many physical properties substance subsequently introduced metallic orbital extra orbital necessary permit uninhibited resonance valence bonds among various electronic structures
+resonating valence bond theory factors determine choice one among alternative crystal structures metal intermetallic compound revolve around energy resonance bonds among interatomic positions clear modes resonance would make larger contributions mechanically stable others particular simple ratio number bonds number positions would exceptional resulting principle special stability associated simplest ratios bond numbers etc choice structure value axial ratio determines relative bond lengths thus result effort atom use valency formation stable bonds simple fractional bond numbers
+postulating direct correlation electron concentration crystal structure betaphase alloys humerothery analyzed trends melting points compressibilities bond lengths function group number periodic table order establish system valencies transition elements metallic state treatment thus emphasized increasing bond strength function group number operation directional forces emphasized one article relation bond hybrids metallic structures resulting correlation electronic crystalline structures summarized single parameter weight delectrons per hybridized metallic orbital dweight calculates fcc hcp bcc structures respectively relationship delectrons crystal structure thus becomes apparent
+polymorphismedit
+polymorphism refers ability solid exist one crystalline form structure according gibbs rules phase equilibria unique crystalline phases dependent intensive variables pressure temperature polymorphism potentially found many crystalline materials including polymers minerals metals related allotropy refers elemental solids complete morphology material described polymorphism variables crystal habit amorphous fraction crystallographic defects polymorphs different stabilities may spontaneously convert metastable form thermodynamically unstable form stable form particular temperature also exhibit different melting points solubilities xray diffraction patterns
+one good example quartz form silicon dioxide sio vast majority silicates si atom shows tetrahedral coordination oxygens one crystalline forms involve tetrahedral sio units linked together shared vertices different arrangements different minerals tetrahedra show different degrees networking polymerization example occur singly joined together pairs larger finite clusters including rings chains double chains sheets threedimensional frameworks minerals classified groups based structures thermodynamically stable crystalline forms polymorphs crystalline quartz edges sio tetrahedra shared others yielding net chemical formula silica sio
+another example elemental tin sn malleable near ambient temperatures brittle cooled change mechanical properties due existence two major allotropes tin two allotropes encountered normal pressure temperature tin tin commonly known gray tin white tin respectively two allotropes exist temperatures c pressures several gpa white tin metallic stable crystalline form room temperature c tin exists gray form diamond cubic crystal structure similar diamond silicon germanium gray tin metallic properties dullgray powdery material uses specialized semiconductor applications although transformation temperature tin nominally c impurities eg al zn etc lower transition temperature well c upon addition sb bi transformation may occur
+physical propertiesedit
+twenty crystal classes piezoelectric crystals belonging one classes point groups display piezoelectricity piezoelectric classes lack centre symmetry material develops dielectric polarization electric field applied substance natural charge separation even absence field called polar material whether material polar determined solely crystal structure point groups polar polar crystals pyroelectric polar crystal classes sometimes referred pyroelectric classes
+crystal structures notably perovskite structure exhibit ferroelectric behavior analogous ferromagnetism absence electric field production ferroelectric crystal exhibit polarization upon application electric field sufficient magnitude crystal becomes permanently polarized polarization reversed sufficiently large countercharge way ferromagnet reversed however although called ferroelectrics effect due crystal structure presence ferrous metal
+see alsoedit
+referencesedit
+external linksedit
+internal structure crystals crystallography beginners
+appendix manual atoms software xafs
+intro minerals crystal class system
+introduction crystallography mineral crystal systems
+crystal planes miller indices
+interactive d crystal models
+specific crystal d models
+crystallography open database crystal structures
+crystal lattice structures crystal structure web sites

@@ -1,0 +1,26 @@
+enantiomeric excess (ee) is a measurement of purity used for chiral substances it reflects the degree to which a sample contains one enantiomer in greater amounts than the other a racemic mixture has an ee of 0% while a single completely pure enantiomer has an ee of 100% a sample with 70% of one enantiomer and 30% of the other has an ee of 40%
+== definition ==
+enantiomeric excess is defined as the absolute difference between the mole fraction of each enantiomer:
+where
+in practice it is most often expressed as a percent enantiomeric excess
+(1)
+the enantiomeric excess can be determined in another way if we know the amount of each enantiomer produced if one knows the moles of each enantiomer produced then:
+(2)
+and are the respective fractions of enantiomers in a mixture such that
+enantiomeric excess is used as one of the indicators of the success of an asymmetric synthesis for mixtures of diastereomers there are analogous definitions and uses for diastereomeric excess and percent diastereomeric excess
+as an example a sample with 70% of r isomer and 30% of s will have an enantiomeric excess of 40% this can also be thought of as a mixture of 40% pure r with 60% of a racemic mixture (which contributes 30% r and 30% s to the overall composition)
+if given the enantiomeric excess of a mixture the fraction of the major isomer say  can be determined using and the minor isomer 
+a non-racemic mixture of two enantiomers will have a net optical rotation it is possible to determine the specific rotation of the mixture and with knowledge of the specific rotation of the pure enantiomer the optical purity can be determined
+ideally the contribution of each component of the mixture to the total optical rotation is directly proportional to its mole fraction and as a result the numerical value of the optical purity is identical to the enantiomeric excess this has led to informal use the two terms as interchangeable especially because optical purity was the traditional way of measuring enantiomeric excess however other methods such as chiral column chromatography and nmr spectroscopy can now be used for measuring the amount of each enantiomer individually
+the ideal equivalence between enantiomeric excess and optical purity does not always hold for example
+the specific rotation of (s)-2-ethyl-2-methyl succinic acid is found to be dependent on concentration
+in what is known as the horeau effect the relationship between mole based ee and optical rotation based ee can be non-linear i.d in the succinic acid example the optical activity at 50% ee is lower than expected
+the specific rotation of enantiopure 1-phenylethanol can be enhanced by the addition of achiral acetophenone as an impurity
+the term enantiomeric excess was introduced in 1971 by morrison and mosher in their publication asymmetric organic reactions the use of enantiomeric excess has established itself because of its historic ties with optical rotation it has been suggested that the concept of ee should be replaced by that of er which stands for enantiomeric ratio or er (s:r) or q (s/r) because determination of optical purity has been replaced by other techniques which directly measure r and s and because it simplifies mathematical treatments such as the calculation of equilibrium constants and relative reaction rates the same arguments are valid for changing diastereomeric excess (de) to diastereomeric ratio (dr)
+== references ==
+^ iupac compendium of chemical terminology 2nd ed (the "gold book") (1997) online corrected version: (1996) "enantiomer excess"
+^ iupac compendium of chemical terminology 2nd ed (the "gold book") (1997) online corrected version: (1996) "optical purity"
+^ j.p vigneron m dhaenens a horeau nouvelle methode pour porter au maximum la purete optique d'un produit partiellement dedouble sans l'aide d'aucune substance chirale tetrahedron volume 29 issue 7 1973 pages 1055-1059 issn 0040-4020 doi:10.1016/0040-4020(73)80060-2
+^ yamaguchi s.; mosher h s (1973) "asymmetric reductions with chiral reagents from lithium aluminum hydride and (+)-(2s,3r)-4-dimethylamino-3-methyl-1,2-diphenyl-2-butanol" journal of organic chemistry 38 (10): 18701877 doi:10.1021/jo00950a020
+^ morrison james d.; mosher harry s.: asymmetric organic reactions prentice-hall englewood cliff new jersey 1971 (isbn 0130495514)
+^ do the terms "% ee" and "% de" make sense as expressions of stereoisomer composition or stereoselectivity robert e gawley j org chem.; 2006; 71(6) pp 2411 - 2416; doi:10.1021/jo052554w

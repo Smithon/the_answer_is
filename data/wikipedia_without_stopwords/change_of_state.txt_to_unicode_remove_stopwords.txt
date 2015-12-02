@@ -1,0 +1,104 @@
+phase transition transformation thermodynamic system one phase state matter another one heat transfer term commonly used describe transitions solid liquid gaseous states matter rare cases plasma phase thermodynamic system states matter uniform physical properties phase transition given medium certain properties medium change often discontinuously result change external condition temperature pressure others example liquid may become gas upon heating boiling point resulting abrupt change volume measurement external conditions transformation occurs termed phase transition phase transitions common nature used today many technologies
+types phase transition
+examples phase transitions include
+transitions solid liquid gaseous phases single component due effects temperature andor pressure
+see also vapor pressure phase diagram
+eutectic transformation two component single phase liquid cooled transforms two solid phases process beginning solid instead liquid called eutectoid transformation
+peritectic transformation two component single phase solid heated transforms solid phase liquid phase
+spinodal decomposition single phase cooled separates two different compositions phase
+transition mesophase solid liquid one liquid crystal phases
+transition ferromagnetic paramagnetic phases magnetic materials curie point
+transition differently ordered commensurate incommensurate magnetic structures cerium antimonide
+martensitic transformation occurs one many phase transformations carbon steel stands model displacive phase transformations
+changes crystallographic structure ferrite austenite iron
+orderdisorder transitions alphatitanium aluminides
+dependence adsorption geometry coverage temperature hydrogen iron
+emergence superconductivity certain metals ceramics cooled critical temperature
+transition different molecular structures polymorphs allotropes polyamorphs especially solids amorphous structure crystal structure two different crystal structures two amorphous structures
+quantum condensation bosonic fluids boseeinstein condensation superfluid transition liquid helium example
+breaking symmetries laws physics early history universe temperature cooled
+isotope fractionation occurs phase transition ratio light heavy isotopes involved molecules changes water vapor condenses equilibrium fractionation heavier water isotopes o h become enriched liquid phase lighter isotopes o h tend toward vapor phase
+phase transitions occur thermodynamic free energy system nonanalytic choice thermodynamic variables cf phases condition generally stems interactions large number particles system appear systems small important note phase transitions occur defined nonthermodynamic systems temperature parameter examples include quantum phase transitions dynamic phase transitions topological structural phase transitions types systems parameters take place temperature instance connection probability replaces temperature percolating networks
+phase transition point instance boiling point two phases substance liquid vapor identical free energies therefore equally likely exist boiling point liquid stable state two whereas gaseous form preferred
+sometimes possible change state system diabatically opposed adiabatically way brought past phase transition point without undergoing phase transition resulting state metastable ie less stable phase transition would occurred unstable either occurs superheating supercooling supersaturation example
+classifications
+ehrenfest classification
+paul ehrenfest classified phase transitions based behavior thermodynamic free energy function thermodynamic variables scheme phase transitions labeled lowest derivative free energy discontinuous transition firstorder phase transitions exhibit discontinuity first derivative free energy respect thermodynamic variable various solidliquidgas transitions classified firstorder transitions involve discontinuous change density first derivative free energy respect chemical potential secondorder phase transitions continuous first derivative order parameter first derivative free energy respect external field continuous across transition exhibit discontinuity second derivative free energy include ferromagnetic phase transition materials iron magnetization first derivative free energy respect applied magnetic field strength increases continuously zero temperature lowered curie temperature magnetic susceptibility second derivative free energy field changes discontinuously ehrenfest classification scheme could principle third fourth higherorder phase transitions
+though useful ehrenfests classification found inaccurate method classifying phase transitions take account case derivative free energy diverges possible thermodynamic limit instance ferromagnetic transition heat capacity diverges infinity
+modern classifications
+modern classification scheme phase transitions divided two broad categories named similarly ehrenfest classes
+firstorder phase transitions involve latent heat transition system either absorbs releases fixed typically large amount energy per volume process temperature system stay constant heat added system mixedphase regime parts system completed transition others familiar examples melting ice boiling water water instantly turn vapor forms turbulent mixture liquid water vapor bubbles imry wortis showed quenched disorder broaden firstorder transition transformation completed finite range temperatures phenomena like supercooling superheating survive hysteresis observed thermal cycling
+secondorder phase transitions also called continuous phase transitions characterized divergent susceptibility infinite correlation length powerlaw decay correlations near criticality examples secondorder phase transitions ferromagnetic transition superconducting transition typei superconductor phase transition secondorder zero external field typeii superconductor phase transition secondorder normal statemixed state mixed statesuperconducting state transitions superfluid transition contrast viscosity thermal expansion heat capacity amorphous materials show relatively sudden change glass transition temperature enables accurate detection using differential scanning calorimetry measurements lev landau gave phenomenological theory secondorder phase transitions
+apart isolated simple phase transitions exist transition lines well multicritical points varying external parameters like magnetic field composition
+several transitions known infiniteorder phase transitions continuous break symmetries famous example kosterlitzthouless transition twodimensional xy model many quantum phase transitions eg twodimensional electron gases belong class
+liquidglass transition observed many polymers liquids supercooled far melting point crystalline phase atypical several respects transition thermodynamic ground states widely believed true ground state always crystalline glass quenched disorder state entropy density depend thermal history therefore glass transition primarily dynamic phenomenon cooling liquid internal degrees freedom successively fall equilibrium theoretical methods predict underlying phase transition hypothetical limit infinitely long relaxation times direct experimental evidence supports existence transitions
+characteristic properties
+phase coexistence
+disorderbroadened firstorder transition occurs finite range temperatures fraction lowtemperature equilibrium phase grows zero one temperature lowered continuous variation coexisting fractions temperature raised interesting possibilities cooling liquids vitrify glass rather transform equilibrium crystal phase happens cooling rate faster critical cooling rate attributed molecular motions becoming slow molecules cannot rearrange crystal positions slowing happens glassformation temperature tg may depend applied pressure firstorder freezing transition occurs range temperatures tg falls within range interesting possibility transition arrested partial incomplete extending ideas firstorder magnetic transitions arrested low temperatures resulted observation incomplete magnetic transitions two magnetic phases coexisting lowest temperature first reported case ferromagnetic antiferromagnetic transition persistent phase coexistence reported across variety firstorder magnetic transitions include colossalmagnetoresistance manganite materials magnetocaloric materials magnetic shape memory materials materials interesting feature observations tg falling within temperature range transition occurs firstorder magnetic transition influenced magnetic field like structural transition influenced pressure relative ease magnetic field controlled contrast pressure raises possibility one study interplay tg tc exhaustive way phase coexistence across firstorder magnetic transitions enable resolution outstanding issues understanding glasses
+critical points
+system containing liquid gaseous phases exists special combination pressure temperature known critical point transition liquid gas becomes secondorder transition near critical point fluid sufficiently hot compressed distinction liquid gaseous phases almost nonexistent associated phenomenon critical opalescence milky appearance liquid due density fluctuations possible wavelengths including visible light
+symmetry
+phase transitions often involve symmetry breaking process instance cooling fluid crystalline solid breaks continuous translation symmetry point fluid properties point crystal properties unless points chosen lattice points crystal lattice typically hightemperature phase contains symmetries lowtemperature phase due spontaneous symmetry breaking exception certain accidental symmetries eg formation heavy virtual particles occurs low temperatures
+order parameters
+order parameter measure degree order across boundaries phase transition system normally ranges zero one phase usually critical point nonzero critical point order parameter susceptibility usually diverge
+example order parameter net magnetization ferromagnetic system undergoing phase transition liquidgas transitions order parameter difference densities
+theoretical perspective order parameters arise symmetry breaking happens one needs introduce one extra variables describe state system example ferromagnetic phase one must provide net magnetization whose direction spontaneously chosen system cooled curie point however note order parameters also defined nonsymmetrybreaking transitions phase transitions superconducting ferromagnetic order parameters one degree freedom phases order parameter may take form complex number vector even tensor magnitude goes zero phase transition
+also exist dual descriptions phase transitions terms disorder parameters indicate presence linelike excitations vortex defect lines
+relevance cosmology
+symmetrybreaking phase transitions play important role cosmology speculated lee smolin benjamin jeremy bernstein hot early universe vacuum ie various quantum fields fill space possessed large number symmetries universe expanded cooled vacuum underwent series symmetrybreaking phase transitions example electroweak transition broke suu symmetry electroweak field u symmetry presentday electromagnetic field transition important understanding asymmetry amount matter antimatter presentday universe see electroweak baryogenesis
+progressive phase transitions expanding universe implicated development order universe illustrated work eric chaisson david layzer see also relational order theories
+critical exponents universality classes
+continuous phase transitions easier study firstorder transitions due absence latent heat discovered many interesting properties phenomena associated continuous phase transitions called critical phenomena due association critical points
+turns continuous phase transitions characterized parameters known critical exponents important one perhaps exponent describing divergence thermal correlation length approaching transition instance let us examine behavior heat capacity near transition vary temperature system keeping thermodynamic variables fixed find transition occurs critical temperature tc near tc heat capacity c typically power law behavior
+behaviour heat capacity amorphous materials near glass transition temperature universal critical exponent similar behavior exponent instead applies correlation length
+exponent positive different actual value depends type phase transition considering
+heat capacity kink transition temperature behavior liquid helium lambda transition normal state superfluid state experiments found least one experiment performed zerogravity conditions orbiting satellite minimize pressure differences sample experimental value agrees theoretical predictions based variational perturbation theory
+heat capacity diverges transition temperature though since enthalpy stays finite example behavior d ferromagnetic phase transition threedimensional ising model uniaxial magnets detailed theoretical studies yielded exponent
+model systems obey powerlaw behavior example mean field theory predicts finite discontinuity heat capacity transition temperature twodimensional ising model logarithmic divergence however systems limiting cases exception rule real phase transitions exhibit powerlaw behavior
+several critical exponents defined examining power law behavior measurable physical quantity near phase transition exponents related scaling relations
+shown two independent exponents eg
+remarkable fact phase transitions arising different systems often possess set critical exponents phenomenon known universality example critical exponents liquidgas critical point found independent chemical composition fluid
+impressively understandably exact match critical exponents ferromagnetic phase transition uniaxial magnets systems said universality class universality prediction renormalization group theory phase transitions states thermodynamic properties system near phase transition depend small number features dimensionality symmetry insensitive underlying microscopic properties system divergency correlation length essential point
+critical slowing phenomena
+also critical phenomena eg besides static functions also critical dynamics consequence phase transition one may observe critical slowing speeding large static universality classes continuous phase transition split smaller dynamic universality classes addition critical exponents also universal relations certain static dynamic functions magnetic fields temperature differences critical value
+percolation theory
+another phenomenon shows phase transitions critical exponents percolation simplest example perhaps percolation two dimensional square lattice sites randomly occupied probability p small values p occupied sites form small clusters certain threshold pc giant cluster formed secondorder phase transition behavior p near pc pppc critical exponent
+phase transitions biological systems
+phase transitions play many important roles biological systems examples include lipid bilayer formation coilglobule transition process protein folding dna melting liquid crystallike transitions process dna condensation cooperative ligand binding dna proteins character phase transition
+biological membranes gel liquid crystalline phase transitions play critical role physiological functioning biomembranes gel phase due low fluidity membrane lipid fattyacyl chains membrane proteins restricted movement thus restrained exercise physiological role plants depend critically photosynthesis chloroplast thylakoid membranes exposed cold environmental temperatures thylakoid membranes retain innate fluidity even relatively low temperatures high degree fattyacyl disorder allowed high content linolenic acid carbon chain double bonds geltoliquid crystalline phase transition temperature biological membranes determined many techniques including calorimetry flouorescence spin label electron paramagnetic resonance nmr recording measurements concerned parameter series sample temperatures simple method determination c nmr line intensities also proposed
+relevance phase transitions neural networks pointed complex emergent nature neural interactions point view found recent paper tkaik et al
+see also
+allotropy
+autocatalytic reactions order creation
+crystal growth
+abnormal grain growth
+differential scanning calorimetry
+diffusionless transformations
+ehrenfest equations
+jamming physics
+kelvin probe force microscope
+landau theory second order phase transitions
+laserheated pedestal growth
+list states matter
+micropullingdown
+percolation theory
+continuum percolation theory
+superfluid film
+superradiant phase transition
+references
+reading
+anderson pw basic notions condensed matter physics perseus publishing
+fisher renormalization group theory critical behavior rev mod phys bibcodervmpf doirevmodphys
+goldenfeld n lectures phase transitions renormalization group perseus publishing
+ivancevic vladimir g ivancevic tijana chaos phase transitions topology change path integrals berlin springer isbn retrieved march eisbn
+kogut j wilson k renormalization group epsilonexpansion phys rep bibcodephrw doi
+krieger martin h constitutions matter mathematically modelling everyday physical phenomena university chicago press contains detailed pedagogical discussion onsagers solution d ising model
+landau ld lifshitz em statistical physics part vol course theoretical physics pergamon press rd ed
+kleinert h gauge fields condensed matter vol superfluid vortex lines disorder fields phase transitions pp world scientific singapore paperback isbn readable online physikfuberlinde
+kleinert h verena schultefrohlinde critical properties theories world scientific singapore paperback isbn readable online
+mussardo g statistical field theory introduction exactly solved models statistical physics oxford university press
+schroeder manfred r fractals chaos power laws minutes infinite paradise new york w h freeman wellwritten book semipopular stylenot textbookaimed audience training mathematics physical sciences explains scaling phase transitions among things
+yeomans j m statistical mechanics phase transitions oxford university press
+h e stanley introduction phase transitions critical phenomena oxford university press oxford new york
+external links
+interactive phase transitions lattices java applets

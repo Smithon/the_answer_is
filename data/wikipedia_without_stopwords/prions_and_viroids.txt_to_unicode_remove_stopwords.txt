@@ -1,0 +1,37 @@
+rc time constant also called tau time constant seconds rc circuit equal product circuit resistance ohms circuit capacitance farads ie
+time required charge capacitor resistor percent difference initial value final value discharge capacitor percent value derived mathematical constant e specifically specifically voltage charge capacitor versus time
+charging
+discharging
+cutoff frequency
+time constant related cutoff frequency fc alternative parameter rc circuit
+equivalently
+resistance ohms capacitance farads yields time constant seconds frequency hz
+short conditional equations
+fc hz
+fc hz
+useful equations
+rise time
+rise time
+standard time constants cutoff frequenciesfor preemphasisdeemphasis rc filters
+complicated circuits consisting one resistor andor capacitor opencircuit time constant method provides way approximating cutoff frequency computing sum several rc time constants
+delay
+signal delay wire circuit measured group delay phase delay effective propagation delay digital transition may dominated resistivecapacitive effects depending distance parameters may alternatively dominated inductive wave speed light effects realms
+resistivecapacitive delay rc delay hinders increasing speed microelectronic integrated circuits feature size becomes smaller smaller increase clock speed rc delay plays increasingly important role delay reduced replacing aluminum conducting wire copper thus reducing resistance also reduced changing interlayer dielectric typically silicon dioxide lowdielectricconstant materials thus reducing capacitance
+typical digital propagation delay resistive wire half r times c since r c proportional wire length delay scales square wire length charge spreads diffusion wire explained lord kelvin mid nineteenth century heaviside discovered maxwells equations imply wave propagation sufficient inductance circuit square diffusion relationship thought provide fundamental limit improvement longdistance telegraph cables old analysis superseded telegraph domain remains relevant long onchip interconnects
+see also
+cutoff frequency frequency response
+emphasis preemphasis deemphasis
+exponential decay
+filter signal processing transfer function
+highpass filter lowpass filter bandpass filter
+rl circuit rlc circuit
+references
+httphyperphysicsphyastrgsueduhbaseelectriccapdishtml
+andrew gray lord kelvin dent
+ido yavetz obscurity enigma birkhuser isbn
+jari nurmi hannu tenhunen jouni isoaho axel jantsch interconnectcentric design advanced soc noc springer isbn
+scott hamilton analog electronics companion cambridge university press isbn
+external links
+rc time constant calculator
+conversion time constant cutoff frequency fc back
+rc time constant

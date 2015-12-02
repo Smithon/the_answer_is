@@ -1,0 +1,67 @@
+linear algebra linear transformations represented matrices linear transformation mapping rn rm column vector n entries
+mn matrix called transformation matrix alternative expressions transformation matrices involving row vectors preferred authors
+usesedit
+matrices allow arbitrary linear transformations represented consistent format suitable computation also allows transformations concatenated easily multiplying matrices
+linear transformations ones represented matrices transformations nonlinear ndimensional euclidean space rn represented linear transformations ndimensional space rn include affine transformations translation projective transformations reason transformation matrices widely used d computer graphics ndimensional transformation matrices called depending application affine transformation matrices projective transformation matrices generally nonlinear transformation matrices respect ndimensional matrix ndimensional matrix described augmented matrix
+physical sciences active transformation one actually changes physical position system makes sense even absence coordinate system whereas passive transformation change coordinate description physical system change basis distinction active passive transformations important default transformation mathematicians usually mean active transformations physicists could mean either
+put differently passive transformation refers description object viewed two different coordinate frames
+finding matrix transformationedit
+one linear transformation functional form easy determine transformation matrix transforming vectors standard basis inserting result columns matrix words
+example function linear transformation applying process suppose n case reveals
+must noted matrix representation vectors operators depends chosen basis similar matrix result alternate basis nevertheless method find components remains
+elaborate vector v represented basis vectors coordinates
+express result transformation matrix upon given basis
+elements matrix determined given basis e applying every observing response vector equation defines wanted elements jth column matrix
+eigenbasis diagonal matrixedit
+yet special basis operator components form diagonal matrix thus multiplication complexity reduces n diagonal means coefficients zeros leaving one term sum surviving diagonal elements known eigenvalues designated defining equation reduces resulting equation known eigenvalue equation eigenvectors eigenvalues derived via characteristic polynomial
+diagonalization often possible translate eigenbases
+examples d computer graphicsedit
+common geometric transformations keep origin fixed linear including rotation scaling shearing reflection orthogonal projection affine transformation pure translation keeps point fixed point chosen origin make transformation linear two dimensions linear transformations represented using transformation matrix
+rotationedit
+rotation angle clockwise origin functional form written matrix form becomes
+similarly rotation counterclockwise origin functional form matrix form
+formulae assume x axis points right y axis points formats svg y axis points matrices must swapped
+shearingedit
+shear mapping visually similar slanting two possibilities
+shear parallel x axis written matrix form becomes
+shear parallel y axis matrix form
+reflectionedit
+reflect vector line goes origin let vector direction line
+orthogonal projectionedit
+project vector orthogonally onto line goes origin let vector direction line use transformation matrix
+reflections orthogonal projection onto line pass origin affine linear transformation
+parallel projections also linear transformations represented simply matrix however perspective projections represent matrix homogeneous coordinates must used
+examples d computer graphicsedit
+rotationedit
+matrix rotate angle axis defined unit vector lmn
+reflectionedit
+reflect point plane goes origin one use x identity matrix threedimensional unit vector vector normal plane l norm unity transformation matrix expressed
+note particular cases householder reflection two three dimensions reflection line plane go origin linear transformation affine transformation
+composing inverting transformationsedit
+one main motivations using matrices represent linear transformations transformations easily composed combined inverted
+composition accomplished matrix multiplication b matrices two linear transformations effect applying first b vector x given
+called associative property words matrix combined transformation followed b simply product individual matrices note multiplication done opposite order english sentence matrix followed b ba ab
+consequence ability compose transformations multiplying matrices transformations also inverted simply inverting matrices represents transformation undoes
+kinds transformationsedit
+affine transformationsedit
+represent affine transformations matrices use homogeneous coordinates means representing vector x y vector x y similarly higher dimensions using system translation expressed matrix multiplication functional form becomes
+ordinary linear transformations included set affine transformations described simplified form affine transformations therefore linear transformation also represented general transformation matrix latter obtained expanding corresponding linear transformation matrix one row column filling extra space zeros except lowerright corner must set example clockwise rotation matrix becomes
+using transformation matrices containing homogeneous coordinates translations seamlessly intermixed types transformations reason real plane mapped w plane real projective space translation real euclidean space represented shear real projective space although translation nonlinear transformation d d euclidean space described cartesian coordinates becomes d d projective space described homogeneous coordinates simple linear transformation shear
+affine transformations obtained composition two affine transformations example given translation vector rotation r angle counterclockwise scaling factors translation vector result m trst
+using affine transformations homogeneous component coordinate vector normally called w never altered one therefore safely assume always ignore however true using perspective projections
+perspective projectionedit
+another type transformation importance d computer graphics perspective projection whereas parallel projections used project points onto image plane along parallel lines perspective projection projects points onto image plane along lines emanate single point called center projection means object smaller projection far away center projection larger projection closer
+simplest perspective projection uses origin center projection z image plane functional form transformation express homogeneous coordinates
+carrying matrix multiplication homogeneous component wc general equal therefore map back real plane must perform homogeneous divide perspective divide dividing component wc
+complicated perspective projections composed combining one rotations scales translations shears move image plane center projection wherever desired
+see alsoedit
+d projection
+transformation function
+referencesedit
+external linksedit
+matrix page practical examples povray
+reference page rotation axes
+linear transformation calculator
+transformation applet generate matrices d transformations vice versa
+coordinate transformation rotation d
+excel fun build d graphics spreadsheet interactive transformation matrices live spreadsheet

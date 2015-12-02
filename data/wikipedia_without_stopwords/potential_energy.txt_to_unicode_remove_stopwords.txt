@@ -1,0 +1,115 @@
+physics potential energy energy object due position force field system due configuration parts common types include gravitational potential energy object depends mass distance center mass another object elastic potential energy extended spring electric potential energy electric charge electric field unit energy international system units si joule symbol j
+term potential energy introduced th century scottish engineer physicist william rankine although links greek philosopher aristotles concept potentiality potential energy associated forces act body way depends bodys position space forces represented vector every point space forming vector field forces force field
+work force field acting body moves start end position determined two positions depend trajectory body function known potential energy evaluated two positions determine work furthermore force field determined potential energy described derivable potential
+overviewedit
+potential energy stored energy object energy virtue objects position relative objects potential energy often associated restoring forces spring force gravity action stretching spring lifting mass performed external force works force field potential work stored force field said stored potential energy external force removed force field acts body perform work moves body back initial position reducing stretch spring causing body fall
+formal definition potential energy energy difference energy object given position energy reference position
+various types potential energy associated particular type force example work elastic force called elastic potential energy work gravitational force called gravitational potential energy work coulomb force called electric potential energy work strong nuclear force weak nuclear force acting baryon charge called nuclear potential energy work intermolecular forces called intermolecular potential energy chemical potential energy energy stored fossil fuels work coulomb force rearrangement mutual positions electrons nuclei atoms molecules thermal energy usually two components kinetic energy random motions particles potential energy mutual positions
+forces derivable potential also called conservative forces work done conservative force
+change potential energy associated force negative sign provides convention work done force field increases potential energy work done force field decreases potential energy common notations potential energy u v ep
+work potential energyedit
+potential energy closely linked forces work done force body moves b depend path points work force measured assigns scalar value every point space defines scalar potential field case force defined negative vector gradient potential field
+work applied force independent path work done force evaluated start end trajectory point application means function u x called potential evaluated two points xa xb obtain work trajectory two points tradition define function negative sign positive work reduction potential
+c trajectory taken b work done independent path taken expression true trajectory c b
+function ux called potential energy associated applied force examples forces potential energies gravity spring forces
+derivable potentialedit
+section relationship work potential energy presented detail line integral defines work along curve c takes special form force f related scalar field x
+case work along curve given
+evaluated using gradient theorem obtain
+shows forces derivable scalar field work forces along curve c computed evaluating scalar field start point end point b curve means work integral depend path b said independent path
+potential energy ux traditionally defined negative scalar field work force field decreases potential energy
+case application del operator work function yields
+force f said derivable potential also necessarily implies f must conservative vector field potential u defines force f every point x space set forces called force field
+computing potential energyedit
+given force field fx evaluation work integral using gradient theorem used find scalar function associated potential energy done introducing parameterized curve trt aa bb computing
+force field f let v drdt gradient theorem yields
+power applied body force field obtained gradient work potential direction velocity v point application
+examples work computed potential functions gravity spring forces
+potential energy near earth gravityedit
+classical physics gravity exerts constant downward force f fz center mass body moving near surface earth work gravity body moving along trajectory rt xt yt zt track roller coaster calculated using velocity vvx vy vz obtain
+integral vertical component velocity vertical distance notice work gravity depends vertical movement curve rt
+function
+called potential energy near earth gravity field
+potential energy linear springedit
+horizontal spring exerts force f kx proportional deflection x direction work spring body moving along space curve st xt yt zt calculated using velocity v vx vy vz obtain
+convenience consider contact spring occurs integral product distance x xvelocity xvx x
+function
+called potential energy linear spring
+elastic potential energy potential energy elastic object example bow catapult deformed tension compression stressed formal terminology arises consequence force tries restore object original shape often electromagnetic force atoms molecules constitute object stretch released energy transformed kinetic energy
+potential energy gravitational forces two bodiesedit
+gravitational potential energy two bodies space obtained force exerted mass m another mass m given
+r position vector m m
+also expressed
+vector length pointing m m
+let mass m move velocity v work gravity mass moves position rt rt given
+notice position velocity mass m given
+er et radial tangential unit vectors directed relative vector m m use simplify formula work gravity
+calculation uses fact
+function
+gravitational potential function also known gravitational potential energy negative sign follows convention work gained loss potential energy
+potential energy electrostatic forces two bodiesedit
+electrostatic force exerted charge q another charge q given
+r position vector q q vacuum permittivity may also written using coulombs constant ke
+work w required move q point b electrostatic force field given potential function
+reference leveledit
+potential energy function state system defined relative particular state reference state always real state may also limit distances bodies tending infinity provided energy involved tending limit finite case inversesquare law forces arbitrary reference state could used therefore chosen based convenience
+typically potential energy system depends relative positions components reference state also expressed terms relative positions
+gravitational potential energyedit
+gravitational energy potential energy associated gravitational force work required elevate objects earths gravity potential energy due elevated positions called gravitational potential energy evidenced water elevated reservoir kept behind dam object falls one point another point inside gravitational field force gravity positive work object gravitational potential energy decrease amount
+consider book placed top table book raised floor table external force works gravitational force book falls back floor falling energy book receives provided gravitational force thus book falls table potential energy goes accelerate mass book converted kinetic energy book hits floor kinetic energy converted heat deformation sound impact
+factors affect objects gravitational potential energy height relative reference point mass strength gravitational field thus book lying table less gravitational potential energy book top taller cupboard less gravitational potential energy heavier book lying table object certain height moons surface less gravitational potential energy height earths surface moons gravity weaker note height common sense term cannot used gravitational potential energy calculations gravity assumed constant following sections provide detail
+local approximationedit
+strength gravitational field varies location however change distance small relation distances center source gravitational field variation field strength negligible assume force gravity particular object constant near surface earth example assume acceleration due gravity constant g ms standard gravity case simple expression gravitational potential energy derived using w fd equation work equation
+amount gravitational potential energy possessed elevated object equal work done gravity lifting work done equals force required move upward multiplied vertical distance moved remember w fd upward force required moving constant velocity equal weight mg object work done lifting height h product mgh thus accounting mass gravity altitude equation
+u potential energy object relative earths surface m mass object g acceleration due gravity h altitude object m expressed kilograms g ms h metres u calculated joules
+hence potential difference
+general formulaedit
+however large variations distance approximation g constant longer valid use calculus general mathematical definition work determine gravitational potential energy computation potential energy integrate gravitational force whose magnitude given newtons law gravitation respect distance r two bodies using definition gravitational potential energy system masses m m distance r using gravitational constant g
+k arbitrary constant dependent choice datum potential measured choosing convention k ie relation point infinity makes calculations simpler albeit cost making u negative physically reasonable see
+given formula u total potential energy system n bodies found summing pairs two bodies potential energy system two bodies
+considering system bodies combined set small particles bodies consist applying previous particle level get negative gravitational binding energy potential energy strongly negative total potential energy system bodies since also includes negative gravitational binding energy body potential energy system bodies negative energy needed separate bodies infinity gravitational binding energy energy needed separate particles infinity
+therefore
+choose convention gravitational energy negativeedit
+potential energies differences gravitational potential energy matter physical purposes choice zero point arbitrary given reasonable criterion preferring one particular finite r another seem two reasonable choices distance u becomes zero choice infinity may seem peculiar consequence gravitational energy always negative may seem counterintuitive choice allows gravitational potential energy values finite albeit negative
+singularity formula gravitational potential energy means apparently reasonable alternative choice convention would result potential energy positive infinitely large nonzero values r would make calculations involving sums differences potential energies beyond possible real number system since physicists abhor infinities calculations r always nonzero practice choice infinity far preferable choice even idea negative energy gravity well appears peculiar first
+negative value gravitational energy also deeper implications make seem reasonable cosmological calculations total energy universe meaningfully considered see inflation theory
+usesedit
+gravitational potential energy number practical uses notably generation pumpedstorage hydroelectricity example dinorwig wales two lakes one higher elevation times surplus electricity required comparatively cheap water pumped higher lake thus converting electrical energy running pump gravitational potential energy times peak demand electricity water flows back electrical generator turbines converting potential energy kinetic energy back electricity process completely efficient original energy surplus electricity fact lost friction
+gravitational potential energy also used power clocks falling weights operate mechanism
+also used counterweights lifting elevator crane sash window
+roller coasters entertaining way utilize potential energy chains used move car incline building gravitational potential energy energy converted kinetic energy falls
+another practical use utilizing gravitational potential energy descend perhaps coast downhill transportation descent automobile truck railroad train bicycle airplane fluid pipeline cases kinetic energy obtained potential energy descent may used start ascending next grade happens road undulating frequent dips commercialization stored energy form rail cars raised higher elevations converted electrical energy needed electrical grid undertaken united states system called advanced rail energy storage ares
+information gravitational potential energy storage
+chemical potential energyedit
+chemical potential energy form potential energy related structural arrangement atoms molecules arrangement may result chemical bonds within molecule otherwise chemical energy chemical substance transformed forms energy chemical reaction example fuel burned chemical energy converted heat case digestion food metabolized biological organism green plants transform solar energy chemical energy process known photosynthesis electrical energy converted chemical energy electrochemical reactions
+similar term chemical potential used indicate potential substance undergo change configuration form chemical reaction spatial transport particle exchange reservoir etc
+electric potential energyedit
+object potential energy virtue electric charge several forces related presence two main types kind potential energy electrostatic potential energy electrodynamic potential energy also sometimes called magnetic potential energy
+electrostatic potential energyedit
+electrostatic potential energy two bodies space obtained force exerted charge q another charge q given
+r position vector q q vacuum permittivity may also written using coulombs constant ke
+electric charge object assumed rest potential energy due position relative charged objects electrostatic potential energy energy electrically charged particle rest electric field defined work must done move infinite distance away present location adjusted nonelectrical forces object energy generally nonzero another electrically charged object nearby
+work w required move q point b electrostatic force field given potential function
+related quantity called electric potential commonly denoted v voltage equal electric potential energy per unit charge
+magnetic potential energyedit
+energy magnetic moment m externally produced magnetic bfield b potential energy
+magnetization m field
+integral space equivalently m nonzero magnetic potential energy form energy related distance magnetic materials also orientation alignment materials within field example needle compass lowest magnetic potential energy aligned north south poles earths magnetic field needle moved outside force torque exerted magnetic dipole needle earths magnetic field causing move back alignment magnetic potential energy needle highest field direction earths magnetic field two magnets potential energy relation distance also depends orientation opposite poles held apart potential energy highest near edge attraction lowest pull together conversely like poles highest potential energy forced together lowest spring apart
+nuclear potential energyedit
+nuclear potential energy potential energy particles inside atomic nucleus nuclear particles bound together strong nuclear force weak nuclear forces provide potential energy certain kinds radioactive decay beta decay
+nuclear particles like protons neutrons destroyed fission fusion processes collections less mass individually free mass difference liberated heat radiation nuclear reactions heat radiation missing mass often escapes system measured energy sun example form energy conversion sun process hydrogen fusion converts million tonnes solar matter per second electromagnetic energy radiated space
+forces potential potential energyedit
+potential energy closely linked forces work done force body moves b depend path points work force measured assigns scalar value every point space defines scalar potential field case force defined negative vector gradient potential field
+example gravity conservative force associated potential gravitational potential often denoted corresponding energy per unit mass function position gravitational potential energy two particles mass m m separated distance r
+gravitational potential specific energy two bodies
+reduced mass
+work done gravity moving infinitesimal mass point point b work done going back way total work done moving b returning
+potential redefined potential b constant ie number positive negative must b work done going b
+practical terms means one set zero anywhere one likes one may set zero surface earth may find convenient set zero infinity expressions given earlier section
+conservative force expressed language differential geometry closed form euclidean space contractible de rham cohomology vanishes every closed form also exact form expressed gradient scalar field gives mathematical justification fact conservative forces gradients potential field
+notesedit
+referencesedit
+serway raymond jewett john w physics scientists engineers th ed brookscole cengage isbn
+tipler paul physics scientists engineers mechanics oscillations waves thermodynamics th ed w h freeman isbn
+external linksedit
+potential energy

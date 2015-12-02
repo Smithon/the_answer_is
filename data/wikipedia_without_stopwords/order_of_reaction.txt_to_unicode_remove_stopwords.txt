@@ -1,0 +1,68 @@
+chemical kinetics order reaction respect given substance reactant catalyst product defined index exponent concentration term rate equation raised typical rate equation form b concentrations reaction orders partial reaction orders x substance y substance b etc overall reaction order sum x y many reactions reaction orders equal stoechiometric coefficients
+example chemical reaction mercury ii chloride oxalate ion
+hgclaq coaq claq cog hgcls
+observed rate equation
+r khgclco
+case reaction order respect reactant hgcl respect oxalate ion overall reaction order reaction orders respectively differ stoichiometric coefficients reaction orders determined experiment knowledge allows conclusions drawn reaction mechanism may help identify ratedetermining step
+elementary singlestep reactions reaction orders equal stoichiometric coefficients reactant overall reaction order ie sum stoicheometric coefficients reactants always equal molecularity elementary reaction complex multistep reactions may may reaction orders equal stoichiometric coefficients
+orders reaction reactant often positive integers may also zero fractional negative
+reaction also undefined reaction order respect reactant rate simply proportional power concentration reactant example one cannot talk reaction order rate equation bimolecular reaction adsorbed molecules
+determination reaction order
+method initial rates
+order reaction reactant estimated variation initial rate concentration reactant using natural logarithm typical rate equation
+example initial rate measured series experiments different initial concentrations reactant concentrations b c kept constant
+slope graph function corresponds order x respect reactant
+however method always reliable
+measurement initial rate requires accurate determination small changes concentration short times compared reaction halflife sensitive errors
+rate equation completely determined rate also depends substances present beginning reaction intermediates products
+integral method
+tentative rate equation determined method initial rates therefore normally verified comparing concentrations measured longer time several halflives integrated form rate equation
+example integrated rate law firstorder reaction
+concentration time initial concentration zero time firstorder rate law confirmed fact linear function time case rate constant equal slope sign reversed
+method flooding
+partial order respect given reactant evaluated method flooding isolation ostwald method concentration one reactant measured reactants large excess concentration remains essentially constant reaction aa bb cc rate law partial order respect determined using large excess b case
+may determined integral method order respect b conditions b excess determined series similar experiments range initial concentration b variation k measured
+first order
+reaction rate depends single reactant value exponent one reaction said first order organic chemistry class sn nucleophilic substitution unimolecular reactions consists firstorder reactions example reaction aryldiazonium ions nucleophiles aqueous solution arn x arx n rate equation r karn ar indicates aryl group
+another class firstorder reactions radioactive decay processes first order however nuclear reactions rather chemical reactions
+second order
+reaction said second order overall order two rate secondorder reaction may proportional one concentration squared commonly product two concentrations example first type reaction co co secondorder reactant zero order reactant co observed rate given independent concentration co
+second type includes class sn nucleophilic substitution bimolecular reactions alkaline hydrolysis ethyl acetate
+chcooch oh chcoo choh
+reaction firstorder reactant secondorder overall r kchcoochoh
+hydrolysis reaction catalyzed imidazole rate equation becomes r kimidazolechcooch rate firstorder one reactant ethyl acetate also firstorder imidazole catalyst appear overall chemical equation
+pseudofirst order
+concentration reactant remains constant catalyst great excess respect reactants concentration included rate constant obtaining pseudofirstorder occasionally pseudosecondorder rate equation typical secondorder reaction rate equation concentration reactant b constant pseudofirstorder rate constant secondorder rate equation reduced pseudofirstorder rate equation makes treatment obtain integrated rate equation much easier
+example hydrolysis sucrose acid solution often cited firstorder reaction rate true rate equation thirdorder however concentrations catalyst h solvent ho normally constant reaction pseudofirstorder
+zero order
+zeroorder reactions reaction rate independent concentration reactant changing concentration effect speed reaction true many enzymecatalyzed reactions provided reactant concentration much greater enzyme concentration controls rate example biological oxidation ethanol acetaldehyde enzyme liver alcohol dehydrogenase ladh zero order ethanol
+fractional order
+fractional order reactions order noninteger often indicates chemical chain reaction complex reaction mechanism example pyrolysis ethanal chcho methane carbon monoxide proceeds order respect ethanal r kchcho decomposition phosgene cocl carbon monoxide chlorine order respect phosgene order respect chlorine r kcocl cl
+order chain reaction rationalized using steady state approximation concentration reactive intermediates free radicals pyrolysis ethanal riceherzfeld mechanism
+initiation chcho ch cho
+propagation ch chcho chco ch
+chco ch co
+termination ch ch
+denotes free radical simplify theory reactions cho form second ch ignored
+steady state rates formation destruction methyl radicals equal
+concentration methyl radical satisfies
+reaction rate equals rate propagation steps form main reaction products ch co
+agreement experimental order
+mixed order
+complex rate laws described mixed order approximate laws one order different concentrations chemical species involved example rate law form represents concurrent first order second order reactions often concurrent pseudofirst order second order reactions described mixed first second order sufficiently large values reaction approximate second order kinetics smaller kinetics approximate first order pseudofirst order reaction progresses reaction change second order first order reactant consumed
+another type mixedorder rate law denominator two terms often identity ratedetermining step depends values concentrations example oxidation alcohol ketone hexacyanoferrate iii ion fecn ruthenate vi ion ruo catalyst reaction rate disappearance hexacyanoferrate iii
+zeroorder respect hexacyanoferrate iii onset reaction concentration high ruthenium catalyst quickly regenerated changes firstorder concentration decreases regeneration catalyst becomes ratedetermining
+notable mechanisms mixedorder rate laws twoterm denominators include
+michaelismenten kinetics enzymecatalysis firstorder substrate secondorder overall low substrate concentrations zero order substrate firstorder overall higher substrate concentrations
+lindemann mechanism unimolecular reactions secondorder low pressures firstorder high pressures
+negative order
+reaction rate negative partial order respect substance example conversion ozone o oxygen follows rate equation excess oxygen corresponds second order ozone order respect oxygen
+partial order negative overall order usually considered undefined example instance reaction described first order even though sum partial orders rate equation complex simple firstorder reaction
+see also
+reaction rate
+molecularity
+references
+external links
+chemical kinetics reaction rate order needs flash player
+reaction kinetics examples important rate laws lecture audio
+rates reaction

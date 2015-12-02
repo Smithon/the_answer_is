@@ -1,0 +1,79 @@
+kleingordon equation kleinfockgordon equation sometimes kleingordonfock equation relativistic version schrdinger equation
+solutions include quantum scalar pseudoscalar field field whose quanta spinless particles cannot straightforwardly interpreted schrdinger equation quantum state second order time admit positive definite conserved probability density still appropriate interpretation describe quantum amplitude finding point particle various places relativistic wavefunction particle propagates forwards backwards time solution dirac equation automatically solution kleingordon equation converse true
+statement
+kleingordon equation
+often abbreviated
+mc dalembert operator defined
+using metric signature
+kleingordon equation often written natural units
+form determined requiring plane wave solutions equation
+obey energy momentum relation special relativity
+unlike schrdinger equation kleingordon equation admits two values k one positive one negative separating positive negative frequency parts one obtain equation describing relativistic wavefunction timeindependent case kleingordon equation becomes
+homogeneous screened poisson equation
+history
+equation named physicists oskar klein walter gordon proposed describes relativistic electrons authors making similar claims year vladimir fock johann kudar thophile de donder fransh van den dungen louis de broglie although turned dirac equation describes spinning electron kleingordon equation correctly describes spinless pion composite particle july cern announced discovery higgs boson since higgs boson spinzero particle first elementary particle described kleingordon equation experimentation analysis required discern whether higgs boson found standard model exotic form
+kleingordon equation first considered quantum wave equation schrdinger search equation describing de broglie waves equation found notebooks late appears prepared manuscript applying hydrogen atom yet fails take account electrons spin equation predicts hydrogen atoms fine structure incorrectly including overestimating overall magnitude splitting pattern factor nn nth energy level dirac result however easily recovered orbital momentum quantum number replaced total angular momentum quantum number j january schrdinger submitted publication instead equation nonrelativistic approximation predicts bohr energy levels hydrogen without fine structure
+soon schrdinger equation introduced vladimir fock wrote article generalization case magnetic fields forces dependent velocity independently derived equation klein fock used kaluza kleins method fock also determined gauge theory wave equation kleingordon equation free particle simple plane wave solution
+derivation
+nonrelativistic equation energy free particle
+quantizing get nonrelativistic schrdinger equation free particle
+momentum operator del operator
+energy operator
+schrdinger equation suffers relativistically covariant meaning take account einsteins special relativity
+natural try use identity special relativity describing energy
+inserting quantum mechanical operators momentum energy yields equation
+however cumbersome expression work differential operator cannot evaluated square root sign addition equation stands nonlocal see also introduction nonlocal equations
+klein gordon instead began square identity ie
+quantized gives
+simplifies
+rearranging terms yields
+since reference imaginary numbers eliminated equation applied fields real valued well complex values
+using inverse minkowski metric diagc get
+covariant notation often abbreviated
+operator called dalembert operator
+today form interpreted relativistic field equation spin particles furthermore solution dirac equation spinonehalf particle automatically solution kleingordon equation though solutions kleingordon equation solutions dirac equation noteworthy kleingordon equation similar proca equation
+kleingordon equation potential
+kleingordon equation generalized describe field potential v
+conserved current
+conserved current associated u symmetry complex field satisfying klein gordon equation reads
+form conserved current derived systematically applying noethers theorem u symmetry simply give proof conserved current correct
+relativistic free particle solution
+kleingordon equation free particle written
+look plane wave solutions form
+constant angular frequency wave number k substitution gives dispersion relation
+energy momentum seen proportional k
+dispersion relation classic relativistic equation
+massless particles may set m recovering relationship energy momentum massless particles
+action
+kleingordon equation also derived via variational method considering action
+kleingordon field m mass complex conjugate written scalar field taken realvalued
+applying formula hilbert stressenergy tensor lagrangian density quantity inside integral derive stressenergy tensor scalar field
+electromagnetic interaction
+simple way make field interact electromagnetism gauge invariant way replace derivative operators gauge covariant derivative operators klein gordon equation becomes
+natural units vector potential possible add many higher order terms example
+terms renormalizable dimensions
+field equation charged scalar field multiplies means field must complex order field charged must two components rotate real imaginary parts
+action charged scalar covariant version uncharged action
+gravitational interaction
+general relativity include effect gravity kleingordon equation becomes mostly pluses signature
+equivalently
+g inverse metric tensor gravitational potential field g determinant metric tensor covariant derivative christoffel symbol gravitational force field
+see also
+dirac equation
+raritaschwinger equation
+quantum field theory
+scalar field theory
+sinegordon equation
+notes
+see c itzykson jb zuber quantum field theory mcgrawhill co pp eq identical eq except features j instead
+david tong lectures quantum field theory lecture section
+sa fulling aspects quantum field theory curved spacetime cambridge university press p
+references
+sakurai j j advanced quantum mechanics addison wesley isbn
+davydov quantum mechanics nd edition pergamon isbn
+external links
+hazewinkel michiel ed kleingordon equation encyclopedia mathematics springer isbn
+weisstein eric w kleingordon equation mathworld
+linear kleingordon equation eqworld world mathematical equations
+nonlinear kleingordon equation eqworld world mathematical equations
+introduction nonlocal equations

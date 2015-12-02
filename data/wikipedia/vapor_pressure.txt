@@ -1,0 +1,62 @@
+vapor pressure or equilibrium vapor pressure is defined as the pressure exerted by a vapor in thermodynamic equilibrium with its condensed phases (solid or liquid) at a given temperature in a closed system the equilibrium vapor pressure is an indication of a liquid's evaporation rate it relates to the tendency of particles to escape from the liquid (or a solid) a substance with a high vapor pressure at normal temperatures is often referred to as volatile the pressure exhibited by vapor present above a liquid surface is known as vapor pressure as the temperature of a liquid increases the kinetic energy of its molecules also increases as the kinetic energy of the molecules increase the number of molecules transitioning into a vapor also increases thereby increasing the vapor pressure
+the vapor pressure of any substance increases non-linearly with temperature according to the clausiusclapeyron relation the atmospheric pressure boiling point of a liquid (also known as the normal boiling point) is the temperature at which the vapor pressure equals the ambient atmospheric pressure with any incremental increase in that temperature the vapor pressure becomes sufficient to overcome atmospheric pressure and lift the liquid to form vapor bubbles inside the bulk of the substance bubble formation deeper in the liquid requires a higher pressure and therefore higher temperature because the fluid pressure increases above the atmospheric pressure as the depth increases
+the vapor pressure that a single component in a mixture contributes to the total pressure in the system is called partial pressure for example air at sea level and saturated with water vapor at 20 c has partial pressures of about 2.3 kpa of water 78 kpa of nitrogen 21 kpa of oxygen and 0.9 kpa of argon
+== measurement and unitsedit ==
+vapor pressure is measured in the standard units of pressure the international system of units (si) recognizes pressure as a derived unit with the dimension of force per area and designates the pascal (pa) as its standard unit one pascal is one newton per square meter (nm2 or kgm1s2)
+experimental measurement of vapor pressure is a simple procedure for common pressures between 1 and 200 kpa most accurate results are obtained near the boiling point of substances and large errors result for measurements smaller than 1kpa procedures often consist of purifying the test substance isolating it in a container evacuating any foreign gas then measuring the equilibrium pressure of the gaseous phase of the substance in the container at different temperatures better accuracy is achieved when care is taken to ensure that the entire substance and its vapor are at the prescribed temperature this is often done as with the use of an isoteniscope by submerging the containment area in a liquid bath
+== estimating vapor pressures with antoine equationedit ==
+the antoine equation is a mathematical expression of the relation between the vapor pressure and the temperature of pure liquid or solid substances the basic form of the equation is:
+and it can be transformed into this temperature-explicit form:
+where: is the absolute vapor pressure of a substance
+is the temperature of the substance
+ and are substance-specific coefficients (i.e. constants or parameters)
+is typically either or
+a simpler form of the equation with only two coefficients is sometimes used:
+which can be transformed to:
+sublimations and vaporizations of the same substance have separate sets of antoine coefficients as do components in mixtures each parameter set for a specific compound is only applicable over a specified temperature range generally temperature ranges are chosen to maintain the equation's accuracy of a few up to 810 percent for many volatile substances several different sets of parameters are available and used for different temperature ranges the antoine equation has poor accuracy with any single parameter set when used from a compound's melting point to its critical temperature accuracy is also usually poor when vapor pressure is under 10 torr because of the limitations of the apparatus used to establish the antoine parameter values
+the wagner equation gives "one of the best" fits to experimental data but is quite complex it expresses reduced vapor pressure as a function of reduced temperature
+== relation to boiling point of liquidsedit ==
+as a general trend vapor pressures of liquids at ambient temperatures increase with decreasing boiling points this is illustrated in the vapor pressure chart (see right) that shows graphs of the vapor pressures versus temperatures for a variety of liquids
+for example at any given temperature methyl chloride has the highest vapor pressure of any of the liquids in the chart it also has the lowest normal boiling point (24.2 c) which is where the vapor pressure curve of methyl chloride (the blue line) intersects the horizontal pressure line of one atmosphere (atm) of absolute vapor pressure
+although the relation between vapor pressure and temperature is non-linear the chart uses a logarithmic vertical axis to produce slightly curved lines so one chart can graph many liquids a nearly straight line is obtained when the logarithm of the vapor pressure is plotted against 1/(t+230) where t is the temperature in degrees celsius the vapor pressure of a liquid at its boiling point equals the pressure of its surrounding environment
+== liquid mixturesedit ==
+raoult's law gives an approximation to the vapor pressure of mixtures of liquids it states that the activity (pressure or fugacity) of a single-phase mixture is equal to the mole-fraction-weighted sum of the components' vapor pressures:
+where p tot is the mixture's vapor pressure i is one of the components of the mixture and i is the mole fraction of that component in the liquid mixture the term pii is the partial pressure of component i in the mixture raoult's law is applicable only to non-electrolytes (uncharged species); it is most appropriate for non-polar molecules with only weak intermolecular attractions (such as london forces)
+systems that have vapor pressures higher than indicated by the above formula are said to have positive deviations such a deviation suggests weaker intermolecular attraction than in the pure components so that the molecules can be thought of as being "held in" the liquid phase less strongly than in the pure liquid an example is the azeotrope of approximately 95% ethanol and water because the azeotrope's vapor pressure is higher than predicted by raoult's law it boils at a temperature below that of either pure component
+there are also systems with negative deviations that have vapor pressures that are lower than expected such a deviation is evidence for stronger intermolecular attraction between the constituents of the mixture than exists in the pure components thus the molecules are "held in" the liquid more strongly when a second molecule is present an example is a mixture of trichloromethane (chloroform) and 2-propanone (acetone) which boils above the boiling point of either pure component
+the negative and positive deviations can be used to determine thermodynamic activity coefficients of the components of mixtures
+== solidsedit ==
+equilibrium vapor pressure can be defined as the pressure reached when a condensed phase is in equilibrium with its own vapor in the case of an equilibrium solid such as a crystal this can be defined as the pressure when the rate of sublimation of a solid matches the rate of deposition of its vapor phase for most solids this pressure is very low but some notable exceptions are naphthalene dry ice (the vapor pressure of dry ice is 5.73 mpa (831 psi 56.5 atm) at 20 degrees celsius which causes most sealed containers to rupture) and ice all solid materials have a vapor pressure however due to their often extremely low values measurement can be rather difficult typical techniques include the use of thermogravimetry and gas transpiration
+there are a number of methods for calculating the sublimation pressure (i.e. the vapor pressure) of a solid one method is to estimate the sublimation pressure from extrapolated liquid vapor pressures (of the supercooled liquid) if the heat of fusion is known by using this particular form of the clausiusclapeyron relation:
+with:
+this method assumes that the heat of fusion is temperature-independent ignores additional transition temperatures between different solid phases and it gives a fair estimation for temperatures not too far from the melting point it also shows that the sublimation pressure is lower than the extrapolated liquid vapor pressure (hm is positive) and the difference grows with increased distance from the melting point
+== boiling point of wateredit ==
+like all liquids water boils when its vapor pressure reaches its surrounding pressure in nature the atmospheric pressure is lower at higher elevations and water boils at a lower temperature the boiling temperature of water for atmospheric pressures can be approximated by the antoine equation:
+or transformed into this temperature-explicit form:
+where the temperature is the boiling point in degrees celsius and the pressure is in torr
+== dhring's ruleedit ==
+dhring's rule states that a linear relationship exists between the temperatures at which two solutions exert the same vapor pressure
+== examplesedit ==
+the following table is a list of a variety of substances ordered by increasing vapor pressure (in absolute units)
+== estimating vapor pressure from molecular structureedit ==
+several empirical methods exist to estimate liquid vapor pressure from molecular structure for organic molecules some examples are simpol the method of moller et al. and evaporation
+== meaning in meteorologyedit ==
+in meteorology the term vapor pressure is used to mean the partial pressure of water vapor in the atmosphere even if it is not in equilibrium and the equilibrium vapor pressure is specified otherwise meteorologists also use the term saturation vapor pressure to refer to the equilibrium vapor pressure of water or brine above a flat surface to distinguish it from equilibrium vapor pressure which takes into account the shape and size of water droplets and particulates in the atmosphere
+== see alsoedit ==
+absolute humidity
+lee-kesler method
+reid vapor pressure
+relative humidity
+relative volatility
+saturation vapor density
+triple point
+true vapor pressure
+vaporliquid equilibrium
+vapor pressures of the elements (data page)
+== referencesedit ==
+== external linksedit ==
+fluid characteristics chart
+hyperphysics
+msds vapor pressure
+online vapor pressure calculation tool (requires registration)
+prediction of vapor pressures of pure liquid organic compounds

@@ -1,0 +1,25 @@
+in chemistry the standard molar entropy is the entropy content of one mole of substance under standard conditions (not standard temperature and pressure )
+the standard molar entropy is usually given the symbol s and as units of joules per mole kelvin (j mol1 k1) unlike standard enthalpies of formation the value of s is absolute that is an element in its standard state has a nonzero value of s at room temperature the entropy of a pure crystalline structure can be 0 j mol1 k1 only at 0 k according to the third law of thermodynamics however this presupposes that the material forms a 'perfect crystal' without any frozen in entropy (defects dislocations) which is never completely true because crystals always grow at a finite temperature this residual entropy is often quite negligible
+== thermodynamics ==
+if a mole of substance were at 0 k then warmed by its surroundings to 298 k its total molar entropy would be the addition of all n individual contributions:
+here dqk/t represents a very small exchange of heat energy at temperature t the total molar entropy is the sum of many small changes in molar entropy where each small change can be considered a reversible process
+== chemistry ==
+the standard molar entropy of a gas at stp includes contributions from:
+the heat capacity of one mole of the solid from 0 k to the melting point (including heat absorbed in any changes between different crystal structures)
+the latent heat of fusion of the solid
+the heat capacity of the liquid from the melting point to the boiling point
+the latent heat of vaporization of the liquid
+the heat capacity of the gas from the boiling point to room temperature
+changes in entropy are associated with phase transitions and chemical reactions chemical equations make use of the standard molar entropy of reactants and products to find the standard entropy of reaction:
+srxn = sproducts sreactants
+the standard entropy of reaction helps determine whether the reaction will take place spontaneously according to the second law of thermodynamics a spontaneous reaction always results in an increase in total entropy of the system and its surroundings:
+stotal = ssystem + ssurroundings > 0
+== see also ==
+entropy
+heat
+gibbs free energy
+helmholtz free energy
+third law of thermodynamics
+== references ==
+== external links ==
+free energy and chemical reactions - course notes for general chemistry (r paselk humboldt state university)

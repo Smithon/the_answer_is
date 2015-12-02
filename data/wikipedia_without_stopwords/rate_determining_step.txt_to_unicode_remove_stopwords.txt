@@ -1,0 +1,89 @@
+chemical kinetics overall rate reaction often approximately determined slowest step known rate determining step rds ratelimiting step given reaction mechanism prediction corresponding rate equation comparison experimental rate law often simplified using approximation rate determining step
+principle time evolution reactant product concentrations determined set simultaneous rate equations individual steps mechanism one step however analytical solution differential equations always easy cases numerical integration may even required hypothesis single ratedetermining step greatly simplify mathematics simplest case initial step slowest overall rate rate first step
+also rate equations mechanisms single ratedetermining step usually simple mathematical form whose relation mechanism choice ratedetermining step clear correct ratedetermining step identified predicting rate law possible choice comparing different predictions experimental law example co
+concept ratedetermining step important optimization understanding many chemical processes catalysis combustion
+reaction coordinate diagramedit
+given reaction coordinate energy diagram rate determining step determined taking largest energy difference starting material intermediate diagram transition state comes transition state ratedetermining step given reaction transition state highest absolute energy may necessarily correspond rate determining step
+example reaction
+coedit
+example consider gasphase reaction
+co co reaction occurred single step reaction rate r would proportional rate collisions
+co molecules r kno
+co k reaction rate constant square brackets indicate molar concentration
+first step ratedeterminingedit
+fact however observed reaction rate second order
+zero order co rate equation r kno
+suggests rate determined step two
+molecules react co molecule entering another faster step possible mechanism two elementary steps explains rate equation
+slow step ratedetermining
+co
+co
+fast step
+mechanism reactive intermediate species
+formed first step rate r reacts co second step rate r however
+also react first step occurs reverse direction
+rate r minus sign indicates rate reverse reaction
+concentration reactive intermediate
+remains low almost constant may therefore estimated steady state approximation specifies rate formed equals total rate consumed example
+formed one step reacts two
+statement first step slow step actually means first step reverse direction slower second step forward direction almost
+consumed reaction co r r r r overall rate reaction rate formation final product co r r r overall rate determined rate first step almost molecules react first step continue second step fast
+second step ratedeterminingedit
+possible case would second step slow ratedetermining meaning slower first step reverse direction r r hypothesis r r first step almost equilibrium overall rate determined second step r r r molecules react first step continue second step much slower however hypothesis rejected example reaction since implies rate equation disagrees experiment
+first step equilibrium equilibrium constant expression permits calculation concentration intermediate
+terms stable easily measured reactant product species
+overall reaction rate would
+disagrees experimental rate law given disproves hypothesis second step ratedetermining
+nucleophilic substitutionedit
+another example unimolecular nucleophilic substitution sn reaction organic chemistry first ratedetermining step unimolecular specific case basic hydrolysis tertbutyl bromide tc
+h
+br aqueous sodium hydroxide mechanism two steps r denotes tertbutyl radical tc
+h
+formation carbocation rbr r br
+nucleophilic attack one water molecule r oh roh
+reaction found firstorder rate krbr indicates first step slow determines rate second step oh much faster overall rate independent concentration oh
+contrast alkaline hydrolysis methyl bromide ch
+br bimolecular nucleophilic substitution sn reaction single bimolecular step rate law secondorder rate krbroh
+composition transition stateedit
+useful rule determination mechanism concentration factors rate law indicate composition charge activated complex transition state
+co reaction rate depends
+activated complex composition n
+o
+entering reaction transition state co reacting transition state
+multistep example reaction oxalic acid chlorine aqueous solution h
+c
+o
+cl
+co h cl observed rate law
+implies activated complex reactants lose h cl ratedetermining step formula activated complex cl
+h
+c
+o
+h cl x h
+o c
+o
+clh
+o
+x unknown number water molecules added possible dependence reaction rate h
+o studied since data obtained water solvent large essentially unvarying concentration
+one possible mechanism preliminary steps known rapid
+cl
+h
+o hocl cl h
+h
+c
+o
+h hc
+o
+hocl hc
+o
+h
+o cl co
+diffusion controledit
+previous examples rate determining step one sequential chemical reactions leading product ratedetermining step also transport reactants interact form product case referred diffusion control general occurs formation product activated complex rapid thus provision supply reactants rate determining
+see alsoedit
+productdetermining step
+referencesedit
+zumdahl steven chemical principles th ed houghton mifflin pp isbn
+external linksedit
+ratelimiting enzyme regulation database rledb

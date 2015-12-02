@@ -1,0 +1,119 @@
+multiplication often denoted cross symbol point absence symbol one four elementary mathematical operations arithmetic others addition subtraction division
+multiplication two whole numbers thinking multiplication repeated addition equivalent adding many copies one multiplicand value one multiplier
+example multiplied often written said times calculated adding copies together
+factors product
+one main properties multiplication commutative property adding copies gives result adding copies
+multiplication integers including negative numbers rational numbers fractions real numbers defined systematic generalization basic definition
+multiplication also visualized counting objects arranged rectangle whole numbers finding area rectangle whose sides given lengths area rectangle depend side measured first illustrates commutative property
+inverse operation multiplication division example since multiplied equals divided equals multiplication followed division yields original number since division number equals
+multiplication also defined types numbers complex numbers abstract constructs like matrices abstract constructs order operands multiplied sometimes matter listing many different kinds products used mathematics given product mathematics page
+notation terminologyedit
+arithmetics multiplication often written using sign terms infix notation example
+verbally two times three equals six
+sign encoded unicode ud multiplication sign html times
+mathematical notations multiplication
+multiplication also denoted dot signs usually middleposition dot rarely period
+middle dot notation encoded unicode uc dot operator standard united states united kingdom countries period used decimal point dot operator character accessible interpunct used countries use comma decimal mark either period middle dot used multiplication
+algebra multiplication involving variables often written juxtaposition eg xy x times y x five times x notation also used quantities surrounded parentheses eg five times two implicit usage multiplication cause ambiguity concatenated variables happen match name another variable variable name front parenthesis confused function name correct determination order operations
+matrix multiplication distinction cross dot symbols cross symbol generally denotes taking cross product two vectors yielding vector result dot denotes taking dot product two vectors resulting scalar
+computer programming asterisk still common notation due fact computers historically limited small character sets ascii ebcdic lacked multiplication sign asterisk appeared every keyboard usage originated fortran programming language
+numbers multiplied generally called factors number multiplied called multiplicand number times multiplicand multiplied comes multiplier persons interpret multiplication expression first two factors multiplicand second multiplier whereas believe first factor multiplier definitive authority speaking matter however uncertainty comes first second extends even handheld calculator industry additonally sources term multiplicand regarded synonym factor
+algebra number multiplier variable expression eg xy called coefficient
+result multiplication called product product integers multiple factor example product multiple multiple
+computationedit
+common methods multiplying numbers using pencil paper require multiplication table memorized consulted products small numbers typically two numbers however one method peasant multiplication algorithm
+multiplying numbers couple decimal places hand tedious error prone common logarithms invented simplify calculations slide rule allowed numbers quickly multiplied three places accuracy beginning early twentieth century mechanical calculators marchant automated multiplication digit numbers modern electronic computers calculators greatly reduced need multiplication hand
+historical algorithmsedit
+methods multiplication documented egyptian greek indian chinese civilizations
+ishango bone dated bc hints knowledge multiplication upper paleolithic era central africa
+egyptiansedit
+egyptian method multiplication integers fractions documented ahmes papyrus successive additions doubling instance find product one double three times obtaining full product could found adding appropriate terms found doubling sequence
+babyloniansedit
+babylonians used sexagesimal positional number system analogous modern day decimal system thus babylonian multiplication similar modern decimal multiplication relative difficulty remembering different products babylonian mathematicians employed multiplication tables tables consisted list first twenty multiples certain principal number n n n n followed multiples n n n n compute sexagesimal product say n one needed add n n computed table
+chineseedit
+mathematical text zhou bi suan jing dated prior bc nine chapters mathematical art multiplication calculations written words although early chinese mathematicians employed rod calculus involving place value addition subtraction multiplication division place value decimal arithmetic algorithms introduced al khwarizmi arab countries early th century
+modern methodedit
+modern method multiplication based hinduarabic numeral system first described brahmagupta brahmagupta gave rules addition subtraction multiplication division henry burchard fine professor mathematics princeton university wrote following
+indians inventors positional decimal system processes involved elementary reckoning system addition subtraction performed quite performed nowadays multiplication effected many ways among division cumbrously
+computer algorithmsedit
+classical method multiplying two ndigit numbers requires n simple multiplications multiplication algorithms designed reduce computation time considerably multiplying large numbers particular large numbers methods based discrete fourier transform reduce number simple multiplications order n logn log logn
+products measurementsedit
+two measurements multiplied together product type depending types measurements general theory given dimensional analysis analysis routinely applied physics also found applications finance one meaningfully add subtract quantities type multiply divide quantities different types
+common example multiplying speed time gives distance
+kilometers per hour hours kilometers
+examples
+products sequencesedit
+capital pi notationedit
+product sequence terms written product symbol derives capital letter pi greek alphabet unicode position uf contains glyph denoting product distinct ua letter meaning notation given
+subscript gives symbol dummy variable case called index multiplication together lower bound whereas superscript gives upper bound lower upper bound expressions denoting integers factors product obtained taking expression following product operator successive integer values substituted index multiplication starting lower bound incremented including upper bound example
+generally notation defined
+m n integers expressions evaluate integers case m n value product single factor xm m n product empty product value
+infinite productsedit
+one may also consider products infinitely many terms called infinite products notationally would replace n lemniscate product series defined limit product first n terms n grows without bound definition
+one similarly replace m negative infinity define
+provided limits exist
+propertiesedit
+real complex numbers includes example natural numbers integers fractions multiplication certain properties
+commutative property
+order two numbers multiplied matter
+associative property
+expressions solely involving multiplication addition invariant respect order operations
+distributive property
+holds respect multiplication addition identity prime importance simplifying algebraic expressions
+identity element
+multiplicative identity anything multiplied one known identity property
+property zero
+number multiplied zero zero known zero property multiplication
+negation
+negative one times number equal additive inverse number
+negative one times negative one positive one
+natural numbers include negative numbers
+inverse element
+every number x except zero multiplicative inverse
+order preservation
+multiplication positive number preserves order
+b c ab ac
+multiplication negative number reverses order
+b c ab ac
+complex numbers order predicate
+mathematical systems include multiplication operation may properties example multiplication general commutative matrices quaternions
+axiomsedit
+book arithmetices principia nova methodo exposita giuseppe peano proposed axioms arithmetic based axioms natural numbers peano arithmetic two axioms multiplication
+sy represents successor y natural number follows y various properties like associativity proved axioms peano arithmetic including induction instance denoted multiplicative identity
+axioms integers typically define equivalence classes ordered pairs natural numbers model based treating xy equivalent xy x y treated integers thus equivalent multiplication axiom integers defined way
+rule deduced
+multiplication extended similar way rational numbers real numbers
+multiplication set theoryedit
+product nonnegative integers defined set theory using cardinal numbers peano axioms see extend multiplying arbitrary integers arbitrary rational numbers product real numbers defined terms products rational numbers see construction real numbers
+multiplication group theoryedit
+many sets operation multiplication satisfy axioms define group structure axioms closure associativity inclusion identity element inverses
+simple example set nonzero rational numbers identity opposed groups addition identity typically note rationals must exclude zero multiplication inverse rational number multiplied zero result example abelian group always case
+see look set invertible square matrices given dimension given field straightforward verify closure associativity inclusion identity identity matrix inverses however matrix multiplication commutative therefore group nonabelian
+another fact note integers multiplication group even exclude zero easily seen nonexistence inverse elements
+multiplication group theory typically notated either dot juxtaposition omission operation symbol elements multiplying element element b could notated b ab referring group via indication set operation dot used eg first example could indicated
+multiplication different kinds numbersedit
+numbers count apples order rd apple measure feet high history mathematics progressed counting fingers modelling quantum mechanics multiplication generalized complicated abstract types numbers things numbers matrices look much like numbers quaternions
+integers
+sum m copies n n m positive whole numbers gives number things array n wide m high generalization negative numbers done
+sign rules apply rational real numbers
+rational numbers
+generalization fractions multiplying numerators denominators respectively gives area rectangle high wide number things array rational numbers happen whole numbers
+real numbers
+real numbers products defined terms sequences rational numbers
+complex numbers
+considering complex numbers ordered pairs real numbers product reals imaginary parts zero
+equivalently denoting
+generalizations
+see multiplication group theory multiplicative group example includes matrix multiplication general abstract concept multiplication multiplicatively denoted second binary operation ring example ring number systems polynomial ring add multiply polynomials polynomials numbers usual sense
+division
+often division multiplication inverse multiplication types numbers may corresponding division without inverses integral domain x may inverse may defined division ring inverses may ambiguous noncommutative rings since need
+exponentiationedit
+multiplication repeated resulting operation known exponentiation instance product three factors two two raised third power denoted two superscript three example number two base three exponent general exponent superscript indicates many times base appears expression expression
+indicates n copies base multiplied together notation used whenever multiplication known power associative
+see alsoedit
+notesedit
+referencesedit
+boyer carl b revised merzbach uta c history mathematics john wiley sons inc isbn
+external linksedit
+multiplication arithmetic operations various number systems cuttheknot
+modern chinese multiplication techniques abacus

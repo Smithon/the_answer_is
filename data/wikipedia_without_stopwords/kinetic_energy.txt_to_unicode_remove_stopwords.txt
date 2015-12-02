@@ -1,0 +1,117 @@
+physics kinetic energy object energy possesses due motion defined work needed accelerate body given mass rest stated velocity gained energy acceleration body maintains kinetic energy unless speed changes amount work done body decelerating current speed state rest
+classical mechanics kinetic energy nonrotating object mass m traveling speed v relativistic mechanics good approximation v much less speed light
+standard unit kinetic energy joule
+history etymology
+adjective kinetic roots greek word kinesis meaning motion dichotomy kinetic energy potential energy traced back aristotles concepts actuality potentiality
+principle classical mechanics e mv first developed gottfried leibniz johann bernoulli described kinetic energy living force vis viva willem gravesande netherlands provided experimental evidence relationship dropping weights different heights block clay willem gravesande determined penetration depth proportional square impact speed milie du chtelet recognized implications experiment published explanation
+terms kinetic energy work present scientific meanings date back midth century early understandings ideas attributed gaspardgustave coriolis published paper titled du calcul de leffet des machines outlining mathematics kinetic energy william thomson later lord kelvin given credit coining term kinetic energy c
+introduction
+energy occurs many forms including chemical energy thermal energy electromagnetic radiation gravitational energy electric energy elastic energy nuclear energy rest energy categorized two main classes potential energy kinetic energy kinetic energy movement energy object
+kinetic energy may best understood examples demonstrate transformed forms energy example cyclist uses chemical energy provided food accelerate bicycle chosen speed level surface speed maintained without work except overcome air resistance friction chemical energy converted kinetic energy energy motion process completely efficient produces heat within cyclist
+kinetic energy moving cyclist bicycle converted forms example cyclist could encounter hill high enough coast bicycle comes complete halt top kinetic energy largely converted gravitational potential energy released freewheeling side hill since bicycle lost energy friction never regains speed without additional pedaling energy destroyed converted another form friction alternatively cyclist could connect dynamo one wheels generate electrical energy descent bicycle would traveling slower bottom hill without generator energy diverted electrical energy another possibility would cyclist apply brakes case kinetic energy would dissipated friction heat
+like physical quantity function velocity kinetic energy object depends relationship object observers frame reference thus kinetic energy object invariant
+spacecraft use chemical energy launch gain considerable kinetic energy reach orbital velocity perfectly circular orbit kinetic energy remains constant almost friction nearearth space however becomes apparent reentry kinetic energy converted heat orbit elliptical hyperbolic throughout orbit kinetic potential energy exchanged kinetic energy greatest potential energy lowest closest approach earth massive body potential energy greatest kinetic energy lowest maximum distance without loss gain however sum kinetic potential energy remains constant
+kinetic energy passed one object another game billiards player imposes kinetic energy cue ball striking cue stick cue ball collides another ball slows dramatically ball collided accelerates speed kinetic energy passed collisions billiards effectively elastic collisions kinetic energy preserved inelastic collisions kinetic energy dissipated various forms energy heat sound binding energy breaking bound structures
+flywheels developed method energy storage illustrates kinetic energy also stored rotational motion
+several mathematical descriptions kinetic energy exist describe appropriate physical situation objects processes common human experience formula mv given newtonian classical mechanics suitable however speed object comparable speed light relativistic effects become significant relativistic formula used object atomic subatomic scale quantum mechanical effects significant quantum mechanical model must employed
+newtonian kinetic energy
+kinetic energy rigid bodies
+classical mechanics kinetic energy point object object small mass assumed exist one point nonrotating rigid body depends mass body well speed kinetic energy equal product mass square speed formula form
+mass speed velocity body si units used modern scientific work mass measured kilograms speed metres per second resulting kinetic energy joules
+example one would calculate kinetic energy kg mass lbs traveling metres per second mph kmh
+throw ball work give speed leaves hand moving ball hit something push work hits kinetic energy moving object equal work required bring rest speed work object brought rest net force displacement kinetic energy ie
+since kinetic energy increases square speed object doubling speed four times much kinetic energy example car traveling twice fast another requires four times much distance stop assuming constant braking force consequence quadrupling takes four times work double speed
+kinetic energy object related momentum equation
+momentum
+mass body
+translational kinetic energy kinetic energy associated rectilinear motion rigid body constant mass whose center mass moving straight line speed seen equal
+mass body
+speed center mass body
+kinetic energy entity depends reference frame measured however total energy isolated system ie one energy neither enter leave change time reference frame measured thus chemical energy converted kinetic energy rocket engine divided differently rocket ship exhaust stream depending upon chosen reference frame called oberth effect total energy system including kinetic energy fuel chemical energy heat etc conserved time regardless choice reference frame different observers moving different reference frames would however disagree value conserved energy
+kinetic energy systems depends choice reference frame reference frame gives minimum value energy center momentum frame ie reference frame total momentum system zero minimum kinetic energy contributes invariant mass system whole
+derivation
+work done accelerating particle infinitesimal time interval dt given dot product force displacement
+assumed relationship p m v however also see special relativistic derivation
+applying product rule see
+therefore assuming constant mass dm following seen
+since total differential depends final state particle got integrate call result kinetic energy assuming object rest time integrate time time work done force bring object rest velocity v equal work necessary reverse
+equation states kinetic energy ek equal integral dot product velocity v body infinitesimal change bodys momentum p assumed body starts kinetic energy rest motionless
+rotating bodies
+rigid body q rotating line center mass rotational kinetic energy simply sum kinetic energies moving parts thus given
+bodys angular velocity
+r distance mass dm line
+bodys moment inertia equal
+equation moment inertia must taken axis center mass rotation measured must around axis general equations exist systems object subject wobble due eccentric shape
+kinetic energy systems
+system bodies may internal kinetic energy due relative motion bodies system example solar system planets planetoids orbiting sun tank gas molecules moving directions kinetic energy system sum kinetic energies bodies contains
+macroscopic body stationary ie reference frame chosen correspond bodys center momentum may various kinds internal energy molecular atomic level may regarded kinetic energy due molecular translation rotation vibration electron translation spin nuclear spin contribute bodys mass provided special theory relativity discussing movements macroscopic body kinetic energy referred usually macroscopic movement however internal energies types contribute bodys mass inertia total energy
+frame reference
+speed thus kinetic energy single object framedependent relative take nonnegative value choosing suitable inertial frame reference example bullet passing observer kinetic energy reference frame observer bullet stationary point view observer moving velocity bullet zero kinetic energy contrast total kinetic energy system objects cannot reduced zero suitable choice inertial reference frame unless objects velocity case total kinetic energy nonzero minimum inertial reference frame chosen objects stationary minimum kinetic energy contributes systems invariant mass independent reference frame
+total kinetic energy system depends inertial frame reference sum total kinetic energy center momentum frame kinetic energy total mass would concentrated center mass
+may simply shown let relative velocity center mass frame frame k since
+however let kinetic energy center mass frame would simply total momentum definition zero center mass frame let total mass substituting get
+thus kinetic energy system lowest respect center momentum reference frames ie frames reference center mass stationary either center mass frame center momentum frame frame reference additional kinetic energy corresponding total mass moving speed center mass kinetic energy system center momentum frame quantity invariant observers see conserved isolated system cannot change value matter happens inside system
+rotation systems
+sometimes convenient split total kinetic energy body sum bodys centerofmass translational kinetic energy energy rotation around center mass rotational energy
+ek total kinetic energy
+et translational kinetic energy
+er rotational energy angular kinetic energy rest frame
+thus kinetic energy tennis ball flight kinetic energy due rotation plus kinetic energy due translation
+relativistic kinetic energy rigid bodies
+bodys speed significant fraction speed light necessary use relativistic mechanics calculate kinetic energy special relativity theory expression linear momentum modified
+m objects rest mass v v velocity speed c speed light vacuum use expression linear momentum
+integrating parts yields
+since
+constant integration indefinite integral simplifying expression obtain
+found observing giving
+resulting formula
+formula shows work expended accelerating object rest approaches infinity velocity approaches speed light thus impossible accelerate object across boundary
+mathematical byproduct calculation massenergy equivalence formulathe body rest must energy content
+low speed relativistic kinetic energy approximated well classical kinetic energy done binomial approximation taking first two terms taylor expansion reciprocal square root
+total energy partitioned rest mass energy plus newtonian kinetic energy low speeds
+objects move speed much slower light eg everyday phenomena earth first two terms series predominate next term taylor series approximation
+small low speeds example speed kms mph correction newtonian kinetic energy jkg newtonian kinetic energy mjkg speed kms jkg newtonian kinetic energy gjkg
+relativistic relation kinetic energy momentum given
+also expanded taylor series first term simple expression newtonian mechanics
+suggests formulae energy momentum special axiomatic rather concepts emerge equivalence mass energy principles relativity
+general relativity
+using convention
+fourvelocity particle
+proper time particle also expression kinetic energy particle general relativity
+particle momentum
+passes observer fourvelocity uobs expression total energy particle observed measured local inertial frame
+kinetic energy expressed total energy minus rest energy
+consider case metric diagonal spatially isotropic gttgssgssgss since
+v ordinary velocity measured wrt coordinate system get
+solving ut gives
+thus stationary observer v
+thus kinetic energy takes form
+factoring rest energy gives
+expression reduces special relativistic case flatspace metric
+newtonian approximation general relativity
+newtonian gravitational potential means clocks run slower measuring rods shorter near massive bodies
+kinetic energy quantum mechanics
+quantum mechanics observables like kinetic energy represented operators one particle mass m kinetic energy operator appears term hamiltonian defined terms fundamental momentum operator
+notice obtained replacing classical expression kinetic energy terms momentum
+schrdinger picture takes form derivative taken respect position coordinates hence
+expectation value electron kinetic energy system n electrons described wavefunction sum electron operator expectation values
+mass electron laplacian operator acting upon coordinates ith electron summation runs electrons
+density functional formalism quantum mechanics requires knowledge electron density ie formally require knowledge wavefunction given electron density exact nelectron kinetic energy functional unknown however specific case electron system kinetic energy written
+known von weizscker kinetic energy functional
+see also
+escape velocity
+joule
+kemunitions
+kinetic energy per unit mass projectiles
+kinetic projectile
+parallel axis theorem
+potential energy
+recoil
+notes
+references
+physics classroom kinetic energy retrieved
+oxford dictionary
+school mathematics statistics university st andrews biography gaspardgustave de coriolis retrieved
+serway raymond jewett john w physics scientists engineers th ed brookscole isbn
+tipler paul physics scientists engineers mechanics oscillations waves thermodynamics th ed w h freeman isbn
+tipler paul llewellyn ralph modern physics th ed w h freeman isbn

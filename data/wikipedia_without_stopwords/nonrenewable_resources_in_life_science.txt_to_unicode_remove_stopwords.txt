@@ -1,0 +1,160 @@
+physics orbit gravitationally curved path object around point space example orbit planet around center star system solar system orbits planets typically elliptical unlike ellipse followed pendulum object attached spring central object focal point ellipse center
+current understanding mechanics orbital motion based albert einsteins general theory relativity accounts gravity due curvature spacetime orbits following geodesics ease calculation relativity commonly approximated forcebased theory universal gravitation based keplers laws planetary motion
+historyedit
+historically apparent motions planets first understood geometrically without regard gravity terms epicycles sums numerous circular motions theories kind predicted paths planets moderately well johannes kepler able show motions planets fact least approximately elliptical motions
+geocentric model solar system celestial spheres model originally used explain apparent motion planets sky terms perfect spheres rings planets motions accurately measured theoretical mechanisms deferent epicycles added although capable accurately predicting planets position sky epicycles required time model became unwieldy
+basis modern understanding orbits first formulated johannes kepler whose results summarised three laws planetary motion first found orbits planets solar system elliptical circular epicyclic previously believed sun located center orbits rather one focus second found orbital speed planet constant previously thought rather speed depends planets distance sun third kepler found universal relationship orbital properties planets orbiting sun planets cubes distances sun proportional squares orbital periods jupiter venus example respectively au distant sun orbital periods respectively years proportionality seen fact ratio jupiter practically equal venus accord relationship
+isaac newton demonstrated keplers laws derivable theory gravitation general orbits bodies subject gravity conic sections force gravity propagated instantaneously newton showed pair bodies orbits sizes inverse proportion masses bodies revolve common center mass one body much massive convenient approximation take center mass coinciding center massive body
+albert einstein able show gravity due curvature spacetime thus able remove newtons assumption changes propagate instantaneously relativity theory orbits follow geodesic trajectories approximate well newtonian predictions however differences used determine theory describes reality accurately essentially experimental evidence distinguish theories agrees relativity theory within experimental measurement accuracy differences newtonian mechanics usually small except strong gravity fields high speeds first calculation relativistic distortion came speed mercurys orbit strength solar gravity field enough cause mercurys orbital elements change
+however newtons solution still used short term purposes since significantly easier use
+planetary orbitsedit
+within planetary system planets dwarf planets asteroids minor planets comets space debris orbit barycenter elliptical orbits comet parabolic hyperbolic orbit barycenter gravitationally bound star therefore considered part stars planetary system bodies gravitationally bound one planets planetary system either natural artificial satellites follow orbits barycenter near within planet
+owing mutual gravitational perturbations eccentricities planetary orbits vary time mercury smallest planet solar system eccentric orbit present epoch mars next largest eccentricity smallest orbital eccentricities seen venus neptune
+two objects orbit periapsis point two objects closest apoapsis point farthest specific terms used specific bodies example perigee apogee lowest highest parts orbit around earth perihelion aphelion closest farthest points orbit around sun
+elliptical orbit center mass orbitingorbited system one focus orbits nothing present focus planet approaches periapsis planet increase speed velocity planet approaches apoapsis velocity decrease
+understanding orbitsedit
+common ways understanding orbits
+object moves sideways falls toward central body however moves quickly central body curve away beneath
+force gravity pulls object curved path attempts fly straight line
+object moves sideways tangentially falls toward central body however enough tangential velocity miss orbited object continue falling indefinitely understanding particularly useful mathematical analysis objects motion described sum three onedimensional coordinates oscillating around gravitational center
+illustration orbit around planet newtons cannonball model may prove useful see image thought experiment cannon top tall mountain able fire cannonball horizontally chosen muzzle velocity effects air friction cannonball ignored perhaps mountain high enough cannon earths atmosphere comes thing
+cannon fires ball low initial velocity trajectory ball curves downward hits ground firing velocity increased cannonball hits ground farther b away cannon ball still falling towards ground ground increasingly curving away see first point motions actually orbits technical sense describing portion elliptical path around center gravity orbits interrupted striking earth
+cannonball fired sufficient velocity ground curves away ball least much ball falls ball never strikes ground could called noninterrupted circumnavigating orbit specific combination height center gravity mass planet one specific firing velocity unaffected mass ball assumed small relative earths mass produces circular orbit shown c
+firing velocity increased beyond elliptic orbits produced one shown d initial firing surface earth shown also elliptical orbits slower velocities come closest earth point half orbit beyond directly opposite firing point
+specific velocity called escape velocity dependent firing height mass planet open orbit e results parabolic trajectory even faster velocities object follow range hyperbolic trajectories practical sense trajectory types mean object breaking free planets gravity going space
+velocity relationship two moving objects mass thus considered four practical classes subtypes
+orbit
+suborbital trajectories
+range interrupted elliptical paths
+orbital trajectories simply orbits
+range elliptical paths closest point opposite firing point
+circular path
+range elliptical paths closest point firing point
+open escape trajectories
+parabolic paths
+hyperbolic paths
+worth noting actual rockets launched earth go vertically first get air causes frictional drag slowly pitch end firing rocket engine parallel atmosphere achieve orbit
+orbits keep atmosphere eg elliptical orbit dips dense air object lose speed reenter ie fall occasionally space craft intentionally intercept atmosphere act commonly referred aerobraking maneuver
+newtons laws motionedit
+newtons law gravitation laws motion twobody problemsedit
+many situations relativistic effects neglected newtons laws give highly accurate description motion acceleration body equal sum gravitational forces divided mass gravitational force pair bodies proportional product masses decreases inversely square distance newtonian approximation system two point masses spherical bodies influenced mutual gravitation twobody problem orbits exactly calculated heavier body much massive smaller satellite small moon orbiting planet earth orbiting sun accurate convenient describe motion coordinate system centered heavier body say lighter body orbit around heavier case masses two bodies comparable exact newtonian solution still available qualitatively similar case dissimilar masses centering coordinate system center mass two
+defining gravitational potential energyedit
+energy associated gravitational fields stationary body far another external work pulled towards therefore gravitational potential energy since work required separate two bodies pull gravity gravitational potential energy increases separated decreases approach one another point masses gravitational energy decreases without limit approach zero separation convenient conventional take potential energy zero infinite distance apart negative since decreases zero smaller finite distances
+orbital energies orbit shapesedit
+two bodies orbit conic section orbit open object never returns closed returning depending total energy kinetic potential energy system case open orbit speed position orbit least escape velocity position case closed orbit always less since kinetic energy never negative common convention adopted taking potential energy zero infinite separation bound orbits negative total energy parabolic trajectories zero total energy hyperbolic orbits positive total energy
+open orbit shape hyperbola velocity greater escape velocity parabola velocity exactly escape velocity bodies approach curve around around time closest approach separate forever may case comets come outside solar system
+closed orbit shape ellipse special case orbiting body always distance center also shape circle otherwise point orbiting body closest earth perigee called periapsis less properly perifocus pericentron orbit around body earth point satellite farthest earth called apogee apoapsis sometimes apifocus apocentron line drawn periapsis apoapsis lineofapsides major axis ellipse line longest part
+keplers lawsedit
+orbiting bodies closed orbits repeat paths constant period time motion described empirical laws kepler mathematically derived newtons laws formulated follows
+orbit planet around sun ellipse sun one focal points ellipse focal point actually barycenter sunplanet system simplicity explanation assumes suns mass infinitely larger planets orbit lies plane called orbital plane point orbit closest attracting body periapsis point farthest attracting body called apoapsis also specific terms orbits around particular bodies things orbiting sun perihelion aphelion things orbiting earth perigee apogee things orbiting moon perilune apolune periselene aposelene respectively orbit around star sun periastron apastron
+planet moves around orbit fixed amount time line sun planet sweeps constant area orbital plane regardless part orbit planet traces period time means planet moves faster near perihelion near aphelion smaller distance needs trace greater arc cover area law usually stated equal areas equal time
+given orbit ratio cube semimajor axis square period constant
+limitations newtons law gravitationedit
+note bound orbits around point mass around spherical body newtonian gravitational field closed ellipses repeat path exactly indefinitely nonspherical nonnewtonian effects caused example slight oblateness earth relativistic effects changing gravitational fields behavior distance cause orbits shape depart closed ellipses characteristic newtonian twobody motion twobody solutions published newton principia karl fritiof sundman developed converging infinite series solves threebody problem however converges slowly much use except special cases like lagrangian points method known solve equations motion system four bodies
+approaches manybody problemsedit
+instead orbits many bodies approximated arbitrarily high accuracy approximations take two forms
+one form takes pure elliptic motion basis adds perturbation terms account gravitational influence multiple bodies convenient calculating positions astronomical bodies equations motion moons planets bodies known great accuracy used generate tables celestial navigation still secular phenomena dealt postnewtonian methods
+differential equation form used scientific missionplanning purposes according newtons laws sum forces equal mass times acceleration f ma therefore accelerations expressed terms positions perturbation terms much easier describe form predicting subsequent positions velocities initial values corresponds solving initial value problem numerical methods calculate positions velocities objects short time future repeat calculation however tiny arithmetic errors limited accuracy computers math cumulative limits accuracy approach
+differential simulations large numbers objects perform calculations hierarchical pairwise fashion centers mass using scheme galaxies star clusters large objects simulated
+newtonian analysis orbital motionedit
+see also kepler orbit orbit equation keplers first law
+earth follows ellipse round sun unlike ellipse followed pendulum object attached spring sun focal point ellipse centre
+following derives mathematically orbit newton would done start newtonian law gravitational acceleration towards central body related inverse square distance
+standard gravitational parameter case assume central body heavy enough considered stationary ignore subtle effects general relativity
+pendulum object attached spring swings ellipse inward accelerationforce proportionate distance due way vectors add component force directions also proportionate respective components distances hence entire analysis done separately dimensions results harmonic parabolic equations ellipse decreasing relationship dimensions cannot separated
+reason sun focal point orbits ellipse centre object moving really fast moves gravitational pull decreases allowing object almost escape quite escape orbit cycles around first parabola quite far away slowly circles back picks speed falls boomerang back space
+location orbiting object current time located plane using vector calculus polar coordinates standard euclidean basis polar basis origin coinciding center force let distance object center angle rotated let standard euclidean bases let radial transverse polar basis first unit vector pointing central body current location orbiting object second orthogonal unit vector pointing direction orbiting object would travel orbiting counter clockwise circle vector orbiting object
+use denote standard derivatives distance angle change time also take derivative vector see changes time subtracting location time time dividing result also vector basis vector moves object orbits start differentiating time vector keeps beginning origin rotates angle moves head distance perpendicular direction giving derivative
+find velocity acceleration orbiting object
+coefficients radial transverse components acceleration said newton gives first due gravity second zero
+equation rearranged using integration parts
+divide zero unless orbiting object crashes derivative zero gives function constant
+actually theoretical proof keplers second law line joining planet sun sweeps equal areas equal intervals time constant integration h angular momentum per unit mass
+order get equation orbit equation need eliminate time see also binet equation polar coordinates would express distance orbiting object center function angle however easier introduced auxiliary variable express function derivatives respect time may rewritten derivatives respect angle
+reworking
+plugging gives
+gravitational force generally inverse square force law right hand side equation becomes constant equation seen harmonic equation shift origin dependent variable solution
+arbitrary constants resulting equation orbit object ellipse polar form relative one focal points put standard form letting eccentricity letting semimajor axis finally letting long axis ellipse along positive x coordinate
+relativistic orbital motionedit
+classical newtonian analysis orbital mechanics assumes subtle effects general relativity frame dragging gravitational time dilation negligible relativistic effects cease negligible near massive bodies precession mercurys orbit sun extreme precision needed calculations orbital elements time signal references gps satellites
+orbital planesedit
+analysis far two dimensional turns unperturbed orbit twodimensional plane fixed space thus extension three dimensions requires simply rotating twodimensional plane required angle relative poles planetary body involved
+rotation three dimensions requires three numbers uniquely determine traditionally expressed three angles
+orbital periodedit
+orbital period simply long orbiting body takes complete one orbit
+specifying orbitsedit
+six parameters required specify keplerian orbit body example three numbers specify bodys initial position three values specify velocity define unique orbit calculated forwards backwards however traditionally parameters used slightly different
+traditionally used set orbital elements called set keplerian elements johannes kepler laws keplerian elements six
+inclination
+longitude ascending node
+argument periapsis
+eccentricity e
+semimajor axis
+mean anomaly epoch m
+principle orbital elements known body position calculated forward backwards indefinitely time however practice orbits affected perturbed forces simple gravity assumed point source see next section thus orbital elements change time
+orbital perturbationsedit
+orbital perturbation force impulse much smaller overall force average impulse main gravitating body external two orbiting bodies causes acceleration changes parameters orbit time
+radial prograde transverse perturbationsedit
+small radial impulse given body orbit changes eccentricity orbital period first order prograde retrograde impulse ie impulse applied along orbital motion changes eccentricity orbital period notably prograde impulse periapsis raises altitude apoapsis vice versa retrograde impulse opposite transverse impulse orbital plane causes rotation orbital plane without changing period eccentricity instances closed orbit still intersect perturbation point
+orbital decayedit
+orbit planetary body significant atmosphere orbit decay drag particularly periapsis object experiences atmospheric drag losing energy time orbit grows less eccentric circular object loses kinetic energy precisely energy maximum similar effect slowing pendulum lowest point highest point pendulums swing becomes lower successive slowing orbits path affected atmosphere effect becomes pronounced eventually effect becomes great maximum kinetic energy enough return orbit limits atmospheric drag effect happens body rapidly spiral intersect central body
+bounds atmosphere vary wildly solar maximum earths atmosphere causes drag hundred kilometres higher solar minimum
+satellites long conductive tethers also experience orbital decay electromagnetic drag earths magnetic field wire cuts magnetic field acts generator moving electrons one end orbital energy converted heat wire
+orbits artificially influenced use rocket engines change kinetic energy body point path conversion chemical electrical energy kinetic energy way changes orbit shape orientation facilitated
+another method artificially influencing orbit use solar sails magnetic sails forms propulsion require propellant energy input sun used indefinitely see statite one proposed use
+orbital decay occur due tidal forces objects synchronous orbit body theyre orbiting gravity orbiting object raises tidal bulges primary since synchronous orbit orbiting object moving faster bodys surface bulges lag short angle behind gravity bulges slightly primarysatellite axis thus component along satellites motion near bulge slows object far bulge speeds result orbit decays conversely gravity satellite bulges applies torque primary speeds rotation artificial satellites small appreciable tidal effect planets orbit several moons solar system undergoing orbital decay mechanism mars innermost moon phobos prime example expected either impact mars surface break ring within million years
+orbits decay via emission gravitational waves mechanism extremely weak stellar objects becoming significant cases combination extreme mass extreme acceleration black holes neutron stars orbiting closely
+oblatenessedit
+standard analysis orbiting bodies assumes bodies consist uniform spheres generally concentric shells uniform density shown bodies gravitationally equivalent point sources
+however real world many bodies rotate introduces oblateness distorts gravity field gives quadrupole moment gravitational field significant distances comparable radius body
+multiple gravitating bodiesedit
+effects gravitating bodies significant example orbit moon cannot accurately described without allowing action suns gravity well earths one approximate result bodies usually reasonably stable orbits around heavier planet moon spite perturbations provided orbiting well within heavier bodys hill sphere
+two gravitating bodies referred nbody problem nbody problems closed form solution although special cases formulated
+light radiation stellar windedit
+smaller bodies particularly light stellar wind cause significant perturbations attitude direction motion body time significant planetary bodies motion asteroids particularly affected large periods asteroids rotating relative sun
+astrodynamicsedit
+orbital mechanics astrodynamics application ballistics celestial mechanics practical problems concerning motion rockets spacecraft motion objects usually calculated newtons laws motion newtons law universal gravitation core discipline within space mission design control celestial mechanics treats broadly orbital dynamics systems influence gravity including spacecraft natural astronomical bodies star systems planets moons comets orbital mechanics focuses spacecraft trajectories including orbital maneuvers orbit plane changes interplanetary transfers used mission planners predict results propulsive maneuvers general relativity exact theory newtons laws calculating orbits sometimes necessary greater accuracy highgravity situations orbits close sun
+earth orbitsedit
+low earth orbit leo geocentric orbits altitudes km miles
+medium earth orbit meo geocentric orbits ranging altitude km miles geosynchronous orbit kilometers mi also known intermediate circular orbit commonly kilometers mi kilometers mi orbital period hours
+geosynchronous orbit gso geostationary orbit geo orbits around earth matching earths sidereal rotation period geosynchronous geostationary orbits semimajor axis km mi geostationary orbits also geosynchronous geosynchronous orbits geostationary geostationary orbit stays exactly equator whereas geosynchronous orbit may swing north south cover earths surface complete one full orbit earth per sidereal day relative stars sun
+high earth orbit geocentric orbits altitude geosynchronous orbit km miles
+scaling gravityedit
+gravitational constant g calculated
+kgms
+thus constant dimension density time corresponds following properties
+scaling distances including sizes bodies keeping densities gives similar orbits without scaling time example distances halved masses divided gravitational forces gravitational accelerations hence velocities halved orbital periods remain similarly object dropped tower time takes fall ground remains scale model tower scale model earth
+scaling distances keeping masses case point masses reducing densities gives similar orbits distances multiplied gravitational forces accelerations divided velocities halved orbital periods multiplied
+densities multiplied orbits gravitational forces multiplied accelerations velocities doubled orbital periods halved
+densities multiplied sizes halved orbits similar masses divided gravitational forces gravitational accelerations doubled hence velocities orbital periods halved
+cases scaling densities multiplied times halved velocities doubled forces multiplied
+properties illustrated formula derived formula orbital period
+elliptical orbit semimajor axis small body around spherical body radius r average density orbital period see also keplers third law
+patentsedit
+application certain orbits orbital maneuvers specific useful purposes subject patents
+see alsoedit
+klemperer rosette
+list orbits
+molniya orbit
+orbital spaceflight
+perifocal coordinate system
+polar orbits
+radial trajectory
+rosetta orbit
+vsop planets
+referencesedit
+readingedit
+abell morrison wolff exploration universe fifth ed saunders college publishing
+linton christopher eudoxus einstein cambridge university press isbn
+swetz frank et al learn masters mathematical association america isbn
+andrea milani giovanni f gronchi theory orbit determination cambridge university press pages discusses new algorithms determining orbits natural artificial celestial bodies
+external linksedit
+calctool orbital period planet calculator wide choice units requires javascript
+java simulation orbital motion requires java
+noaa page climate forcing data includes calculated data earth orbit variations last million years coming million years
+online orbit plotter requires javascript
+orbital mechanics rocket space technology
+orbital simulations varadi ghil runnegar provide another slightly different series earth orbit eccentricity also series orbital inclination orbits planets also calculated f varadi b runnegar m ghil successive refinements longterm integrations planetary orbits astrophysical journal bibcodeapjv doi eccentricity data earth mercury available online
+understand orbits using direct manipulation requires javascript macromedia
+merrifield michael orbits including first manned orbit sixty symbols brady haran university nottingham
+planetary orbit simulator astronoo

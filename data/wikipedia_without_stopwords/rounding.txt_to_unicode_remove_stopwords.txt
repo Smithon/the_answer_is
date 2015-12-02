@@ -1,0 +1,143 @@
+rounding numerical value means replacing another value approximately equal shorter simpler explicit representation example replacing fraction expression
+rounding often done obtain value easier report communicate original rounding also important avoid misleadingly precise reporting computed number measurement estimate example quantity computed known accurate within hundred units better stated
+hand rounding exact numbers introduce roundoff error reported result rounding almost unavoidable reporting many computations especially dividing two numbers integer fixedpoint arithmetic computing mathematical functions square roots logarithms sines using floating point representation fixed number significant digits sequence calculations rounding errors generally accumulate certain illconditioned cases may make result meaningless
+accurate rounding transcendental mathematical functions difficult number extra digits need calculated resolve whether round cannot known advance problem known tablemakers dilemma
+rounding many similarities quantization occurs physical quantities must encoded numbers digital signals
+wavy equals sign sometimes used indicate rounding exact numbers example
+types roundingedit
+typical rounding problems
+approximating irrational number fraction eg
+approximating fraction periodic decimal expansion finite decimal fraction eg
+replacing rational number fraction smaller numerator denominator eg
+replacing fractional decimal number one fewer digits eg dollars dollars
+replacing decimal integer integer trailing zeros eg people people general
+replacing value multiple specified amount eg seconds seconds multiple
+rounding specified incrementedit
+common type rounding round integer generally integer multiple increment rounding whole tenths seconds hundredths dollar whole multiples inch whole dozens thousands etc
+general rounding number x multiple specified increment m entails following steps
+divide x m let result y
+round y integer value call q
+multiply q m obtain rounded value z
+example rounding x dollars whole cents ie multiple entails computing y xm rounding y integer q finally computing z qm
+rounding predetermined number significant digits increment m depends magnitude number rounded rounded result
+increment m normally finite fraction whatever number system used represent numbers display humans usually means decimal number system m integer times power like intermediate values stored digital computers often means binary number system m integer times power
+abstract singleargument round function returns integer arbitrary real value least dozen distinct concrete definitions presented rounding integer section abstract twoargument round function formally defined many cases used implicit value m increment reduces equivalent abstract singleargument function also dozen distinct concrete definitions
+rounding integeredit
+basic form rounding replace arbitrary number integer following rounding modes concrete implementations abstract singleargument round function presented used previous sections
+many ways rounding number y integer q common ones
+round take floor round towards minus infinity q largest integer exceed y
+round take ceiling round towards plus infinity q smallest integer less y
+round towards zero truncate round away infinity q integer part y without fraction digits
+round away zero round towards infinity y integer q y else q integer closest y q
+round nearest q integer closest y see tiebreaking rules
+first four methods called directed rounding displacements original number y rounded value q directed towards away limiting value
+y positive rounddown roundtowardszero roundup roundawayfromzero y negative rounddown roundawayfromzero roundup roundtowardszero case y integer q y
+many calculations done sequence choice rounding method significant effect result famous instance involved new index set vancouver stock exchange initially set three decimal places accuracy months fallen whereas stock prices generally increased period problem caused index recalculated thousands times daily always rounded decimal places way rounding errors accumulated recalculating better rounding gave index value end period
+tiebreakingedit
+rounding number y nearest integer requires tiebreaking rule cases y exactly halfway two integers fraction part y exactly
+round half upedit
+following tiebreaking rule called round half round half towards positive infinity widely used many disciplines halfway values y always rounded
+fraction y exactly q y
+example rule value gets rounded gets rounded
+however programming languages java define halfup round half away zero
+fractions roundoff errors introduced round nearest method would symmetric every fraction gets rounded complementary fraction namely gets rounded amount rounding large set numbers random fractional parts rounding errors would statistically compensate expected average value rounded numbers would equal expected value original numbers
+however round half tiebreaking rule symmetric fractions exactly always get rounded asymmetry introduces positive bias roundoff errors example fraction y consists three random decimal digits expected value q higher expected value y reason roundtonearest round half rule also ambiguously known asymmetric rounding
+one reason rounding positive decimals first figure decimal point needs examined example looking alone determines number rounded case true negative decimals fractional figures value need examined determine round lower
+round half downedit
+one may also use round half round half towards negative infinity opposed common round half
+fraction y exactly q y
+example gets rounded gets rounded
+round half tiebreaking rule symmetric fractions exactly always get rounded asymmetry introduces negative bias roundoff errors example fraction y consists three random decimal digits expected value q lower expected value y reason roundtonearest round half rule also ambiguously known asymmetric rounding
+round half towards zeroedit
+one may also round half towards zero round half away infinity opposed conventional round half away zero
+fraction y exactly q y y positive q y y negative
+example gets rounded gets rounded
+method also treats positive negative values symmetrically therefore free overall bias original numbers positive negative equal probability
+round half away zeroedit
+tiebreaking method commonly taught used round half away zero round half towards infinity namely
+fraction y exactly q y y positive q y y negative
+example gets rounded gets rounded
+method treats positive negative values symmetrically therefore free overall bias original numbers positive negative equal probability
+often used currency conversions price roundings amount first converted smallest significant subdivision currency cents euro easy explain considering first fractional digit independently supplementary precision digits sign amount strict equivalence paying recipient amount
+round half evenedit
+tiebreaking rule less biased round half even namely
+fraction y q even integer nearest y
+thus example becomes becomes
+method treats positive negative values symmetrically therefore free sign bias importantly reasonable distributions y values expected average value rounded numbers original numbers however rule introduce towardszero bias y even towardsinfinity bias odd
+variant roundtonearest method also called unbiased rounding convergent rounding statisticians rounding dutch rounding gaussian rounding oddeven rounding bankers rounding
+default rounding mode used ieee computing functions operators
+round half oddedit
+similar tiebreaking rule round half odd
+fraction y q odd integer nearest y
+thus example becomes becomes
+method also treats positive negative values symmetrically therefore free sign bias importantly reasonable distributions y values expected average value rounded numbers original numbers however rule introduce towardszero bias y odd towardsinfinity bias even
+variant almost never used computations except situations one wants avoid rounding zero avoid increasing scale floating point numbers limited exponent range round half even non infinite number would round infinity small denormal value would round normal nonzero value effectively mode prefers preserving existing scale tie numbers avoiding range results possible even based number systems binary decimal
+stochastic roundingedit
+another unbiased tiebreaking method stochastic rounding
+fractional part y choose q randomly among y y equal probability
+like roundhalftoeven rule essentially free overall bias also fair among even odd q values hand introduces random component result performing computation twice data may yield two different results also open nonconscious bias humans rather computers devices chance randomly deciding direction round
+alternating tiebreakingedit
+one method obscure round half alternatingly
+fractional part alternate round round first occurrence fractional part round second occurrence round forth
+suppresses random component result occurrences fractional parts effectively numbered still introduce positive negative bias according direction rounding assigned first occurrence total number occurrences odd
+dithering error diffusionedit
+digitising continuous signals example images sound overall effect number measurements important accuracy individual measurement circumstances dithering related technique error diffusion normally used related technique called pulsewidth modulation used achieve analogue type output inertial device rapidly pulsing power variable duty cycle
+error diffusion tries ensure error average minimized dealing gentle slope one zero output would zero first terms sum error current value becomes greater case output difference subtracted error far floydsteinberg dithering popular error diffusion procedure digitising images
+rounding simple fractionsedit
+contexts desirable round given number x neat fraction nearest fraction z mn whose numerator m denominator n exceed given maximum problem fairly distinct rounding value fixed number decimal binary digits multiple given unit m problem related farey sequences sternbrocot tree continued fractions
+scaled roundingedit
+type rounding also named rounding logarithmic scale variant rounding specified increment rounding logarithmic scale accomplished taking log amount normal rounding nearest value log scale
+example resistors supplied preferred numbers logarithmic scale example resistors accuracy supplied nominal values etc calculation indicates resistor ohms required log log log logarithm closer logarithm therefore ohm resistor would first choice considerations
+round available valueedit
+finished lumber writing paper capacitors many products usually sold standard sizes
+many design procedures describe calculate approximate value round standard size using phrases round nearest standard value round nearest standard value round nearest standard value
+set preferred values equally spaced logarithmic scale choosing closest preferred value given value seen kind scaled rounding rounded values directly calculated
+floatingpoint roundingedit
+floatingpoint arithmetic rounding aims turn given value x value z specified number significant digits words z multiple number m depends magnitude x number m power base usually floatingpoint representation
+apart detail variants rounding discussed apply rounding floatingpoint numbers well algorithm rounding presented scaled rounding section constant scaling factor integer base b
+results rounded result would overflow result directed rounding either appropriate signed infinity highest representable positive finite number lowest representable negative finite number x negative depending direction rounding result overflow usual case round nearest always appropriate infinity
+double roundingedit
+rounding number twice succession different precisions latter precision coarser guaranteed give result rounding final precision except case directed rounding instance rounding one decimal gives rounding integer using rounding half even would give rounded integer directly borman chatfield discuss implications double rounding comparing data rounded one decimal place specification limits expressed using integers
+martinez v allstate sendejo v farmers litigated insurance companies argued double rounding premiums permissible fact required us courts ruled insurance companies ordered adopt rules ensure single rounding
+computer languages ieee standard dictate straightforward calculations result rounded twice particular problem java designed run identically different machines special programming tricks used achieve x floating point java language changed allow different results difference matter require strictfp qualifier used results conform accurately
+exact computation rounded arithmeticedit
+possible use rounded arithmetic evaluate exact value function discrete domain range example know integer n perfect square compute square root converting n floatingpoint value x computing approximate square root y x floating point rounding y nearest integer q n big floatingpoint roundoff error y less rounded value q exact square root n modern computers method may much faster computing square root n allinteger algorithm
+tablemakers dilemmaedit
+william kahan coined term tablemakers dilemma unknown cost rounding transcendental functions
+nobody knows much would cost compute yw correctly rounded every two floatingpoint arguments overunderflow instead reputable math libraries compute elementary transcendental functions mostly within slightly half ulp almost always well within one ulp cant yw rounded within half ulp like sqrt nobody knows much computation would cost general way exists predict many extra digits carried compute transcendental expression round correctly preassigned number digits even fact true finite number extra digits ultimately suffice may deep theorem
+ieee floating point standard guarantees add subtract multiply divide fused multiplyadd square root floating point remainder give correctly rounded result infinite precision operation guarantee given standard complex functions typically accurate within last bit best however standard guarantees conforming implementations give correctly rounded results respect active rounding mode implementation functions however optional
+using gelfondschneider theorem lindemannweierstrass theorem many standard elementary functions proved return transcendental results given rational nonzero arguments therefore always possible correctly round functions however determining limit given precision accurate results need computed correctly rounded result guaranteed may demand lot computation time
+packages offer correct rounding gnu mpfr package gives correctly rounded arbitrary precision results libraries implement elementary functions correct rounding double precision
+ibms libultim rounding nearest
+sun microsystemss libmcr rounding modes
+crlibm written arnaire team lip ens lyon supports rounding modes proved
+exist computable numbers rounded value never determined matter many digits calculated specific instances cannot given follows undecidability halting problem instance goldbachs conjecture true unprovable result rounding following value next integer cannot determined n n first even number greater sum two primes number result number exists number exists value rounding however approximated given precision even conjecture unprovable
+historyedit
+concept rounding old perhaps older even concept division ancient clay tablets found mesopotamia contain tables rounded values reciprocals square roots base rounded approximations length year length month also ancientsee base examples
+roundtoeven method served astm e standard since origin terms unbiased rounding statisticians rounding fairly selfexplanatory th edition probability theory errors robert simpson woodward called computers rule indicating common use human computers calculated mathematical tables churchill eisenhart indicated practice already well established data analysis
+origin term bankers rounding remains obscure rounding method ever standard banking evidence proved extremely difficult find contrary section european commission report introduction euro rounding currency amounts suggests previously standard approach rounding banking specifies halfway amounts rounded
+rounding method used floatingpoint computer arithmetic usually fixed hardware poorly documented inconsistent different brand model computer situation changed ieee floating point standard adopted computer manufacturers standard allows user choose among several rounding modes case specifies precisely results rounded features made numerical computations predictable machineindependent made possible efficient consistent implementation interval arithmetic
+rounding functions programming languagesedit
+programming languages provide functions special syntax round fractional numbers various ways earliest numeric languages fortran c would provide one method usually truncation towards zero default method could implied certain contexts assigning fractional number integer variable using fractional number index array kinds rounding programmed explicitly example rounding positive number nearest integer could implemented adding truncating
+last decades however syntax andor standard libraries languages commonly provided least four basic rounding functions nearest towards zero tiebreaking method may vary depending language version andor may selectable programmer several languages follow lead ieee floatingpoint standard define functions taking double precision float argument returning result type may converted integer necessary approach may avoid spurious overflows since floatingpoint types larger range integer types languages php provide functions round value specified number decimal digits eg addition many languages provide printf similar string formatting function allows one convert fractional number string rounded userspecified number decimal places precision hand truncation round zero still default rounding method used many languages especially division two integer values
+opposite css svg define specific maximum precision numbers measurements treated exposed dom idl interface strings infinite precision discriminate integers floating point values however implementations languages typically convert numbers ieee double floating points exposing computed digits limited precision notably within standard javascript ecmascript interface bindings
+rounding standardsedit
+disciplines institutions issued standards directives rounding
+us weather observationsedit
+guideline issued mid us office federal coordinator meteorology determined weather data rounded nearest round number round half tiebreaking rule example rounded integer become become prior date tiebreaking rule round half away zero
+negative zero meteorologyedit
+meteorologists may write indicate temperature degrees exclusive rounded integer notation used negative sign considered important matter small magnitude example rounding temperatures celsius scale zero indicates freezing
+see alsoedit
+gals accurate tables
+interval arithmetic
+iso
+kahan summation algorithm
+nearest integer function
+truncation
+signeddigit representation
+swedish rounding avoid use coins extremely low value
+referencesedit
+external linksedit
+weisstein eric w rounding mathworld
+introduction different rounding algorithms accessible general audience especially useful studying computer science electronics
+implement custom rounding procedures microsoft

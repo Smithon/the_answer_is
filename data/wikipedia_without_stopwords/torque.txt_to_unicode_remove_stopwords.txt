@@ -1,0 +1,92 @@
+torque moment moment force see terminology tendency force rotate object axis fulcrum pivot force push pull torque thought twist object mathematically torque defined cross product position vector point force applied distance vector force vector tends produce rotation
+loosely speaking torque measure turning force object bolt flywheel example pushing pulling handle wrench connected nut bolt produces torque turning force loosens tightens nut bolt
+symbol torque typically lowercase greek letter tau called moment force commonly denoted m
+magnitude torque depends three quantities force applied length lever arm connecting axis point force application angle force vector lever arm symbols
+torque vector magnitude torque
+r position vector vector origin coordinate system defined point force applied
+f force vector
+denotes cross product
+angle force vector lever arm vector
+si unit torque newton metre nm units torque see units
+terminologyedit
+article follows us physics terminology use word torque uk us mechanical engineering called moment force usually shortened moment us physics uk physics terminology terms interchangeable unlike us mechanical engineering term torque used closely related resultant moment couple
+torque defined mathematically rate change angular momentum object definition torque states one angular velocity moment inertia object changing moment general term used tendency one applied forces rotate object axis necessarily change angular momentum object concept called torque physics example rotational force applied shaft causing acceleration drill bit accelerating rest results moment called torque contrast lateral force beam produces moment called bending moment since angular momentum beam changing bending moment called torque similarly force couple object change angular momentum moment also called torque
+article follows us physics terminology calling moments term torque whether cause angular momentum object change
+historyedit
+concept torque also called moment couple originated studies archimedes levers term torque apparently introduced english scientific literature james thomson brother lord kelvin
+definition relation angular momentumedit
+force applied right angle lever multiplied distance levers fulcrum length lever arm torque force three newtons applied two metres fulcrum example exerts torque force one newton applied six metres fulcrum direction torque determined using right hand grip rule fingers right hand curled direction lever arm direction force thumb points direction torque
+generally torque particle position r reference frame defined cross product
+r particles position vector relative fulcrum f force acting particle magnitude torque given
+r distance axis rotation particle f magnitude force applied angle position force vectors alternatively
+f amount force directed perpendicularly position particle force directed parallel particles position vector produce torque
+follows properties cross product torque vector perpendicular position force vectors torque vector points along axis rotation force vector starting rest would initiate resulting torque vector direction determined righthand rule
+unbalanced torque body along axis rotation determines rate change bodys angular momentum
+l angular momentum vector time multiple torques acting body instead net torque determines rate change angular momentum
+rotation fixed axis
+moment inertia angular velocity follows
+angular acceleration body measured rads equation limitation torque equation describes instantaneous axis rotation center mass type motion whether pure translation pure rotation mixed motion moment inertia point torque written either instantaneous axis rotation center mass body translatory equilibrium torque equation points plane motion
+torque necessarily limited rotation around fixed axis however may change magnitude andor direction angular momentum vector depending angle velocity vector nonradial component force vector viewed pivots frame reference net torque spinning body therefore may result precession without necessarily causing change spin rate
+proof equivalence definitionsedit
+definition angular momentum single particle
+indicates vector cross product p particles linear momentum r displacement vector origin origin assumed fixed location anywhere space timederivative
+result easily proven splitting vectors components applying product rule using definition force whether mass constant definition velocity
+cross product momentum associated velocity zero velocity momentum parallel second term vanishes
+definition torque r f therefore torque particle equal first derivative angular momentum respect time
+multiple forces applied newtons second law instead reads fnet ma follows
+general proof
+unitsedit
+torque dimension force times distance symbolically lmt official si literature suggests using unit newton metre nm unit joule per radian unit newton metre properly denoted nm n m avoids ambiguity mn millinewtons
+si unit energy work joule dimensionally equivalent force one newton acting distance one metre used torque energy torque entirely different concepts practice using different unit names ie reserving newton metres torque using joules energy helps avoid mistakes misunderstandings dimensional equivalence units course simply coincidence torque nm applied full revolution require energy exactly joules mathematically
+e energy magnitude torque angle moved radians equation motivates alternate unit name joules per radian
+imperial units poundforcefeet lbft footpoundsforce inchpoundsforce ounceforceinches ozin used nonsi units torque includes metrekilogramsforce units word force often left example abbreviating poundforcefoot simply poundfoot case would implicit pound poundforce poundmass example confusion caused use english units may avoided si units careful distinction si force newtons mass kilograms
+torque sometimes listed units make dimensional sense gramcentimeter case gram understood force given weight gram surface earth ie n surface earth understood standard acceleration gravity ms
+special cases factsedit
+moment arm formulaedit
+useful special case often given definition torque fields physics follows
+construction moment arm shown figure right along vectors r f mentioned problem definition give direction torque magnitude hence difficult use threedimensional cases force perpendicular displacement vector r moment arm equal distance centre torque maximum given force equation magnitude torque arising perpendicular force
+example person places force n terminal end wrench m long force n exactly m twist point wrench length torque nm assuming person moves wrench applying force plane movement perpendicular wrench
+static equilibriumedit
+object static equilibrium must sum forces zero also sum torques moments point twodimensional situation horizontal vertical forces sum forces requirement two equations h v torque third equation solve statically determinate equilibrium problems twodimensions three equations used
+net force versus torqueedit
+net force system zero torque measured point space example torque currentcarrying loop uniform magnetic field regardless point reference net force zero torque measured torque measured
+machine torqueedit
+torque part basic specification engine power output engine expressed torque multiplied rotational speed axis internalcombustion engines produce useful torque limited range rotational speeds typically around rpm small car varying torque output range measured dynamometer shown torque curve
+steam engines electric motors tend produce maximum torque close zero rpm torque diminishing rotational speed rises due increasing friction constraints reciprocating steam engines start heavy loads zero rpm without clutch
+relationship torque power energyedit
+force allowed act distance mechanical work similarly torque allowed act rotational distance work mathematically rotation fixed axis center mass
+w work torque represent respectively initial final angular positions body follows workenergy theorem w also represents change rotational kinetic energy er body given
+moment inertia body angular speed
+power work per unit time given
+p power torque angular velocity represents scalar product
+algebraically equation may rearranged compute torque given angular speed power output note power injected torque depends instantaneous angular speed whether angular speed increases decreases remains constant torque applied equivalent linear case power injected force depends instantaneous speed resulting acceleration
+practice relationship observed bicycles bicycles typically composed two road wheels front rear gears referred sprockets meshing circular chain derailleur mechanism bicycles transmission system allows multiple gear ratios used ie multispeed bicycle attached frame cyclist person rides bicycle provides input power turning pedals thereby cranking front sprocket commonly referred chainring input power provided cyclist equal product cadence ie number pedal revolutions per minute torque spindle bicycles crankset bicycles drivetrain transmits input power road wheel turn conveys received power road output power bicycle depending gear ratio bicycle torque rpminput pair converted torque rpmoutput pair using larger rear gear switching lower gear multispeed bicycles angular speed road wheels decreased torque increased product ie power change
+consistent units must used metric si units power watts torque newton metres angular speed radians per second rpm revolutions per second
+also unit newton metre dimensionally equivalent joule unit energy however case torque unit assigned vector whereas energy assigned scalar
+conversion unitsedit
+conversion factor may necessary using different units power torque example rotational speed revolutions per time used place angular speed radians per time multiply factor radians per revolution following formulas p power torque rotational speed
+showing units
+dividing seconds per minute gives us following
+rotational speed revolutions per minute rpm
+people eg american automotive engineers use horsepower imperial mechanical power footpounds lbfft torque rpm rotational speed results formula changing
+constant foot pounds per minute changes definition horsepower example using metric horsepower becomes approximately
+use units eg btu per hour power would require different custom conversion factor
+derivationedit
+rotating object linear distance covered circumference rotation product radius angle covered linear distance radius angular distance definition linear distance linear speed time radius angular speed time
+definition torque torque radius force rearrange determine force torque radius two values substituted definition power
+radius r time dropped equation however angular speed must radians assumed direct relationship linear speed angular speed beginning derivation rotational speed measured revolutions per unit time linear speed distance increased proportionately derivation give
+torque newton metres rotational speed revolutions per second equation gives power newton metres per second watts imperial units used torque poundsforce feet rotational speed revolutions per minute equation gives power foot poundsforce per minute horsepower form equation derived applying conversion factor ftlbfmin per horsepower
+principle momentsedit
+principle moments also known varignons theorem confused geometrical theorem name states sum torques due several forces applied single point equal torque due sum resultant forces mathematically follows
+torque multiplieredit
+torque multiplier gear box reduction ratios greater given torque input gets multiplied per reduction ratio transmitted output thereby achieving greater torque reduced rotational speed
+see alsoedit
+referencesedit
+external linksedit
+horsepower torque article showing power torque gearing affect vehicles performance
+torque vs horsepower yet another argument automotive perspective
+discussion torque angular momentum online textbook
+torque angular momentum circular motion project physnet
+interactive simulation torque
+torque unit converter
+feel torque orderofmagnitude interactive

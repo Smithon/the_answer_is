@@ -1,0 +1,93 @@
+quantitative trait locus qtl section dna locus correlates variation phenotype quantitative trait qtl typically linked contains genes control phenotype qtls mapped identifying molecular markers snps aflps correlate observed trait often early step identifying sequencing actual genes cause trait variation
+quantitative traits phenotypes characteristics vary degree attributed polygenic effects ie product two genes environment
+history
+mendelian inheritance rediscovered beginning th century mendels ideas spread geneticists began connect mendels rules inheritance single factors darwinian evolution early geneticists immediately clear smooth variation traits like body size ie incomplete dominance caused inheritance single genetic factors although darwin observed inbred features fancy pigeons inherited accordance mendels laws although darwin didnt actually know mendels ideas made observation obvious features selected fancy pigeon breeders similarly explain quantitative variation nature
+early attempt william ernest castle unify laws mendelian inheritance darwins theory speciation invoked idea species become distinct one another one species acquires novel mendelian factor castles conclusion based observation novel traits could studied lab show mendelian inheritance patterns reflect large deviation wild type castle believed acquisition features basis discontinuous variation characterizes speciation interestingly darwin discussed inheritance similar mutant features invoke requirement speciation instead darwin used emergence features breeding populations evidence mutation occur random within breeding populations central premise model selection nature later career castle would refine model speciation allow small variation contribute speciation time also able demonstrate point selectively breeding laboratory populations rats obtain hooded phenotype several generations
+castles perhaps first attempt made scientific literature direct evolution artificial selection trait continuous underlying variation however practice previously widely employed development agriculture obtain livestock plants favorable features populations show quantitative variation traits like body size grain yield
+castles work among first attempt unify recently rediscovered laws mendelian inheritance darwins theory evolution still would almost thirty years theoretical framework evolution complex traits would widely formalized early summary theory evolution continuous variation sewall wright graduate student trained castle summarized contemporary thinking genetic basis quantitative natural variation genetic studies continued ever smaller differences found mendelize character sufficiently investigated turned affected many factors wright others formalized population genetics theory worked preceding years explaining traits inherited create stably breeding populations unique characteristics quantitative trait genetics today leverages wrights observations statistical relationship genotype phenotype families populations understand certain genetic features affect variation natural derived populations
+quantitative traits
+polygenic inheritance refers inheritance phenotypic characteristic trait attributable two genes measured quantitatively multifactorial inheritance refers polygenic inheritance also includes interactions environment unlike monogenic traits polygenic traits follow patterns mendelian inheritance discrete categories instead phenotypes typically vary along continuous gradient depicted bell curve
+example polygenic trait human skin color variation several genes factor determining persons natural skin color modifying one genes change skin color slightly cases slca moderately many disorders genetic components polygenic including autism cancer diabetes numerous others phenotypic characteristics result interaction multiple genes
+examples disease processes generally considered results multifactorial etiology
+congenital malformation
+cleft palate
+congenital dislocation hip
+congenital heart defects
+neural tube defects
+pyloric stenosis
+talipes
+adult onset diseases
+diabetes mellitus
+cancer
+epilepsy
+glaucoma
+hypertension
+ischaemic heart disease
+manic depression
+schizophrenia
+psoriasis
+thyroid diseases
+alzheimers disease
+multifactorially inherited diseases said constitute majority genetic disorders affecting humans result hospitalization special care kind
+multifactorial traits general
+trait controlled environment genetic factor usually multifactorial traits outside illness result see continuous characteristics organisms especially human organisms height skin color body mass phenotypes complicated great deal giveandtake genes environmental effects continuous distribution traits height skin color described reflects action genes manifest typical patterns dominance recessiveness instead contributions involved locus thought additive writers distinguished kind inheritance polygenic quantitative inheritance
+thus due nature polygenic traits inheritance follow pattern simple monohybrid dihybrid cross polygenic inheritance explained mendelian inheritance many loci resulting trait normallydistributed n number involved loci coefficients binomial expansion bn give frequency distribution n allele combinations sufficiently high n binomial distribution begin resemble normal distribution viewpoint disease state become apparent one tails distribution past threshold value disease states increasing severity expected one goes past threshold away mean
+heritable disease multifactorial inheritance
+mutation resulting disease state often recessive alleles must mutant order disease expressed phenotypically disease syndrome may also result expression mutant alleles one locus one gene involved without presence environmental triggers say disease result multifactorial inheritance
+genes involved cross distribution genotypes resemble normal gaussian distribution shows multifactorial inheritance polygenic genetic frequencies predicted way polyhybrid mendelian cross phenotypic frequencies different matter especially complicated environmental factors
+paradigm polygenic inheritance used define multifactorial disease encountered much disagreement turnpenny discusses simple polygenic inheritance cannot explain diseases onset type diabetes mellitus cases genes thought make equal contribution
+assumption polygenic inheritance involved loci make equal contribution symptoms disease result normal curve distribution genotypes idea polygenetic inheritance cannot supported illness
+cursory look examples
+examples diseases new medicine examples wellknown examples diseases genetic environmental components examples involve atopic diseases eczema dermatitisspina bifida open spine anencephaly open skull
+schizophrenia widely believed multifactorially genetic biopsychiatrists characteristic genetic markers determined certainty
+shown brothers sisters patient disease strong chance disease genetic patient also genetic carrier quite enough also needs proven pattern inheritance nonmendelian would require studying dozens even hundreds different family pedigrees conclusion multifactorial inheritance drawn often takes several years
+multifactorial inheritance indeed case chance patient contracting disease reduced cousins distant relatives disease must stated multifactoriallyinherited diseases tend run families inheritance follow pattern simple monohybrid dihybrid cross
+genetic cause suspected little else known illness remains seen exactly many genes involved phenotypic expression disease determined question must answered two people required genes differences expression generally makes two individuals different likely environmental factors due involved nature genetic investigations needed determine inheritance patterns usually first avenue investigation one would choose determine etiology
+typically qtls underlie continuous traits traits vary continuously eg height opposed discrete traits traits two several character values eg red hair humans recessive trait smooth vs wrinkled peas used mendel experiments
+moreover single phenotypic trait usually determined many genes consequently many qtls associated single trait
+quantitative trait locus qtl region dna associated particular phenotypic trait qtls often found different chromosomes knowing number qtls explains variation phenotypic trait tells us genetic architecture trait may tell us plant height controlled many genes small effect genes large effect
+another use qtls identify candidate genes underlying trait region dna identified contributing phenotype sequenced dna sequence genes region compared database dna genes whose function already known
+recent development classical qtl analyses combined gene expression profiling ie dna microarrays expression qtls eqtls describe cis transcontrolling elements expression often diseaseassociated genes observed epistatic effects found beneficial identify gene responsible crossvalidation genes within interacting loci metabolic pathway scientific literature databases
+qtl mapping
+organisms whose genomes known one might try exclude genes identified region whose function known certainty connected trait question genome available may option sequence identified region determine putative functions genes similarity genes known function usually genomes done using blast online tool allows users enter primary sequence search similar sequences within blast database genes various organisms often actual gene underlying phenotypic trait rather region dna closely linked gene
+another interest statistical geneticists using qtl mapping determine complexity genetic architecture underlying phenotypic trait example may interested knowing whether phenotype shaped many independent loci loci loci interact provide information phenotype may evolving
+analysis variance
+simplest method qtl mapping analysis variance anova sometimes called marker regression marker loci method backcross one may calculate tstatistic compare averages two marker genotype groups types crosses intercross two possible genotypes one uses general form anova provides socalled fstatistic anova approach qtl mapping three important weaknesses first receive separate estimates qtl location qtl effect qtl location indicated looking markers give greatest differences genotype group averages apparent qtl effect marker smaller true qtl effect result recombination marker qtl second must discard individuals whose genotypes missing marker third markers widely spaced qtl may quite far markers power qtl detection decrease
+interval mapping
+lander botstein developed interval mapping overcomes three disadvantages analysis variance marker loci interval mapping currently popular approach qtl mapping experimental crosses method makes use genetic map typed markers like analysis variance assumes presence single qtl interval mapping locus considered one time logarithm odds ratio lod score calculated model given locus true qtl odds ratio related pearson correlation coefficient phenotype marker genotype individual experimental cross
+term interval mapping used estimating position qtl within two markers often indicated markerbracket interval mapping originally based maximum likelihood also good approximations possible simple regression
+principle qtl mapping likelihood calculated given set parameters particularly qtl effect qtl position given observed data phenotypes marker genotypes estimates parameters likelihood highest significance threshold established permutation testing
+conventional methods detection quantitative trait loci qtls based comparison single qtl models model assuming qtl instance interval mapping method likelihood single putative qtl assessed location genome however qtls located elsewhere genome interfering effect consequence power detection may compromised estimates locations effects qtls may biased lander botstein knapp even nonexisting socalled ghost qtls may appear haley knott martinez curnow therefore obvious multiple qtls could mapped efficiently accurately using multiple qtl models one popular approach handle qtl mapping multiple qtl contribute trait iteratively scan genome add known qtl regression model qtls identified method termed composite interval mapping determine location effects size qtl accurately singleqtl approaches especially small mapping populations effect correlation genotypes mapping population may problematic
+composite interval mapping cim
+method one performs interval mapping using subset marker loci covariates markers serve proxies qtls increase resolution interval mapping accounting linked qtls reducing residual variation key problem cim concerns choice suitable marker loci serve covariates chosen cim turns model selection problem singledimensional scan choice marker covariates solved however surprisingly appropriate markers closest true qtls one could find qtl mapping problem would complete anyway
+familypedigree based mapping
+family based qtl mapping familypedigree based mapping linkage association mapping involves multiple families instead single family family based qtl mapping way mapping genes experimental crosses difficult make however due advantages plant geneticists attempting incorporate methods pioneered human genetics using familypedigree based approach discussed bink et al familybased linkage association successfully implemented rosyara et al
+see also
+family based qtl mapping
+epistasis
+dominance genetics
+expression quantitative trait loci eqtl
+association mapping
+nested association mapping
+oncogene
+genetic predisposition
+genetic susceptibility
+references
+bink mcam boer mp ter braak cjf jansen j voorrips re van de weg bayesian analysis complex traits pedigreed plant populations
+euphytica
+rosyara ur jl gonzalezhernandez kd glover kr gedye jm stein familybased mapping quantitative trait loci plant breeding populations resistance fusarium head blight wheat illustration theoretical applied genetics
+garnier sophie truong vinh genomewide haplotype analysis cis expression quantitative trait loci monocytes
+external links
+plant breeding genomics extensionorg
+intersnp software genomewide interaction analysis gwia casecontrol snp data analysis quantitative traits
+precision mapping quantitative trait loci
+qtl cartographer
+complex trait consortium
+statistical framework quantitative trait mapping
+genenetwork
+gridqtl
+qtl discussion forum
+list computer programs genetic analysis including qtl analysis
+quantitative trait locus qtl analysis scitable
+mapping quantitative trait loci
+quantitative trait loci university warwick

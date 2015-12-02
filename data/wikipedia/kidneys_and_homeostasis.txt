@@ -1,0 +1,64 @@
+in physics a free body diagram (force diagram or fbd) is a graphical illustration used to visualize the applied forces movements and resulting reactions on a body in a steady state condition (no acceleration of the system) they depict a body or connected bodies with all of the applied forces and moments as well as reactions that act on that/those body(ies) the body may consist of multiple internal members for example a truss or be a compact body such as a beam a series of free bodies and other diagrams may be necessary to solve complex problems
+== purpose ==
+free body diagrams are used to visualize the forces and moments applied to a body and calculate the resulting reactions in many types of mechanics problems in structural analysis free body diagrams are used both to determine the loading of individual structural components as well as calculating internal forces within the structure in the educational environment learning to draw a free body diagram is an important step in understanding certain topics in physics such as statics dynamics and other forms of classical mechanics one professor at cornell university earned the nickname "free-body perkins" because of his passion for teaching the importance of using free body diagrams to solve mechanics problems he went so far as to stop random students in the hall saying you come in my office draw a free body diagram
+== features ==
+a free body diagram is not meant to be a scaled drawing it is a diagram that is modified as the problem is solved there is an art and flexibility to the process the iconography of a free body diagram not only how it is drawn but also how it is interpreted depends upon how a body is modeled
+free body diagrams consist of:
+a simplified version of the body
+forces shown as straight arrows pointing in the direction they act on the body
+moments shown as curved arrows pointing in the direction they act on the body
+a coordinate system
+frequently reaction to applied forces are shown with hash marks through the stem of the arrow
+the number of forces and moments shown in a free body diagram depends on the specific problem and the assumptions made; common assumptions are neglecting air resistance friction and assuming rigid bodies in statics all forces and moments must balance to zero; the physical interpretation of this is that if the forces and moments do not sum to zero the body is in motion and the principles of statics do not apply therefore for each force shown in the free body diagram of a statics problem there must be at least one opposing force (known as a reaction) in dynamics the resultant forces and moments can be non-zero and so opposing forces are not necessary but are often present
+=== modeling the body ===
+a body may be modeled in three ways:
+a particle this model may be used when any rotational effects are zero or have no interest even though the body itself may be extended the body may be represented by a small symbolic blob and the diagram reduces to a set of concurrent arrows a force on a particle is a bound vector
+rigid extended stresses and strains are of no interest but turning effects are a force arrow should lie along the line of force but where along the line is irrelevant a force on an extended rigid body is a sliding vector
+non-rigid extended the point of application of a force becomes crucial and has to be indicated on the diagram a force on a non-rigid body is a bound vector some use the tail of the arrow to indicate the point of application others use the tip
+==== example: a body in free fall ====
+consider a body in free fall in a uniform gravitational field the body may be
+a particle it is enough to show a single vertically downward pointing arrow attached to a blob
+rigid extended a single arrow suffices to represent the weight w even though gravitational attraction acts on every particle of the body the arrow must lie along a line through the centre of gravity where exactly along the line the arrow should lie is a matter of convenience a popular choice is to locate the arrow at the centre of gravity but strictly speaking there is no need to do so in rigid body analysis see figure 2
+non-rigid extended in non-rigid analysis it would be an error to associate a single point of application with the gravitational force
+=== what is included ===
+an fbd represents the body of interest the external forces on it and the reactions that keep the body in equilibrium
+the body: this is usually sketched in a schematic way depending on the body - particle/extended rigid/non-rigid - and on what questions are to be answered thus if rotation of the body and torque is in consideration an indication of size and shape of the body is needed for example the brake dive of a motorcycle cannot be found from a single point and a sketch with finite dimensions is required
+the external forces: these are indicated by labelled arrows in a fully solved problem a force arrow is capable of indicating
+the direction and the line of action
+the magnitude
+the point of application
+a reaction as opposed to an applied load if a hash is present through the arrow
+typically however a provisional free body sketch is drawn before all these things are known after all the whole point of the diagram is to help to determine these things thus when a force arrow is originally drawn its length may not be meant to indicate the unknown magnitude its line may not correspond to the exact line of action even its direction may turn out to wrong very often the original direction of the arrow may be directly opposite to the true direction an engineer may also omit some forces altogether especially in rigid body analysis where there are paired forces which cancel each other
+the forces acting on the object include friction gravity normal force drag tension or a human force due to pushing or pulling when in a non-inertial reference frame fictitious forces such as centrifugal pseudoforce may be appropriate
+a coordinate system is sometimes included according to convenience this may make defining the vectors simpler when writing the equations of motion the x direction might be chosen to point down the ramp in an inclined plane problem for example in that case the friction force only has an x component and the normal force only has a y component the force of gravity will still have components in both the x and y direction: mgsin() in the x and mgcos() in the y where is the angle between the ramp and the horizontal
+=== exclusions ===
+there are some things that a free body diagram explicitly excludes although other sketches that include these things may be helpful in visualizing a problem a proper free body diagram should not show:
+bodies other than the free body
+constraints
+(the body is not free from constraints; the constraints have just been replaced by the forces and moments that they exert on the body.)
+forces exerted by the free body
+(a diagram showing the forces exerted both on and by a body is likely to be confusing since all the forces will cancel out by newton's 3rd law if body a exerts a force on body b then b exerts an equal and opposite force on a this should not be confused with the equal and opposite forces that are necessary to hold a body in equilibrium.)
+internal forces
+(for example if an entire truss is being analyzed the forces between the individual truss members are not included.)
+velocity or acceleration vectors
+== analysis ==
+a free body diagram is analyzed by summing all of the forces often accomplished by summing the forces in each of the axis directions when the net force is zero the body must be at rest or some constant velocity by newton's first law if the net force is not zero then the body is accelerating in that direction by newton's second law
+=== angled forces ===
+determining the sum of the forces is straightforward if all they are linear and perpendicular to the diagram's axes but it is somewhat more complex if some forces are at angles other than 90 it is often convenient to analyze the components of the forces in which case the symbols fx and fy are used instead of f forces that point at an angle to the diagram's coordinate axis can be broken down into two parts (or three for three dimensional problems)each part being directed along one of the axeshorizontally (fx) and vertically (fy)
+== example: a block on an inclined plane ==
+a simple free body diagram shown above of a block on a ramp illustrates this
+all external supports and structures have been replaced by the forces they generate these include:
+mg: the product of the mass of the block and the constant of gravitation acceleration: its weight
+n: the normal force of the ramp
+ff: the friction force of the ramp
+the force vectors show direction and point of application and are labeled with their magnitude
+it contains a coordinate system that can be used when describing the vectors
+some care is needed in interpreting the diagram the line of action of the normal force has been shown to be at the midpoint of the base but its true location can only be found if sufficient further data is given the diagram as it stands would need to be modified were we told that the block is in equilibrium
+there is a potential difficulty also with the arrow representing friction the engineer who drew this diagram has used the tip of the arrow to indicate the point of application of a force (see the other force arrows in the diagram) now the tip of the friction arrow is at the highest point of the base the intention however is not to indicate that the friction acts at that point the engineer in this instance has assumed a rigid body scenario and that the friction force is a sliding vector and thus the point of application is not relevant the engineer has tried to indicate that the friction acts all along the whole base by drawing an arrow all along the base but such artistic ploys are a matter of personal choice
+== see also ==
+classical mechanics
+force field analysis applications of force diagram in social science
+shear and moment diagrams
+kinematic diagram
+== references ==
+== notes ==

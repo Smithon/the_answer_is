@@ -1,0 +1,11 @@
+in mechanics two or more springs are said to be in series when they are connected end-to-end and in parallel when they are connected side-by-side; in both cases so as to act as a single spring
+more generally two or more springs are in series when any external stress applied to the ensemble gets applied to each spring without change of magnitude and the amount strain (deformation) of the ensemble is the sum of the strains of the individual springs conversely they are said to be in parallel if the strain of the ensemble is their common strain and the stress of the ensemble is the sum of their stresses
+any combination of hookean (linear-response) springs in series or parallel behaves like a single hookean spring the formulas for combining their physical attributes are analogous to those that apply to capacitors connected in series or parallel in an electrical circuit
+== formulas ==
+=== equivalent spring ===
+the following table gives formulas for the spring that is equivalent to a system of two springs in series or in parallel whose spring constants are and  (the compliance of a spring is the reciprocal of its spring constant.)
+== partition formulas ==
+=== derivations ===
+== see also ==
+truss
+== references ==

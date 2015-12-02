@@ -1,0 +1,8 @@
+the pressure-gradient force is the force which results when there is a difference in pressure across a surface in general a pressure is a force per unit area across a surface a difference in pressure across a surface then implies a difference in force which can result in an acceleration according to newton's second law if there is no additional force to balance it the resulting force is always directed from the region of higher-pressure to the region of lower-pressure when a fluid is in an equilibrium state (i.e there are no net forces and no acceleration) the system is referred to as being in hydrostatic equilibrium in the case of atmospheres the pressure gradient force is balanced by the gravitational force maintaining hydrostatic equilibrium in earth's atmosphere for example air pressure decreases at increasing altitudes above earth's surface thus providing a pressure gradient force which counteracts the force of gravity on the atmosphere
+== formalism ==
+consider a cubic parcel of fluid with a density  a height  and a surface area  the mass of the parcel can be expressed as  using newton's second law  we can then examine a pressure difference (assumed to be only in the -direction) to find the resulting force 
+the acceleration resulting from the pressure gradient is then
+the effects of the pressure gradient are usually expressed in this way in terms of an acceleration instead of in terms of a force we can express the acceleration more precisely for a general pressure as
+the direction of the resulting force (acceleration) is thus in the opposite direction of the most rapid increase of pressure
+== references ==
+roland b stull (2000) meteorology for scientists and engineers second edition ed brooks/cole isbn 0-534-37214-7

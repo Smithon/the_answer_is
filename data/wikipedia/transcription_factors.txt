@@ -1,0 +1,205 @@
+in molecular biology and genetics a transcription factor (sometimes called a sequence-specific dna-binding factor) is a protein that binds to specific dna sequences thereby controlling the rate of transcription of genetic information from dna to messenger rna transcription factors perform this function alone or with other proteins in a complex by promoting (as an activator) or blocking (as a repressor) the recruitment of rna polymerase (the enzyme that performs the transcription of genetic information from dna to rna) to specific genes
+a defining feature of transcription factors is that they contain one or more dna-binding domains (dbds) which attach to specific sequences of dna adjacent to the genes that they regulate additional proteins such as coactivators chromatin remodelers histone acetylases deacetylases kinases and methylases while also playing crucial roles in gene regulation lack dna-binding domains and therefore are not classified as transcription factors
+== conservation in different organisms ==
+transcription factors are essential for the regulation of gene expression and are as a consequence found in all living organisms the number of transcription factors found within an organism increases with genome size and larger genomes tend to have more transcription factors per gene
+there are approximately 2600 proteins in the human genome that contain dna-binding domains and most of these are presumed to function as transcription factors though other studies indicate it to be a smaller number therefore approximately 10% of genes in the genome code for transcription factors which makes this family the single largest family of human proteins furthermore genes are often flanked by several binding sites for distinct transcription factors and efficient expression of each of these genes requires the cooperative action of several different transcription factors (see for example hepatocyte nuclear factors) hence the combinatorial use of a subset of the approximately 2000 human transcription factors easily accounts for the unique regulation of each gene in the human genome during development
+== mechanism ==
+transcription factors bind to either enhancer or promoter regions of dna adjacent to the genes that they regulate depending on the transcription factor the transcription of the adjacent gene is either up- or down-regulated transcription factors use a variety of mechanisms for the regulation of gene expression these mechanisms include:
+stabilize or block the binding of rna polymerase to dna
+catalyze the acetylation or deacetylation of histone proteins the transcription factor can either do this directly or recruit other proteins with this catalytic activity many transcription factors use one or the other of two opposing mechanisms to regulate transcription:histone acetyltransferase (hat) activity acetylates histone proteins which weakens the association of dna with histones which make the dna more accessible to transcription thereby up-regulating transcription
+histone deacetylase (hdac) activity deacetylates histone proteins which strengthens the association of dna with histones which make the dna less accessible to transcription thereby down-regulating transcription
+recruit coactivator or corepressor proteins to the transcription factor dna complex
+== function ==
+transcription factors are one of the groups of proteins that read and interpret the genetic "blueprint" in the dna they bind to the dna and help initiate a program of increased or decreased gene transcription as such they are vital for many important cellular processes below are some of the important functions and biological roles transcription factors are involved in:
+=== basal transcription regulation ===
+in eukaryotes an important class of transcription factors called general transcription factors (gtfs) are necessary for transcription to occur many of these gtfs don't actually bind dna but are part of the large transcription preinitiation complex that interacts with rna polymerase directly the most common gtfs are tfiia tfiib tfiid (see also tata binding protein) tfiie tfiif and tfiih the preinitiation complex binds to promoter regions of dna upstream to the gene that they regulate
+=== differential enhancement of transcription ===
+other transcription factors differentially regulate the expression of various genes by binding to enhancer regions of dna adjacent to regulated genes these transcription factors are critical to making sure that genes are expressed in the right cell at the right time and in the right amount depending on the changing requirements of the organism
+==== development ====
+many transcription factors in multicellular organisms are involved in development responding to cues (stimuli) these transcription factors turn on/off the transcription of the appropriate genes which in turn allows for changes in cell morphology or activities needed for cell fate determination and cellular differentiation the hox transcription factor family for example is important for proper body pattern formation in organisms as diverse as fruit flies to humans another example is the transcription factor encoded by the sex-determining region y (sry) gene which plays a major role in determining sex in humans
+==== response to intercellular signals ====
+cells can communicate with each other by releasing molecules that produce signaling cascades within another receptive cell if the signal requires upregulation or downregulation of genes in the recipient cell often transcription factors will be downstream in the signaling cascade estrogen signaling is an example of a fairly short signaling cascade that involves the estrogen receptor transcription factor: estrogen is secreted by tissues such as the ovaries and placenta crosses the cell membrane of the recipient cell and is bound by the estrogen receptor in the cell's cytoplasm the estrogen receptor then goes to the cell's nucleus and binds to its dna-binding sites changing the transcriptional regulation of the associated genes
+==== response to environment ====
+not only do transcription factors act downstream of signaling cascades related to biological stimuli but they can also be downstream of signaling cascades involved in environmental stimuli examples include heat shock factor (hsf) which upregulates genes necessary for survival at higher temperatures hypoxia inducible factor (hif) which upregulates genes necessary for cell survival in low-oxygen environments and sterol regulatory element binding protein (srebp) which helps maintain proper lipid levels in the cell
+==== cell cycle control ====
+many transcription factors especially some that are proto-oncogenes or tumor suppressors help regulate the cell cycle and as such determine how large a cell will get and when it can divide into two daughter cells one example is the myc oncogene which has important roles in cell growth and apoptosis
+==== pathogenesis ====
+transcription factors can also be used to alter gene expression in a host cell to promote pathogenesis a well studied example of this are the transcription-activator like effectors (tal effectors) secreted by xanthomonas bacteria when injected into plants these proteins can enter the nucleus of the plant cell bind plant promoter sequences and activate transcription of plant genes that aid in bacterial infection tal effectors contain a central repeat region in which there is a simple relationship between the identity of two critical residues in sequential repeats and sequential dna bases in the tal effectors target site this property likely makes it easier for these proteins to evolve in order to better compete with the defense mechanisms of the host cell
+== regulation ==
+it is common in biology for important processes to have multiple layers of regulation and control this is also true with transcription factors: not only do transcription factors control the rates of transcription to regulate the amounts of gene products (rna and protein) available to the cell but transcription factors themselves are regulated (often by other transcription factors) below is a brief synopsis of some of the ways that the activity of transcription factors can be regulated:
+=== synthesis ===
+transcription factors (like all proteins) are transcribed from a gene on a chromosome into rna and then the rna is translated into protein any of these steps can be regulated to affect the production (and thus activity) of a transcription factor one interesting implication of this is that transcription factors can regulate themselves for example in a negative feedback loop the transcription factor acts as its own repressor: if the transcription factor protein binds the dna of its own gene it will down-regulate the production of more of itself this is one mechanism to maintain low levels of a transcription factor in a cell
+=== nuclear localization ===
+in eukaryotes transcription factors (like most proteins) are transcribed in the nucleus but are then translated in the cell's cytoplasm many proteins that are active in the nucleus contain nuclear localization signals that direct them to the nucleus but for many transcription factors this is a key point in their regulation important classes of transcription factors such as some nuclear receptors must first bind a ligand while in the cytoplasm before they can relocate to the nucleus
+=== activation ===
+transcription factors may be activated (or deactivated) through their signal-sensing domain by a number of mechanisms including:
+ligand binding not only is ligand binding able to influence where a transcription factor is located within a cell but ligand binding can also affect whether the transcription factor is in an active state and capable of binding dna or other cofactors (see for example nuclear receptors)
+phosphorylation many transcription factors such as stat proteins must be phosphorylated before they can bind dna
+interaction with other transcription factors (e.g. homo- or hetero-dimerization) or coregulatory proteins
+=== accessibility of dna-binding site ===
+in eukaryotes the dna is organized with the help of histones in the compact particles the nucleosomes where about 147 dna base pairs make ~1.65 turns around the histone protein octamer dna within nucleosomes is inaccessible to many transcription factors some transcription factors so-called pioneering factors are still able to bind their dna binding sites on the nucleosomal dna for most of other transcription factors the nucleosome should be actively removed by molecular motors such as chromatin remodelers alternatively the nucleosome can be partially unwrapped by thermal fluctuations allowing temporary access to the transcription factor binding site in many cases a transcription factor needs to compete for binding to its dna binding site with other transcription factors and histones or non-histone chromatin proteins pairs of transcription factors and other proteins can play antagonistic roles (activator versus repressor) in the regulation of the same gene
+=== availability of other cofactors/transcription factors ===
+most transcription factors do not work alone often for gene transcription to occur a number of transcription factors must bind to dna regulatory sequences this collection of transcription factors in turn recruit intermediary proteins such as cofactors that allow efficient recruitment of the preinitiation complex and rna polymerase thus for a single transcription factor to initiate transcription all of these other proteins must also be present and the transcription factor must be in a state where it can bind to them if necessary cofactors are proteins that modulate the effects of transcription factors cofactors are interchangeable between specific gene promoters; depending on the protein complex that occupies the promoter dna and the amino acid sequence of the cofactor which determines its spatial conformation as an example certain steroid receptors can exchange cofactors with nf-b which is a switch between inflammation and cellular differentiation: thereby steroids can affect inflammatory response and function of certain tissues
+== structure ==
+transcription factors are modular in structure and contain the following domains:
+dna-binding domain (dbd) which attach to specific sequences of dna (enhancer or promoter: necessary component for all vectors: used to drive transcription of the vector's transgene promoter sequences) adjacent to regulated genes dna sequences that bind transcription factors are often referred to as response elements
+trans-activating domain (tad) which contain binding sites for other proteins such as transcription coregulators these binding sites are frequently referred to as activation functions (afs)
+an optional signal sensing domain (ssd) (e.g. a ligand binding domain) which senses external signals and in response transmits these signals to the rest of the transcription complex resulting in up- or down-regulation of gene expression also the dbd and signal-sensing domains may reside on separate proteins that associate within the transcription complex to regulate gene expression
+=== trans-activating domain ===
+trans-activating domains (tads) are named after their amino acid composition these amino acids are either essential for the activity or simply the most abundant in the tad transactivation by the gal4 transcription factor is mediated by acidic amino acids whereas hydrophobic residues in gcn4 play a similar role hence the tads in gal4 and gcn4 are referred to as acidic or hydrophobic activation domains respectively
+nine-amino-acid transactivation domain (9aatad) defines a novel domain common to a large superfamily of eukaryotic transcription factors represented by gal4 oaf1 leu3 rtg3 pho4 gln3 gcn4 in yeast and by p53 nfat nf-b and vp16 in mammals
+9aatad transcription factors p53 vp16 mll e2a hsf1 nf-il6 nfat1 and nf-b interact directly with the general coactivators taf9 and cbp/p300 p53 9aatads interact with taf9 gcn5 and with multiple domains of cbp/p300 (kix taz1,taz2 and ibid)
+kix domain of general coactivators med15(gal11) interacts with 9aatad transcription factors gal4 pdr1 oaf1 gcn4 vp16 pho4 msn2 ino2 and p201 interactions of gal4 pdr1 and gcn4 with taf9 have been observed 9aatad is a common transactivation domain recruits multiple general coactivators taf9 med15 cbp/p300 and gcn5
+=== dna-binding domain ===
+the portion (domain) of the transcription factor that binds dna is called its dna-binding domain below is a partial list of some of the major families of dna-binding domains/transcription factors:
+=== response elements ===
+the dna sequence that a transcription factor binds to is called a transcription factor-binding site or response element
+transcription factors interact with their binding sites using a combination of electrostatic (of which hydrogen bonds are a special case) and van der waals forces due to the nature of these chemical interactions most transcription factors bind dna in a sequence specific manner however not all bases in the transcription factor-binding site may actually interact with the transcription factor in addition some of these interactions may be weaker than others thus transcription factors do not bind just one sequence but are capable of binding a subset of closely related sequences each with a different strength of interaction
+for example although the consensus binding site for the tata-binding protein (tbp) is tataaaa the tbp transcription factor can also bind similar sequences such as tatatat or tatataa
+because transcription factors can bind a set of related sequences and these sequences tend to be short potential transcription factor binding sites can occur by chance if the dna sequence is long enough it is unlikely however that a transcription factor binds all compatible sequences in the genome of the cell other constraints such as dna accessibility in the cell or availability of cofactors may also help dictate where a transcription factor will actually bind thus given the genome sequence it is still difficult to predict where a transcription factor will actually bind in a living cell
+additional recognition specificity however may be obtained through the use of more than one dna-binding domain (for example tandem dbds in the same transcription factor or through dimerization of two transcription factors) that bind to two or more adjacent sequences of dna
+== clinical significance ==
+transcription factors are of clinical significance for at least two reasons: (1) mutations can be associated with specific diseases and (2) they can be targets of medications
+=== disorders ===
+due to their important roles in development intercellular signaling and cell cycle some human diseases have been associated with mutations in transcription factors
+many transcription factors are either tumor suppressors or oncogenes and thus mutations or aberrant regulation of them is associated with cancer three groups of transcription factors are known to be important in human cancer: (1) the nf-kappab and ap-1 families (2) the stat family and (3) the steroid receptors
+below are a few of the more well-studied examples:
+=== potential drug targets ===
+approximately 10% of currently prescribed drugs directly target the nuclear receptor class of transcription factors examples include tamoxifen and bicalutamide for the treatment of breast and prostate cancer respectively and various types of anti-inflammatory and anabolic steroids in addition transcription factors are often indirectly modulated by drugs through signaling cascades it might be possible to directly target other less-explored transcription factors such as nf-b with drugs transcription factors outside the nuclear receptor family are thought to be more difficult to target with small molecule therapeutics since it is not clear that they are "drugable" but progress has been made on the notch pathway
+== role in evolution ==
+gene duplications have played a crucial role in the evolution of species this applies particularly to transcription factors once they occur as duplicates accumulated mutations encoding for one copy can take place without negatively affecting the regulation of downstream targets however changes of the dna binding specificities of the single-copy leafy transcription factor which occurs in most land plants have recently been elucidated in that respect a single-copy transcription factor can undergo a change of specificity through a promiscuous intermediate without losing function similar mechanisms have been proposed in the context of all alternative phylogenetic hypotheses and the role of transcription factors in the evolution of all species
+== analysis ==
+there are different technologies available to analyze transcription factors on the genomic level dna-sequencing and database research are commonly used  the protein version of the transcription factor is detectable by using specific antibodies the sample is detected on a western blot by using electrophoretic mobility shift assay (emsa) the activation profile of transcription factors can be detected a multiplex approach for activation profiling is a tf chip system where several of different transcription factors can be detected in parallel this technology is based on dna microarrays providing the specific dna-binding sequence for the transcription factor protein on the array surface
+== classes ==
+as described in more detail below transcription factors may be classified by their (1) mechanism of action (2) regulatory function or (3) sequence homology (and hence structural similarity) in their dna-binding domains
+=== mechanistic ===
+there are three mechanistic classes of transcription factors:
+general transcription factors are involved in the formation of a preinitiation complex the most common are abbreviated as tfiia tfiib tfiid tfiie tfiif and tfiih they are ubiquitous and interact with the core promoter region surrounding the transcription start site(s) of all class ii genes
+upstream transcription factors are proteins that bind somewhere upstream of the initiation site to stimulate or repress transcription these are roughly synonymous with specific transcription factors because they vary considerably depending on what recognition sequences are present in the proximity of the gene
+=== functional ===
+transcription factors have been classified according to their regulatory function:
+i constitutively active present in all cells at all times general transcription factors sp1 nf1 ccaat
+ii conditionally active requires activation
+ii.a developmental (cell specific) expression is tightly controlled but once expressed require no additional activation gata hnf pit-1 myod myf5 hox winged helix
+ii.b signal-dependent requires external signal for activation
+ii.b.1 extracellular ligand (endocrine or paracrine)-dependent nuclear receptors
+ii.b.2 intracellular ligand (autocrine)-dependent - activated by small intracellular molecules srebp p53 orphan nuclear receptors
+ii.b.3 cell membrane receptor-dependent second messenger signaling cascades resulting in the phosphorylation of the transcription factor
+ii.b.3.a resident nuclear factors reside in the nucleus regardless of activation state creb ap-1 mef2
+ii.b.3.b latent cytoplasmic factors inactive form reside in the cytoplasm but when activated are translocated into the nucleus stat r-smad nf-b notch tubby nfat
+=== structural ===
+transcription factors are often classified based on the sequence similarity and hence the tertiary structure of their dna-binding domains:
+1 superclass: basic domains
+1.1 class: leucine zipper factors (bzip)
+1.1.1 family: ap-1(-like) components; includes (c-fos/c-jun)
+1.1.2 family: creb
+1.1.3 family: c/ebp-like factors
+1.1.4 family: bzip / par
+1.1.5 family: plant g-box binding factors
+1.1.6 family: zip only
+1.2 class: helix-loop-helix factors (bhlh)
+1.2.1 family: ubiquitous (class a) factors
+1.2.2 family: myogenic transcription factors (myod)
+1.2.3 family: achaete-scute
+1.2.4 family: tal/twist/atonal/hen
+1.3 class: helix-loop-helix / leucine zipper factors (bhlh-zip)
+1.3.1 family: ubiquitous bhlh-zip factors; includes usf (usf1 usf2); srebp (srebp)
+1.3.2 family: cell-cycle controlling factors; includes c-myc
+1.4 class: nf-1
+1.4.1 family: nf-1 (a b c x)
+1.5 class: rf-x
+1.5.1 family: rf-x (1 2 3 4 5 ank)
+1.6 class: bhsh
+2 superclass: zinc-coordinating dna-binding domains
+2.1 class: cys4 zinc finger of nuclear receptor type
+2.1.1 family: steroid hormone receptors
+2.1.2 family: thyroid hormone receptor-like factors
+2.2 class: diverse cys4 zinc fingers
+2.2.1 family: gata-factors
+2.3 class: cys2his2 zinc finger domain
+2.3.1 family: ubiquitous factors includes tfiiia sp1
+2.3.2 family: developmental / cell cycle regulators; includes krppel
+2.3.4 family: large factors with nf-6b-like binding properties
+2.4 class: cys6 cysteine-zinc cluster
+2.5 class: zinc fingers of alternating composition
+3 superclass: helix-turn-helix
+3.1 class: homeo domain
+3.1.1 family: homeo domain only; includes ubx
+3.1.2 family: pou domain factors; includes oct
+3.1.3 family: homeo domain with lim region
+3.1.4 family: homeo domain plus zinc finger motifs
+3.2 class: paired box
+3.2.1 family: paired plus homeo domain
+3.2.2 family: paired domain only
+3.3 class: fork head / winged helix
+3.3.1 family: developmental regulators; includes forkhead
+3.3.2 family: tissue-specific regulators
+3.3.3 family: cell-cycle controlling factors
+3.3.0 family: other regulators
+3.4 class: heat shock factors
+3.4.1 family: hsf
+3.5 class: tryptophan clusters
+3.5.1 family: myb
+3.5.2 family: ets-type
+3.5.3 family: interferon regulatory factors
+3.6 class: tea ( transcriptional enhancer factor) domain
+3.6.1 family: tea (tead1 tead2 tead3 tead4)
+4 superclass: beta-scaffold factors with minor groove contacts
+4.1 class: rhr (rel homology region)
+4.1.1 family: rel/ankyrin; nf-kappab
+4.1.2 family: ankyrin only
+4.1.3 family: nfat (nuclear factor of activated t-cells) (nfatc1 nfatc2 nfatc3)
+4.2 class: stat
+4.2.1 family: stat
+4.3 class: p53
+4.3.1 family: p53
+4.4 class: mads box
+4.4.1 family: regulators of differentiation; includes (mef2)
+4.4.2 family: responders to external signals srf (serum response factor) (srf)
+4.4.3 family: metabolic regulators (arg80)
+4.5 class: beta-barrel alpha-helix transcription factors
+4.6 class: tata binding proteins
+4.6.1 family: tbp
+4.7 class: hmg-box
+4.7.1 family: sox genes sry
+4.7.2 family: tcf-1 (tcf1)
+4.7.3 family: hmg2-related ssrp1
+4.7.4 family: ubf
+4.7.5 family: mata
+4.8 class: heteromeric ccaat factors
+4.8.1 family: heteromeric ccaat factors
+4.9 class: grainyhead
+4.9.1 family: grainyhead
+4.10 class: cold-shock domain factors
+4.10.1 family: csd
+4.11 class: runt
+4.11.1 family: runt
+0 superclass: other transcription factors
+0.1 class: copper fist proteins
+0.2 class: hmgi(y) (hmga1)
+0.2.1 family: hmgi(y)
+0.3 class: pocket domain
+0.4 class: e1a-like factors
+0.5 class: ap2/erebp-related factors
+0.5.1 family: ap2
+0.5.2 family: erebp
+0.5.3 superfamily: ap2/b3
+0.5.3.1 family: arf
+0.5.3.2 family: abi
+0.5.3.3 family: rav
+== see also ==
+== references ==
+== external links ==
+calculating transcription factor binding maps for chromatin
+probability of transcription factor binding to dna
+transcription factors at the us national library of medicine medical subject headings (mesh)
+"dbd: transcription factor database home" retrieved 2 march 2008
+wilson d charoensawan v kummerfeld sk teichmann sa (2008) "dbdtaxonomically broad transcription factor predictions: new content and functionality" nucleic acids res 36 (database issue): d8892 doi:10.1093/nar/gkm964 pmc 2238844 pmid 18073188
+gilbert fs "transcription factors: devbio on-line supplementary material to developmental biology" sinauer associates retrieved 2 march 2008
+singer susan r.; gilbert scott f (2006) developmental biology sunderland mass: sinauer associates isbn 0-87893-250-x
+"transcription factor classification a classification of transcription factors based on their dna-binding domains" biobase gmbh 1 october 2002 retrieved 2 march 2008
+matys v kel-margoulis ov fricke e liebich i land s barre-dirrie a reuter i chekmenev d krull m hornischer k voss n stegmaier p lewicki-potapov b saxel h kel ae wingender e (january 2006) "transfac and its module transcompel: transcriptional gene regulation in eukaryotes" nucleic acids res 34 (database issue): d10810 doi:10.1093/nar/gkj143 pmc 1347505 pmid 16381825
+uri alon (2007) an introduction to systems biology: design principles of biological circuits isbn 1-58488-642-0 explains how transcriptions factors are key building blocks for biological circuits
+"image of transcription factor function in humans" access excellence the national health museum retrieved 2 march 2008 figure 8-10 from essential cell biology (bruce alberts dennis bray karen hopkin alexander johnson julian lewis martin raff keith roberts peter walter (2004) essential cell biology new york: garland science pp 896 pages isbn 0-8153-3480-x )
+encode threads explorer chromatin patterns at transcription factor binding sites nature (journal)
+prediction for 9aa transactivation domains is available online from expasy and embnet spain

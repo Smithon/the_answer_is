@@ -1,0 +1,185 @@
+mathematics physics engineering euclidean vector sometimes called geometric spatial vector oras heresimply vector geometric object magnitude length direction added vectors according vector algebra euclidean vector frequently represented line segment definite direction graphically arrow connecting initial point terminal point b denoted
+vector needed carry point point b latin word vector means carrier first used th century astronomers investigating planet rotation around sun magnitude vector distance two points direction refers direction displacement b many algebraic operations real numbers addition subtraction multiplication negation close analogues vectors operations obey familiar algebraic laws commutativity associativity distributivity operations associated laws qualify euclidean vectors example generalized concept vectors defined simply elements vector space
+vectors play important role physics velocity acceleration moving object forces acting described vectors many physical quantities usefully thought vectors although represent distances except example position displacement magnitude direction still represented length direction arrow mathematical representation physical vector depends coordinate system used describe vectorlike objects describe physical quantities transform similar way changes coordinate system include pseudovectors tensors
+historyedit
+concept vector know today evolved gradually period years dozen people made significant contributions
+giusto bellavitis abstracted basic idea established concept equipollence working euclidean plane made equipollent pair line segments length orientation essentially realized equivalence relation pairs points plane thus erected first space vectors plane
+term vector introduced william rowan hamilton part system quaternions q v scalar vector v thus hamiltons vectors dimensional like bellavitis hamilton viewed vectors representative classes equipollent directed segments complex numbers use imaginary unit complement real line hamilton considered vectors v imaginary part quaternions
+algebraically imaginary part geometrically constructed straight line radius vector general determined quaternion determined length determined direction space may called vector part simply vector quaternion
+several mathematicians developed vectorlike systems middle nineteenth century including augustin cauchy hermann grassmann august mbius comte de saintvenant matthew obrien grassmanns work theorie der ebbe und flut theory ebb flow first system spatial analysis similar todays system ideas corresponding cross product scalar product vector differentiation grassmanns work largely neglected
+peter guthrie tait carried quaternion standard hamilton elementary treatise quaternions included extensive treatment nabla del operator
+elements dynamic published william kingdon clifford clifford simplified quaternion study isolating dot product cross product two vectors complete quaternion product approach made vector calculations available engineers others working three dimensions skeptical fourth
+josiah willard gibbs exposed quaternions james clerk maxwells treatise electricity magnetism separated vector part independent treatment first half gibbss elements vector analysis published presents essentially modern system vector analysis edwin bidwell wilson published vector analysis adapted gibbs lectures banished mention quaternions development vector calculus
+overviewedit
+physics engineering vector typically regarded geometric entity characterized magnitude direction formally defined directed line segment arrow euclidean space pure mathematics vector defined generally element vector space context vectors abstract entities may may characterized magnitude direction generalized definition implies abovementioned geometric entities special kind vectors elements special kind vector space called euclidean space
+article vectors strictly defined arrows euclidean space becomes necessary distinguish special vectors vectors defined pure mathematics sometimes referred geometric spatial euclidean vectors
+arrow euclidean vector possesses definite initial point terminal point vector fixed initial terminal point called bound vector magnitude direction vector matter particular initial point importance vector called free vector thus two arrows space represent free vector magnitude direction equivalent quadrilateral abba parallelogram euclidean space equipped choice origin free vector equivalent bound vector magnitude direction whose initial point origin
+term vector also generalizations higher dimensions formal approaches much wider applications
+examples one dimensionedit
+since physicists concept force direction magnitude may seen vector example consider rightward force f newtons positive axis also directed rightward f represented vector n positive points leftward vector f n either case magnitude vector n likewise vector representation displacement meters right would m m magnitude would m regardless
+physics engineeringedit
+vectors fundamental physical sciences used represent quantity magnitude direction adheres rules vector addition example velocity magnitude speed example velocity meters per second upward could represented vector dimensions positive y axis another quantity represented vector force since magnitude direction follows rules vector addition vectors also describe many physical quantities linear displacement displacement linear acceleration angular acceleration linear momentum angular momentum physical vectors electric magnetic field represented system vectors point physical space vector field examples quantities magnitude direction fail follow rules vector addition angular displacement electric current consequently vectors
+cartesian spaceedit
+cartesian coordinate system vector represented identifying coordinates initial terminal point instance points b space determine free vector pointing point x xaxis point y yaxis
+typically cartesian coordinates one considers primarily bound vectors bound vector determined coordinates terminal point initial point always coordinates origin o thus bound vector represented vector unit length pointing origin along positive xaxis
+coordinate representation vectors allows algebraic features vectors expressed convenient numerical fashion example sum vectors vector
+euclidean affine vectorsedit
+geometrical physical settings sometimes possible associate natural way length magnitude direction vectors turn notion direction strictly associated notion angle two vectors length vectors defined possible also define dot product scalarvalued product two vectors gives convenient algebraic characterization length square root dot product vector angle function dot product two nonzero vectors three dimensions possible define cross product supplies algebraic characterization area orientation space parallelogram defined two vectors used sides parallelogram
+however always possible desirable define length vector natural way general type spatial vector subject vector spaces bound vectors affine spaces free vectors important example minkowski space important understanding special relativity generalization length permits nonzero vectors zero length physical examples come thermodynamics many quantities interest considered vectors space notion length angle
+generalizationsedit
+physics well mathematics vector often identified tuple components list numbers act scalar coefficients set basis vectors basis transformed example rotation stretching components vector terms basis also transform opposite sense vector changed basis components vector must change compensate vector called covariant contravariant depending transformation vectors components related transformation basis general contravariant vectors regular vectors units distance displacement distance times unit velocity acceleration covariant vectors hand units oneoverdistance gradient change units special case change basis meters millimeters scale factor displacement m becomes mma contravariant change numerical value contrast gradient km becomes kmma covariant change value see covariance contravariance vectors tensors another type quantity behave way vector one type tensor
+pure mathematics vector element vector space field often represented coordinate vector vectors described article special case general definition contravariant respect ambient space contravariance captures physical intuition behind idea vector magnitude direction
+representationsedit
+vectors usually denoted lowercase boldface lowercase italic boldface uppercase letters typically used represent matrices conventions include especially handwriting alternatively use tilde wavy underline drawn beneath symbol eg convention indicating boldface type vector represents directed distance displacement point point b see figure also denoted ab especially literature german common represent vectors small fraktur letters
+vectors usually shown graphs diagrams arrows directed line segments illustrated figure point called origin tail base initial point point b called head tip endpoint terminal point final point length arrow proportional vectors magnitude direction arrow points indicates vectors direction
+twodimensional diagram sometimes vector perpendicular plane diagram desired vectors commonly shown small circles circle dot centre unicode u indicates vector pointing front diagram toward viewer circle cross inscribed unicode u indicates vector pointing behind diagram thought viewing tip arrow head viewing flights arrow back
+order calculate vectors graphical representation may cumbersome vectors ndimensional euclidean space represented coordinate vectors cartesian coordinate system endpoint vector identified ordered list n real numbers ntuple numbers coordinates endpoint vector respect given cartesian coordinate system typically called scalar components scalar projections vector axes coordinate system
+example two dimensions see figure vector origin o point simply written
+notion tail vector coincides origin implicit easily understood thus explicit notation usually deemed necessary rarely used
+three dimensional euclidean space r vectors identified triples scalar components
+also written
+generalised ndimensional euclidean space rn
+numbers often arranged column vector row vector particularly dealing matrices follows
+another way represent vector ndimensions introduce standard basis vectors instance three dimensions three
+intuitive interpretation vectors unit length pointing x y z axis cartesian coordinate system respectively terms vector r expressed form
+called vector components vector projections basis vectors equivalently corresponding cartesian axes x y z see figure respective scalar components scalar projections
+introductory physics textbooks standard basis vectors often instead denoted hat symbol typically denotes unit vectors case scalar vector components denoted respectively ax ay az ax ay az note difference boldface thus
+notation ei compatible index notation summation convention commonly used higher level mathematics physics engineering
+decompositionedit
+explained vector often described set vector components add form given vector typically components projections vector set mutually perpendicular reference axes basis vectors vector said decomposed resolved respect set
+however decomposition vector components unique depends choice axes vector projected
+moreover use cartesian unit vectors basis represent vector mandated vectors also expressed terms arbitrary basis including unit vectors cylindrical coordinate system spherical coordinate system latter two choices convenient solving problems possess cylindrical spherical symmetry respectively
+choice basis doesnt affect properties vector behaviour transformations
+vector also decomposed respect nonfixed basis vectors change orientation function time space example vector threedimensional space decomposed respect two axes respectively normal tangent surface see figure moreover radial tangential components vector relate radius rotation object former parallel radius latter orthogonal
+cases components may turn decomposed respect fixed coordinate system basis set eg global coordinate system inertial reference frame
+basic propertiesedit
+following section uses cartesian coordinate system basis vectors
+assumes vectors origin common base point vector written
+equalityedit
+two vectors said equal magnitude direction equivalently equal coordinates equal two vectors
+equal
+opposite parallel antiparallel vectorsedit
+two vectors opposite magnitude opposite direction two vectors
+opposite
+two vectors parallel direction necessarily magnitude antiparallel opposite direction necessarily magnitude
+addition subtractionedit
+assume b necessarily equal vectors may different magnitudes directions sum b
+addition may represented graphically placing tail arrow b head arrow drawing arrow tail head b new arrow drawn represents vector b illustrated
+addition method sometimes called parallelogram rule b form sides parallelogram b one diagonals b bound vectors base point point also base point b one check geometrically b b b c b c
+difference b
+subtraction two vectors geometrically defined follows subtract b place tails b point draw arrow head b head new arrow represents vector b illustrated
+subtraction two vectors may also performed adding opposite second vector first vector b b
+scalar multiplicationedit
+vector may also multiplied rescaled real number r context conventional vector algebra real numbers often called scalars scale distinguish vectors operation multiplying vector scalar called scalar multiplication resulting vector
+intuitively multiplying scalar r stretches vector factor r geometrically visualized least case r integer placing r copies vector line endpoint one vector initial point next vector
+r negative vector changes direction flips around angle two examples r r given
+scalar multiplication distributive vector addition following sense ra b ra rb vectors b scalars r one also show b b
+lengthedit
+length magnitude norm vector denoted less commonly confused absolute value scalar norm
+length vector computed euclidean norm
+consequence pythagorean theorem since basis vectors e e e orthogonal unit vectors
+happens equal square root dot product discussed vector
+unit vector
+unit vector vector length one normally unit vectors used simply indicate direction vector arbitrary length divided length create unit vector known normalizing vector unit vector often indicated hat
+normalize vector scale vector reciprocal length
+zero vector
+zero vector vector length zero written coordinates vector commonly denoted simply unlike vector arbitrary indeterminate direction cannot normalized unit vector multiple zero vector sum zero vector vector
+dot productedit
+dot product two vectors b sometimes called inner product since result scalar scalar product denoted b defined
+measure angle b see trigonometric function explanation cosine geometrically means b drawn common start point length multiplied length component b points direction
+dot product also defined sum products components vector
+cross productedit
+cross product also called vector product outer product meaningful three seven dimensions cross product differs dot product primarily result cross product two vectors vector cross product denoted b vector perpendicular b defined
+measure angle b n unit vector perpendicular b completes righthanded system righthandedness constraint necessary exist two unit vectors perpendicular b namely n n
+cross product b defined b b also becomes righthanded system note b necessarily orthogonal righthand rule
+length b interpreted area parallelogram b sides
+cross product written
+arbitrary choices spatial orientation allowing lefthanded well righthanded coordinate systems cross product two vectors pseudovector instead vector see
+scalar triple productedit
+scalar triple product also called box product mixed triple product really new operator way applying two multiplication operators three vectors scalar triple product sometimes denoted b c defined
+three primary uses first absolute value box product volume parallelepiped edges defined three vectors second scalar triple product zero three vectors linearly dependent easily proved considering order three vectors make volume must lie plane third box product positive three vectors b c righthanded
+components respect righthanded orthonormal basis three vectors thought rows columns order scalar triple product simply determinant matrix three vectors rows
+scalar triple product linear three entries antisymmetric following sense
+multiple cartesian basesedit
+examples thus far dealt vectors expressed terms basis namely e e e however vector expressed terms number different bases necessarily aligned still remain vector example using vector
+n n n form another orthonormal basis aligned e e e values u v w resulting vector sum exactly
+uncommon encounter vectors known terms different bases example one basis fixed earth second basis fixed moving vehicle order perform many operations defined necessary know vectors terms basis one simple way express vector known one basis terms another uses column matrices represent vector basis along third matrix containing information relates two bases example order find values u v w define n n n basis matrix multiplication may employed form
+matrix element cjk direction cosine relating nj ek term direction cosine refers cosine angle two unit vectors also equal dot product
+referring collectively e e e e basis n n n n basis matrix containing cjk known transformation matrix e n rotation matrix e n imagined rotation vector one basis another direction cosine matrix e n contains direction cosines
+properties rotation matrix inverse equal transpose means rotation matrix e n transpose rotation matrix n e
+applying several matrix multiplications succession vector expressed basis long set direction cosines known relating successive bases
+dimensionsedit
+exception cross triple products formulae generalise two dimensions higher dimensions example addition generalises two dimensions
+four dimensions
+cross product readily generalise dimensions though closely related exterior product whose result bivector two dimensions simply pseudoscalar
+sevendimensional cross product similar cross product result vector orthogonal two arguments however natural way selecting one possible products
+physicsedit
+vectors many uses physics sciences
+length unitsedit
+abstract vector spaces length arrow depends dimensionless scale represents example force scale physical dimension lengthforce thus typically consistency scale among quantities dimension otherwise scale ratios may vary example newton m represented arrow cm scales m n respectively equal length vectors different dimension particular significance unless proportionality constant inherent system diagram represents also length unit vector dimension length lengthforce etc coordinatesysteminvariant significance
+vectorvalued functionsedit
+often areas physics mathematics vector evolves time meaning depends time parameter instance r represents position vector particle rt gives parametric representation trajectory particle vectorvalued functions differentiated integrated differentiating integrating components vector many familiar rules calculus continue hold derivative integral vectorvalued functions
+position velocity accelerationedit
+position point x x x x threedimensional space represented position vector whose base point origin
+position vector dimensions length
+given two points x x x x y y y y displacement vector
+specifies position y relative x length vector gives straightline distance x y displacement dimensions length
+velocity v point particle vector length gives speed constant velocity position time
+x position time velocity time derivative position dimensions lengthtime
+acceleration point vector time derivative velocity dimensions lengthtime
+force energy workedit
+force vector dimensions masslengthtime newtons second law scalar multiplication
+work dot product force displacement
+vectors directional derivativesedit
+vector may also defined directional derivative consider function curve directional derivative scalar defined
+index summed appropriate number dimensions example dimensional euclidean space dimensional spacetime etc consider vector tangent
+directional derivative rewritten differential form without given function
+therefore directional derivative identified corresponding vector vector identified corresponding directional derivative vector therefore defined precisely
+vectors pseudovectors transformationsedit
+alternative characterization euclidean vectors especially physics describes lists quantities behave certain way coordinate transformation contravariant vector required components transform opposite basis changes basis vector change basis transformed instead components vector make change cancels change basis words reference axes basis derived rotated one direction component representation vector would rotate opposite way generate final vector similarly reference axes stretched one direction components vector would reduce exactly compensating way mathematically basis undergoes transformation described invertible matrix m coordinate vector x transformed x mx contravariant vector v must similarly transformed via v mv important requirement distinguishes contravariant vector triple physically meaningful quantities example v consists x y zcomponents velocity v contravariant vector coordinates space stretched rotated twisted components velocity transform way hand instance triple consisting length width height rectangular box could make three components abstract vector vector would contravariant since rotating box change boxs length width height examples contravariant vectors include displacement velocity electric field momentum force acceleration
+language differential geometry requirement components vector transform according matrix coordinate transition equivalent defining contravariant vector tensor contravariant rank one alternatively contravariant vector defined tangent vector rules transforming contravariant vector follow chain rule
+vectors transform like contravariant vectors except reflected mirror flip gain minus sign transformation switches righthandedness lefthandedness vice versa like mirror said change orientation space vector gains minus sign orientation space changes called pseudovector axial vector ordinary vectors sometimes called true vectors polar vectors distinguish pseudovectors pseudovectors occur frequently cross product two ordinary vectors
+one example pseudovector angular velocity driving car looking forward wheels angular velocity vector pointing left world reflected mirror switches left right side car reflection angular velocity vector points right actual angular velocity vector wheel still points left corresponding minus sign examples pseudovectors include magnetic field torque generally cross product two true vectors
+distinction vectors pseudovectors often ignored becomes important studying symmetry properties see parity physics
+see alsoedit
+affine space distinguishes vectors points
+array data structure vector computer science
+banach space
+clifford algebra
+complex number
+coordinate system
+covariance contravariance vectors
+fourvector noneuclidean vector minkowski space ie fourdimensional spacetime important relativity
+function space
+grassmanns ausdehnungslehre
+hilbert space
+normal vector
+null vector
+pseudovector
+quaternion
+tangential normal components vector
+tensor
+unit vector
+vector bundle
+vector calculus
+vector notation
+vectorvalued function
+notesedit
+referencesedit
+mathematical treatments
+apostol calculus vol onevariable calculus introduction linear algebra john wiley sons isbn
+apostol calculus vol multivariable calculus linear algebra applications john wiley sons isbn
+kane thomas r levinson david dynamics online sunnyvale california online dynamics inc
+heinbockel j h introduction tensor calculus continuum mechanics trafford publishing isbn
+ito kiyosi encyclopedic dictionary mathematics nd ed mit press isbn
+ivanov ab vector geometric hazewinkel michiel encyclopedia mathematics springer isbn
+pedoe d geometry comprehensive course dover isbn
+physical treatments
+aris r vectors tensors basic equations fluid mechanics dover isbn
+feynman r leighton r sands m chapter feynman lectures physics volume nd ed addison wesley isbn
+external linksedit
+hazewinkel michiel ed vector encyclopedia mathematics springer isbn
+online vector identities pdf
+introducing vectors conceptual introduction applied mathematics
+addition forces vectors java applet
+french tutorials vectors application video games

@@ -1,0 +1,34 @@
+thermal physics thermodynamics heat capacity ratio adiabatic index ratio specific heats poisson constant ratio heat capacity constant pressure heat capacity constant volume sometimes also known isentropic expansion factor denoted gammafor ideal gas kappaisentropic exponent real gas former symbol gamma primarily used chemical engineers mechanical engineers use roman letter
+heat capacity specific heat capacity heat capacity per unit mass gas suffix refer constant pressure constant volume conditions respectively
+understand relation consider following thought experiment closed pneumatic cylinder contains air piston locked pressure inside equal atmospheric pressure cylinder heated certain target temperature since piston cannot move volume constant temperature pressure rise target temperature reached heating stopped amount energy added equals representing change temperature piston freed moves outwards stopping pressure inside chamber equilibrates atmospheric pressure free assume expansion happens fast enough occur without exchange heat adiabatic expansion work air inside cylinder cool target temperature return target temperature still free piston air must heated longer constant pressure since piston free move gas reheated extra heat amounts previous amount added example amount heat added locked piston proportional whereas total amount heat added proportional therefore heat capacity ratio example
+another way understanding difference applies work done system causes change volume eg moving piston compress contents cylinder work done system changes temperature eg heating gas cylinder cause piston move applies work done zero consider difference adding heat gas locked piston adding heat piston free move pressure remains constant second case gas heat expand causing piston mechanical work atmosphere heat added gas goes partly heating gas rest transformed mechanical work performed piston first constantvolume case locked piston external motion thus mechanical work done atmosphere used second case additional work done volume changes amount heat required raise gas temperature specific heat capacity higher constant pressure case
+ideal gas relations
+ideal gas heat capacity constant temperature accordingly express enthalpy internal energy thus also said heat capacity ratio ratio enthalpy internal energy
+furthermore heat capacities expressed terms heat capacity ratio gas constant
+amount substance moles
+rather difficult find tabulated information since commonly tabulated following relation used determine
+relation degrees freedom
+heat capacity ratio ideal gas related degrees freedom molecule
+thus observe monatomic gas three degrees freedom
+diatomic gas five degrees freedom room temperature three translational two rotational degrees freedom vibrational degree freedom involved except high temperatures
+eg terrestrial air primarily made diatomic gases nitrogen n oxygen o standard conditions considered ideal gas value highly consistent measured adiabatic indices dry air within temperature range c exhibiting deviation see tablation
+real gas relations
+temperature increases higher energy rotational vibrational states become accessible molecular gases thus increasing number degrees freedom lowering real gas increase increasing temperature continuing differ fixed constant reflects relatively constant difference work done expansion constant pressure vs constant volume conditions thus ratio two values decreases increasing temperature information mechanisms storing heat gases see gas section specific heat capacity
+thermodynamic expressions
+values based approximations particularly many cases sufficiently accurate practical engineering calculations flow rates pipes valves experimental value used rather one based approximation possible rigorous value ratio also calculated determining residual properties expressed
+values readily available recorded values need determined via relations see derivation thermodynamic relations heat capacities
+definition approach used develop rigorous expressions equations state pengrobinson match experimental values closely little need develop database ratios values values also determined finite difference approximation
+adiabatic process
+ratio gives important relation isentropic quasistatic reversible adiabatic process process simple compressible calorically perfect ideal gas
+pressure volume
+see also
+heat capacity
+specific heat capacity
+speed sound
+thermodynamic equations
+thermodynamics
+volumetric heat capacity
+references
+white frank m fluid mechanics th ed mcgraw hill
+langes handbook chemistry th ed page
+fox r mcdonald p pritchard introduction fluid mechanics th ed wiley

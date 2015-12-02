@@ -1,0 +1,202 @@
+the moment of inertia otherwise known as the angular mass or rotational inertia of a rigid body determines the torque needed for a desired angular acceleration about a rotational axis it depends on the body's mass distribution and the axis chosen with larger moments requiring more torque to change the body's rotation it is an extensive (additive) property: the moment of inertia of a composite system is the sum of the moments of inertia of its component subsystems (all taken about the same axis) one of its definitions is the second moment of mass with respect to distance from an axis r  integrating over the entire mass
+for bodies constrained to rotate in a plane it is sufficient to consider their moment of inertia about an axis perpendicular to the plane for bodies free to rotate in three dimensions their moments can be described by a symmetric 3 3 matrix; each body has a set of mutually perpendicular principal axes for which this matrix is diagonal and torques around the axes act independently of each other
+== introductionedit ==
+when a body is rotating or free to rotate around an axis a torque must be applied to change its angular momentum the amount of torque needed for any given rate of change in angular momentum is proportional to the moment of inertia of the body moment of inertia may be expressed in terms of kilogram-square metres (kgm2) in si units and pound-square feet (lbmft2) in imperial or us units
+moment of inertia plays the role in rotational kinetics that mass (inertia) plays in linear kinetics - both characterize the resistance of a body to changes in its motion the moment of inertia depends on how mass is distributed around an axis of rotation and will vary depending on the chosen axis for a point-like mass the moment of inertia about some axis is given by d2m where d is the distance to the axis and m is the mass for an extended body the moment of inertia is just the sum of all the small pieces of mass multiplied by the square of their distances from the axis in question for an extended body of a regular shape and uniform density this summation sometimes produces a simple expression that depends on the dimensions shape and total mass of the object
+in 1673 christiaan huygens introduced this parameter in his study of the oscillation of a body hanging from a pivot known as a compound pendulum the term moment of inertia was introduced by leonhard euler in his book theoria motus corporum solidorum seu rigidorum in 1765 and it is incorporated into euler's second law
+the natural frequency of oscillation of a compound pendulum is obtained from the ratio of the torque imposed by gravity on the mass of the pendulum to the resistance to acceleration defined by the moment of inertia comparison of this natural frequency to that of a simple pendulum consisting of a single point of mass provides a mathematical formulation for moment of inertia of an extended body
+moment of inertia also appears in momentum kinetic energy and in newton's laws of motion for a rigid body as a physical parameter that combines its shape and mass there is an interesting difference in the way moment of inertia appears in planar and spatial movement planar movement has a single scalar that defines the moment of inertia while for spatial movement the same calculations yield a 3 3 matrix of moments of inertia called the inertia matrix or inertia tensor
+the moment of inertia of a rotating flywheel is used in a machine to resist variations in applied torque to smooth its rotational output the moment of inertia of an airplane about its longitudinal horizontal and vertical axes determines how steering forces on the control surfaces of its wings elevators and tail affect the plane in roll pitch and yaw
+== definitionedit ==
+moment of inertia i is defined as the ratio of the angular momentum l of a system to its angular velocity around a principal axis that is
+if the angular momentum of a system is constant then as the moment of inertia gets smaller the angular velocity must increase this occurs when spinning figure skaters pull in their outstretched arms or divers move from a straight position to a tuck position during a dive
+if the shape of the body does not change then its moment of inertia appears in newton's law of motion as the ratio of an applied torque on a body to the angular acceleration around a principal axis that is
+for a simple pendulum this definition yields a formula for the moment of inertia i in terms of the mass m of the pendulum and its distance r from the pivot point as
+thus moment of inertia depends on both the mass m of a body and its geometry or shape as defined by the distance r to the axis of rotation
+this simple formula generalizes to define moment of inertia for an arbitrarily shaped body as the sum of all the elemental point masses dm each multiplied by the square of its perpendicular distance r to an axis s 
+in general given an object of mass m an effective radius k can be defined for an axis through its center of mass with such a value that its moment of inertia is
+where k is known as the radius of gyration
+== simple pendulumedit ==
+moment of inertia can be measured using a simple pendulum because it is the resistance to the rotation caused by gravity mathematically the moment of inertia of the pendulum is the ratio of the torque due to gravity about the pivot of a pendulum to its angular acceleration about that pivot point for a simple pendulum this is found to be the product of the mass of the particle m with the square of its distance r to the pivot that is
+this can be shown as follows: the force of gravity on the mass of a simple pendulum generates a torque around the axis perpendicular to the plane of the pendulum movement here r is the distance vector perpendicular to and from the force to the torque axis here f is the tangential component of the net force on the mass associated with this torque is an angular acceleration  of the string and mass around this axis since the mass is constrained to a circle the tangential acceleration of the mass is  since the torque equation becomes:
+where e is a unit vector perpendicular to the plane of the pendulum (the second to the last step occurs because of the bac-cab rule using the fact that is always perpendicular to r.) the quantity i = mr2 is the moment of inertia of this single mass around the pivot point
+the quantity i = mr2 also appears in the angular momentum of a simple pendulum which is calculated from the velocity v = r of the pendulum mass around the pivot where is the angular velocity of the mass about the pivot point this angular momentum is given by
+using math similar to that used to derive the previous equation
+similarly the kinetic energy of the pendulum mass is defined by the velocity of the pendulum around the pivot to yield
+this shows that the quantity i = mr2 is how mass combines with the shape of a body to define rotational inertia the moment of inertia of an arbitrarily shaped body is the sum of the values mr2 for all of the elements of mass in the body
+== compound pendulumedit ==
+a compound pendulum is a body formed from an assembly of particles of continuous shape that rotates rigidly around a pivot its moment of inertia is the sum of the moments of inertia of each of the particles that it is composed of the natural frequency () of a compound pendulum depends on its moment of inertia 
+where is the mass of the object is local acceleration of gravity and is the distance from the pivot point to the centre of mass of the object measuring this frequency of oscillation over small angular displacements provides an effective way of measuring moment of inertia of a body
+thus to determine the moment of inertia of the body simply suspend it from a convenient pivot point so that it swings freely in a plane perpendicular to the direction of the desired moment of inertia then measure its natural frequency or period of oscillation () to obtain
+where is the period (duration) of oscillation (usually averaged over multiple periods)
+the moment of inertia of the body about its centre of mass  is then calculated using the parallel axis theorem to be
+where is the mass of the body and is the distance from the pivot point to the centre of mass 
+moment of inertia of a body is often defined in terms of its radius of gyration which is the radius of a ring of equal mass around the centre of mass of a body that has the same moment of inertia the radius of gyration is calculated from the body's moment of inertia and mass as the length
+=== center of oscillationedit ===
+a simple pendulum that has the same natural frequency as a compound pendulum defines the length from the pivot to a point called the centre of oscillation of the compound pendulum this point also corresponds to the centre of percussion the length is determined from the formula
+or
+the seconds pendulum which provides the "tick" and "tock" of a grandfather clock takes one second to swing from side-to-side this is a period of two seconds or a natural frequency of radians/second for the pendulum in this case the distance to the center of oscillation  can be computed to be
+notice that the distance to the center of oscillation of the seconds pendulum must be adjusted to accommodate different values for the local acceleration of gravity kater's pendulum is a compound pendulum that uses this property to measure the local acceleration of gravity and is called a gravimeter
+== measuring moment of inertiaedit ==
+the moment of inertia of complex systems such as a vehicle or airplane around its vertical axis can be measured by suspending the system from three points to form a trifilar pendulum a trifilar pendulum is a platform supported by three wires designed to oscillate in torsion around its vertical centroidal axis the period of oscillation of the trifilar pendulum yields the moment of inertia of the system
+== calculating moment of inertia about an axisedit ==
+the moment of inertia about an axis of a body is calculated by summing mr2 for every particle in the body where r is the perpendicular distance to the specified axis to see how moment of inertia arises in the study of the movement of an extended body it is convenient to consider a rigid assembly of point masses (this equation can be used for axes that are not principal axes provided that it is understood that this does not fully describe the moment of inertia.)
+consider the kinetic energy of an assembly of n masses mi that lie at the distances ri from the pivot point p which is the nearest point on the axis of rotation it is the sum of the kinetic energy of the individual masses
+this shows that the moment of inertia of the body is the sum of each of the mr2 terms that is
+thus moment of inertia is a physical property that combines the mass and distribution of the particles around the rotation axis notice that rotation about different axes of the same body yield different moments of inertia
+the moment of inertia of a continuous body rotating about a specified axis is calculated in the same way with the summation replaced by the integral
+again r is the radius vector to a point in the body from the specified axis through the pivot p and (r) is the mass density at each point r the integration is evaluated over the volume v of the body the moment of inertia of a flat surface is similar with the mass density being replaced by its areal mass density with the integral evaluated over its area
+note on second moment of area: the moment of inertia of a body moving in a plane and the second moment of area of a beam's cross-section are often confused the moment of inertia of body with the shape of the cross-section is the second moment of this area about the z-axis perpendicular to the cross-section weighted by its density this is also called the polar moment of the area and is the sum of the second moments about the x and y axes the stresses in a beam are calculated using the second moment of the cross-sectional area around either the x-axis or y-axis depending on the load
+=== example calculation of moment of inertiaedit ===
+the moment of inertia of a compound pendulum constructed from a thin disc mounted at the end of a thin rod that oscillates around a pivot at the other end of the rod begins with the calculation of the moment of inertia of the thin rod and thin disc about their respective centres of mass
+the moment of inertia of a thin rod with constant cross-section s and density and with length l about a perpendicular axis through its centre of mass is determined by integration align the x-axis with the rod and locate the origin its centre of mass at the centre of the rod then
+where m = s is the mass of the rod
+the moment of inertia of a thin disc of constant thickness s radius r and density about an axis through its centre and perpendicular to its face (parallel to its axis of rotational symmetry) is determined by integration align the z-axis with the axis of the disc and define a volume element as dv = sr drd then
+where m = r2s is its mass
+the moment of inertia of the compound pendulum is now obtained by adding the moment of inertia of the rod and the disc around the pivot point p as
+where l is the length of the pendulum notice that the parallel axis theorem is used to shift the moment of inertia from the centre of mass to the pivot point of the pendulum
+a list of moments of inertia formulas for standard body shapes provides a way to obtain the moment of inertial of a complex body as an assembly of simpler shaped bodies the parallel axis theorem is used to shift the reference point of the individual bodies to the reference point of the assembly
+as one more example consider the moment of inertia of a solid sphere of constant density about an axis through its centre of mass this is determined by summing the moments of inertia of the thin discs that form the sphere if the surface of the ball is defined by the equation
+then the radius r of the disc at the cross-section z along the z-axis is
+therefore the moment of inertia of the ball is the sum of the moments of inertia of the discs along the z-axis
+where m = 4/3r3 is the mass of the ball
+== moment of inertia in planar movement of a rigid bodyedit ==
+if a mechanical system is constrained to move parallel to a fixed plane then the rotation of a body in the system occurs around an axis k perpendicular to this plane in this case the moment of inertia of the mass in this system is a scalar known as the polar moment of inertia the definition of the polar moment of inertia can be obtained by considering momentum kinetic energy and newton's laws for the planar movement of a rigid system of particles
+if a system of n particles pi i = 1,...,n are assembled into a rigid body then the momentum of the system can be written in terms of positions relative to a reference point r and absolute velocities vi
+where is the angular velocity of the system and v is the velocity of r
+for planar movement the angular velocity vector is directed along the unit vector k which is perpendicular to the plane of movement introduce the unit vectors ei from the reference point r to a point ri  and the unit vector ti = k ei so
+this defines the relative position vector and the velocity vector for the rigid system of the particles moving in a plane
+note on the cross product: when a body moves parallel to a ground plane the trajectories of all the points in the body lie in planes parallel to this ground plane this means that any rotation that the body undergoes must be around an axis perpendicular to this plane planar movement is often presented as projected onto this ground plane so that the axis of rotation appears as a point in this case the angular velocity and angular acceleration of the body are scalars and the fact that they are vectors along the rotation axis is ignored this is usually preferred for introductions to the topic but in the case of moment of inertia the combination of mass and geometry benefits from the geometric properties of the cross product for this reason in this section on planar movement the angular velocity and accelerations of the body are vectors perpendicular to the ground plane and the cross product operations are the same as used for the study of spatial rigid body movement
+=== angular momentum in planar movementedit ===
+the angular momentum vector for the planar movement of a rigid system of particles is given by
+use the centre of mass c as the reference point so
+and define the moment of inertia relative to the centre of mass ic as
+then the equation for angular momentum simplifies to
+the moment of inertia ic about an axis perpendicular to the movement of the rigid system and through the centre of mass is known as the polar moment of inertia
+for a given amount of angular momentum a decrease in the moment of inertia results in an increase in the angular velocity figure skaters can change their moment of inertia by pulling in their arms thus the angular velocity achieved by a skater with outstretched arms results in a greater angular velocity when the arms are pulled in because of the reduced moment of inertia
+=== kinetic energy in planar movementedit ===
+the kinetic energy of a rigid system of particles moving in the plane is given by
+this equation expands to yield three terms
+let the reference point be the centre of mass c of the system so the second term becomes zero and introduce the moment of inertia ic so the kinetic energy is given by
+the moment of inertia ic is the polar moment of inertia of the body
+=== newton's laws for planar movementedit ===
+newton's laws for a rigid system of n particles pi i = 1,... n can be written in terms of a resultant force and torque at a reference point r to yield
+where ri denotes the trajectory of each particle
+the kinematics of a rigid body yields the formula for the acceleration of the particle pi in terms of the position r and acceleration a of the reference particle as well as the angular velocity vector and angular acceleration vector of the rigid system of particles as
+for systems that are constrained to planar movement the angular velocity and angular acceleration vectors are directed along k perpendicular to the plane of movement which simplifies this acceleration equation in this case the acceleration vectors can be simplified by introducing the unit vectors ei from the reference point r to a point ri and the unit vectors ti = k ei  so
+this yields the resultant torque on the system as
+where ei ei = 0 and ei ti = k is the unit vector perpendicular to the plane for all of the particles pi 
+use the centre of mass c as the reference point and define the moment of inertia relative to the centre of mass ic  then the equation for the resultant torque simplifies to
+the parameter ic is the polar moment of inertia of the moving body
+== the inertia matrix for spatial movement of a rigid bodyedit ==
+the scalar moments of inertia appear as elements in a matrix when a system of particles is assembled into a rigid body that moves in three-dimensional space this inertia matrix appears in the calculation of the angular momentum kinetic energy and resultant torque of the rigid system of particles
+an important application of the inertia matrix and newton's laws of motion is the analysis of a spinning top this is discussed in the article on gyroscopic precession a more detailed presentation can be found in the article on euler's equations of motion
+let the system of particles pi i = 1,... n be located at the coordinates ri with velocities vi relative to a fixed reference frame for a (possibly moving) reference point r the relative positions are
+and the (absolute) velocities are
+where is the angular velocity of the system and vr is the velocity of r
+=== angular momentumedit ===
+if the reference point r in the assembly or body is chosen as the centre of mass c then its angular momentum takes the form
+where the terms containing vr sum to zero by definition of the centre of mass
+to define the inertia matrix let us first note that a skew-symmetric matrix [b] could be constructed from a vector b that performs the cross product operation such that
+this matrix [b] has the components of b = (bx by,bz) as its elements in the form
+now construct the skew-symmetric matrix [ri]= [ri-c] obtained from the relative position vector ri=ri - c and use this skew-symmetric matrix to define
+where [ic ] defined by
+is the symmetric inertia matrix of the rigid system of particles measured relative to the centre of mass c
+=== kinetic energyedit ===
+the kinetic energy of a rigid system of particles can be formulated in terms of the centre of mass and a matrix of mass moments of inertia of the system let the system of particles pi i = 1,...,n be located at the coordinates ri with velocities vi then the kinetic energy is
+where ri= ri-c is the position vector of a particle relative to the centre of mass
+this equation expands to yield three terms
+the second term in this equation is zero because c is the centre of mass introduce the skew-symmetric matrix [ri] so the kinetic energy becomes
+thus the kinetic energy of the rigid system of particles is given by
+where [ic] is the inertia matrix relative to the centre of mass and m is the total mass
+=== resultant torqueedit ===
+the inertia matrix appears in the application of newton's second law to a rigid assembly of particles the resultant torque on this system is
+where ai is the acceleration of the particle pi the kinematics of a rigid body yields the formula for the acceleration of the particle pi in terms of the position r and acceleration a of the reference point as well as the angular velocity vector and angular acceleration vector of the rigid system as
+use the centre of mass c as the reference point and introduce the skew-symmetric matrix [ri]=[ri-c] to represent the cross product (ri - c)x to obtain
+the calculation uses the identity
+obtained from the jacobi identity for the triple cross product as shown in the proof below:
+thus the resultant torque on the rigid system of particles is given by
+where [ic] is the inertia matrix relative to the centre of mass
+=== parallel axis theoremedit ===
+the inertia matrix of a body depends on the choice of the reference point there is a useful relationship between the inertia matrix relative to the centre of mass c and the inertia matrix relative to another point r this relationship is called the parallel axis theorem
+consider the inertia matrix [ir] obtained for a rigid system of particles measured relative to a reference point r given by
+let c be the centre of mass of the rigid system then
+where d is the vector from the centre of mass c to the reference point r use this equation to compute the inertia matrix
+expand this equation to obtain
+the first term is the inertia matrix [ic] relative to the centre of mass the second and third terms are zero by definition of the centre of mass c and the last term is the total mass of the system multiplied by the square of the skew-symmetric matrix [d] constructed from d
+the result is the parallel axis theorem
+where d is the vector from the centre of mass c to the reference point r
+note on the minus sign: by using the skew symmetric matrix of position vectors relative to the reference point the inertia matrix of each particle has the form m[r]2 which is similar to the mr2 that appears in planar movement however to make this to work out correctly a minus sign is needed this minus sign can be absorbed into the term m[r]t[r] if desired by using the skew-symmetry property of [r]
+== the inertia matrix and the scalar moment of inertia around an arbitrary axisedit ==
+the scalar moment of inertia il of a body about a specified axis whose direction is specified by the unit vector s and passes through the body at a point r is as follows:
+where [ir] is the moment of inertia matrix of the system relative to the reference point r
+this is derived as follows let a rigid assembly of n particles pi i = 1,...,n have coordinates ri choose r as a reference point and compute the moment of inertia around an axis l defined by the unit vector s through the reference point r the moment of inertia of the system around this line l=r+ts is computed by determining the perpendicular vector from this axis to the particle pi given by
+where [i] is the identity matrix and [s st] is the outer product matrix formed from the unit vector s along the line l
+to relate this scalar moment of inertia to the inertia matrix of the body introduce the skew-symmetric matrix [s] such that [s]y=s x y then we have the identity
+which relies on the fact that s is a unit vector
+the magnitude squared of the perpendicular vector is
+the simplification of this equation uses the identity
+where the dot and the cross products have been interchanged expand the cross products to compute
+where [ri] is the skew symmetric matrix obtained from the vector r=ri-r
+thus the moment of inertia around the line l through r in the direction s is obtained from the calculation
+or
+where [ir] is the moment of inertia matrix of the system relative to the reference point r
+this shows that the inertia matrix can be used to calculate the moment of inertia of a body around any specified rotation axis in the body
+== the inertia tensoredit ==
+the inertia matrix is often described as the inertia tensor which consists of the same moments of inertia and products of inertia about the three coordinate axes the inertia tensor is constructed from the nine component tensors (the symbol is the tensor product)
+where ei i=1,2,3 are the three orthogonal unit vectors defining the inertial frame in which the body moves using this basis the inertia tensor is given by
+this tensor is of degree two because the component tensors are each constructed from two basis vectors in this form the inertia tensor is also called the inertia binor
+for a rigid system of particles pk k = 1,...,n each of mass mk with position coordinates rk=(xk yk zk) the inertia tensor is given by
+where e is the identity tensor
+the inertia tensor for a continuous body is given by
+where r defines the coordinates of a point in the body and (r) is the mass density at that point the integral is taken over the volume v of the body the inertia tensor is symmetric because iij= iji
+alternatively it can also be written in terms of the hat operator as:
+the inertia tensor can be used in the same way as the inertia matrix to compute the scalar moment of inertia about an arbitrary axis in the direction n
+where the dot product is taken with the corresponding elements in the component tensors a product of inertia term such as i12 is obtained by the computation
+and can be interpreted as the moment of inertia around the x-axis when the object rotates around the y-axis
+the components of tensors of degree two can be assembled into a matrix for the inertia tensor this matrix is given by
+it is common in rigid body mechanics to use notation that explicitly identifies the x y and z axes such as ixx and ixy for the components of the inertia tensor
+=== identities for a skew-symmetric matrixedit ===
+to compute moment of inertia of a mass around an axis the perpendicular vector from the mass to the axis is needed if the axis l is defined by the unit vector s through the reference point r then the perpendicular vector from the line l to the point r is given by
+where [i] is the identity matrix and [s st] is the outer product matrix formed from the unit vector s along the line l recall that skew-symmetric matrix [s] is constructed so that [s]y=s x y the matrix [i-sst] in this equation subtracts the component of r=r-r that is parallel to s
+the previous sections show that in computing the moment of inertia matrix this operator yields a similar operator using the components of the vector r that is
+it is helpful to keep the following identities in mind to compare the equations that define the inertia tensor and the inertia matrix
+let [r] be the skew symmetric matrix associated with the position vector r=(x y z) then the product in the inertia matrix becomes
+this can be viewed as another way of computing the perpendicular distance from an axis to a point because the matrix formed by the outer product [r rt] yields the identify
+where [i] is the 3x3 identity matrix
+also notice that
+where tr denotes the sum of the diagonal elements of the outer product matrix known as its trace
+== the inertia matrix in different reference framesedit ==
+the use of the inertia matrix in newton's second law assumes its components are computed relative to axes parallel to the inertial frame and not relative to a body-fixed reference frame this means that as the body moves the components of the inertia matrix change with time in contrast the components of the inertia matrix measured in a body-fixed frame are constant
+=== body frame inertia matrixedit ===
+let the body frame inertia matrix relative to the centre of mass be denoted [icb] and define the orientation of the body frame relative to the inertial frame by the rotation matrix [a] such that
+where vectors y in the body fixed coordinate frame have coordinates x in the inertial frame then the inertia matrix of the body measured in the inertial frame is given by
+notice that [a] changes as the body moves while [icb] remains constant
+=== principal axesedit ===
+measured in the body frame the inertia matrix is a constant real symmetric matrix a real symmetric matrix has the eigendecomposition into the product of a rotation matrix [q] and a diagonal matrix [] given by
+where
+the columns of the rotation matrix [q] define the directions of the principal axes of the body and the constants i1 i2 and i3 are called the principal moments of inertia this result was first shown by j j sylvester (1852) and is a form of sylvester's law of inertia
+for bodies with constant density an axis of rotational symmetry is a principal axis
+=== inertia of an ellipsoidedit ===
+the moment of inertia matrix in body-frame coordinates is a quadratic form that defines a surface in the body called poinsot's ellipsoid let [] be the inertia matrix relative to the centre of mass aligned with the principal axes then the surface
+or
+defines an ellipsoid in the body frame write this equation in the form
+to see that the semi-principal diameters of this ellipsoid are given by
+let a point x on this ellipsoid be defined in terms of its magnitude and direction x=|x|n where n is a unit vector then the relationship presented above between the inertia matrix and the scalar moment of inertia in around an axis in the direction n yields
+thus the magnitude of a point x in the direction n on the inertia ellipsoid is
+== see alsoedit ==
+central moment
+instant centre of rotation
+list of moments of inertia
+list of moment of inertia tensors
+rotational energy
+stretch rule
+tire balance
+== referencesedit ==
+== external linksedit ==
+angular momentum and rigid-body rotation in two and three dimensions
+lecture notes on rigid-body rotation and moments of inertia
+the moment of inertia tensor
+an introductory lesson on moment of inertia: keeping a vertical pole not falling down (java simulation)
+tutorial on finding moments of inertia with problems and solutions on various basic shapes
+notes on mechanics of manipulation: the angular inertia tensor

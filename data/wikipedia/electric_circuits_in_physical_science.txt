@@ -1,0 +1,71 @@
+electronics is the science of how to control electric energy energy in which the electrons have a fundamental role electronics deals with electrical circuits that involve active electrical components such as vacuum tubes transistors diodes and integrated circuits and associated passive electrical components and interconnection technologies commonly electronic devices contain circuitry consisting primarily or exclusively of active semiconductors supplemented with passive elements; such a circuit is described as an electronic circuit
+the nonlinear behaviour of active components and their ability to control electron flows makes amplification of weak signals possible and electronics is widely used in information processing telecommunication and signal processing the ability of electronic devices to act as switches makes digital information processing possible interconnection technologies such as circuit boards electronics packaging technology and other varied forms of communication infrastructure complete circuit functionality and transform the mixed components into a regular working system
+electronics is distinct from electrical and electro-mechanical science and technology which deal with the generation distribution switching storage and conversion of electrical energy to and from other energy forms using wires motors generators batteries switches relays transformers resistors and other passive components this distinction started around 1906 with the invention by lee de forest of the triode which made electrical amplification of weak radio signals and audio signals possible with a non-mechanical device until 1950 this field was called "radio technology" because its principal application was the design and theory of radio transmitters receivers and vacuum tubes
+today most electronic devices use semiconductor components to perform electron control the study of semiconductor devices and related technology is considered a branch of solid-state physics whereas the design and construction of electronic circuits to solve practical problems come under electronics engineering this article focuses on engineering aspects of electronics
+== branches of electronicsedit ==
+electronics has branches as follows:
+digital electronics
+analogue electronics
+microelectronics
+circuit design
+integrated circuit
+optoelectronics
+semiconductor
+semiconductor device
+== electronic devices and componentsedit ==
+an electronic component is any physical entity in an electronic system used to affect the electrons or their associated fields in a manner consistent with the intended function of the electronic system components are generally intended to be connected together usually by being soldered to a printed circuit board (pcb) to create an electronic circuit with a particular function (for example an amplifier radio receiver or oscillator) components may be packaged singly or in more complex groups as integrated circuits some common electronic components are capacitors inductors resistors diodes transistors etc components are often categorized as active (e.g transistors and thyristors) or passive (e.g resistors diodes inductors and capacitors)
+== history of electronic componentsedit ==
+vacuum tubes (thermionic valves) were one of the earliest electronic components they were almost solely responsible for the electronics revolution of the first half of the twentieth century they took electronics from parlor tricks and gave us radio television phonographs radar long distance telephony and much more they played a leading role in the field of microwave and high power transmission as well as television receivers until the middle of the 1980s since that time solid state devices have all but completely taken over vacuum tubes are still used in some specialist applications such as high power rf amplifiers cathode ray tubes specialist audio equipment guitar amplifiers and some microwave devices
+in april 1955 the ibm 608 was the first ibm product to use transistor circuits without any vacuum tubes and is believed to be the world's first all-transistorized calculator to be manufactured for the commercial market the 608 contained more than 3,000 germanium transistors thomas j watson jr ordered all future ibm products to use transistors in their design from that time on transistors were almost exclusively used for computer logic and peripherals
+== types of circuitsedit ==
+circuits and components can be divided into two groups: analog and digital a particular device may consist of circuitry that has one or the other or a mix of the two types
+=== analog circuitsedit ===
+most analog electronic appliances such as radio receivers are constructed from combinations of a few types of basic circuits analog circuits use a continuous range of voltage or current as opposed to discrete levels as in digital circuits
+the number of different analog circuits so far devised is huge especially because a 'circuit' can be defined as anything from a single component to systems containing thousands of components
+analog circuits are sometimes called linear circuits although many non-linear effects are used in analog circuits such as mixers modulators etc good examples of analog circuits include vacuum tube and transistor amplifiers operational amplifiers and oscillators
+one rarely finds modern circuits that are entirely analog these days analog circuitry may use digital or even microprocessor techniques to improve performance this type of circuit is usually called "mixed signal" rather than analog or digital
+sometimes it may be difficult to differentiate between analog and digital circuits as they have elements of both linear and non-linear operation an example is the comparator which takes in a continuous range of voltage but only outputs one of two levels as in a digital circuit similarly an overdriven transistor amplifier can take on the characteristics of a controlled switch having essentially two levels of output in fact many digital circuits are actually implemented as variations of analog circuits similar to this exampleafter all all aspects of the real physical world are essentially analog so digital effects are only realized by constraining analog behavior
+=== digital circuitsedit ===
+digital circuits are electric circuits based on a number of discrete voltage levels digital circuits are the most common physical representation of boolean algebra and are the basis of all digital computers to most engineers the terms "digital circuit" "digital system" and "logic" are interchangeable in the context of digital circuits most digital circuits use a binary system with two voltage levels labeled "0" and "1" often logic "0" will be a lower voltage and referred to as "low" while logic "1" is referred to as "high" however some systems use the reverse definition ("0" is "high") or are current based quite often the logic designer may reverse these definitions from one circuit to the next as they see fit to facilitate their design the definition of the levels as "0" or "1" is arbitrary
+ternary (with three states) logic has been studied and some prototype computers made
+computers electronic clocks and programmable logic controllers (used to control industrial processes) are constructed of digital circuits digital signal processors are another example
+building blocks:
+logic gates
+adders
+flip-flops
+counters
+registers
+multiplexers
+schmitt triggers
+highly integrated devices:
+microprocessors
+microcontrollers
+application-specific integrated circuit (asic)
+digital signal processor (dsp)
+field-programmable gate array (fpga)
+== heat dissipation and thermal managementedit ==
+heat generated by electronic circuitry must be dissipated to prevent immediate failure and improve long term reliability heat dissipation is mostly achieved by passive conduction/convection means to achieve greater dissipation include heat sinks and fans for air cooling and other forms of computer cooling such as water cooling these techniques use convection conduction and radiation of heat energy
+== noiseedit ==
+electronic noise is defined as unwanted disturbances superposed on a useful signal that tend to obscure its information content noise is not the same as signal distortion caused by a circuit noise is associated with all electronic circuits noise may be electromagnetically or thermally generated which can be decreased by lowering the operating temperature of the circuit other types of noise such as shot noise cannot be removed as they are due to limitations in physical properties
+== electronics theoryedit ==
+mathematical methods are integral to the study of electronics to become proficient in electronics it is also necessary to become proficient in the mathematics of circuit analysis
+circuit analysis is the study of methods of solving generally linear systems for unknown variables such as the voltage at a certain node or the current through a certain branch of a network a common analytical tool for this is the spice circuit simulator
+also important to electronics is the study and understanding of electromagnetic field theory
+== electronics labedit ==
+due to the complex nature of electronics theory laboratory experimentation is an important part of the development of electronic devices these experiments are used to test or verify the engineers design and detect errors historically electronics labs have consisted of electronics devices and equipment located in a physical space although in more recent years the trend has been towards electronics lab simulation software such as circuitlogix multisim and pspice
+== computer aided design (cad)edit ==
+today's electronics engineers have the ability to design circuits using premanufactured building blocks such as power supplies semiconductors (i.e semiconductor devices such as transistors) and integrated circuits electronic design automation software programs include schematic capture programs and printed circuit board design programs popular names in the eda software world are ni multisim cadence (orcad) eagle pcb and schematic mentor (pads pcb and logic schematic) altium (protel) labcentre electronics (proteus) geda kicad and many others
+== construction methodsedit ==
+many different methods of connecting components have been used over the years for instance early electronics often used point to point wiring with components attached to wooden breadboards to construct circuits cordwood construction and wire wrap were other methods used most modern day electronics now use printed circuit boards made of materials such as fr4 or the cheaper (and less hard-wearing) synthetic resin bonded paper (srbp also known as paxoline/paxolin (trade marks) and fr2) - characterised by its brown colour health and environmental concerns associated with electronics assembly have gained increased attention in recent years especially for products destined to the european union with its restriction of hazardous substances directive (rohs) and waste electrical and electronic equipment directive (weee) which went into force in july 2006
+== see alsoedit ==
+== referencesedit ==
+== further readingedit ==
+the art of electronics isbn 978-0-521-37095-0
+== external linksedit ==
+electronics at dmoz
+navy 1998 navy electricity and electronics training series (neets)
+doe 1998 electrical science fundamentals handbook 4 vols
+vol 1 basic electrical theory basic dc theory
+vol 2 dc circuits batteries generators motors
+vol 3 basic ac theory basic ac reactive components basic ac power basic ac generators
+vol 4 ac motors transformers test instruments & measuring devices electrical distribution systems

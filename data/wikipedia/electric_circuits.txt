@@ -1,0 +1,48 @@
+kirchhoff's circuit laws are two equalities that deal with the current and potential difference (commonly known as voltage) in the lumped element model of electrical circuits they were first described in 1845 by german physicist gustav kirchhoff this generalized the work of georg ohm and preceded the work of maxwell widely used in electrical engineering they are also called kirchhoff's rules or simply kirchhoff's laws
+both of kirchhoff's laws can be understood as corollaries of the maxwell equations in the low-frequency limit they are accurate for dc circuits and for ac circuits at frequencies where the wavelengths of electromagnetic radiation are very large compared to the circuits
+== kirchhoff's current law (kcl)edit ==
+this law is also called kirchhoff's first law kirchhoff's point rule or kirchhoff's junction rule (or nodal rule)
+the principle of conservation of electric charge implies that:
+at any node (junction) in an electrical circuit the sum of currents flowing into that node is equal to the sum of currents flowing out of that node
+or equivalently
+the algebraic sum of currents in a network of conductors meeting at a point is zero
+recalling that current is a signed (positive or negative) quantity reflecting direction towards or away from a node this principle can be stated as:
+n is the total number of branches with currents flowing towards or away from the node
+this formula is valid for complex currents:
+the law is based on the conservation of charge whereby the charge (measured in coulombs) is the product of the current (in amperes) and the time (in seconds)
+=== usesedit ===
+a matrix version of kirchhoff's current law is the basis of most circuit simulation software such as spice kirchhoff's current law combined with ohm's law is used in nodal analysis
+kcl is applicable to any lumped network irrespective of the nature of the network; whether unilateral or bilateral active or passive linear or non-linear
+== kirchhoff's voltage law (kvl)edit ==
+this law is also called kirchhoff's second law kirchhoff's loop (or mesh) rule and kirchhoff's second rule
+the principle of conservation of energy implies that
+the directed sum of the electrical potential differences (voltage) around any closed network is zero or:
+more simply the sum of the emfs in any closed loop is equivalent to the sum of the potential drops in that loop or:
+the algebraic sum of the products of the resistances of the conductors and the currents in them in a closed loop is equal to the total emf available in that loop
+similarly to kcl it can be stated as:
+here n is the total number of voltages measured the voltages may also be complex:
+this law is based on the conservation of energy whereby voltage is defined as the energy per unit charge the total amount of energy gained per unit charge must be equal to the amount of energy lost per unit charge as energy and charge are both conserved
+=== generalizationedit ===
+in the low-frequency limit the voltage drop around any loop is zero this includes imaginary loops arranged arbitrarily in space not limited to the loops delineated by the circuit elements and conductors in the low-frequency limit this is a corollary of faraday's law of induction (which is one of the maxwell equations)
+this has practical application in situations involving "static electricity"
+== limitationsedit ==
+kcl and kvl both depend on the lumped element model being applicable to the circuit in question when the model is not applicable the laws do not apply
+kcl in its usual form is dependent on the assumption that current flows only in conductors and that whenever current flows into one end of a conductor it immediately flows out the other end this is not a safe assumption for high-frequency ac circuits where the lumped element model is no longer applicable it is often possible to improve the applicability of kcl by considering "parasitic capacitances" distributed along the conductors significant violations of kcl can occur even at 60hz which is not a very high frequency
+in other words kcl is valid only if the total electric charge  remains constant in the region being considered in practical cases this is always so when kcl is applied at a geometric point when investigating a finite region however it is possible that the charge density within the region may change since charge is conserved this can only come about by a flow of charge across the region boundary this flow represents a net current and kcl is violated
+kvl is based on the assumption that there is no fluctuating magnetic field linking the closed loop this is not a safe assumption for high-frequency (short-wavelength) ac circuits in the presence of a changing magnetic field the electric field is not a conservative vector field therefore the electric field cannot be the gradient of any potential that is to say the line integral of the electric field around the loop is not zero directly contradicting kvl
+it is often possible to improve the applicability of kvl by considering "parasitic inductances" (including mutual inductances) distributed along the conductors these are treated as imaginary circuit elements that produce a voltage drop equal to the rate-of-change of the flux
+== exampleedit ==
+assume an electric network consisting of two voltage sources and three resistors
+according to the first law we have
+the second law applied to the closed circuit s1 gives
+the second law applied to the closed circuit s2 gives
+thus we get a linear system of equations in :
+which is equivalent to
+assuming
+the solution is
+has a negative sign which means that the direction of is opposite to the assumed direction (the direction defined in the picture)
+== see alsoedit ==
+faraday's law of induction
+kirchhoff's laws (disambiguation)
+lumped matter discipline
+== referencesedit ==

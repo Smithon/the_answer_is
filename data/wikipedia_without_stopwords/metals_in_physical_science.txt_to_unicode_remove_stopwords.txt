@@ -1,0 +1,68 @@
+crystallography terms crystal system crystal family lattice system refer one several classes space groups lattices point groups crystals informally two crystals tend crystal system similar symmetries though many exceptions
+crystal systems crystal families lattice systems similar slightly different widespread confusion particular trigonal crystal system often confused rhombohedral lattice system term crystal system sometimes used mean lattice system crystal family
+space groups crystals divided crystal systems according point groups lattice systems according bravais lattices five crystal systems essentially five lattice systems hexagonal trigonal crystal systems differ hexagonal rhombohedral lattice systems six crystal families formed combining hexagonal trigonal crystal systems one hexagonal family order eliminate confusion
+overviewedit
+lattice system generally identified set lattices shape according relative lengths cell edges b c angles lattice assigned one following classifications lattice types based positions lattice points within cell primitive p bodycentered facecentered f basecentered b c rhombohedral r unique combinations lattice systems lattice types collectively known bravais lattices associated lattice system set point groups sometimes called lattice point groups subgroups arithmetic crystal classes total seven lattice systems triclinic monoclinic orthorhombic tetragonal rhombohedral hexagonal cubic
+crystal system set point groups point groups corresponding space groups assigned lattice system point groups exist three dimensions assigned one lattice system case crystal system lattice system name however five point groups assigned two lattice systems rhombohedral hexagonal lattice systems exhibit threefold rotational symmetry point groups assigned trigonal crystal system total seven crystal systems triclinic monoclinic orthorhombic tetragonal trigonal hexagonal cubic
+crystal family determined lattices point groups formed combining crystal systems space groups assigned lattice system three dimensions crystal families identical crystal systems except hexagonal trigonal crystal systems combined one hexagonal crystal family total six crystal families triclinic monoclinic orthorhombic tetragonal hexagonal cubic
+spaces less three dimensions number crystal systems crystal families lattice systems zero onedimensional space one crystal system twodimensional space four crystal systems oblique rectangular square hexagonal
+relation threedimensional crystal families crystal systems lattice systems shown following table
+caution trigonal lattice system avoid confusion terminology dont use term trigonal lattice use definition trigonal lattice hexagonal lattice rhombohedral lattice
+crystal classesedit
+crystal systems consist crystal classes corresponding crystallographic point groups shown following table
+point symmetry thought following fashion consider coordinates make structure project single point xyz becomes xyz inverted structure original structure inverted structure identical structure centrosymmetric otherwise noncentrosymmetric still even noncentrosymmetric case inverted structure cases rotated align original structure case noncentrosymmetric achiral structure inverted structure cannot rotated align original structure structure chiral enantiomorphic symmetry group enantiomorphic
+direction meaning line without arrow called polar two directional senses geometrically physically different polar symmetry direction crystal called polar axis groups containing polar axis called polar polar crystal possess unique axis found directions geometrical physical property different two ends axis may develop dielectric polarization eg pyroelectric crystals polar axis occur noncentrosymmetric structures also mirror plane fold axis perpendicular polar axis make directions axis equivalent
+crystal structures chiral biological molecules protein structures occur enantiomorphic point groups biological molecules usually chiral
+lattice systemsedit
+distribution bravais lattice types lattice systems given following table
+geometry crystallography bravais lattice category symmetry groups translational symmetry three directions correspondingly category translation lattices
+symmetry groups consist translations vectors form
+n n n integers three noncoplanar vectors called primitive vectors
+lattices classified space group translation lattice bravais lattices three dimensions apply one lattice system represent maximum symmetry structure translational symmetry concerned
+crystalline materials must definition fit one arrangements including quasicrystals
+convenience bravais lattice depicted unit cell factor larger primitive cell depending symmetry crystal pattern fundamental domain smaller factor
+bravais lattices studied moritz ludwig frankenheim found bravais lattices corrected bravais
+crystal systems fourdimensional spaceedit
+fourdimensional unit cell defined four edge lengths six interaxial angles following conditions lattice parameters define crystal families
+hexaclinic
+triclinic
+diclinic
+monoclinic
+orthogonal
+tetragonal monoclinic
+hexagonal monoclinic
+ditetragonal diclinic
+ditrigonal dihexagonal diclinic
+tetragonal orthogonal
+hexagonal orthogonal
+ditetragonal monoclinic
+ditrigonal dihexagonal monoclinic
+ditetragonal orthogonal
+hexagonal tetragonal
+dihexagonal orthogonal
+cubic orthogonal
+octagonal
+decagonal
+dodecagonal
+diisohexagonal orthogonal
+icosagonal icosahedral
+hypercubic
+names given according whittaker almost brown et al exception names crystal families names three families according brown et al given parenthesis
+relation fourdimensional crystal families crystal systems lattice systems shown following table enantiomorphic systems marked asterisk number enantiomorphic pairs given parentheses term enantiomorphic different meaning table threedimensional crystal classes latter means enantiomorphic point groups describe chiral enantiomorphic structures current table enantiomorphic means group considered geometric object enantiomorphic like enantiomorphic pairs threedimensional space groups p p p p starting fourdimensional space point groups also enantiomorphic sense
+see alsoedit
+crystal cluster
+crystal structure
+list crystallographic d space groups
+polar point group
+notesedit
+referencesedit
+hahn theo ed international tables crystallography volume space group symmetry th ed berlin new york springerverlag doi isbn
+external linksedit
+overview groups
+mineral galleries symmetry
+cubic crystal classes forms stereographic projections interactive java applet
+crystal system online dictionary crystallography
+crystal family online dictionary crystallography
+lattice system online dictionary crystallography
+conversion primitive standard conventional vasp input files
+learning crystallography

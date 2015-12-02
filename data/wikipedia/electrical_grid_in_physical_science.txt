@@ -1,0 +1,18 @@
+a practical electrical power source which is a linear electric circuit may according to thvenin's theorem be represented as an ideal voltage source in series with an impedance this impedance is termed the internal resistance of the source when the power source delivers current the measured voltage output is lower than the no-load voltage; the difference is the voltage drop (the product of current and resistance) caused by the internal resistance the concept of internal resistance applies to all kinds of electrical sources and is useful for analyzing many types of electrical circuits
+== battery ==
+a battery may be modeled as a voltage source in series with a resistance in practice the internal resistance of a battery is dependent on its size chemical properties age temperature and the discharge current it has an electronic component due to the resistivity of the component materials and an ionic component due to electrochemical factors such as electrolyte conductivity ion mobility and electrode surface area measurement of the internal resistance of a battery is a guide to its condition but may not apply at other than the test conditions measurement with an alternating current typically at a frequency of 70031000000000000001 khz may underestimate the resistance as the frequency may be too high to take into account slower electrochemical processes internal resistance depends on temperature; for example a fresh energizer e91 aa alkaline primary battery drops from about 0.9 at -40 c when the low temperature reduces ion mobility to about 0.15 at room temperature and about 0.1 at 40 c
+the internal resistance of a battery may be calculated from its open circuit voltage vnl load voltage vfl and the load resistance rl:
+many equivalent series resistance (esr) meters essentially ac milliohm-meters normally used to measure the esr of capacitors can be used to estimate battery internal resistance particularly to check the state of discharge of a battery rather than obtain an accurate dc value some chargers for rechargeable batteries indicate the esr
+in use the voltage across the terminals of a disposable battery driving a load decreases until it drops too low to be useful; this is largely due to an increase in internal resistance rather than a drop in the voltage of the equivalent source
+in rechargeable lithium polymer batteries the internal resistance is largely independent of the state of charge but increases as the battery ages; thus it is a good indicator of expected life
+== see also ==
+norton's theorem
+== references ==
+^ "battery internal resistance" (pdf) energizer technical bulletin energizer battery december 2005
+^ testing batteries with esr meter
+^ understanding rc lipo batteries
+^ esr meter for 2 6 cell lipo packs - instructions
+student reference manual for electronic instrumentation laboratories (2nd edition) - stanley wolf & richard f.m smith
+fundamentals of electric circuits (4th edition) - charles alexander & matthew sadiku
+== external links ==
+interconnection of two audio units - output impedance and input impedance

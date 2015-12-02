@@ -1,0 +1,70 @@
+valence shell electron pair repulsion vsepr theory model used chemistry predict geometry individual molecules number electron pairs surrounding central atoms also named gillespienyholm theory two main developers acronym vsepr pronounced either vesper vuhsehper chemists
+premise vsepr valence electron pairs surrounding atom tend repel therefore adopt arrangement minimizes repulsion thus determining molecules geometry gillespie professor emeritus mcmaster university emphasized electronelectron repulsion due pauli exclusion principle important determining molecular geometry electrostatic repulsion
+vsepr theory based observable electron density rather mathematical wave functions hence unrelated orbital hybridisation although address molecular shape mainly qualitative vsepr quantitative basis quantum chemical topology qct methods electron localization function quantum theory atoms molecules qtaim
+history
+idea correlation molecular geometry number valence electrons shared unshared originally proposed ryutaro tsuchida japan independently presented bakerian lecture nevil sidgwick herbert powell university oxford ronald gillespie ronald sydney nyholm university college london refined concept detailed theory capable choosing various alternative geometries
+overview
+vsepr theory used predict arrangement electron pairs around nonhydrogen atoms molecules especially simple symmetric molecules key central atoms participate bonding atoms geometry key atoms nonbonding electron pairs turn determine geometry larger whole
+number electron pairs valence shell central atom determined drawing lewis structure molecule expanding show bonding groups lone pairs electrons vsepr theory double bond triple bond treated single bonding group sum number atoms bonded central atom number lone pairs formed nonbonding valence electrons known central atoms steric number
+electron pairs groups multiple bonds present assumed lie surface sphere centered central atom tend occupy positions minimize mutual repulsions maximizing distance number electron pairs groups therefore determines overall geometry adopt example two electron pairs surrounding central atom mutual repulsion minimal lie opposite poles sphere therefore central atom predicted adopt linear geometry electron pairs surrounding central atom repulsion minimized placing vertices equilateral triangle centered atom therefore predicted geometry trigonal likewise electron pairs optimal arrangement tetrahedral
+degree repulsion
+overall geometry refined distinguishing bonding nonbonding electron pairs bonding electron pair shared sigma bond adjacent atom lies central atom nonbonding lone pair atom held close positively charged nucleus vsepr theory therefore views repulsion lone pair greater repulsion bonding pair molecule interactions different degrees repulsion vsepr theory predicts structure lone pairs occupy positions allow experience less repulsion lone pairlone pair lplp repulsions considered stronger lone pairbonding pair lpbp repulsions turn considered stronger bonding pairbonding pair bpbp repulsions distinctions guide decisions overall geometry nonequivalent positions possible instance valence electron pairs surround central atom adopt trigonal bipyramidal molecular geometry two collinear axial positions three equatorial positions electron pair axial position three close equatorial neighbors away fourth much farther equatorial electron pair two adjacent pairs two repulsion close neighbors important axial positions experience repulsion equatorial positions hence lone pairs tend occupy equatorial positions shown diagrams next section steric number five
+difference lone pairs bonding pairs may also used rationalize deviations idealized geometries example ho molecule four electron pairs valence shell two lone pairs two bond pairs four electron pairs spread point roughly towards apices tetrahedron however bond angle two oh bonds rather regular tetrahedron two lone pairs whose density probability envelopes lie closer oxygen nucleus exert greater mutual repulsion two bond pairs
+advancedlevel explanation replaces distinction two rules
+bents rule electron pair electropositive ligand constitutes greater repulsion explains cl pclf prefers equatorial position bond angle oxygen difluoride smaller water lone pairs considered special case rule held ghost ligand limit electropositivity
+higher bond order constitutes greater repulsion explains phosgene oxygenchlorine bond angle larger chlorinechlorine bond angle even though chlorine electropositive oxygen carbonate ion three bond angles equivalent due resonance
+axe method
+axe method electron counting commonly used applying vsepr theory represents central atom always implied subscript one x represents ligands atoms bonded e represents number lone electron pairs surrounding central atom sum x e known steric number
+based steric number distribution xs es vsepr theory makes predictions following tables note geometries named according atomic positions electron arrangement example description axe bent molecule means three atoms ax one straight line although lone pair helps determine geometry
+electron arrangement including lone pairs shown pale yellow
+observed geometry excluding lone pairs
+substituent x atoms geometry still approximately valid bond angles may slightly different ones outside atoms example doublebond carbons alkenes like ch axe bond angles exactly likewise socl axe x substituents identical xax angles equal
+tool predicting geometry adopted given number electron pairs often used physical demonstration principle minimal electron pair repulsion utilizes inflated balloons handling balloons acquire slight surface electrostatic charge results adoption roughly geometries tied together stems corresponding number electron pairs example five balloons tied together adopt trigonal bipyramidal geometry five bonding pairs pcl molecule ax two bonding three nonbonding pairs xef molecule axe molecular geometry former also trigonal bipyramidal whereas latter linear
+examples
+methane molecule ch tetrahedral four pairs electrons four hydrogen atoms positioned vertices tetrahedron bond angle cos referred ax type molecule mentioned represents central atom x represents outer atom
+ammonia molecule nh three pairs electrons involved bonding lone pair electrons nitrogen atom bonded another atom however influences overall shape repulsions methane four regions electron density therefore overall orientation regions electron density tetrahedral hand three outer atoms referred axe type molecule lone pair represented e definition molecular shape geometry describes geometric arrangement atomic nuclei trigonalpyramidal nh
+steric numbers greater possible less common steric number occurs iodine heptafluoride base geometry steric number pentagonal bipyramidal common geometry steric number square antiprismatic geometry examples include octacyanomolybdate mocn
+octafluorozirconate zrf
+anions
+nonahydridorhenate ion reh
+potassium nonahydridorhenate rare example compound steric number tricapped trigonal prismatic geometry another example octafluoroxenate ion xef
+nitrosonium octafluoroxenatevi although case one electron pairs lone pair therefore molecule actually distorted square antiprismatic geometry
+possible geometries steric numbers bicapped square antiprismatic bicapped dodecadeltahedral octadecahedral icosahedral bicapped hexagonal antiprismatic respectively compounds steric numbers high involving monodentate ligands exist involving multidentate ligands often analysed simply complexes lower steric numbers multidentate ligands treated unit
+exceptions
+groups compounds vsepr fails predict correct geometry
+axe molecules
+gas phase structures triatomic halides heavier members group ie calcium strontium barium halides mx linear predicted bent approximate xmx angles caf srf baf srcl bacl babr bai proposed gillespie caused interaction ligands electron core metal atom polarising inner shell spherically symmetric thus influencing molecular geometry ab initio calculations cited propose contributions d orbitals shell valence shell responsible disilynes also bent despite lone pairs
+axe molecules
+one example axe geometry molecular lithium oxide lio linear rather bent structure ascribed bonds essentially ionic strong lithiumlithium repulsion results another example osih siosi angle compares angles clo cho nch gillespie robinson rationalize siosi bond angle based observed ability ligands lone pair greatly repel electron pairs ligand electronegativity greater equal central atom osih central atom electronegative lone pairs less localized weakly repulsive larger siosi bond angle results strong ligandligand repulsion relatively large sih ligand
+axe axe molecules
+axe molecules eg xenon hexafluoride xef teiv biiii anions tecl
+tebr
+bicl
+bibr
+bii
+octahedra rather pentagonal pyramids lone pair affect geometry degree predicted vsepr one rationalization steric crowding ligands allows little room nonbonding lone pair another rationalization inert pair effect
+transition metal molecules
+many transition metal compounds unusual geometries ascribed absence valence shell lone pairs ligand bonding interaction d subshell gillespie suggested interaction weak strong weak interaction dealt kepert model strong interaction produces bonding pairs also occupy respective antipodal points sphere similar predictions based sd hybrid orbitals using valbond theory repulsion bidirectional bonding pairs leads different prediction shapes
+square planar shape associated d electronic configuration exception kepert model rationalized considering increased crystal field stabilization energy compared tetrahedral geometry
+oddelectron molecules
+vsepr theory extended molecules odd number electrons treating unpaired electron half electron pair example gillespie nyholm suggested decrease bond angle series
+indicates given set bonding electron pairs exert weaker repulsion single nonbonding electron pair nonbonding electrons effect considered nitrogen dioxide axe molecule geometry intermediate
+similarly chlorine dioxide clo axe geometry intermediate clo
+clo
+finally methyl radical ch predicted trigonal pyramidal like methyl anion ch
+larger bond angle trigonal planar methyl cation ch
+however case vsepr prediction quite true ch actually planar although distortion pyramidal geometry requires little energy
+see also
+bents rule effect ligand electronegativity
+linear combination atomic orbitals
+molecular geometry
+molecular modelling
+software molecular modeling
+thomson problem
+valency interaction formula
+references
+reading
+chemistry foundations applications j j lagowski ed new york macmillan isbn volume pages
+external links
+d chem chemistry structures d molecules
+iumsc indiana university molecular structure center

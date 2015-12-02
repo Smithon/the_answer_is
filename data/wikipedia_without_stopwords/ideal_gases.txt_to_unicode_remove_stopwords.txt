@@ -1,0 +1,97 @@
+ideal gas theoretical gas composed many randomly moving point particles interact except collide elastically ideal gas concept useful obeys ideal gas law simplified equation state amenable analysis statistical mechanics one mole ideal gas volume l stp defined iupac
+normal conditions standard temperature pressure real gases behave qualitatively like ideal gas many gases nitrogen oxygen hydrogen noble gases heavier gases like carbon dioxide treated like ideal gases within reasonable tolerances generally gas behaves like ideal gas higher temperature lower pressure potential energy due intermolecular forces becomes less significant compared particles kinetic energy size molecules becomes less significant compared empty space
+ideal gas model tends fail lower temperatures higher pressures intermolecular forces molecular size become important also fails heavy gases many refrigerants gases strong intermolecular forces notably water vapor high pressures volume real gas often considerably greater ideal gas low temperatures pressure real gas often considerably less ideal gas point low temperature high pressure real gases undergo phase transition liquid solid model ideal gas however describe allow phase transitions must modeled complex equations state deviation ideal gas behaviour described dimensionless quantity compressibility factor z
+ideal gas model explored newtonian dynamics kinetic theory quantum mechanics gas box ideal gas model also used model behavior electrons metal drude model free electron model one important models statistical mechanics
+types ideal gas
+three basic classes ideal gas
+classical maxwellboltzmann ideal gas
+ideal quantum bose gas composed bosons
+ideal quantum fermi gas composed fermions
+classical ideal gas separated two types classical thermodynamic ideal gas ideal quantum boltzmann gas essentially except classical thermodynamic ideal gas based classical statistical mechanics certain thermodynamic parameters entropy specified within undetermined additive constant ideal quantum boltzmann gas overcomes limitation taking limit quantum bose gas quantum fermi gas limit high temperature specify additive constants behavior quantum boltzmann gas classical ideal gas except specification constants results quantum boltzmann gas used number cases including sackurtetrode equation entropy ideal gas saha ionization equation weakly ionized plasma
+classical thermodynamic ideal gas
+macroscopic account
+ideal gas law extension experimentally discovered gas laws real fluids low density high temperature approximate behavior classical ideal gas however lower temperatures higher density real fluid deviates strongly behavior ideal gas particularly condenses gas liquid deposits gas solid deviation expressed compressibility factor
+classical thermodynamic properties ideal gas described two equations state
+one well known ideal gas law
+pressure
+volume
+amount substance gas moles
+gas constant jkmol
+absolute temperature
+equation derived boyles law constant n charless law constant p n avogadros law constant p
+constant used boyles law
+proportionality constant equal
+proportionality constant equal
+combining three laws would demonstrate would mean
+ideal conditions
+equation state ideal gas must express joules law internal energy fixed mass ideal gas function temperature present purposes convenient postulate exemplary version law writing
+internal energy
+dimensionless specific heat capacity constant volume monatomic gas diatomic gas complex molecules
+microscopic model
+order switch macroscopic quantities left hand side following equation microscopic ones right hand side use
+number gas particles
+boltzmann constant jk
+probability distribution particles velocity energy given maxwell speed distribution
+ideal gas model depends following assumptions
+molecules gas indistinguishable small hard spheres
+collisions elastic motion frictionless energy loss motion collision
+newtons laws apply
+average distance molecules much larger size molecules
+molecules constantly moving random directions distribution speeds
+attractive repulsive forces molecules apart determine pointlike collisions
+forces gas molecules surroundings determine pointlike collisions molecules walls
+simplest case longrange forces molecules gas surroundings
+assumption spherical particles necessary rotational modes allowed unlike diatomic gas following three assumptions related molecules hard collisions elastic intermolecular forces assumption space particles much larger particles paramount importance explains ideal gas approximation fails high pressures
+heat capacity
+heat capacity constant volume including ideal gas
+entropy dimensionless heat capacity constant volume generally function temperature due intermolecular forces moderate temperatures constant monatomic gas diatomic gas seen macroscopic measurements heat capacity provide information microscopic structure molecules
+heat capacity constant pressure r mole ideal gas
+enthalpy gas
+sometimes distinction made ideal gas could vary temperature perfect gas case
+ratio constant volume constant pressure heat capacity
+air mixture gases ratio
+entropy
+using results thermodynamics go long way determining expression entropy ideal gas important step since according theory thermodynamic potentials express entropy function u u thermodynamic potential volume v number particles n complete statement thermodynamic behavior ideal gas able derive ideal gas law expression internal energy
+since entropy exact differential using chain rule change entropy going reference state state entropy may written
+reference variables may functions number particles n using definition heat capacity constant volume first differential appropriate maxwell relation second
+expressing terms developed section differentiating ideal gas equation state integrating yields
+implies entropy may expressed
+constants incorporated logarithm fn function particle number n dimensions order argument logarithm dimensionless impose constraint entropy extensive mean extensive parameters v n multiplied constant entropy multiplied constant mathematically
+find equation function fn
+differentiating respect setting equal unity solving differential equation yields fn
+may vary different gases independent thermodynamic state gas dimensions substituting equation entropy
+using expression internal energy ideal gas entropy may written
+since expression entropy terms u v n fundamental equation properties ideal gas may derived
+far go using thermodynamics alone note equation flawed temperature approaches zero entropy approaches negative infinity contradiction third law thermodynamics ideal development critical point absolute zero argument logarithm becomes unity entropy becomes zero unphysical equation good approximation argument logarithm much larger unity concept ideal gas breaks low values vn nevertheless best value constant sense predicted entropy close possible actual entropy given flawed assumption ideality quantummechanical derivation constant developed derivation sackurtetrode equation expresses entropy monatomic ideal gas sackurtetrode theory constant depends upon mass gas particle sackurtetrode equation also suffers divergent entropy absolute zero good approximation entropy monatomic ideal gas high enough temperatures
+thermodynamic potentials
+expressing entropy function v n
+chemical potential ideal gas calculated corresponding equation state see thermodynamic potential
+g gibbs free energy equal
+thermodynamic potentials ideal gas written functions v n
+informative way writing potentials terms natural variables since equations used derive thermodynamic variables system terms natural variables thermodynamic potentials singlespecies ideal gas
+statistical mechanics relationship helmholtz free energy partition function fundamental used calculate thermodynamic properties matter see configuration integral details
+speed sound
+speed sound ideal gas given
+adiabatic index
+entropy per particle gas
+mass density gas
+pressure gas
+universal gas constant
+temperature
+molar mass gas
+table ideal gas equations
+see table thermodynamic equations ideal gas
+ideal quantum gases
+abovementioned sackurtetrode equation best choice entropy constant found proportional quantum thermal wavelength particle point argument logarithm becomes zero roughly equal point average distance particles becomes equal thermal wavelength fact quantum theory predicts thing gas behaves ideal gas high enough temperature low enough density point sackurtetrode equation begins break gas begin behave quantum gas composed either bosons fermions see gas box article derivation ideal quantum gases including ideal boltzmann gas
+gases tend behave ideal gas wider range pressures temperature reaches boyle temperature
+ideal boltzmann gas
+ideal boltzmann gas yields results classical thermodynamic gas makes following identification undetermined constant
+thermal de broglie wavelength gas g degeneracy states
+ideal bose fermi gases
+ideal gas bosons eg photon gas governed boseeinstein statistics distribution energy form boseeinstein distribution ideal gas fermions governed fermidirac statistics distribution energy form fermidirac distribution
+see also
+compressibility factor
+dynamical billiards billiard balls model ideal gas
+table thermodynamic equations
+scalefree ideal gas
+references

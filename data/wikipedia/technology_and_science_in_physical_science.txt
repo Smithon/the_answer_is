@@ -1,0 +1,37 @@
+in introductory chemistry the reactivity series or activity series is an empirical calculated and a structurally analytical progression of a series of metals according to their "reactivity" from highest to lowest it is used to summarize information about the reactions of metals with acids and water double displacement reactions and the extraction of metals from their ores
+== table ==
+going from bottom to top the metals:
+increase in reactivity;
+lose electrons more readily to form positive ions;
+corrode or tarnish more readily;
+require more energy (and different methods) to be separated from their ores;
+become stronger reducing agents (electron donors)
+== defining reactions ==
+there is no unique and fully consistent way to define the reactivity series but it is common to use the three types of reaction listed below many of which can be performed in a high-school laboratory (at least as demonstrations)
+=== reaction with water and acids ===
+the most reactive metals such as sodium will react with cold water to produce hydrogen and the metal hydroxide:
+2 na (s) + 2 h2o (l) 2 naoh (aq) + h2 (g)
+metals in the middle of the reactivity series such as iron will react with acids such as sulfuric acid (but not water at normal temperatures) to give hydrogen and a metal salt such as iron(ii) sulfate:
+fe (s) + h2so4 (l) feso4 (aq) + h2 (g)
+there is some ambiguity at the borderlines between the groups magnesium aluminium and zinc can react with water but the reaction is usually very slow unless the metal samples are specially prepared to remove the surface layer of oxide which protects the rest of the metal copper and silver will react with nitric acid; but because nitric acid is an oxidizing acid the oxidizing agent is not the h+ ion as in normal acids but the no3 ion
+=== single displacement reactions ===
+an iron nail placed in a solution of copper sulphate will quickly change colour as metallic copper is deposited and the iron is converted into iron(ii) sulfate:
+fe (s) + cuso4 (aq) cu (s) + feso4 (aq)
+in general a metal can displace any of the metals which are lower in the reactivity series: the higher metal reduces the ions of the lower metal this is used in the thermite reaction for preparing small quantities of metallic iron and in the kroll process for preparing titanium (ti comes at about the same level as al in the reactivity series) for example aluminium will reduce iron(iii) oxide to iron becoming aluminium oxide in the process:
+al (s) + fe2o3 (s) fe (s) + al2o3 (s)
+similarly magnesium can be used to extract titanium from titanium tetrachloride forming magnesium chloride in the process:
+2 mg (s) + ticl4 (l) ti (s) + 2 mgcl2 (s)
+however other factors can come into play such as in the preparation of metallic potassium by the reduction of potassium chloride with sodium at 850 c although sodium is lower than potassium in the reactivity series the reaction can proceed because potassium is more volatile and is distilled off from the mixture
+na (g) + kcl (l) k (g) + nacl (l)
+== comparison with standard electrode potentials ==
+the reactivity series is sometimes quoted in the strict reverse order of standard electrode potentials when it is also known as the "electrochemical series":
+li > k > sr > ca > na > mg > al > mn > zn > cr(+3) > fe > cd > co > ni > sn > pb > h > cu > ag > hg > pd > ir > pt > au
+the positions of lithium and sodium are changed on such a series; gold and platinum are also inverted although this has little practical significance as both metals are highly unreactive
+standard electrode potentials offer a quantitative measure of the power of a reducing agent rather than the qualitative considerations of other reactivity series however they are only valid for standard conditions: in particular they only apply to reactions in aqueous solution even with this proviso the electrode potentials of lithium and sodium and hence their positions in the electrochemical series appear anomalous the order of reactivity as shown by the vigour of the reaction with water or the speed at which the metal surface tarnishes in air appears to be
+potassium > sodium > lithium > alkaline earth metals
+the same as the reverse order of the (gas-phase) ionization energies this is borne out by the extraction of metallic lithium by the electrolysis of a eutectic mixture of lithium chloride and potassium chloride: lithium metal is formed at the cathode not potassium
+== see also ==
+reactivity (chemistry) which discusses the inconsistent way that the term 'reactivity' is used in chemistry
+== references ==
+== external links ==
+science line chemistry

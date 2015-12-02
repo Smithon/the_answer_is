@@ -1,0 +1,87 @@
+the following outline is presented as an overview and topical guide to air pollution dispersion:
+air pollution dispersion distribution of air pollution into the atmosphere air pollution is the introduction of particulates biological molecules or other harmful materials into earth's atmosphere causing disease death to humans damage to other living organisms such as food crops or the natural or built environment air pollution may come from anthropogenic or natural sources dispersion refers to what happens to the pollution during and after its introduction; understanding this may help in identifying and controlling it air pollution dispersion has become the focus of environmental conservationists and governmental environmental protection agencies (local state province and national) of many countries (which have adopted and used much of the terminology of this field in their laws and regulations) regarding air pollution control
+== air pollution emission plumes ==
+air pollution emission plume flow of pollutant in the form of vapor or smoke released into the air plumes are of considerable importance in the atmospheric dispersion modelling of air pollution there are three primary types of air pollution emission plumes:
+buoyant plumes plumes which are lighter than air because they are at a higher temperature and lower density than the ambient air which surrounds them or because they are at about the same temperature as the ambient air but have a lower molecular weight and hence lower density than the ambient air for example the emissions from the flue gas stacks of industrial furnaces are buoyant because they are considerably warmer and less dense than the ambient air as another example an emission plume of methane gas at ambient air temperatures is buoyant because methane has a lower molecular weight than the ambient air
+dense gas plumes plumes which are heavier than air because they have a higher density than the surrounding ambient air a plume may have a higher density than air because it has a higher molecular weight than air (for example a plume of carbon dioxide) a plume may also have a higher density than air if the plume is at a much lower temperature than the air for example a plume of evaporated gaseous methane from an accidental release of liquefied natural gas (lng) may be as cold as -161 c
+passive or neutral plumes plumes which are neither lighter or heavier than air
+== air pollution dispersion models ==
+there are five types of air pollution dispersion models as well as some hybrids of the five types:
+box model the box model is the simplest of the model types it assumes the airshed (i.e. a given volume of atmospheric air in a geographical region) is in the shape of a box it also assumes that the air pollutants inside the box are homogeneously distributed and uses that assumption to estimate the average pollutant concentrations anywhere within the airshed although useful this model is very limited in its ability to accurately predict dispersion of air pollutants over an airshed because the assumption of homogeneous pollutant distribution is much too simple
+gaussian model the gaussian model is perhaps the oldest (circa 1936) and perhaps the most commonly used model type it assumes that the air pollutant dispersion has a gaussian distribution meaning that the pollutant distribution has a normal probability distribution gaussian models are most often used for predicting the dispersion of continuous buoyant air pollution plumes originating from ground-level or elevated sources gaussian models may also be used for predicting the dispersion of non-continuous air pollution plumes (called puff models) the primary algorithm used in gaussian modeling is the generalized dispersion equation for a continuous point-source plume
+lagrangian model a lagrangian dispersion model mathematically follows pollution plume parcels (also called particles) as the parcels move in the atmosphere and they model the motion of the parcels as a random walk process the lagrangian model then calculates the air pollution dispersion by computing the statistics of the trajectories of a large number of the pollution plume parcels a lagrangian model uses a moving frame of reference as the parcels move from their initial location it is said that an observer of a lagrangian model follows along with the plume
+eulerian model an eulerian dispersions model is similar to a lagrangian model in that it also tracks the movement of a large number of pollution plume parcels as they move from their initial location the most important difference between the two models is that the eulerian model uses a fixed three-dimensional cartesian grid as a frame of reference rather than a moving frame of reference it is said that an observer of an eulerian model watches the plume go by
+dense gas model dense gas models are models that simulate the dispersion of dense gas pollution plumes (i.e. pollution plumes that are heavier than air) the three most commonly used dense gas models are:
+the degadis model developed by dr jerry havens and dr tom spicer at the university of arkansas under commission by the us coast guard and us epa
+the slab model developed by the lawrence livermore national laboratory funded by the us department of energy the us air force and the american petroleum institute
+the hegadas model developed by shell oil's research division
+== air pollutant emission ==
+types of air pollutant emission sources named for their characteristics
+sources by shape there are four basic shapes which an emmission source may have they are:
+point source single identifiable source of air pollutant emissions (for example the emissions from a combustion furnace flue gas stack) point sources are also characterized as being either elevated or at ground-level a point source has no geometric dimensions
+line source one-dimensional source of air pollutant emissions (for example the emissions from the vehicular traffic on a roadway)
+area source two-dimensional source of diffuse air pollutant emissions (for example the emissions from a forest fire a landfill or the evaporated vapors from a large spill of volatile liquid)
+volume source three-dimensional source of diffuse air pollutant emissions essentially it is an area source with a third (height) dimension (for example the fugitive gaseous emissions from piping flanges valves and other equipment at various heights within industrial facilities such as oil refineries and petrochemical plants) another example would be the emissions from an automobile paint shop with multiple roof vents or multiple open windows
+sources by motion
+stationary source flue gas stacks are examples of stationary sources
+mobile source buses are examples of mobile sources
+sources by urbanization level whether the source is within a city or not is relevant in that urban areas constitute a so-called heat island and the heat rising from an urban area causes the atmosphere above an urban area to be more turbulent than the atmosphere above a rural area
+urban source emission is in an urban area
+rural source emission is in a rural area
+sources by elevation
+surface or ground-level source
+near surface source
+elevated source
+sources by duration
+puff or intermittent source short term sources (for example many accidental emission releases are short term puffs)
+continuous source long term source (for example most flue gas stack emissions are continuous)
+== characterization of atmospheric turbulence ==
+effect of turbulence on dispersion turbulence increases the entrainment and mixing of unpolluted air into the plume and thereby acts to reduce the concentration of pollutants in the plume (i.e. enhances the plume dispersion) it is therefore important to categorize the amount of atmospheric turbulence present at any given time
+=== the pasquill atmospheric stability classes ===
+pasquill atmospheric stability classes oldest and for a great many years the most commonly used method of categorizing the amount of atmospheric turbulence present was the method developed by pasquill in 1961 he categorized the atmospheric turbulence into six stability classes named a b c d e and f with class a being the most unstable or most turbulent class and class f the most stable or least turbulent class table 1 lists the six classes and table 2 provides the meteorological conditions that define each class
+==== table 1: the pasquill stability classes ====
+==== table 2: meteorological conditions that define the pasquill stability classes ====
+==== data availability ====
+historical stability class data known as the stability array (star) data for sites within the usa can be purchased from the national climatic data center (ncdc)
+=== advanced methods of categorizing atmospheric turbulence ===
+advanced air pollution dispersion models they do not categorize atmospheric turbulence by using the simple meteorological parameters commonly used in defining the six pasquill classes as shown in table 2 above the more advanced models use some form of monin-obukhov similarity theory some examples include:
+aermod us epa's most advanced model no longer uses the pasquill stability classes to categorize atmospheric turbulence instead it uses the surface roughness length and the monin-obukhov length
+adms 4 united kingdom's most advanced model uses the monin-obukhov length the boundary layer height and the windspeed to categorize the atmospheric turbulence
+== miscellaneous other terminology ==
+(work on this section is continuously in progress)
+building effects or downwash: when an air pollution plume flows over nearby buildings or other structures turbulent eddies are formed in the downwind side of the building those eddies cause a plume from a stack source located within about five times the height of a nearby building or structure to be forced down to the ground much sooner than it would if a building or structure were not present the effect can greatly increase the resulting near-by ground-level pollutant concentrations downstream of the building or structure if the pollutants in the plume are subject to depletion by contact with the ground (particulates for example) the concentration increase just downstream of the building or structure will decrease the concentrations further downstream
+deposition of the pollution plume components to the underlying surface can be defined as either dry or wet deposition:
+dry deposition is the removal of gaseous or particulate material from the pollution plume by contact with the ground surface or vegetation (or even water surfaces) through transfer processes such as absorption and gravitational sedimentation this may be calculated by means of a deposition velocity which is related to the resistance of the underlying surface to the transfer
+wet deposition is the removal of pollution plume components by the action of rain the wet deposition of radionuclides in a pollution plume by a burst of rain often forms so called hot spots of radioactivity on the underlying surface
+inversion layers: normally the air near the earth's surface is warmer than the air above it because the atmosphere is heated from below as solar radiation warms the earth's surface which in turn then warms the layer of the atmosphere directly above it thus the atmospheric temperature normally decreases with increasing altitude however under certain meteorological conditions atmospheric layers may form in which the temperature increases with increasing altitude such layers are called inversion layers when such a layer forms at the earth's surface it is called a surface inversion when an inversion layer forms at some distance above the earth it is called an inversion aloft (sometimes referred to as a capping inversion) the air within an inversion aloft is very stable with very little vertical motion any rising parcel of air within the inversion soon expands thereby adiabatically cooling to a lower temperature than the surrounding air and the parcel stops rising any sinking parcel soon compresses adiabatically to a higher temperature than the surrounding air and the parcel stops sinking thus any air pollution plume that enters an inversion aloft will undergo very little vertical mixing unless it has sufficient momentum to completely pass through the inversion aloft that is one reason why an inversion aloft is sometimes called a capping inversion
+mixing height: when an inversion aloft is formed the atmospheric layer between the earth's surface and the bottom of the inversion aloft is known as the mixing layer and the distance between the earth's surface and the bottom of inversion aloft is known as the mixing height any air pollution plume dispersing beneath an inversion aloft will be limited in vertical mixing to that which occurs beneath the bottom of the inversion aloft (sometimes called the lid) even if the pollution plume penetrates the inversion it will not undergo any further significant vertical mixing as for a pollution plume passing completely through an inversion layer aloft that rarely occurs unless the pollution plume's source stack is very tall and the inversion lid is fairly low
+== see also ==
+=== air pollution dispersion models ===
+adms 3 (atmospheric dispersion modelling system) advanced atmospheric pollution dispersion model for calculating concentrations of atmospheric pollutants emitted both continuously from point line volume and area sources or intermittently from point sources
+austal
+aermod
+calpuff
+dispersion21
+isc3
+mercure
+name (dispersion model)
+panache
+phast
+puff-plume
+sirane
+=== others ===
+bibliography of atmospheric dispersion modeling
+ap 42 compilation of air pollutant emission factors
+atmospheric dispersion modeling
+roadway air dispersion modeling
+useful conversions and formulas for air dispersion modeling
+list of atmospheric dispersion models
+yamartino method
+== references ==
+== further reading ==
+turner d.b (1994) workbook of atmospheric dispersion estimates: an introduction to dispersion modeling (2nd ed.) crc press isbn 1-56670-023-x www.crcpress.com
+beychok milton r (2005) fundamentals of stack gas dispersion (4th ed.) author-published isbn 0-9644588-0-2 www.air-dispersion.com
+== external links ==
+air pollution dispersion modeling terminology a citizendium article
+epa's preferred/recommended models (on the us epa's website)
+the model documententation system (mds) of the european topic centre on air and climate change (part of the european environment agency)

@@ -1,0 +1,36 @@
+molecularity in chemistry is the number of molecules that come together to react in an elementary reaction and is equal to the sum of stoicheometric coefficients of reactants in this elementary reaction depending on how many molecules come together a reaction can be unimolecular bimolecular or termolecular
+== unimolecular reactionsedit ==
+in a unimolecular reaction a single molecule rearranges atoms forming different molecules this is illustrated by the equation
+a p
+and is described by the first order rate law d[a]/dt = -kr [a] where [a] is the concentration of species a t is time and kr is the reaction rate constant
+as can be deduced from the rate law equation the number of a molecules that decay is proportional to the number of a molecules available an example of a unimolecular reaction is the isomerization of cyclopropane to propene:
+unimolecular reactions can be explained by the lindemann-hinshelwood mechanism
+== bimolecular reactionsedit ==
+in a bimolecular reaction two molecules collide and exchange energy atoms or groups of atoms
+this can be described by the equation
+a + b p
+which corresponds to the second order rate law: d[a]/dt = -kr [a] [b]
+here the rate of the reaction is proportional to the rate at which the reactants come together an example of a bimolecular process is the first step in binding of h2 and o2 to form water:
+h2 + o2 h + ho2
+== termolecular reactionsedit ==
+termolecular reactions in solutions or gas mixtures are very rare because of the improbability of three molecular entities simultaneously colliding however the term termolecular is also used to refer to three body association reactions of the type
+where the m over the arrow denotes that to conserve energy and momentum a second reaction with a third body is required after the initial bimolecular collision of a and b an energetically excited reaction intermediate is formed then it collides with a m body in a second bimolecular reaction transferring the excess energy to it
+the reaction can be explained as two consecutive reactions:
+these reactions frequently have a pressure and temperature dependence region of transition between second and third order kinetics
+catalytic reactions are often three-component but in practice a complex of the starting materials is first formed and the rate-determining step is the reaction of this complex into products not an adventitious collision between the two species and the catalyst for example in hydrogenation with a metal catalyst molecular dihydrogen first dissociates onto the metal surface into hydrogen atoms bound to the surface and it is these monatomic hydrogens that react with the starting material also previously adsorbed onto the surface
+reactions of higher molecularity are not observed due to very small probability of simultaneous interaction between 4 or more molecules
+== difference between molecularity and order of reactionedit ==
+it is important to distinguish molecularity from order of reaction the order of reaction is an empirical quantity determined by experiment from the rate law of the reaction it is the sum of the exponents in the rate law equation molecularity on the other hand is deduced from the mechanism of an elementary reaction and is used only in context of an elementary reaction it is the number of molecules taking part in this reaction
+this difference can be illustrated on the reaction that converts ozone to oxygen: 2o33o2
+the order of this reaction can be determined from its rate law which is obtained experimentally: -d[o3]/dt = kr [o3]2/[o2]
+on the other hand we cannot consider the molecularity of this reaction because it involves a complex mechanism however we can consider the molecularity of the individual elementary reactions that make up this mechanism:
+o3 o2 + o (1)
+o + o3 2 o2 (2)
+reaction (1) is unimolecular because it involves one reactant molecule while (2) is bimolecular because it involves two reactant molecules
+it follows that the kinetic order of an elementary reaction is equal to its molecularity and that the rate of an elementary reaction can therefore be determined by inspection from the molecularity
+for example if an elementary reaction is bimolecular it is second order and its rate law is of the form d[a]/dt = -kr[a][b]
+the kinetic order of a complex reaction however cannot be equated to molecularity since molecularity only describes elementary reactions
+== notes and referencesedit ==
+== see alsoedit ==
+reaction rate
+order of reaction

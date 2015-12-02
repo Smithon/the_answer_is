@@ -1,0 +1,83 @@
+in chemistry neutralization (us spelling) or neutralisation (uk spelling) is a chemical reaction in which an acid and a base react quantitatively with each other in a reaction in water neutralization results in there being no excess of hydrogen or hydroxide ions present in solution the ph of the neutralized solution depends on the acid strength of the reactants neutralization is used in many applications
+== meaning of "neutralization" ==
+in the context of a chemical reaction the term neutralization is used for a reaction between an acid and a base or alkali historically this reaction was represented as
+acid + base = salt + water
+for example:
+hcl + naoh nacl + h2o
+the statement is still valid as long as it is understood that in an aqueous solution the substances involved are subject to dissociation which changes the substances ionization state the arrow sign  is used because the reaction is complete that is the said neutralization is a quantitative reaction a more general definition is based on brnstedlowry acidbase theory
+ah + bz a +bhz+1
+ah represents an acid and b represents a base z is an electric charge; negative for an anion zero or positive for a cation when the reaction takes place in water and the base is the hydroxide ion oh- the reaction can be written as
+ah + oh a + h2o
+after an acid 'neutralization' there are no molecules of ah (or hydrogen ions produced by dissociation of the molecule) left since all the acid molecules present initially in a neutral form are then ionized i.e. charged a; the term 'acid neutralization' therefore implies acid (effects) rather than charge neutralization in electrical terms 'acid neutralization' thus corresponds to acid ionization in the reaction the amount of base added must moreover equal the amount of acid present initially this amount of base is said to be the equivalent amount in a titration of an acid with a base the point of neutralization can also be called the equivalence point the quantitative nature of the neutralization reaction is most conveniently expressed in terms of the concentrations of acid and alkali at the equivalence point:
+volume (acid) concentration (h+ ions from dissociation) = volume (base) concentration (oh ions)
+in general for an acid ahn at concentration c1 reacting with a base b(oh)m at concentration c2 the volumes are related by:
+n v1 c1 = m v2 c2
+the concept of neutralization is not limited to reactions in solution for example the reaction of limestone with acid such as sulfuric acid is also a neutralization reaction
+[ca,mg]co3(s) + h2so4(aq) [ca,mg]so4(s) + co2(g) + h2o
+such reactions are important in soil chemistry
+== strong acids and strong bases ==
+a strong acid is one that is fully dissociated in aqueous solution for example hydrochloric acid hcl is a strong acid
+hcl(aq) h+(aq) + cl(aq)
+a strong base is one that is fully dissociated in aqueous solution for example sodium hydroxide naoh is a strong base
+naoh(aq) na+(aq) + oh(aq)
+therefore when a strong acid reacts with a strong base the neutralization reaction can be written as
+h+ + oh h2o
+for example in the reaction between hydrochloric acid and sodium hydroxide the sodium and chloride ions na+ and cl take no part in the reaction the reaction is consistent with the brnstedlowry definition because in reality the hydrogen ion exists as the hydronium ion so that the neutralization reaction may be written as
+h3o+ + oh h2o + h2o
+when a strong acid is neutralized by a strong base there are no excess hydrogen ions left in the solution the solution is said to be neutral as it is neither acidic nor alkaline the ph of such a solution is close to a value of 7; the exact ph value is dependent on the temperature of the solution
+neutralization is an exothermic reaction the standard enthalpy change for the reaction h+ + oh h2o is -55.90 kj/mol
+== weak acids and strong bases ==
+a weak acid is one that does not dissociate fully when it is dissolved in water instead an equilibrium mixture is formed
+ah + h2o h3o+ + a
+acetic acid is an example of a weak acid the ph of the neutralized solution is not close to 7 as with a strong acid but depends on the acid dissociation constant (pka)of the acid the ph at the end-point or equivalence point in a titration may be easily calculated at the end-point the acid is completely neutralized so the analytical hydrogen ion concentration th is zero and the concentration of the conjugate base a is effectively equal to the analytical concentration of the acid; writing ah for the acid [a]= ta defining the acid dissociation constant pka as
+[ha] = ka[a][h+]; pka = -log10ka
+and the self-dissociation constant for water kw as
+kw = [h+][oh]; pkw = -log10kw
+the equation for mass-balance in hydrogen ions is easy to write down
+th= [h+] +ka[a][h+] - kw[h]1
+the term kw[h]1 is equal to the concentration of hydroxide ions at neutralization th is zero
+[h+] + ka[a][h+] - kw[h ]1 = 0
+[h+]2 + kata[h+]2 - kw = 0
+[h+]2 = kw / (1 + kata)
+log [h+] = 1/2 log kw - 1/2 log(1 + kata)
+ph= 1/2 pkw - 1/2 log(1 + ta/ka)
+in most circumstances the term 1+ta/ka is much larger than 1 and is equal to ta/ka to a good approximation
+ph 1/2 (pkw + pka - log ta )
+this equation explains the following facts:
+the ph at the end-point depends mainly on the strength of the acid pka
+the ph at the end-point also depends on the concentration of the acid ta
+the ph rises more steeply at the end-point as the acid concentration increases
+when a weak acid is titrated with a strong base the end-point occurs at ph greater than 7 therefore the most suitable indicator to use is one like phenolphthalein that changes color at high ph
+== weak bases and strong acids ==
+the situation is analogous to that of weak acids and strong bases
+h3o+ + b h2o + bh+
+the ph of the neutralized solution depends on the acid dissociation constant of the base pka or equivalently on the base association constant pkb
+the most suitable indicator to use for this type of titration is one like methyl orange that changes color at low ph
+== weak acids and weak bases ==
+when a weak acid reacts with an equivalent amount of a weak base complete neutralization does not occur
+ah + b a + bh+
+the concentrations of the species in equilibrium with each other will depend on the equilibrium constant k for the reaction which can be defined as follows
+[a][bh+] = k[ah][b]
+given the association constants for the acid (ka) and the base (kb)
+a + h+ ah; [ah] = ka[a][h+]
+b + h+ bh+; [bh+] = kb[b][h+]
+it follows that k = ka / kb
+a weak acid cannot be neutralized by a weak base and vice versa
+== applications ==
+chemical titration methods are used for analyzing acids or bases to determine the unknown concentration either a ph meter or a ph indicator which shows the point of neutralization by a distinct color change can be employed simple stoichiometric calculations with the known volume of the unknown and the known volume and molarity of the added chemical gives the molarity of the unknown
+in wastewater treatment chemical neutralization methods are often applied to reduce the damage that an effluent may cause upon release to the environment for ph control popular chemicals include calcium carbonate calcium oxide magnesium hydroxide and sodium bicarbonate the selection of an appropriate neutralization chemical depends on the particular application
+there are many uses of neutralization reactions that are acid-alkali reactions a very common use is antacid tablets these are designed to neutralize excess gastric acid in the stomach (hcl) that may be causing discomfort in the stomach or lower esophagus this can also be remedied by the ingestion of sodium bicarbonate (nahco3)
+also in the digestive tract neutralization reactions are used when food is moved from the stomach to the intestines in order for the nutrients to be absorbed through the intestinal wall an alkaline environment is needed so the pancreas produce an antacid bicarbonate to cause this transformation to occur
+another common use though perhaps not as widely known is in fertilizers and control of soil ph slaked lime (calcium hydroxide) or limestone (calcium carbonate) may be worked into soil that is too acidic for plant growth fertilizers that improve plant growth are made by neutralizing sulfuric acid (h2so4) or nitric acid (hno3) with ammonia gas (nh3) making ammonium sulfate or ammonium nitrate these are salts utilized in the fertilizer
+industrially a by-product of the burning of coal sulfur dioxide gas may combine with water vapor in the air to eventually produce sulfuric acid which falls as acid rain to prevent the sulfur dioxide from being released a device known as a scrubber gleans the gas from smoke stacks this device first blows calcium carbonate into the combustion chamber where it decomposes into calcium oxide (lime) and carbon dioxide this lime then reacts with the sulfur dioxide produced forming calcium sulfite a suspension of lime is then injected into the mixture to produce a slurry which removes the calcium sulfite and any remaining unreacted sulfur dioxide
+== further reading ==
+neutralization is covered in most general chemistry text-books detailed treatments may be found in text-books on analytical chemistry such as
+skoog d.a; west d.m.; holler j.f.; crouch s.r (2004) fundamentals of analytical chemistry (8th ed.) thomson brooks/cole isbn 0-03-035523-0 chapters 14 15 and 16
+applications
+stumm w.; morgan j.j (1996) water chemistry new york: wiley isbn 0-471-05196-9
+snoeyink v.l.; jenkins d (1980) aquatic chemistry: chemical equilibria and rates in natural waters new york: wiley isbn 0-471-51185-4
+millero f.j (2006) chemical oceanography (3rd ed.) london: taylor and francis isbn 0-8493-2280-4
+metcalf & eddy wastewater engineering treatment and reuse 4th ed new york: mcgraw-hill 2003 526-532
+== references ==
+^ jarvis alan & beavon rod "periodicity quantitative equilibria and functional group chemistry" 16 january 2001
+^ steven s zumdahl (2009) chemical principles (6th ed.) new york: houghton mifflin company pp 319324

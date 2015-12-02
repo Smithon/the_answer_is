@@ -1,0 +1,41 @@
+thermodynamics fluid mechanics compressibility measure relative volume change fluid solid response pressure mean stress change
+v volume p pressure
+definitionedit
+specification incomplete object system magnitude compressibility depends strongly whether process adiabatic isothermal accordingly isothermal compressibility defined
+subscript indicates partial differential taken constant temperature
+isentropic compressibility defined
+entropy solid distinction two usually negligible
+minus sign makes compressibility positive usual case increase pressure induces reduction volume
+relation speed soundedit
+speed sound defined classical mechanics
+density material follows replacing partial derivatives isentropic compressibility expressed
+relation bulk modulusedit
+inverse compressibility called bulk modulus often denoted k sometimes b page also contains examples different materials
+compressibility equation relates isothermal compressibility indirectly pressure structure liquid
+thermodynamicsedit
+term compressibility also used thermodynamics describe deviance thermodynamic properties real gas expected ideal gas compressibility factor defined
+p pressure gas temperature molar volume case ideal gas compressibility factor z equal unity familiar ideal gas law recovered
+z general either greater less unity real gas
+deviation ideal gas behavior tends become particularly significant equivalently compressibility factor strays far unity near critical point case high pressure low temperature cases generalized compressibility chart alternative equation state better suited problem must utilized produce accurate results
+related situation occurs hypersonic aerodynamics dissociation causes increase notational molar volume mole oxygen o becomes moles monatomic oxygen n similarly dissociates n since occurs dynamically air flows aerospace object convenient alter z defined initial gram mole air rather track varying mean molecular weight millisecond millisecond pressure dependent transition occurs atmospheric oxygen k k temperature range k k range nitrogen
+transition regions pressure dependent dissociation incomplete beta volumepressure differential ratio differential constant pressure heat capacity greatly increase
+moderate pressures k gas dissociates free electrons ions z resulting plasma similarly computed mole initial air producing values partially singly ionized gas dissociation absorbs great deal energy reversible process greatly reduces thermodynamic temperature hypersonic gas decelerated near aerospace object ions free radicals transported object surface diffusion may release extra nonthermal energy surface catalyzes slower recombination process
+isothermal compressibility related isentropic adiabatic compressibility relation
+via maxwells relations simply stated
+heat capacity ratio see derivation
+earth scienceedit
+compressibility used earth sciences quantify ability soil rock reduce volume applied pressure concept important specific storage estimating groundwater reserves confined aquifers geologic materials made two portions solids voids porosity void space full liquid gas geologic materials reduces volume void spaces reduced expel liquid gas voids happen period time resulting settlement
+important concept geotechnical engineering design certain structural foundations example construction highrise structures underlying layers highly compressible bay mud poses considerable design constraint often leads use driven piles innovative techniques
+fluid dynamicsedit
+degree compressibility fluid strong implications dynamics notably propagation sound dependent compressibility medium
+aeronautical dynamicsedit
+compressibility important factor aerodynamics low speeds compressibility air significant relation aircraft design airflow nears exceeds speed sound host new aerodynamic effects become important design aircraft effects often several time made difficult world war ii era aircraft reach speeds much beyond kmh mph
+many effects often mentioned conjunction term compressibility regularly little compressible nature air strictly aerodynamic point view term refer sideeffects arising result changes airflow incompressible fluid similar effect water compressible fluid acting gas speed sound approached two effects particular wave drag critical mach
+negative compressibilityedit
+general bulk compressibility sum linear compressibilities three axes positive ie increase pressure squeezes material smaller volume condition required mechanical stability however specific conditions compressibility negative
+see alsoedit
+poisson ratio
+mach number
+prandtlglauert singularity associated supersonic flight
+shear strength
+referencesedit

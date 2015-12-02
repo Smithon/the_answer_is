@@ -1,0 +1,8 @@
+on personal computers the turbo button is a button which provides two run states for the computer normal (full) speed or a reduced speed
+the name is inspired by turbocharger a turbine-driven forced induction device that increases an engine's power and efficiency
+== effect ==
+the turbo button was added to most computers produced after the original 4.77 mhz 8088 was sold many software titles (games in particular) used the cpu's frequency for timing so as faster chips came out some of these games were unplayable to provide a layer of compatibility for these titles the "turbo" button was added the name itself is an intentional misnomer as the button does not boost the speed; engaging it slows the system down to a state compatible with original 8088 chips the turbo button was often linked to an mhz led display on the system case or to a "hi"/"lo" led display not all systems offered this feature but it was very common on systems with 286 386 and even some 486 and first generation pentium systems soon after the 8088 systems stopped being produced software creators used different methods for keeping time within games making this feature obsolete
+some systems also supported keyboard combinations ctrl-alt-+ and ctrl-alt-- for switching turbo mode on and off; itt xtra used ctrl-alt-\ to toggle
+== software implementations ==
+while the implementation of the turbo button by manufacturers has disappeared software developers have compensated with software replacements one example is dosbox which offers full turbo button functionality with adjustable clock speed modern pcs that support acpi power management may provide software controls to switch acpi performance states or other cpu throttling modes
+== references ==

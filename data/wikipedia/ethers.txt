@@ -1,0 +1,72 @@
+ethers /ir/ are a class of organic compounds that contain an ether groupan oxygen atom connected to two alkyl or aryl groupsof general formula ror' these ethers can again be classified into two varieties if the alkyl groups are the same on both sides of the oxygen atom then it is a simple or symmetrical ether whereas if they are different the ethers are called mixed or unsymmetrical ethers a typical example is the solvent and anesthetic diethyl ether commonly referred to simply as "ether" (ch3-ch2-o-ch2-ch3) ethers are common in organic chemistry and pervasive in biochemistry as they are common linkages in carbohydrates and lignin
+== structure and bondingedit ==
+ethers feature c-o-c linkage defined by a bond angle of about 110 and c-o distances of about 140 pm the barrier to rotation about the c-o bonds is low the bonding of oxygen in ethers alcohols and water is similar in the language of valence bond theory the hybridization at oxygen is sp3
+oxygen is more electronegative than carbon thus the hydrogens alpha to ethers are more acidic than in simple hydrocarbons they are far less acidic than hydrogens alpha to carbonyl groups (such as in ketones or aldehydes) however
+depending on the groups at r and r' ethers are classified into two types:
+simple ethers or symmetrical ethers; e.g. diethyl ether dimethyl ether etc
+mixed ethers or asymmetrical ethers; e.g. methyl ethyl ether methyl phenyl ether etc
+== nomenclatureedit ==
+in the iupac nomenclature system ethers are named using the general formula "alkoxyalkane" for example ch3-ch2-o-ch3 is methoxyethane if the ether is part of a more complex molecule it is described as an alkoxy substituent so -och3 would be considered a "methoxy-" group the simpler alkyl radical is written in front so ch3-o-ch2ch3 would be given as methoxy(ch3o)ethane(ch2ch3)
+=== trivial nameedit ===
+iupac rules are often not followed for simple ethers the trivial names for simple ethers (i.e those with none or few other functional groups) are a composite of the two substituents followed by "ether." for example ethyl methyl ether (ch3oc2h5) diphenylether (c6h5oc6h5) as for other organic compounds very common ethers acquired names before rules for nomenclature were formalized diethyl ether is simply called "ether," but was once called sweet oil of vitriol methyl phenyl ether is anisole because it was originally found in aniseed the aromatic ethers include furans acetals (-alkoxy ethers r-ch(-or)-o-r) are another class of ethers with characteristic properties
+=== polyethersedit ===
+polyethers are compounds with more than one ether group
+the crown ethers are examples of small polyethers some toxins produced by dinoflagellates such as brevetoxin and ciguatoxin are extremely large and are known as cyclic or ladder polyethers
+polyether generally refers to polymers which contain the ether functional group in their main chain the term glycol is reserved for low to medium range molar mass polymer when the nature of the end-group which is usually a hydroxyl group still matters the term "oxide" or other terms are used for high molar mass polymer when end-groups no longer affect polymer properties
+aliphatic polyethers
+aromatic polyethers
+the phenyl ether polymers are a class of polyethers containing aromatic cycles in their main chain: polyphenyl ether (ppe) and poly(p-phenylene oxide) (ppo)
+=== related compoundsedit ===
+many classes of compounds with c-o-c linkages are not considered ethers: esters (r-c(=o)-o-r) hemiacetals (r-ch(-oh)-o-r) carboxylic acid anhydrides (rc(=o)-o-c(=o)r)
+== physical propertiesedit ==
+ether molecules cannot form hydrogen bonds with each other resulting in relatively low boiling points compared to those of the analogous alcohols the difference however in the boiling points of the ethers and their isomeric alcohols becomes lower as the carbon chains become longer as the van der waals interactions of the extended carbon chain dominates over the presence of hydrogen bonding
+ethers are slightly polar the c-o-c bond angle in the functional group is about 110 and the c-o dipoles do not cancel out ethers are more polar than alkenes but not as polar as alcohols esters or amides of comparable structure however the presence of two lone pairs of electrons on the oxygen atoms makes hydrogen bonding with water molecules possible
+cyclic ethers such as tetrahydrofuran and 1,4-dioxane are miscible in water because of the more exposed oxygen atom for hydrogen bonding as compared to linear aliphatic ethers
+other properties are:
+the lower ethers are highly volatile and flammable
+lower ethers also act as anaesthetics
+ethers act as good organic solvents
+simple ethers (such as diethyl ether) are tasteless
+== reactionsedit ==
+ethers are quite stable chemical compounds which do not react with bases active metals dilute acids oxidising agents and reducing agents generally they are of low chemical reactivity but they are more reactive than alkanes (epoxides ketals and acetals are unrepresentative classes of ethers and are discussed in separate articles) important reactions are listed below
+=== ether cleavageedit ===
+although ethers resist hydrolysis their polar bonds are cloven by mineral acids such as hydrobromic acid and hydroiodic acid hydrogen chloride cleaves ethers only slowly methyl ethers typically afford methyl halides:
+roch3 + hbr ch3br + roh
+these reactions proceed via onium intermediates i.e [ro(h)ch3]+br
+some ethers undergo rapid cleavage with boron tribromide (even aluminium chloride is used in some cases) to give the alkyl bromide depending on the substituents some ethers can be cloven with a variety of reagents e.g strong base
+=== peroxide formationedit ===
+when stored in the presence of air or oxygen ethers tend to form explosive peroxides such as diethyl ether peroxide the reaction is accelerated by light metal catalysts and aldehydes in addition to avoiding storage conditions likely to form peroxides it is recommended when an ether is used as a solvent not to distill it to dryness as any peroxides that may have formed being less volatile than the original ether will become concentrated in the last few drops of liquid
+=== lewis basesedit ===
+ethers serve as lewis bases and bronsted bases strong acids protonate the oxygen to give "onium ions." for instance diethyl ether forms a complex with boron trifluoride i.e diethyl etherate (bf3.oet2) ethers also coordinate to mg(ii) center in grignard reagents
+=== alpha-halogenationedit ===
+this reactivity is similar to the tendency of ethers with alpha hydrogen atoms to form peroxides reaction with chlorine produces alpha-chloroethers
+== synthesisedit ==
+ethers can be prepared in the laboratory in several different ways
+=== dehydration of alcoholsedit ===
+the dehydration of alcohols affords ethers:
+2 r-oh r-o-r + h2o at high temperature
+this direct nucleophillic subsititution reaction requires elevated temperatures (about 125 c) the reaction is catalyzed by acids usually sulfuric acid the method is effective for generating symmetrical ethers but not unsymmetrical ethers since either oh can be protonated which would give a mixture of products diethyl ether is produced from ethanol by this method cyclic ethers are readily generated by this approach elimination reactions compete with dehydration of the alcohol:
+r-ch2-ch2(oh) r-ch=ch2 + h2o
+the dehydration route often requires conditions incompatible with delicate molecules several milder methods exist to produce ethers
+=== williamson ether synthesisedit ===
+nucleophilic displacement of alkyl halides by alkoxides
+r-ona + r'-x r-o-r' + nax
+this reaction is called the williamson ether synthesis it involves treatment of a parent alcohol with a strong base to form the alkoxide followed by addition of an appropriate aliphatic compound bearing a suitable leaving group (r-x) suitable leaving groups (x) include iodide bromide or sulfonates this method usually does not work well for aryl halides (e.g bromobenzene (see ullmann condensation below) likewise this method only gives the best yields for primary halides secondary and tertiary halides are prone to undergo e2 elimination on exposure to the basic alkoxide anion used in the reaction due to steric hindrance from the large alkyl groups
+in a related reaction alkyl halides undergo nucleophilic displacement by phenoxides the r-x cannot be used to react with the alcohol however phenols can be used to replace the alcohol while maintaining the alkyl halide since phenols are acidic they readily react with a strong base like sodium hydroxide to form phenoxide ions the phenoxide ion will then substitute the -x group in the alkyl halide forming an ether with an aryl group attached to it in a reaction with an sn2 mechanism
+c6h5oh + oh c6h5-o + h2o
+c6h5-o + r-x c6h5or
+=== ullmann condensationedit ===
+the ullmann condensation is similar to the williamson method except that the substrate is an aryl halide such reactions generally require a catalyst such as copper
+=== electrophilic addition of alcohols to alkenesedit ===
+alcohols add to electrophilically activated alkenes
+r2c=cr2 + r-oh r2ch-c(-o-r)-r2
+acid catalysis is required for this reaction often mercury trifluoroacetate (hg(ococf3)2) is used as a catalyst for the reaction generating an ether with markovnikov regiochemistry using similar reactions tetrahydropyranyl ethers are used as protective groups for alcohols
+=== preparation of epoxidesedit ===
+epoxides are typically prepared by oxidation of alkenes the most important epoxide in terms of industrial scale is ethylene oxide which is produced by oxidation of ethylene with oxygen other epoxides are produced by one of two routes:
+by the oxidation of alkenes with a peroxyacid such as m-cpba
+by the base intramolecular nucleophilic substitution of a halohydrin
+== important ethersedit ==
+== referencesedit ==
+== external linksedit ==
+ilpi page about ethers
+an account of the extraordinary medicinal fluid called aether by m turner circa 1788 from project gutenberg

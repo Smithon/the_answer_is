@@ -1,0 +1,82 @@
+elastic collision encounter two bodies total kinetic energy two bodies encounter equal total kinetic energy encounter elastic collisions occur net conversion kinetic energy forms
+collision small objects kinetic energy first converted potential energy associated repulsive force particles particles move force ie angle force relative velocity obtuse potential energy converted back kinetic energy particles move force ie angle force relative velocity acute
+collisions atoms elastic collisions rutherford backscattering one example
+moleculesas distinct atomsof gas liquid rarely experience perfectly elastic collisions kinetic energy exchanged molecules translational motion internal degrees freedom collision one instant half collisions varying extent inelastic collisions pair possesses less kinetic energy translational motions collision half could described superelastic possessing kinetic energy collision averaged across entire sample molecular collisions regarded essentially elastic long plancks law forbids blackbody photons carry away energy system
+case macroscopic bodies perfectly elastic collisions ideal never fully realized approximated interactions objects billiard balls
+considering energies possible rotational energy andor collision may also play role
+equations
+onedimensional newtonian
+consider two particles denoted subscripts let m m masses u u velocities collision v v velocities collision
+conservation total momentum demands total momentum collision total momentum collision expressed equation
+likewise conservation total kinetic energy expressed equation
+equations may solved directly find vi ui known vice versa alternative solution first change frame reference one known velocities zero unknown velocities new frame reference determined followed conversion back original frame reference reach result one unknown velocities determined found symmetry
+solving simultaneous equations vi get
+latter trivial solution corresponding case collision taken place yet
+example
+ball mass kg velocity ms
+ball mass kg velocity ms
+collision
+ball velocity ms
+ball velocity ms
+property
+derivation using kinetic energy write
+rearrange momentum equation
+dividing kinetic energy equation momentum equation get
+relative velocity one particle respect reversed collision
+average momenta collision particles
+expected solution invariant adding constant velocities like using frame reference constant translational velocity
+velocity center mass change collision
+center mass time collision time collision given two equations
+hence velocities center mass collision
+numerator total momentum collision numerator total momentum collision since momentum conserved
+respect center mass velocities reversed collision case particles different mass heavy particle moves slowly toward center mass bounces back low speed light particle moves fast toward center mass bounces back high speed
+equations see case large value small masses approximately hitting much lighter particle change velocity much hitting much heavier particle causes fast particle bounce back high speed
+neutron moderator medium slows fast neutrons thereby turning thermal neutrons capable sustaining chain reaction material full atoms light nuclei additional property easily absorb neutrons lightest nuclei mass neutron
+onedimensional relativistic
+according special relativity
+p denotes momentum particle mass v denotes velocity c speed light
+center momentum frame total momentum equals zero
+represents rest mass first colliding body represents rest mass second colliding body represents initial velocity first colliding body represents initial velocity second colliding body represents velocity collision first colliding body represents velocity collision second colliding body denotes momentum first colliding body denotes momentum second colliding body denotes speed light vacuum denotes total energy system ie sum rest masses kinetic energies colliding bodies
+since total energy momentum system conserved rest masses colliding bodies change shown momentum colliding body decided rest masses colliding bodies total energy total momentum magnitude momentum colliding body change collision direction movement opposite relative center momentum frame
+classical mechanics good approximation give accurate results deals object macroscopic running much lower speed speed light beyond classical limits give wrong result total momentum two colliding bodies framedependent center momentum frame according classical mechanics
+shown remains true relativistic calculation despite differences one postulates special relativity states laws physics invariant inertial frames reference total momentum conserved particular inertial frame reference total momentum also conserved inertial frame reference although amount total momentum framedependent therefore transforming inertial frame reference another able get desired results particular frame reference total momentum could
+look two moving bodies one system total momentum total energy velocity velocity center mass relative center momentum frame total momentum equals zero shown given
+velocities collision center momentum frame
+therefore classical calculation holds true speed colliding bodies much lower speed light million ms
+another derivation relativistic formulas collision
+express socalled parameter velocity
+hence get
+relativistic energy momentum expressed follows
+equations sum energy momentum colliding masses velocities correspond velocity parameters dividing adequate power follows
+dependent equation sum equations
+subtract squares sides equations momentum energy use identity simplicity get
+nonzero mass get
+functions even get two solutions
+last equation leading nontrivial solution solve substitute dependent equation obtain
+solution problem expressed parameters velocity return substitution get solution velocities
+substitute previous solutions replace long transformation substituting get
+twodimensional
+case two colliding bodies two dimensions overall velocity body must split two perpendicular velocities one tangent common normal surfaces colliding bodies point contact along line collision since collision imparts force along line collision velocities tangent point collision change velocities along line collision used equations onedimensional collision final velocities calculated two new component velocities depend point collision studies twodimensional collisions conducted many bodies framework twodimensional gas
+center momentum frame time velocities two bodies opposite directions magnitudes inversely proportional masses elastic collision magnitudes change directions may change depending shapes bodies point impact example case spheres angle depends distance parallel paths centers two bodies nonzero change direction possible distance zero velocities reversed collision close sum radii spheres two bodies slightly deflected
+assuming second particle rest collision angles deflection two particles related angle deflection system center mass
+magnitudes velocities particles collision
+twodimensional collision two moving objects
+final x y velocities components first ball calculated
+v v scalar sizes two original speeds objects m m masses movement angles meaning moving directly right either angle angle lowercase phi contact angle get x y velocities second ball one needs swap subscripts subscripts
+equation derived fact interaction two bodies easily calculated along contact angle meaning velocities objects calculated one dimension rotating x y axis parallel contact angle objects rotated back original orientation get true x y components velocities
+anglefree representation changed velocities computed using centers x x time contact
+angle brackets indicate inner product dot product two vectors
+see also
+collision
+inelastic collision
+coefficient restitution
+references
+external links
+rigid body collision resolution three dimensions including derivation using conservation laws
+vne rigid body collision simulation small open source d engine easytounderstand implementation elastic collisions c
+visualize d collision free simulation particle collision useradjustable coefficient restitution particle velocities requires adobe shockwave
+dimensional elastic collisions without trigonometry explanation calculate dimensional elastic collisions using vectors
+bouncescope free simulator elastic collisions dozens userconfigurable objects
+managing ball vs ball collision flash flash script manage elastic collisions among number spheres
+elastic collision derivation
+elastic collision formula derivation one balls velocity

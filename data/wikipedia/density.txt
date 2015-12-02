@@ -1,0 +1,84 @@
+the density or more precisely the volumetric mass density of a substance is its mass per unit volume the symbol most often used for density is (the lower case greek letter rho) although the latin letter d can also be used mathematically density is defined as mass divided by volume:
+where is the density m is the mass and v is the volume in some cases (for instance in the united states oil and gas industry) density is loosely defined as its weight per unit volume although this is scientifically inaccurate this quantity is more specifically called specific weight
+for a pure substance the density has the same numerical value as its mass concentration different materials usually have different densities and density may be relevant to buoyancy purity and packaging osmium and iridium are the densest known elements at standard conditions for temperature and pressure but certain chemical compounds may be denser
+to simplify comparisons of density across different systems of units it is sometimes replaced by the dimensionless quantity "relative density" or "specific gravity" i.e the ratio of the density of the material to that of a standard material usually water thus a relative density less than one means that the substance floats in water
+the density of a material varies with temperature and pressure this variation is typically small for solids and liquids but much greater for gases increasing the pressure on an object decreases the volume of the object and thus increases its density increasing the temperature of a substance (with a few exceptions) decreases its density by increasing its volume in most materials heating the bottom of a fluid results in convection of the heat from the bottom to the top due to the decrease in the density of the heated fluid this causes it to rise relative to more dense unheated material
+the reciprocal of the density of a substance is occasionally called its specific volume a term sometimes used in thermodynamics density is an intensive property in that increasing the amount of a substance does not increase its density; rather it increases its mass
+== historyedit ==
+in a well-known but probably apocryphal tale archimedes was given the task of determining whether king hiero's goldsmith was embezzling gold during the manufacture of a golden wreath dedicated to the gods and replacing it with another cheaper alloy archimedes knew that the irregularly shaped wreath could be crushed into a cube whose volume could be calculated easily and compared with the mass; but the king did not approve of this baffled archimedes is said to have taken an immersion bath and observed from the rise of the water upon entering that he could calculate the volume of the gold wreath through the displacement of the water upon this discovery he leapt from his bath and ran naked through the streets shouting "eureka eureka!" ( greek "i have found it") as a result the term "eureka" entered common parlance and is used today to indicate a moment of enlightenment
+the story first appeared in written form in vitruvius' books of architecture two centuries after it supposedly took place some scholars have doubted the accuracy of this tale saying among other things that the method would have required precise measurements that would have been difficult to make at the time
+from the equation for density ( = m / v) mass density has units of mass divided by volume as there are many units of mass and volume covering many different magnitudes there are a large number of units for mass density in use the si unit of kilogram per cubic metre (kg/m3) and the cgs unit of gram per cubic centimetre (g/cm3) are probably the most commonly used units for density.1,000 kg/m3 equals 1 g/cm3 (the cubic centimeter can be alternately called a millilitre or a cc.) in industry other larger or smaller units of mass and or volume are often more practical and us customary units may be used see below for a list of some of the most common units of density
+== measurement of densityedit ==
+=== homogeneous materialsedit ===
+the density at all points of a homogeneous object equals its total mass divided by its total volume the mass is normally measured with a scale or balance; the volume may be measured directly (from the geometry of the object) or by the displacement of a fluid to determine the density of a liquid or a gas a hydrometer a dasymeter or a coriolis flow meter may be used respectively similarly hydrostatic weighing uses the displacement of water due to a submerged object to determine the density of the object
+=== heterogeneous materialsedit ===
+if the body is not homogeneous then its density varies between different regions of the object in that case the density around any given location is determined by calculating the density of a small volume around that location in the limit of an infinitesimal volume the density of an inhomogeneous object at a point becomes: () = dm/dv where dv is an elementary volume at position r the mass of the body then can be expressed as
+=== non-compact materialsedit ===
+in practice bulk materials such as sugar sand or snow contain voids many materials exist in nature as flakes pellets or granules
+voids are regions which contain something other than the considered material commonly the void is air but it could also be vacuum liquid solid or a different gas or gaseous mixture
+the bulk volume of a materialinclusive of the void fractionis often obtained by a simple measurement (e.g with a calibrated measuring cup) or geometrically from known dimensions
+mass divided by bulk volume determines bulk density this is not the same thing as volumetric mass density
+to determine volumetric mass density one must first discount the volume of the void fraction sometimes this can be determined by geometrical reasoning for the close-packing of equal spheres the non-void fraction can be at most about 74% it can also be determined empirically some bulk materials however such as sand have a variable void fraction which depends on how the material is agitated or poured it might be loose or compact with more or less air space depending on handling
+in practice the void fraction is not necessarily air or even gaseous in the case of sand it could be water which can be advantageous for measurement as the void fraction for sand saturated in wateronce any air bubbles are thoroughly driven outis potentially more consistent than dry sand measured with an air void
+in the case of non-compact materials one must also take care in determining the mass of the material sample if the material is under pressure (commonly ambient air pressure at the earth's surface) the determination of mass from a measured sample weight might need to account for buoyancy effects due to the density of the void constituent depending on how the measurement was conducted in the case of dry sand sand is so much denser than air that the buoyancy effect is commonly neglected (less than one part in one thousand)
+mass change upon displacing one void material with another while maintaining constant volume can be used to estimate the void fraction if the difference in density of the two voids materials is reliably known
+== changes of densityedit ==
+in general density can be changed by changing either the pressure or the temperature increasing the pressure always increases the density of a material increasing the temperature generally decreases the density but there are notable exceptions to this generalization for example the density of water increases between its melting point at 0 c and 4 c; similar behavior is observed in silicon at low temperatures
+the effect of pressure and temperature on the densities of liquids and solids is small the compressibility for a typical liquid or solid is 106 bar1 (1 bar = 0.1 mpa) and a typical thermal expansivity is 105 k1 this roughly translates into needing around ten thousand times atmospheric pressure to reduce the volume of a substance by one percent (although the pressures needed may be around a thousand times smaller for sandy soil and some clays.) a one percent expansion of volume typically requires a temperature increase on the order of thousands of degrees celsius
+in contrast the density of gases is strongly affected by pressure the density of an ideal gas is
+where m is the molar mass p is the pressure r is the universal gas constant and t is the absolute temperature this means that the density of an ideal gas can be doubled by doubling the pressure or by halving the absolute temperature
+in the case of volumic thermal expansion at constant pressure and small intervals of temperature the temperature dependence of density is :
+where is the density at a reference temperature is the thermal expansion coefficient of the material at temperatures close to 
+== density of solutionsedit ==
+the density of a solution is the sum of mass (massic) concentrations of the components of that solution
+mass (massic) concentration of each given component i in a solution sums to density of the solution
+expressed as a function of the densities of pure components of the mixture and their volume participation it allows the determination of excess molar volumes:
+provided that there is no interaction between the components
+knowing the relation between excess volumes and activity coefficients of the components one can determine the activity coefficients
+== densitiesedit ==
+=== wateredit ===
+=== airedit ===
+=== various materialsedit ===
+=== othersedit ===
+== common unitsedit ==
+the si unit for density is:
+kilograms per cubic meter (kg/m3)
+litres and metric tons are not part of the si but are acceptable for use with it leading to the following units:
+kilograms per liter (kg/l)
+grams per milliliter (g/ml)
+metric tons per cubic meter (t/m3)
+densities using the following metric units all have exactly the same numerical value one thousandth of the value in (kg/m3) liquid water has a density of about 1 kg/dm3 making any of these si units numerically convenient to use as most solids and liquids have densities between 0.1 and 20 kg/dm3
+kilograms per cubic decimetre (kg/dm3)
+grams per cubic centimetre (g/cm3)
+1 gram/cm3 = 1000 kg/m3
+megagrams (metric tons) per cubic metre (mg/m3)
+in us customary units density can be stated in:
+avoirdupois ounces per cubic inch (oz/cu in)
+avoirdupois pounds per cubic inch (lb/cu in)
+pounds per cubic foot (lb/cu ft)
+pounds per cubic yard (lb/cu yd)
+pounds per us liquid gallon (lb/gal)
+pounds per us bushel (lb/bu)
+slugs per cubic foot
+imperial units differing from the above (as the imperial gallon and bushel differ from the us units) in practice are rarely used though found in older documents the density of precious metals could conceivably be based on troy ounces and pounds a possible cause of confusion
+== see alsoedit ==
+== referencesedit ==
+== external linksedit ==
+video: density experiment with oil and alcohol
+video: density experiment with whiskey and water
+glass density calculation calculation of the density of glass at room temperature and of glass melts at 1000 1400c
+list of elements of the periodic table sorted by density
+calculation of saturated liquid densities for some components
+field density test
+on-line calculator for densities and partial molar volumes of aqueous solutions of some common electrolytes and their mixtures at temperatures up to 323.15 k
+water density and specific weight
+temperature dependence of the density of water conversions of density units
+a delicious density experiment
+water density calculator water density for a given salinity and temperature
+liquid density calculator select a liquid from the list and calculate density as a function of temperature
+gas density calculator calculate density of a gas for as a function of temperature and pressure
+densities of various materials
+determination of density of solid instructions for performing classroom experiment
+density prediction
+density prediction
+beach chandler b. ed (1914) "density" the new student's reference work chicago: f e compton and co

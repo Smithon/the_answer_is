@@ -1,0 +1,51 @@
+the scientific computing and imaging institute (sci) is a research institute located on the university of utah campus in salt lake city utah its objective is to create new scientific computing techniques tools and systems with applications to various fields including high performance computing scientific visualization image analysis computational biology data science and graphics
+== history ==
+the sci institute began as research group started in 1992 by drs chris johnson and rob macleod and a cohort of graduate students in 1994 they became the center for scientific computing and imaging and in 2000 the name was changed to the scientific computing and imaging institute the sci institute is now one of eight permanent research institutes at the university of utah and home to over 200 faculty students and staff the faculty are drawn primarily from the school of computing department of bioengineering department of mathematics and department of electrical and computer engineering and virtually all faculty have adjunct appointments in other largely medical departments recent growth in the sci institute has come in part from the award in 2007 from the state of utah of a ustar cluster in imaging technology this allowed the sci institute to recruit new faculty in image analysis and scientific visualization in july 2008 sci was chosen as one of three nvidia centers of excellence in the u.s (university of illinois and harvard university are the other two nvidia centers) in 2011 ustar funding allowed recruitment for faculty in genomic signal processing and information visualization in 2012 the sci institute recruited faculty in uncertainty quantification
+== academics ==
+the school of computing has collaborated with faculty in the sci institute to create a graduate degree in computing which offers tracks in scientific computing and graphics (image analysis is planned) the physical infrastructure is also outstanding with many large-scale computing facilities at the disposal of students and trainees perhaps most exciting is the new nvidia computing cluster which along with a new graduate course in parallel programming for gpus provides opportunities for developing unique expertise in large-scale streaming architectures sci faculty also provide leadership in developing educational and research tracks in biomedical engineering through the bioengineering department there are undergraduate and graduate tracks in computing and imaging in part created and directed by sci faculty there is also a graduate track in cardiac electrophysiology and biophysics directed by sci faculty and supported through collaboration between sci and the cardiovascular research and training institute (cvrti)
+== research ==
+over the past decade the sci institute has established itself as an internationally recognized leader in visualization scientific computing and image analysis applied to a broad range of application domains the overarching research objective is to conduct application-driven research in the creation of new scientific computing techniques tools and systems given the proximity and availability of research conducted at the university of utah school of medicine an important application focus is medicine sci institute researchers also apply computational techniques to particular scientific and engineering sub-specialties such as fluid dynamics biomechanics electrophysiology bioelectric fields uncertainty visualization parallel computing inverse problems and neuroimaging
+the sci institute is known for its development of innovative and robust software packages including the scirun scientific problem solving environment seg3d imagevis3d vistrails visus and map3d all these packages are broadly available to the scientific community under open source licensing and supported by web pages documentation and users groups
+== associated research centers ==
+the sci institute houses the nih/ncrr center for integrative biomedical computing (cibc) and is associated with several other national research centers:
+doe scalable data management analysis and visualization (sdav)
+musculoskeletal research laboratories (mrl)
+doe center for the simulation of accidental fires and explosions (c-safe)
+orly alter genomic signal processing lab (alterlab.org)
+center for extreme data management analysis and visualization (cedmav)
+utah center for neuroimage analysis (ucnia)
+doe unconventional and renewable energy research utilizing advanced computer simulations (doe/netl)
+open wildland fire modeling e-community
+nvidia cuda center of excellence
+alliance for computationally-guided design of energy efficient electronic materials (cde3m)
+nih national alliance for medical image computing (na-mic)
+institute for applied mathematics and computational science (iamcs/kaust)
+cdc decision-support for infectious disease epidemiology
+== open source software releases ==
+besides research in the areas mentioned above a particular focus of sci has been to develop innovative and robust software packages and release them as open-source software the latest releases and source code lives on github examples:
+scirun a problem solving environment (pse) for modeling simulation and visualization of scientific problems
+biomesh3d a tetrahedral mesh generator that is capable of generating multi-material quality meshes out of segmented biomedical image data
+seg3d an interactive image segmentation tool
+imagevis3d a lightweight feature-rich volume rendering application
+visus visualization streams for ultimate scalability
+shapeworks a new method for constructing compact statistical point-based models of ensembles of similar shapes that does not rely on any specific surface parameterization
+map3d a scientific visualization application written to display and edit three-dimensional geometric models and scalar time-based data associated with those models
+uintah a set of software components and libraries that facilitate the solution of partial differential equations on structured adaptive mesh refinement grids using hundreds to thousands of processors
+fiberviewer a comprehensive integrated open-source environment for medical image visualization and analysis
+atlaswerks an open-source (bsd license) software package for medical image atlas generation
+ncr toolset a collection of software tools for the reconstruction and visualization of neural circuitry from electron microscopy data
+fluorender an interactive rendering tool for confocal microscopy data visualization
+elvis a visualization system created for the accurate and interactive visualization of scalar fields produced by high-order spectral/hp finite element simulations
+vistrails a scientific workflow management system
+afront a tool for meshing and remeshing surfaces
+cleaver a multimaterial tetrahedral meshing api and application
+epicanvas infectious disease weather map
+febio is a nonlinear finite element solver that is specifically designed for biomechanical applications
+preview a finite element (fe) pre-processor that has been designed specifically to set up fe problems for febio
+postview a finite element (fe) post-processor that is designed to post-process the results from febio
+stcr a matlab-based program to reconstruct undersampled dce radial data with compressed sensing methods
+exoshapeaccel a c/c++ application for estimating continuous evolution from a discrete collection of shapes designed to produce realistic anatomical trajectories
+vispack a c++ library that includes matrix image and volume objects
+teem a collection of libraries for representing processing and visualizing scientific raster data
+== external links ==
+^ "scientific computing and imaging institute home" retrieved 2013-04-16

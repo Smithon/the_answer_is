@@ -1,0 +1,69 @@
+in chemical kinetics the order of reaction with respect to a given substance (such as reactant catalyst or product) is defined as the index or exponent to which its concentration term in the rate equation is raised for the typical rate equation of form  where [a] [b]  are concentrations the reaction orders (or partial reaction orders) are x for substance a y for substance b etc the overall reaction order is the sum x + y +  for many reactions the reaction orders are not equal to the stoechiometric coefficients
+for example the chemical reaction between mercury (ii) chloride and oxalate ion
+2 hgcl2(aq) + c2o42(aq) 2 cl(aq) + 2 co2(g) + hg2cl2(s)
+has the observed rate equation
+r = k[hgcl2]1[c2o42]2
+in this case the reaction order with respect to the reactant hgcl2 is 1 and with respect to oxalate ion is 2; the overall reaction order is 1 + 2 = 3 the reaction orders (here 1 and 2 respectively) differ from the stoichiometric coefficients (2 and 1) reaction orders can be determined only by experiment their knowledge allows conclusions to be drawn about the reaction mechanism and may help to identify the rate-determining step
+elementary (single-step) reactions do have reaction orders equal to the stoichiometric coefficients for each reactant the overall reaction order i.e the sum of stoicheometric coefficients of reactants is always equal to the molecularity of the elementary reaction complex (multi-step) reactions may or may not have reaction orders equal to their stoichiometric coefficients
+orders of reaction for each reactant are often positive integers but they may also be zero fractional or negative
+a reaction can also have an undefined reaction order with respect to a reactant if the rate is not simply proportional to some power of the concentration of that reactant; for example one cannot talk about reaction order in the rate equation for a bimolecular reaction between adsorbed molecules:
+== determination of reaction order ==
+=== method of initial rates ===
+the order of a reaction for each reactant can be estimated from the variation in initial rate with the concentration of that reactant using the natural logarithm of the typical rate equation
+for example the initial rate can be measured in a series of experiments at different initial concentrations of reactant a with all other concentrations [b] [c]  kept constant so that
+the slope of a graph of as a function of then corresponds to the order x with respect to reactant a
+however this method is not always reliable because
+measurement of the initial rate requires accurate determination of small changes in concentration in short times (compared to the reaction half-life) and is sensitive to errors and
+the rate equation will not be completely determined if the rate also depends on substances not present at the beginning of the reaction such as intermediates or products
+=== integral method ===
+the tentative rate equation determined by the method of initial rates is therefore normally verified by comparing the concentrations measured over a longer time (several half-lives) with the integrated form of the rate equation
+for example the integrated rate law for a first-order reaction is
+where [a] is the concentration at time t and [a]0 is the initial concentration at zero time the first-order rate law is confirmed if is in fact a linear function of time in this case the rate constant is equal to the slope with sign reversed
+=== method of flooding ===
+the partial order with respect to a given reactant can be evaluated by the method of flooding (or of isolation) of ostwald in this method the concentration of one reactant is measured with all other reactants in large excess so that their concentration remains essentially constant for a reaction aa + bb cc with rate law:  the partial order with respect to a is determined using a large excess of b in this case
+with 
+and may be determined by the integral method the order with respect to b under the same conditions (with b in excess) is determined by a series of similar experiments with a range of initial concentration [b]0 so that the variation of k' can be measured
+== first order ==
+if a reaction rate depends on a single reactant and the value of the exponent is one then the reaction is said to be first order in organic chemistry the class of sn1 (nucleophilic substitution unimolecular) reactions consists of first-order reactions for example in the reaction of aryldiazonium ions with nucleophiles in aqueous solution arn2+ + x arx + n2 the rate equation is r = k[arn2+] where ar indicates an aryl group
+another class of first-order reactions is radioactive decay processes which are all first order these are however nuclear reactions rather than chemical reactions
+== second order ==
+a reaction is said to be second order when the overall order is two the rate of a second-order reaction may be proportional to one concentration squared  or (more commonly) to the product of two concentrations  as an example of the first type the reaction no2 + co no + co2 is second-order in the reactant no2 and zero order in the reactant co the observed rate is given by  and is independent of the concentration of co
+the second type includes the class of sn2 (nucleophilic substitution bimolecular) reactions such as the alkaline hydrolysis of ethyl acetate:
+ch3cooc2h5 + oh ch3coo + c2h5oh
+this reaction is first-order in each reactant and second-order overall: r = k[ch3cooc2h5][oh]
+if the same hydrolysis reaction is catalyzed by imidazole the rate equation becomes r = k[imidazole][ch3cooc2h5] the rate is first-order in one reactant (ethyl acetate) and also first-order in imidazole which as a catalyst does not appear in the overall chemical equation
+== pseudo-first order ==
+if the concentration of a reactant remains constant (because it is a catalyst or it is in great excess with respect to the other reactants) its concentration can be included in the rate constant obtaining a pseudofirst-order (or occasionally pseudosecond-order) rate equation for a typical second-order reaction with rate equation  if the concentration of reactant b is constant then  where the pseudofirst-order rate constant  the second-order rate equation has been reduced to a pseudofirst-order rate equation which makes the treatment to obtain an integrated rate equation much easier
+for example the hydrolysis of sucrose in acid solution is often cited as a first-order reaction with rate  the true rate equation is third-order ; however the concentrations of both the catalyst h+ and the solvent h2o are normally constant so that the reaction is pseudofirst-order
+== zero order ==
+for zero-order reactions the reaction rate is independent of the concentration of a reactant so that changing its concentration has no effect on the speed of the reaction this is true for many enzyme-catalyzed reactions provided that the reactant concentration is much greater than the enzyme concentration which controls the rate for example the biological oxidation of ethanol to acetaldehyde by the enzyme liver alcohol dehydrogenase (ladh) is zero order in ethanol
+== fractional order ==
+in fractional order reactions the order is a non-integer which often indicates a chemical chain reaction or other complex reaction mechanism for example the pyrolysis of ethanal (ch3-cho) into methane and carbon monoxide proceeds with an order of 1.5 with respect to ethanal: r = k[ch3-cho]3/2 the decomposition of phosgene (cocl2) to carbon monoxide and chlorine has order 1 with respect to phosgene itself and order 0.5 with respect to chlorine: r = k[cocl2] [cl2]1/2
+the order of a chain reaction can be rationalized using the steady state approximation for the concentration of reactive intermediates such as free radicals for the pyrolysis of ethanal the rice-herzfeld mechanism is
+initiation ch3cho ch3 + cho
+propagation ch3 + ch3cho ch3co + ch4
+ch3co ch3 + co
+termination 2 ch3 c2h6
+where denotes a free radical to simplify the theory the reactions of the cho to form a second ch3 are ignored
+in the steady state the rates of formation and destruction of methyl radicals are equal so that
+so that the concentration of methyl radical satisfies
+the reaction rate equals the rate of the propagation steps which form the main reaction products ch4 and co:
+in agreement with the experimental order of 3/2
+== mixed order ==
+more complex rate laws have been described as being mixed order if they approximate to the laws for more than one order at different concentrations of the chemical species involved for example a rate law of the form represents concurrent first order and second order reactions (or more often concurrent pseudo-first order and second order) reactions and can be described as mixed first and second order for sufficiently large values of [a] such a reaction will approximate second order kinetics but for smaller [a] the kinetics will approximate first order (or pseudo-first order) as the reaction progresses the reaction can change from second order to first order as reactant is consumed
+another type of mixed-order rate law has a denominator of two or more terms often because the identity of the rate-determining step depends on the values of the concentrations an example is the oxidation of an alcohol to a ketone by hexacyanoferrate (iii) ion [fe(cn)63] with ruthenate (vi) ion (ruo42) as catalyst for this reaction the rate of disappearance of hexacyanoferrate (iii) is
+this is zero-order with respect to hexacyanoferrate (iii) at the onset of the reaction (when its concentration is high and the ruthenium catalyst is quickly regenerated) but changes to first-order when its concentration decreases and the regeneration of catalyst becomes rate-determining
+notable mechanisms with mixed-order rate laws with two-term denominators include:
+michaelis-menten kinetics for enzyme-catalysis: first-order in substrate (second-order overall) at low substrate concentrations zero order in substrate (first-order overall) at higher substrate concentrations; and
+the lindemann mechanism for unimolecular reactions: second-order at low pressures first-order at high pressures
+== negative order ==
+a reaction rate can have a negative partial order with respect to a substance for example the conversion of ozone (o3) to oxygen follows the rate equation in an excess of oxygen this corresponds to second order in ozone and order (-1) with respect to oxygen
+when a partial order is negative the overall order is usually considered as undefined in the above example for instance the reaction is not described as first order even though the sum of the partial orders is 2 + (-1) = 1 because the rate equation is more complex than that of a simple first-order reaction
+== see also ==
+reaction rate
+molecularity
+== references ==
+== external links ==
+chemical kinetics reaction rate and order (needs flash player)
+reaction kinetics examples of important rate laws (lecture with audio)
+rates of reaction

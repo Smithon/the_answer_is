@@ -1,0 +1,69 @@
+chemical kinetics also known reaction kinetics study rates chemical processes chemical kinetics includes investigations different experimental conditions influence speed chemical reaction yield information reactions mechanism transition states well construction mathematical models describe characteristics chemical reaction peter waage cato guldberg pioneered development chemical kinetics formulating law mass action states speed chemical reaction proportional quantity reacting substances
+chemical kinetics deals experimental determination reaction rates rate laws rate constants derived relatively simple rate laws exist zero order reactions reaction rates independent concentration first order reactions second order reactions derived others elementary reactions follow law mass action rate law stepwise reactions derived combining rate laws various elementary steps become rather complex consecutive reactions ratedetermining step often determines kinetics consecutive first order reactions steady state approximation simplify rate law activation energy reaction experimentally determined arrhenius equation eyring equation main factors influence reaction rate include physical state reactants concentrations reactants temperature reaction occurs whether catalysts present reaction
+factors affecting reaction rate
+nature reactants
+depending upon substances reacting reaction rate varies acidbase reactions formation salts ion exchange fast reactions covalent bond formation takes place molecules large molecules formed reactions tend slow nature strength bonds reactant molecules greatly influence rate transformation products
+physical state
+physical state solid liquid gas reactant also important factor rate change reactants phase aqueous solution thermal motion brings contact however different phases reaction limited interface reactants reaction occur area contact case liquid gas surface fluid vigorous shaking stirring may needed bring reaction completion means finely divided solid liquid reactant greater surface area per unit volume contact reactant thus faster reaction make analogy example one starts fire one uses wood chips small branches one start large logs right away organic chemistry water reactions exception rule homogeneous reactions take place faster heterogeneous reactions
+concentration
+reactions due collisions reactant species frequency molecules ions collide depends upon concentrations crowded molecules likely collide react one another thus increase concentrations reactants usually result corresponding increase reaction rate decrease concentrations usually reverse effect example combustion occurs air oxygen occur rapidly pure oxygen
+temperature
+temperature usually major effect rate chemical reaction molecules higher temperature thermal energy although collision frequency greater higher temperatures alone contributes small proportion increase rate reaction much important fact proportion reactant molecules sufficient energy react energy greater activation energy e ea significantly higher explained detail maxwellboltzmann distribution molecular energies
+rule thumb rate chemical reactions doubles every c temperature rise common misconception may generalized special case biological systems temperature coefficient often
+reactions kinetics also studied temperature jump approach involves using sharp rise temperature observing relaxation time return equilibrium particularly useful form temperature jump apparatus shock tube rapidly jump gass temperature degrees
+catalysts
+catalyst substance accelerates rate chemical reaction remains chemically unchanged afterwards catalyst increases rate reaction providing different reaction mechanism occur lower activation energy autocatalysis reaction product catalyst reaction leading positive feedback proteins act catalysts biochemical reactions called enzymes michaelismenten kinetics describe rate enzyme mediated reactions catalyst affect position equilibria catalyst speeds backward forward reactions equally
+certain organic molecules specific substituents influence reaction rate neighbouring group participation
+pressure
+increasing pressure gaseous reaction increase number collisions reactants increasing rate reaction activity gas directly proportional partial pressure gas similar effect increasing concentration solution
+addition straightforward massaction effect rate coefficients change due pressure rate coefficients products many hightemperature gasphase reactions change inert gas added mixture variations effect called falloff chemical activation phenomena due exothermic endothermic reactions occurring faster heat transfer causing reacting molecules nonthermal energy distributions nonboltzmann distribution increasing pressure increases heat transfer rate reacting molecules rest system reducing effect
+condensedphase rate coefficients also affected high pressure completely different effect falloff chemicalactivation often studied using diamond anvils
+reactions kinetics also studied pressure jump approach involves making fast changes pressure observing relaxation time return equilibrium
+experimental methods
+experimental determination reaction rates involves measuring concentrations reactants products change time example concentration reactant measured spectrophotometry wavelength reactant product system absorbs light
+reactions take least several minutes possible start observations reactants mixed temperature interest
+fast reactions
+faster reactions time required mix reactants bring specified temperature may comparable longer halflife reaction special methods start fast reactions without slow mixing step include
+stopped flow methods reduce mixing time order millisecond
+chemical relaxation methods temperature jump pressure jump premixed system initially equilibrium perturbed rapid heating depressurization longer equilibrium relaxation back equilibrium observed example method used study neutralization ho oh halflife less ordinary conditions
+flash photolysis laser pulse produces highly excited species free radicals whose reactions studied
+equilibrium
+chemical kinetics concerned rate chemical reaction thermodynamics determines extent reactions occur reversible reaction chemical equilibrium reached rates forward reverse reactions equal principle detailed balance concentrations reactants products longer change demonstrated example haberbosch process combining nitrogen hydrogen produce ammonia chemical clock reactions belousovzhabotinsky reaction demonstrate component concentrations oscillate long time finally attaining equilibrium
+free energy
+general terms free energy change g reaction determines whether chemical change take place kinetics describes fast reaction reaction exothermic positive entropy change happen practice reaction slow reactant produce two different products thermodynamically stable one general form except special circumstances reaction said kinetic reaction control curtinhammett principle applies determining product ratio two reactants interconverting rapidly going different product possible make predictions reaction rate constants reaction freeenergy relationships
+kinetic isotope effect difference rate chemical reaction atom one reactants replaced one isotopes
+chemical kinetics provides information residence time heat transfer chemical reactor chemical engineering molar mass distribution polymer chemistry
+applications models
+mathematical models describe chemical reaction kinetics provide chemists chemical engineers tools better understand describe chemical processes food decomposition microorganism growth stratospheric ozone decomposition complex chemistry biological systems models also used design modification chemical reactors optimize product yield efficiently separate products eliminate environmentally harmful byproducts performing catalytic cracking heavy hydrocarbons gasoline light gas example kinetic models used find temperature pressure highest yield heavy hydrocarbons gasoline occur
+chemical kinetics frequently validated explored modeling specialized packages function ordinary differential equationsolving odesolving curvefitting
+see also
+autocatalytic reactions order creation
+detonation
+electrochemical kinetics
+flame speed
+heterogenous catalysis
+intrinsic lowdimensional manifold
+mlab chemical kinetics modeling package
+nonthermal surface reaction
+potterswheel matlab toolbox fit chemical rate constants experimental data
+reaction progress kinetic analysis
+references
+preparing chemistry ap exam upper saddle river new jersey pearson education isbn
+cm guldberg p waagestudies concerning affinity c m forhandlinger videnskabsselskabet christiana
+p waage experiments determining affinity law forhandlinger videnskabsselskabet christiania
+cm guldberg concerning laws chemical affinity c m forhandlinger videnskabsselskabet christiania
+b c d laidler k j chemical kinetics rd ed harper row p isbn
+espenson jh chemical kinetics reaction mechanisms nd ed mcgrawhill p isbn
+b atkins p de paula j physical chemistry th ed wh freeman p isbn
+espensonjh chemical kinetics reaction mechanisms nd ed mcgrawhill p isbn
+steinfeld ji francisco js hase wl chemical kinetics dynamics nd ed prenticehall p isbn
+b atkins p de paula j physical chemistry th ed wh freeman pp isbn
+laidler kj chemical kinetics rd ed harper row p isbn
+espenson jh chemical kinetics reaction mechanisms nd ed mcgrawhill p isbn
+steinfeld ji francisco js hase wl chemical kinetics dynamics nd ed prenticehall p isbn
+chemical kinetics simple binding f g b pdf civilized software inc retrieved
+external links
+chemistry applets
+university waterloo
+chemical kinetics gas phase reactions
+kinpy python code generator solving kinetic equations

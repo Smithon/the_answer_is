@@ -1,0 +1,11 @@
+amagat's law or the law of partial volumes of 1880 describes the behaviour and properties of mixtures of ideal (as well as some cases of non-ideal) gases of use in chemistry and thermodynamics amagat's law states that the extensive volume v = nv of a gas mixture is equal to the sum of volumes vi of the k component gases if the temperature t and the pressure p remain the same:
+this is the experimental expression of volume as an extensive quantity it is named after emile amagat
+according to amagats law of partial volume the total volume of a non-reacting mixture of gases at constant temperature and pressure should be equal to the sum of the individual partial volumes of the constituent gases so if are considered to be the partial volumes of components in the gaseous mixture then the total volume would be represented as:
+both amagat's and dalton's laws predict the properties of gas mixtures their predictions are the same for ideal gases however for real (non-ideal) gases the results differ dalton's law of partial pressures assumes that the gases in the mixture are non-interacting (with each other) and each gas independently applies its own pressure the sum of which is the total pressure amagat's law assumes that the volumes of the component gases (again at the same temperature and pressure) are additive; the interactions of the different gases are the same as the average interactions of the components
+the interactions can be interpreted in terms of a second virial coefficient b(t) for the mixture for two components the second virial coefficient for the mixture can be expressed as:
+where the subscripts refer to components 1 and 2 the x's are the mole fractions and the b's are the second virial coefficients the cross term b1,2 of the mixture is given by:
+(dalton's law)
+and
+(amagat's law)
+when the volumes of each component gas (same temperature and pressure) are very similar then amagat's law becomes mathematically equivalent to vegard's law for solid mixtures
+== references ==

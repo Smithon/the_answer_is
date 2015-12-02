@@ -1,0 +1,18 @@
+practical electrical power source linear electric circuit may according thvenins theorem represented ideal voltage source series impedance impedance termed internal resistance source power source delivers current measured voltage output lower noload voltage difference voltage drop product current resistance caused internal resistance concept internal resistance applies kinds electrical sources useful analyzing many types electrical circuits
+battery
+battery may modeled voltage source series resistance practice internal resistance battery dependent size chemical properties age temperature discharge current electronic component due resistivity component materials ionic component due electrochemical factors electrolyte conductivity ion mobility electrode surface area measurement internal resistance battery guide condition may apply test conditions measurement alternating current typically frequency khz may underestimate resistance frequency may high take account slower electrochemical processes internal resistance depends temperature example fresh energizer e aa alkaline primary battery drops c low temperature reduces ion mobility room temperature c
+internal resistance battery may calculated open circuit voltage vnl load voltage vfl load resistance rl
+many equivalent series resistance esr meters essentially ac milliohmmeters normally used measure esr capacitors used estimate battery internal resistance particularly check state discharge battery rather obtain accurate dc value chargers rechargeable batteries indicate esr
+use voltage across terminals disposable battery driving load decreases drops low useful largely due increase internal resistance rather drop voltage equivalent source
+rechargeable lithium polymer batteries internal resistance largely independent state charge increases battery ages thus good indicator expected life
+see also
+nortons theorem
+references
+battery internal resistance pdf energizer technical bulletin energizer battery december
+testing batteries esr meter
+understanding rc lipo batteries
+esr meter cell lipo packs instructions
+student reference manual electronic instrumentation laboratories nd edition stanley wolf richard fm smith
+fundamentals electric circuits th edition charles alexander matthew sadiku
+external links
+interconnection two audio units output impedance input impedance

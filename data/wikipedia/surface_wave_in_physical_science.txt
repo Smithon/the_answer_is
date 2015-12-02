@@ -1,0 +1,120 @@
+in physics a surface wave is a mechanical wave that propagates along the interface between differing media usually as a gravity wave between two fluids with different densities a surface wave can also be an elastic (or a seismic) wave such as with a rayleigh or love wave it can also be an electromagnetic wave guided by a refractive index gradient in radio transmission a ground wave is a surface wave that propagates close to the surface of the earth
+== mechanical wavesedit ==
+in seismology several types of surface waves are encountered surface waves in this mechanical sense are commonly known as either love waves (l waves) or rayleigh waves a seismic wave is a wave that travels through the earth often as the result of an earthquake or explosion love waves have transverse motion (movement is perpendicular to the direction of travel like light waves) whereas rayleigh waves have both longitudinal (movement parallel to the direction of travel like sound waves) and transverse motion seismic waves are studied by seismologists and measured by a seismograph or seismometer surface waves span a wide frequency range and the period of waves that are most damaging is usually 10 seconds or longer surface waves can travel around the globe many times from the largest earthquakes surface waves are caused when p waves and s waves come to the surface
+the term "surface wave" can describe waves over an ocean even when they are approximated by airy functions and are more properly called creeping waves examples are the waves at the surface of water and air (ocean surface waves) or ripples in the sand at the interface with water or air another example is internal waves which can be transmitted along the interface of two water masses of different densities
+== electromagnetic wavesedit ==
+ground waves refer to the propagation of radio waves parallel to and adjacent to the surface of the earth following the curvature of the earth these surface waves are also known loosely as the norton surface wave the zenneck surface wave sommerfeld waves and gliding waves see also dyakonov surface waves (dsw) propagating at the interface of transparent materials with different symmetry
+=== radio propagationedit ===
+lower frequencies below 3 mhz travel efficiently as ground waves this is because they are more strongly diffracted around obstacles due to their long wavelengths allowing them to follow the earth's curvature the earth has one refractive index and the atmosphere has another thus constituting an interface that supports the surface wave transmission ground waves propagate in vertical polarization with their magnetic field horizontal and electric field (close to) vertical at vlf the ionosphere and earth's surface act as a waveguide
+conductivity of the surface affects the propagation of ground waves with more conductive surfaces such as sea water providing better propagation increasing the conductivity in a surface results in less dissipation the refractive indices are subject to spatial and temporal changes since the ground is not a perfect electrical conductor ground waves are attenuated as they follow the earths surface the wavefronts initially are vertical but the ground acting as a lossy dielectric causes the wave to tilt forward as it travels this directs some of the energy into the earth where it is dissipated so that the signal decreases exponentially
+most long-distance low frequency (lf) "longwave" radio communication (between 30 khz and 300 khz) is a result of groundwave propagation mediumwave radio transmissions (frequencies between 300 khz and 3000 khz) including am broadcast band travel both as groundwaves and for longer distances at night as skywaves ground losses become lower at lower frequencies greatly increasing the coverage of am stations using the lower end of the band the vlf and lf frequencies are mostly used for military communications especially with ships and submarines the lower the frequency the better the waves penetrate sea water even extremely low frequency waves (below 3 khz) have been used to communicate with deeply submerged submarines
+surface waves have been used in over-the-horizon radar which operates mainly at frequencies between 2 and 20 mhz over the sea which has a sufficiently high conductivity to convey the surface waves to and from a reasonable distance (up to 100 km or more; over-horizon radar also uses skywave propagation at much greater distances) in the development of radio surface waves were used extensively early commercial and professional radio services relied exclusively on long wave low frequencies and ground-wave propagation to prevent interference with these services amateur and experimental transmitters were restricted to the higher (hf) frequencies felt to be useless since their ground-wave range was limited upon discovery of the other propagation modes possible at medium wave and short wave frequencies the advantages of hf for commercial and military purposes became apparent amateur experimentation was then confined only to authorized frequencies in the range
+mediumwave and shortwave reflect off the ionosphere at night which is known as skywave during daylight hours the lower "d" layer of the ionosphere forms and absorbs lower frequency energy this prevents skywave propagation from being very effective on mediumwave frequencies in daylight hours at night when the "d" layer dissipates mediumwave transmissions travel better by skywave ground waves do not include ionospheric and tropospheric waves
+the propagation of sound waves through the ground taking advantage of the earths ability to more efficiently transmit low frequency is known as audio ground wave (agw)
+=== microwave field theoryedit ===
+within microwave field theory the interface of a dielectric and conductor supports "surface wave transmission" surface waves have been studied as part of transmission lines and some may be considered as single-wire transmission lines
+characteristics and utilizations of the electrical surface wave phenomenon include:
+the field components of the wave diminish with distance from the interface
+electromagnetic energy is not converted from the surface wave field to another form of energy (except in leaky or lossy surface waves) such that the wave does not transmit power normal to the interface i.e it is evanescent along that dimension
+in optical fiber transmission evanescent waves are surface waves
+in coaxial cable in addition to the tem mode there also exists a transverse-magnetic (tm) mode which propagates as a surface wave in the region around the central conductor for coax of common impedance this mode is effectively suppressed but in high impedance coax and on a single central conductor without any outer shield low attenuation and very broadband propagation is supported transmission line operation in this mode is called e-line
+== see alsoedit ==
+waves
+seismic waves
+seismic communication
+p-waves
+s-waves
+surface acoustic wave
+sky waves the primary means of hf transmission
+surface plasmon a longitudinal charge density wave along the interface of conducting and dielectric mediums
+surface-wave-sustained mode a propagation of electromagnetic surface waves
+evanescent waves and evanescent wave coupling
+ocean surface waves internal waves and crests dispersion and freak waves
+love wave and rayleigh-lamb wave
+gravity waves occurs at certain natural interfaces (e.g the atmosphere and ocean)
+stoneley wave
+scholte wave
+dyakonov surface waves
+people
+arnold sommerfeld published the mathematical treatise on the zenneck wave
+jonathan zenneck pupil of sommerfeld; wireless pioneer; developed the zenneck wave
+john stone stone wireless pioneer; produced theories on radio propagation
+other
+ground constants the electrical parameters of earth
+near and far field the radiated field that is within one quarter of a wavelength of the diffracting edge or the antenna and beyond
+skin effect the tendency of an alternating electric current to distribute itself within a conductor so that the current density near the surface of the conductor is greater than that at its core
+green's function a function used to solve inhomogeneous differential equations subject to boundary conditions
+== external articles further readings and referencesedit ==
+=== citationsedit ===
+^ this article incorporates public domain material from the general services administration document "federal standard 1037c" (in support of mil-std-188)
+^ the physical reality of zenneck's surface wave alcatel-lucent
+^ dyakonov m i (april 1988) "new type of electromagnetic wave propagating at an interface" soviet physics jetp 67 (4): 714
+^ "naval electrical engineering training series" chapter 2 radio wave propagation ground waves integrated publishing
+^ antennas and radio propagation tm 11-666 dept of the army feb 1953 pp 1723
+^ http://www.jpier.org/pier/pier19/02.970718p.ling.su.pdf
+^ collin r e. field theory of guided waves chapter 11 "surface waveguides" new york: wiley-ieee press 1990
+^ (tm) mode
+=== web sitesedit ===
+eric w weisstein et al. "surface wave" eric weisstein's world of physics 2006
+"surface waves" integrated publishing (tpub.com)
+david reiss "electromagnetic surface waves" the net advance of physics: special reports no 1
+gary peterson "rediscovering the zenneck wave" feed line no 4 (ed reproduction available online at 21st century books)
+3d waves by jesse nochella based on a program by stephen wolfram wolfram demonstrations project
+=== patentsedit ===
+u.s patent 2,685,068 "surface wave transmission line" george j e goubau
+u.s patent 2,921,277 "launching and receiving of surface waves" george j e goubau
+u.s patent 7,567,154 "surface wave transmission system over a single conductor having e-fields terminating along the conductor " glenn e elmore
+=== standards and doctrinesedit ===
+"surface wave" telecom glossary 2000 atis committee t1a1 performance and signal processing t1.523-2001
+"surface wave" federal standard 1037c
+"surface wave" mil-std-188
+"multi-service tactics techniques and procedures for the high-frequency automatic link establishment (hf-ale): fm 6-02.74; mcrp 3-40.3e; nttp 6-02.6; afttp(i) 3-2.48; comdtinst m2000.7" sept. 2003
+=== booksedit ===
+barlow h.m. and brown j. "radio surface waves" oxford university press 1962
+budden k g. "radio waves in the ionosphere; the mathematical theory of the reflection of radio waves from stratified ionised layers" cambridge eng. university press 1961 lccn 61016040 /l/r85
+budden k g. "the wave-guide mode theory of wave propagation" london logos press; englewood cliffs n.j. prentice-hall c1961 lccn 62002870 /l
+budden k g. " the propagation of radio waves : the theory of radio waves of low power in the ionosphere and magnetosphere" cambridge (cambridgeshire); new york : cambridge university press 1985 isbn 0-521-25461-2 lccn 84028498
+collin r e. "field theory of guided waves" new york: wiley-ieee press 1990
+foti s. lai c.g. rix g.j. and strobbia c. "surface wave methods for near-surface site characterization" crc press boca raton florida (usa) 487 pp. isbn 9780415678766 2014 <https://www.crcpress.com/product/isbn/9780415678766>
+sommerfeld a. "partial differential equations in physics" (english version) academic press inc. new york 1949 chapter 6 - "problems of radio"
+polo jr. j a. mackay t g. and lakhtakia a. "electromagnetic surface waves: a modern perspective" waltham ma usa: elsevier 2013 <https://www.elsevier.com/books/electromagnetic-surface-waves/polo/978-0-12-397024-4>
+rawer k.,"wave propagation in the ionosphere" dordrecht kluwer acad.publ 1993
+sommerfeld a. "partial differential equations in physics" (english version) academic press inc. new york 1949 chapter 6 - "problems of radio"
+weiner melvin m. "monopole antennas" new york marcel dekker 2003 isbn 0-8247-0496-7
+wait j r. "electromagnetic wave theory" new york harper and row 1985
+wait j r. "the waves in stratified media" new york: pergamon 1962
+waldron richard arthur "theory of guided electromagnetic waves" london new york van nostrand reinhold 1970 isbn 0-442-09167-2 lccn 69019848 //r86
+weiner melvin m. "monopole antennas" new york marcel dekker 2003 isbn 0-8247-0496-7
+=== journals and papersedit ===
+zenneck sommerfeld norton and goubau
+j zenneck (translators: p blanchin g gurard  picot) "prcis de tlgraphie sans fil : complment de l'ouvrage : les oscillations lectromagntiques et la tlgraphie sans fil" paris : gauthier-villars 1911 viii 385 p : ill ; 26 cm (tr precisions of wireless telegraphy: complement of the work: electromagnetic oscillations and wireless telegraphy)
+j zenneck "ber die fortpflanzung ebener elektromagnetischer wellen lngs einer ebenen leiterflche und ihre beziehung zur drahtlosen telegraphie" annalen der physik vol 23 pp 846866 sept 1907 (tr "about the propagation of electromagnetic plane waves along a conductor plane and their relationship to wireless telegraphy" )
+j zenneck "elektromagnetische schwingungen und drahtlose telegraphie" gart f enke 1905 xxvii 1019 p : ill ; 24 cm (tr "electromagnetic oscillations and wireless telegraphy.")
+j zenneck (translator: a.e seelig) "wireless telegraphy," new york [etc.] mcgraw-hill book company inc. 1st ed 1915 xx 443 p illus. diagrs 24 cm lccn 15024534 (ed "bibliography and notes on theory" p 408-428.)
+a sommerfeld "ber die fortpflanzung elektrodynamischer wellen lngs eines drahtes" ann der physik und chemie vol 67 pp 233290 dec 1899 (tr propagation of electro-dynamic waves along a cylindric conductor)
+a sommerfeld "ber die ausbreitung der wellen in der drahtlosen telegraphie" annalen der physik vol 28 pp 665-736 march 1909 (tr about the propagation of waves in wireless telegraphy)
+a sommerfeld "propagation of waves in wireless telegraphy" ann phys. vol 81 pp 13671153 1926
+k a norton "the propagation of radio waves over the surface of the earth and in the upper atmosphere" proc ire vol 24 pp 13671387 1936
+k a norton "the calculations of ground wave field intensity over a finitely conducting spherical earth" proc ire vol 29 pp 623639 1941
+g goubau "surface waves and their application to transmission lines" j appl phys. vol 21 pp 11191128; november,1950
+g goubau ber die zennecksche bodenwelle (on the zenneck surface wave) zeitschrift fur angewandte physik vol 3 1951 nrs 3/4 pp 103-107
+wait
+wait j r. "lateral waves and the pioneering research of the late kenneth a norton"
+wait j r. and d a hill "excitation of the hf surface wave by vertical and horizontal apertures" radio science 14 1979 pp 767-780
+wait j r. and d a hill "excitation of the zenneck surface by a vertical aperture" radio science 13 1978 pp 967-977
+wait j r. "a note on surface waves and ground waves" ieee transactions on antennas and propagation nov 1965 vol 13 issue 6 pg 996- 997 issn 0096-1973
+wait j r. "the ancient and modern history of em ground-wave propagation" ieee antennas propagat mag. vol 40 pp 724 oct 1998
+wait j r. "appendix c: on the theory of ground wave propagation over a slightly roughned curved earth" electromagnetic probing in geophysics boulder co. golem 1971 pp 37381
+wait j r. "electromagnetic surface waves" advances in radio research 1 new york academic press 1964 pp 157-219
+others
+r e collin "hertzian dipole radiating over a lossy earth or sea: some early and late 20th-century controversies" antennas and propagation magazine 46 2004 pp 64-79
+f j zucker "surface wave antennas and surface wave excited arrays" antenna engineering handbook 2nd ed. r c johnson and h jasik eds new york: mcgraw-hill 1984
+hill d and j.r wait "excitation of the zenneck surface wave by a vertical aperture" radio science vol 13 no 6 novemberdecember 1978 pp 969-977
+yu v kistovich "possibility of observing zenneck surface waves in radiation from a source with a small vertical aperture" soviet physics technical physics vol 34 no.4 april 1989 pp 391-394
+v i babakov v n datsko yu v kistovich "experimental discovery of zenneck's surface electromagnetic waves" sov phys uspekhi 1989 32 (4) 378-379
+corum k l and j f corum "the zenneck surface wave" nikola tesla lightning observations and stationary waves appendix ii 1994
+m j king and j c wiltse "surface-wave propagation on coated or uncoated metal wires at millimeter wavelengths" j appl phys. vol 21 pp 11191128; november
+m j king and j c wiltse "surface-wave propagation on a dielectric rod of electric cross-section." electronic communications inc. tirnonium: kld sci rept.'no 1 afckl contract no af 19(601)-5475; august 1960
+t kahan and g eckart "on the electromagnetic surface wave of sommerfeld" phys rev 76 406410 (1949)
+=== other mediaedit ===
+l.a ostrovsky (ed.) "laboratory modeling and theoretical studies of surface wave modulation by a moving sphere" m oceanic and atmospheric research laboratories 2002 oclc 50325097

@@ -1,0 +1,169 @@
+physics angular momentum rarely moment momentum rotational momentum rotational analog linear momentum important quantity physics conserved quantity angular momentum system remains constant unless acted external torque
+angular momentum related rotation revolution matter often considered measure quantity rotation system matter taking account mass rotations motions shape conservation angular momentum explains many observed phenomena example increase rotational speed spinning figure skater skaters arms contracted high rotational rates neutron stars falling cat problem precession explained terms angular momentum conservation numerous applications physics engineering everyday life instance gyrocompass control moment gyroscope inertial guidance systems reaction wheels tops flying discs frisbees earths rotation
+angular momentum classical mechanics
+definition
+scalar angular momentum two dimensions
+angular momentum vector quantity precisely pseudovector represents product bodys rotational inertia rotational velocity particular axis simple case revolution particle circle center rotation particle remaining always plane always distance center sufficient discard vector nature angular momentum treat scalar angular momentum considered rotational analog linear momentum thus linear momentum proportional mass linear speed
+angular momentum proportional moment inertia angular speed
+unlike mass depends amount matter moment inertia also dependent position axis rotation shape matter unlike linear speed occurs straight line angular speed occurs center rotation
+single particle circular motion angular momentum expanded reduced
+product radius rotation linear momentum particle case equivalent linear tangential speed radius
+simple analysis also apply noncircular motion component motion perpendicular radius vector considered case
+perpendicular component motion expanding rearranging reducing angular momentum also expressed
+length moment arm line dropped perpendicularly origin onto path particle definition length moment armlinear momentum term moment momentum refers
+vector angular momentum three dimensions
+completely define angular momentum three dimensions required know angle swept unit time direction axis rotation sense right lefthanded rotation well mass involved retaining vector nature angular momentum general nature equations also retained describe sort threedimensional motion center rotation circular linear otherwise vector notation angular momentum particle motion origin coordinates defined
+moment inertia point mass
+angular velocity particle origin
+position vector particle relative origin
+linear velocity particle relative origin
+mass particle
+expanded reduced rules vector algebra rearranged form
+cross product position vector linear momentum particle definition cross product vector perpendicular directed along axis rotation indicated righthand rule rotation seen counterclockwise head vector conversely vector defines plane lie
+defining unit vector direction axis rotation scalar angular speed results
+perpendicular component motion
+twodimensional scalar equations previous section thus given direction
+circular motion motion perpendicular radius
+discussion
+angular momentum described rotational analog linear momentum like linear momentum involves elements mass displacement unlike linear momentum also involves elements position shape
+many problems physics involve matter motion certain point space actual rotation simply moving past desired know effect moving matter point exert energy upon perform work energy ability work stored matter setting motion combination inertia displacement inertia measured mass displacement velocity product
+matters momentum referring momentum central point introduces complication momentum applied point directly instance particle matter outer edge wheel effect end lever length wheels radius momentum turning lever center point imaginary lever known moment arm effect multiplying momentums effort proportion length effect known moment hence particles momentum referred particular point
+angular momentum sometimes called moment momentum particle versus particular center point equation combines moment mass turning moment arm linear straightline equivalent speed linear speed referred central point simply product distance angular speed versus point another moment hence angular momentum contains double moment simplifying slightly quantity particles moment inertia sometimes called second moment mass measure rotational inertia
+rotational inertia part angular momentum necessarily includes complications moment inertia calculated multiplying elementary bits mass squares distances center rotation therefore total moment inertia angular momentum complex function configuration matter center rotation orientation rotation various bits
+rigid body instance wheel asteroid orientation rotation simply position rotation axis versus matter body may may pass center mass may lie completely outside body body angular momentum may take different value every possible axis rotation may take place reaches minimum axis passes center mass
+collection objects revolving center instance bodies solar system orientations may somewhat organized solar system bodies axes lying close systems axis orientations may also completely random
+brief mass farther center rotation longer moment arm greater moment inertia therefore greater angular momentum given angular velocity many cases moment inertia hence angular momentum simplified
+radius gyration distance axis entire mass may considered concentrated
+similarly point mass moment inertia defined
+radius point mass center rotation
+collection particles sum
+angular momentums dependence position shape reflected units versus linear momentum kgms nms js angular momentum versus kgms ns linear momentum angular momentums units interpreted torqueseconds workseconds energyseconds object angular momentum l nms reduced zero rotation energy transferred angular impulse l nms equivalently torque work l nm one second energy l j one second
+plane perpendicular axis angular momentum passing center mass sometimes called invariable plane direction axis remains fixed interactions bodies within system free outside influences considered one plane invariable plane solar system
+angular momentum torque
+newtons second law motion expressed mathematically
+force mass acceleration rotational equivalent
+torque moment inertia angular acceleration angular acceleration time derivative angular velocity equivalent rearranging form suitable integration integrating respect time
+therefore torque acting time equivalent change angular momentum constant interpreted initial angular momentum body torque began act particular torque angular momentum torque acts upon body angular momentum remains constant conversely
+angular momentum moment inertia angular velocity time derivative
+moment inertia constant zero reduces
+therefore time rate change angular momentum equivalent torque angular momentum constant torque applied
+conservation angular momentum
+conservation follows mathematically isotropy continuous directional symmetry space direction space different direction see noethers theorem
+rotational analog newtons third law motion might written closed system torque exerted matter without exertion matter equal opposite torque hence angular momentum exchanged objects closed system total angular momentum exchange remains constant conserved
+similarly rotational analogy newtons second law motion might change angular momentum proportional applied torque occurs axis torque since torque applied time equivalent change angular momentum torque zero angular momentum constant system constant angular momentum closed system therefore requiring system closed equivalent requiring external influence form torque acts upon
+rotational analog newtons first law motion might written body continues state rest uniform rotation unless compelled torque change state thus external influence act upon original angular momentum system conserved
+conservation angular momentum used analyzing central force motion net force body directed always toward point center torque body respect center force directed along radius vector none perpendicular radius mathematically torque case parallel vectors therefore angular momentum body center constant case gravitational attraction orbits planets satellites gravitational force always directed toward primary body orbiting bodies conserve angular momentum exchanging distance velocity move primary central force motion also used analysis bohr model atom
+planet angular momentum distributed spin planet revolution orbit often exchanged various mechanisms conservation angular momentum earthmoon system results transfer angular momentum earth moon due tidal torque moon exerts earth turn results slowing rotation rate earth nanoseconds per day gradual increase radius moons orbit centimeters per year
+conservation angular momentum explains angular acceleration ice skater brings arms legs close vertical axis rotation bringing part mass body closer axis decreases bodys moment inertia angular momentum product moment inertia angular velocity angular momentum remains constant conserved angular velocity rotational speed skater must increase
+phenomenon results extremely fast spin compact stars like white dwarfs neutron stars black holes formed much larger slower rotating stars decrease size object n times results increase angular velocity factor n
+angular momentum orbital mechanics
+astrodynamics celestial mechanics massless per unit mass angular momentum defined
+called specific angular momentum note mass often unimportant orbital mechanics calculations motion defined gravity primary body system often much larger bodies motion smaller bodies negligible gravitational effect effect stationary bodies apparently attracted gravity way regardless mass therefore move approximately way conditions
+solid bodies
+continuous mass distribution density function r differential volume element dv position vector r within mass mass element dm rdv therefore infinitesimal angular momentum element
+integrating differential volume entire mass gives total angular momentum
+collection particles
+center mass
+convenient develop equation angular momentum collection particles motion arbitrary origin resolving motion components center mass origin given
+mass particle
+position vector particle vs origin
+velocity particle vs origin
+position vector center mass vs origin
+velocity center mass vs origin
+position vector particle vs center mass
+velocity particle vs center mass
+total mass particles simply sum
+position vector center mass defined
+inspection
+total angular momentum collection particles sum angular momentum particle
+expanding
+expanding
+shown see sidebar
+therefore second third terms vanish
+first term rearranged
+total angular momentum collection particles finally
+first term angular momentum center mass relative origin similar single particle angular momentum one particle mass m center mass moving velocity v second term angular momentum particles moving relative center mass similar fixed center mass result general motion particles restricted rotation revolution origin center mass particles need individual masses elements continuous distribution solid body
+rearranging equation vector identities multiplying terms one grouping appropriately
+gives total angular momentum system particles terms moment inertia angular velocity
+simplifications
+single particle
+case single particle moving arbitrary origin
+equations total angular momentum reduce
+fixed center mass
+case center mass fixed space respect origin
+equations total angular momentum reduce
+angular momentum modern definition
+modern th century theoretical physics angular momentum including intrinsic angular momentum see described using different formalism instead classical pseudovector formalism angular momentum form noether charge associated rotational invariance result angular momentum conserved general curved spacetimes unless happens asymptotically rotationally invariant
+classical mechanics angular momentum particle reinterpreted plane element
+exterior product replaces cross product products similar characteristics nonequivalent advantage clearer geometric interpretation plane element defined x p vectors expression true number dimensions two higher cartesian coordinates
+compactly index notation
+angular velocity also defined antisymmetric second order tensor components ij relation two antisymmetric tensors given moment inertia must fourth order tensor
+equation l tensors true number dimensions equation also appears geometric algebra formalism l bivectors moment inertia mapping
+relativistic mechanics relativistic angular momentum particle expressed antisymmetric tensor second order
+language fourvectors namely four position x four momentum p absorbs l together motion centre mass particle
+cases system particles total angular momentum sum individual particle angular momenta centre mass system
+angular momentum quantum mechanics
+angular momentum quantum mechanics differs many profound respects angular momentum classical mechanics relativistic quantum mechanics differs even relativistic definition becomes tensorial operator
+spin orbital total angular momentum
+classical definition angular momentum carried quantum mechanics reinterpreting r quantum position operator p quantum momentum operator l operator specifically called orbital angular momentum operator
+however quantum physics another type angular momentum called spin angular momentum represented spin operator almost elementary particles spin spin often depicted particle literally spinning around axis misleading inaccurate picture spin intrinsic property particle unrelated sort motion space fundamentally different orbital angular momentum elementary particles characteristic spin example electrons always spin actually means spin photons always spin actually means spin
+finally total angular momentum j combines spin orbital angular momentum particles fields one particle j l conservation angular momentum applies j l example spinorbit interaction allows angular momentum transfer back forth l total remaining constant
+quantization
+quantum mechanics angular momentum quantized cannot vary continuously quantum leaps certain allowed values system following restrictions measurement results apply reduced planck constant direction vector x y z
+additional restrictions well see angular momentum operator details
+reduced planck constant tiny everyday standards j therefore quantization noticeably affect angular momentum macroscopic objects however important microscopic world example structure electron shells subshells chemistry significantly affected quantization angular momentum
+quantization angular momentum first postulated niels bohr bohr model atom later predicted erwin schrdinger schrdinger equation
+uncertainty
+definition six operators involved position operators momentum operators however heisenberg uncertainty principle tells us possible six quantities known simultaneously arbitrary precision therefore limits known measured particles angular momentum turns best one simultaneously measure angular momentum vectors magnitude component along one axis
+uncertainty closely related fact different components angular momentum operator commute example precise commutation relations see angular momentum operator
+total angular momentum generator rotations
+mentioned orbital angular momentum l defined classical mechanics total angular momentum j defined different basic way j defined generator rotations specifically j defined operator
+rotation operator takes system rotates angle axis exp formula refers operator exponential
+relationship angular momentum operator rotation operators relationship lie algebras lie groups mathematics close relationship angular momentum rotations reflected noethers theorem proves angular momentum conserved whenever laws physics rotationally invariant
+angular momentum electrodynamics
+describing motion charged particle electromagnetic field canonical momentum p derived lagrangian system gauge invariant consequence canonical angular momentum l r p gauge invariant either instead momentum physical socalled kinetic momentum used throughout article si units
+e electric charge particle magnetic vector potential electromagnetic field gaugeinvariant angular momentum kinetic angular momentum given
+interplay quantum mechanics discussed article canonical commutation relations
+angular momentum optics
+classical maxwell electrodynamics pointing vector linear momentum density electromagnetic field
+angular momentum density vector given vector product classical mechanics
+identities valid locally ie space point given moment
+history
+newton principia hinted angular momentum examples first law motion
+top whose parts cohesion perpetually drawn aside rectilinear motions cease rotation otherwise retarded air greater bodies planets comets meeting less resistance free spaces preserve motions progressive circular much longer time
+investigate angular momentum directly principia
+kind reflexions also sometimes arise circular motions bodies centres cases consider follows would tedious demostrate every particular relates subject
+however geometric proof law areas outstanding example newtons genius indirectly proves angular momentum conservation case central force
+law areas
+newtons derivation
+planet orbits sun line sun planet sweeps equal areas equal intervals time known since kepler expounded second law planetary motion newton derived unique geometric proof went show attractive force suns gravity cause keplers laws
+first interval time object motion point point b undisturbed would continue point c second interval object arrives b receives impulse directed toward point impulse gives small added velocity toward velocity would move b v second interval rules velocity composition two velocities add point c found construction parallelogram bccv thus objects path deflected impulse arrives point c end second interval triangles sbc sbc base sb height bc vc area symmetry triangle sbc also area triangle sab therefore object swept equal areas sab sbc equal times
+point c object receives another impulse toward deflecting path third interval d d thus continues e beyond triangles sab sbc sbc scd scd sde sde area allowing time intervals become ever smaller path abcde approaches indefinitely close continuous curve
+note derivation geometric specific force applied proves general law keplers second law planetary motion shows law areas applies central force attractive repulsive continuous noncontinuous zero
+conservation angular momentum law areas
+proportionality angular momentum area swept moving object understood realizing bases triangles lines object equivalent radius r heights triangles proportional perpendicular component velocity v hence area swept per unit time constant triangular area formula baseheight product baseheight therefore product rv constant r base length decreased v height must increase proportionally mass constant therefore angular momentum rmv conserved exchange distance velocity
+case triangle sbc area equal sbvc wherever c eventually located due impulse applied b product sbvc therefore rmv remain constant similarly triangles
+newton
+leonhard euler daniel bernoulli patrick darcy understood angular momentum terms conservation areal velocity result analysis keplers second law planetary motion unlikely realized implications ordinary rotating matter
+euler like newton touched equations angular momentum mechanica without developing
+bernoulli wrote letter moment rotational motion possibly first conception angular momentum understand
+pierresimon laplace first realized fixed plane associated rotation invariable plane
+louis poinsot began representing rotations line segment perpendicular rotation elaborated conservation moments
+lon foucault used gyroscope experiment display earths rotation
+william j m rankines manual applied mechanics defined angular momentum modern sense first time
+line whose length proportional magnitude angular momentum whose direction perpendicular plane motion body fixed point motion body viewed extremity line radiusvector body seems righthanded rotation
+edition book rankine stated term angular momentum introduced mr hayward probably referring rb haywards article direct method estimating velocities accelerations similar quantities respect axes moveable manner space applications introduced published rankine mistaken numerous publications feature term starting late th early th centuries however haywards article apparently first use term concept seen much englishspeaking world angular momentum typically referred momentum rotation english
+see also
+footnotes
+references
+cohentannoudji claude diu bernard lalo franck quantum mechanics volume set ed john wiley sons isbn
+condon e u shortley g h especially chapter theory atomic spectra cambridge university press isbn
+edmonds r angular momentum quantum mechanics princeton university press isbn
+jackson john david classical electrodynamics rd ed john wiley sons isbn
+serway raymond jewett john w physics scientists engineers th ed brookscole isbn
+thompson william j angular momentum illustrated guide rotational symmetries physical systems wiley isbn x
+tipler paul physics scientists engineers mechanics oscillations waves thermodynamics th ed w h freeman isbn
+feynman r leighton r sands m rotational kinetic energy feynman lectures physics online edition feynman lectures website september
+external links
+conservation angular momentum chapter online textbook
+angular momentum collision process derivation threedimensional case

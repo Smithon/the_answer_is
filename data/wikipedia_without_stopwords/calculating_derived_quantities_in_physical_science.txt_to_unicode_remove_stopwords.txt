@@ -1,0 +1,90 @@
+ohms law states current conductor two points directly proportional voltage across two points introducing constant proportionality resistance one arrives usual mathematical equation describes relationship
+current conductor units amperes v voltage measured across conductor units volts r resistance conductor units ohms specifically ohms law states r relation constant independent current
+law named german physicist georg ohm treatise published described measurements applied voltage current simple electrical circuits containing various lengths wire presented slightly complex equation one see history section explain experimental results equation modern form ohms law
+physics term ohms law also used refer various generalizations law originally formulated ohm simplest example
+j current density given location resistive material e electric field location sigma materialdependent parameter called conductivity reformulation ohms law due gustav kirchhoff
+history
+january georg ohms work henry cavendish experimented leyden jars glass tubes varying diameter length filled salt solution measured current noting strong shock felt completed circuit body cavendish wrote velocity current varied directly degree electrification voltage communicate results scientists time results unknown maxwell published
+ohm work resistance years published results book die galvanische kette mathematisch bearbeitet galvanic circuit investigated mathematically drew considerable inspiration fouriers work heat conduction theoretical explanation work experiments initially used voltaic piles later used thermocouple provided stable voltage source terms internal resistance constant voltage used galvanometer measure current knew voltage thermocouple terminals proportional junction temperature added test wires varying length diameter material complete circuit found data could modeled equation
+x reading galvanometer l length test conductor depended thermocouple junction temperature b constant entire setup ohm determined law proportionality published results
+ohms law probably important early quantitative descriptions physics electricity consider almost obvious today ohm first published work case critics reacted treatment subject hostility called work web naked fancies german minister education proclaimed professor preached heresies unworthy teach science prevailing scientific philosophy germany time asserted experiments need performed develop understanding nature nature well ordered scientific truths may deduced reasoning alone also ohms brother martin mathematician battling german educational system factors hindered acceptance ohms work work become widely accepted fortunately ohm received recognition contributions science well died
+ohms law known widely considered proved alternatives barlows law discredited terms real applications telegraph system design discussed samuel f b morse
+old term electrical conductance mho inverse resistance unit ohm still used new name siemens adopted honoring ernst werner von siemens siemens preferred formal papers
+discovered current practical resistor actually statistical fluctuations depend temperature even voltage resistance exactly constant fluctuation known johnsonnyquist noise due discrete nature charge thermal effect implies measurements current voltage taken sufficiently short periods time yield ratios vi fluctuate value r implied time average ensemble average measured current ohms law remains correct average current case ordinary resistive materials
+ohms work long preceded maxwells equations understanding frequencydependent effects ac circuits modern developments electromagnetic theory circuit theory contradict ohms law evaluated within appropriate limits
+scope
+ohms law empirical law generalization many experiments shown current approximately proportional electric field materials less fundamental maxwells equations always obeyed given material break strongenough electric field materials interest electrical engineering nonohmic weak fields
+ohms law observed wide range length scales early th century thought ohms law would fail atomic scale experiments borne expectation researchers demonstrated ohms law works silicon wires small four atoms wide one atom high
+microscopic origins
+dependence current density applied electric field essentially quantum mechanical nature see classical quantum conductivity qualitative description leading ohms law based upon classical mechanics using drude model developed paul drude
+drude model treats electrons charge carriers like pinballs bouncing among ions make structure material electrons accelerated opposite direction electric field average electric field location collision though electron deflected random direction velocity much larger velocity gained electric field net result electrons take zigzag path due collisions generally drift direction opposing electric field
+drift velocity determines electric current density relationship e independent collisions drude calculated average drift velocity p ee p average momentum e charge electron average time collisions since momentum current density proportional drift velocity current density becomes proportional applied electric field leads ohms law
+hydraulic analogy
+hydraulic analogy sometimes used describe ohms law water pressure measured pascals psi analog voltage establishing water pressure difference two points along horizontal pipe causes water flow water flow rate liters per second analog current coulombs per second finally flow restrictorssuch apertures placed pipes points water pressure measuredare analog resistors say rate water flow aperture restrictor proportional difference water pressure across restrictor similarly rate flow electrical charge electric current electrical resistor proportional difference voltage measured across resistor
+flow pressure variables calculated fluid flow network use hydraulic ohm analogy method applied steady transient flow situations linear laminar flow region poiseuilles law describes hydraulic resistance pipe turbulent flow region pressureflow relations become nonlinear
+hydraulic analogy ohms law used example approximate blood flow circulatory system
+circuit analysis
+circuit analysis three equivalent expressions ohms law used interchangeably
+equation quoted sources defining relationship ohms law three quoted derived proportional form even two correspond ohms original statement may sometimes given
+interchangeability equation may represented triangle v voltage placed top section current placed left section r resistance placed right line divides left right sections indicate multiplication divider top bottom sections indicates division hence division bar
+resistive circuits
+resistors circuit elements impede passage electric charge agreement ohms law designed specific resistance value r schematic diagram resistor shown zigzag symbol element resistor conductor behaves according ohms law operating range referred ohmic device ohmic resistor ohms law single value resistance suffice describe behavior device range
+ohms law holds circuits containing resistive elements capacitances inductances forms driving voltage current regardless whether driving voltage current constant dc timevarying ac instant time ohms law valid circuits
+resistors series parallel may grouped together single equivalent resistance order apply ohms law analyzing circuit
+reactive circuits timevarying signals
+reactive elements capacitors inductors transmission lines involved circuit ac timevarying voltage current applied relationship voltage current becomes solution differential equation ohms law defined directly apply since form contains resistances value r complex impedances may contain capacitance c inductance l
+equations timeinvariant ac circuits take form ohms law however variables generalized complex numbers current voltage waveforms complex exponentials
+approach voltage current waveform takes form time complex parameter complex scalar linear timeinvariant system currents voltages expressed parameter input system allowing timevarying complex exponential term canceled system described algebraically terms complex scalars current voltage waveforms
+complex generalization resistance impedance usually denoted z shown inductor
+capacitor
+write
+v complex scalars voltage current respectively z complex impedance
+form ohms law z taking place r generalizes simpler form z complex real part responsible dissipating heat
+general ac circuit z varies strongly frequency parameter also relationship voltage current
+common case steady sinusoid parameter taken corresponding complex sinusoid real parts complex current voltage waveforms describe actual sinusoidal currents voltages circuit different phases due different complex scalars
+linear approximations
+ohms law one basic equations used analysis electrical circuits applies metal conductors circuit components resistors specifically made behaviour ubiquitous electrical engineering materials components obey ohms law described ohmic means produce value resistance r vi regardless value v applied whether applied voltage current dc direct current either positive negative polarity ac alternating current
+true ohmic device value resistance calculated r vi regardless value applied voltage v ratio vi constant current plotted function voltage curve linear straight line voltage forced value v voltage v divided measured current equal r current forced value measured voltage v divided current also r since plot versus v straight line also true set two different voltages v v applied across given device resistance r producing currents vr vr ratio vvii also constant equal r operator delta used represent difference quantity write v vv ii summarizing truly ohmic device resistance r vi vi r applied voltage current difference set applied voltages currents
+however components electrical circuits obey ohms law relationship current voltage iv curve nonlinear nonohmic example pn junction diode curve right seen figure current increase linearly applied voltage diode one determine value current given value applied voltage v curve ohms law since value resistance constant function applied voltage current increases significantly applied voltage positive negative ratio vi point along nonlinear curve sometimes called static chordal dc resistance seen figure value total v total varies depending particular point along nonlinear curve chosen means dc resistance vi point curve would determined applying ac signal peak amplitude v volts amps centered point along curve measuring vi however diode applications ac signal applied device small possible analyze circuit terms dynamic smallsignal incremental resistance defined one slope vi curve average value dc operating point voltage one derivative current respect voltage sufficiently small signals dynamic resistance allows ohms law small signal resistance calculated approximately one slope line drawn tangentially vi curve dc operating point
+temperature effects
+ohms law sometimes stated conductor given state electromotive force proportional current produced resistance ratio applied electromotive force voltage current vary current strength qualifier given state usually interpreted meaning constant temperature since resistivity materials usually temperature dependent conduction current related joule heating conducting body according joules first law temperature conducting body may change carries current dependence resistance temperature therefore makes resistance depend upon current typical experimental setup making law form difficult directly verify maxwell others worked several methods test law experimentally controlling heating effects
+relation heat conductions
+ohms principle predicts flow electrical charge ie current electrical conductors subjected influence voltage differences jeanbaptistejoseph fouriers principle predicts flow heat heat conductors subjected influence temperature differences
+equation describes phenomena equations variables taking different meanings two cases specifically solving heat conduction fourier problem temperature driving force flux heat rate flow driven quantity ie heat energy variables also solves analogous electrical conduction ohm problem electric potential driving force electric current rate flow driven quantity ie charge variables
+basis fouriers work clear conception definition thermal conductivity assumed else flux heat strictly proportional gradient temperature although undoubtedly true small temperature gradients strictly proportional behavior lost real materials eg ones thermal conductivity function temperature subjected large temperature gradients
+similar assumption made statement ohms law things alike strength current point proportional gradient electric potential accuracy assumption flow proportional gradient readily tested using modern measurement methods electrical case heat case
+versions
+ohms law form extremely useful equation field electricalelectronic engineering describes voltage current resistance interrelated macroscopic level commonly circuit elements electrical circuit physicists study electrical properties matter microscopic level use closely related general vector equation sometimes also referred ohms law variables closely related v r scalar variables ohms law functions position within conductor physicists often use continuum form ohms law
+e electric field vector units volts per meter analogous v ohms law units volts j current density vector units amperes per unit area analogous ohms law units amperes greek rho resistivity units ohmmeters analogous r ohms law units ohms equation sometimes written j e greek sigma conductivity reciprocal
+voltage two points defined
+element path along integration electric field vector e applied e field uniform oriented along length conductor shown figure defining voltage v usual convention opposite direction field see figure understanding voltage v measured differentially across length conductor allowing us drop symbol vector equation reduces scalar equation
+since e field uniform direction wire length conductor uniformly consistent resistivity current density j also uniform crosssectional area oriented direction wire length may write
+substituting results e j respectively continuum form shown beginning section
+electrical resistance uniform conductor given terms resistivity
+l length conductor si units meters crosssectional area round wire r r radius units meters squared resistivity units ohmmeters
+substitution r equation equation preceding continuum form ohms law uniform field uniform current density oriented along length conductor reduces familiar form
+perfect crystal lattice low enough thermal motion deviations periodic structure would resistivity real metal crystallographic defects impurities multiple isotopes thermal motion atoms electrons scatter resulting resistance flow
+complex generalized forms ohms law important condensed matter physics studies properties matter particular electronic structure broad terms fall topic constitutive equations theory transport coefficients
+magnetic effects
+external bfield present conductor rest moving velocity v extra term must added account current induced lorentz force charge carriers
+rest frame moving conductor term drops v contradiction electric field rest frame differs efield lab frame e e vb electric magnetic fields relative see lorentz transformation
+current j alternating applied voltage efield varies time reactance must added resistance account selfinductance see electrical impedance reactance may strong frequency high conductor coiled
+conductive fluids
+conductive fluid plasma similar effect consider fluid moving velocity magnetic field relative motion induces electric field exerts electric force charged particles giving rise electric current equation motion electron gas number density written
+charge mass velocity electrons respectively also frequency collisions electrons ions velocity field since electron small mass compared ions ignore left hand side equation write
+used definition current density also put electrical conductivity equation also equivalently written
+electrical resistivity also common write instead confusing since notation used magnetic diffusivity defined
+see also
+ficks law diffusion
+hopkinsons law ohms law magnetics
+maximum power transfer theorem
+nortons theorem
+sheet resistance
+superposition theorem
+thermal noise
+thvenins theorem
+references
+external links
+john c shedd mayo d hersheythe history ohms law popular science december pages bonnier corporation issn gives history ohms investigations prior work ohms false equation first paper illustration ohms experimental apparatus
+morton l schagrin resistance ohms law american journal physics july volume issue pp explores conceptual change underlying ohms experimental work
+kenneth l caneva ohm georg simon complete dictionary scientific biography

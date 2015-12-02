@@ -1,0 +1,123 @@
+electromagnetism electronics inductance property electrical conductor change current flowing induces electromotive force conductor nearby conductors mutual inductance
+effects derived two fundamental observations physics steady current creates steady magnetic field described oersteds law timevarying magnetic field induces electromotive force nearby conductors described faradays law induction according lenzs law changing electric current circuit contains inductance induces proportional voltage opposes change current selfinductance varying field circuit may also induce emf neighbouring circuits mutual inductance
+term inductance coined oliver heaviside customary use symbol l inductance honour physicist heinrich lenz si system measurement unit inductance henry unit symbol h named honor joseph henry discovered inductance independently faraday
+circuit analysisedit
+electronic component intended add inductance circuit called inductor inductors typically manufactured coils wire design delivers two desired properties concentration magnetic field small physical space linking magnetic field circuit multiple times
+relationship selfinductance l electrical circuit voltage vt current circuit
+voltage induced across inductor back emf equal product inductors inductance rate change current inductor
+circuits practice inductance may beneficial detrimental effects tuned circuit inductance used provide frequencyselective circuit practical inductors may used provide filtering energy storage given network inductance per unit length transmission line one properties determines characteristic impedance balancing inductance capacitance cables important distortionfree telegraphy telephony inductance long ac power transmission lines effects power capacity line sensitive circuits microphone computer network cables may utilize special cabling construction limiting inductive coupling circuits
+generalization case k electrical circuits currents im voltages vm reads
+inductance l symmetric matrix diagonal coefficients lmm called coefficients selfinductance offdiagonal elements called coefficients mutual inductance coefficients inductance constant long magnetizable material nonlinear characteristics involved direct consequence linearity maxwells equations fields current density coefficients inductance become functions currents nonlinear case
+derivation faradays law inductanceedit
+inductance equations consequence maxwells equations straightforward derivation important case electrical circuits consisting thin wires
+system k wire loops one several wire turns flux linkage loop m given
+nm denotes number turns loop m m magnetic flux loop lmn constants equation follows amperes law magnetic fields fluxes linear functions currents faradays law induction
+vm denotes voltage induced circuit m agrees definition inductance coefficients lmn identified coefficients inductance total currents nnin contribute m also follows lmn proportional product turns nmnn
+inductance magnetic field energyedit
+multiplying equation vm imdt summing m gives energy transferred system time interval dt
+must agree change magnetic field energy w caused currents integrability condition
+requires lmnlnm inductance matrix lmn thus symmetric integral energy transfer magnetic field energy function currents
+equation also direct consequence linearity maxwells equations helpful associate changing electric currents buildup decrease magnetic field energy corresponding energy transfer requires generates voltage mechanical analogy k case magnetic field energy li body mass m velocity u kinetic energy mu rate change velocity current multiplied mass inductance requires generates force electrical voltage
+coupled inductors mutual inductanceedit
+mutual inductance occurs change current one inductor induces voltage another nearby inductor important mechanism transformers work also cause unwanted coupling conductors circuit
+mutual inductance m also measure coupling two inductors mutual inductance circuit circuit j given double integral neumann formula see calculation techniques
+mutual inductance also relationship
+mutual inductance subscript specifies relationship voltage induced coil due current coil
+n number turns coil
+n number turns coil
+p permeance space occupied flux
+mutual inductance also relationship coupling coefficient coupling coefficient always convenient way specify relationship certain orientation inductors arbitrary inductance
+k coupling coefficient k
+l inductance first coil
+l inductance second coil
+mutual inductance m determined factor used predict behavior circuit
+v voltage across inductor interest
+l inductance inductor interest
+didt derivative respect time current inductor interest
+didt derivative respect time current inductor coupled first inductor
+m mutual inductance
+minus sign arises sense current defined diagram currents defined going dots sign m positive equation would read plus sign instead
+matrix representationedit
+circuit described twoport network parameter matrix representations direct z parameters given
+complex frequency variable
+equivalent circuitedit
+mutually coupled inductors equivalently represented tcircuit inductors shown coupling strong inductors unequal values series inductor stepdown side may take negative value
+analyzed two port network output terminated arbitrary impedance z voltage gain av given
+tightly coupled inductors k reduces
+independent load impedance inductors wound core geometry expression equal turns ratio two inductors inductance proportional square turns ratio
+input impedance network given
+k reduces
+thus current gain ai independent load unless condition
+met case
+tuned transformeredit
+either side transformer tuned circuit amount mutual inductance two windings together q factor circuit determine shape frequency response curve tuned circuit together transformer load form rlc circuit definite peak frequency response sides transformer tuned described doubletuned coupling doubletuned circuits described loose critical overcoupled depending value k two tuned circuits loosely coupled mutual inductance bandwidth narrow amount mutual inductance increases bandwidth continues grow mutual inductance increased beyond critical point peak response curve begins drop center frequency attenuated strongly direct sidebands known overcoupling
+ideal transformersedit
+k inductor referred closely coupled addition selfinductances go infinity inductor becomes ideal transformer case voltages currents number turns related following way
+vs voltage across secondary inductor
+vp voltage across primary inductor one connected power source
+ns number turns secondary inductor
+np number turns primary inductor
+conversely current
+current secondary inductor
+ip current primary inductor one connected power source
+ns number turns secondary inductor
+np number turns primary inductor
+note power one inductor power also note equations dont work inductors forced power sources
+calculation techniquesedit
+general case inductance calculated maxwells equations many important cases solved using simplifications high frequency currents considered skin effect surface current densities magnetic field may obtained solving laplace equation conductors thin wires selfinductance still depends wire radius distribution current wire current distribution approximately constant surface volume wire wire radius much smaller length scales
+mutual inductance two wire loopsedit
+mutual inductance filamentary circuit m filamentary circuit n given double integral neumann formula
+symbol denotes magnetic constant hm cm cn curves spanned wires see derivation equation
+selfinductance wire loopedit
+formally selfinductance wire loop would given equation m n problem however xx becomes infinite making necessary take finite wire radius distribution current wire account remain contribution integral points xx correction term
+l denote radius length wire y constant depends distribution current wire y current flows surface wire skin effect y current homogeneous across wire approximation accurate wires long compared crosssectional dimensions
+method imagesedit
+cases different current distributions generate magnetic field section space fact may used relate self inductances method images example consider two systems
+wire distance d front perfectly conducting wall return
+two parallel wires distance d opposite current
+magnetic field two systems coincides half space magnetic field energy inductance second system thus twice large first system
+relation inductance capacitanceedit
+inductance per length l capacitance per length c related special case transmission lines consisting two parallel perfect conductors arbitrary constant cross section
+denote dielectric constant magnetic permeability medium conductors embedded electric magnetic field inside conductors complete skin effect high frequency current flows one line returns signals propagate along transmission line speed electromagnetic radiation nonconductive medium enveloping conductors
+selfinductance simple electrical circuits airedit
+selfinductance many types electrical circuits given closed form examples listed table
+symbol denotes magnetic constant hm high frequencies electric current flows conductor surface skin effect depending geometry sometimes necessary distinguish low high frequency inductances purpose constant y y current uniformly distributed surface wire skin effect y current uniformly distributed cross section wire high frequency case conductors approach additional screening current flows surface expressions containing y become invalid
+inductance physical symmetryedit
+inductance solenoidedit
+solenoid long thin coil ie coil whose length much greater diameter conditions without magnetic material used magnetic flux density within coil practically constant given
+magnetic constant number turns current length coil ignoring end effects total magnetic flux coil obtained multiplying flux density crosssection area
+combined definition inductance
+follows inductance solenoid given
+table inductance short solenoids various diameter length ratios calculated dellinger whittmore ould
+inductance complicated shapes derived maxwells equations rigid aircore coils inductance function coil geometry number turns independent current
+similar analysis applies solenoid magnetic core length coil much greater product relative permeability magnetic core diameter limits simple analysis lowpermeability cores extremely long thin solenoids although rarely useful equations
+relative permeability material within solenoid
+follows inductance solenoid given
+n squared definition inductance
+note since permeability ferromagnetic materials changes applied magnetic flux inductance coil ferromagnetic core generally vary current
+inductance coaxial lineedit
+let inner conductor radius permeability let dielectric inner outer conductor permeability let outer conductor inner radius outer radius permeability assume dc current flows opposite directions two conductors uniform current density magnetic field generated currents points azimuthal direction function radius computed using ampres law
+flux per length region conductors computed drawing surface containing axis
+inside conductors l computed equating energy stored inductor energy stored magnetic field
+cylindrical geometry dependence energy per unit length
+inductance per unit length inner conductor integral righthandside outer conductor
+solving summing terms region together gives total inductance per unit length
+however typical coaxial line application interested passing nondc signals frequencies resistive skin effect cannot neglected cases inner outer conductor terms negligible case one may approximate
+phasor circuit analysis impedanceedit
+signals current voltage sine using phasors equivalent impedance inductance given
+j imaginary unit
+l inductance
+f angular frequency
+f frequency
+l xl inductive reactance
+nonlinear inductanceedit
+many inductors make use magnetic materials materials large enough range exhibit nonlinear permeability effects saturation turn saturation makes resulting inductance function applied current faradays law still holds inductance ambiguous different whether calculating circuit parameters magnetic fluxes
+secant largesignal inductance used flux calculations defined
+differential smallsignal inductance hand used calculating voltage defined
+circuit voltage nonlinear inductor obtained via differential inductance shown faradays law chain rule calculus
+similar definitions nonlinear mutual inductances
+see alsoedit
+referencesedit
+general referencesedit
+external linksedit
+clemson vehicular electronics laboratory inductance calculator

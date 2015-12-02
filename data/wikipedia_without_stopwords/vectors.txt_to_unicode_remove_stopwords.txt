@@ -1,0 +1,56 @@
+ionization energy ie qualitatively defined amount energy required remove loosely bound electron isolated gaseous atom form cation quantitatively expressed symbols
+x energy x e
+x atom molecule capable ionized x atom molecule electron removed e removed electron endothermic process
+comparison ies atoms periodic table reveals two patterns ies generally increase one moves left right within given row period ies decrease one moves row period period given column latter due outer electron shell progressively away nucleus addition one inner shell per row one moves column
+units ionization energy different physics chemistry physics unit amount energy required remove single electron single atom moleculeexpressed electron volt chemistry units amount energy takes atoms mole substance lose one electron molar ionization energy enthalpy expressed kilojoules per mole kjmol kilocalories per mole kcalmol
+nth ionization energy refers amount energy required remove electron species charge n example first three ionization energies defined follows
+st ionization energy
+x x e
+nd ionization energy
+x x e
+rd ionization energy
+x x e
+term ionization potential older name ionization energy oldest method measuring ionization energies based ionizing sample accelerating electron removed using electrostatic potential however term considered obsolete factors affecting ionization potential include
+nuclear charge
+number electron shells
+screening effect
+type orbital ionized
+occupancy ionized orbital completely filled half filled
+values trendsedit
+generally nth ionization energy larger nth ionization energy next ionization energy involves removing electron electron shell increase ionization energy primarily due increased net charge ion electron removed electrons removed highly charged ions particular element experience greater forces electrostatic attraction thus removal requires energy addition next ionization energy involves removing electron lower electron shell greatly decreased distance nucleus electron also increases electrostatic force distance force must overcome remove electron factors increase ionization energy
+values elements third period given following table
+large jumps successive molar ionization energies occur passing noble gas configurations example seen table first two molar ionization energies magnesium stripping two electrons magnesium atom much smaller third requires stripping p electron neon configuration mg electron much closer nucleus previous electron
+ionization energy also periodic trend within periodic table organization moving left right within period upward within group first ionization energy generally increases discrepancies aluminum sulphur nuclear charge nucleus increases across period atomic radius decreases electron cloud becomes closer towards nucleus
+ionization energy increases left right period decreases top bottom group
+electrostatic explanationedit
+atomic ionization energy predicted analysis using electrostatic potential bohr model atom follows note derivation uses gaussian units
+consider electron charge e atomic nucleus charge ze z number protons nucleus according bohr model electron approach bond atom would come rest certain radius electrostatic potential v distance ionic nucleus referenced point infinitely far away
+since electron negatively charged drawn inwards positive electrostatic potential energy required electron climb leave atom
+analysis incomplete leaves distance unknown variable made rigorous assigning electron every chemical element characteristic distance chosen relation agrees experimental data
+possible expand model considerably taking semiclassical approach momentum quantized approach works well hydrogen atom one electron magnitude angular momentum circular orbit
+total energy atom sum kinetic potential energies
+velocity eliminated kinetic energy term setting coulomb attraction equal centripetal force giving
+solving angular momentum v substituting expression kinetic energy
+establishes dependence radius n
+energy found terms z e r using new value kinetic energy total energy equation found
+smallest value n equal r bohr radius equals equation energy established terms bohr radius gives result
+quantummechanical explanationedit
+according complete theory quantum mechanics location electron best described probability distribution within electron cloud ie atomic orbital energy calculated integrating cloud clouds underlying mathematical representation wavefunction built slater determinants consisting molecular spin orbitals related paulis exclusion principle antisymmetrized products atomic molecular orbitals
+general calculating nth ionization energy requires calculating energies electron systems calculating energies exactly possible except simplest systems ie hydrogen primarily difficulties integrating electron correlation terms therefore approximation methods routinely employed different methods varying complexity computational time accuracy compared empirical data become wellstudied problem routinely done computational chemistry lowest level approximation ionization energy provided koopmans theorem
+vertical adiabatic ionization energy moleculesedit
+ionization molecules often leads changes molecular geometry two types first ionization energy defined adiabatic vertical
+adiabatic ionization energy adiabatic ionization energy molecule minimum amount energy required remove electron neutral molecule ie difference energy vibrational ground state neutral species v level positive ion v specific equilibrium geometry species affect value
+vertical ionization energy due possible changes molecular geometry may result ionization additional transitions may exist vibrational ground state neutral species vibrational excited states positive ion words ionization accompanied vibrational excitation intensity transitions explained franckcondon principle predicts probable intense transition corresponds vibrational excited state positive ion geometry neutral molecule transition referred vertical ionization energy since represented completely vertical line potential energy diagram see figure
+diatomic molecule geometry defined length single bond removal electron bonding molecular orbital weakens bond increases bond length figure lower potential energy curve neutral molecule upper surface positive ion curves plot potential energy function bond length horizontal lines correspond vibrational levels associated vibrational wave functions since ion weaker bond longer bond length effect represented shifting minimum potential energy curve right neutral species adiabatic ionization diagonal transition vibrational ground state ion vertical ionization involves vibrational excitation ionic state therefore requires greater energy
+many circumstances adiabatic ionization energy often interesting physical quantity since describes difference energy two potential energy surfaces however due experimental limitations adiabatic ionization energy often difficult determine whereas vertical detachment energy easily identifiable measurable
+analogs ionization energy systemsedit
+term ionization energy largely used gasphase atomic molecular species number analogous quantities consider amount energy required remove electron physical systems
+electron binding energy generic term ionization energy used species charge state example electron binding energy chloride ion minimum amount energy required remove electron chlorine atom charge particular example electron binding energy magnitude electron affinity neutral chlorine atom another example electron binding energy refers minimum amount energy required remove electron dicarboxylate dianion occhco
+work function minimum amount energy required remove electron solid surface
+see alsoedit
+electron affinity closely related concept describing energy released adding electron neutral atom molecule
+work function energy required strip electron solid outside surface
+electronegativity number shares similarities ionization energy
+koopmans theorem regarding predicted ionization energies hartreefock theory
+ditungsten tetrahpp lowest recorded ionization energy stable chemical compound
+referencesedit

@@ -1,0 +1,87 @@
+following outline presented overview topical guide air pollution dispersion
+air pollution dispersion distribution air pollution atmosphere air pollution introduction particulates biological molecules harmful materials earths atmosphere causing disease death humans damage living organisms food crops natural built environment air pollution may come anthropogenic natural sources dispersion refers happens pollution introduction understanding may help identifying controlling air pollution dispersion become focus environmental conservationists governmental environmental protection agencies local state province national many countries adopted used much terminology field laws regulations regarding air pollution control
+air pollution emission plumes
+air pollution emission plume flow pollutant form vapor smoke released air plumes considerable importance atmospheric dispersion modelling air pollution three primary types air pollution emission plumes
+buoyant plumes plumes lighter air higher temperature lower density ambient air surrounds temperature ambient air lower molecular weight hence lower density ambient air example emissions flue gas stacks industrial furnaces buoyant considerably warmer less dense ambient air another example emission plume methane gas ambient air temperatures buoyant methane lower molecular weight ambient air
+dense gas plumes plumes heavier air higher density surrounding ambient air plume may higher density air higher molecular weight air example plume carbon dioxide plume may also higher density air plume much lower temperature air example plume evaporated gaseous methane accidental release liquefied natural gas lng may cold c
+passive neutral plumes plumes neither lighter heavier air
+air pollution dispersion models
+five types air pollution dispersion models well hybrids five types
+box model box model simplest model types assumes airshed ie given volume atmospheric air geographical region shape box also assumes air pollutants inside box homogeneously distributed uses assumption estimate average pollutant concentrations anywhere within airshed although useful model limited ability accurately predict dispersion air pollutants airshed assumption homogeneous pollutant distribution much simple
+gaussian model gaussian model perhaps oldest circa perhaps commonly used model type assumes air pollutant dispersion gaussian distribution meaning pollutant distribution normal probability distribution gaussian models often used predicting dispersion continuous buoyant air pollution plumes originating groundlevel elevated sources gaussian models may also used predicting dispersion noncontinuous air pollution plumes called puff models primary algorithm used gaussian modeling generalized dispersion equation continuous pointsource plume
+lagrangian model lagrangian dispersion model mathematically follows pollution plume parcels also called particles parcels move atmosphere model motion parcels random walk process lagrangian model calculates air pollution dispersion computing statistics trajectories large number pollution plume parcels lagrangian model uses moving frame reference parcels move initial location said observer lagrangian model follows along plume
+eulerian model eulerian dispersions model similar lagrangian model also tracks movement large number pollution plume parcels move initial location important difference two models eulerian model uses fixed threedimensional cartesian grid frame reference rather moving frame reference said observer eulerian model watches plume go
+dense gas model dense gas models models simulate dispersion dense gas pollution plumes ie pollution plumes heavier air three commonly used dense gas models
+degadis model developed dr jerry havens dr tom spicer university arkansas commission us coast guard us epa
+slab model developed lawrence livermore national laboratory funded us department energy us air force american petroleum institute
+hegadas model developed shell oils research division
+air pollutant emission
+types air pollutant emission sources named characteristics
+sources shape four basic shapes emmission source may
+point source single identifiable source air pollutant emissions example emissions combustion furnace flue gas stack point sources also characterized either elevated groundlevel point source geometric dimensions
+line source onedimensional source air pollutant emissions example emissions vehicular traffic roadway
+area source twodimensional source diffuse air pollutant emissions example emissions forest fire landfill evaporated vapors large spill volatile liquid
+volume source threedimensional source diffuse air pollutant emissions essentially area source third height dimension example fugitive gaseous emissions piping flanges valves equipment various heights within industrial facilities oil refineries petrochemical plants another example would emissions automobile paint shop multiple roof vents multiple open windows
+sources motion
+stationary source flue gas stacks examples stationary sources
+mobile source buses examples mobile sources
+sources urbanization level whether source within city relevant urban areas constitute socalled heat island heat rising urban area causes atmosphere urban area turbulent atmosphere rural area
+urban source emission urban area
+rural source emission rural area
+sources elevation
+surface groundlevel source
+near surface source
+elevated source
+sources duration
+puff intermittent source short term sources example many accidental emission releases short term puffs
+continuous source long term source example flue gas stack emissions continuous
+characterization atmospheric turbulence
+effect turbulence dispersion turbulence increases entrainment mixing unpolluted air plume thereby acts reduce concentration pollutants plume ie enhances plume dispersion therefore important categorize amount atmospheric turbulence present given time
+pasquill atmospheric stability classes
+pasquill atmospheric stability classes oldest great many years commonly used method categorizing amount atmospheric turbulence present method developed pasquill categorized atmospheric turbulence six stability classes named b c d e f class unstable turbulent class class f stable least turbulent class table lists six classes table provides meteorological conditions define class
+table pasquill stability classes
+table meteorological conditions define pasquill stability classes
+data availability
+historical stability class data known stability array star data sites within usa purchased national climatic data center ncdc
+advanced methods categorizing atmospheric turbulence
+advanced air pollution dispersion models categorize atmospheric turbulence using simple meteorological parameters commonly used defining six pasquill classes shown table advanced models use form moninobukhov similarity theory examples include
+aermod us epas advanced model longer uses pasquill stability classes categorize atmospheric turbulence instead uses surface roughness length moninobukhov length
+adms united kingdoms advanced model uses moninobukhov length boundary layer height windspeed categorize atmospheric turbulence
+miscellaneous terminology
+work section continuously progress
+building effects downwash air pollution plume flows nearby buildings structures turbulent eddies formed downwind side building eddies cause plume stack source located within five times height nearby building structure forced ground much sooner would building structure present effect greatly increase resulting nearby groundlevel pollutant concentrations downstream building structure pollutants plume subject depletion contact ground particulates example concentration increase downstream building structure decrease concentrations downstream
+deposition pollution plume components underlying surface defined either dry wet deposition
+dry deposition removal gaseous particulate material pollution plume contact ground surface vegetation even water surfaces transfer processes absorption gravitational sedimentation may calculated means deposition velocity related resistance underlying surface transfer
+wet deposition removal pollution plume components action rain wet deposition radionuclides pollution plume burst rain often forms called hot spots radioactivity underlying surface
+inversion layers normally air near earths surface warmer air atmosphere heated solar radiation warms earths surface turn warms layer atmosphere directly thus atmospheric temperature normally decreases increasing altitude however certain meteorological conditions atmospheric layers may form temperature increases increasing altitude layers called inversion layers layer forms earths surface called surface inversion inversion layer forms distance earth called inversion aloft sometimes referred capping inversion air within inversion aloft stable little vertical motion rising parcel air within inversion soon expands thereby adiabatically cooling lower temperature surrounding air parcel stops rising sinking parcel soon compresses adiabatically higher temperature surrounding air parcel stops sinking thus air pollution plume enters inversion aloft undergo little vertical mixing unless sufficient momentum completely pass inversion aloft one reason inversion aloft sometimes called capping inversion
+mixing height inversion aloft formed atmospheric layer earths surface bottom inversion aloft known mixing layer distance earths surface bottom inversion aloft known mixing height air pollution plume dispersing beneath inversion aloft limited vertical mixing occurs beneath bottom inversion aloft sometimes called lid even pollution plume penetrates inversion undergo significant vertical mixing pollution plume passing completely inversion layer aloft rarely occurs unless pollution plumes source stack tall inversion lid fairly low
+see also
+air pollution dispersion models
+adms atmospheric dispersion modelling system advanced atmospheric pollution dispersion model calculating concentrations atmospheric pollutants emitted continuously point line volume area sources intermittently point sources
+austal
+aermod
+calpuff
+dispersion
+isc
+mercure
+name dispersion model
+panache
+phast
+puffplume
+sirane
+others
+bibliography atmospheric dispersion modeling
+ap compilation air pollutant emission factors
+atmospheric dispersion modeling
+roadway air dispersion modeling
+useful conversions formulas air dispersion modeling
+list atmospheric dispersion models
+yamartino method
+references
+reading
+turner db workbook atmospheric dispersion estimates introduction dispersion modeling nd ed crc press isbn x wwwcrcpresscom
+beychok milton r fundamentals stack gas dispersion th ed authorpublished isbn wwwairdispersioncom
+external links
+air pollution dispersion modeling terminology citizendium article
+epas preferredrecommended models us epas website
+model documententation system mds european topic centre air climate change part european environment agency

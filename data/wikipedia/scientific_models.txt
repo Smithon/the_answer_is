@@ -1,0 +1,87 @@
+scientific modelling is a scientific activity the aim of which is to make a particular part or feature of the world easier to understand define quantify visualize or simulate by referencing it to existing and usually commonly accepted knowledge it requires selecting and identifying relevant aspects of a situation in the real world and then using different types of models for different aims such as conceptual models to better understand operational models to operationalize mathematical models to quantify and graphical models to visualize the subject modelling is an essential and inseparable part of scientific activity and many scientific disciplines have their own ideas about specific types of modelling
+there is also an increasing attention to scientific modelling in fields such as science education philosophy of science systems theory and knowledge visualization there is growing collection of methods techniques and meta-theory about all kinds of specialized scientific modelling
+== overview ==
+a scientific model seeks to represent empirical objects phenomena and physical processes in a logical and objective way all models are in simulacra that is simplified reflections of reality that despite being approximations can be extremely useful building and disputing models is fundamental to the scientific enterprise complete and true representation may be impossible but scientific debate often concerns which is the better model for a given task e.g. which is the more accurate climate model for seasonal forecasting
+attempts to formalize the principles of the empirical sciences use an interpretation to model reality in the same way logicians axiomatize the principles of logic the aim of these attempts is to construct a formal system that will not produce theoretical consequences that are contrary to what is found in reality predictions or other statements drawn from such a formal system mirror or map the real world only insofar as these scientific models are true
+for the scientist a model is also a way in which the human thought processes can be amplified for instance models that are rendered in software allow scientists to leverage computational power to simulate visualize manipulate and gain intuition about the entity phenomenon or process being represented such computer models are in silico other types of scientific model are in vivo (living models such as laboratory rats) and in vitro (in glassware such as tissue culture)
+== basics of scientific modelling ==
+=== modelling as a substitute for direct measurement and experimentation ===
+models are typically used when it is either impossible or impractical to create experimental conditions in which scientists can directly measure outcomes direct measurement of outcomes under controlled conditions (see scientific method) will always be more reliable than modelled estimates of outcomes
+=== simulation ===
+a simulation is the implementation of a model a steady state simulation provides information about the system at a specific instant in time (usually at equilibrium if such a state exists) a dynamic simulation provides information over time a simulation brings a model to life and shows how a particular object or phenomenon will behave such a simulation can be useful for testing analysis or training in those cases where real-world systems or concepts can be represented by models
+=== structure ===
+structure is a fundamental and sometimes intangible notion covering the recognition observation nature and stability of patterns and relationships of entities from a child's verbal description of a snowflake to the detailed scientific analysis of the properties of magnetic fields the concept of structure is an essential foundation of nearly every mode of inquiry and discovery in science philosophy and art
+=== systems ===
+a system is a set of interacting or interdependent entities real or abstract forming an integrated whole in general a system is a construct or collection of different elements that together can produce results not obtainable by the elements alone the concept of an 'integrated whole' can also be stated in terms of a system embodying a set of relationships which are differentiated from relationships of the set to other elements and from relationships between an element of the set and elements not a part of the relational regime there are two types of system models: 1) discrete in which the variables change instantaneously at separate points in time and 2) continuous where the state variables change continuously with respect to time
+=== generating a model ===
+modelling refers to the process of generating a model as a conceptual representation of some phenomenon typically a model will refer only to some aspects of the phenomenon in question and two models of the same phenomenon may be essentially different that is to say that the differences between them comprise more than just a simple renaming of components
+such differences may be due to differing requirements of the model's end users or to conceptual or aesthetic differences among the modellers and to contingent decisions made during the modelling process considerations that may influence the structure of a model might be the modeller's preference for a reduced ontology preferences regarding statistical models versus deterministic models discrete versus continuous time etc in any case users of a model need to understand the assumptions made that are pertinent to its validity for a given use
+building a model requires abstraction assumptions are used in modelling in order to specify the domain of application of the model for example the special theory of relativity assumes an inertial frame of reference this assumption was contextualized and further explained by the general theory of relativity a model makes accurate predictions when its assumptions are valid and might well not make accurate predictions when its assumptions do not hold such assumptions are often the point with which older theories are succeeded by new ones (the general theory of relativity works in non-inertial reference frames as well)
+the term "assumption" is actually broader than its standard use etymologically speaking the oxford english dictionary (oed) and online wiktionary indicate its latin source as assumere ("accept to take to oneself adopt usurp") which is a conjunction of ad- ("to towards at") and sumere (to take) the root survives with shifted meanings in the italian sumere and spanish sumir in the oed "assume" has the senses of (i) investing oneself with (an attribute) (ii) to undertake (especially in law) (iii) to take to oneself in appearance only to pretend to possess and (iv) to suppose a thing to be thus "assumption" connotes other associations than the contemporary standard sense of that which is assumed or taken for granted; a supposition postulate and deserves a broader analysis in the philosophy of science
+=== evaluating a model ===
+a model is evaluated first and foremost by its consistency to empirical data; any model inconsistent with reproducible observations must be modified or rejected one way to modify the model is by restricting the domain over which it is credited with having high validity a case in point is newtonian physics which is highly useful except for the very small the very fast and the very massive phenomena of the universe however a fit to empirical data alone is not sufficient for a model to be accepted as valid other factors important in evaluating a model include:
+ability to explain past observations
+ability to predict future observations
+cost of use especially in combination with other models
+refutability enabling estimation of the degree of confidence in the model
+simplicity or even aesthetic appeal
+people may attempt to quantify the evaluation of a model using a utility function
+=== visualization ===
+visualization is any technique for creating images diagrams or animations to communicate a message visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of man examples from history include cave paintings egyptian hieroglyphs greek geometry and leonardo da vinci's revolutionary methods of technical drawing for engineering and scientific purposes
+== types of scientific modelling ==
+== applications ==
+=== modelling and simulation ===
+one application of scientific modelling is the field of "modelling and simulation" generally referred to as "m&s" m&s has a spectrum of applications which range from concept development and analysis through experimentation measurement and verification to disposal analysis projects and programs may use hundreds of different simulations simulators and model analysis tools
+the figure shows how modelling and simulation is used as a central part of an integrated program in a defence capability development process
+=== model based learning in education ===
+model based learning in education particularly in relation to learning science involves students creating models for scientific concepts in order to -
+gain insight of the scientific idea(s)
+acquire deeper understanding of the subject through visualization of the model
+improve student engagement in the course
+different types of model based learning techniques include -
+physical macrocosms
+representational systems
+syntactic models
+emergent models
+model making in education is an iterative exercise with students refining developing and evaluating their models over time this shifts learning from the rigidity and monotony of traditional curriculum to an exercise of students' creativity and curiosity this approach utilizes the constructive strategy of social collaboration and learning scaffold theory model based learning includes cognitive reasoning skills where existing models can be improved upon by construction of newer models using the old models as a basis
+"model based learning entails determining target models and a learning pathway that provide realistic chances of understanding." model making can also incorporate blended learning strategies by using web based tools and simulators thereby allowing students to -
+familiarize themselves with on-line or digital resources
+create different models with various virtual materials at little or no cost
+practice model making activity any time and any place
+refine existing models
+"a well-designed simulation simplifies a real world system while heightening awareness of the complexity of the system students can participate in the simplified system and learn how the real system operates without spending days weeks or years it would take to undergo this experience in the real world."
+the teacher's role in the overall teaching and learning process is primarily that of a facilitator and arranger of the learning experience he or she would assign the students a model making activity for a particular concept and provide relevant information or support for the activity for virtual model making activities the teacher can also provide information on the usage of the digital tool and render troubleshooting support in case of glitches while using the same the teacher can also arrange the group discussion activity between the students and provide the platform necessary for students to share their observations and knowledge extracted from the model making activity
+model based learning evaluation could include the use of rubrics that assess the ingenuity and creativity of the student in the model construction and also the overall classroom participation of the student vis-a-vis the knowledge constructed through the activity
+it is important however to give due consideration to the following for successful model based learning to occur -
+use of right tool at right time for a particular concept
+provision within the educational setup for model making activity e.g computer room with internet facility or software installed to access simulator or digital tool
+== see also ==
+heuristic
+grey box completion and validation
+scientific visualization
+simulation
+statistical model
+systems engineering
+toy model
+== references ==
+== further reading ==
+nowadays there are some 40 magazines about scientific modelling which offer all kinds of international forums since the 1960s there is a strong growing amount of books and magazines about specific forms of scientific modelling there is also a lot of discussion about scientific modelling in the philosophy-of-science literature a selection:
+rainer hegselmann ulrich mller and klaus troitzsch (eds.) (1996) modelling and simulation in the social sciences from the philosophy of science point of view theory and decision library dordrecht: kluwer
+paul humphreys (2004) extending ourselves: computational science empiricism and scientific method oxford: oxford university press
+johannes lenhard gnter kppers and terry shinn (eds.) (2006) "simulation: pragmatic constructions of reality" springer berlin
+tom ritchey (2012) "outline for a morphology of modelling methods: contribution to a general theory of modelling" in: acta morphologica generalis vol 1 no 1 pp 1-20
+fritz rohrlich (1990) "computer simulations in the physical sciences" in: proceedings of the philosophy of science association vol 2 edited by arthur fine et al. 507-518 east lansing: the philosophy of science association
+rainer schnell (1990) "computersimulation und theoriebildung in den sozialwissenschaften" in: klner zeitschrift fr soziologie und sozialpsychologie 1 109-128
+sergio sismondo and snait gissis (eds.) (1999) modeling and simulation special issue of science in context 12
+eric winsberg (2001) "simulations models and theories: complex physical systems and their representations" in: philosophy of science 68 (proceedings): 442-454
+eric winsberg (2003) "simulated experiments: methodology for a virtual world" in: philosophy of science 70: 105125
+tom helikar jim a rogers (2009) "chemchains: a platform for simulation and analysis of biochemical networks aimed to laboratory scientists" biomed central
+== external links ==
+models entry in the internet encyclopedia of philosophy
+models in science entry in the stanford encyclopedia of philosophy
+the world as a process: simulations in the natural and social sciences in: r hegselmann et al (eds.) modelling and simulation in the social sciences from the philosophy of science point of view theory and decision library dordrecht: kluwer 1996 77-100
+research in simulation and modelling of various physical systems
+modelling water quality information center u.s department of agriculture
+ecotoxicology & models
+a morphology of modelling methods acta morphologica generalis vol 1 no 1 pp 1-20
+template:computer modelling

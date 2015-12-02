@@ -1,0 +1,29 @@
+statistical physics is a branch of physics that uses methods of probability theory and statistics and particularly the mathematical tools for dealing with large populations and approximations in solving physical problems it can describe a wide variety of fields with an inherently stochastic nature its applications include many problems in the fields of physics biology chemistry neurology and even some social sciences such as sociology its main purpose is to clarify the properties of matter in aggregate in terms of physical laws governing atomic motion
+in particular statistical mechanics develops the phenomenological results of thermodynamics from a probabilistic examination of the underlying microscopic systems historically one of the first topics in physics where statistical methods were applied was the field of mechanics which is concerned with the motion of particles or objects when subjected to a force
+== statistical mechanics ==
+statistical mechanics provides a framework for relating the microscopic properties of individual atoms and molecules to the macroscopic or bulk properties of materials that can be observed in everyday life therefore explaining thermodynamics as a natural result of statistics classical mechanics and quantum mechanics at the microscopic level because of this history the statistical physics is often considered synonymous with statistical mechanics or statistical thermodynamics
+one of the most important equations in statistical mechanics (analogous to in mechanics or the schrdinger equation in quantum mechanics ) is the definition of the partition function  which is essentially a weighted sum of all possible states available to a system
+where is the boltzmann constant is temperature and is energy of state  furthermore the probability of a given state  occurring is given by
+here we see that very-high-energy states have little probability of occurring a result that is consistent with intuition
+a statistical approach can work well in classical systems when the number of degrees of freedom (and so the number of variables) is so large that exact solution is not possible or not really useful statistical mechanics can also describe work in non-linear dynamics chaos theory thermal physics fluid dynamics (particularly at high knudsen numbers) or plasma physics
+although some problems in statistical physics can be solved analytically using approximations and expansions most current research utilizes the large processing power of modern computers to simulate or approximate solutions a common approach to statistical problems is to use a monte carlo simulation to yield insight into the dynamics of a complex system
+== scientists and universities ==
+a significant contribution (at different times) in development of statistical physics was given by james clerk maxwell albert einstein enrico fermi richard feynman l landau vladimir fock werner heisenberg nikolay bogolyubov and others statistical physics is studied in the nuclear center at los alamos also pentagon has organized a large department for the study of turbulence at the university of princeton work in this area is also being conducted by saclay (paris) max planck institute netherlands institute for atomic and molecular physics and other research centers
+== achievements ==
+statistical physics allowed us to explain and quantitatively describe superconductivity superfluidity turbulence collective phenomena in solids and plasma and the structural features of liquid it underlies the modern astrophysics it is statistical physics that helped us to create such intensively developing study of liquid crystals and to construct a theory of phase transition and critical phenomena many experimental studies of matter are entirely based on the statistical description of a system these include the scattering of cold neutrons x-ray visible light and more
+== see also ==
+statistical ensemble
+statistical field theory
+mean sojourn time
+dynamics of markovian particles
+complex network
+mathematical physics
+combinatorics and physics
+== notes ==
+== references ==
+== books ==
+thermal and statistical physics (lecture notes web draft 2001) by mallett m. blumler p
+basics of statistical physics: second edition by harald j w mller-kirsten (university of kaiserslautern germany)
+statistical physics by kadanoff l.p
+statistical physics - statics dynamics and renormalization by kadanoff l.p
+history and outlook of statistical physics by dieter flamm

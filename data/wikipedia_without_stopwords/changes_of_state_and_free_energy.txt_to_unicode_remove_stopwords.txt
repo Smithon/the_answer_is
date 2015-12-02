@@ -1,0 +1,112 @@
+thermodynamics gibbs free energy iupac recommended name gibbs energy gibbs function also known free enthalpy distinguish helmholtz free energy thermodynamic potential measures usefulness processinitiating work obtainable thermodynamic system constant temperature pressure isothermal isobaric mechanics potential energy defined capacity work similarly different potentials different meanings gibbs free energy kjmol si units maximum amount nonexpansion work extracted thermodynamically closed system one exchange heat work surroundings matter maximum attained completely reversible process system changes welldefined initial state welldefined final state gibbs free energy change g equals work exchanged system surroundings minus work pressure forces reversible transformation system initial state final state
+gibbs energy also referred g also chemical potential minimized system reaches equilibrium constant pressure temperature derivative respect reaction coordinate system vanishes equilibrium point convenient criterion spontaneity processes constant pressure temperature
+gibbs free energy originally called available energy developed american mathematician josiah willard gibbs gibbs described available energy
+greatest amount mechanical work obtained given quantity certain substance given initial state without increasing total volume allowing heat pass external bodies except close processes left initial condition
+initial state body according gibbs supposed body made pass states dissipated energy reversible processes magnum opus equilibrium heterogeneous substances graphical analysis multiphase chemical systems engaged thoughts chemical free energy full
+overview
+systems reacting stp fixed temperature pressure general natural tendency achieve minimum free energy
+quantitative measure favorability given reaction difference g gibbs free energy would effected proceeding reaction calculated energetics process indicate g negative means reaction favoured release energy energy released equals maximum amount work performed result chemical reaction contrast conditions indicated positive g energyin form workwould added reacting system reaction occur
+equation also seen perspective system taken together surroundings rest universe first assume given reaction one occurring entropy released absorbed system equals entropy environment must absorb release respectively reaction allowed total entropy change universe zero positive reflected negative g reaction called exergonic
+allow reactions occur side otherwise endergonic chemical reaction one positive g made happen input heat inherently endergonic reaction elimination cyclohexanol cyclohexene seen coupling unfavourable reaction elimination favourable one burning coal provision heat total entropy change universe greater equal zero making total gibbs free energy difference coupled reactions negative
+traditional use term free included gibbs free energy mean available form useful work characterization becomes precise add qualification energy available nonvolume work analogous slightly different meaning free applies conjunction helmholtz free energy systems constant temperature however increasing number books journal articles include attachment free referring g simply gibbs energy result iupac meeting set unified terminologies international scientific community adjective free supposedly banished standard however yet universally adopted
+history
+quantity called free energy advanced accurate replacement outdated term affinity used chemists previous years describe force caused chemical reactions
+willard gibbs published method geometrical representation thermodynamic properties substances means surfaces sketched principles new equation able predict estimate tendencies various natural processes ensue bodies systems brought contact studying interactions homogeneous substances contact ie bodies composed part solid part liquid part vapor using threedimensional volumeentropyinternal energy graph gibbs able determine three states equilibrium ie necessarily stable neutral unstable whether changes would ensue
+thereafter german scientist hermann von helmholtz characterized affinity largest quantity work gained reaction carried reversible manner eg electrical work reversible cell maximum work thus regarded diminution free available energy system gibbs free energy g constant p constant helmholtz free energy f constant v constant whilst heat given usually measure diminution total energy system internal energy thus g f amount energy free work given conditions
+point general view chemical reactions drive system state equilibrium affinities reactions vanish next years term affinity came replaced term free energy according chemistry historian henry leicester influential textbook thermodynamics free energy chemical substances gilbert n lewis merle randall led replacement term affinity term free energy much englishspeaking world
+graphical interpretation
+gibbs free energy originally defined graphically american engineer willard gibbs published first thermodynamics paper graphical methods thermodynamics fluids gibbs used two coordinates entropy volume represent state body second followup paper method geometrical representation thermodynamic properties substances means surfaces published later year gibbs added third coordinate energy body defined three figures scottish physicist james clerk maxwell used gibbs figures make d energyentropyvolume thermodynamic surface fictitious waterlike substance thus order understand difficult concept gibbs free energy one must able understand interpretation gibbs defined originally section ab figure maxwell sculpted section d surface figure
+definitions
+gibbs free energy defined
+u internal energy si unit joule
+p pressure si unit pascal
+v volume si unit m
+temperature si unit kelvin
+entropy si unit joule per kelvin
+h enthalpy si unit joule
+expression infinitesimal reversible change gibbs free energy function natural variables p open system subjected operation external forces instance electrical magnetical xi cause external parameters system ai change amount dai derived follows first law reversible processes
+chemical potential ith chemical component si unit joules per particle joules per mole
+ni number particles number moles composing ith chemical component
+one form gibbs fundamental equation infinitesimal expression term involving chemical potential accounts changes gibbs free energy resulting influx outflux particles words holds open system closed system term may dropped
+number extra terms may added depending particular system considered aside mechanical work system may addition perform numerous types work example infinitesimal expression contractile work energy associated thermodynamic system contractile fiber shortens amount dl force f would result term f dl added quantity charge de acquired system electrical potential electrical work associated de would included infinitesimal expression work terms added per system requirements
+quantity equations divided amount substance measured moles form molar gibbs free energy gibbs free energy one important thermodynamic functions characterization system factor determining outcomes voltage electrochemical cell equilibrium constant reversible reaction isothermal isobaric systems gibbs free energy thought dynamic quantity representative measure competing effects enthalpic entropic driving forces involved thermodynamic process
+temperature dependence gibbs energy ideal gas given gibbshelmholtz equation pressure dependence given
+volume known rather pressure becomes
+conveniently chemical potential
+nonideal systems fugacity comes play
+derivation
+gibbs free energy total differential natural variables may derived via legendre transforms internal energy
+v ni extensive variables eulers homogeneous function theorem allows easy integration du
+definition g
+taking total differential
+replacing du result first law gives
+natural variables g p ni
+homogeneous systems
+natural variables intensive dg may integrated using euler integrals case internal energy however simply substituting gibbsduhem relation result u definition g gives standard expression g
+result applies homogeneous macroscopic systems thermodynamic systems
+gibbs free energy reactions
+derive gibbs free energy equation isolated system let stot total entropy isolated system system cannot exchange energyheat work mass surroundings according second law thermodynamics
+stot process reversible heat transfer q vanishes adiabatic system adiabatic process also reversible called isentropic process
+consider subsystem internal entropy sint system thermally connected surroundings entropy sext entropy form second law applies closed system formed system surroundings therefore process possible
+q heat transferred system surroundings q heat lost surroundings corresponds entropy change surroundings
+multiplying sides
+q heat transferred system process assumed isobaric q h
+h enthalpy change reaction chemical reaction constant pressure
+possible process let change g gibbs free energy defined
+eq
+notice defined terms external state functions sext stot second law also tells us spontaneity reaction becomes
+favoured reaction spontaneous
+neither forward reverse reaction prevails equilibrium
+disfavoured reaction nonspontaneous
+gibbs free energy g defined
+eq
+notice obtain equation equation must assume constant thus gibbs free energy useful thermochemical processes constant temperature pressure isothermal isobaric processes dont move pv diagram phase change pure substance takes place saturation pressure temperature chemical reactions however undergo changes chemical potential state function thus thermodynamic processes confined two dimensional pv diagram third dimension n quantity gas study explosive chemicals processes necessarily isothermal isobaric studies helmholtz free energy used
+isolated system q constant pressure q h
+therefore gibbs free energy isolated system
+g implies back started derivation g
+useful identities
+constant temperature
+system equilibrium
+see chemical equilibrium
+rearranging gives
+relates electrical potential reaction equilibrium coefficient reaction nernst equation
+g change gibbs free energy
+h change enthalpy
+absolute temperature
+change entropy
+r gas constant
+ln natural logarithm
+rg change reaction gibbs free energy
+rg standard change reaction gibbs free energy
+k equilibrium constant
+qr reaction quotient
+n number electrons per mole product
+f faraday constant coulombs per mole
+e electrode potential reaction
+moreover also
+relates equilibrium constant gibbs free energy
+gibbs free energy second law thermodynamics metabolism
+chemical reaction proceed spontaneously change total entropy universe would caused reaction nonnegative discussed overview temperature pressure held constant gibbs free energy negative proxy change total entropy universe negative appears negative coefficient expression g gibbs free energy moves opposite direction total entropy thus reaction positive gibbs free energy proceed spontaneously however biological systems among others energy inputs energy sources including sun exothermic chemical reactions coupled reactions entropically favored ie gibbs free energy zero taking account coupled reactions total entropy universe increases coupling allows endergonic reactions photosynthesis dna synthesis proceed without decreasing total entropy universe thus biological systems violate second law thermodynamics
+standard energy change formation
+standard gibbs free energy formation compound change gibbs free energy accompanies formation mole substance component elements standard states stable form element degrees celsius kilopascals symbol fg
+elements standard states diatomic oxygen gas graphite etc standard gibbs free energy change formation equal zero change involved
+fg fg rt ln qf qf reaction quotient
+equilibrium fg qf k equation becomes fg rt ln k k equilibrium constant
+table selected substances
+see also
+calphad
+electron equivalent
+enthalpyentropy compensation
+free entropy
+grand potential
+thermodynamic free energy
+notes references
+external links
+iupac definition gibbs energy
+gibbs free energy calculator
+gibbs energy florida state university
+gibbs free energy eric weissteins world physics
+entropy gibbs free energy wwwndlawoxyedu
+gibbs free energy georgia state university
+gibbs free energy java applet university california berkeley
+using gibbs free energy prediction chemical driven material ageing

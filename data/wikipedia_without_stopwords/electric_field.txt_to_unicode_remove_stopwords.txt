@@ -1,0 +1,63 @@
+electric field component electromagnetic field vector field generated electric charges timevarying magnetic fields described maxwells equations concept electric field introduced michael faraday
+definition
+electric field given point defined vectorial force would exerted stationary test particle unit charge electromagnetic forces ie lorentz force particle charge would subject force
+si units newtons per coulomb nc equivalently volts per metre vm terms si base units kgmsa
+sources electric field
+causes description
+electric fields caused electric charges varying magnetic fields former effect described gausss law latter faradays law induction together enough define behavior electric field function charge repartition magnetic field however since magnetic field described function electric field equations fields coupled together form maxwells equations describe fields function charges currents
+special case steady state stationary charges currents maxwellfaraday inductive effect disappears resulting two equations gausss law faradays law induction term taken together equivalent coulombs law written charge density denotes position space notice permittivity vacuum must substituted charges considered nonempty media
+continuous vs discrete charge repartition
+equations electromagnetism best described continuous description however charges sometimes best described discrete points example models may describe electrons punctual sources charge density infinite infinitesimal section space
+charge located described mathematically charge density dirac delta function three dimensions used conversely charge distribution approximated many small punctual charge
+superposition principle
+electric fields satisfy superposition principle maxwells equations linear result electric fields resulting distribution charges distribution charges create electric field instance coulombs law linear charge density well
+principle useful calculate field created multiple point charges charges stationary space absence currents superposition principle proves resulting field sum fields generated particle described coulombs law
+electrostatic fields
+electrostatic fields efields change time happens charges currents stationary case coulombs law fully describes field
+electric potential
+faradays law electric field zero curl one define electric potential function analogous gravitational potential
+parallels electrostatic gravitational fields
+coulombs law describes interaction electric charges
+similar newtons law universal gravitation
+suggests similarities electric field e gravitational field g associated potentials mass sometimes called gravitational charge similarity
+electrostatic gravitational forces central conservative obey inversesquare law
+uniform fields
+uniform field one electric field constant every point approximated placing two conducting plates parallel maintaining voltage potential difference approximation boundary effects near edge planes electric field distorted plane continue assuming infinite planes magnitude electric field e
+potential difference plates d distance separating plates negative sign arises positive charges repel positive charge experience force away positively charged plate opposite direction voltage increases micro nanoapplications instance relation semiconductors typical magnitude electric field order vm achieved applying voltage order volt conductors spaced m apart
+electrodynamic fields
+electrodynamic fields efields change time instance charges motion
+electric field cannot described independently magnetic field case magnetic vector potential defined one still define electric potential
+one recover faradays law induction taking curl equation
+justifies posteriori previous form e
+energy electric field
+magnetic field b nonzero
+total energy per unit volume stored electromagnetic field
+permittivity medium field exists magnetic permeability e b electric magnetic field vectors
+e b fields coupled would misleading split expression electric magnetic contributions however steadystate case fields longer coupled see maxwells equations makes sense case compute electrostatic energy per unit volume
+total energy u stored electric field given volume v therefore
+extensions
+definitive equation vector fields
+presence matter helpful electromagnetism extend notion electric field three vector fields rather one
+p electric polarization volume density electric dipole moments d electric displacement field since e p defined separately equation used define d physical interpretation d clear e effectively field applied material p induced field due dipoles material still serves convenient mathematical simplification since maxwells equations simplified terms free charges currents
+constitutive relation
+e d fields related permittivity material
+linear homogeneous isotropic materials e d proportional constant throughout region position dependence inhomogeneous materials position dependence throughout material
+anisotropic materials e d fields parallel e d related permittivity tensor nd order tensor field component form
+nonlinear media e d proportional materials varying extents linearity homogeneity isotropy
+see also
+classical electromagnetism
+field strength
+signal strength telecommunications
+magnetism
+teltron tube
+teledeltos conductive paper may used simple analog computer modelling fields
+references
+external links
+electric field electricity magnetism r nave hyperphysics georgia state university
+gausss law chapter frank wolfss lectures university rochester
+electric field chapter frank wolfss lectures university rochester
+applet shows electric field moving point charge
+fields chapter online textbook
+learning simulations interactive simulation electric field four point charges
+java simulations electrostatics d d
+interactive flash simulation picturing electric field userdefined preselected sets point charges field vectors field lines equipotential lines author david chappell

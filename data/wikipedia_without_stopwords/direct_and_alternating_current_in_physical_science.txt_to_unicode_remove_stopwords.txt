@@ -1,0 +1,110 @@
+alternating current ac electric current flow electric charge periodically reverses direction whereas direct current dc also dc flow electric charge one direction abbreviations ac dc often used mean simply alternating direct modify current voltage
+ac form electric power delivered businesses residences usual waveform alternating current electric power circuits sine wave certain applications different waveforms used triangular square waves
+audio radio signals carried electrical wires also examples alternating current types alternating current carry information encoded modulated onto ac signal sound audio images video currents typically alternate higher frequencies used power transmission
+transmission distribution domestic power supplyedit
+reason electric power distributed alternating current ac voltage may increased decreased transformer allows power transmitted power lines efficiently high voltage reduces power lost heat due resistance wire voltage reduced safe levels use customer use higher voltage leads significantly efficient transmission power power losses conductor product square current resistance r conductor described formula
+means transmitting fixed power given wire current doubled power loss four times greater
+power transmitted equal product current voltage assuming phase difference
+thus amount power transmitted lower current increasing voltage therefore advantageous transmitting large amounts power distribute power high voltages often hundreds kilovolts
+however high voltages also disadvantages main one increased insulation required generally increased difficulty safe handling power plant power generated convenient voltage design generator stepped high voltage transmission near loads transmission voltage stepped voltages used equipment consumer voltages vary depending country size load generally motors lighting built use hundred volts phases
+utilization voltage delivered equipment lighting motor loads standardized allowable range voltage equipment expected operate standard power utilization voltages percentage tolerance vary different mains power systems found world
+modern highvoltage directcurrent hvdc electric power transmission systems contrast common alternatingcurrent systems means efficient bulk transmission electrical power long distances hvdc systems however tend expensive less efficient shorter distances transformers transmission high voltage direct current feasible edison westinghouse tesla designing power systems since way economically convert ac power dc back necessary voltages
+threephase electrical generation common simplest case three separate coils generator stator physically offset angle three current waveforms produced equal magnitude phase coils added opposite spacing generate phases reverse polarity simply wired together
+practice higher pole orders commonly used example pole machine would coils spacing advantage lower speeds used example pole machine running rpm pole machine running rpm produce frequency much practical larger machines
+load threephase system balanced equally among phases current flows neutral point even worstcase unbalanced linear load neutral current exceed highest phase currents nonlinear loads eg computers may require oversized neutral bus neutral conductor upstream distribution panel handle harmonics harmonics cause neutral conductor current levels exceed one phase conductors
+threephase utilization voltages fourwire system often used stepping threephase transformer delta wire primary star wire centerearthed secondary often used need neutral supply side
+smaller customers small varies country age installation single phase neutral two phases neutral taken property larger installations three phases neutral taken main distribution panel threephase main panel single threephase circuits may lead
+threewire singlephase systems single centertapped transformer giving two live conductors common distribution scheme residential small commercial buildings north america arrangement sometimes incorrectly referred two phase similar method used different reason construction sites uk small power tools lighting supposed supplied local centertapped transformer voltage v power conductor earth significantly reduces risk electric shock event one live conductors becomes exposed equipment fault whilst still allowing reasonable voltage v two conductors running tools
+third wire called bond earth wire often connected noncurrentcarrying metal enclosures earth ground conductor provides protection electric shock due accidental contact circuit conductors metal chassis portable appliances tools bonding noncurrentcarrying metal parts one complete system ensures always low electrical impedance path ground sufficient carry fault current long takes system clear fault low impedance path allows maximum amount fault current causing overcurrent protection device breakers fuses trip burn quickly possible bringing electrical system safe state bond wires bonded ground main service panel neutralidentified conductor present
+ac power supply frequenciesedit
+frequency electrical system varies country sometimes within country electric power generated either hertz countries mixture hz hz supplies notably electricity power transmission japan
+low frequency eases design electric motors particularly hoisting crushing rolling applications commutatortype traction motors applications railways however low frequency also causes noticeable flicker arc lamps incandescent light bulbs use lower frequencies also provided advantage lower impedance losses proportional frequency original niagara falls generators built produce hz power compromise low frequency traction heavy induction motors still allowing incandescent lighting operate although noticeable flicker hz residential commercial customers niagara falls power converted hz late although hz industrial customers still existed start st century hz power formerly hz still used european rail systems austria germany norway sweden switzerland
+offshore military textile industry marine aircraft spacecraft applications sometimes use hz benefits reduced weight apparatus higher motor speeds
+computer mainframe systems often powered hz using customersupplied kva motorgenerator sets smaller mainframes may internal hz mg set case input mg set local customary voltage frequency variously japan north america europe volts variously hz
+effects high frequenciesedit
+direct current flows uniformly throughout crosssection uniform wire alternating current frequency forced away wires center toward outer surface acceleration electric charge alternating current produces waves electromagnetic radiation cancel propagation electricity toward center materials high conductivity phenomenon called skin effect
+high frequencies current longer flows wire effectively flows surface wire within thickness skin depths skin depth thickness current density reduced even relatively low frequencies used power transmission hz nonuniform distribution current still occurs sufficiently thick conductors example skin depth copper conductor approximately mm hz high current conductors usually hollow reduce mass cost
+since current tends flow periphery conductors effective crosssection conductor reduced increases effective ac resistance conductor since resistance inversely proportional crosssectional area ac resistance often many times higher dc resistance causing much higher energy loss due ohmic heating also called ir loss
+techniques reducing ac resistanceedit
+low medium frequencies conductors divided stranded wires insulated one relative positions individual strands specially arranged within conductor bundle wire constructed using technique called litz wire measure helps partially mitigate skin effect forcing equal current throughout total cross section stranded conductors litz wire used making highq inductors reducing losses flexible conductors carrying high currents lower frequencies windings devices carrying higher radio frequency current hundreds kilohertz switchmode power supplies radio frequency transformers
+techniques reducing radiation lossedit
+written alternating current made electric charge periodic acceleration causes radiation electromagnetic waves energy radiated lost depending frequency different techniques used minimize loss due radiation
+twisted pairsedit
+frequencies ghz pairs wires twisted together cable forming twisted pair reduces losses electromagnetic radiation inductive coupling twisted pair must used balanced signalling system two wires carry equal opposite currents wire twisted pair radiates signal effectively cancelled radiation wire resulting almost radiation loss
+coaxial cablesedit
+coaxial cables commonly used audio frequencies convenience coaxial cable conductive wire inside conductive tube separated dielectric layer current flowing inner conductor equal opposite current flowing inner surface tube electromagnetic field thus completely contained within tube ideally energy lost radiation coupling outside tube coaxial cables acceptably small losses frequencies ghz microwave frequencies greater ghz losses due mainly electrical resistance central conductor become large making waveguides efficient medium transmitting energy coaxial cables air rather solid dielectric preferred transmit power lower loss
+waveguidesedit
+waveguides similar coax cables consist tubes biggest difference waveguide inner conductor waveguides arbitrary cross section rectangular cross sections common waveguides inner conductor carry return current waveguides cannot deliver energy means electric current rather means guided electromagnetic field although surface currents flow inner walls waveguides surface currents carry power power carried guided electromagnetic fields surface currents set guided electromagnetic fields effect keeping fields inside waveguide preventing leakage fields space outside waveguide
+waveguides dimensions comparable wavelength alternating current transmitted feasible microwave frequencies addition mechanical feasibility electrical resistance nonideal metals forming walls waveguide cause dissipation power surface currents flowing lossy conductors dissipate power higher frequencies power lost dissipation becomes unacceptably large
+fiber opticsedit
+frequencies greater ghz waveguide dimensions become impractically small ohmic losses waveguide walls become large instead fiber optics form dielectric waveguides used frequencies concepts voltages currents longer used
+mathematics ac voltagesedit
+alternating currents accompanied caused alternating voltages ac voltage v described mathematically function time following equation
+peak voltage unit volt
+angular frequency unit radians per second
+angular frequency related physical frequency unit hertz represents number cycles per second equation
+time unit second
+peaktopeak value ac voltage defined difference positive peak negative peak since maximum value minimum value ac voltage swings peaktopeak voltage usually written therefore
+poweredit
+relationship voltage power delivered
+represents load resistance
+rather using instantaneous power practical use time averaged power averaging performed integer number cycles therefore ac voltage often expressed root mean square rms value written
+power oscillation
+following trigonometric identity power oscillation double frequency voltage
+root mean squareedit
+sinusoidal voltage
+factor called crest factor varies different waveforms
+triangle waveform centered zero
+square waveform centered zero
+arbitrary periodic waveform period
+exampleedit
+illustrate concepts consider v ac mains supply used many countries around world called root mean square value v means timeaveraged power delivered equivalent power delivered dc voltage v determine peak voltage amplitude rearrange equation
+v ac peak voltage therefore v
+information transmissionedit
+alternating current used transmit information cases telephone cable television information signals carried wide range ac frequencies pots telephone signals frequency kilohertz close baseband audio frequency cable television cabletransmitted information currents may alternate frequencies tens thousands megahertz frequencies similar electromagnetic wave frequencies often used transmit types information air
+historyedit
+first alternator produce alternating current dynamo electric generator based michael faradays principles constructed french instrument maker hippolyte pixii pixii later added commutator device produce commonly used direct current earliest recorded practical application alternating current guillaume duchenne inventor developer electrotherapy announced ac superior direct current electrotherapeutic triggering muscle contractions
+alternating current technology first developed europe due work guillaume duchenne hungarian ganz works sebastian ziani de ferranti lucien gaulard galileo ferraris
+russian engineer pavel yablochkov invented lighting system based set induction coils primary windings connected source ac secondary windings could connected several electric candles arc lamps design coils yablochkov employed functioned essentially transformers
+ganz factory budapest hungary began manufacturing equipment electric lighting installed fifty systems austriahungary ac systems used arc incandescent lamps generators equipment
+power transformer developed lucien gaulard john dixon gibbs demonstrated london attracted interest westinghouse also exhibited invention turin
+dc distribution systemsedit
+initial years electricity distribution edisons direct current standard united states edison want lose patent royalties direct current worked well incandescent lamps principal load day motors directcurrent systems could directly used storage batteries providing valuable loadleveling backup power interruptions generator operation directcurrent generators could easily paralleled allowing economical operation using smaller machines periods light load improving reliability introduction edisons system practical ac motor available edison invented meter allow customers billed energy proportional consumption meter worked direct current
+principal drawback directcurrent distribution customer loads distribution generation voltage generally uneconomical use high voltage transmission reduce customer uses even edison wire system placing two volt customer loads series volt supply high cost conductors required generation close customer loads otherwise losses made system uneconomical operate
+transformersedit
+alternating current systems use transformers change voltage low high level back allowing generation consumption low voltages transmission possibly great distances high voltage savings cost conductors energy losses
+bipolar opencore power transformer developed lucien gaulard john dixon gibbs demonstrated london attracted interest westinghouse also exhibited invention turin however early induction coils open magnetic circuits inefficient transferring power loads paradigm ac power transmission high voltage supply low voltage load series circuit opencore transformers ratio near connected primaries series allow use high voltage transmission presenting low voltage lamps inherent flaw method turning single lamp electric device affected voltage supplied others circuit many adjustable transformer designs introduced compensate problematic characteristic series circuit including employing methods adjusting core bypassing magnetic flux around part coil
+direct current systems drawbacks giving significant advantages early ac systems
+pioneersedit
+autumn kroly zipernowsky ott blthy miksa dri zbd three engineers associated ganz factory determined opencore devices impractical incapable reliably regulating voltage joint patent applications novel transformers later called zbd transformers described two designs closed magnetic circuits copper windings either wound around iron wire ring core b surrounded iron wire core designs magnetic flux linking primary secondary windings traveled almost entirely within confines iron core intentional path air see toroidal cores new transformers times efficient opencore bipolar devices gaulard gibbs
+ganz factory shipped worlds first five highefficiency ac transformers first unit manufactured following specifications w hz v ratio onephase shell form
+zbd patents included two major interrelated innovations one concerning use parallel connected instead series connected utilization loads concerning ability high turns ratio transformers supply network voltage could much higher initially v voltage utilization loads v initially preferred employed parallel connected electric distribution systems closedcore transformers finally made technically economically feasible provide electric power lighting homes businesses public spaces
+essential milestone introduction voltage source voltage intensive vsvi systems invention constant voltage generators ott blthy also invented first ac electricity meter
+ac power systems developed adopted rapidly due ability distribute electricity efficiently long distances overcoming limitations direct current system zbd engineers designed ganz factory supplied electrical equipment worlds first power station used ac generators power parallel connected common electrical network steampowered romecerchi power plant reliability ac technology received impetus ganz works electrified large european metropolis rome
+uk sebastian de ferranti developing ac generators transformers london since redesigned ac system grosvenor gallery power station london electric supply corporation lesco including alternators design transformer designs similar gaulard gibbs designed power station deptford converted grosvenor gallery station across thames electrical substation showing way integrate older plants universal ac supply system
+us william stanley jr designed one first practical devices transfer ac power efficiently isolated circuits using pairs coils wound common iron core design called induction coil early transformer stanley also worked engineering adapting european designs gaulard gibbs transformer us entrepreneur george westinghouse started building ac systems spread westinghouse ac systems triggered push back late thomas edison proponent direct current attempted discredit alternating current dangerous public campaign called war currents
+alternating current systems gained viability introduction functional ac motor something systems lacked till design induction motor independently invented galileo ferraris nikola tesla teslas design licensed westinghouse us design developed modern practical threephase form mikhail dolivodobrovolsky charles eugene lancelot brown
+ames hydroelectric generating plant spring original niagara falls adams power plant august among first hydroelectric acpower plants first commercial power plant united states using threephase alternating current hydroelectric mill creek hydroelectric plant near redlands california designed almirian decker deckers design incorporated volt threephase transmission established standards complete system generation transmission motors used today
+jaruga hydroelectric power plant croatia set operation august two generators hz kw transformers produced installed hungarian company ganz transmission line power plant city ibenik kilometers mi long wooden towers municipal distribution grid v v included six transforming stations
+alternating current circuit theory developed rapidly latter part th early th century notable contributors theoretical basis alternating current calculations include charles steinmetz oliver heaviside many others calculations unbalanced threephase systems simplified symmetrical components methods discussed charles legeyt fortescue
+see alsoedit
+referencesedit
+readingedit
+external linksedit
+alternating current interactive java tutorial explaining alternating current national high magnetic field laboratory
+acdc whats difference edisons miracle light american experience pbs
+acdc inside ac generator edisons miracle light american experience pbs
+kuphaldt tony r lessons electric circuits volume ii ac march design science license
+nave c r alternating current circuits concepts hyperphysics
+alternating current ac magnetic particle inspection nondestructive testing encyclopedia
+alternating current analog process control services
+hiob eric application trigonometry vectors alternating current british columbia institute technology
+introduction alternating current transformers integrated publishing
+chan keelin alternating current tools jc physics
+williams trip kingpin understanding alternating current power concepts
+table voltage frequency tv broadcasting system radio broadcasting country
+professor mark cseles tour hz rankine generating station
+hertz information
+ac circuits animations explanations vector phasor representation rlc circuits
+blalock thomas j frequency changer era interconnecting systems varying cycles history various frequencies interconversion schemes us beginning th century
+italian generating ac voltage interactive

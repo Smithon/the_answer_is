@@ -1,0 +1,50 @@
+genetic linkage tendency alleles located close together chromosome inherited together meiosis phase sexual reproduction genes whose loci nearer less likely separated onto different chromatids chromosomal crossover therefore said genetically linked words nearer two genes chromosome lower chance swap occurring likely inherited together
+discovery
+genetic linkage first discovered british geneticists william bateson edith rebecca saunders reginald punnett shortly mendels laws rediscovered understanding genetic linkage expanded work thomas hunt morgan morgans observation amount crossing linked genes differs led idea crossover frequency might indicate distance separating genes chromosome
+alfred sturtevant student morgans first developed genetic maps also known linkage maps sturtevant proposed greater distance linked genes greater chance nonsister chromatids would cross region genes working number recombinants possible obtain measure distance genes distance expressed terms genetic map unit mu centimorgan defined distance genes one product meiosis recombinant recombinant frequency rf equivalent mu equivalence good approximation small percentages largest percentage recombinants cannot exceed would situation two genes extreme opposite ends chromosomes situation crossover events would result exchange genes odd number crossover events chance even odd number crossover events would result recombinant product meiotic crossover statistical interpretation haldane mapping function kosambi mapping function among others linkage map created finding map distances number traits present chromosome ideally avoiding significant gaps traits avoid inaccuracies occur due possibility multiple recombination events
+linkage map
+linkage map genetic map species experimental population shows position known genes genetic markers relative terms recombination frequency rather specific physical distance along chromosome linkage mapping critical identifying location genes cause genetic diseases
+genetic map map based frequencies recombination markers crossover homologous chromosomes greater frequency recombination segregation two genetic markers apart assumed conversely lower frequency recombination markers smaller physical distance historically markers originally used detectable phenotypes enzyme production eye color derived coding dna sequences eventually confirmed assumed noncoding dna sequences microsatellites generating restriction fragment length polymorphisms rflps used
+genetic maps help researchers locate markers genes testing genetic linkage already known markers
+genetic map physical map radiation reduced hybrid map gene map
+parametric nonparametric linkage analysis
+linkage analysis may either parametric know relationship phenotypic genetic similarity nonparametric parametric linkage analysis traditional approach whereby probability gene important disease linked genetic marker studied lod score assesses probability given pedigree disease marker cosegregating due existence linkage given linkage value chance nonparametric linkage analysis turn studies probability allele identical descent
+parametric linkage analysis
+lod score logarithm base odds developed newton e morton statistical test often used linkage analysis human animal plant populations lod score compares likelihood obtaining test data two loci indeed linked likelihood observing data purely chance positive lod scores favor presence linkage whereas negative lod scores indicate linkage less likely computerized lod score analysis simple way analyze complex family pedigrees order determine linkage mendelian traits trait marker two markers
+method described greater detail strachan read briefly works follows
+establish pedigree
+make number estimates recombination frequency
+calculate lod score estimate
+estimate highest lod score considered best estimate
+lod score calculated follows
+nr denotes number nonrecombinant offspring r denotes number recombinant offspring reason used denominator alleles completely unlinked eg alleles separate chromosomes chance recombination due independent assortment recombinant fraction ie fraction births recombination happened studied genetic marker putative gene associated disease thus equal r nr r
+convention lod score greater considered evidence linkage indicates odds linkage observed occur chance hand lod score less considered evidence exclude linkage although unlikely lod score would obtained single pedigree mathematical properties test allow data number pedigrees combined summing lod scores however traditional cutoff lod score arbitrary certain types linkage studies analyses complex genetic traits hundreds markers criterion probably modified higher cutoff example applying bonferroni correction
+recombination frequency
+recombination frequency measure genetic linkage used creation genetic linkage map recombination frequency frequency single chromosomal crossover take place two genes meiosis centimorgan cm unit describes recombination frequency way measure genetic distance two loci based upon recombination frequency good estimate real distance double crossovers would turn recombination case cannot tell crossovers took place loci analysing close less cm double crossover unlikely distances become higher likelihood double crossover increases likelihood double crossover increases systematically underestimate genetic distance two loci
+meiosis chromosomes assort randomly gametes segregation alleles one gene independent alleles another gene stated mendels second law known law independent assortment law independent assortment always holds true genes located different chromosomes genes chromosome always hold true
+example independent assortment consider crossing purebred homozygote parental strain genotype aabb different purebred strain genotype aabb b b represent alleles genes b crossing homozygous parental strains result f generation offspring double heterozygotes genotype aabb f offspring aabb produces gametes ab ab ab ab equal frequencies alleles gene assort independently alleles gene b meiosis note gametes ab abwere present parental generation gametes represent recombinant gametes recombinant gametes gametes differ haploid gametes made original diploid cell example recombination frequency since gametes recombinant gametes
+recombination frequency two genes located different chromosomes widely separated chromosome consequence independent assortment
+two genes close together chromosome assort independently said linked whereas genes located different chromosomes assort independently recombination frequency linked genes recombination frequency less
+example linkage consider classic experiment william bateson reginald punnett interested trait inheritance sweet pea studying two genesthe gene flower colour p purple p red gene affecting shape pollen grains l long l round crossed pure lines ppll ppll selfcrossed resulting ppll lines according mendelian genetics expected phenotypes would occur ratio plplplpl surprise observed increased frequency pl pl decreased frequency pl pl see table
+experiment revealed linkage p l alleles p l alleles frequency p occurring together l p occurring together l greater recombinant pl pl recombination frequency difficult compute f cross backcross lack fit observed expected numbers progeny table indicate less
+progeny case received two dominant alleles linked one chromosome referred coupling cis arrangement however crossover progeny could received one parental chromosome dominant allele one trait eg purple linked recessive allele second trait eg round opposite true parental chromosome eg red long referred repulsion trans arrangement phenotype would still purple long test cross individual recessive parent would produce progeny much greater proportion two crossover phenotypes problem may seem likely example unfavorable repulsion linkages appear breeding disease resistance crops
+two possible arrangements cis trans alleles double heterozygote referred gametic phases phasing process determining two present given individual
+two genes located chromosome chance crossover producing recombination genes related distance two genes thus use recombination frequencies used develop linkage maps genetic maps
+however important note recombination frequency tends underestimate distance two linked genes two genes located farther apart chance double even number crossovers also increases double even number crossovers two genes results cosegregated gamete yielding parental progeny instead expected recombinant progeny mentioned kosambi haldane transformations attempt correct multiple crossovers
+variation recombination frequency
+recombination chromosomes essential process meiosis large range frequency cross overs across organisms within species sexually dimorphic rates recombination termed heterochiasmy observed often common rate male females mammals females often higher rate recombination compared males theorized unique selections acting meiotic drivers influence difference rates difference rates may also reflect vastly different environments conditions meiosis oogenesis spermatogensis
+meiosis indicators
+large pedigrees dense genetic marker data wholegenome sequencing possible precisely locate recombinations type genetic analysis meiosis indicator assigned position genome meiosis pedigree indicator indicates copy parental chromosome contributes transmitted gamete position example allele first copy parental chromosome transmitted might assigned meiosis allele second copy parental chromosome transmitted would assigned meiosis two alleles parent came one two grandparents indicators used determine identicalbydescent ibd states inheritance states turn used identify genes responsible diseases
+see also
+centimorgan
+genetic association
+genetic epidemiology
+genomewide association study
+identity descent
+landergreen algorithm
+references
+notes
+griffiths ajf miller jh suzuki dt lewontin rc et al chapter introduction genetic analysis th ed new york wh freeman company isbn
+poehlman jm sleper da chapter breeding field crops th ed iowa iowa state press isbn
+external links
+genetic mapping

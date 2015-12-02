@@ -1,0 +1,111 @@
+mathematics binary operation commutative changing order operands change result fundamental property many binary operations many mathematical proofs depend familiar name property says property also used advanced settings name needed operations division subtraction example operations commutative noncommutative operations idea simple operations multiplication addition numbers commutative many years implicitly assumed property named th century mathematics started become formalized
+common uses
+commutative property commutative law property generally associated binary operations functions commutative property holds pair elements certain binary operation two elements said commute operation
+mathematical definitions
+term commutative used several related senses
+examples
+commutative operations everyday life
+putting socks resembles commutative operation since sock put first unimportant either way result socks contrast putting underwear trousers commutative
+commutativity addition observed paying item cash regardless order bills handed always give total
+commutative operations mathematics
+two wellknown examples commutative binary operations
+addition real numbers commutative since
+example since expressions equal
+multiplication real numbers commutative since
+example since expressions equal
+binary truth functions also commutative since truth tables functions one changes order operands
+example logical biconditional function p q equivalent q p function also written p iff q p q epq
+last form example concise notation article truth functions lists sixteen possible binary truth functions eight commutative vpq vqp apq aqp dpq nand dqp epq iff eqp jpq jqp kpq kqp xpq xqp opq oqp
+examples commutative binary operations include addition multiplication complex numbers addition scalar multiplication vectors intersection union sets
+noncommutative operations everyday life
+concatenation act joining character strings together noncommutative operation example
+washing drying clothes resembles noncommutative operation washing drying produces markedly different result drying washing
+rotating book around vertical axis around horizontal axis produces different orientation rotations performed opposite order
+twists rubiks cube noncommutative studied using group theory
+also thought processes noncommutative person asked question question b may give different answers question person asked first b asking question may change persons state mind
+noncommutative operations mathematics
+noncommutative binary operations
+subtraction noncommutative since
+division noncommutative since
+truth functions noncommutative since truth tables functions different one changes order operands
+example truth tables f ab b b f ba b
+matrix multiplication noncommutative since
+vector product cross product two vectors three dimensions anticommutative ie b b
+history etymology
+records implicit use commutative property go back ancient times egyptians used commutative property multiplication simplify computing products euclid known assumed commutative property multiplication book elements formal uses commutative property arose late th early th centuries mathematicians began work theory functions today commutative property well known basic property used branches mathematics
+first recorded use term commutative memoir franois servois used word commutatives describing functions called commutative property word combination french word commuter meaning substitute switch suffix ative meaning tending word literally means tending substitute switch term appeared english philosophical transactions royal society
+propositional logic
+rule replacement
+truthfunctional propositional logic commutation commutativity refer two valid rules replacement rules allow one transpose propositional variables within logical expressions logical proofs rules
+metalogical symbol representing replaced proof
+truth functional connectives
+commutativity property logical connectives truth functional propositional logic following logical equivalences demonstrate commutativity property particular connectives following truthfunctional tautologies
+commutativity conjunction
+commutativity disjunction
+commutativity implication also called law permutation
+commutativity equivalence also called complete commutative law equivalence
+set theory
+group set theory many algebraic structures called commutative certain operands satisfy commutative property higher branches mathematics analysis linear algebra commutativity wellknown operations addition multiplication real complex numbers often used implicitly assumed proofs
+mathematical structures commutativity
+commutative semigroup set endowed total associative commutative operation
+operation additionally identity element commutative monoid
+abelian group commutative group group whose group operation commutative
+commutative ring ring whose multiplication commutative addition ring always commutative
+field addition multiplication commutative
+related properties
+associativity
+associative property closely related commutative property associative property expression containing two occurrences operator states order operations performed affect final result long order terms doesnt change contrast commutative property states order terms affect final result
+commutative operations encountered practice also associative however commutativity imply associativity counterexample function
+clearly commutative interchanging x y affect result associative since example examples may found commutative nonassociative magmas
+symmetry
+forms symmetry directly linked commutativity commutative operator written binary function resulting function symmetric across line y x example let function f represent addition commutative operation fxy x y f symmetric function seen image right
+relations symmetric relation analogous commutative operation relation r symmetric
+noncommuting operators quantum mechanics
+quantum mechanics formulated schrdinger physical variables represented linear operators x meaning multiply x two operators commute may seen considering effect compositions also called products operators onedimensional wave function
+according uncertainty principle heisenberg two operators representing pair variables commute pair variables mutually complementary means cannot simultaneously measured known precisely example position linear momentum xdirection particle represented respectively operators reduced planck constant example except constant operators commute physical meaning position linear momentum given direction complementary
+see also
+anticommutativity
+associative property
+binary operation
+centralizer commutant
+commutative diagram
+commutative neurophysiology
+commutator
+distributivity
+parallelogram law
+particle statistics commutativity physics
+quasicommutative property
+symmetric relation
+trace monoid
+truth function
+truth table
+notes
+references
+books
+axler sheldon linear algebra done right e springer isbn
+abstract algebra theory covers commutativity context uses property throughout book
+copi irving m cohen carl introduction logic prentice hall
+gallian joseph contemporary abstract algebra e boston mass houghton mifflin isbn
+linear algebra theory explains commutativity chapter uses throughout
+goodman frederick algebra abstract concrete stressing symmetry e prentice hall isbn
+abstract algebra theory uses commutativity property throughout book
+hurley patrick concise introduction logic th edition wadsworth publishing
+articles
+httpwwwethnomathorgresourceslumpkinpdf lumpkin b mathematical legacy ancient egypt response robert palter unpublished manuscript
+article describing mathematical ability ancient civilizations
+robins r gay charles c d shute rhind mathematical papyrus ancient egyptian text london british museum publications limited isbn
+translation interpretation rhind mathematical papyrus
+online resources
+hazewinkel michiel ed commutativity encyclopedia mathematics springer isbn
+krowne aaron commutative planetmathorg accessed august
+definition commutativity examples commutative operations
+weisstein eric w commute mathworld accessed august
+explanation term commute
+yark examples noncommutative operations planetmathorg accessed august
+examples proving noncommutative operations
+oconner j j robertson e f mactutor history real numbers accessed august
+article giving history real numbers
+cabilln julio miller jeff earliest known uses mathematical terms accessed november
+page covering earliest uses mathematical terms
+oconner j j robertson e f mactutor biography franois servois accessed august
+biography francois servois first used term

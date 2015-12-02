@@ -1,0 +1,64 @@
+physics free body diagram force diagram fbd graphical illustration used visualize applied forces movements resulting reactions body steady state condition acceleration system depict body connected bodies applied forces moments well reactions act thatthose bodyies body may consist multiple internal members example truss compact body beam series free bodies diagrams may necessary solve complex problems
+purpose
+free body diagrams used visualize forces moments applied body calculate resulting reactions many types mechanics problems structural analysis free body diagrams used determine loading individual structural components well calculating internal forces within structure educational environment learning draw free body diagram important step understanding certain topics physics statics dynamics forms classical mechanics one professor cornell university earned nickname freebody perkins passion teaching importance using free body diagrams solve mechanics problems went far stop random students hall saying come office draw free body diagram
+features
+free body diagram meant scaled drawing diagram modified problem solved art flexibility process iconography free body diagram drawn also interpreted depends upon body modeled
+free body diagrams consist
+simplified version body
+forces shown straight arrows pointing direction act body
+moments shown curved arrows pointing direction act body
+coordinate system
+frequently reaction applied forces shown hash marks stem arrow
+number forces moments shown free body diagram depends specific problem assumptions made common assumptions neglecting air resistance friction assuming rigid bodies statics forces moments must balance zero physical interpretation forces moments sum zero body motion principles statics apply therefore force shown free body diagram statics problem must least one opposing force known reaction dynamics resultant forces moments nonzero opposing forces necessary often present
+modeling body
+body may modeled three ways
+particle model may used rotational effects zero interest even though body may extended body may represented small symbolic blob diagram reduces set concurrent arrows force particle bound vector
+rigid extended stresses strains interest turning effects force arrow lie along line force along line irrelevant force extended rigid body sliding vector
+nonrigid extended point application force becomes crucial indicated diagram force nonrigid body bound vector use tail arrow indicate point application others use tip
+example body free fall
+consider body free fall uniform gravitational field body may
+particle enough show single vertically downward pointing arrow attached blob
+rigid extended single arrow suffices represent weight w even though gravitational attraction acts every particle body arrow must lie along line centre gravity exactly along line arrow lie matter convenience popular choice locate arrow centre gravity strictly speaking need rigid body analysis see figure
+nonrigid extended nonrigid analysis would error associate single point application gravitational force
+included
+fbd represents body interest external forces reactions keep body equilibrium
+body usually sketched schematic way depending body particleextended rigidnonrigid questions answered thus rotation body torque consideration indication size shape body needed example brake dive motorcycle cannot found single point sketch finite dimensions required
+external forces indicated labelled arrows fully solved problem force arrow capable indicating
+direction line action
+magnitude
+point application
+reaction opposed applied load hash present arrow
+typically however provisional free body sketch drawn things known whole point diagram help determine things thus force arrow originally drawn length may meant indicate unknown magnitude line may correspond exact line action even direction may turn wrong often original direction arrow may directly opposite true direction engineer may also omit forces altogether especially rigid body analysis paired forces cancel
+forces acting object include friction gravity normal force drag tension human force due pushing pulling noninertial reference frame fictitious forces centrifugal pseudoforce may appropriate
+coordinate system sometimes included according convenience may make defining vectors simpler writing equations motion x direction might chosen point ramp inclined plane problem example case friction force x component normal force y component force gravity still components x y direction mgsin x mgcos y angle ramp horizontal
+exclusions
+things free body diagram explicitly excludes although sketches include things may helpful visualizing problem proper free body diagram show
+bodies free body
+constraints
+body free constraints constraints replaced forces moments exert body
+forces exerted free body
+diagram showing forces exerted body likely confusing since forces cancel newtons rd law body exerts force body b b exerts equal opposite force confused equal opposite forces necessary hold body equilibrium
+internal forces
+example entire truss analyzed forces individual truss members included
+velocity acceleration vectors
+analysis
+free body diagram analyzed summing forces often accomplished summing forces axis directions net force zero body must rest constant velocity newtons first law net force zero body accelerating direction newtons second law
+angled forces
+determining sum forces straightforward linear perpendicular diagrams axes somewhat complex forces angles often convenient analyze components forces case symbols fx fy used instead f forces point angle diagrams coordinate axis broken two parts three three dimensional problemseach part directed along one axeshorizontally fx vertically fy
+example block inclined plane
+simple free body diagram shown block ramp illustrates
+external supports structures replaced forces generate include
+mg product mass block constant gravitation acceleration weight
+n normal force ramp
+ff friction force ramp
+force vectors show direction point application labeled magnitude
+contains coordinate system used describing vectors
+care needed interpreting diagram line action normal force shown midpoint base true location found sufficient data given diagram stands would need modified told block equilibrium
+potential difficulty also arrow representing friction engineer drew diagram used tip arrow indicate point application force see force arrows diagram tip friction arrow highest point base intention however indicate friction acts point engineer instance assumed rigid body scenario friction force sliding vector thus point application relevant engineer tried indicate friction acts along whole base drawing arrow along base artistic ploys matter personal choice
+see also
+classical mechanics
+force field analysis applications force diagram social science
+shear moment diagrams
+kinematic diagram
+references
+notes

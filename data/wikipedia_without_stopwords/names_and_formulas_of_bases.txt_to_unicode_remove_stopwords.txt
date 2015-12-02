@@ -1,0 +1,166 @@
+mathematics logarithm inverse operation exponentiation means logarithm number exponent another fixed value base must raised produce number simple cases logarithm counts repeated multiplication example base logarithm power multiplication repeated three times generally exponentiation allows positive real number raised real power always producing positive result logarithm calculated two positive real numbers b x b equal logarithm x base b denoted logbx unique real number y
+x
+example
+log
+logarithm base b called common logarithm many applications science engineering natural logarithm number e base use widespread mathematics physics simpler derivative binary logarithm uses base b commonly used computer science
+logarithms introduced john napier early th century means simplify calculations rapidly adopted navigators scientists engineers others perform computations easily using slide rules logarithm tables tedious multidigit multiplication steps replaced table lookups simpler addition fact important right logarithm product sum logarithms factors
+provided b x y positive b presentday notion logarithms comes leonhard euler connected exponential function th century
+logarithmic scales reduce wideranging quantities tiny scopes example decibel unit quantifying signal power logratios amplitude logratios sound pressure common example chemistry ph logarithmic measure acidity aqueous solution logarithms commonplace scientific formulae measurements complexity algorithms geometric objects called fractals describe musical intervals appear formulas counting prime numbers inform models psychophysics aid forensic accounting
+way logarithm reverses exponentiation complex logarithm inverse function exponential function applied complex numbers discrete logarithm another variant uses publickey cryptography
+motivation definition
+idea logarithms reverse operation exponentiation raising number power example third power cube product three factors
+follows logarithm respect base log
+exponentiation
+third power number b product three factors b generally raising b nth power n natural number done multiplying n factors b nth power b written bn
+exponentiation may extended b positive number exponent y real number example b reciprocal b b details including formula bm n bm bn see exponentiation elementary treatise
+definition
+logarithm positive real number x respect base b positive real number equal exponent b must raised yield x words logarithm x base b solution y equation
+logarithm denoted logbx pronounced logarithm x base b baseb logarithm x equation y logbx value y answer question power must b raised order yield x question also addressed richer answer complex numbers done section complex logarithm answer much extensively investigated page complex logarithm
+examples
+example log since logarithms also negative
+since
+third example log approximately lies lies finally base b logbb logb since b b b respectively
+logarithmic identities
+several important formulas sometimes called logarithmic identities log laws relate logarithms one another
+product quotient power root
+logarithm product sum logarithms numbers multiplied logarithm ratio two numbers difference logarithms logarithm pth power number p times logarithm number logarithm pth root logarithm number divided p following table lists identities examples identities derived substitution logarithm definitions left hand sides
+change base
+logarithm logbx computed logarithms x b respect arbitrary base k using following formula
+typical scientific calculators calculate logarithms bases e logarithms respect base b determined using either two logarithms previous formula
+given number x logarithm logbx unknown base b base given
+particular bases
+among choices base three particularly common b b e irrational mathematical constant b mathematical analysis logarithm base e widespread particular analytical properties explained hand base logarithms easy use manual calculations decimal number system
+thus logx related number decimal digits positive integer x number digits smallest integer strictly bigger logx example log approximately next integer number digits natural logarithm logarithm base two used information theory corresponding use nats bits fundamental units information respectively binary logarithms also used computer science binary system ubiquitous music theory pitch ratio two octave ubiquitous cent binary logarithm scaled ratio two adjacent equallytempered pitches photography measure exposure values
+following table lists common notations logarithms bases fields used many disciplines write logx instead logbx intended base determined context notation blogx also occurs iso notation column lists designations suggested international organization standardization iso
+history
+history logarithm seventeenth century europe discovery new function extended realm analysis beyond scope algebraic methods method logarithms publicly propounded john napier book titled mirifici logarithmorum canonis descriptio description wonderful rule logarithms
+common logarithm number index power ten equals number speaking number requiring many figures rough allusion common logarithm referred archimedes order number first real logarithms heuristic methods turn multiplication addition thus facilitating rapid computation methods used tables derived trigonometric identities methods called prosthaphaeresis
+invention function known natural logarithm began attempt perform quadrature rectangular hyperbola gregoire de saint vincent belgian jesuit residing prague archimedes written quadrature parabola third century bc quadrature hyperbola eluded efforts saintvincent published results relation logarithm provides geometric progression argument arithmetic progression values prompted de sarasa make connection saintvincents quadrature tradition logarithms prosthaphaeresis leading term hyperbolic logarithm synomym natural logarithm soon new function appreciated christiaan huygens patavii james gregory notation log y adopted leibnitz next year connected integral
+logarithm tables slide rules historical applications
+simplifying difficult calculations logarithms contributed advance science especially astronomy critical advances surveying celestial navigation domains pierresimon laplace called logarithms
+admirable artifice reducing days labour many months doubles life astronomer spares errors disgust inseparable long calculations
+key tool enabled practical use logarithms calculators computers table logarithms first table compiled henry briggs immediately napiers invention subsequently tables increasing scope written tables listed values logbx bx number x certain range certain precision certain base b usually b example briggs first table contained common logarithms integers range precision digits function fx bx inverse function logbx called antilogarithm product quotient two positive numbers c d routinely calculated sum difference logarithms product cd quotient cd came looking antilogarithm sum difference also via table
+manual calculations demand appreciable precision performing lookups two logarithms calculating sum difference looking antilogarithm much faster performing multiplication earlier methods prosthaphaeresis relies trigonometric identities calculations powers roots reduced multiplications divisions lookups
+many logarithm tables give logarithms separately providing characteristic mantissa x say integer part fractional part logx characteristic x one plus characteristic x significands extends scope logarithm tables given table listing logx integers x ranging logarithm approximated
+greater accuracy obtained interpolation
+another critical application slide rule pair logarithmically divided scales used calculation illustrated
+nonsliding logarithmic scale gunters rule invented shortly napiers invention william oughtred enhanced create slide rulea pair logarithmic scales movable respect numbers placed sliding scales distances proportional differences logarithms sliding upper scale appropriately amounts mechanically adding logarithms example adding distance lower scale distance upper scale yields product read lower part slide rule essential calculating tool engineers scientists allows expense precision much faster computation techniques based tables
+analytic properties
+deeper study logarithms requires concept function function rule given one number produces another number example function producing xth power b real number x base b fixed number function written
+logarithmic function
+justify definition logarithms necessary show equation
+solution x solution unique provided y positive b positive unequal proof fact requires intermediate value theorem elementary calculus theorem states continuous function produces two values m n also produces value lies m n function continuous jump graph drawn without lifting pen
+property shown hold function fx bx f takes arbitrarily large arbitrarily small positive values number y lies fx fx suitable x x hence intermediate value theorem ensures equation fx y solution moreover one solution equation function f strictly increasing b strictly decreasing b
+unique solution x logarithm y base b logby function assigns y logarithm called logarithm function logarithmic function logarithm
+function logbx essentially characterized product formula
+precisely logarithm base b increasing function f positive reals reals satisfying fb
+inverse function
+formula logarithm power says particular number x
+prose taking xth power b baseb logarithm gives back x conversely given positive number y formula
+says first taking logarithm exponentiating gives back y thus two possible ways combining composing logarithms exponentiation give back original number therefore logarithm base b inverse function fx bx
+inverse functions closely related original functions graphs correspond upon exchanging x ycoordinates upon reflection diagonal line x y shown right point u bt graph f yields point u logbu graph logarithm vice versa consequence logbx diverges infinity gets bigger given number x grows infinity provided b greater one case logbx increasing function b logbx tends minus infinity instead x approaches zero logbx goes minus infinity b plus infinity b respectively
+derivative antiderivative
+analytic properties functions pass inverses thus fx bx continuous differentiable function logby roughly continuous function differentiable graph sharp corners moreover derivative fx evaluates lnbbx properties exponential function chain rule implies derivative logbx given
+slope tangent touching graph baseb logarithm point x logbx equals xlnb
+derivative lnx x implies lnx unique antiderivative x value x simple formula motivated qualify natural natural logarithm also one main reasons importance constant e
+derivative generalised functional argument fx
+quotient right hand side called logarithmic derivative f computing fx means derivative lnfx known logarithmic differentiation antiderivative natural logarithm lnx
+related formulas antiderivatives logarithms bases derived equation using change bases
+integral representation natural logarithm
+natural logarithm equals integral x dx
+words lnt equals area x axis graph function x ranging x x figure right consequence fundamental theorem calculus fact derivative lnx x right hand side equation serve definition natural logarithm product power logarithm formulas derived definition example product formula lntu lnt lnu deduced
+equality splits integral two parts equality change variable w xt illustration splitting corresponds dividing area yellow blue parts rescaling left hand blue area vertically factor shrinking factor horizontally change size moving appropriately area fits graph function fx x therefore left hand blue area integral fx tu integral u justifies equality geometric proof
+power formula lntr r lnt may derived similar way
+second equality uses change variables integration substitution w xr
+sum reciprocals natural numbers
+called harmonic series closely tied natural logarithm n tends infinity difference
+converges ie gets arbitrarily close number known eulermascheroni constant relation aids analyzing performance algorithms quicksort
+also another integral representation logarithm useful situations
+verified showing value x derivative
+transcendence logarithm
+real numbers algebraic called transcendental example e numbers almost real numbers transcendental logarithm example transcendental function gelfondschneider theorem asserts logarithms usually take transcendental ie difficult values
+calculation
+logarithms easy compute cases log general logarithms calculated using power series arithmeticgeometric mean retrieved precalculated logarithm table provides fixed precision newtons method iterative method solve equations approximately also used calculate logarithm inverse function exponential function computed efficiently using lookup tables cordiclike methods used compute logarithms available operations addition bit shifts moreover binary logarithm algorithm calculates lbx recursively based repeated squarings x taking advantage relation
+power series
+taylor series
+real number z satisfies z following formula holds
+shorthand saying lnz approximated accurate value following expressions
+example z third approximation yields greater ln series approximates lnz arbitrary precision provided number summands large enough elementary calculus lnz therefore limit series taylor series natural logarithm z taylor series ln z provides particularly useful approximation lnz z small z since
+example z firstorder approximation gives ln less correct value
+efficient series
+another series based area hyperbolic tangent function
+real number z using sigma notation also written
+series derived taylor series converges quickly taylor series especially z close example z first three terms second series approximate ln error quick convergence z close taken advantage following way given lowaccuracy approximation y lnz putting
+logarithm z
+better initial approximation y closer logarithm calculated efficiently calculated using exponential series converges quickly provided y large calculating logarithm larger z reduced smaller values z writing z b lnz lna b ln
+closely related method used compute logarithm integers series follows
+logarithm large integer n known series yields fast converging series logn
+arithmeticgeometric mean approximation
+arithmeticgeometric mean yields high precision approximations natural logarithm lnx approximated precision p p precise bits following formula due carl friedrich gauss
+mxy denotes arithmeticgeometric mean x y obtained repeatedly calculating average xy arithmetic mean sqrtxy geometric mean x y let two numbers become next x y two numbers quickly converge common limit value mxy m chosen
+insure required precision larger m makes mxy calculation take steps initial x y farther apart takes steps converge gives precision constants ln calculated quickly converging series
+applications
+logarithms many applications inside outside mathematics occurrences related notion scale invariance example chamber shell nautilus approximate copy next one scaled constant factor gives rise logarithmic spiral benfords law distribution leading digits also explained scale invariance logarithms also linked selfsimilarity example logarithms appear analysis algorithms solve problem dividing two similar smaller problems patching solutions dimensions selfsimilar geometric shapes shapes whose parts resemble overall picture also based logarithms logarithmic scales useful quantifying relative change value opposed absolute difference moreover logarithmic function logx grows slowly large x logarithmic scales used compress largescale scientific data logarithms also occur numerous scientific formulas tsiolkovsky rocket equation fenske equation nernst equation
+logarithmic scale
+scientific quantities often expressed logarithms quantities using logarithmic scale example decibel unit measurement associated logarithmicscale quantities based common logarithm ratios times common logarithm power ratio times common logarithm voltage ratio used quantify loss voltage levels transmitting electrical signals describe power levels sounds acoustics absorbance light fields spectrometry optics signaltonoise ratio describing amount unwanted noise relation meaningful signal also measured decibels similar vein peak signaltonoise ratio commonly used assess quality sound image compression methods using logarithm
+strength earthquake measured taking common logarithm energy emitted quake used moment magnitude scale richter scale example earthquake releases times releases times energy another logarithmic scale apparent magnitude measures brightness stars logarithmically yet another example ph chemistry ph negative common logarithm activity hydronium ions form hydrogen ions h take water activity hydronium ions neutral water moll hence ph vinegar typically ph difference corresponds ratio activity vinegars hydronium ion activity moll
+semilog loglinear graphs use logarithmic scale concept visualization one axis typically vertical one scaled logarithmically example chart right compresses steep increase million trillion space vertical axis increase million graphs exponential functions form fx bx appear straight lines slope equal logarithm b loglog graphs scale axes logarithmically causes functions form fx xk depicted straight lines slope equal exponent k applied visualizing analyzing power laws
+psychology
+logarithms occur several laws describing human perception hicks law proposes logarithmic relation time individuals take choose alternative number choices fittss law predicts time required rapidly move target area logarithmic function distance size target psychophysics weberfechner law proposes logarithmic relationship stimulus sensation actual vs perceived weight item person carrying law however less precise recent models stevens power law
+psychological studies found individuals little mathematics education tend estimate quantities logarithmically position number unmarked line according logarithm positioned close increasing education shifts linear estimate positioning x far away circumstances logarithms used numbers plotted difficult plot linearly
+probability theory statistics
+logarithms arise probability theory law large numbers dictates fair coin number cointosses increases infinity observed proportion heads approaches onehalf fluctuations proportion onehalf described law iterated logarithm
+logarithms also occur lognormal distributions logarithm random variable normal distribution variable said lognormal distribution lognormal distributions encountered many fields wherever variable formed product many independent positive random variables example study turbulence
+logarithms used maximumlikelihood estimation parametric statistical models model likelihood function depends least one parameter must estimated maximum likelihood function occurs parametervalue maximum logarithm likelihood log likelihood logarithm increasing function loglikelihood easier maximize especially multiplied likelihoods independent random variables
+benfords law describes occurrence digits many data sets heights buildings according benfords law probability first decimaldigit item data sample d equals logd logd regardless unit measurement thus data expected first digit start etc auditors examine deviations benfords law detect fraudulent accounting
+computational complexity
+analysis algorithms branch computer science studies performance algorithms computer programs solving certain problem logarithms valuable describing algorithms divide problem smaller ones join solutions subproblems
+example find number sorted list binary search algorithm checks middle entry proceeds half middle entry number still found algorithm requires average logn comparisons n lists length similarly merge sort algorithm sorts unsorted list dividing list halves sorting first merging results merge sort algorithms typically require time approximately proportional n logn base logarithm specified result changes constant factor another base used constant factor usually disregarded analysis algorithms standard uniform cost model
+function fx said grow logarithmically fx exactly approximately proportional logarithm x biological descriptions organism growth however use term exponential function example natural number n represented binary form logn bits words amount memory needed store n grows logarithmically n
+entropy chaos
+entropy broadly measure disorder system statistical thermodynamics entropy physical system defined
+sum possible states system question positions gas particles container moreover pi probability state attained k boltzmann constant similarly entropy information theory measures quantity information message recipient may expect one n possible messages equal likelihood amount information conveyed one message quantified logn bits
+lyapunov exponents use logarithms gauge degree chaoticity dynamical system example particle moving oval billiard table even small changes initial conditions result different paths particle systems chaotic deterministic way small measurement errors initial state predictably lead largely different final states least one lyapunov exponent deterministically chaotic system positive
+fractals
+logarithms occur definitions dimension fractals fractals geometric objects selfsimilar small parts reproduce least roughly entire global structure sierpinski triangle pictured covered three copies sides half original length makes hausdorff dimension structure lnln another logarithmbased notion dimension obtained counting number boxes needed cover fractal question
+music
+logarithms related musical tones intervals equal temperament frequency ratio depends interval two tones specific frequency pitch individual tones example note frequency hz bflat frequency hz interval bflat semitone one bflat b frequency hz accordingly frequency ratios agree
+therefore logarithms used describe intervals interval measured semitones taking base logarithm frequency ratio base logarithm frequency ratio expresses interval cents hundredths semitone latter used finer encoding needed nonequal temperaments
+number theory
+natural logarithms closely linked counting prime numbers important topic number theory integer x quantity prime numbers less equal x denoted x prime number theorem asserts x approximately given
+sense ratio x fraction approaches x tends infinity consequence probability randomly chosen number x prime inversely proportional number decimal digits x far better estimate x given offset logarithmic integral function lix defined
+riemann hypothesis one oldest open mathematical conjectures stated terms comparing x lix erdskac theorem describing number distinct prime factors also involves natural logarithm
+logarithm n factorial n n given
+used obtain stirlings formula approximation n large n
+generalizations
+complex logarithm
+complex numbers solving equation
+called complex logarithms z complex number complex number commonly represented z x iy x y real numbers imaginary unit number visualized point complex plane shown right polar form encodes nonzero complex number z absolute value distance r origin angle x axis line passing origin z angle called argument z absolute value r z
+argument uniquely specified z arguments z adding radians degrees corresponds winding around origin counterclockwise turn resulting complex number z illustrated right however exactly one argument satisfies called principal argument denoted argz capital alternative normalization argz
+using trigonometric functions sine cosine complex exponential respectively r following identities hold
+implies ath power e equals z
+principal argument argz n arbitrary integer called complex logarithm z infinitely many contrast uniquely defined real logarithm n called principal value logarithm denoted logz principal argument positive real number x hence logx real number equals real natural logarithm however formulas logarithms products powers generalize principal value complex logarithm
+illustration right depicts logz discontinuity jump hue negative part x real axis caused jump principal argument locus called branch cut behavior circumvented dropping range restriction argument z consequently logarithm become multivalued functions
+inverses exponential functions
+exponentiation occurs many areas mathematics inverse function often referred logarithm example logarithm matrix multivalued inverse function matrix exponential another example padic logarithm inverse function padic exponential defined via taylor series analogous real case context differential geometry exponential map maps tangent space point manifold neighborhood point inverse also called logarithmic log map
+context finite groups exponentiation given repeatedly multiplying one group element b discrete logarithm integer n solving equation
+x element group carrying exponentiation done efficiently discrete logarithm believed hard calculate groups asymmetry important applications public key cryptography example diffiehellman key exchange routine allows secure exchanges cryptographic keys unsecured information channels zechs logarithm related discrete logarithm multiplicative group nonzero elements finite field
+logarithmlike inverse functions include double logarithm lnlnx super hyperlogarithm slight variation called iterated logarithm computer science lambert w function logit inverse functions double exponential function tetration fw wew logistic function respectively
+related concepts
+perspective group theory identity logcd logc logd expresses group isomorphism positive reals multiplication reals addition logarithmic functions continuous isomorphisms groups means isomorphism haar measure lebesgue measure dx reals corresponds haar measure dxx positive reals complex analysis algebraic geometry differential forms form dff known forms logarithmic poles
+polylogarithm function defined
+related natural logarithm liz ln z moreover lis equals riemann zeta function
+see also
+cologarithm
+exponential function
+decimal exponent dex
+index logarithm articles
+notes
+references
+external links
+media related logarithm wikimedia commons
+dictionary definition logarithm wiktionary
+khan academy logarithms free online micro lectures
+hazewinkel michiel ed logarithmic function encyclopedia mathematics springer isbn
+colin byfleet educational video logarithms retrieved
+edward wright translation napiers work logarithms retrieved

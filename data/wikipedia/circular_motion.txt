@@ -1,0 +1,90 @@
+in physics circular motion is a movement of an object along the circumference of a circle or rotation along a circular path it can be uniform with constant angular rate of rotation and constant speed or non-uniform with a changing rate of rotation the rotation around a fixed axis of a three-dimensional body involves circular motion of its parts the equations of motion describe the movement of the center of mass of a body
+examples of circular motion include: an artificial satellite orbiting the earth at constant height a stone which is tied to a rope and is being swung in circles a car turning through a curve in a race track an electron moving perpendicular to a uniform magnetic field and a gear turning inside a mechanism
+since the object's velocity vector is constantly changing direction the moving object is undergoing acceleration by a centripetal force in the direction of the center of rotation without this acceleration the object would move in a straight line according to newton's laws of motion
+== uniform circular motionedit ==
+in physics uniform circular motion describes the motion of a body traversing a circular path at constant speed since the body describes circular motion its distance from the axis of rotation remains constant at all times though the body's speed is constant its velocity is not constant: velocity a vector quantity depends on both the body's speed and its direction of travel this changing velocity indicates the presence of an acceleration; this centripetal acceleration is of constant magnitude and directed at all times towards the axis of rotation this acceleration is in turn produced by a centripetal force which is also constant in magnitude and directed towards the axis of rotation
+in the case of rotation around a fixed axis of a rigid body that is not negligibly small compared to the radius of the path each particle of the body describes a uniform circular motion with the same angular velocity but with velocity and acceleration varying with the position with respect to the axis
+=== formulasedit ===
+for motion in a circle of radius r the circumference of the circle is c = 2 r if the period for one rotation is t the angular rate of rotation also known as angular velocity is:
+and the units are radians/second
+the speed of the object travelling the circle is:
+the angle swept out in a time t is:
+the angular acceleration of the particle is:
+in the case of uniform circular motion will be zero
+the acceleration due to change in the direction is:
+the centripetal and centrifugal force can also be found out using acceleration:
+the vector relationships are shown in figure 1 the axis of rotation is shown as a vector perpendicular to the plane of the orbit and with a magnitude = d / dt the direction of is chosen using the right-hand rule with this convention for depicting rotation the velocity is given by a vector cross product as
+which is a vector perpendicular to both and r ( t ) tangential to the orbit and of magnitude r likewise the acceleration is given by
+which is a vector perpendicular to both and v ( t ) of magnitude |v| = 2 r and directed exactly opposite to r ( t )
+in the simplest case the speed mass and radius are constant
+consider a body of one kilogram moving in a circle of radius one metre with an angular velocity of one radian per second
+the speed is one metre per second
+the inward acceleration is one metre per square second[v^2/r]
+it is subject to a centripetal force of one kilogram metre per square second which is one newton
+the momentum of the body is one kgms1
+the moment of inertia is one kgm2
+the angular momentum is one kgm2s1
+the kinetic energy is 1/2 joule
+the circumference of the orbit is 2 (~ 6.283) metres
+the period of the motion is 2 seconds per turn
+the frequency is (2)1 hertz
+==== in polar coordinatesedit ====
+during circular motion the body moves on a curve that can be described in polar coordinate system as a fixed distance r from the center of the orbit taken as origin oriented at an angle (t) from some reference direction see figure 4 the displacement vector is the radial vector from the origin to the particle location:
+where is the unit vector parallel to the radius vector at time t and pointing away from the origin it is convenient to introduce the unit vector orthogonal to as well namely  it is customary to orient to point in the direction of travel along the orbit
+the velocity is the time derivative of the displacement:
+because the radius of the circle is constant the radial component of the velocity is zero the unit vector has a time-invariant magnitude of unity so as time varies its tip always lies on a circle of unit radius with an angle the same as the angle of  if the particle displacement rotates through an angle d in time dt so does  describing an arc on the unit circle of magnitude d see the unit circle at the left of figure 4 hence:
+where the direction of the change must be perpendicular to (or in other words along ) because any change d in the direction of would change the size of  the sign is positive because an increase in d implies the object and have moved in the direction of  hence the velocity becomes:
+the acceleration of the body can also be broken into radial and tangential components the acceleration is the time derivative of the velocity:
+the time derivative of is found the same way as for  again is a unit vector and its tip traces a unit circle with an angle that is /2 +  hence an increase in angle d by implies traces an arc of magnitude d and as is orthogonal to  we have:
+where a negative sign is necessary to keep orthogonal to  (otherwise the angle between and would decrease with increase in d.) see the unit circle at the left of figure 4 consequently the acceleration is:
+the centripetal acceleration is the radial component which is directed radially inward:
+while the tangential component changes the magnitude of the velocity:
+==== using complex numbersedit ====
+circular motion can be described using complex numbers let the axis be the real axis and the axis be the imaginary axis the position of the body can then be given as  a complex "vector":
+where is the imaginary unit and
+is the angle of the complex vector with the real axis and is a function of time t since the radius is constant:
+where a dot indicates time differentiation with this notation the velocity becomes:
+and the acceleration becomes:
+the first term is opposite in direction to the displacement vector and the second is perpendicular to it just like the earlier results shown before
+=== discussionedit ===
+==== velocityedit ====
+figure 1 illustrates velocity and acceleration vectors for uniform motion at four different points in the orbit because the velocity v is tangent to the circular path no two velocities point in the same direction although the object has a constant speed its direction is always changing this change in velocity is caused by an acceleration a whose magnitude is (like that of the velocity) held constant but whose direction also is always changing the acceleration points radially inwards (centripetally) and is perpendicular to the velocity this acceleration is known as centripetal acceleration
+for a path of radius r when an angle is swept out the distance travelled on the periphery of the orbit is s = r therefore the speed of travel around the orbit is
+where the angular rate of rotation is  (by rearrangement = v/r.) thus v is a constant and the velocity vector v also rotates with constant magnitude v at the same angular rate 
+==== relativistic circular motionedit ====
+in this case the three-acceleration vector is perpendicular to the three-velocity vector
+and the square of proper acceleration expressed as a scalar invariant the same in all reference frames
+becomes the expression for circular motion
+or taking the positive square root and using the three-acceleration we arrive at the proper acceleration for circular motion:
+==== accelerationedit ====
+the left-hand circle in figure 2 is the orbit showing the velocity vectors at two adjacent times on the right these two velocities are moved so their tails coincide because speed is constant the velocity vectors on the right sweep out a circle as time advances for a swept angle d = dt the change in v is a vector at right angles to v and of magnitude v d which in turn means that the magnitude of the acceleration is given by
+== non-uniformedit ==
+in non-uniform circular motion an object is moving in a circular path with a varying speed since the speed is changing there is tangential acceleration in addition to normal acceleration
+in non-uniform circular motion the net acceleration (a) is along direction of v which is directed inside circle but does not pass through its center (see figure) the net acceleration may be resolved into two components: tangential acceleration and normal acceleration also known as the centripetal or radial acceleration unlike tangential acceleration centripetal acceleration is present in both uniform and non-uniform circular motion
+in non-uniform circular motion normal force does not always point in the opposite direction of weight here is an example with an object traveling in a straight path then loops a loop back into a straight path again
+this diagram shows the normal force pointing in other directions rather than opposite to the weight force the normal force is actually the sum of the radial and tangential forces the component of weight force is responsible for the tangential force here (we have neglected frictional force) the radial force (centripetal force) is due the change in direction of velocity as discussed earlier
+in non-uniform circular motion normal force and weight may point in the same direction both forces can point down yet the object will remain in a circular path without falling straight down first lets see why normal force can point down in the first place in the first diagram let's say the object is a person sitting inside a plane the two forces point down only when it reaches the top of the circle the reason for this is that the normal force is the sum of the tangential force and centripetal force the tangential force is zero at the top (as no work is performed when the motion is perpendicular to the direction of force applied here weight force is perpendicular to the direction of motion of the object at the top of the circle) and centripetal force points down,thus normal force will point down as well from a logical standpoint a person who is travelling in the plane will be upside down at the top of the circle at that moment the persons seat is actually pushing down on the person which is the normal force
+the reason why the object does not fall down when subjected to only downward forces is a simple one think about what keeps an object up after it is thrown once an object is thrown into the air there is only the downward force of earths gravity that acts on the object that does not mean that once an object is thrown in the air it will fall instantly what keeps that object up in the air is its velocity the first of newton's laws of motion states that an objects inertia keeps it in motion and since the object in the air has a velocity it will tend to keep moving in that direction
+== applicationsedit ==
+solving applications dealing with non-uniform circular motion involves force analysis with uniform circular motion the only force acting upon an object traveling in a circle is the centripetal force in non-uniform circular motion there are additional forces acting on the object due to a non-zero tangential acceleration although there are additional forces acting upon the object the sum of all the forces acting on the object will have to equal to the centripetal force
+radial acceleration is used when calculating the total force tangential acceleration is not used in calculating total force because it is not responsible for keeping the object in a circular path the only acceleration responsible for keeping an object moving in a circle is the radial acceleration since the sum of all forces is the centripetal force drawing centripetal force into a free body diagram is not necessary and usually not recommended
+using  we can draw free body diagrams to list all the forces acting on an object then set it equal to  afterwards we can solve for what ever is unknown (this can be mass velocity radius of curvature coefficient of friction normal force etc.) for example the visual above showing an object at the top of a semicircle would be expressed as 
+in uniform circular motion total acceleration of an object in a circular path is equal to the radial acceleration due to the presence of tangential acceleration in non uniform circular motion that does not hold true any more to find the total acceleration of an object in non uniform circular find the vector sum of the tangential acceleration and the radial acceleration
+radial acceleration is still equal to  tangential acceleration is simply the derivative of the velocity at any given point:  this root sum of squares of separate radial and tangential accelerations is only correct for circular motion; for general motion within a plane with polar coordinates  the coriolis term should be added to  whereas radial acceleration then becomes 
+== see alsoedit ==
+angular momentum
+equations of motion for circular motion
+example: circular motion
+fictitious force
+geostationary orbit
+geosynchronous orbit
+pendulum (mathematics)
+reactive centrifugal force
+reciprocating motion
+simple harmonic motion#uniform circular motion
+sling (weapon)
+== referencesedit ==
+== external linksedit ==
+physclips: mechanics with animations and video clips from the university of new south wales
+circular motion a chapter from an online textbook
+circular motion lecture a video lecture on cm

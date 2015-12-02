@@ -1,0 +1,35 @@
+an electrical network is an interconnection of electrical components (e.g batteries resistors inductors capacitors switches) or a model of such an interconnection consisting of electrical elements (e.g voltage sources current sources resistances inductances capacitances) an electrical circuit is a network consisting of a closed loop giving a return path for the current linear electrical networks a special type consisting only of sources (voltage or current) linear lumped elements (resistors capacitors inductors) and linear distributed elements (transmission lines) have the property that signals are linearly superimposable they are thus more easily analyzed using powerful frequency domain methods such as laplace transforms to determine dc response ac response and transient response
+a resistive circuit is a circuit containing only resistors and ideal current and voltage sources analysis of resistive circuits is less complicated than analysis of circuits containing capacitors and inductors if the sources are constant (dc) sources the result is a dc circuit
+a network that contains active electronic components is known as an electronic circuit such networks are generally nonlinear and require more complex design and analysis tools
+== classificationedit ==
+=== by passivityedit ===
+an active network is a network that contains an active source - either a voltage source or current source
+a passive network is a network that does not contain an active source
+=== by linearityedit ===
+a network is linear if its signals obey the principle of superposition; otherwise it is non-linear a linear network will be composed entirely of independent sources linear dependent sources and linear passive elements
+== classification of sourcesedit ==
+sources can be classified as independent sources and dependent sources
+=== independent sourcesedit ===
+ideal independent source maintains same voltage or current regardless of the other elements present in the circuit its value is either constant (dc) or sinusoidal (ac) the strength of voltage or current is not changed by any variation in connected network
+=== dependent sourcesedit ===
+dependent sources depend upon a particular element of the circuit for delivering the power or voltage or current depending upon the type of source it is
+== electrical lawsedit ==
+a number of electrical laws apply to all electrical networks these include:
+kirchhoff's current law: the sum of all currents entering a node is equal to the sum of all currents leaving the node
+kirchhoff's voltage law: the directed sum of the electrical potential differences around a loop must be zero
+ohm's law: the voltage across a resistor is equal to the product of the resistance and the current flowing through it
+norton's theorem: any network of voltage or current sources and resistors is electrically equivalent to an ideal current source in parallel with a single resistor
+thvenin's theorem: any network of voltage or current sources and resistors is electrically equivalent to a single voltage source in series with a single resistor
+superposition theorem: in a linear network with several independent sources the response in a particular branch when all the sources are acting simultaneously is equal to the linear sum of individual responses calculated by taking one independent source at a time
+other more complex laws may be needed if the network contains nonlinear or reactive components non-linear self-regenerative heterodyning systems can be approximated applying these laws results in a set of simultaneous equations that can be solved either algebraically or numerically
+== design methodsedit ==
+to design any electrical circuit either analog or digital electrical engineers need to be able to predict the voltages and currents at all places within the circuit simple linear circuits can be analyzed by hand using complex number theory in more complex cases the circuit may be analyzed with specialized software programs or estimation techniques such as the piecewise-linear model
+circuit simulation software such as hspice and languages such as vhdl-ams and verilog-ams allow engineers to design circuits without the time cost and risk of error involved in building circuit prototypes
+== network simulation softwareedit ==
+more complex circuits can be analyzed numerically with software such as spice or gnucap or symbolically using software such as sapwin
+=== linearization around operating pointedit ===
+when faced with a new circuit the software first tries to find a steady state solution that is one where all nodes conform to kirchhoff's current law and the voltages across and through each element of the circuit conform to the voltage/current equations governing that element
+once the steady state solution is found the operating points of each element in the circuit are known for a small signal analysis every non-linear element can be linearized around its operation point to obtain the small-signal estimate of the voltages and currents this is an application of ohm's law the resulting linear circuit matrix can be solved with gaussian elimination
+=== piecewise-linear approximationedit ===
+software such as the plecs interface to simulink uses piecewise-linear approximation of the equations governing the elements of a circuit the circuit is treated as a completely linear network of ideal diodes every time a diode switches from on to off or vice versa the configuration of the linear network changes adding more detail to the approximation of equations increases the accuracy of the simulation but also increases its running time
+== see alsoedit ==

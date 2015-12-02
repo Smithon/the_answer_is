@@ -1,0 +1,81 @@
+the significant figures of a number are digits that carry meaning contributing to its measurement resolution this includes all digits except:
+all leading zeros;
+trailing zeros when they are merely placeholders to indicate the scale of the number (exact rules are explained at identifying significant figures); and
+spurious digits introduced for example by calculations carried out to greater precision than that of the original data or measurements reported to a greater precision than the equipment supports
+significance arithmetic are approximate rules for roughly maintaining significance throughout a computation the more sophisticated scientific rules are known as propagation of uncertainty
+numbers are often rounded to avoid reporting insignificant figures for example it would create false precision to express a measurement as 12.34500 kg (which has seven significant figures) if the scales only measured to the nearest gram and gave a reading of 12.345 kg (which has five significant figures)  numbers can also be rounded merely for simplicity rather than to indicate a given precision of measurement for example to make them faster to pronounce in news broadcasts
+== identifying significant figures ==
+=== concise rules ===
+all non-zero digits are significant
+zeros between non-zero digits are significant
+leading zeros are never significant
+in a number with a decimal point trailing zeros those to the right of the last non-zero digit are significant
+in a number without a decimal point trailing zeros may or may not be significant more information through additional graphical symbols or explicit information on errors is needed to clarify the significance of trailing zeros
+=== significant figures rules explained ===
+specifically the rules for identifying significant figures when writing or interpreting numbers are as follows:
+all non-zero digits are considered significant for example 91 has two significant figures (9 and 1) while 123.45 has five significant figures (1 2 3 4 and 5)
+zeros appearing anywhere between two non-zero digits are significant example: 101.1203 has seven significant figures: 1 0 1 1 2 0 and 3
+leading zeros are not significant for example 0.00052 has two significant figures: 5 and 2
+trailing zeros in a number containing a decimal point are significant for example 12.2300 has six significant figures: 1 2 2 3 0 and 0 the number 0.000122300 still has only six significant figures (the zeros before the 1 are not significant) in addition 120.00 has five significant figures since it has three trailing zeros this convention clarifies the precision of such numbers; for example if a measurement precise to four decimal places (0.0001) is given as 12.23 then it might be understood that only two decimal places of precision are available stating the result as 12.2300 makes clear that it is precise to four decimal places (in this case six significant figures)
+the significance of trailing zeros in a number not containing a decimal point can be ambiguous for example it may not always be clear if a number like 1300 is precise to the nearest unit (and just happens coincidentally to be an exact multiple of a hundred) or if it is only shown to the nearest hundred due to rounding or uncertainty many conventions exist to address this issue:
+an overline sometimes also called an overbar or less accurately a vinculum or a macron may be placed over the last significant figure; any trailing zeros following this are insignificant for example 1300 has three significant figures (and hence indicates that the number is precise to the nearest ten)
+less often using a closely related convention the last significant figure of a number may be underlined; for example "2000" has two significant figures
+a decimal point may be placed after the number; for example "100." indicates specifically that three significant figures are meant
+in the combination of a number and a unit of measurement the ambiguity can be avoided by choosing a suitable unit prefix for example the number of significant figures in a mass specified as 1300 g is ambiguous while in a mass of 13 hg or 1.3 kg it is not
+however these conventions are not universally used and it is often necessary to determine from context whether such trailing zeros are intended to be significant if all else fails the level of rounding can be specified explicitly the abbreviation s.f is sometimes used for example "20 000 to 2 s.f." or "20 000 (2 sf)" alternatively the uncertainty can be stated separately and explicitly with a plus-minus sign as in 20 000 1% so that significant-figures rules do not apply this also allows specifying a precision in-between powers of ten (or whatever the base power of the numbering system is)
+=== scientific notation ===
+in most cases the same rules apply to numbers expressed in scientific notation however in the normalized form of that notation placeholder leading and trailing digits do not occur so all digits are significant for example 69961200000000000000.00012 (two significant figures) becomes 69961200000000000001.2104 and 69971222999999999990.00122300 (six significant figures) becomes 69971223000000000001.22300103 in particular the potential ambiguity about the significance of trailing zeros is eliminated for example 70031300000000000001300 to four significant figures is written as 70031300000000000001.300103 while 70031300000000000001300 to two significant figures is written as 70031300000000000001.3103
+the part of the representation that contains the significant figures (as opposed to the base or the exponent) is known as the significand or mantissa
+== rounding and decimal places ==
+the basic concept of significant figures is often used in connection with rounding rounding to significant figures is a more general-purpose technique than rounding to n decimal places since it handles numbers of different scales in a uniform way for example the population of a city might only be known to the nearest thousand and be stated as 52,000 while the population of a country might only be known to the nearest million and be stated as 52,000,000 the former might be in error by hundreds and the latter might be in error by hundreds of thousands but both have two significant figures (5 and 2) this reflects the fact that the significance of the error (its likely size relative to the size of the quantity being measured) is the same in both cases
+to round to n significant figures:
+if the first non-significant figure is a 5 followed by other non-zero digits round up the last significant figure (away from zero) for example 1.2459 as the result of a calculation or measurement that only allows for 3 significant figures should be written 1.25
+if the first non-significant figure is a 5 not followed by any other digits or followed only by zeros rounding requires a tie-breaking rule for example to round 1.25 to 2 significant figures:
+round half up (also known as "5/4") rounds up to 1.3 this is the default rounding method implied in many disciplines if not specified
+round half to even which rounds to the nearest even number rounds down to 1.2 in this case the same strategy applied to 1.35 would instead round up to 1.4
+replace non-significant figures in front of the decimal by zeros
+in financial calculations a number is often rounded to a given number of places (for example to two places after the decimal separator for many world currencies) rounding to a fixed number of decimal places in this way is an orthographic convention that does not maintain significance and may either lose information or create false precision
+as an illustration the decimal quantity 12.345 can be expressed with various numbers of significant digits or decimal places if insufficient precision is available then the number is rounded in some manner to fit the available precision the following table shows the results for various total precisions and decimal places rounded to the nearest value using the round-to-even method
+the representation of a positive number x to a precision of p significant digits has a numerical value that is given by the formula:
+round(10nx)10n where n = floor(log10 x) + 1 p
+for negative numbers the formula can be used on the absolute value; for zero no transformation is necessary note that the result may need to be written with one of the above conventions explained in the section "identifying significant figures" to indicate the actual number of significant digits if the result includes for example trailing significant zeros
+== arithmetic ==
+as there are rules for determining the number of significant figures in directly measured quantities there are rules for determining the number of significant figures in quantities calculated from these measured quantities
+only measured quantities figure into the determination of the number of significant figures in calculated quantities exact mathematical quantities like the in the formula for the area of a circle with radius r r2 has no effect on the number of significant figures in the final calculated area similarly the in the formula for the kinetic energy of a mass m with velocity v mv2 has no bearing on the number of significant figures in the final calculated kinetic energy the constants and are considered to have an infinite number of significant figures
+for quantities created from measured quantities by multiplication and division the calculated result should have as many significant figures as the measured number with the least number of significant figures for example
+1.234 2.0 = 2.468 2.5
+with only two significant figures the first factor has four significant figures and the second has two significant figures the factor with the least number of significant figures is the second one with only two so the final calculated result should also have a total of two significant figures
+for quantities created from measured quantities by addition and subtraction the last significant decimal place (hundreds tens ones tenths and so forth) in the calculated result should be the same as the leftmost or largest decimal place of the last significant figure out of all the measured quantities in the terms of the sum for example
+100.0 + 1.234 = 101.234 101.2
+with the last significant figure in the tenths place the first term has its last significant figure in the tenths place and the second term has its last significant figure in the thousandths place the leftmost of the decimal places of the last significant figure out of all the terms of the sum is the tenths place from the first term so the calculated result should also have its last significant figure in the tenths place
+the rules for calculating significant figures for multiplication and division are opposite to the rules for addition and subtraction for multiplication and division only the total number of significant figures in each of the factors matter; the decimal place of the last significant figure in each factor is irrelevant for addition and subtraction only the decimal place of the last significant figure in each of the terms matters; the total number of significant figures in each term is irrelevant
+in a base 10 logarithm of a normalized number the result should be rounded to the number of significant figures in the normalized number for example log10(3.000104) = log10(104) + log10(3.000) 4 + 0.47712125472 should be rounded to 4.4771
+when taking antilogarithms the resulting number should have as many significant figures as the mantissa in the logarithm
+when performing a calculation do not follow these guidelines for intermediate results; keep as many digits as is practical (at least 1 more than implied by the precision of the final result) until the end of calculation to avoid cumulative rounding errors
+== estimating tenths ==
+when using a ruler initially use the smallest mark as the first estimated digit for example if a ruler's smallest mark is cm and 4.5 cm is read it is 4.5 (0.1 cm) or 4.4 4.6 cm
+it is possible that the overall length of a ruler may not be accurate to the degree of the smallest mark and the marks may be imperfectly spaced within each unit however assuming a normal good quality ruler it should be possible to estimate tenths between the nearest two marks to achieve an extra decimal place of accuracy failing to do this adds the error in reading the ruler to any error in the calibration of the ruler
+== estimation ==
+when estimating the proportion of individuals carrying some particular characteristic in a population from a random sample of that population the number of significant figures should not exceed the maximum precision allowed by that sample size the correct number of significant figures is given by the order of magnitude of sample size this can be found by taking the base 10 logarithm of sample size and rounding to the nearest integer
+for example in a poll of 120 randomly chosen viewers of a regularly visited web page we find that 10 people disagree with a proposition on that web page the order of magnitude of our sample size is log10(120) = 2.0791812460 which rounds to 2 our estimated proportion of people who disagree with the proposition is therefore 0.083 or 8.3% with 2 significant figures this is because in different samples of 120 people from this population our estimate would vary in units of 1/120 and any additional figures would misrepresent the size of our sample by giving spurious precision to interpret our estimate of the number of viewers who disagree with the proposition we should then calculate some measure of our confidence in this estimate
+== relationship to accuracy and precision in measurement ==
+traditionally in various technical fields "accuracy" refers to the closeness of a given measurement to its true value; "precision" refers to the stability of that measurement when repeated many times hoping to reflect the way the term "accuracy" is actually used in the scientific community there is a more recent standard iso 5725 which keeps the same definition of precision but defines the term "trueness" as the closeness of a given measurement to its true value and uses the term "accuracy" as the combination of trueness and precision (see the accuracy and precision article for a fuller discussion.) in either case the number of significant figures roughly corresponds to precision not to either use of the word accuracy or to the newer concept of trueness
+== in computing ==
+computer representations of floating point numbers typically use a form of rounding to significant figures but with binary numbers the number of correct significant figures is closely related to the notion of relative error (which has the advantage of being a more accurate measure of precision and is independent of the radix of the number system used)
+== see also ==
+accuracy and precision
+benford's law (first digit law)
+engineering notation
+error bar
+false precision
+ieee754 (ieee floating point standard)
+interval arithmetic
+kahan summation algorithm
+precision (computer science)
+round-off error
+== references ==
+== further reading ==
+subcommittee e11.30 (2013) standard practice for using significant digits in test data to determine conformance with specifications astm international doi:10.1520/e0029-08 astm e29-13
+== external links ==
+significant figures calculator
+significant figures video by khan academy

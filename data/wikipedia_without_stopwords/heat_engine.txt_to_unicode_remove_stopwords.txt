@@ -1,0 +1,108 @@
+thermodynamics heat engine system converts heat thermal energy mechanical energy used mechanical work bringing working substance higher state temperature lower state temperature heat source generates thermal energy brings working substance high temperature state working substance generates work working body engine transferring heat colder sink reaches low temperature state process thermal energy converted work exploiting properties working substance working substance system nonzero heat capacity usually gas liquid
+general engine converts energy mechanical work heat engines distinguish types engines fact efficiency fundamentally limited carnots theorem although efficiency limitation drawback advantage heat engines forms energy easily converted heat processes like exothermic reactions combustion absorption light energetic particles friction dissipation resistance since heat source supplies thermal energy engine thus powered virtually kind energy heat engines versatile wide range applicability
+heat engines often confused cycles attempt mimic typically describing physical device term engine used describing model term cycle used
+overview
+thermodynamics heat engines often modeled using standard engineering model otto cycle theoretical model refined augmented actual data operating engine using tools indicator diagram since actual implementations heat engines exactly match underlying thermodynamic cycles one could say thermodynamic cycle ideal case mechanical engine case fully understanding engine efficiency requires gaining good understanding possibly simplified idealized theoretical model practical nuances actual mechanical engine discrepancies two
+general terms larger difference temperature hot source cold sink larger potential thermal efficiency cycle earth cold side heat engine limited close ambient temperature environment much lower kelvin efforts improve thermodynamic efficiencies various heat engines focus increasing temperature source within material limits maximum theoretical efficiency heat engine engine ever attains equal temperature difference hot cold ends divided temperature hot end expressed absolute temperature kelvins
+efficiency various heat engines proposed used today large range
+percent percent waste heat using low quality heat otec ocean power proposal
+percent automotive gasoline engines
+percent supercritical coalfired power station avedre power station
+percent steamcooled combined cycle gas turbine
+processes gain efficiency lack thereof temperature drop across significant energy may used auxiliary equipment pumps effectively reduces efficiency
+power
+heat engines characterized specific power typically given kilowatts per litre engine displacement us also horsepower per cubic inch result offers approximation peak power output engine confused fuel efficiency since high efficiency often requires lean fuelair ratio thus lower power density modern highperformance car engine makes excess kwl hpin
+everyday examples
+examples everyday heat engines include steam engine example trains diesel engine gasoline petrol engine automobile common toy also heat engine drinking bird also stirling engine heat engine familiar heat engines powered expansion heated gases general surroundings heat sink provides relatively cool gases heated expand rapidly drive mechanical motion engine
+examples heat engines
+important note although cycles typical combustion location internal external often implemented example john ericsson developed external heated engine running cycle much like earlier diesel cycle addition externally heated engines often implemented open closed cycles
+earths heat engine
+earths atmosphere hydrosphereearths heat engineare coupled processes constantly even solar heating imbalances evaporation surface water convection rainfall winds ocean circulation distributing heat around globe
+hadley system provides example heat engine hadley circulation identified rising warm moist air equatorial region descent colder air subtropics corresponding thermally driven direct circulation consequent net production kinetic energy
+phasechange cycles
+cycles engines working fluids gases liquids engine converts working fluid gas liquid liquid gas generating work fluid expansion compression
+rankine cycle classical steam engine
+regenerative cycle steam engine efficient rankine cycle
+organic rankine cycle coolant changing phase temperature ranges ice hot liquid water
+vapor liquid cycle drinking bird injector minto wheel
+liquid solid cycle frost heaving water changing ice liquid back lift rock cm
+solid gas cycle dry ice cannon dry ice sublimes gas
+gasonly cycles
+cycles engines working fluid always gas ie phase change
+carnot cycle carnot heat engine
+ericsson cycle caloric ship john ericsson
+stirling cycle stirling engine thermoacoustic devices
+internal combustion engine ice
+otto cycle eg gasolinepetrol engine highspeed diesel engine
+diesel cycle eg lowspeed diesel engine
+atkinson cycle atkinson engine
+brayton cycle joule cycle originally ericsson cycle gas turbine
+lenoir cycle eg pulse jet engine
+miller cycle
+liquid cycle
+cycles engines working fluid always like liquid
+stirling cycle malone engine
+heat regenerative cyclone
+electron cycles
+johnson thermoelectric energy converter
+thermoelectric peltierseebeck effect
+thermogalvanic cell
+thermionic emission
+thermotunnel cooling
+magnetic cycles
+thermomagnetic motor tesla
+cycles used refrigeration
+domestic refrigerator example heat pump heat engine reverse work used create heat differential many cycles run reverse move heat cold side hot side making cold side cooler hot side hotter internal combustion engine versions cycles nature reversible
+refrigeration cycles include
+vaporcompression refrigeration
+stirling cryocoolers
+gasabsorption refrigerator
+air cycle machine
+vuilleumier refrigeration
+magnetic refrigeration
+evaporative heat engines
+barton evaporation engine heat engine based cycle producing power cooled moist air evaporation water hot dry air
+mesoscopic heat engines
+mesoscopic heat engines nanoscale devices may serve goal processing heat fluxes perform useful work small scales potential applications include eg electric cooling devices mesoscopic heat engines work per cycle operation fluctuates due thermal noise exact equality relates average exponents work performed heat engine heat transfer hotter heat bath relation transforms carnots inequality exact equality
+efficiency
+efficiency heat engine relates much useful work output given amount heat energy input
+laws thermodynamics
+work extracted engine negative since work done engine
+heat energy taken high temperature system negative since heat extracted source hence positive
+heat energy delivered cold temperature system positive since heat added sink
+words heat engine absorbs heat energy high temperature heat source converting part useful work delivering rest cold temperature heat sink
+general efficiency given heat transfer process whether refrigerator heat pump engine defined informally ratio get put
+case engine one desires extract work puts heat transfer
+theoretical maximum efficiency heat engine depends temperatures operates efficiency usually derived using ideal imaginary heat engine carnot heat engine although engines using different cycles also attain maximum efficiency mathematically reversible processes change entropy cold reservoir negative hot reservoir ie keeping overall change entropy zero thus
+absolute temperature hot source cold sink usually measured kelvin note positive negative reversible workextracting process entropy overall increased rather moved hot highentropy system cold lowentropy one decreasing entropy heat source increasing heat sink
+reasoning behind maximal efficiency goes follows first assumed efficient heat engine carnot engine possible could driven reverse heat pump mathematical analysis used show assumed combination would result net decrease entropy since second law thermodynamics statistically improbable point exclusion carnot efficiency theoretical upper bound reliable efficiency process
+empirically heat engine ever shown run greater efficiency carnot cycle heat engine
+figure figure show variations carnot cycle efficiency figure indicates efficiency changes increase heat addition temperature constant compressor inlet temperature figure indicates efficiency changes increase heat rejection temperature constant turbine inlet temperature
+endoreversible heat engines
+carnot efficiency criterion heat engine performance fact nature maximally efficient carnot cycle must operate infinitesimal temperature gradient transfer heat two bodies differing temperatures irreversible therefore carnot efficiency expression applies infinitesimal limit major problem object heat engines output sort power infinitesimal power usually sought
+different measure ideal heat engine efficiency given considerations endoreversible thermodynamics cycle identical carnot cycle except two processes heat transfer reversible callen
+note units k r
+model better job predicting well realworld heat engines callen see also endoreversible thermodynamics
+shown endoreversible efficiency much closely models observed data
+history
+heat engines known since antiquity made useful devices time industrial revolution th century continue developed today
+heat engine enhancements
+engineers studied various heat engine cycles extensively effort improve amount usable work could extract given power source carnot cycle limit cannot reached gasbased cycle engineers worked least two ways possibly go around limit one way get better efficiency without bending rules
+increase temperature difference heat engine simplest way increase hot side temperature approach used modern combinedcycle gas turbines unfortunately physical limits melting point materials used build engine environmental concerns regarding nox production restrict maximum temperature workable heat engines modern gas turbines run temperatures high possible within range temperatures necessary maintain acceptable nox output another way increasing efficiency lower output temperature one new method use mixed chemical working fluids exploit changing behavior mixtures one famous socalled kalina cycle uses mix ammonia water working fluid mixture allows cycle generate useful power considerably lower temperatures processes
+exploit physical properties working fluid common exploitation use water socalled critical point socalled supercritical steam behavior fluids critical point changes radically materials water carbon dioxide possible exploit changes behavior extract greater thermodynamic efficiency heat engine even using fairly conventional brayton rankine cycle newer promising material applications co xenon also considered applications although little toxic
+exploit chemical properties working fluid fairly new novel exploit use exotic working fluids advantageous chemical properties one nitrogen dioxide toxic component smog natural dimer dinitrogen tetraoxide low temperature compressed heated increasing temperature causes break apart two molecules lowers molecular weight working fluid drastically increases efficiency cycle expanded turbine cooled heat sink makes recombine fed back compressor another cycle species aluminium bromide albr nocl gai investigated uses date drawbacks warranted use despite efficiency gains realized
+heat engine processes
+process one following
+isothermal constant temperature maintained heat added removed heat source sink
+isobaric constant pressure
+isometricisochoric constant volume also referred isovolumetric
+adiabatic heat added removed system adiabatic process
+isentropic reversible adiabatic process heat added removed isentropic process
+see also
+heat pump
+reciprocating engine general description mechanics piston engines
+thermosynthesis
+timeline heat engine technology
+references
+kroemer herbert kittel charles thermal physics nd ed w h freeman company isbn
+callen herbert b thermodynamics introduction thermostatistics nd ed john wiley sons inc isbn

@@ -1,0 +1,62 @@
+mechanics physics simple harmonic motion type periodic motion restoring force directly proportional displacement acts direction opposite displacement
+simple harmonic motion serve mathematical model variety motions oscillation spring addition phenomena approximated simple harmonic motion including motion simple pendulum well molecular vibration simple harmonic motion typified motion mass spring subject linear elastic restoring force given hookes law motion sinusoidal time demonstrates single resonant frequency simple harmonic motion accurate model pendulum net force object end pendulum must proportional displacement good approximation angle swing small
+simple harmonic motion provides basis characterization complicated motions techniques fourier analysis
+introduction
+diagram simple harmonic oscillator consisting weight attached one end spring shown end spring connected rigid support wall system left rest equilibrium position net force acting mass however mass displaced equilibrium position spring exerts restoring elastic force obeys hookes law
+mathematically restoring force f given
+f restoring elastic force exerted spring si units n k spring constant nm x displacement equilibrium position m
+simple mechanical harmonic oscillator
+system displaced equilibrium position restoring force obeys hookes law tends restore system equilibrium
+mass displaced equilibrium position experiences net restoring force result accelerates starts going back equilibrium position mass moves closer equilibrium position restoring force decreases equilibrium position net restoring force vanishes however x mass momentum acceleration restoring force imparted therefore mass continues past equilibrium position compressing spring net restoring force slows velocity reaches zero whereupon accelerated back equilibrium position
+long system energy loss mass continues oscillate thus simple harmonic motion type periodic motion
+dynamics simple harmonic motion
+onedimensional simple harmonic motion equation motion secondorder linear ordinary differential equation constant coefficients obtained means newtons second law hookes law mass spring
+m inertial mass oscillating body x displacement equilibrium mean position k constant spring constant mass spring
+therefore
+solving differential equation produces solution sinusoidal function
+solution c c two constants determined initial conditions origin set equilibrium position constants carries physical meaning motion amplitude maximum displacement equilibrium position f angular frequency phase
+using techniques calculus velocity acceleration function time found
+speed
+maximum speed equilibrium point
+maximum acceleration extreme points
+definition mass m shm acceleration directly proportional displacement
+since f
+since f time period
+equations demonstrate simple harmonic motion isochronous period frequency independent amplitude initial phase motion
+energy
+kinetic energy k system time
+potential energy
+total mechanical energy system therefore constant value
+examples
+following physical systems examples simple harmonic oscillator
+mass spring
+mass m attached spring spring constant k exhibits simple harmonic motion closed space equation
+shows period oscillation independent amplitude gravitational acceleration equation also valid case additional constant force applied mass ie additional constant force cannot change period oscillation
+uniform circular motion
+simple harmonic motion considered onedimensional projection uniform circular motion object moves angular speed around circle radius r centered origin xy plane motion along coordinate simple harmonic motion amplitude r angular frequency
+mass simple pendulum
+smallangle approximation motion simple pendulum approximated simple harmonic motion period mass attached pendulum length gravitational acceleration g given
+shows period oscillation independent amplitude mass pendulum acceleration due gravity g therefore pendulum length moon would swing slowly due moons lower gravitational field strength
+approximation accurate small angles expression angular acceleration proportional sine displacement angle
+moment inertia small sin therefore expression becomes
+makes angular acceleration directly proportional satisfying definition simple harmonic motion
+scotch yoke
+scotch yoke mechanism used convert rotational motion linear reciprocating motion linear motion take various forms depending shape slot basic yoke constant rotation speed produces linear motion simple harmonic form
+see also
+smallangle approximation
+isochronous
+uniform circular motion
+complex harmonic motion
+damping
+harmonic oscillator
+pendulum mathematics
+circle group
+notes
+references
+walker jearl principles physics th ed hoboken nj wiley isbn
+thornton stephen marion jerry b classical dynamics particles systems th ed brooks cole isbn
+john r taylor classical mechanics university science books isbn x
+grant r fowles george l cassiday analytical mechanics th ed thomson brookscole isbn
+external links
+simple harmonic motion hyperphysics
+java simulation springmass oscillator

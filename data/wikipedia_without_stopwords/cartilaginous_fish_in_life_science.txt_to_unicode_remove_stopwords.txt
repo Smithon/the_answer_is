@@ -1,0 +1,75 @@
+physics resonance phenomenon occurs vibrating system external force drives another system oscillate greater amplitude specific preferential frequency
+frequencies response amplitude relative maximum known systems resonant frequencies resonance frequencies resonant frequencies small periodic driving forces ability produce large amplitude oscillations system stores vibrational energy
+resonance occurs system able store easily transfer energy two different storage modes kinetic energy potential energy case pendulum however losses cycle cycle called damping damping small resonant frequency approximately equal natural frequency system frequency unforced vibrations systems multiple distinct resonant frequencies
+resonance phenomena occur types vibrations waves mechanical resonance acoustic resonance electromagnetic resonance nuclear magnetic resonance nmr electron spin resonance esr resonance quantum wave functions resonant systems used generate vibrations specific frequency eg musical instruments pick specific frequencies complex vibration containing many frequencies eg filters
+term resonance latin resonantia echo resonare resound originates field acoustics particularly observed musical instruments eg strings started vibrate produce sound without direct excitation player
+examples
+familiar example playground swing acts pendulum pushing person swing time natural interval swing resonant frequency makes swing go higher higher maximum amplitude attempts push swing faster slower tempo produce smaller arcs energy swing absorbs maximized pushes phase swings natural oscillations swings energy actually extracted opposing force pushes
+resonance occurs widely nature exploited many manmade devices mechanism virtually sinusoidal waves vibrations generated many sounds hear hard objects metal glass wood struck caused brief resonant vibrations object light short wavelength electromagnetic radiation produced resonance atomic scale electrons atoms examples
+timekeeping mechanisms modern clocks watches eg balance wheel mechanical watch quartz crystal quartz watch
+tidal resonance bay fundy
+acoustic resonances musical instruments human vocal tract
+shattering crystal wineglass exposed musical tone right pitch resonant frequency
+electrical resonance tuned circuits radios tvs allow radio frequencies selectively received
+reed receiver
+frequency meters
+creation coherent light optical resonance laser cavity
+orbital resonance exemplified moons solar systems gas giants
+material resonances atomic scale basis several spectroscopic techniques used condensed matter physics
+electron spin resonance
+mssbauer effect
+nuclear magnetic resonance
+theory
+exact response resonance especially frequencies far resonant frequency depends details physical system usually exactly symmetric resonant frequency illustrated simple harmonic oscillator lightly damped linear oscillator resonance frequency intensity oscillations system driven driving frequency typically approximated formula symmetric resonance frequency
+intensity defined square amplitude oscillations lorentzian function response found many physical situations involving resonant systems parameter dependent damping oscillator known linewidth resonance heavily damped oscillators tend broad linewidths respond wider range driving frequencies around resonant frequency linewidth inversely proportional q factor measure sharpness resonance
+electrical engineering approximate symmetric response known universal resonance curve concept introduced frederick e terman simplify approximate analysis radio circuits range center frequencies q values
+resonators
+physical system many resonant frequencies degrees freedom degree freedom vibrate harmonic oscillator systems one degree freedom mass spring pendulums balance wheels lc tuned circuits one resonant frequency systems two degrees freedom coupled pendulums resonant transformers two resonant frequencies number coupled harmonic oscillators grows time takes transfer energy one next becomes significant vibrations begin travel coupled harmonic oscillators waves one oscillator next
+extended objects experience resonance due vibrations inside called resonators organ pipes vibrating strings quartz crystals microwave cavities laser rods since viewed made millions coupled moving parts atoms millions resonant frequencies vibrations inside travel waves approximately constant velocity bouncing back forth sides resonator distance sides length roundtrip cause resonance phase sinusoidal wave roundtrip must equal initial phase waves reinforce oscillation condition resonance resonator roundtrip distance equal integer number wavelengths wave
+velocity wave frequency resonant frequencies
+resonant frequencies resonators called normal modes equally spaced multiples lowest frequency called fundamental frequency multiples often called overtones may several series resonant frequencies corresponding different modes vibration
+q factor
+q factor quality factor dimensionless parameter describes underdamped oscillator resonator equivalently characterizes resonators bandwidth relative center frequency higher q indicates lower rate energy loss relative stored energy oscillator ie oscillations die slowly pendulum suspended highquality bearing oscillating air high q pendulum immersed oil low q sustain system resonance constant amplitude providing power externally energy provided cycle must less energy stored system ie sum potential kinetic factor oscillators highquality factors low damping tends make ring longer
+sinusoidally driven resonators higher q factors resonate greater amplitudes resonant frequency smaller range frequencies around frequency resonate range frequencies oscillator resonates called bandwidth thus high q tuned circuit radio receiver would difficult tune would greater selectivity would better job filtering signals stations lie nearby spectrum high q oscillators operate smaller range frequencies stable see oscillator phase noise
+quality factor oscillators varies substantially system system systems damping important dampers keeping door slamming shut q clocks lasers systems need either strong resonance high frequency stability need highquality factors tuning forks quality factors around q quality factor atomic clocks highq lasers reach high higher
+many alternate quantities used physicists engineers describe damped oscillator closely related quality factor important examples include damping ratio relative bandwidth linewidth bandwidth measured octaves
+types resonance
+mechanical acoustic resonance
+mechanical resonance tendency mechanical system absorb energy frequency oscillations matches systems natural frequency vibration frequencies may cause violent swaying motions even catastrophic failure improperly constructed structures including bridges buildings trains aircraft designing objects engineers must ensure mechanical resonance frequencies component parts match driving vibrational frequencies motors oscillating parts phenomenon known resonance disaster
+avoiding resonance disasters major concern every building tower bridge construction project countermeasure shock mounts installed absorb resonant frequencies thus dissipate absorbed energy taipei building relies tonne pendulum shorttona tuned mass damperto cancel resonance furthermore structure designed resonate frequency typically occur buildings seismic zones often constructed take account oscillating frequencies expected ground motion addition engineers designing objects engines must ensure mechanical resonant frequencies component parts match driving vibrational frequencies motors strongly oscillating parts
+clocks keep time mechanical resonance balance wheel pendulum quartz crystal
+cadence runners hypothesized energetically favorable due resonance elastic energy stored lower limb mass runner
+acoustic resonance branch mechanical resonance concerned mechanical vibrations across frequency range human hearing words sound humans hearing normally limited frequencies hz hz khz
+acoustic resonance important consideration instrument builders acoustic instruments use resonators strings body violin length tube flute shape tension drum membrane
+like mechanical resonance acoustic resonance result catastrophic failure object resonance classic example breaking wine glass sound precise resonant frequency glass although difficult practice
+electrical resonance
+electrical resonance occurs electric circuit particular resonant frequency impedance circuit minimum series circuit maximum parallel circuit transfer function maximum
+optical resonance
+optical cavity also called optical resonator arrangement mirrors forms standing wave cavity resonator light waves optical cavities major component lasers surrounding gain medium providing feedback laser light also used optical parametric oscillators interferometers light confined cavity reflects multiple times producing standing waves certain resonant frequencies standing wave patterns produced called modes longitudinal modes differ frequency transverse modes differ different frequencies different intensity patterns across crosssection beam ring resonators whispering galleries examples optical resonators form standing waves
+different resonator types distinguished focal lengths two mirrors distance flat mirrors often used difficulty aligning precisely geometry resonator type must chosen beam remains stable ie beam size continue grow reflection resonator types also designed meet criteria minimum beam waist focal point therefore intense light point inside cavity
+optical cavities designed large q factor beam reflects large number times little attenuationtherefore frequency line width beam small compared frequency laser
+additional optical resonances guidedmode resonances surface plasmon resonance result anomalous reflection high evanescent fields resonance case resonant modes guided modes waveguide surface plasmon modes dielectricmetallic interface modes usually excited subwavelength grating
+orbital resonance
+celestial mechanics orbital resonance occurs two orbiting bodies exert regular periodic gravitational influence usually due orbital periods related ratio two small integers orbital resonances greatly enhance mutual gravitational influence bodies cases results unstable interaction bodies exchange momentum shift orbits resonance longer exists circumstances resonant system stable selfcorrecting bodies remain resonance examples resonance jupiters moons ganymede europa io resonance pluto neptune unstable resonances saturns inner moons give rise gaps rings saturn special case resonance bodies similar orbital radii causes large solar system bodies clear neighborhood around orbits ejecting nearly everything else around effect used current definition planet
+atomic particle molecular resonance
+nuclear magnetic resonance nmr name given physical resonance phenomenon involving observation specific quantum mechanical magnetic properties atomic nucleus presence applied external magnetic field many scientific techniques exploit nmr phenomena study molecular physics crystals noncrystalline materials nmr spectroscopy nmr also routinely used advanced medical imaging techniques magnetic resonance imaging mri
+nuclei containing odd numbers nucleons intrinsic magnetic moment angular momentum key feature nmr resonant frequency particular substance directly proportional strength applied magnetic field feature exploited imaging techniques sample placed nonuniform magnetic field resonant frequencies samples nuclei depend field located therefore particle located quite precisely resonant frequency
+electron paramagnetic resonance otherwise known electron spin resonance esr spectroscopic technique similar nmr uses unpaired electrons instead materials applied much limited since material needs unpaired spin paramagnetic
+mssbauer effect resonant recoilfree emission absorption gamma ray photons atoms bound solid form
+resonance particle physics appears similar circumstances classical physics level quantum mechanics quantum field theory however also thought unstable particles formula valid decay rate replaced particles mass m case formula comes particles propagator mass replaced complex number formula related particles decay rate optical theorem
+tacoma narrows bridge
+dramatically visible rhythmic twisting resulted collapse galloping gertie original tacoma narrows bridge misleadingly characterized example resonance phenomenon certain textbooks catastrophic vibrations destroyed bridge due simple mechanical resonance complicated interaction bridge winds passing ita phenomenon known aeroelastic flutter kind selfsustaining vibration referred nonlinear theory vibrations robert h scanlan father bridge aerodynamics written article misunderstanding
+international space station
+rocket engines international space station iss controlled autopilot ordinarily uploaded parameters controlling engine control system zvezda module make rocket engines boost international space station higher orbit rocket engines hingemounted ordinarily crew doesnt notice operation january however uploaded parameters made autopilot swing rocket engines larger larger oscillations frequency hz oscillations captured video lasted seconds
+see also
+references
+external links
+definition resonance increase amplitude oscillation electric mechanical system exposed periodic force whose frequency equal close natural undamped frequency system
+resonance chapter online textbook
+greene brian resonance strings elegant universe nova pbs
+hyperphysics section resonance concepts
+resonance versus resonant usage terms
+wood air resonance harpsichord
+java applet demonstrating resonances string frequency driving force varied
+java applet demonstrating occurrence resonance driving frequency matches natural frequency oscillator
+breaking glass sound including highspeed footage glass breaking

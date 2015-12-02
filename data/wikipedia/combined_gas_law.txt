@@ -1,0 +1,57 @@
+the combined gas law is a gas law that combines charles's law boyle's law and gay-lussac's law there is no official founder for this law; it is merely an amalgamation of the three previously discovered laws these laws each relate one thermodynamic variable to another mathematically while holding everything else constant charles's law states that volume and temperature are directly proportional to each other as long as pressure is held constant boyle's law asserts that pressure and volume are inversely proportional to each other at fixed temperature finally gay-lussac's law introduces a direct proportionality between temperature and pressure as long as it is at a constant volume the inter-dependence of these variables is shown in the combined gas law which clearly states that:
+this can be stated mathematically as:
+where:
+p is the pressure
+v is the volume
+t is the temperature measured in kelvin
+k is a constant (with units of energy divided by temperature)
+for comparing the same substance under two different sets of conditions the law can be written as:
+the addition of avogadro's law to the combined gas law yields the ideal gas law
+== derivation from the gas lawsedit ==
+boyle's law states that the pressure-volume product is constant:
+charles's law shows that the volume is proportional to the absolute temperature:
+gay-lussac's law says that the pressure is proportional to the absolute temperature:
+where p is the pressure v the volume and t the absolute temperature of an ideal gas
+by combining (1) and either of (2) or (3) we can gain a new equation with p v and t if we divide equation (1) by temperature and multiply equation (2) by pressure we will get:
+as the left-hand side of both equations is the same we arrive at  which obviously means that
+substituting in avogadro's law yields the ideal gas equation
+== physical derivationedit ==
+a derivation of the combined gas law using only elementary algebra can contain surprises for example starting from the three empirical laws
+(1) gay-lussac's law volume assumed constant
+(2) charles's law pressure assumed constant
+(3) boyle's law temperature assumed constant
+where kv kp and kt are the constants one can multiply the three together to obtain
+taking the square root of both sides and dividing by t appears to produce of the desired result
+however if before applying the above procedure one merely rearranges the terms in boyle's law kt = p v then after canceling and rearranging one obtains
+which is not very helpful if not misleading
+a physical derivation longer but more reliable begins by realizing that the constant volume parameter in gay-lussac's law will change as the system volume changes at constant volume v1 the law might appear p = k1 t while at constant volume v2 it might appear p= k2 t denoting this "variable constant volume" by kv(v) rewrite the law as
+(4)
+the same consideration applies to the constant in charles's law which may be rewritten
+(5)
+in seeking to find kv(v) one should not unthinkingly eliminate t between (4) and (5) since p is varying in the former while it is assumed constant in the latter rather it should first be determined in what sense these equations are compatible with one another to gain insight into this recall that any two variables determine the third choosing p and v to be independent we picture the t values forming a surface above the pv plane a definite v0 and p0 define a t0 a point on that surface substituting these values in (4) and (5) and rearranging yields
+since these both describe what is happening at the same point on the surface the two numeric expressions can be equated and rearranged
+(6)
+note that 1/kv(v0) and 1/kp(p0) are the slopes of orthogonal lines parallel to the p-axis/v-axis and through that point on the surface above the pv plane the ratio of the slopes of these two lines depends only on the value of p0 / v0 at that point
+note that the functional form of (6) did not depend on the particular point chosen the same formula would have arisen for any other combination of p and v values therefore one can write
+(7)
+this says that each point on the surface has it own pair of orthogonal lines through it with their slope ratio depending only on that point whereas (6) is a relation between specific slopes and variable values (7) is a relation between slope functions and function variables it holds true for any point on the surface i.e for any and all combinations of p and v values to solve this equation for the function kv(v) first separate the variables v on the left and p on the right
+choose any pressure p1 the right side evaluates to some arbitrary value call it karb
+(8)
+this particular equation must now hold true not just for one value of v but for all values of v the only definition of kv(v) that guarantees this for all v and arbitrary karb is
+(9)
+which may be verified by substitution in (8)
+finally substituting (9) in gay-lussac's law (4) and rearranging produces the combined gas law
+note that while boyle's law was not used in this derivation it is easily deduced from the result generally any two of the three starting laws are all that is needed in this type of derivation all starting pairs lead to the same combined gas law
+== applicationsedit ==
+the combined gas law can be used to explain the mechanics where pressure temperature and volume are affected for example: air conditioners refrigerators and the formation of clouds and also use in fluid mechanics and thermodynamics
+== see alsoedit ==
+boyle's law
+charles's law
+gay-lussac's law
+dalton's law
+ideal gas law
+== notesedit ==
+== sourcesedit ==
+raff lionel principles of physical chemistry new jersey: prentice-hall 2001
+== external linksedit ==
+interactive java applet on the combined gas law by wolfgang bauer

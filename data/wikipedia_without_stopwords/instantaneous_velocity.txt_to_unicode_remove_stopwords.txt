@@ -1,0 +1,64 @@
+velocity object rate change position respect frame reference function time velocity equivalent specification speed direction motion eg kmh north velocity important concept kinematics branch classical mechanics describes motion bodies
+velocity physical vector quantity magnitude direction needed define scalar absolute value magnitude velocity called speed quantity measured metres per second ms ms si metric system example metres per second scalar vector whereas metres per second east vector
+change speed direction object changing velocity said undergoing acceleration
+constant velocity vs accelerationedit
+constant velocity object must constant speed constant direction constant direction constrains object motion straight path objects path curve thus constant velocity means motion straight line constant speed
+example car moving constant kilometres per hour circular path constant speed constant velocity direction changes hence car considered undergoing acceleration
+distinction speed velocityedit
+speed describes fast object moving whereas velocity gives fast direction object moving car said travel kmh speed specified however car said move kmh north velocity specified
+big difference noticed consider movement around circle something moves circle returns starting point average velocity zero average speed found dividing circumference circle time taken move around circle average velocity calculated considering displacement starting end points average speed considers total distance traveled
+equation motionedit
+average velocityedit
+velocity defined rate change position respect time may also referred instantaneous velocity emphasize distinction average velocity applications average velocity object might needed say constant velocity would provide resultant displacement variable velocity time interval vt time period average velocity calculated
+average velocity always less equal average speed object seen realizing distance always strictly increasing displacement increase decrease magnitude well change direction
+terms displacementtime x vs graph instantaneous velocity simply velocity thought slope tangent line curve point average velocity slope secant line two points coordinates equal boundaries time period average velocity
+average velocity velocity averaged time say timeweighted average may calculated time integral velocity
+may identify
+instantaneous velocityedit
+consider v velocity x displacement change position vector express instantaneous velocity particle object particular time derivative position respect time
+derivative equation onedimensional case seen area velocity vs time v vs graph displacement x calculus terms integral velocity function vt displacement function xt figure corresponds yellow area curve labeled alternative notation displacement
+since derivative position respect time gives change position metres divided change time seconds velocity measured metres per second ms although concept instantaneous velocity might first seem counterintuitive may thought velocity object would continue travel stopped accelerating moment
+relationship accelerationedit
+although velocity defined rate change position often common start expression objects acceleration seen three green tangent lines figure objects instantaneous acceleration point time slope line tangent curve v vs graph point words acceleration defined derivative velocity respect time
+obtain expression velocity area acceleration vs time vs graph done using concept integral
+constant accelerationedit
+special case constant acceleration velocity studied using suvat equations considering equal arbitrary constant vector trivial show
+v velocity time u velocity time combining equation suvat equation x ut possible relate displacement average velocity
+also possible derive expression velocity independent time known torricelli equation follows
+v v etc
+equations valid newtonian mechanics special relativity newtonian mechanics special relativity differ different observers would describe situation particular newtonian mechanics observers agree value transformation rules position create situation nonaccelerating observers would describe acceleration object values neither true special relativity words relative velocity calculated
+quantities dependent velocityedit
+kinetic energy moving object dependent velocity given equation
+ignoring special relativity ek kinetic energy m mass kinetic energy scalar quantity depends square velocity however related quantity momentum vector defined
+special relativity dimensionless lorentz factor appears frequently given
+lorentz factor c speed light
+escape velocity minimum speed ballistic object needs escape massive body earth represents kinetic energy added objects gravitational potential energy always negative equal zero general formula escape velocity object distance r center planet mass m
+g gravitational constant g gravitational acceleration escape velocity earths surface ms irrespective direction object
+relative velocityedit
+relative velocity measurement velocity two objects determined single coordinate system relative velocity fundamental classical modern physics since many systems physics deal relative motion two particles newtonian mechanics relative velocity independent chosen inertial reference frame case anymore special relativity velocities depend choice reference frame
+object moving velocity vector v object b velocity vector w velocity object relative object b defined difference two velocity vectors
+similarly relative velocity object b moving velocity w relative object moving velocity v
+usually inertial frame chosen latter two mentioned objects rest
+scalar velocitiesedit
+onedimensional case velocities scalars equation either
+two objects moving opposite directions
+two objects moving direction
+polar coordinatesedit
+polar coordinates twodimensional velocity described radial velocity defined component velocity away toward origin also known velocity made good angular velocity rate rotation origin positive quantities representing counterclockwise rotation negative quantities representing clockwise rotation righthanded coordinate system
+radial angular velocities derived cartesian velocity displacement vectors decomposing velocity vector radial transverse components transverse velocity component velocity along circle centered origin
+transverse velocity
+radial velocity
+magnitude radial velocity dot product velocity vector unit vector direction displacement
+displacement
+magnitude transverse velocity cross product unit vector direction displacement velocity vector also product angular speed magnitude displacement
+angular momentum scalar form mass times distance origin times transverse velocity equivalently mass times distance squared times angular speed sign convention angular momentum angular velocity
+mass
+expression known moment inertia forces radial direction inverse square dependence case gravitational orbit angular momentum constant transverse speed inversely proportional distance angular speed inversely proportional distance squared rate area swept constant relations known keplers laws planetary motion
+see alsoedit
+notesedit
+referencesedit
+robert resnick jearl walker fundamentals physics wiley sub edition june isbn
+external linksedit
+physicsclassroomcom speed velocity
+velocity acceleration
+introduction mechanisms carnegie mellon university

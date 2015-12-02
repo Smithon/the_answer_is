@@ -1,0 +1,47 @@
+seismic waves waves energy travel earths layers result earthquake explosion volcano gives lowfrequency acoustic energy many natural anthropogenic sources create lowamplitude waves commonly referred ambient vibrations seismic waves studied geophysicists called seismologists seismic wave fields recorded seismometer hydrophone water accelerometer
+propagation velocity waves depends density elasticity medium velocity tends increase depth ranges approximately kms earths crust kms deep mantle
+earthquakes create distinct types waves different velocities reaching seismic observatories different travel times help scientists locate source hypocenter geophysics refraction reflection seismic waves used research structure earths interior manmade vibrations often generated investigate shallow subsurface structures
+types
+among many types seismic waves one make broad distinction body waves surface waves
+body waves travel interior earth
+surface waves travel across surface surface waves decay slowly distance body waves travel three dimensions
+particle motion surface waves larger body waves surface waves tend cause damage
+modes wave propagation exist described article though comparatively minor importance earthborne waves important case asteroseismology
+body waves
+body waves travel interior earth create raypaths refracted varying density modulus stiffness earths interior density modulus turn vary according temperature composition phase effect resembles refraction light waves includes primary secondary waves
+primary waves
+primary waves pwaves compressional waves longitudinal nature p waves pressure waves travel faster waves earth arrive seismograph stations first hence name primary waves travel type material including fluids travel nearly twice speed waves air take form sound waves hence travel speed sound typical speeds ms air ms water ms granite
+secondary waves
+secondary waves swaves shear waves transverse nature following earthquake event swaves arrive seismograph stations fastermoving pwaves displace ground perpendicular direction propagation depending propagational direction wave take different surface characteristics example case horizontally polarized waves ground moves alternately one side swaves travel solids fluids liquids gases support shear stresses swaves slower pwaves speeds typically around pwaves given material
+surface waves
+seismic surface waves travel along earths surface classified form mechanical surface waves called surface waves diminish get surface travel slowly seismic body waves p large earthquakes surface waves amplitude several centimeters
+rayleigh waves
+rayleigh waves also called ground roll surface waves travel ripples motions similar waves surface water note however associated particle motion shallow depths retrograde restoring force rayleigh seismic waves elastic gravitational water waves existence waves predicted john william strutt lord rayleigh slower body waves roughly velocity waves typical homogeneous elastic media layered medium like crust upper mantle velocity rayleigh waves depends frequency wavelength see also lamb waves
+love waves
+love waves horizontally polarized shear waves sh waves existing presence semiinfinite medium overlain upper layer finite thickness named aeh love british mathematician created mathematical model waves usually travel slightly faster rayleigh waves wave velocity largest amplitude
+stoneley waves
+stoneley wave type boundary wave interface wave propagates along solidfluid boundary specific conditions also along solidsolid boundary amplitudes stoneley waves maximum values boundary two contacting media decay exponentially towards depth waves generated along walls fluidfilled borehole important source coherent noise vsps making low frequency component source sonic logging equation stoneley waves first given dr robert stoneley emeritus professor seismology cambridge
+free oscillations earth
+free oscillations earth standing waves result interference two surface waves traveling opposite directions interference rayleigh waves results spheroidal oscillation interference love waves gives toroidal oscillation modes oscillations specified three numbers eg nslm l angular order number spherical harmonic degree see spherical harmonics details number m azimuthal order number may take l values l l number n radial order number means wave n zero crossings radius spherically symmetric earth period given n l depend m
+examples spheroidal oscillations breathing mode involves expansion contraction whole earth period minutes rugby mode involves expansions along two alternating directions period minutes mode exist would require change center gravity would require external force
+fundamental toroidal modes represents changes earths rotation rate although occurs much slow useful seismology mode describes twisting northern southern hemispheres relative period minutes
+first observations free oscillations earth done great earthquake chile presently periods thousands modes known data used determining large scale structures earth interior
+p waves earths mantle core
+earthquake occurs seismographs near epicenter able record p waves greater distance longer detect high frequencies first wave since shear waves cannot pass liquids phenomenon original evidence wellestablished observation earth liquid outer core demonstrated richard dixon oldham kind observation also used argue seismic testing moon solid core although recent geodetic studies suggest core still molten
+notation
+path wave takes focus observation point often drawn ray diagram example shown figure reflections taken account infinite number paths wave take path denoted set letters describe trajectory phase earth general upper case denotes transmitted wave lower case denotes reflected wave two exceptions seem g n
+example
+scp wave begins traveling towards center earth wave upon reaching outer core wave reflects p wave
+spkikp wave path begins traveling towards surface swave surface reflects pwave pwave travels outer core inner core outer core mantle
+usefulness p waves locating event
+case local nearby earthquakes difference arrival times p waves used determine distance event case earthquakes occurred global distances three geographically diverse observing stations using common clock recording pwave arrivals permits computation unique time location planet event typically dozens even hundreds pwave arrivals used calculate hypocenters misfit generated hypocenter calculation known residual residuals second less typical distant events residuals typical local events meaning reported p arrivals fit computed hypocenter well typically location program start assuming event occurred depth km minimizes residual adjusting depth events occur depths shallower km occur deep km
+quick way determine distance location origin seismic wave less km away take difference arrival time p wave wave seconds multiply kilometers per second modern seismic arrays use complicated earthquake location techniques
+teleseismic distances first arriving p waves necessarily travelled deep mantle perhaps even refracted outer core planet travelling back earths surface seismographic stations located waves travel quickly traveled straight line earthquake due appreciably increased velocities within planet termed huygens principle density planet increases depth would slow waves modulus rock increases much deeper means faster therefore longer route take shorter time
+travel time must calculated accurately order compute precise hypocenter since p waves move many kilometers per second traveltime calculation even half second mean error many kilometers terms distance practice p arrivals many stations used errors cancel computed epicenter likely quite accurate order km around world dense arrays nearby sensors exist california provide accuracy roughly kilometer much greater accuracy possible timing measured directly crosscorrelation seismogram waveforms
+see also
+adamswilliamson equation
+helioseismology
+reflection seismology
+references
+external links
+edt matlab website seismic wave propagation

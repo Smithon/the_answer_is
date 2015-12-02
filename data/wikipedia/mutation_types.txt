@@ -1,0 +1,23 @@
+mutation is a genetic operator used to maintain genetic diversity from one generation of a population of genetic algorithm chromosomes to the next it is analogous to biological mutation mutation alters one or more gene values in a chromosome from its initial state in mutation the solution may change entirely from the previous solution hence ga can come to better solution by using mutation mutation occurs during evolution according to a user-definable mutation probability this probability should be set low if it is set too high the search will turn into a primitive random search
+the classic example of a mutation operator involves a probability that an arbitrary bit in a genetic sequence will be changed from its original state a common method of implementing the mutation operator involves generating a random variable for each bit in a sequence this random variable tells whether or not a particular bit will be modified this mutation procedure based on the biological point mutation is called single point mutation other types are inversion and floating point mutation when the gene encoding is restrictive as in permutation problems mutations are swaps inversions and scrambles
+the purpose of mutation in gas is preserving and introducing diversity mutation should allow the algorithm to avoid local minima by preventing the population of chromosomes from becoming too similar to each other thus slowing or even stopping evolution this reasoning also explains the fact that most ga systems avoid only taking the fittest of the population in generating the next but rather a random (or semi-random) selection with a weighting toward those that are fitter
+for different genome types different mutation types are suitable:
+bit string mutation
+the mutation of bit strings ensue through bit flips at random positions
+example:
+the probability of a mutation of a bit is  where is the length of the binary vector thus a mutation rate of per mutation and individual selected for mutation is reached
+flip bit
+this mutation operator takes the chosen genome and inverts the bits (i.e if the genome bit is 1 it is changed to 0 and vice versa)
+boundary
+this mutation operator replaces the genome with either lower or upper bound randomly this can be used for integer and float genes
+non-uniform
+the probability that amount of mutation will go to 0 with the next generation is increased by using non-uniform mutation operator it keeps the population from stagnating in the early stages of the evolution it tunes solution in later stages of evolution this mutation operator can only be used for integer and float genes
+uniform
+this operator replaces the value of the chosen gene with a uniform random value selected between the user-specified upper and lower bounds for that gene this mutation operator can only be used for integer and float genes
+gaussian
+this operator adds a unit gaussian distributed random value to the chosen gene if it falls outside of the user-specified lower or upper bounds for that gene the new gene value is clipped this mutation operator can only be used for integer and float genes
+== see also ==
+genetic algorithms
+== references ==
+== bibliography ==
+john holland adaptation in natural and artificial systems university of michigan press ann arbor michigan 1975 isbn 0-262-58111-6

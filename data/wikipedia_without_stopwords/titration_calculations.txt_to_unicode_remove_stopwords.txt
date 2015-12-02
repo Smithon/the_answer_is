@@ -1,0 +1,86 @@
+titration also known titrimetry common laboratory method quantitative chemical analysis used determine unknown concentration identified analyte since volume measurements play key role titration also known volumetric analysis reagent called titrant titrator prepared standard solution known concentration volume titrant reacts solution analyte titrand determine concentration volume titrant reacted called titration volume
+history etymology
+word titration comes latin word titulus meaning inscription title french word titre also origin means rank
+volumetric analysis originated late thcentury france franoisantoinehenri descroizilles fr developed first burette similar graduated cylinder joseph louis gaylussac developed improved version burette included side arm coined terms pipette burette paper standardization indigo solutions major breakthrough methodology popularization volumetric analysis due karl friedrich mohr redesigned burette placing clamp tip bottom wrote first textbook topic lehrbuch der chemischanalytischen titrirmethode textbook analyticalchemical titration methods published
+procedure
+typical titration begins beaker erlenmeyer flask containing precise volume analyte small amount indicator phenolphthalein placed underneath calibrated burette chemistry pipetting syringe containing titrant small volumes titrant added analyte indicator indicator changes color reaction titrant saturation threshold reflecting arrival endpoint titration depending endpoint desired single drops less single drop titrant make difference permanent temporary change indicator endpoint reaction reached volume reactant consumed measured used calculate concentration analyte
+ca concentration analyte typically molarity ct concentration titrant typically molarity vt volume titrant used typically liters m mole ratio analyte reactant balanced chemical equation va volume analyte used typically liters
+preparation techniques
+typical titrations require titrant analyte liquid solution form though solids usually dissolved aqueous solution solvents glacial acetic acid ethanol used special purposes petrochemistry concentrated analytes often diluted improve accuracy
+many nonacidbase titrations require constant ph throughout reaction therefore buffer solution may added titration chamber maintain ph
+instances two reactants sample may react titrant one desired analyte separate masking solution may added reaction chamber masks unwanted ion
+redox reactions may require heating sample solution titrating solution still hot increase reaction rate instance oxidation oxalate solutions requires heating c f maintain reasonable rate reaction
+titration curves
+titration curve curve plane whose xcoordinate volume titrant added since beginning titration whose ycoordinate concentration analyte corresponding stage titration acidbase titration ycoordinate usually ph solution
+acidbase titration titration curve reflects strength corresponding acid base strong acid strong base curve relatively smooth steep near equivalence point small change titrant volume near equivalence point results large ph change many indicators would appropriate instance litmus phenolphthalein bromothymol blue
+one reagent weak acid base strong acid base titration curve irregular ph shifts less small additions titrant near equivalence point example titration curve titration oxalic acid weak acid sodium hydroxide strong base pictured equivalence point occurs ph indicating solution basic equivalence point indicator phenolphthalein would appropriate titration curves corresponding weak bases strong acids similarly behaved solution acidic equivalence point indicators methyl orange bromothymol blue appropriate
+titrations weak acid weak base titration curves highly irregular definite indicator may appropriate ph meter often used monitor reaction
+type function used describe curve called sigmoid function
+types titrations
+many types titrations different procedures goals common types qualitative titration acidbase titrations redox titrations
+acidbase titration
+acidbase titrations depend neutralization acid base mixed solution addition sample appropriate ph indicator added titration chamber reflecting ph range equivalence point acidbase indicator indicates endpoint titration changing color endpoint equivalence point exactly equivalence point determined stoichiometry reaction endpoint color change indicator thus careful selection indicator reduce indicator error example equivalence point ph phenolphthalein indicator would used instead alizarin yellow phenolphthalein would reduce indicator error common indicators colors ph range change color given table precise results required reagents weak acid weak base ph meter conductance meter used
+strong bases organolithium reagent metal amides hydrides water generally suitable solvent indicators whose pka range aqueous ph changes little use instead titrant indicator used much weaker acids anhydrous solvents thf used
+redox titration
+redox titrations based reductionoxidation reaction oxidizing agent reducing agent potentiometer redox indicator usually used determine endpoint titration one constituents oxidizing agent potassium dichromate color change solution orange green definite therefore indicator sodium diphenylamine used analysis wines sulfur dioxide requires iodine oxidizing agent case starch used indicator blue starchiodine complex formed presence excess iodine signalling endpoint
+redox titrations require indicator due intense color constituents instance permanganometry slight persisting pink color signals endpoint titration color excess oxidizing agent potassium permanganate iodometry sufficiently large concentrations disappearance deep redbrown triiodide ion used endpoint though lower concentrations sensitivity improved adding starch indicator forms intensely blue complex triiodide
+gas phase titration
+gas phase titrations titrations done gas phase specifically methods determining reactive species reaction excess gas acting titrant one common gas phase titration gaseous ozone titrated nitrogen oxide according reaction
+o o
+reaction complete remaining titrant product quantified eg ftir used determine amount analyte original sample
+gas phase titration several advantages simple spectrophotometry first measurement depend path length path length used measurement excess titrant product second measurement depend linear change absorbance function analyte concentration defined beerlambert law third useful samples containing species interfere wavelengths typically used analyte
+complexometric titration
+complexometric titrations rely formation complex analyte titrant general require specialized complexometric indicators form weak complexes analyte commonest example use starch indicator increase sensitivity iodometric titration dark blue complex starch iodine iodide visible iodine alone complexometric indicators eriochrome black titration calcium magnesium ions chelating agent edta used titrate metal ions solution
+zeta potential titration
+zeta potential titrations titrations completion monitored zeta potential rather indicator order characterize heterogeneous systems colloids one uses determine isoelectric point surface charge becomes zero achieved changing ph adding surfactant another use determine optimum dose flocculation stabilization
+assay
+assay form biological titration used determine concentration virus bacterium serial dilutions performed sample fixed ratio etc last dilution give positive test presence virus positive negative value may determined visually inspecting infected cells microscope immunoenzymetric method enzymelinked immunosorbent assay elisa value known titer
+measuring endpoint titration
+different methods determine endpoint include
+indicator substance changes color response chemical change acidbase indicator eg phenolphthalein changes color depending ph redox indicators also used drop indicator solution added titration beginning endpoint reached color changes
+potentiometer instrument measures electrode potential solution used redox titrations potential working electrode suddenly change endpoint reached
+ph meter potentiometer electrode whose potential depends amount h ion present solution example ionselective electrode ph solution measured throughout titration accurately indicator endpoint sudden change measured ph
+conductivity measurement ions solution ion concentration change significantly titration changes conductivity instance acidbase titration h oh ions react form neutral ho total conductance depends ions present solution ions contribute equally due mobility ionic strength predicting change conductivity difficult measuring
+color change reactions solution changes color without added indicator often seen redox titrations different oxidation states product reactant produce different colors
+precipitation reaction produces solid precipitate form titration classic example reaction ag cl form insoluble salt agcl cloudy precipitates usually make difficult determine endpoint precisely compensate precipitation titrations often done back titrations see
+isothermal titration calorimeter instrument measures heat produced consumed reaction determine endpoint used biochemical titrations determination substrates bind enzymes
+thermometric titrimetry differentiated calorimetric titrimetry heat reaction indicated temperature rise fall used determine amount analyte sample solution instead endpoint determined rate temperature change
+spectroscopy used measure absorption light solution titration spectrum reactant titrant product known concentration material determined beers law
+amperometry measures current produced titration reaction result oxidation reduction analyte endpoint detected change current method useful excess titrant reduced titration halides ag
+endpoint equivalence point
+though equivalence point endpoint used interchangeably different terms equivalence point theoretical completion reaction volume added titrant number moles titrant equal number moles analyte multiple thereof polyprotic acids endpoint actually measured physical change solution determined indicator instrument mentioned
+slight difference endpoint equivalence point titration error referred indicator error indeterminate
+back titration
+back titration titration done reverse instead titrating original sample known excess standard reagent added solution excess titrated back titration useful endpoint reverse titration easier identify endpoint normal titration precipitation reactions back titrations also useful reaction analyte titrant slow analyte nonsoluble solid
+graphical methods
+titration process creates solutions compositions ranging pure acid pure base identifying ph associated stage titration process relatively simple monoprotic acids bases presence one acid base group complicates computations graphical methods equiligraph long used account interaction coupled equilibria graphical solution methods simple implement however infrequently used
+particular uses
+specific examples titrations include
+acidbase titrations
+biodiesel waste vegetable oil wvo must neutralized batch may processed portion wvo titrated base determine acidity rest batch may properly neutralized removes free fatty acids wvo would normally react make soap instead biodiesel
+kjeldahl method measure nitrogen content sample organic nitrogen digested ammonia sulfuric acid potassium sulfate finally ammonia back titrated boric acid sodium carbonate
+acid value mass milligrams potassium hydroxide koh required titrate fully acid one gram sample example determination free fatty acid content
+saponification value mass milligrams koh required saponify fatty acid one gram sample saponification used determine average chain length fatty acids fat
+ester value ester index calculated index ester value saponification value acid value
+amine value mass milligrams koh equal amine content one gram sample
+hydroxyl value mass milligrams koh corresponding hydroxyl groups one gram sample analyte acetylated using acetic anhydride titrated koh
+redox titrations
+winkler test dissolved oxygen used determine oxygen concentration water oxygen water samples reduced using manganeseii sulfate reacts potassium iodide produce iodine iodine released proportion oxygen sample thus oxygen concentration determined redox titration iodine thiosulfate using starch indicator
+vitamin c also known ascorbic acid vitamin c powerful reducing agent concentration easily identified titrated blue dye dichlorophenolindophenol dcpip turns colorless reduced vitamin
+benedicts reagent excess glucose urine may indicate diabetes patient benedicts method conventional method quantify glucose urine using prepared reagent titration glucose reduces cupric ions cuprous ions react potassium thiocyanate produce white precipitate indicating endpoint
+bromine number measure unsaturation analyte expressed milligrams bromine absorbed grams sample
+iodine number measure unsaturation analyte expressed grams iodine absorbed grams sample
+miscellaneous
+karl fischer titration potentiometric method analyze trace amounts water substance sample dissolved methanol titrated karl fischer reagent reagent contains iodine reacts proportionally water thus water content determined monitoring potential excess iodine
+see also
+acid
+base
+nonaqueous titration
+references
+external links
+wikihow perform titration
+interactive guide titration
+science aid simple explanation titrations including calculation examples
+titration freeware simulation ph vs volume curve distribution diagrams real data analysis
+graphical method solve acidbase problems including titrations
+graphic numerical solver general acidbase problems software program phone tablets

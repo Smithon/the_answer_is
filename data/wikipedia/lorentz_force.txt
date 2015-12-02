@@ -1,0 +1,131 @@
+in physics particularly electromagnetism the lorentz force is the combination of electric and magnetic force on a point charge due to electromagnetic fields if a particle of charge q moves with velocity v in the presence of an electric field e and a magnetic field b then it will experience a force
+(in si units) variations on this basic formula describe the magnetic force on a current-carrying wire (sometimes called laplace force) the electromotive force in a wire loop moving through a magnetic field (an aspect of faraday's law of induction) and the force on a charged particle which might be travelling near the speed of light (relativistic form of the lorentz force)
+the first derivation of the lorentz force is commonly attributed to oliver heaviside in 1889 although other historians suggest an earlier origin in an 1865 paper by james clerk maxwell hendrik lorentz derived it a few years after heaviside
+== equation (si units)edit ==
+=== charged particleedit ===
+the force f acting on a particle of electric charge q with instantaneous velocity v due to an external electric field e and magnetic field b is given by:
+where is the vector cross product all boldface quantities are vectors more explicitly stated:
+in which r is the position vector of the charged particle t is time and the overdot is a time derivative
+a positively charged particle will be accelerated in the same linear orientation as the e field but will curve perpendicularly to both the instantaneous velocity vector v and the b field according to the right-hand rule (in detail if the thumb of the right hand points along v and the index finger along b then the middle finger points along f)
+the term qe is called the electric force while the term qv b is called the magnetic force according to some definitions the term "lorentz force" refers specifically to the formula for the magnetic force with the total electromagnetic force (including the electric force) given some other (nonstandard) name this article will not follow this nomenclature: in what follows the term "lorentz force" will refer only to the expression for the total force
+the magnetic force component of the lorentz force manifests itself as the force that acts on a current-carrying wire in a magnetic field in that context it is also called the laplace force
+=== continuous charge distributionedit ===
+for a continuous charge distribution in motion the lorentz force equation becomes:
+where df is the force on a small piece of the charge distribution with charge dq if both sides of this equation are divided by the volume of this small piece of the charge distribution dv the result is:
+where f is the force density (force per unit volume) and is the charge density (charge per unit volume) next the current density corresponding to the motion of the charge continuum is
+so the continuous analogue to the equation is
+the total force is the volume integral over the charge distribution:
+by eliminating and j using maxwell's equations and manipulating using the theorems of vector calculus this form of the equation can be used to derive the maxwell stress tensor  in turn this can be combined with the poynting vector s to obtain the electromagnetic stressenergy tensor t used in general relativity
+in terms of and s another way to write the lorentz force (per unit 3d volume) is
+where c is the speed of light and denotes the divergence of a tensor field rather than the amount of charge and its velocity in electric and magnetic fields this equation relates the energy flux (flow of energy per unit time per unit distance) in the fields to the force exerted on a charge distribution see covariant formulation of classical electromagnetism for more details
+== historyedit ==
+early attempts to quantitatively describe the electromagnetic force were made in the mid-18th century it was proposed that the force on magnetic poles by johann tobias mayer and others in 1760 and electrically charged objects by henry cavendish in 1762 obeyed an inverse-square law however in both cases the experimental proof was neither complete nor conclusive it was not until 1784 when charles-augustin de coulomb using a torsion balance was able to definitively show through experiment that this was true soon after the discovery in 1820 by h c rsted that a magnetic needle is acted on by a voltaic current andr-marie ampre that same year was able to devise through experimentation the formula for the angular dependence of the force between two current elements in all these descriptions the force was always given in terms of the properties of the objects involved and the distances between them rather than in terms of electric and magnetic fields
+the modern concept of electric and magnetic fields first arose in the theories of michael faraday particularly his idea of lines of force later to be given full mathematical description by lord kelvin and james clerk maxwell from a modern perspective it is possible to identify in maxwell's 1865 formulation of his field equations a form of the lorentz force equation in relation to electric currents however in the time of maxwell it was not evident how his equations related to the forces on moving charged objects j j thomson was the first to attempt to derive from maxwell's field equations the electromagnetic forces on a moving charged object in terms of the object's properties and external fields interested in determining the electromagnetic behavior of the charged particles in cathode rays thomson published a paper in 1881 wherein he gave the force on the particles due to an external magnetic field as
+thomson derived the correct basic form of the formula but because of some miscalculations and an incomplete description of the displacement current included an incorrect scale-factor of a half in front of the formula it was oliver heaviside who had invented the modern vector notation and applied them to maxwell's field equations that in 1885 and 1889 fixed the mistakes of thomson's derivation and arrived at the correct form of the magnetic force on a moving charged object finally in 1892 hendrik lorentz derived the modern form of the formula for the electromagnetic force which includes the contributions to the total force from both the electric and the magnetic fields lorentz began by abandoning the maxwellian descriptions of the ether and conduction instead lorentz made a distinction between matter and the luminiferous aether and sought to apply the maxwell equations at a microscopic scale using heaviside's version of the maxwell equations for a stationary ether and applying lagrangian mechanics (see below) lorentz arrived at the correct and complete form of the force law that now bears his name
+== trajectories of particles due to the lorentz forceedit ==
+in many cases of practical interest the motion in a magnetic field of an electrically charged particle (such as an electron or ion in a plasma) can be treated as the superposition of a relatively fast circular motion around a point called the guiding center and a relatively slow drift of this point the drift speeds may differ for various species depending on their charge states masses or temperatures possibly resulting in electric currents or chemical separation
+== significance of the lorentz forceedit ==
+while the modern maxwell's equations describe how electrically charged particles and currents or moving charged particles give rise to electric and magnetic fields the lorentz force law completes that picture by describing the force acting on a moving point charge q in the presence of electromagnetic fields the lorentz force law describes the effect of e and b upon a point charge but such electromagnetic forces are not the entire picture charged particles are possibly coupled to other forces notably gravity and nuclear forces thus maxwell's equations do not stand separate from other physical laws but are coupled to them via the charge and current densities the response of a point charge to the lorentz law is one aspect; the generation of e and b by currents and charges is another
+in real materials the lorentz force is inadequate to describe the behavior of charged particles both in principle and as a matter of computation the charged particles in a material medium both respond to the e and b fields and generate these fields complex transport equations must be solved to determine the time and spatial response of charges for example the boltzmann equation or the fokkerplanck equation or the navierstokes equations for example see magnetohydrodynamics fluid dynamics electrohydrodynamics superconductivity stellar evolution an entire physical apparatus for dealing with these matters has developed see for example greenkubo relations and green's function (many-body theory)
+== lorentz force law as the definition of e and bedit ==
+in many textbook treatments of classical electromagnetism the lorentz force law is used as the definition of the electric and magnetic fields e and b to be specific the lorentz force is understood to be the following empirical statement:
+the electromagnetic force f on a test charge at a given point and time is a certain function of its charge q and velocity v which can be parameterized by exactly two vectors e and b in the functional form:
+this is valid; countless experiments have shown that it is even for particles approaching the speed of light (that is magnitude of v = |v| = c) so the two vector fields e and b are thereby defined throughout space and time and these are called the "electric field" and "magnetic field" note that the fields are defined everywhere in space and time with respect to what force a test charge would receive regardless of whether a charge is present to experience the force
+note also that as a definition of e and b the lorentz force is only a definition in principle because a real particle (as opposed to the hypothetical "test charge" of infinitesimally-small mass and charge) would generate its own finite e and b fields which would alter the electromagnetic force that it experiences in addition if the charge experiences acceleration as if forced into a curved trajectory by some external agency it emits radiation that causes braking of its motion see for example bremsstrahlung and synchrotron light these effects occur through both a direct effect (called the radiation reaction force) and indirectly (by affecting the motion of nearby charges and currents) moreover net force must include gravity electroweak and any other forces aside from electromagnetic force
+== force on a current-carrying wireedit ==
+when a wire carrying an electric current is placed in a magnetic field each of the moving charges which comprise the current experiences the lorentz force and together they can create a macroscopic force on the wire (sometimes called the laplace force) by combining the lorentz force law above with the definition of electric current the following equation results in the case of a straight stationary wire:
+where is a vector whose magnitude is the length of wire and whose direction is along the wire aligned with the direction of conventional current flow i
+if the wire is not straight but curved the force on it can be computed by applying this formula to each infinitesimal segment of wire d then adding up all these forces by integration formally the net force on a stationary rigid wire carrying a steady current i is
+this is the net force in addition there will usually be torque plus other effects if the wire is not perfectly rigid
+one application of this is ampre's force law which describes how two current-carrying wires can attract or repel each other since each experiences a lorentz force from the other's magnetic field for more information see the article: ampre's force law
+== emfedit ==
+the magnetic force (q v b) component of the lorentz force is responsible for motional electromotive force (or motional emf) the phenomenon underlying many electrical generators when a conductor is moved through a magnetic field the magnetic force tries to push electrons through the wire and this creates the emf the term "motional emf" is applied to this phenomenon since the emf is due to the motion of the wire
+in other electrical generators the magnets move while the conductors do not in this case the emf is due to the electric force (qe) term in the lorentz force equation the electric field in question is created by the changing magnetic field resulting in an induced emf as described by the maxwellfaraday equation (one of the four modern maxwell's equations)
+both of these emf's despite their different origins can be described by the same equation namely the emf is the rate of change of magnetic flux through the wire (this is faraday's law of induction see below.) einstein's special theory of relativity was partially motivated by the desire to better understand this link between the two effects in fact the electric and magnetic fields are different faces of the same electromagnetic field and in moving from one inertial frame to another the solenoidal vector field portion of the e-field can change in whole or in part to a b-field or vice versa
+== lorentz force and faraday's law of inductionedit ==
+given a loop of wire in a magnetic field faraday's law of induction states the induced electromotive force (emf) in the wire is:
+where
+is the magnetic flux through the loop b is the magnetic field (t) is a surface bounded by the closed contour (t) at all at time t da is an infinitesimal vector area element of (t) (magnitude is the area of an infinitesimal patch of surface direction is orthogonal to that surface patch)
+the sign of the emf is determined by lenz's law note that this is valid for not only a stationary wire but also for a moving wire
+from faraday's law of induction (that is valid for a moving wire for instance in a motor) and the maxwell equations the lorentz force can be deduced the reverse is also true the lorentz force and the maxwell equations can be used to derive the faraday law
+let (t) be the moving wire moving together without rotation and with constant velocity v and (t) be the internal surface of the wire the emf around the closed path (t) is given by:
+where
+is the electric field and d is an infinitesimal vector element of the contour (t)
+nb: both d and da have a sign ambiguity; to get the correct sign the right-hand rule is used as explained in the article kelvin-stokes theorem
+the above result can be compared with the version of faraday's law of induction that appears in the modern maxwell's equations called here the maxwell-faraday equation:
+the maxwell-faraday equation also can be written in an integral form using the kelvin-stokes theorem
+so we have the maxwell faraday equation:
+and the faraday law
+the two are equivalent if the wire is not moving using the leibniz integral rule and that div b = 0 results in
+and using the maxwell faraday equation
+since this is valid for any wire position it implies that
+faraday's law of induction holds whether the loop of wire is rigid and stationary or in motion or in process of deformation and it holds whether the magnetic field is constant in time or changing however there are cases where faraday's law is either inadequate or difficult to use and application of the underlying lorentz force law is necessary see inapplicability of faraday's law
+if the magnetic field is fixed in time and the conducting loop moves through the field the magnetic flux b linking the loop can change in several ways for example if the b-field varies with position and the loop moves to a location with different b-field b will change alternatively if the loop changes orientation with respect to the b-field the b da differential element will change because of the different angle between b and da also changing b as a third example if a portion of the circuit is swept through a uniform time-independent b-field and another portion of the circuit is held stationary the flux linking the entire closed circuit can change due to the shift in relative position of the circuit's component parts with time (surface (t) time-dependent) in all three cases faraday's law of induction then predicts the emf generated by the change in b
+note that the maxwell faraday's equation implies that the electric field e is non conservative when the magnetic field b varies in time and is not expressible as the gradient of a scalar field and not subject to the gradient theorem since its rotational is not zero
+== lorentz force in terms of potentialsedit ==
+the e and b fields can be replaced by the magnetic vector potential a and (scalar) electrostatic potential by
+where is the gradient is the divergence is the curl
+the force becomes
+and using an identity for the triple product simplifies to
+using the chain rule the total derivative of a is:
+so the above expression can be rewritten as;
+which can take the convenient eulerlagrange form
+== lorentz force and analytical mechanicsedit ==
+the lagrangian for a charged particle of mass m and charge q in an electromagnetic field equivalently describes the dynamics of the particle in terms of its energy rather than the force exerted on it the classical expression is given by:
+where a and are the potential fields as above using lagrange's equations the equation for the lorentz force can be obtained
+the potential energy depends on the velocity of the particle so the force is velocity dependent so it is not conservative
+the relativistic lagrangian is
+the action is the relativistic arclength of the path of the particle in space time minus the potential energy contribution plus an extra contribution which quantum mechanically is an extra phase a charged particle gets when it is moving along a vector potential
+== equation (cgs units)edit ==
+the above-mentioned formulae use si units which are the most common among experimentalists technicians and engineers in cgs-gaussian units which are somewhat more common among theoretical physicists one has instead
+where c is the speed of light although this equation looks slightly different it is completely equivalent since one has the following relations:
+where 0 is the vacuum permittivity and 0 the vacuum permeability in practice the subscripts "cgs" and "si" are always omitted and the unit system has to be assessed from context
+== relativistic form of the lorentz forceedit ==
+=== covariant form of the lorentz forceedit ===
+==== field tensoredit ====
+using the metric signature (-1 1 1 1) the lorentz force for a charge q can be written in covariant form:
+where p is the four-momentum defined as
+the proper time of the particle f the contravariant electromagnetic tensor
+and u is the covariant 4-velocity of the particle defined as:
+in which
+is the lorentz factor
+the fields are transformed to a frame moving with constant relative velocity by:
+where is the lorentz transformation tensor
+==== translation to vector notationedit ====
+the = 1 component (x-component) of the force is
+substituting the components of the covariant electromagnetic tensor f yields
+using the components of covariant four-velocity yields
+the calculation for = 2 3 (force components in the y and z directions) yields similar results so collecting the 3 equations into one:
+and since differentials in coordinate time dt and proper time d are related by the lorentz factor
+so we arrive at
+this is precisely the lorentz force law however it is important to note that p is the relativistic expression
+=== sta form of the lorentz forceedit ===
+the electric and magnetic fields are dependent on the velocity of an observer so the relativistic form of the lorentz force law can best be exhibited starting from a coordinate-independent expression for the electromagnetic and magnetic fields  and an arbitrary time-direction  where
+and
+is a space-time bivector (an oriented plane segment just like a vector is an oriented line segment) which has six degrees of freedom corresponding to boosts (rotations in space-time planes) and rotations (rotations in space-space planes) the dot product with the vector pulls a vector (in the space algebra) from the translational part while the wedge-product creates a trivector (in the space algebra) who is dual to a vector which is the usual magnetic field vector the relativistic velocity is given by the (time-like) changes in a time-position vector  where
+(which shows our choice for the metric) and the velocity is
+the proper (invariant is an inadequate term because no transformation has been defined) form of the lorentz force law is simply
+note that the order is important because between a bivector and a vector the dot product is anti-symmetric upon a space time split like one can obtain the velocity and fields as above yielding the usual expression
+== applicationsedit ==
+the lorentz force occurs in many devices including:
+cyclotrons and other circular path particle accelerators
+mass spectrometers
+velocity filters
+magnetrons
+lorentz force velocimetry
+in its manifestation as the laplace force on an electric current in a conductor this force occurs in many devices including:
+== see alsoedit ==
+== footnotesedit ==
+== referencesedit ==
+the numbered references refer in part to the list immediately below
+feynman richard phillips; leighton robert b.; sands matthew l (2006) the feynman lectures on physics (3 vol.) pearson / addison-wesley isbn 0-8053-9047-2 : volume 2
+griffiths david j (1999) introduction to electrodynamics (3rd ed.) upper saddle river [nj.]: prentice-hall isbn 0-13-805326-x
+jackson john david (1999) classical electrodynamics (3rd ed.) new york [ny.]: wiley isbn 0-471-30932-x
+serway raymond a.; jewett john w. jr (2004) physics for scientists and engineers with modern physics belmont [ca.]: thomson brooks/cole isbn 0-534-40846-x
+srednicki mark a (2007) quantum field theory cambridge [england] ; new york [ny.]: cambridge university press isbn 978-0-521-86449-7
+== external linksedit ==
+interactive java tutorial on the lorentz force national high magnetic field laboratory
+lorentz force (demonstration)
+faraday's law: tankersley and mosca
+notes from physics and astronomy hyperphysics at georgia state university; see also home page
+interactive java applet on the magnetic deflection of a particle beam in a homogeneous magnetic field by wolfgang bauer

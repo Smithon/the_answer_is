@@ -1,0 +1,183 @@
+wave equation important secondorder linear partial differential equation description wavesas occur physicssuch sound waves light waves water waves arises fields like acoustics electromagnetics fluid dynamics
+historically problem vibrating string musical instrument studied jean le rond dalembert leonhard euler daniel bernoulli josephlouis lagrange dalembert discovered onedimensional wave equation within ten years euler discovered threedimensional wave equation
+introduction
+wave equation hyperbolic partial differential equation typically concerns time variable one spatial variables x x xn scalar function u u x x xn whose values could model example mechanical displacement wave wave equation u
+spatial laplacian c fixed constant
+solutions equation describe propagation disturbances region fixed speed one spatial directions physical waves plane localized sources constant c identified propagation speed wave equation linear therefore sum two solutions solution physics property called superposition principle
+wave equation alone specify physical solution unique solution usually obtained setting problem conditions initial conditions prescribe amplitude phase wave another important class problems occurs enclosed spaces specified boundary conditions solutions represent standing waves harmonics analogous harmonics musical instruments
+wave equation modifications also found elasticity quantum mechanics plasma physics general relativity
+scalar wave equation one space dimension
+wave equation one space dimension written follows
+equation typically described one space dimension x independent variable time nevertheless dependent variable u may represent second space dimension example displacement u takes place ydirection case string located xy plane
+derivation wave equation
+wave equation one space dimension derived variety different physical settings famously derived case string vibrating twodimensional plane elements pulled opposite directions force tension
+another physical setting derivation wave equation one space dimension utilizes hookes law theory elasticity hookes law approximation certain materials stating amount material body deformed strain linearly related force causing deformation stress
+hookes law
+wave equation onedimensional case derived hookes law following way imagine array little weights mass m interconnected massless springs length h springs spring constant k
+dependent variable ux measures distance equilibrium mass situated x ux essentially measures magnitude disturbance ie strain traveling elastic material forces exerted mass m location xh
+equation motion weight location xh given equating two forces
+timedependence ux made explicit
+array weights consists n weights spaced evenly length l nh total mass m nm total spring constant array k kn write equation
+taking limit n h assuming smoothness one gets
+klm square propagation speed particular case
+stress pulse bar
+case stress pulse propagating beam beam acts much like infinite number springs series taken extension equation derived hookes law beam constant cross section made linear elastic material stiffness k given
+cross sectional area e youngs modulus material wave equation becomes
+al equal volume beam therefore density material wave equation reduces
+speed stress wave beam therefore
+general solution
+algebraic approach
+onedimensional wave equation unusual partial differential equation relatively simple general solution may found defining new variables
+changes wave equation
+leads general solution
+equivalently
+words solutions d wave equation sums right traveling function f left traveling function g traveling means shape individual arbitrary functions respect x stays constant however functions translated left right time speed c derived jean le rond dalembert
+another way arrive result note wave equation may factored
+therefore
+last two equations advection equations one left traveling one right constant speed c
+initial value problem arbitrary functions f g determined satisfy initial conditions
+result dalemberts formula
+classical sense fx ck gx ck ut x ck however waveforms f g may also generalized functions deltafunction case solution may interpreted impulse travels right left
+basic wave equation linear differential equation adhere superposition principle means net displacement caused two waves sum displacements would caused wave individually addition behavior wave analyzed breaking wave components eg fourier transform breaks wave sinusoidal components
+plane wave eigenmodes
+another way solve solutions onedimensional wave equation first analyze frequency eigenmodes socalled eigenmode solution oscillates time welldefined constant angular frequency temporal part wave function eigenmode takes specific form rest wave function dependent spatial variable hence amounting separation variables writing wave function
+obtain ordinary differential equation spatial part
+therefore
+precisely eigenvalue equation hence name eigenmode wellknown plane wave solutions
+wave number
+total wave function eigenmode linear combination
+complex numbers depend general initial boundary conditions problem
+eigenmodes useful constructing full solution wave equation evolves time trivially phase factor full solution decomposed eigenmode expansion
+terms plane waves
+exactly form algebraic approach functions known fourier component determined initial boundary conditions socalled frequencydomain method alternative direct timedomain propagations fdtd method wave packet complete representing waves absence time dilations completeness fourier expansion representing waves presence time dilations challenged chirp wave solutions allowing time variation chirp wave solutions seem particularly implied large previously inexplicable radar residuals flyby anomaly differ sinusoidal solutions receivable distance proportionally shifted frequencies time dilations corresponding past chirp states source
+scalar wave equation three space dimensions
+solution initialvalue problem wave equation three space dimensions obtained corresponding solution spherical wave result also used obtain solution two space dimensions
+spherical waves
+wave equation solved using technique separation variables obtain solution constant frequencies let us first fourier transform wave equation time
+get
+helmholtz equation solved using separation variables solution angular part helmholtz equation given spherical harmonics radial equation becomes
+complete solution given
+spherical hankel functions gain better understanding nature spherical waves let us go back look case case angular dependence amplitude depends radial distance ie case wave equation reduces
+equation rewritten
+quantity satisfies onedimensional wave equation therefore solutions form
+f g general solutions onedimensional wave equation interpreted respectively outgoing incoming spherical wave waves generated point source make possible sharp signals whose form altered decrease amplitude r increases see illustration spherical wave top right waves exist cases space odd dimensions
+physical examples nonspherical wave solutions d wave equation possess angular dependence see dipole radiation
+monochromatic spherical wave
+although word monochromatic exactly accurate since refers light electromagnetic radiation welldefined frequency spirit discover eigenmode wave equation threedimensions following derivation previous section plane wave eigenmode restrict solutions spherical waves oscillate time welldefined constant angular frequency transformed function simply plane wave solutions
+observe peak intensity spherical wave oscillation characterized squared wave amplitude
+drops rate proportional example inversesquare law
+solution general initialvalue problem
+wave equation linear u left unaltered translations space time therefore generate great variety solutions translating summing spherical waves let arbitrary function three independent variables let spherical wave form f deltafunction let f weak limit continuous functions whose integral unity whose support region function nonzero shrinks origin let family spherical waves center let r radial distance point thus
+u superposition waves weighting function
+denominator c convenience
+definition deltafunction u may also written
+coordinates unit sphere area element result interpretation utx times mean value sphere radius ct centered x
+follows
+mean value even function hence
+formulas provide solution initialvalue problem wave equation show solution given point p given txyz depends data sphere radius ct intersected light cone drawn backwards p depend upon data interior sphere thus interior sphere lacuna solution phenomenon called huygens principle true odd numbers space dimension one dimension integration performed boundary interval respect dirac measure satisfied even space dimensions phenomenon lacunas extensively investigated atiyah bott grding
+scalar wave equation two space dimensions
+two space dimensions wave equation
+use threedimensional theory solve problem regard u function three dimensions independent third dimension
+threedimensional solution formula becomes
+first two coordinates unit sphere d area element sphere integral may rewritten integral disc d center xy radius ct
+apparent solution txy depends data light cone
+also data interior cone
+scalar wave equation general dimension kirchhoffs formulae
+want find solutions uttu u rn r ux gx utx hx see evans details
+odd dimensions
+assume n odd integer g cmrn h cmrn m n let let
+u crn
+uttu rn
+even dimensions
+assume n even integer g cmrn h cmrn m n let let
+u crn
+uttu rn
+problems boundaries
+one space dimension
+sturmliouville formulation
+flexible string stretched two points x x l satisfies wave equation x l boundary points u may satisfy variety boundary conditions general form appropriate applications
+b nonnegative case u required vanish endpoint limit condition respective b approaches infinity method separation variables consists looking solutions problem special form
+consequence
+eigenvalue must determined nontrivial solution boundaryvalue problem
+special case general problem sturmliouville theory b positive eigenvalues positive solutions trigonometric functions solution satisfies squareintegrable initial conditions u ut obtained expansion functions appropriate trigonometric series
+investigation numerical methods
+approximating continuous string finite number equidistant mass points one gets following physical model
+mass point mass m tension string f separation mass points x ui n offset n points equilibrium points ie position straight line two attachment points string vertical component force towards point
+vertical component force towards point
+taking sum two forces dividing mass m one gets vertical motion
+mass density
+written
+wave equation obtained letting x case uit takes form ux ux continuous function two variables takes form
+discrete formulation equation state finite number mass point suitable one numerical propagation string motion boundary condition
+l length string takes discrete formulation form outermost points u un equation motion
+n
+string approximated discrete mass points one gets coupled second order differential equations equivalently coupled first order differential equations
+propagating times
+using th order multistep method states displayed figure found
+red curve initial state time zero string let free predefined shape blue curve state time ie time corresponds time wave moving nominal wave velocity would need one fourth length string
+figure displays shape string times wave travels direction right speed without actively constraint boundary conditions two extremes string shape wave constant ie curve indeed form fxct
+figure displays shape string times constraint right extreme starts interfere motion preventing wave raise end string
+figure displays shape string times direction motion reversed red green blue curves states times black curves correspond states times wave starting move back towards left
+figure figure finally display shape string times wave travels towards left constraints end points active finally extreme string direction reversed way similar displayed figure
+several space dimensions
+onedimensional initialboundary value theory may extended arbitrary number space dimensions consider domain d mdimensional x space boundary b wave equation satisfied x d boundary d solution u shall satisfy
+n unit outward normal b nonnegative function defined b case u vanishes b limiting case approaching infinity initial conditions
+f g defined d problem may solved expanding f g eigenfunctions laplacian d satisfy boundary conditions thus eigenfunction v satisfies
+d
+b
+case two space dimensions eigenfunctions may interpreted modes vibration drumhead stretched boundary b b circle eigenfunctions angular component trigonometric function polar angle multiplied bessel function integer order radial component details helmholtz equation
+boundary sphere three space dimensions angular components eigenfunctions spherical harmonics radial components bessel functions halfinteger order
+inhomogeneous wave equation one dimension
+inhomogeneous wave equation one dimension following
+initial conditions given
+function sx often called source function practice describes effects sources waves medium carrying physical examples source functions include force driving wave string charge current density lorenz gauge electromagnetism
+one method solve initial value problem initial values posed take advantage special property wave equation odd number space dimensions namely solutions respect causality point xi ti value uxi ti depends values fxicti fxicti values function gx xicti xicti seen dalemberts formula stated quantities ones show physically maximum propagation speed c part wave cant propagate given point given time affect amplitude point time
+terms finding solution causality property means given point line considered area needs considered area encompassing points could causally affect point considered denote area casually affects point xi ti rc suppose integrate inhomogeneous wave equation region
+simplify greatly use greens theorem simplify left side get following
+left side sum three line integrals along bounds causality region turn fairly easy compute
+term integrated respect time disappears time interval involved zero thus dt
+two sides region worth noting xct constant namingly xicti sign chosen appropriately using get relation dxcdt choosing right sign
+similarly final boundary segment
+adding three results together putting back original integral
+solving uxi ti arrive
+last equation sequence bounds integral source function made explicit looking solution valid choices xi ti compatible wave equation clear first two terms simply dalemberts formula stated solution homogeneous wave equation one dimension difference third term integral source
+coordinate systems
+three dimensions wave equation written elliptic cylindrical coordinates may solved separation variables leading mathieu differential equation
+generalizations
+elastic waves
+elastic wave equation three dimensions describes propagation waves isotropic homogeneous elastic medium solid materials elastic equation describes phenomena seismic waves earth ultrasonic waves used detect flaws materials linear equation complex form equations given must account longitudinal transverse motion
+socalled lam parameters describing elastic properties medium
+density
+f source function driving force
+u displacement vector
+note equation force displacement vector quantities thus equation sometimes known vector wave equation aid understanding reader observe f u set zero becomes effectively maxwells equation propagation electric field e transverse waves
+nonlinear dispersion relation
+dispersive wave phenomena speed wave propagation varies wavelength wave reflected dispersion relation
+angular frequency k wavevector describing plane wave solutions light waves dispersion relation c k general constant speed c gets replaced variable phase velocity
+see also
+acoustic attenuation
+acoustic wave equation
+bateman transform
+electromagnetic wave equation
+helmholtz equation
+inhomogeneous electromagnetic wave equation
+laplace operator
+mathematics oscillation
+maxwells equations
+schrdinger equation
+standing wave
+vibrations circular membrane
+wheelerfeynman absorber theory
+notes
+references
+m f atiyah r bott l garding lacunas hyperbolic differential operators constant coefficients acta math
+mf atiyah r bott l garding lacunas hyperbolic differential operators constant coefficients ii acta math
+r courant d hilbert methods mathematical physics vol ii interscience wiley new york
+l evans partial differential equations american mathematical society providence
+linear wave equations eqworld world mathematical equations
+nonlinear wave equations eqworld world mathematical equations
+william c lane misn wave equation solutions project physnet
+external links
+nonlinear wave equations stephen wolfram rob knapp nonlinear wave equation explorer stephen wolfram wolfram demonstrations project
+mathematical aspects wave equations discussed dispersive pde wiki
+graham w griffiths william e schiesser linear nonlinear waves scholarpedia doischolarpedia

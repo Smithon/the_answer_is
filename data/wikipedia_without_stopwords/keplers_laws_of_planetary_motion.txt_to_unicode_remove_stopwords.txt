@@ -1,0 +1,190 @@
+astronomy keplers laws planetary motion three scientific laws describing motion planets around sun
+orbit planet ellipse sun one two foci
+line segment joining planet sun sweeps equal areas equal intervals time
+square orbital period planet proportional cube semimajor axis orbit
+planetary orbits almost circles careful observation calculation required order establish actually ellipses using calculations orbit mars whose published values somewhat suspect indicated elliptical orbits johannes kepler inferred heavenly bodies including farther away sun also elliptical orbits
+keplers work published improved heliocentric theory nicolaus copernicus explaining planets speeds varied using elliptical orbits rather circular orbits epicycles
+isaac newton showed relationships like keplers would apply solar system good approximation consequences laws motion law universal gravitation
+keplers laws part foundation modern astronomy physics
+comparison copernicus
+keplers laws improve model copernicus eccentricities planetary orbits taken zero kepler basically agrees copernicus
+planetary orbit circle
+sun center orbit
+speed planet orbit constant
+eccentricities orbits planets known copernicus kepler small foregoing rules give good approximations planetary motion keplers laws fit observations better copernicuss
+keplers corrections obvious
+planetary orbit circle ellipse
+sun center focal point elliptical orbit
+neither linear speed angular speed planet orbit constant area speed constant
+eccentricity orbit earth makes time march equinox september equinox around days unequal time september equinox march equinox around days diameter would cut orbit equal parts plane sun parallel equator earth cuts orbit two parts areas ratio eccentricity orbit earth approximately
+close correct value see earths orbit calculation correct perihelion date earth closest sun falls solstice current perihelion near january fairly close solstice december
+nomenclature
+took nearly two centuries current formulation keplers work take settled form voltaires elments de la philosophie de newton elements newtons philosophy first publication use terminology laws biographical encyclopedia astronomers article kepler p states terminology scientific laws discoveries current least time joseph de lalande exposition robert small account astronomical discoveries kepler made set three laws adding third small also claimed history empirical laws based inductive reasoning
+current usage keplers second law something misnomer kepler two versions related qualitative sense distance law area law area law became second law set three kepler privilege way
+history
+johannes kepler published first two laws planetary motion found analyzing astronomical observations tycho brahe keplers third law published
+kepler godefroy wendelin noted keplers third law applies four brightest moons jupiter second law area law form contested nicolaus mercator book publishing favour philosophical transactions century proceeded became widely accepted reception germany changed noticeably year newtons principia published taken basically copernican time work gottfried leibniz kepler published
+newton credited understanding second law special inverse square law gravitation consequence radial nature law laws depend inverse square form attraction carl runge wilhelm lenz much later identified symmetry principle phase space planetary motion orthogonal group o acting accounts first third laws case newtonian gravitation conservation angular momentum via rotational symmetry second law
+formulary
+mathematical model kinematics planet subject laws allows large range calculations
+first law
+orbit every planet ellipse sun one two foci
+mathematically ellipse represented formula
+semilatus rectum eccentricity ellipse r distance sun planet angle planets current position closest approach seen sun r polar coordinates
+ellipse limiting case orbit circle sun centre ie nil eccentricity
+perihelion distance minimum
+distance equal
+aphelion distance maximum definition aphelion invariably perihelion plus
+semimajor axis arithmetic mean rmin rmax
+semiminor axis b geometric mean rmin rmax
+semilatus rectum p harmonic mean rmin rmax
+eccentricity coefficient variation rmin rmax
+area ellipse
+special case circle resulting r p rmin rmax b r
+second law
+line joining planet sun sweeps equal areas equal intervals time
+orbital radius angular velocity planet elliptical orbit vary shown animation planet travels faster closer sun slower farther sun keplers second law states blue sector constant area
+small time planet sweeps small triangle base line height area constant areal velocity
+area enclosed elliptical orbit period satisfies
+mean motion planet around sun
+satisfies
+third law
+square orbital period planet directly proportional cube semimajor axis orbit
+captures relationship distance planets sun orbital periods
+brief biography kepler discussion third law see nasa stargaze
+kepler enunciated third law laborious attempt determine viewed music spheres according precise laws express terms musical notation known harmonic law
+mathematically law says expression
+value planets solar system p time taken planet complete orbit round sun mean value maximum minimum distances planet sun ie semimajor axis
+modern formulation constant evaluated reads
+orbital period orbiting body
+m mass star
+m mass planet
+g universal gravitational constant
+semi major axis ie mean distance bodies
+value changes planet proportionality constant truly nevertheless given m small relative m planets solar system approximation good
+planetary acceleration
+isaac newton computed philosophi naturalis principia mathematica acceleration planet moving according keplers first second law
+direction acceleration towards sun
+magnitude acceleration inversely proportional square planets distance sun inverse square law
+implies sun may physical cause acceleration planets
+newton defined force acting planet product mass acceleration see newtons laws motion
+every planet attracted towards sun
+force acting planet direct proportion mass planet inverse proportion square distance sun
+sun plays unsymmetrical part unjustified assumed newtons law universal gravitation
+bodies solar system attract one another
+force two bodies direct proportion product masses inverse proportion square distance
+planets small masses compared sun orbits conform approximately keplers laws newtons model improves upon keplers model fits actual observations accurately see twobody problem
+deviation motion planet keplers laws due gravitational attraction planets called perturbation
+comes detailed calculation acceleration planet moving according keplers first second laws
+acceleration vector
+heliocentric point view consider vector planet distance planet direction unit vector direction planet changes moves
+unit vector orthogonal pointing direction rotation polar angle dot top variable signifies differentiation respect time
+differentiating position vector twice obtain velocity acceleration vectors
+radial acceleration
+transversal acceleration
+inverse square law
+keplers second law says
+constant
+transversal acceleration zero
+acceleration planet obeying keplers second law directed towards sun
+radial acceleration
+keplers first law states orbit described equation
+differentiating respect time
+differentiating
+radial acceleration satisfies
+substituting equation ellipse gives
+relation gives simple final result
+means acceleration vector planet obeying keplers first second law satisfies inverse square law
+constant unit vector pointing sun towards planet distance planet sun
+according keplers third law value planets inverse square law planetary accelerations applies throughout entire solar system
+inverse square law differential equation solutions differential equation include keplerian motions shown also include motions orbit hyperbola parabola straight line see kepler orbit
+newtons law gravitation
+newtons second law gravitational force acts planet
+mass planet value planets solar system according newtons third law sun attracted planet force magnitude since force proportional mass planet symmetric consideration also proportional mass sun
+gravitational constant
+acceleration solar system body number according newtons laws
+mass body j distance body body j unit vector body towards body j vector summation bodies world besides
+special case two bodies world earth sun acceleration becomes
+acceleration kepler motion earth moves around sun according keplers laws
+two bodies world moon earth acceleration moon becomes
+approximation moon moves around earth according keplers laws
+threebody case accelerations
+accelerations kepler orbits threebody problem complicated keplerian approximation basis perturbation calculations see lunar theory
+position function time
+kepler used two first laws compute position planet function time method involves solution transcendental equation called keplers equation
+procedure calculating heliocentric polar coordinates r planet function time since perihelion following four steps
+compute mean anomaly m nt n mean motion
+radians p period
+compute eccentric anomaly e solving keplers equation
+compute true anomaly equation
+compute heliocentric distance
+important special case circular orbit gives e m uniform circular motion considered normal deviation motion considered anomaly
+proof procedure shown
+mean anomaly m
+keplerian problem assumes elliptical orbit four points
+sun one focus ellipse
+z perihelion
+c center ellipse
+p planet
+distance center perihelion semimajor axis
+eccentricity
+semiminor axis
+distance sun planet
+direction planet seen sun true anomaly
+problem compute polar coordinates r planet time since perihelion
+solved steps kepler considered circle major axis diameter
+projection planet auxiliary circle
+point circle sector areas zcy zsx equal
+mean anomaly
+sector areas related
+circular sector area
+area swept since perihelion
+keplers second law proportional time since perihelion mean anomaly m proportional time since perihelion
+n mean motion
+eccentric anomaly e
+mean anomaly m computed goal compute true anomaly function fm however elementary keplers solution use
+x seen centre eccentric anomaly
+intermediate variable first compute e function m solving keplers equation compute true anomaly eccentric anomaly e details
+division gives keplers equation
+equation gives m function e determining e given m inverse problem iterative numerical algorithms commonly used
+computed eccentric anomaly e next step calculate true anomaly
+true anomaly
+note figure
+dividing inserting keplers first law
+get
+result usable relationship eccentric anomaly e true anomaly
+computationally convenient form follows substituting trigonometric identity
+get
+multiplying gives result
+third step connection time position orbit
+distance r
+fourth step compute heliocentric distance r true anomaly keplers first law
+using relation e final equation distance r
+see also
+circular motion
+freefall time
+gravity
+kepler orbit
+kepler problem
+keplers equation
+laplacerungelenz vector
+notes
+godefroy wendelin wrote letter giovanni battista riccioli relationship distances jovian moons jupiter periods orbits showing periods distances conformed keplers third law see joanne baptista riccioli almagestum novum bologna bononia italy victor benati volume page scholia iii margin beside relevant paragraph printed vendelini ingeniosa speculatio circa motus intervalla satellitum jovis wendelins clever speculation movement distances jupiters satellites
+johannes kepler noted jupiters moons obey approximately third law epitome astronomiae copernicanae epitome copernican astronomy linz lentiis ad danubium austria johann planck book part page
+references
+bibliography
+keplers life summarized pages book five magnum opus harmonice mundi harmonies world reprinted pages shoulders giants great works physics astronomy works copernicus kepler galileo newton einstein stephen hawking ed isbn
+derivation keplers third law planetary motion standard topic engineering mechanics classes see example pages meriam j l dynamics nd ed new york john wiley isbn
+murray dermott solar system dynamics cambridge university press isbn
+vi arnold mathematical methods classical mechanics chapter springer isbn
+external links
+bsurendranath reddy animation keplers laws applet
+derivation keplers laws newtons laws physics stack exchange
+crowell benjamin conservation laws httpwwwlightandmattercomareabookhtml online book gives proof first law without use calculus see section p
+david mcnamara gianfranco vidali keplers second law java interactive tutorial httpwwwphysyreducoursesjavamchtmlkeplerhtml interactive java applet aids understanding keplers second law
+audio caingay astronomy cast johannes kepler laws planetary motion
+university tennessees dept physics astronomy astronomy page johannes kepler laws planetary motion
+equant compared kepler interactive model
+keplers third lawinteractive model
+solar system simulator interactive applet
+kepler laws educational web pages david p stern

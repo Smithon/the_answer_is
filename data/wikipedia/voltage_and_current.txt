@@ -1,0 +1,122 @@
+electrical impedance is the measure of the opposition that a circuit presents to a current when a voltage is applied
+in quantitative terms it is the complex ratio of the voltage to the current in an alternating current (ac) circuit impedance extends the concept of resistance to ac circuits and possesses both magnitude and phase unlike resistance which has only magnitude when a circuit is driven with direct current (dc) there is no distinction between impedance and resistance; the latter can be thought of as impedance with zero phase angle
+it is necessary to introduce the concept of impedance in ac circuits because there are two additional impeding mechanisms to be taken into account besides the normal resistance of dc circuits: the induction of voltages in conductors self-induced by the magnetic fields of currents (inductance) and the electrostatic storage of charge induced by voltages between conductors (capacitance) the impedance caused by these two effects is collectively referred to as reactance and forms the imaginary part of complex impedance whereas resistance forms the real part
+the symbol for impedance is usually z and it may be represented by writing its magnitude and phase in the form |z| however cartesian complex number representation is often more powerful for circuit analysis purposes
+the term impedance was coined by oliver heaviside in july 1886 arthur kennelly was the first to represent impedance with complex numbers in 1893
+impedance is defined as the frequency domain ratio of the voltage to the current in other words it is the voltagecurrent ratio for a single complex exponential at a particular frequency  in general impedance will be a complex number with the same units as resistance for which the si unit is the ohm () for a sinusoidal current or voltage input the polar form of the complex impedance relates the amplitude and phase of the voltage and current in particular
+the magnitude of the complex impedance is the ratio of the voltage amplitude to the current amplitude
+the phase of the complex impedance is the phase shift by which the current lags the voltage
+the reciprocal of impedance is admittance (i.e. admittance is the current-to-voltage ratio and it conventionally carries units of siemens formerly called mhos)
+== complex impedanceedit ==
+impedance is represented as a complex quantity and the term complex impedance may be used interchangeably
+the polar form conveniently captures both magnitude and phase characteristics as
+where the magnitude represents the ratio of the voltage difference amplitude to the current amplitude while the argument (commonly given the symbol ) gives the phase difference between voltage and current is the imaginary unit and is used instead of in this context to avoid confusion with the symbol for electric current
+in cartesian form impedance is defined as
+where the real part of impedance is the resistance and the imaginary part is the reactance 
+where it is needed to add or subtract impedances the cartesian form is more convenient but when quantities are multiplied or divided the calculation becomes simpler if the polar form is used a circuit calculation such as finding the total impedance of two impedances in parallel may require conversion between forms several times during the calculation conversion between the forms follows the normal conversion rules of complex numbers
+== ohm's lawedit ==
+the meaning of electrical impedance can be understood by substituting it into ohm's law
+the magnitude of the impedance acts just like resistance giving the drop in voltage amplitude across an impedance for a given current  the phase factor tells us that the current lags the voltage by a phase of (i.e. in the time domain the current signal is shifted later with respect to the voltage signal)
+just as impedance extends ohm's law to cover ac circuits other results from dc circuit analysis such as voltage division current division thvenin's theorem and norton's theorem can also be extended to ac circuits by replacing resistance with impedance
+== complex voltage and currentedit ==
+in order to simplify calculations sinusoidal voltage and current waves are commonly represented as complex-valued functions of time denoted as and 
+impedance is defined as the ratio of these quantities
+substituting these into ohm's law we have
+noting that this must hold for all  we may equate the magnitudes and phases to obtain
+the magnitude equation is the familiar ohm's law applied to the voltage and current amplitudes while the second equation defines the phase relationship
+=== validity of complex representationedit ===
+this representation using complex exponentials may be justified by noting that (by euler's formula):
+the real-valued sinusoidal function representing either voltage or current may be broken into two complex-valued functions by the principle of superposition we may analyse the behaviour of the sinusoid on the left-hand side by analysing the behaviour of the two complex terms on the right-hand side given the symmetry we only need to perform the analysis for one right-hand term; the results will be identical for the other at the end of any calculation we may return to real-valued sinusoids by further noting that
+=== phasorsedit ===
+a phasor is a constant complex number usually expressed in exponential form representing the complex amplitude (magnitude and phase) of a sinusoidal function of time phasors are used by electrical engineers to simplify computations involving sinusoids where they can often reduce a differential equation problem to an algebraic one
+the impedance of a circuit element can be defined as the ratio of the phasor voltage across the element to the phasor current through the element as determined by the relative amplitudes and phases of the voltage and current this is identical to the definition from ohm's law given above recognising that the factors of cancel
+== device examplesedit ==
+the impedance of an ideal resistor is purely real and is referred to as a resistive impedance:
+in this case the voltage and current waveforms are proportional and in phase
+ideal inductors and capacitors have a purely imaginary reactive impedance:
+the impedance of inductors increases as frequency increases;
+the impedance of capacitors decreases as frequency increases;
+in both cases for an applied sinusoidal voltage the resulting current is also sinusoidal but in quadrature 90 degrees out of phase with the voltage however the phases have opposite signs: in an inductor the current is lagging; in a capacitor the current is leading
+note the following identities for the imaginary unit and its reciprocal:
+thus the inductor and capacitor impedance equations can be rewritten in polar form:
+the magnitude gives the change in voltage amplitude for a given current amplitude through the impedance while the exponential factors give the phase relationship
+=== deriving the device-specific impedancesedit ===
+what follows below is a derivation of impedance for each of the three basic circuit elements: the resistor the capacitor and the inductor although the idea can be extended to define the relationship between the voltage and current of any arbitrary signal these derivations will assume sinusoidal signals since any arbitrary signal can be approximated as a sum of sinusoids through fourier analysis
+==== resistoredit ====
+for a resistor there is the relation
+which is ohm's law
+considering the voltage signal to be
+it follows that
+this says that the ratio of ac voltage amplitude to alternating current (ac) amplitude across a resistor is  and that the ac voltage leads the current across a resistor by 0 degrees
+this result is commonly expressed as
+==== capacitoredit ====
+for a capacitor there is the relation:
+considering the voltage signal to be
+it follows that
+and thus
+this says that the ratio of ac voltage amplitude to ac current amplitude across a capacitor is  and that the ac voltage lags the ac current across a capacitor by 90 degrees (or the ac current leads the ac voltage across a capacitor by 90 degrees)
+this result is commonly expressed in polar form as
+or by applying euler's formula as
+==== inductoredit ====
+for the inductor we have the relation:
+this time considering the current signal to be:
+it follows that:
+and thus:
+this says that the ratio of ac voltage amplitude to ac current amplitude across an inductor is  and that the ac voltage leads the ac current across an inductor by 90 degrees
+this result is commonly expressed in polar form as
+or using euler's formula as
+== generalised s-plane impedanceedit ==
+impedance defined in terms of j can strictly be applied only to circuits which are driven with a steady-state ac signal the concept of impedance can be extended to a circuit energised with any arbitrary signal by using complex frequency instead of j complex frequency is given the symbol s and is in general a complex number signals are expressed in terms of complex frequency by taking the laplace transform of the time domain expression of the signal the impedance of the basic circuit elements in this more general notation is as follows:
+for a dc circuit this simplifies to s = 0 for a steady-state sinusoidal ac signal s = j
+== resistance vs reactanceedit ==
+resistance and reactance together determine the magnitude and phase of the impedance through the following relations:
+in many applications the relative phase of the voltage and current is not critical so only the magnitude of the impedance is significant
+=== resistanceedit ===
+resistance is the real part of impedance; a device with a purely resistive impedance exhibits no phase shift between the voltage and current
+=== reactanceedit ===
+reactance is the imaginary part of the impedance; a component with a finite reactance induces a phase shift between the voltage across it and the current through it
+a purely reactive component is distinguished by the sinusoidal voltage across the component being in quadrature with the sinusoidal current through the component this implies that the component alternately absorbs energy from the circuit and then returns energy to the circuit a pure reactance will not dissipate any power
+==== capacitive reactanceedit ====
+a capacitor has a purely reactive impedance which is inversely proportional to the signal frequency a capacitor consists of two conductors separated by an insulator also known as a dielectric
+at low frequencies a capacitor is an open circuit so no charge flows in the dielectric
+a dc voltage applied across a capacitor causes charge to accumulate on one side; the electric field due to the accumulated charge is the source of the opposition to the current when the potential associated with the charge exactly balances the applied voltage the current goes to zero
+driven by an ac supply a capacitor will only accumulate a limited amount of charge before the potential difference changes sign and the charge dissipates the higher the frequency the less charge will accumulate and the smaller the opposition to the current
+==== inductive reactanceedit ====
+inductive reactance is proportional to the signal frequency and the inductance 
+an inductor consists of a coiled conductor faraday's law of electromagnetic induction gives the back emf (voltage opposing current) due to a rate-of-change of magnetic flux density through a current loop
+for an inductor consisting of a coil with loops this gives
+the back-emf is the source of the opposition to current flow a constant direct current has a zero rate-of-change and sees an inductor as a short-circuit (it is typically made from a material with a low resistivity) an alternating current has a time-averaged rate-of-change that is proportional to frequency this causes the increase in inductive reactance with frequency
+==== total reactanceedit ====
+the total reactance is given by
+so that the total impedance is
+== combining impedancesedit ==
+the total impedance of many simple networks of components can be calculated using the rules for combining impedances in series and parallel the rules are identical to those used for combining resistances except that the numbers in general will be complex numbers in the general case however equivalent impedance transforms in addition to series and parallel will be required
+=== series combinationedit ===
+for components connected in series the current through each circuit element is the same; the total impedance is the sum of the component impedances
+or explicitly in real and imaginary terms:
+=== parallel combinationedit ===
+for components connected in parallel the voltage across each circuit element is the same; the ratio of currents through any two elements is the inverse ratio of their impedances
+hence the inverse total impedance is the sum of the inverses of the component impedances:
+or when n = 2:
+the equivalent impedance can be calculated in terms of the equivalent series resistance and reactance 
+== measurementedit ==
+estimating the frequency response of a dynamic system such is the impedance requires measuring the impedance response to an input signal excitation in the form of an impulse function sweeping the frequency of a sine wave excitation in the bandwidth of interest or applying a spread-spectrum signal generated with a particular bandwidth there are many measurement methods to choose from when measuring impedance each of which has advantages and disadvantages
+== time-varying impedanceedit ==
+using system identification methods it is possible to identify impedance and its uncertainty bounds from the measurement of the input and output signals in particular linear time-invariant (lti) system theory permits the user to identify the subset of systems with a linear and time-invariant behavior during the measurement window the applications where the impedance exhibits a non-linear and time-varying behavior during the measurement window e.g in cardiac impedance and corrosion studies are more cumbersome to deal with as they require the use of time-variant system identification theory tools
+== see alsoedit ==
+bioelectrical impedance analysis
+characteristic impedance
+electrical characteristics of dynamic loudspeakers
+high impedance
+immittance
+impedance bridging
+impedance cardiography
+impedance matching
+negative impedance converter
+resistance distance
+impedance control
+== referencesedit ==
+== external linksedit ==
+explaining impedance
+antenna impedance
+ece 209: review of circuits as lti systems brief explanation of laplace-domain circuit analysis; includes a definition of impedance

@@ -1,0 +1,55 @@
+total internal reflection is a phenomenon which occurs when a propagating wave strikes a medium boundary at an angle larger than a particular critical angle with respect to the normal to the surface if the refractive index is lower on the other side of the boundary and the incident angle is greater than the critical angle the wave cannot pass through and is entirely reflected the critical angle is the angle of incidence above which the total internal reflection occurs this is particularly common as an optical phenomenon where light waves are involved but it occurs with many types of waves such as electromagnetic waves in general or sound waves
+when a wave reaches a boundary between different materials with different refractive indices the wave will in general be partially refracted at the boundary surface and partially reflected however if the angle of incidence is greater (i.e the direction of propagation is closer to being parallel to the boundary) than the critical angle the angle of incidence at which light is refracted such that it travels along the boundary then the wave will not cross the boundary but will instead be totally reflected back internally this can only occur when the wave in a medium with a higher refractive index (n1) reaches a boundary with a medium of lower refractive index (n2) for example it will occur with light reaching air from glass but not when reaching glass from air
+== optical descriptionedit ==
+total internal reflection of light can be demonstrated using a semi-circular block of glass or plastic a "ray box" shines a narrow beam of light (a "ray") onto the glass medium the semi-circular shape ensures that a ray pointing towards the centre of the flat face will hit the curved surface at a right angle; this will prevent refraction at the air/glass boundary of the curved surface at the glass/air boundary of the flat surface what happens will depend on the angle where c is the critical angle measurement which is caused by the sun or a light source (measured normal to the surface):
+if < c the ray will split some of the ray will reflect off the boundary and some will refract as it passes through this is not total internal reflection
+if > c the entire ray reflects from the boundary none passes through this is called total internal reflection
+this physical property makes optical fibers useful and prismatic binoculars possible it is also what gives diamonds their distinctive sparkle as diamond has an unusually high refractive index
+== critical angleedit ==
+the critical angle is the angle of incidence above which total internal reflection occurs the angle of incidence is measured with respect to the normal at the refractive boundary (see diagram illustrating snell's law) consider a light ray passing from glass into air the light emanating from the interface is bent towards the glass when the incident angle is increased sufficiently the transmitted angle (in air) reaches 90 degrees it is at this point no light is transmitted into air the critical angle is given by snell's law
+rearranging snell's law we get incidence
+to find the critical angle we find the value for when 90 and thus  the resulting value of is equal to the critical angle 
+now we can solve for  and we get the equation for the critical angle:
+if the incident ray is precisely at the critical angle the refracted ray is tangent to the boundary at the point of incidence if for example visible light were traveling through acrylic glass (with an index of refraction of approximately 1.50) into air (with an index of refraction of 1.00) the calculation would give the critical angle for light from acrylic into air which is
+light incident on the border with an angle less than 41.8 would be partially transmitted while light incident on the border at larger angles with respect to normal would be totally internally reflected
+if the fraction is greater than 1 then arcsine is not definedmeaning that total internal reflection does not occur even at very shallow or grazing incident angles
+so the critical angle is only defined when is less than or equal to 1
+== derivation of evanescent waveedit ==
+an important side effect of total internal reflection is the appearance of an evanescent wave beyond the boundary surface essentially even though the entire incident wave is reflected back into the originating medium there is some penetration into the second medium at the boundary the evanescent wave appears to travel along the boundary between the two materials leading to the goos-hnchen shift
+if a plane wave confined to the xz plane is incident on a dielectric with an angle and wavevector then a transmitted ray will be created with a corresponding angle of transmittance as shown in the figure above the transmitted wavevector is given by:
+if  then since in the relation obtained from snell's law is greater than one for
+as a result of this becomes complex:
+the electric field of the transmitted plane wave is given by and so evaluating this further one obtains:
+and
+using the fact that and snell's law one finally obtains
+where and 
+this wave in the optically less dense medium is known as the evanescent wave it is characterized by its propagation in the x direction and its exponential attenuation in the z direction although there is a field in the second medium it can be shown that no energy flows across the boundary the component of poynting vector in the direction normal to the boundary is finite but its time average vanishes whereas the other two components of poynting vector (here x-component only) and their time averaged values are in general found to be finite (i.e nonzero)
+== frustrated total internal reflectionedit ==
+under ordinary conditions the evanescent wave transmits zero net energy across the interface however if a third medium with a higher refractive index than the low-index second medium is placed within less than several wavelengths distance from the interface between the first medium and the second medium the evanescent wave will be different from the usual one and it will pass energy across the second into the third medium (see evanescent wave coupling.) this process is called "frustrated" total internal reflection (ftir) and is very similar to quantum tunneling the quantum tunneling model is mathematically analogous if one thinks of the electromagnetic field as being the wave function of the photon the low index medium can be thought of as a potential barrier through which photons can tunnel
+the transmission coefficient for ftir is highly sensitive to the spacing between the third medium and the second medium (the function is approximately exponential until the gap is almost closed) so this effect has often been used to modulate optical transmission and reflection with a large dynamic range
+== phase shift upon total internal reflectionedit ==
+a lesser-known aspect of total internal reflection is that the reflected light has an angle dependent phase shift between the reflected and incident light mathematically this means that the fresnel reflection coefficient becomes a complex rather than a real number this phase shift is polarization dependent and grows as the incidence angle deviates further from the critical angle toward grazing incidence
+the polarization dependent phase shift is long known and was used by fresnel to design the fresnel rhomb which allows one to transform circular polarization to linear polarization and vice versa for a wide range of wavelengths (colors) in contrast to the quarter wave plate the polarization dependent phase shift is also the reason why te and tm guided modes have different dispersion relations
+== applicationsedit ==
+total internal reflection is the operating principle of optical fibers which are used in endoscopes and telecommunications
+total internal reflection is the operating principle of automotive rain sensors which control automatic windscreen/windshield wipers
+another application of total internal reflection is the spatial filtering of light
+prisms in binoculars use total internal reflection rather than reflective coatings to fold optical paths and show erect images
+some multi-touch screens use frustrated total internal reflection in combination with a camera and appropriate software to pick up multiple targets
+gonioscopy employs total internal reflection to view the anatomical angle formed between the eye's cornea and iris
+a gait analysis instrument catwalk xt uses frustrated total internal reflection in combination with a high speed camera to capture and analyze footprints of laboratory rodents
+optical fingerprinting devices use frustrated total internal reflection in order to record an image of a person's fingerprint without the use of ink
+a total internal reflection fluorescence microscope uses the evanescent wave produced by tir to excite fluorophores close to a surface this is useful for the study of surface properties of biological samples
+total internal reflection is the operating principle of led light panels this technology utilizes lgps (light guide plates) as the vehicle for transmitting light over large areas by etching a grid pattern on the second surface of the lgp frustrated total internal reflection occurs allowing the light to escape the lgp as visible illumination
+== examples in everyday lifeedit ==
+total internal reflection can be observed while swimming when one opens one's eyes just under the water's surface if the water is calm its surface appears mirror-like diamonds used for jewelry are normally shaped in such a way as to maximize the amount of light that is totally internally reflected from the back side of the diamond the very high refractive index of diamond gives a small critical angle allowing almost all the light entering the diamond to be reflected back for optimized diamond cuts such as the brilliant
+== referencesedit ==
+this article incorporates public domain material from the general services administration document "federal standard 1037c" (in support of mil-std-188)
+== external linksedit ==
+ftir touch sensing
+multi-touch interaction research
+georgia state university
+total internal reflection by michael schreiber wolfram demonstrations project
+total internal reflection st mary's physics online notes
+bowley roger (2009) "total internal reflection" sixty symbols brady haran for the university of nottingham
+te,tm reflection coefficients interactive phase and magnitude plots

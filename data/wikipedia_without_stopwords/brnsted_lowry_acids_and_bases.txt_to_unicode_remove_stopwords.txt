@@ -1,0 +1,67 @@
+computer science graphical user interface gui pronounced ui gooey type interface allows users interact electronic devices graphical icons visual indicators secondary notation opposed textbased interfaces typed command labels text navigation guis introduced reaction perceived steep learning curve commandline interfaces clis require commands typed keyboard
+actions gui usually performed direct manipulation graphical elements addition computers guis found handheld devices mp players portable media players gaming devices smaller householdsmartphones office industry equipment term gui tends applied lowresolution types interfaces display resolutions video games hud preferred restricted flat screens like volumetric displays term restricted scope twodimensional display screens able describe generic information tradition computer science research parc palo alto research center
+user interface interaction design
+designing visual composition temporal behavior gui important part software application programming area humancomputer interaction goal enhance efficiency ease use underlying logical design stored program design discipline known usability methods usercentered design used ensure visual language introduced design well tailored tasks
+visible graphical interface features application sometimes referred chrome gui gooee typically user interacts information manipulating visual widgets allow interactions appropriate kind data hold widgets welldesigned interface selected support actions necessary achieve goals user modelviewcontroller allows flexible structure interface independent indirectly linked application functionality gui easily customized allows user select design different skin eases designers work change interface user needs evolve good user interface design relates user system architecture
+large widgets windows usually provide frame container main presentation content web page email message drawing smaller ones usually act userinput tool
+gui may designed requirements vertical market applicationspecific graphical user interfaces examples applicationspecific guis include automated teller machines atm pointofsale touchscreens restaurants selfservice checkouts used retail store airline selfticketing checkin information kiosks public space like train station museum monitors control screens embedded industrial application employ real time operating system rtos
+latest cell phones handheld game systems also employ application specific touchscreen guis newer automobiles use guis navigation systems touch screen multimedia centers
+examples
+sample graphical desktop environments
+components
+gui uses combination technologies devices provide platform user interact tasks gathering producing information
+series elements conforming visual language evolved represent information stored computers makes easier people computer skills work use computer software common combination elements guis wimp window icon menu pointing device paradigm especially personal computers
+wimp style interaction uses virtual input device control position pointer often mouse presents information organized windows represented icons available commands compiled together menus actions performed making gestures pointing device window manager facilitates interactions windows applications windowing system windowing system handles hardware devices pointing devices graphics hardware well positioning pointer
+personal computers elements modeled desktop metaphor produce simulation called desktop environment display represents desktop upon documents folders documents placed window managers software combine simulate desktop environment varying degrees realism
+postwimp interfaces
+smaller mobile devices pdas smartphones typically use wimp elements different unifying metaphors due constraints space available input devices applications wimp well suited may use newer interaction techniques collectively named postwimp user interfaces
+touchscreenbased operating systems apples ios iphone android use class guis named postwimp support styles interaction using one finger contact display allows actions pinching rotating unsupported one pointer mouse
+interaction
+human interface devices efficient interaction gui include computer keyboard especially used conjunction keyboard shortcuts pointing devices cursor rather pointer control mouse pointing stick touchpad trackball joystick etc virtual keyboards headup displays translucent information devices eye level
+also actions performed programs affect gui example components like inotify dbus facilitate communication computer programs
+history
+precursors
+precursor guis invented researchers stanford research institute led douglas engelbart developed use textbased hyperlinks manipulated mouse online system nls concept hyperlinks refined extended graphics researchers xerox parc specifically alan kay went beyond textbased hyperlinks used gui primary interface xerox alto computer released modern generalpurpose guis derived system
+ivan sutherland developed pointerbased system called sketchpad used lightpen guide creation manipulation objects engineering drawings
+parc user interface
+parc user interface consisted graphical elements windows menus radio buttons check boxes concept icons later introduced david smith written thesis subject guidance kay parc user interface employs pointing device addition keyboard aspects emphasized using alternative acronym wimp stands windows icons menus pointing device
+evolution
+following parc first guicentric computer operating model xerox star information system followed apple lisa presented concept menu bar well window controls apple macintosh k atari st commodore amiga
+visi released ibm pc compatible computers didnt became popular due high hardware demands nevertheless crucial influence contemporary development microsoft windows
+apple ibm microsoft used many xeroxs ideas develop products ibms common user access specifications formed basis user interface found microsoft windows ibm os presentation manager unix motif toolkit window manager ideas evolved create interface found current versions microsoft windows well various desktop environments unixlike operating systems mac os x linux thus current guis largely common idioms
+popularization
+guis hot topic early apple lisa released various windowing systems existed msdos individual applications number platforms presented take gui despite guis advantages many reviewers questioned value entire concept citing hardware limitations well difficulty finding compatible software
+apple released television commercial introduced apple macintosh telecast super bowl xviii cbs allusions george orwells noted novel nineteen eightyfour commercial aimed making people think computers identifying userfriendly interface personal computer departed previous businessoriented systems becoming signature representation apple products
+accompanied extensive marketing campaign windows major success marketplace launch shortly became popular desktop operating system
+iphone later introduction ipad apple popularized postwimp style interaction multitouch screens devices considered milestones development mobile devices
+guis familiar people mids microsoft windows mac os x x window system interfaces desktop laptop computers apples ios android symbian blackberry os windows phone palm os web os firefox os handheld smartphone devices
+comparison interfaces
+commandline interfaces
+since commands available command line interfaces numerous complicated operations completed using short sequence words symbols allows greater efficiency productivity many commands learned reaching level takes time command words may easily discoverable mnemonic addition using command line become slow errorprone user needs enter long commands comprising many parameters andor several different filenames wimps window icon menu pointing device hand present user numerous widgets represent trigger systems available commands
+hand guis made quite hard burying dialogs deep system moving dialogs place place also dialog boxes considerably harder user script
+wimps extensively use modes meaning keys clicks specific positions screen redefined time command line interfaces use modes limited forms current directory environment variables
+modern operating systems provide gui level cli although guis usually receive attention gui usually wimpbased although occasionally metaphors surface used microsoft bob dwm file system visualizer fsv
+gui wrappers
+graphical user interface gui wrappers circumvent commandline interface versions cli typically linux unixlike software applications textbased interfaces typed command labels commandline textbased application allow users run program noninteractively guis wrappers top avoid steep learning curve commandline requires commands typed keyboard starting gui wrapper users intuitively interact polipo start stop change working parameters graphical icons visual indicators desktop environment example applications may also provide interfaces gui usually wimp wrapper around commandline version especially common applications designed unixlike operating systems latter used implemented first allowed developers focus exclusively products functionality without bothering interface details designing icons placing buttons designing programs way also allows users run program shell script example basic design could specialized polipo commandline web proxy server connected gui wrapper projects eg windows os solipo mac os x dolipo android polipoid
+threedimensional user interfaces
+typical computer displays threedimensional misnomertheir displays twodimensional semantically however graphical user interfaces use three dimensions addition height width offer third dimension layering stacking screen elements one another may represented visually screen illusionary transparent effect offers advantage information background windows may still read interacted environment may simply hide background information possibly making distinction apparent drawing drop shadow effect
+environments use methods d graphics project virtual three dimensional user interface objects onto screen often shown use scifi films see examples processing power computer graphics hardware increases becomes less obstacle smooth user experience
+threedimensional graphics currently mostly used computer games art computeraided design cad threedimensional computing environment could also useful scenarios like molecular graphics aircraft design
+several attempts made create multiuser threedimensional environment including croquet project suns project looking glass
+technologies
+use threedimensional graphics become increasingly common mainstream operating systems creating attractive interfaceseye candy functional purposes possible using three dimensions example user switching represented rotating cube whose faces users workspace window management represented via rolodexstyle flipping mechanism windows vista see windows flip d cases operating system transforms windows onthefly continuing update content windows
+interfaces x window system also implemented advanced threedimensional user interfaces compositing window managers beryl compiz kwin using aiglx xgl architectures allowing usage opengl animate users interactions desktop
+another branch threedimensional desktop environment threedimensional guis take desktop metaphor step like bumptop user manipulate documents windows real world documents realistic movement physics
+zooming user interface zui related technology promises deliver representation benefits d environments without usability drawbacks orientation problems hidden objects logical advancement gui blending threedimensional movement twodimensional d vector objects hillcrest labs introduced first zooming user interface television
+science fiction
+threedimensional guis appeared science fiction literature movies technically feasible common use example american film jurassic park features silicon graphics threedimensional file manager file system navigator reallife file manager unix operating systems film minority report scenes police officers using specialized d data systems prose fiction threedimensional user interfaces displayed immersible environments like william gibsons cyberspace neal stephensons metaverse many futuristic imaginings user interfaces rely heavily objectoriented user interface ooui style especially objectoriented graphical user interface oogui style
+see also
+references
+external links
+evolution graphical user interface last years raj lal
+men really invented gui clive akass
+graphical user interface gallery screenshots various guis
+marcin wicharys guidebook graphical user interface gallery screenshots gui application icon history
+real history gui mike tuck
+beginning command line neal stephenson
+d graphical user interfaces pdf farid benhajji erik dybner department computer systems sciences stockholm university

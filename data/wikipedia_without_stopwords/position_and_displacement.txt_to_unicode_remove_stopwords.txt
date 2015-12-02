@@ -1,0 +1,327 @@
+list sensors sorted sensor type
+acoustic sound vibrationedit
+geophone
+hydrophone
+lace sensor guitar pickup
+microphone
+automotive transportationedit
+airfuel ratio meter
+blind spot monitor
+crankshaft position sensor
+curb feeler used warn driver curbs
+defect detector used railroads detect axle signal problems passing trains
+engine coolant temperature sensor ect sensor used measure engine temperature
+hall effect sensor used time speed wheels shafts
+map sensor manifold absolute pressure used regulating fuel metering
+mass flow sensor mass airflow maf sensor used tell ecu mass air entering engine
+oxygen sensor used monitor amount oxygen exhaust
+parking sensors used alert driver unseen obstacles parking maneuvers
+radar gun used detect speed objects
+speedometer used measure instantaneous speed land vehicle
+speed sensor used detect speed object
+throttle position sensor used monitor position throttle internal combustion engine
+tirepressure monitoring sensor used monitor air pressure inside tires
+torque sensor torque transducer torquemeter measures torque twisting force rotating system
+transmission fluid temperature sensor used measure temperature transmission fluid
+turbine speed sensor tss input speed sensor iss used measure rotational speed input shaft torque converter
+variable reluctance sensor used measure position speed moving metal components
+vehicle speed sensor vss used measure speed vehicle
+water sensor waterinfuel sensor used indicate presence water fuel
+wheel speed sensor used reading speed vehicles wheel rotation
+chemicaledit
+breathalyzer
+carbon dioxide sensor
+carbon monoxide detector
+catalytic bead sensor
+chemical fieldeffect transistor
+electrochemical gas sensor
+electronic nose
+electrolyteinsulatorsemiconductor sensor
+fluorescent chloride sensors
+holographic sensor
+hydrocarbon dew point analyzer
+hydrogen sensor
+hydrogen sulfide sensor
+infrared point sensor
+ionselective electrode
+nondispersive infrared sensor
+microwave chemistry sensor
+nitrogen oxide sensor
+olfactometer
+optode
+oxygen sensor
+ozone monitor
+pellistor
+ph glass electrode
+potentiometric sensor
+redox electrode
+smoke detector
+zinc oxide nanorod sensor
+electric current electric potential magnetic radioedit
+current sensor
+daly detector
+electroscope
+electron multiplier
+faraday cup
+galvanometer
+hall effect sensor
+hall probe
+magnetic anomaly detector
+magnetometer
+mems magnetic field sensor
+metal detector
+planar hall sensor
+radio direction finder
+voltage detector
+flow fluid velocityedit
+air flow meter
+anemometer
+flow sensor
+gas meter
+mass flow sensor
+water meter
+ionizing radiation subatomic particlesedit
+cloud chamber
+geiger counter
+neutron detection
+navigation instrumentsedit
+air speed indicator
+altimeter
+attitude indicator
+depth gauge
+fluxgate compass
+gyroscope
+inertial navigation system
+inertial reference unit
+magnetic compass
+mhd sensor
+ring laser gyroscope
+turn coordinator
+tialinx sensor
+variometer
+vibrating structure gyroscope
+yaw rate sensor
+position angle displacement distance speed accelerationedit
+auxanometer
+capacitive displacement sensor
+capacitive sensing
+free fall sensor
+gravimeter
+gyroscopic sensor
+impact sensor
+inclinometer
+integrated circuit piezoelectric sensor
+laser rangefinder
+laser surface velocimeter
+lidar
+linear encoder
+linear variable differential transformer lvdt
+liquid capacitive inclinometers
+odometer
+photoelectric sensor
+piezocapactive sensor
+piezoelectric accelerometer
+position sensor
+rate sensor
+rotary encoder
+rotary variable differential transformer
+selsyn
+shock detector
+shock data logger
+stretch sensor
+tilt sensor
+tachometer
+ultrasonic thickness gauge
+variable reluctance sensor
+velocity receiver
+optical light imaging photonedit
+chargecoupled device
+cmos sensor
+colorimeter
+contact image sensor
+electrooptical sensor
+flame detector
+infrared sensor
+kinetic inductance detector
+led light sensor
+lightaddressable potentiometric sensor
+nichols radiometer
+fiber optic sensors
+optical position sensor
+photodetector
+photodiode
+photomultiplier tubes
+phototransistor
+photoelectric sensor
+photoionization detector
+photomultiplier
+photoresistor
+photoswitch
+phototube
+scintillometer
+shackhartmann
+singlephoton avalanche diode
+superconducting nanowire singlephoton detector
+transition edge sensor
+visible light photon counter
+wavefront sensor
+pressureedit
+barograph
+barometer
+boost gauge
+bourdon gauge
+hot filament ionization gauge
+ionization gauge
+mcleod gauge
+oscillating utube
+permanent downhole gauge
+piezometer
+pirani gauge
+pressure sensor
+pressure gauge
+tactile sensor
+time pressure gauge
+force density leveledit
+bhangmeter
+hydrometer
+force gauge force sensor
+level sensor
+load cell
+magnetic level gauge
+nuclear density gauge
+piezocapactive pressure sensor
+piezoelectric sensor
+strain gauge
+torque sensor
+viscometer
+thermal heat temperatureedit
+bolometer
+bimetallic strip
+calorimeter
+exhaust gas temperature gauge
+flame detection
+gardon gauge
+golay cell
+heat flux sensor
+infrared thermometer
+microbolometer
+microwave radiometer
+net radiometer
+quartz thermometer
+resistance temperature detector
+resistance thermometer
+silicon bandgap temperature sensor
+special sensor microwaveimager
+temperature gauge
+thermistor
+thermocouple
+thermometer
+pyrometer
+proximity presenceedit
+alarm sensor
+doppler radar
+motion detector
+occupancy sensor
+proximity sensor
+passive infrared sensor
+reed switch
+stud finder
+triangulation sensor
+touch switch
+wired glove
+sensor technologyedit
+active pixel sensor
+backilluminated sensor
+biochip
+biosensor
+capacitance probe
+capacitance sensor
+catadioptric sensor
+carbon paste electrode
+digital sensors
+displacement receiver
+electromechanical film
+electrooptical sensor
+fabryprot interferometer
+fisheries acoustics
+image sensor
+image sensor format
+inductive sensor
+intelligent sensor
+labonachip
+leaf sensor
+machine vision
+microelectromechanical systems
+photoelasticity
+quantum sensor
+radar
+groundpenetrating radar
+stretch sensor
+synthetic aperture radar
+radar tracker
+sensor array
+sensor fusion
+sensor grid
+sensor node
+soft sensor
+sonar
+staring array
+transducer
+ultrasonic sensor
+video sensor
+visual sensor network
+wheatstone bridge
+wireless sensor network
+sensors sensor related properties conceptsedit
+actigraphy
+analog image processing
+atomic force microscopy
+atomic gravitational wave interferometric sensor
+altitude control spacecrafthorizon sensor earth sensor sun sensor
+catadioptric sensor
+chemoreceptor
+compressive sensing
+cryogenic particle detectors
+dew warning
+diffusion tensor imaging
+digital holography
+electronic tongue
+fine guidance sensor
+flat panel detector
+functional magnetic resonance imaging
+glass break detector
+heartbeat sensor
+hyperspectral sensors
+iris biosensor interferometric reflectance imaging sensor
+laser beam profiler
+littoral airborne sensorhyperspectral
+lorros
+millimeter wave scanner
+magnetic resonance imaging
+moire deflectometry
+molecular sensor
+nanosensor
+nanotetherball sensor
+omnidirectional camera
+organoleptic sensors
+optical coherence tomography
+phase unwrapping techniques
+polygraph truth detection
+positron emission tomography
+push broom scanner
+quantization signal processing
+range imaging
+scanning squid microscope
+singlephoton emission computed tomography spect
+smartdust
+squid superconducting quantum interference device
+ssies special sensorsions electrons scintillation thermal plasma analysis package
+ssmis special sensor microwave imager sounder
+structuredlight d scanner
+sun sensor attitude control spacecraft
+superconducting nanowire singlephoton detector
+thinfilm thickness monitor
+timeofflight camera
+tridar triangulation lidar automated rendezvous docking
+unattended ground sensors
+referencesedit

@@ -1,0 +1,68 @@
+the ideal gas law is the equation of state of a hypothetical ideal gas it is a good approximation to the behavior of many gases under many conditions although it has several limitations it was first stated by mile clapeyron in 1834 as a combination of boyle's law charles's law and avogadro's law the ideal gas law is often written as:
+where the letters denote pressure volume amount (in moles) ideal gas constant and temperature of the gas respectively
+it can also be derived microscopically from kinetic theory as was achieved (apparently independently) by august krnig in 1856 and rudolf clausius in 1857
+== equationedit ==
+the state of an amount of gas is determined by its pressure volume and temperature the modern form of the equation relates these simply in two main forms the temperature used in the equation of state is an absolute temperature: in the si system of units kelvin
+=== common formedit ===
+the most frequently introduced form is
+where:
+p is the pressure of the gas
+v is the volume of the gas
+n is the amount of substance of gas (also known as number of moles)
+r is the ideal or universal gas constant equal to the product of the boltzmann constant and the avogadro constant
+t is the temperature of the gas
+in si units p is measured in pascals v is measured in cubic metres n is measured in moles and t in kelvin (the kelvin scale is a shifted celsius scale where 0.00 kelvin = -273.15 degrees celsius the lowest possible temperature) r has the value 8.314 jk1mol1 or 0.08206 latmmol1k1or 2 calories if using pressure in standard atmospheres (atm) instead of pascals and volume in litres instead of cubic metres
+=== molar formedit ===
+how much gas is present could be specified by giving the mass instead of the chemical amount of gas therefore an alternative form of the ideal gas law may be useful the chemical amount (n) (in moles) is equal to the mass (m) (in grams) divided by the molar mass (m) (in grams per mole):
+by replacing n with m / m and subsequently introducing density = m/v we get:
+defining the specific gas constant rspecific as the ratio r/m
+this form of the ideal gas law is very useful because it links pressure density and temperature in a unique formula independent of the quantity of the considered gas alternatively the law may be written in terms of the specific volume v the reciprocal of density as
+it is common especially in engineering applications to represent the specific gas constant by the symbol r in such cases the universal gas constant is usually given a different symbol such as r to distinguish it in any case the context and/or units of the gas constant should make it clear as to whether the universal or specific gas constant is being referred to
+=== statistical mechanicsedit ===
+in statistical mechanics the following molecular equation is derived from first principles:
+where p is the absolute pressure of the gas measured in pascals; n is the number of molecules in the given volume v the number density is given by the ratio n/v; kb is the boltzmann constant relating temperature and energy; and t is the absolute temperature
+the number density contrasts to the other formulation which uses n the number of moles and v the volume this relation implies that r=nakb where na is avogadro's constant and the consistency of this result with experiment is a good check on the principles of statistical mechanics
+from this we can notice that for an average particle mass of times the atomic mass constant mu (i.e. the mass is u)
+and since = mn we find that the ideal gas law can be rewritten as:
+in si units p is measured in pascals; v in cubic metres; y is a dimensionless number; and t in kelvin k has the value 1.381023 jk1 in si units
+== applications to thermodynamic processesedit ==
+the table below essentially simplifies the ideal gas equation for a particular processes thus making this equation easier to solve using numerical methods
+a thermodynamic process is defined as a system that moves from state 1 to state 2 where the state number is denoted by subscript as shown in the first column of the table basic thermodynamic processes are defined such that one of the gas properties (p v t or s) is constant throughout the process
+for a given thermodynamics process in order to specify the extent of a particular process one of the properties ratios (which are listed under the column labeled "known ratio") must be specified (either directly or indirectly) also the property for which the ratio is known must be distinct from the property held constant in the previous column (otherwise the ratio would be unity and not enough information would be available to simplify the gas law equation)
+in the final three columns the properties (p v or t) at state 2 can be calculated from the properties at state 1 using the equations listed
+^ a in an isentropic process system entropy (s) is constant under these conditions p1 v1 = p2 v2 where is defined as the heat capacity ratio which is constant for a calorifically perfect gas the value used for is typically 1.4 for diatomic gases like nitrogen (n2) and oxygen (o2) (and air which is 99% diatomic) also is typically 1.6 for monatomic gases like the noble gases helium (he) and argon (ar) in internal combustion engines varies between 1.35 and 1.15 depending on constitution gases and temperature
+== deviations from ideal behavior of real gasesedit ==
+the equation of state given here applies only to an ideal gas or as an approximation to a real gas that behaves sufficiently like an ideal gas there are in fact many different forms of the equation of state since the ideal gas law neglects both molecular size and intermolecular attractions it is most accurate for monatomic gases at high temperatures and low pressures the neglect of molecular size becomes less important for lower densities i.e for larger volumes at lower pressures because the average distance between adjacent molecules becomes much larger than the molecular size the relative importance of intermolecular attractions diminishes with increasing thermal kinetic energy i.e. with increasing temperatures more detailed equations of state such as the van der waals equation account for deviations from ideality caused by molecular size and intermolecular forces
+a residual property is defined as the difference between a real gas property and an ideal gas property both considered at the same pressure temperature and composition
+== derivationsedit ==
+=== empiricaledit ===
+the ideal gas law can be derived from combining two empirical gas laws: the combined gas law and avogadro's law the combined gas law state that
+where c is a constant which is directly proportional to the amount of gas n (avogadro's law) the proportionality factor is the universal gas constant r i.e c = nr
+hence the ideal gas law
+=== theoreticaledit ===
+==== kinetic theoryedit ====
+the ideal gas law can also be derived from first principles using the kinetic theory of gases in which several simplifying assumptions are made chief among which are that the molecules or atoms of the gas are point masses possessing mass but no significant volume and undergo only elastic collisions with each other and the sides of the container in which both linear momentum and kinetic energy are conserved
+==== statistical mechanicsedit ====
+let q = (qx qy qz) and p = (px py pz) denote the position vector and momentum vector of a particle of an ideal gas respectively let f denote the net force on that particle then the time-averaged potential energy of the particle is:
+where the first equality is newton's second law and the second line uses hamilton's equations and the equipartition theorem summing over a system of n particles yields
+by newton's third law and the ideal gas assumption the net force of the system is the force applied by the walls of the container and this force is given by the pressure p of the gas hence
+where ds is the infinitesimal area element along the walls of the container since the divergence of the position vector q is
+the divergence theorem implies that
+where dv is an infinitesimal volume within the container and v is the total volume of the container
+putting these equalities together yields
+which immediately implies the ideal gas law for n particles:
+where n = n/na is the number of moles of gas and r = nakb is the gas constant
+== see alsoedit ==
+combined gas law
+van der waals equation
+boltzmann constant
+configuration integral
+dynamic pressure
+internal energy
+== referencesedit ==
+== further readingedit ==
+davis and masten principles of environmental engineering and science mcgraw-hill companies inc new york (2002) isbn 0-07-235053-9
+website giving credit to benot paul mile clapeyron (17991864) in 1834
+== external linksedit ==
+configuration integral (statistical mechanics) where an alternative statistical mechanics derivation of the ideal-gas law using the relationship between the helmholtz free energy and the partition function but without using the equipartition theorem is provided vu-quoc l. configuration integral (statistical mechanics) 2008 this wiki site is down; see this article in the web archive on 2012 april 28
+online ideal gas law calculator

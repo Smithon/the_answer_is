@@ -1,0 +1,52 @@
+avogadro's law (sometimes referred to as avogadro's hypothesis or avogadro's principle) is an experimental gas law relating volume of a gas to the amount of substance of gas present a modern statement of avogadro's law is:
+avogadro's law states that "equal volumes of all gases at the same temperature and pressure have the same number of molecules"
+for a given mass of an ideal gas the volume and amount (moles) of the gas are directly proportional if the temperature and pressure are constant
+which can be written as:
+or
+where:
+v is the volume of the gas
+n is the amount of substance of the gas (measured in moles)
+k is a constant equal to rt/p where r is the universal gas constant t is the kelvin temperature and p is the pressure as temperature and pressure are constant rt/p is also constant and represented as k this is derived from the ideal gas law
+this law describes how under the same condition of temperature and pressure equal volumes of all gases contain the same number of molecules for comparing the same substance under two different sets of conditions the law can be usefully expressed as follows:
+the equation shows that as the number of moles of gas increases the volume of the gas also increases in proportion similarly if the number of moles of gas is decreased then the volume also decreases thus the number of molecules or atoms in a specific volume of ideal gas is independent of their size or the molar mass of the gas
+the law is named after amedeo avogadro who in 1811 hypothesized that two given samples of an ideal gas of the same volume and at the same temperature and pressure contain the same number of molecules as an example equal volumes of molecular hydrogen and nitrogen contain the same number of molecules when they are at the same temperature and pressure and observe ideal gas behavior in practice real gases show small deviations from the ideal behavior and the law holds only approximately but is still a useful approximation for scientists
+== mathematical definition ==
+avogadro's law is stated mathematically as:
+where:
+v is the volume of the gas(es)
+n is the amount of substance of the gas
+k is a proportionality constant
+the most significant consequence of avogadro's law is that the ideal gas constant has the same value for all gases this means that:
+where:
+p is the pressure of the gas in the cell
+t is the temperature in kelvin of the gas
+== ideal gas law ==
+a common rearrangement of this equation is by letting r be the proportionality constant and rearranging as follows:
+this equation is known as the ideal gas law
+== molar volume ==
+taking stp to be 101.325 kpa and 273.15 k we can find the volume of one mole of a gas:
+for 100.00 kpa and 273.15 k the molar volume of an ideal gas is 22.712 dm3mol1 note that the universal gas constant r is given by the product of avogadro's number and boltzmann's constant (see gas constant.)
+== application ==
+1.to deduce relationship between molecular mass and vapour density
+let us consider the terms as follows: v.d.= vapour density
+m.m.=molecular mass
+stp=standard temperature and pressure
+now the definition of molecular mass is,"the ratio of mass of 1 molecule of a substance to the ratio of mass of 1 molecule of hydrogen at stp"
+so,m.m.=mass of 1 mole of gas at stp/mass of 1 mole of hygrogen at stp
+since hydrogen is diatomic
+m.m.=mass of 1 mole of a gas at stp/2mass of 1 atom of hydrogen at stp
+we know from the definition of vapour density that it is the ratio of mass of 1 mole of a gas to the ratio of mass of 1 atom of gas at stp
+so 2m.m.=v.d
+hence molecular mass is twice the vapour density
+2.relation between molar volume of gas at ntp
+also according to avogadro's hypothesis we have come to know that the molar volume of a gas at ntp is 22.4 litres
+== see also ==
+boyle's law
+charles's law
+combined gas law
+gay-lussac's law
+ideal gas
+== references ==
+== external links ==
+avogadro's law at the university of fribourg
+avogadro's law at the royal society of chemistry

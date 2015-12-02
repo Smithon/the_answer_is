@@ -1,0 +1,38 @@
+an electrochemical gradient is a gradient of electrochemical potential usually for an ion that can move across a membrane the gradient consists of two parts the electrical potential and a difference in the chemical concentration across a membrane the difference of electrochemical potentials can be interpreted as a type of potential energy available for work in a cell the energy is stored in the form of chemical potential which accounts for an ion's concentration gradient across a cell membrane and electrostatic energy which accounts for an ion's tendency to move under influence of the transmembrane potential
+== overviewedit ==
+electrochemical potential is important in electroanalytical chemistry and industrial applications such as batteries and fuel cells it represents one of the many interchangeable forms of potential energy through which energy may be conserved
+in biological processes the direction an ion moves by diffusion or active transport across a membrane is determined by the electrochemical gradient in mitochondria and chloroplasts proton gradients are used to generate a chemiosmotic potential that is also known as a proton motive force this potential energy is used for the synthesis of atp by oxidative phosphorylation
+an electrochemical gradient has two components first the electrical component is caused by a charge difference across the lipid membrane second a chemical component is caused by a differential concentration of ions across the membrane the combination of these two factors determines the thermodynamically favourable direction for an ion's movement across a membrane
+an electrochemical gradient is analogous to the water pressure across a hydroelectric dam membrane transport proteins such as the sodium-potassium pump within the membrane are equivalent to turbines that convert the water's potential energy to other forms of physical or chemical energy and the ions that pass through the membrane are equivalent to water that ends up at the bottom of the dam also energy can be used to pump water up into the lake above the dam in similar manner chemical energy in cells can be used to create electrochemical gradients
+== chemistryedit ==
+the term is typically applied in contexts wherein a chemical reaction is to take place such as one involving the transfer of an electron at a battery electrode in a battery an electrochemical potential arising from the movement of ions balances the reaction energy of the electrodes the maximum voltage that a battery reaction can produce is sometimes called the standard electrochemical potential of that reaction (see also electrode potential and table of standard electrode potentials) in instances pertaining specifically to the movement of electrically charged solutes the potential is often expressed in units of volts see: concentration cell
+== biological contextedit ==
+in biology the term is sometimes used in the context of a chemical reaction in particular to describe the energy source for the chemical synthesis of atp in more general terms however it is used to characterize the tendency of solutes to simply diffuse across a membrane a process involving no chemical transformation
+== ion gradientsedit ==
+with respect to a cell organelle or other subcellular compartment the tendency of an electrically charged solute such as a potassium ion to move across the membrane is decided by the difference in its electrochemical potential on either side of the membrane which arises from three factors:
+the difference in the concentration of the solute between the two sides of the membrane
+the charge or "valence" of the solute molecule
+the difference in voltage between the two sides of the membrane (i.e the transmembrane potential)
+a solute's electrochemical potential difference is zero at its "reversal potential" the transmembrane voltage at which the solute's net flow across the membrane is also zero this potential is predicted in theory either by the nernst equation (for systems of one permeant ion species) or by the goldman-hodgkin-katz equation (for more than one permeant ion species) electrochemical potential is measured in the laboratory and field using reference electrodes
+transmembrane atpases or transmembrane proteins with atpase domains are often used for making and utilizing ion gradients the enzyme na+/k+ atpase uses atp to make a sodium ion gradient and a potassium ion gradient the electrochemical potential is used as energy storage chemiosmotic coupling is one of several ways a thermodynamically unfavorable reaction can be driven by a thermodynamically favorable one cotransport of ions by symporters and antiporter carriers is commonly used to actively move ions across biological membranes
+== proton gradientsedit ==
+the proton gradient can be used as intermediate energy storage for heat production and flagellar rotation in addition it is an interconvertible form of energy in active transport electron potential generation nadph synthesis and atp synthesis/hydrolysis
+the electrochemical potential difference between the two sides of the membrane in mitochondria chloroplasts bacteria and other membranous compartments that engage in active transport involving proton pumps is at times called a chemiosmotic potential or proton motive force (see chemiosmosis) in this context protons are often considered separately using units of either concentration or ph
+=== proton motive forceedit ===
+two protons are expelled at each coupling site generating the proton motive force (pmf) atp is made indirectly using the pmf as a source of energy
+some archaea the most notable ones being halobacteria make proton gradients by pumping in protons from the environment with the help of the solar-driven enzyme bacteriorhodopsin which is used here for driving the molecular motor enzyme atp synthase to make the necessary conformational changes required to synthesize atp
+proton gradients are also made by bacteria by running atp synthase in reverse and are used to drive flagella
+the f1fo atp synthase is a reversible enzyme large enough quantities of atp cause it to create a transmembrane proton gradient this is used by fermenting bacteria - which do not have an electron transport chain and hydrolyze atp to make a proton gradient - for flagella and the transportation of nutrients into the cell
+in respiring bacteria under physiological conditions atp synthase in general runs in the opposite direction creating atp while using the proton motive force created by the electron transport chain as a source of energy the overall process of creating energy in this fashion is termed oxidative phosphorylation the same process takes place in mitochondria where atp synthase is located in the inner mitochondrial membrane so that f1 part sticks into the mitochondrial matrix where atp synthesis takes place
+== see alsoedit ==
+concentration cell
+transmembrane potential difference
+action potential
+cell potential
+electrodiffusion
+galvanic cell
+electrochemical cell
+proton exchange membrane
+== referencesedit ==
+campbell & reece (2005) biology pearson benjamin cummings isbn 0-8053-7146-x
+stephen t abedon "important words and concepts from chapter 8 campbell & reece 2002 (1/14/2005)" for biology 113 at the ohio state university

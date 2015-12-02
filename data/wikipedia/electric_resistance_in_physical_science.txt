@@ -1,0 +1,76 @@
+the reaction rate (rate of reaction) or speed of reaction for a reactant or product in a particular reaction is intuitively defined as how fast or slow a reaction takes place for example the oxidative rusting of iron under earth's atmosphere is a slow reaction that can take many years but the combustion of cellulose in a fire is a reaction that takes place in fractions of a second
+chemical kinetics is the part of physical chemistry that studies reaction rates the concepts of chemical kinetics are applied in many disciplines such as chemical engineering enzymology and environmental engineering
+== formal definition of reaction rate ==
+consider a typical chemical reaction:
+aa + bb pp + qq
+the lowercase letters (a b p and q) represent stoichiometric coefficients while the capital letters represent the reactants (a and b) and the products (p and q)
+according to iupac's gold book definition the reaction rate r for a chemical reaction occurring in a closed system under isochoric conditions without a build-up of reaction intermediates is defined as:
+where [x] denotes the concentration of the substance x (note: the rate of a reaction is always positive a negative sign is present to indicate the reactant concentration is decreasing.) the iupac recommends that the unit of time should always be the second in such a case the rate of reaction differs from the rate of increase of concentration of a product p by a constant factor (the reciprocal of its stoichiometric number) and for a reactant a by minus the reciprocal of the stoichiometric number reaction rate usually has the units of mol l1 s1 it is important to bear in mind that the previous definition is only valid for a single reaction in a closed system of constant volume this usually implicit assumption must be stated explicitly otherwise the definition is incorrect: if water is added to a pot containing salty water the concentration of salt decreases although there is no chemical reaction
+for any open system the full mass balance must be taken into account: in - out + generation - consumption = accumulation
+where is the inflow rate of a in molecules per second the outflow and is the instantaneous reaction rate of a (in number concentration rather than molar) in a given differential volume integrated over the entire system volume at a given moment when applied to the closed system at constant volume considered previously this equation reduces to:  where the concentration is related to the number of molecules by  here is the avogadro constant
+for a single reaction in a closed system of varying volume the so-called rate of conversion can be used in order to avoid handling concentrations it is defined as the derivative of the extent of reaction with respect to time
+here is the stoichiometric coefficient for substance  equal to a b p and q in the typical reaction above also is the volume of reaction and is the concentration of substance 
+when side products or reaction intermediates are formed the iupac recommends the use of the terms rate of appearance and rate of disappearance for products and reactants properly
+reaction rates may also be defined on a basis that is not the volume of the reactor when a catalyst is used the reaction rate may be stated on a catalyst weight (mol g1 s1) or surface area (mol m2 s1) basis if the basis is a specific catalyst site that may be rigorously counted by a specified method the rate is given in units of s1 and is called a turnover frequency
+== factors influencing rate of reaction ==
+the nature of the reaction: some reactions are naturally faster than others the number of reacting species their physical state (the particles that form solids move much more slowly than those of gases or those in solution) the complexity of the reaction and other factors can greatly influence the rate of a reaction
+concentration: reaction rate increases with concentration as described by the rate law and explained by collision theory as reactant concentration increases the frequency of collision increases
+pressure: the rate of gaseous reactions increases with pressure which is in fact equivalent to an increase in concentration of the gas.the reaction rate increases in the direction where there are fewer moles of gas and decreases in the reverse direction for condensed-phase reactions the pressure dependence is weak
+order: the order of the reaction controls how the reactant concentration (or pressure) affects reaction rate
+temperature: usually conducting a reaction at a higher temperature delivers more energy into the system and increases the reaction rate by causing more collisions between particles as explained by collision theory however the main reason that temperature increases the rate of reaction is that more of the colliding particles will have the necessary activation energy resulting in more successful collisions (when bonds are formed between reactants) the influence of temperature is described by the arrhenius equation as a rule of thumb reaction rates for many reactions double for every 10 degrees celsius increase in temperature though the effect of temperature may be much greater or lesser depending on the reaction
+for example coal burns in a fireplace in the presence of oxygen but it does not when it is stored at room temperature the reaction is spontaneous at low and high temperatures but at room temperature its rate is so slow that it is negligible the increase in temperature as created by a match allows the reaction to start and then it heats itself because it is exothermic that is valid for many other fuels such as methane butane and hydrogen
+reaction rates can be independent of temperature (non-arrhenius) or decrease with increasing temperature (anti-arrhenius) reactions without an activation barrier (e.g. some radical reactions) tend to have anti arrhenius temperature dependence: the rate constant decreases with increasing temperature
+solvent: many reactions take place in solution and the properties of the solvent affect the reaction rate the ionic strength also has an effect on reaction rate
+electromagnetic radiation and intensity of light: electromagnetic radiation is a form of energy as such it may speed up the rate or even make a reaction spontaneous as it provides the particles of the reactants with more energy this energy is in one way or another stored in the reacting particles (it may break bonds promote molecules to electronically or vibrationally excited states...) creating intermediate species that react easily as the intensity of light increases the particles absorb more energy and hence the rate of reaction increases
+for example when methane reacts with chlorine in the dark the reaction rate is very slow it can be sped up when the mixture is put under diffused light in bright sunlight the reaction is explosive
+a catalyst: the presence of a catalyst increases the reaction rate (in both the forward and reverse reactions) by providing an alternative pathway with a lower activation energy
+for example platinum catalyzes the combustion of hydrogen with oxygen at room temperature
+isotopes: the kinetic isotope effect consists in a different reaction rate for the same molecule if it has different isotopes usually hydrogen isotopes because of the mass difference between hydrogen and deuterium
+surface area: in reactions on surfaces which take place for example during heterogeneous catalysis the rate of reaction increases as the surface area does that is because more particles of the solid are exposed and can be hit by reactant molecules
+stirring: stirring can have a strong effect on the rate of reaction for heterogeneous reactions
+all the factors that affect a reaction rate except for concentration and reaction order are taken into account in the reaction rate coefficient (the coefficient in the rate equation of the reaction)
+== rate equation ==
+for a chemical reaction a a + b b p p + q q the rate equation or rate law is a mathematical expression used in chemical kinetics to link the rate of a reaction to the concentration of each reactant it is of the kind:
+for gas phase reaction the rate is often alternatively expressed by partial pressures
+in these equations is the reaction rate coefficient or rate constant although it is not really a constant because it includes all the parameters that affect reaction rate except for concentration which is explicitly taken into account of all the parameters influencing reaction rates temperature is normally the most important one and is accounted for by the arrhenius equation
+the exponents and are called reaction orders and depend on the reaction mechanism for elementary (single-step) reactions the order with respect to each reactant is equal to its stoichiometric coefficient for complex (multistep) reactions however this is often not true and the rate equation is determined by the detailed mechanism as illustrated below for the reaction of h2 and no
+for elementary reactions or reaction steps the order and stoichiometric coefficient are both equal to the molecularity or number of molecules participating for a unimolecular reaction or step the rate is proportional to the concentration of molecules of reactant so that the rate law is first order for a bimolecular reaction or step the number of collisions is proportional to the product of the two reactant concentrations or second order a termolecular step is predicted to be third order but also very slow as simultaneous collisions of three molecules are rare
+by using the mass balance for the system in which the reaction occurs an expression for the rate of change in concentration can be derived for a closed system with constant volume such an expression can look like
+=== example of a complex reaction: reaction of hydrogen and nitric oxide ===
+for the reaction
+the observed rate equation (or rate expression) is:
+as for many reactions the rate equation does not simply reflect the stoichiometric coefficients in the overall reaction: it is third order overall: first order in h2 and second order in no although the stoichiometric coefficients of both reactants are equal to 2
+in chemical kinetics the overall reaction rate is often explained using a mechanism consisting of a number of elementary steps not all of these steps affect the rate of reaction; normally the slowest elementary step controls the reaction rate for this example a possible mechanism is:
+(fast equilibrium)
+(slow)
+(fast)
+reactions 1 and 3 are very rapid compared to the second so the slow reaction 2 is the rate determining step this is a bimolecular elementary reaction whose rate is given by the second order equation : where k2 is the rate constant for the second step
+however n2o2 is an unstable intermediate whose concentration is determined by the fact that the first step is in equilibrium so that : where k1 is the equilibrium constant of the first step substitution of this equation in the previous equation leads to a rate equation expressed in terms of the original reactants
+this agrees with the form of the observed rate equation if it is assumed that  in practice the rate equation is used to suggest possible mechanisms which predict a rate equation in agreement with experiment
+the second molecule of h2 does not appear in the rate equation because it reacts in the third step which is a rapid step after the rate-determining step so that it does not affect the overall reaction rate
+== temperature dependence ==
+each reaction rate coefficient k has a temperature dependency which is usually given by the arrhenius equation:
+ea is the activation energy and r is the gas constant since at temperature t the molecules have energies given by a boltzmann distribution one can expect the number of collisions with energy greater than ea to be proportional to  a is the pre-exponential factor or frequency factor
+the values for a and ea are dependent on the reaction there are also more complex equations possible which describe temperature dependence of other rate constants that do not follow this pattern
+a chemical reaction takes place only when the reacting particles collide however not all collisions are effective in causing the reaction products are formed only when the colliding particles possess a certain minimum energy called threshold energy basically the number of activated particles nearly doubles for a temperature t+10 kelvin for a given reaction the ratio of its rate constant at a higher temperature to its rate constant at a lower temperature is known as its temperature coefficient (q) q10 is commonly used as the ratio of rate constants that are 10 c apart see q10 (temperature coefficient)
+== pressure dependence ==
+the pressure dependence of the rate constant for condensed-phase reactions (i.e. when reactants and products are solids or liquid) is usually sufficiently weak in the range of pressures normally encountered in industry that it is neglected in practice
+the pressure dependence of the rate constant is associated with the activation volume for the reaction proceeding through an activation-state complex:
+the activation volume  is:
+where denote the partial molar volumes of the reactants and products and indicates the activation-state complex
+for the above reaction one can expect the change of the reaction rate constant (based either on mole-fraction or on molar-concentration) with pressure at constant temperature to be:
+in practice the matter can be complicated because the partial molar volumes and the activation volume can themselves be a function of pressure
+reactions can increase or decrease their rates with pressure depending on the value of  as an example of the possible magnitude of the pressure effect some organic reactions were shown to double the reaction rate when the pressure was increased from atmospheric (0.1 mpa) to 50 mpa (which gives =-0.025 l/mol)
+== see also ==
+rate of solution
+dilution (equation)
+diffusion-controlled reaction
+steady state approximation
+collision theory and transition state are chemical theories that attempt to predict and explain reaction rates
+isothermal microcalorimetry
+== notes ==
+== external links ==
+chemical kinetics reaction rate and order (needs flash player)
+reaction kinetics examples of important rate laws (lecture with audio)
+rates of reaction
+overview of bimolecular reactions (reactions involving two reactants)

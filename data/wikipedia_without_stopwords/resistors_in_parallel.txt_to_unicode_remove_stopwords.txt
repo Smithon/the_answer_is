@@ -1,0 +1,163 @@
+resistor passive twoterminal electrical component implements electrical resistance circuit element resistors act reduce current flow time act lower voltage levels within circuits electronic circuits resistors used limit current flow adjust signal levels bias active elements terminate transmission lines among uses highpower resistors dissipate many watts electrical power heat may used part motor controls power distribution systems test loads generators fixed resistors resistances change slightly temperature time operating voltage variable resistors used adjust circuit elements volume control lamp dimmer sensing devices heat light humidity force chemical activity
+resistors common elements electrical networks electronic circuits ubiquitous electronic equipment practical resistors discrete components composed various compounds forms resistors also implemented within integrated circuits
+electrical function resistor specified resistance common commercial resistors manufactured range nine orders magnitude nominal value resistance fall within manufacturing tolerance
+electronic symbols notationedit
+two typical schematic diagram symbols follows
+notation state resistors value circuit diagram varies european notation bs avoids using decimal separator replaces decimal separator si prefix symbol particular value example k circuit diagram indicates resistor value k additional zeros imply tighter tolerance example m value expressed without need si prefix r used instead decimal separator example r indicates r indicates use si prefix symbol letter r circumvents problem decimal separators tend disappear photocopying printed circuit diagram
+theory operationedit
+ohms lawedit
+behavior ideal resistor dictated relationship specified ohms law
+ohms law states voltage v across resistor proportional current constant proportionality resistance r example ohm resistor attached across terminals volt battery current amperes flows resistor
+practical resistors also inductance capacitance also affect relation voltage current alternating current circuits
+ohm symbol si unit electrical resistance named georg simon ohm ohm equivalent volt per ampere since resistors specified manufactured large range values derived units milliohm m kilohm k megohm m also common usage
+series parallel resistorsedit
+total resistance resistors connected series sum individual resistance values
+total resistance resistors connected parallel reciprocal sum reciprocals individual resistors
+example ohm resistor connected parallel ohm resistor ohm resistor produce inverse ohms resistance ohms
+resistor network combination parallel series connections broken smaller parts either one complex networks resistors cannot resolved manner requiring sophisticated circuit analysis generally y transform matrix methods used solve problems
+power dissipationedit
+instant power p watts consumed resistor resistance r ohms calculated v volts voltage across resistor amps current flowing using ohms law two forms derived power converted heat must dissipated resistors package temperature rises excessively
+resistors rated according maximum power dissipation discrete resistors solidstate electronic systems typically rated watt usually absorb much less watt electrical power require little attention power rating
+resistors required dissipate substantial amounts power particularly used power supplies power conversion circuits power amplifiers generally referred power resistors designation loosely applied resistors power ratings watt greater power resistors physically larger may use preferred values color codes external packages described
+average power dissipated resistor power rating damage resistor may occur permanently altering resistance distinct reversible change resistance due temperature coefficient warms excessive power dissipation may raise temperature resistor point burn circuit board adjacent components even cause fire flameproof resistors fail open circuit overheat dangerously
+since poor air circulation high altitude high operating temperatures may occur resistors may specified higher rated dissipation experienced service
+resistors maximum voltage rating may limit power dissipation higher resistance values
+nonideal propertiesedit
+practical resistors series inductance small parallel capacitance specifications important highfrequency applications lownoise amplifier preamp noise characteristics resistor may issue
+temperature coefficient resistance may also concern precision applications
+unwanted inductance excess noise temperature coefficient mainly dependent technology used manufacturing resistor normally specified individually particular family resistors manufactured using particular technology family discrete resistors also characterized according form factor size device position leads terminals relevant practical manufacturing circuits using
+practical resistors also specified maximum power rating must exceed anticipated power dissipation resistor particular circuit mainly concern power electronics applications resistors higher power ratings physically larger may require heat sinks highvoltage circuit attention must sometimes paid rated maximum working voltage resistor minimum working voltage given resistor failure account resistors maximum rating may cause resistor incinerate current run
+fixed resistoredit
+lead arrangementsedit
+throughhole components typically leads pronounced ldz leaving body axially line parallel parts longest axis others leads coming body radially instead components may smt surface mount technology high power resistors may one leads designed heat sink
+carbon compositionedit
+carbon composition resistors consist solid cylindrical resistive element embedded wire leads metal end caps lead wires attached body resistor protected paint plastic early thcentury carbon composition resistors uninsulated bodies lead wires wrapped around ends resistance element rod soldered completed resistor painted colorcoding value
+resistive element made mixture finely ground powdered carbon insulating material usually ceramic resin holds mixture together resistance determined ratio fill material powdered ceramic carbon higher concentrations carbon good conductor result lower resistance carbon composition resistors commonly used earlier popular general use types better specifications tolerance voltage dependence stress carbon composition resistors change value stressed overvoltages moreover internal moisture content exposure length time humid environment significant soldering heat create nonreversible change resistance value carbon composition resistors poor stability time consequently factory sorted best tolerance resistors however never subjected overvoltage overheating remarkably reliable considering components size
+carbon composition resistors still available comparatively quite costly values ranged fractions ohm megohms due high price resistors longer used applications however used power supplies welding controls
+carbon pileedit
+carbon pile resistor made stack carbon disks compressed two metal contact plates adjusting clamping pressure changes resistance plates resistors used adjustable load required example testing automotive batteries radio transmitters carbon pile resistor also used speed control small motors household appliances sewing machines handheld mixers ratings hundred watts carbon pile resistor incorporated automatic voltage regulators generators carbon pile controls field current maintain relatively constant voltage principle also applied carbon microphone
+carbon filmedit
+carbon film deposited insulating substrate helix cut create long narrow resistive path varying shapes coupled resistivity amorphous carbon ranging m provide wide range resistance values compared carbon composition feature low noise precise distribution pure graphite without binding carbon film resistors feature power rating range w w c resistances available range ohm megohm carbon film resistor operating temperature range c c volts maximum working voltage range special carbon film resistors used applications requiring high pulse stability
+printed carbon resistoredit
+carbon composition resistors printed directly onto printed circuit board pcb substrates part pcb manufacturing process although technique common hybrid pcb modules also used standard fibreglass pcbs tolerances typically quite large order typical application would noncritical pullup resistors
+thick thin filmedit
+thick film resistors became popular smd surface mount device resistors today type resistive element thick films times thicker thin films principal difference film applied cylinder axial resistors surface smd resistors
+thin film resistors made sputtering method vacuum deposition resistive material onto insulating substrate film etched similar manner old subtractive process making printed circuit boards surface coated photosensitive material covered pattern film irradiated ultraviolet light exposed photosensitive coating developed underlying thin film etched away
+thick film resistors manufactured using screen stencil printing processes
+time sputtering performed controlled thickness thin film accurately controlled type material also usually different consisting one ceramic cermet conductors tantalum nitride tan ruthenium oxide ruo
+lead oxide pbo bismuth ruthenate bi
+ru
+o
+nickel chromium nicr bismuth iridate bi
+ir
+o
+resistance thin thick film resistors manufacture highly accurate usually trimmed accurate value abrasive laser trimming thin film resistors usually specified tolerances temperature coefficients ppmk also much lower noise levels level times less thick film resistors
+thick film resistors may use conductive ceramics mixed sintered powdered glass carrier liquid composite screenprinted composite glass conductive ceramic cermet material fused baked oven c
+thick film resistors first manufactured tolerances standard tolerances improved last decades temperature coefficients thick film resistors high typically ppmk kelvin f temperature change change resistance
+thin film resistors usually far expensive thick film resistors example smd thin film resistors tolerances ppmk temperature coefficients bought full size reel quantities twice cost ppmk thick film resistors
+metal filmedit
+common type axialleaded resistor today metalfilm resistor metal electrode leadless face melf resistors often use technology also cylindrically shaped designed surface mounting note types resistors eg carbon composition also available melf packages
+metal film resistors usually coated nickel chromium nicr might coated cermet materials listed thin film resistors unlike thin film resistors material may applied using different techniques sputtering though one techniques also unlike thinfilm resistors resistance value determined cutting helix coating rather etching similar way carbon resistors made result reasonable tolerance temperature coefficient generally ppmk metal film resistors possess good noise characteristics low nonlinearity due low voltage coefficient also beneficial tight tolerance low temperature coefficient longterm stability
+metal oxide filmedit
+metaloxide film resistors made metal oxides results higher operating temperature greater stabilityreliability metal film used applications high endurance demands
+wire woundedit
+wirewound resistors commonly made winding metal wire usually nichrome around ceramic plastic fiberglass core ends wire soldered welded two caps rings attached ends core assembly protected layer paint molded plastic enamel coating baked high temperature resistors designed withstand unusually high temperatures c wire leads low power wirewound resistors usually mm diameter tinned ease soldering higher power wirewound resistors either ceramic outer case aluminum outer case top insulating layer used outer case ceramic resistors sometimes described cement resistors though actually contain traditional cement aluminumcased types designed attached heat sink dissipate heat rated power dependent used suitable heat sink eg w power rated resistor overheat fraction power dissipation used heat sink large wirewound resistors may rated watts
+wirewound resistors coils undesirable inductance types resistor although winding wire sections alternately reversed direction minimize inductance techniques employ bifilar winding flat thin former reduce crosssection area coil demanding circuits resistors ayrtonperry winding used
+applications wirewound resistors similar composition resistors exception high frequency high frequency response wirewound resistors substantially worse composition resistor
+foil resistoredit
+primary resistance element foil resistor special alloy foil several micrometers thick since introduction foil resistors best precision stability resistor available one important parameters influencing stability temperature coefficient resistance tcr tcr foil resistors extremely low improved years one range ultraprecision foil resistors offers tcr ppmc tolerance longterm stability year ppm years ppm improved fold hermetic sealing stability load hours thermal emf vc noise db voltage coefficient ppmv inductance h capacitance pf
+ammeter shuntsedit
+ammeter shunt special type currentsensing resistor four terminals value milliohms even microohms currentmeasuring instruments usually accept limited currents measure high currents current passes shunt across voltage drop measured interpreted current typical shunt consists two solid metal blocks sometimes brass mounted insulating base blocks soldered brazed one strips low temperature coefficient resistance tcr manganin alloy large bolts threaded blocks make current connections much smaller screws provide volt meter connections shunts rated fullscale current often voltage drop mv rated current meters adapted shunt full current rating using appropriately marked dial face change need made parts meter
+grid resistoredit
+heavyduty industrial highcurrent applications grid resistor large convectioncooled lattice stamped metal alloy strips connected rows two electrodes industrial grade resistors large refrigerator designs handle amperes current range resistances extending lower ohms used applications dynamic braking load banking locomotives trams neutral grounding industrial ac distribution control loads cranes heavy equipment load testing generators harmonic filtering electric substations
+term grid resistor sometimes used describe resistor type connected control grid vacuum tube resistor technology electronic circuit topology
+special varietiesedit
+cermet
+phenolic
+tantalum
+water resistor
+variable resistorsedit
+adjustable resistorsedit
+resistor may one fixed tapping points resistance changed moving connecting wires different terminals wirewound power resistors tapping point slide along resistance element allowing larger smaller part resistance used
+continuous adjustment resistance value operation equipment required sliding resistance tap connected knob accessible operator device called rheostat two terminals
+potentiometersedit
+potentiometer pot threeterminal resistor continuously adjustable tapping point controlled rotation shaft knob linear slider called potentiometer connected adjustable voltage divider provide variable potential terminal connected tapping point volume control audio device common use potentiometer typical low power potentiometer constructed flat resistance element carbon composition metal film conductive plastic springy phosphor bronze wiper contact moves along surface alternate construction resistance wire wound form wiper sliding axially along coil lower resolution since wiper moves resistance changes steps equal resistance single turn
+highresolution multiturn potentiometers used precision applications wirewound resistance elements typically wound helical mandrel wiper moving helical track control turned making continuous contact wire include conductiveplastic resistance coating wire improve resolution typically offer ten turns shafts cover full range usually set dials include simple turns counter graduated dial typically achieve three digit resolution electronic analog computers used quantity setting coefficients delayedsweep oscilloscopes recent decades included one panels
+resistance decade boxesedit
+resistance decade box resistor substitution box unit containing resistors many values one mechanical switches allow one various discrete resistances offered box dialed usually resistance accurate high precision ranging laboratorycalibration grade accuracy parts per million field grade inexpensive boxes lesser accuracy also available types offer convenient way selecting quickly changing resistance laboratory experimental development work without needing attach resistors one one even stock value range resistance provided maximum resolution accuracy characterize box example one box offers resistances megohms maximum resolution ohm accuracy
+special devicesedit
+various devices whose resistance changes various quantities resistance ntc thermistors exhibit strong negative temperature coefficient making useful measuring temperatures since resistance large allowed heat due passage current also commonly used prevent excessive current surges equipment powered similarly resistance humistor varies humidity one sort photodetector photoresistor resistance varies illumination
+strain gauge invented edward e simmons arthur c ruge type resistor changes value applied strain single resistor may used pair half bridge four resistors connected wheatstone bridge configuration strain resistor bonded adhesive object subjected mechanical strain strain gauge filter amplifier analogdigital converter strain object measured
+related recent invention uses quantum tunnelling composite sense mechanical stress passes current whose magnitude vary factor response changes applied pressure
+measurementedit
+value resistor measured ohmmeter may one function multimeter usually probes ends test leads connect resistor simple ohmmeter may apply voltage battery across unknown resistor internal resistor known value series producing current drives meter movement current accordance ohms law inversely proportional sum internal resistance resistor tested resulting analog meter scale nonlinear calibrated infinity ohms digital multimeter using active electronics may instead pass specified current test resistance voltage generated across test resistance case linearly proportional resistance measured displayed either case lowresistance ranges meter pass much current test leads highresistance ranges order voltages present reasonable levels generally volts still measurable
+measuring lowvalue resistors fractionalohm resistors acceptable accuracy requires fourterminal connections one pair terminals applies known calibrated current resistor pair senses voltage drop across resistor laboratory quality ohmmeters especially milliohmmeters even better digital multimeters sense using four input terminals purpose may used special test leads two socalled kelvin clips pair jaws insulated one side clip applies measuring current connections sense voltage drop resistance calculated using ohms law measured voltage divided applied current
+standardsedit
+production resistorsedit
+resistor characteristics quantified reported using various national standards us milstd contains relevant test methods standards refer
+various standards specifying properties resistors use equipment
+bs
+eiars
+milprf
+milprf fixed power established reliability
+milprf surfacemount thick thin film
+milprf
+milr standard canceled
+milr fixed general purpose established reliability
+milprf zero ohm jumpers
+ul fusing temperature limited resistors
+united states military procurement milr standards
+resistance standardsedit
+primary standard resistance mercury ohm initially defined column mercury cm long square millimeter crosssection degrees celsius difficulties precisely measuring physical constants replicate standard result variations much ppm mercury ohm replaced precision machined plate manganin since international resistance standard based quantized hall effect discovered klaus von klitzing won nobel prize physics
+resistors extremely high precision manufactured calibration laboratory use may four terminals using one pair carry operating current pair measure voltage drop eliminates errors caused voltage drops across lead resistances charge flows voltage sensing leads important small value resistors ohm lead resistance significant even comparable respect resistance standard value
+resistor markingedit
+axial resistors use pattern colored stripes indicate resistance also indicate tolerance may also extended show temperature coefficient reliability class cases usually tan brown blue green though colors occasionally found dark red dark gray power rating usually marked deduced size
+color bands carbon resistors three four five six bands first two bands represent first two digits measure value ohms third band three fourbanded resistor represents multiplier fourth band denotes tolerance absent denotes five six colorbanded resistors third band third digit fourth band multiplier fifth tolerance sixth band represents temperature coefficient sixbanded resistor
+surfacemount resistors marked numerically big enough permit marking morerecent small sizes impractical mark
+early th century resistors essentially uninsulated dipped paint cover entire body colorcoding second color paint applied one end element color dot band middle provided third digit rule body tip dot providing two significant digits value decimal multiplier sequence default tolerance closertolerance resistors silver goldcolored paint end
+preferred valuesedit
+early resistors made less arbitrary round numbers series might etc resistors manufactured subject certain percentage tolerance makes sense manufacture values correlate tolerance actual value resistor overlaps slightly neighbors wider spacing leaves gaps narrower spacing increases manufacturing inventory costs provide resistors less interchangeable
+logical scheme produce resistors range values increase geometric progression value greater predecessor fixed multiplier percentage chosen match tolerance range example tolerance makes sense resistor times predecessor covering decade values practice factor used giving values decade decade range increasing factor examples rounded practice followed preceded scheme adopted e series iec preferred number values also e e e e e series components progressively finer resolution different values within decade actual values used iec lists preferred numbers
+resistor ohms would expected value ohms e neighbors ohms sensible spacing e used components e e e e e better resistors manufactured values milliohms gigaohm iec ranges appropriate tolerance manufacturers may sort resistors toleranceclasses based measurement accordingly selection ohms resistors tolerance might lie around ohm one would expect bellcurve rather two groups either high low closer ohm resistors factory measured less would marked sold resistors tolerance better designing circuit may become consideration
+earlier power wirewound resistors brown vitreousenameled types however made different system preferred values mentioned first sentence section
+smt resistorsedit
+surface mounted resistors larger sizes metric printed numerical values code related used axial resistors standardtolerance surfacemount technology smt resistors marked threedigit code first two digits first two significant digits value third digit power ten number zeroes example
+resistances less ohms written final zero represents ten power zero example
+sometimes values marked prevent mistake
+resistances less ohms r indicate position decimal point radix point example
+precision resistors marked fourdigit code first three digits significant figures fourth power ten example
+sometimes appear values surfacemount zeroohm links since approximately zero resistance
+recent surfacemount resistors small physically permit practical markings applied
+industrial type designationedit
+format two lettersspaceresistance value three digitnospacetolerance codenumerical one digit
+electrical thermal noiseedit
+amplifying faint signals often necessary minimize electronic noise particularly first stage amplification dissipative element even ideal resistor naturally produce randomly fluctuating voltage noise across terminals johnsonnyquist noise fundamental noise source depends upon temperature resistance resistor predicted fluctuationdissipation theorem using larger value resistance produces larger voltage noise whereas smaller value resistance current noise given temperature
+thermal noise practical resistor may also larger theoretical prediction increase typically frequencydependent excess noise practical resistor observed current flows specified unit vvdecade v noise per volt applied across resistor per decade frequency vvdecade value frequently given db resistor noise index db exhibit v rms excess noise volt across resistor frequency decade excess noise thus example f noise thickfilm carbon composition resistors generate excess noise types low frequencies wirewound thinfilm resistors often used better noise characteristics carbon composition resistors exhibit noise index db bulk metal foil resistors may noise index db usually making excess noise metal foil resistors insignificant thin film surface mount resistors typically lower noise better thermal stability thick film surface mount resistors excess noise also sizedependent general excess noise reduced physical size resistor increased multiple resistors used parallel independently fluctuating resistances smaller components tend average
+example noise per se resistor may act thermocouple producing small dc voltage differential across due thermoelectric effect ends different temperatures induced dc voltage degrade precision instrumentation amplifiers particular voltages appear junctions resistor leads circuit board resistor body common metal film resistors show effect magnitude vc carbon composition resistors exhibit thermoelectric offsets high vc whereas specially constructed resistors reduce number vc applications thermoelectric effect may become important care taken mount resistors horizontally avoid temperature gradients mind air flow board
+failure modesedit
+failure rate resistors properly designed circuit low compared electronic components semiconductors electrolytic capacitors damage resistors often occurs due overheating average power delivered greatly exceeds ability dissipate heat specified resistors power rating may due fault external circuit frequently caused failure another component transistor shorts circuit connected resistor operating resistor close power rating limit resistors lifespan cause significant change resistance safe design generally uses overrated resistors power applications avoid danger
+lowpower thinfilm resistors damaged longterm highvoltage stress even maximum specified voltage maximum power rating often case startup resistors feeding smps integrated circuit
+overheated carbonfilm resistors may decrease increase resistance carbon film composition resistors fail open circuit running close maximum dissipation also possible less likely metal film wirewound resistors
+also failure resistors due mechanical stress adverse environmental factors including humidity enclosed wirewound resistors corrode
+surface mount resistors known fail due ingress sulfur internal makeup resistor sulfur chemically reacts silver layer produce nonconductive silver sulfide resistors impedance goes infinity sulfur resistant anticorrosive resistors sold automotive industrial military applications astm b industry standard tests parts susceptibility sulfur
+alternative failure mode encountered large value resistors used hundreds kilohms higher resistors specified maximum power dissipation also maximum voltage drop exceeding voltage cause resistor degrade slowly reducing resistance voltage dropped across large value resistors exceeded power dissipation reaches limiting value since maximum voltage specified commonly encountered resistors hundred volts problem applications voltages encountered
+variable resistors also degrade different manner typically involving poor contact wiper body resistance may due dirt corrosion typically perceived crackling contact resistance fluctuates especially noticed device adjusted similar crackling caused poor contact switches like switches potentiometers extent selfcleaning running wiper across resistance may improve contact potentiometers seldom adjusted especially dirty harsh environments likely develop problem selfcleaning contact insufficient improvement usually obtained use contact cleaner also known tuner cleaner spray crackling noise associated turning shaft dirty potentiometer audio circuit volume control greatly accentuated undesired dc voltage present often indicating failure dc blocking capacitor circuit
+see alsoedit
+thermistor
+piezoresistor
+circuit design
+dummy load
+electrical impedance
+ironhydrogen resistor
+shot noise
+trimmer electronics
+referencesedit
+external linksedit
+terminal resistors ultraprecise resistors work
+beginners guide potentiometers including description different tapers
+color coded resistance calculator archived wayback machine
+resistor types matter
+standard resistors capacitor values industry manufactures
+ask applications engineer difference types resistors
+resistors uses
+thick film resistors heaters

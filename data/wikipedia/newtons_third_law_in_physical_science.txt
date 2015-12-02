@@ -1,0 +1,12 @@
+the mece principle pronounced 'me see' is a grouping principle for separating a set of items into subsets that are mutually exclusive and collectively exhaustive
+the mece principle is useful in the business mapping process where the optimum arrangement of information is exhaustive and does not double count at any level of the hierarchy
+examples of mece arrangements include categorizing people by year of birth (assuming all years are known) a non-mece example would be categorization by nationality because nationalities are neither mutually exclusive (some people have dual nationality) nor collectively exhaustive (some people have none)
+== the mckinsey way ==
+the principle as interpreted by sam test cauthen is one of the foci of a series of three books about mckinsey & company: the mckinsey way the mckinsey mind and the mckinsey engagement
+== criticisms ==
+mece has been criticized for failing to satisfy itself
+also mece thinking can be too limiting as mutual exclusiveness is not necessarily desirable for instance while it may be desirable to classify the answers to a question in a mece framework so as to consider all of them exactly once forcing the answers themselves to be mece can be unnecessarily limiting
+== see also ==
+case analysis
+partition of a set for a mathematical treatment
+== references ==

@@ -1,0 +1,19 @@
+stem-loop intramolecular base pairing is a pattern that can occur in single-stranded dna or more commonly in rna the structure is also known as a hairpin or hairpin loop it occurs when two regions of the same strand usually complementary in nucleotide sequence when read in opposite directions base-pair to form a double helix that ends in an unpaired loop the resulting structure is a key building block of many rna secondary structures
+== formation and stability ==
+the formation of a stem-loop structure is dependent on the stability of the resulting helix and loop regions the first prerequisite is the presence of a sequence that can fold back on itself to form a paired double helix the stability of this helix is determined by its length the number of mismatches or bulges it contains (a small number are tolerable especially in a long helix) and the base composition of the paired region pairings between guanine and cytosine have three hydrogen bonds and are more stable compared to adenine-uracil pairings which have only two in rna adenine-uracil pairings featuring one hydrogen bonds are equal to the adenine-thymine bond of the dna base stacking interactions which align the pi orbitals of the bases' aromatic rings in a favorable orientation also promote helix formation
+the stability of the loop also influences the formation of the stem-loop structure "loops" that are less than three bases long are sterically impossible and do not form large loops with no secondary structure of their own (such as pseudoknot pairing) are also unstable optimal loop length tends to be about 4-8 bases long one common loop with the sequence uncg is known as the "tetraloop" and is particularly stable due to the base-stacking interactions of its component nucleotides
+== structural contexts ==
+stem-loops occur in pre-microrna structures and most famously in transfer rna which contain three true stem-loops and one stem that meet in a cloverleaf pattern the anticodon that recognizes a codon during the translation process is located on one of the unpaired loops in the trna two nested stem-loop structures occur in rna pseudoknots where the loop of one structure forms part of the second stem
+many ribozymes also feature stem-loop structures the self-cleaving hammerhead ribozyme contains three stem-loops that meet in a central unpaired region where the cleavage site lies the hammerhead ribozyme's basic secondary structure is required for self-cleavage activity
+hairpin loops are often elements found within the 5'utr of prokaryotes these structures are often bound by proteins or cause the attenuation of a transcript in order to regulate translation
+the mrna stem-loop structure forming at the ribosome binding site may control an initiation of translation
+stem-loop structures are also important in prokaryotic rho-independent transcription termination the hairpin loop forms in an mrna strand during transcription and causes the rna polymerase to become dissociated from the dna template strand this process is known as rho-independent or intrinsic termination and the sequences involved are called terminator sequences
+== see also ==
+dyad symmetry
+inverted repeat
+kissing stem-loop
+palindromic sequence
+repeat sequences
+5'utr
+== references ==
+watson jd baker ta bell sp gann a levine m losick r (2004) molecular biology of the gene 5th ed pearson benjamin cummings: cshl press see esp ch 6

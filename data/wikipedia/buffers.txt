@@ -1,0 +1,470 @@
+config.sys is the primary configuration file for the dos and os/2 operating systems it is a special ascii text file that contains user-accessible setup or configuration directives evaluated by the operating system during boot config.sys was introduced with dos 2.0
+== usage ==
+the directives in this file configure dos for use with devices and applications in the system the config.sys directives also set up the memory managers in the system after processing the config.sys file dos proceeds to load and execute the command shell specified in the shell line of config.sys or command.com if there is no such line the command shell in turn is responsible for processing the autoexec.bat file
+config.sys is composed mostly of name=value directives which look like variable assignments in fact these will either define some tunable parameters often resulting in reservation of memory or load files mostly device drivers and tsrs into memory
+in dos config.sys is located in the root directory of the drive from which the system was booted
+some versions of dos will probe for alternative filenames taking precedence over the default config.sys filename if they exist:
+while older versions of concurrent dos 3.2 to 4.1 did not support config.sys files at all later versions of concurrent dos 386 and concurrent dos xm as well as multiuser dos system manager and real/32 will probe for cconfig.sys (with "c" derived from "concurrent") instead of config.sys some versions of multiuser dos use a filename of cconfig.ini instead whereas real/32 is known to look for mconfig.sys these operating systems support many additional and different configuration settings not known under ms-dos/pc dos but they are stored in the binary repository named cconfig.bin rather than in cconfig.ini both files are typically modified through a configuration utility named config.exe only
+under dr-dos 3.31 palmdos 1.0 novell dos 7 opendos 7.01 and dr-dos 7.02 and higher a file named dconfig.sys (with "d" derived from "dr dos") if present will take precedence over config.sys since dr dos 6.0 this was used in conjunction with disk compression software where the original boot drive c: would become drive d: after loading the compression driver (and the "d" in the file name came in handy as well) but it is commonly used to help maintain multiple configuration files in multi-boot scenarios in addition to this opendos 7.01 and dr-opendos 7.02 will look for a file named odconfig.sys whereas some issues of dr-dos 7.02 and higher will instead also look for drconfig.sys further under dr dos 6.0 and higher the sys /dr:ext command can be used to change the default file extensions for example with sys /l /dr:703 the written volume boot record would look for a renamed and modified ibmbio.703 system file (instead of the default ibmbio.com) and the ibmbio.703 would look for ibmdos.703 and [d]config.703 (instead of ibmdos.com and [d]config.sys) so that multiple parallel sets of files can coexist in the same root directory and be selected via a boot-loader like loader supplied with multiuser dos and dr-dos 7.02/7.03 the shell directive is enhanced to provide means to specify alternative autoexec.bat files via /p[:filename.ext] and in this specific scenario command.com will accept file extensions other than ".bat" as well (both features are also supported by 4dos) under dr dos 6.0 and higher the config.sys directive chain=filespec can be used to continue processing in the named file which does not necessarily need to reside in the root directory of the boot drive dr-dos 7.02 and higher optionally support an additional parameter as in chain=filespec,label to jump to a specific :label in the given file dr-dos 7.03 and higher support a new sys /a parameter in order to copy the corresponding config.sys and autoexec.bat files alongside with the system files
+freedos implements a similar feature with its fdconfig.sys configuration file pts-dos uses config.pts
+both config.sys and autoexec.bat can be found included in the root folder of windows 95 and windows 98 boot drives as they are based on dos typically these files are left empty with no content as they are not strictly required to run windows programs from these versions
+windows me does not even parse the config.sys file during the windows boot process loading those settings from the windows registry instead:
+hklm\system\currentcontrolset\control\sessionmanager\environment
+under flexos config.sys is a binary file defining the resource managers and device drivers loaded
+== config.sys directives ==
+: (dr dos 5.0 and higher only)
+defines labels in config.sys as jump targets for chain drswitch goto gosub and switch directives
+; (dos 6.0 and dr dos 6.0 and higher)
+similar to rem but can be used also for in-line comments (following other config.sys directives) see comment (under ms-dos/pc dos the inline-comment is not ignored if put in double-quotes.)
+* (pts-dos only)
+used to lead in in-line comments in addition to the ; directive
+ (dr dos 3.41 and higher embedded dos and freedos only)
+displays a yes/no query and (since dr dos 5.0) optional message to ask the user for confirmation to execute the following config.sys directives (freedos does not support optional messages but optional conditions in conjunction with boot menus defined with menu and menudefault.) (dos 6.0 and higher supports a similar feature by adding a  after the corresponding config.sys directive f.e device or device?= instead of device this variant is also supported by dr dos.)
+ (freedos only)
+unconditionally execute the following config.sys directive
+abort (pts-dos only)
+specifies if programs can be aborted on errors
+accdate (ms-dos 7.0 and higher only ignored under dr-dos 7.02 and higher)
+configures which drives should store file access date stamps in the reserved area of directory entries in fat file systems
+at (pts-dos only)
+conditional execution on at-compatible machines only
+autocheck (pts-dos only)
+boot manager
+autofail (os/2 only)
+configures verbosity of error messages
+aux (dr-dos 7.02 and higher only)
+changes internal default serial device driver (com1: to com4:) for aux: device
+availdev (dos 2.0-2.1 and dr-dos 7.02 and higher only)
+disables the availability of character devices outside phantom \dev directory
+basedev (os/2 only)
+loads base device driver into memory
+beep (dr-dos 7.02 and higher only)
+emits a short beep even if audible notifications are disabled via switches=/q
+bootnext (drmk only)
+specifies operating system to be booted
+break (dos 2.0 and dr dos 3.31 and higher; os/2)
+sets or clears extended ctrl+c checking
+buffers (dos 2.0 and dr dos 3.31 and higher; os/2)
+specifies the number of disk buffers to allocate
+buffershigh (ms-dos 7.0 and dr-dos 7.02 and higher and freedos only)
+same as buffers but explicitly loads buffers into hma or umb (like hibuffers under dr dos 6.0 and higher)
+cachesize (embedded dos 6-xl only)
+maximum number of 512-byte cache blocks dynamically allocated from system pool
+cachettl (embedded dos 6-xl only)
+maximum time in ms before unused cache blocks are returned to system pool
+cacheflush (embedded dos 6-xl only)
+maximum time in ms before a dirty cache block gets flushed to disk
+call (os/2 4.0 and higher only)
+similar to install under dos loads programs in config.sys similar to run under os/2 but runs in foreground and halts config.sys processing until return
+capslock (dr-dos 7.02 and higher only)
+specifies whether the keyboard caps lock status is turned on or off
+cddname (pts-dos only)
+specifies the name of the cd-rom hardware driver
+cddbuffers (pts-dos only)
+specifies the number of buffers for cd-rom access
+chain (dr dos 5.0 and higher and embedded dos only)
+continues config.sys processing in new file and (since dr-dos 7.02) at optional label
+clock (pts-dos only)
+specifies the type of clock used by the system
+cls (dr dos 6.0 and higher only)
+clears screen
+codepage (os/2 only)
+specifies the oem codepage(s)
+cmosaddr (pts-dos only)
+specifies the address of the cmos ram
+color (pts-dos only)
+specifies colors for boot menus
+com1 (dr-dos 7.02 and higher only)
+defines count and logical order and configures i/o address and timeout for com1: device
+com2 (dr-dos 7.02 and higher only)
+defines count and logical order and configures i/o address and timeout for com2: device
+com3 (dr-dos 7.02 and higher only)
+defines count and logical order and configures i/o address and timeout for com3: device
+com4 (dr-dos 7.02 and higher only)
+defines count and logical order and configures i/o address and timeout for com4: device
+comarea (pts-dos only)
+specifies buffer for dma
+comment (dos 4.0 and higher and rxdos ignored under dr-dos 7.02 and higher under embedded dos and under pts-dos)
+redefines the lead-in character(s) for config.sys inline-comments or causes the following line to be ignored
+country (dos 3.0 and dos plus 2.1 with fiddload and dr dos 3.31 and higher; os/2)
+enables and configures international support
+cpos (dr dos 6.0 and higher only)
+sets display cursor to specified position for configuration menus
+cpsw (ms-dos 4.00-4.01 only ignored under dr-dos 7.02 and higher)
+for codepage switching support
+cpu (pts-dos only)
+specifies ram refresh speed
+cpu88 (pts-dos only)
+conditional execution on 8088 cpus only
+cpu88+ (pts-dos only)
+conditional execution on 8088 and higher cpus only
+cpu86 (pts-dos only)
+conditional execution on 8086 cpus only
+cpu86+ (pts-dos only)
+conditional execution on 8086/8088 and higher cpus only
+cpu286 (pts-dos only)
+conditional execution on 286 cpus only
+cpu286+ (pts-dos only)
+conditional execution on 286 and higher cpus only
+cpu386 (dr-dos 7.02 and higher and pts-dos only)
+conditional execution on 386 and higher cpus only f.e cpu386 device=c:\dos\emm386.exe or cpu386 goto label386
+cpu386+ (pts-dos only)
+conditional execution on 386 and higher cpus only
+cpu486 (pts-dos only)
+conditional execution on 486 cpus only
+cpu486+ (pts-dos only)
+conditional execution on 486 and higher cpus only
+ddscs (edr-dos 7.01.07 only)
+configures the relocation of the drive descriptor tables
+deblock (dr dos 6.0 (1993 update) and higher only)
+specifies the memory segment address up to which multi-sector disk data deblocking is allowed
+debug (dr dos 3.31 - 6.0 and 7.02 and higher only)
+enables internal debugger support
+default (pts-dos only)
+boot manager
+device (dos 2.0 and dos plus 2.1 with fiddload and dr dos 3.31 and higher; os/2)
+loads a device driver into memory
+devicehigh (dos 5.0 and dr dos 6.0 and higher; os/2)
+loads a device driver into upper memory (same as hidevice in dr dos 5.0.)
+devinfo (os/2 only)
+configures country and codepage information for kbd scr lpt1 lpt2 lpt3 devices
+diskcache (os/2 only ignored under dr-dos 7.02 and higher)
+configures cache memory sizes
+diskette (pts-dos only)
+specifies floppy disk compatibility mode
+display (pts-dos only)
+specifies display font
+dos (dos 5.0 and dr dos 6.0 and higher; os/2)
+specifies whether to load dos into the high memory area and/or use upper memory (similar to hidos=on under dr dos 5.0.)
+dosdata (pc dos 7.0 and higher freedos edr-dos 7.01.07 and drmk only)
+specifies whether to load dos tables (buffers fcbs files lastdrive stacks) into upper memory
+dosdir (pts-dos only)
+specifies alternative path to search for dos files
+dpbs (drmk only)
+dpath (os/2 3.0 and higher only)
+specifies the search path for data files
+drivattr (pts-dos only)
+specifies physical parameters of disk drives
+drivparm (dos 3.2 and higher)
+define parameters for unrecognized drives
+drswitch (dr dos 7.02 and higher only)
+see switch
+dumpprocess (os/2 3.0 and higher only)
+enables and specifies drive for pdump.nnn error logs
+echo (dr dos 5.0 and higher and pts-dos and freedos only)
+displays a message on screen
+eecho (freedos only)
+displays a message including ansi escape sequences
+errexe (pts-dos only)
+specifies if additional checks should be carried out when starting programs
+error (dr dos 6.0 and higher only)
+specifies an error / return code to be assumed in the following
+execa20off (pts-dos only)
+specifies the state of the a20 gate when starting a program
+exit (dr dos 6.0 and higher only)
+finishes config.sys processing before the end of the file has been reached (except for switches and shell directive processing under some conditions)
+fastopen (dr dos 3.31 and higher and pts-dos only)
+specified the size of the hash table for fast file open operations works considerably differently from the external ms-dos/pc dos fastopen driver
+fcbs (dos 3.0 and dr dos 3.31 and higher; os/2)
+specifies the number of cached fcbs that can be opened at once (under dr-dos fcbs and files dynamically share the same internal buffer.)
+fcbshigh (ms-dos 7.0 and dr-dos 7.02 and higher only)
+same as fcbs but explicitly loads fcbs into upper memory
+filename (pts-dos only)
+boot manager
+files (dos 2.0 and dr dos 3.31 and higher; os/2)
+specifies the number of files that can be opened at once
+fileshigh (ms-dos 7.0 and dr-dos 7.02 and higher and freedos only)
+same as files but explicitly loads file handles into upper memory
+force (pts-dos only)
+include execution of specified config.sys subsections see ignore
+getkey (dr dos 6.0 and higher only)
+waits for key (or timeout) and sets error level to its ascii code (or 1024 on timeout)
+goto (dr dos 5.0 and higher only)
+continues config.sys processing at specified label
+gosub (dr dos 6.0 and higher only)
+continues nested config.sys processing at specified label with return returning to old location
+hibuffers (dr dos 6.0 and higher only)
+see buffershigh or dos=high,umb or dosdata
+hidevice (dr dos 5.0 and higher only)
+see devicehigh
+hidos (dr dos 5.0 and higher only)
+see dos=high,umb
+hifcbs (dr dos 7.02 and higher,) edr-dos 7.01.07 and drmk only)
+see fcbshigh or dosdata
+hifiles (dr dos 7.02 and higher,) edr-dos 7.01.07 and drmk only)
+see fileshigh or dosdata
+hiinstall (dr dos 5.0 and higher only)
+see installhigh
+hiinstalllast (edr-dos 7.01.07 and drmk only)
+installs a tsr program into memory like hiinstall but installs after the dos data segment relocation
+hilastdrive (dr-dos 7.02 and higher edr-dos 7.01.07 and drmk only)
+see lastdrivehigh or dos=umb or dosdata
+hishell (dr-dos 7.02 and higher only)
+see shellhigh
+histacks (dr-dos 7.02 and higher edr-dos 7.01.07 and drmk only)
+see stackshigh or dosdata
+history (dr dos 3.41 and higher only)
+enables and configures console and command line history buffer and extended pattern search functionality
+hmarea (pts-dos only)
+specifies the address of the hma segment
+idlehalt (freedos only)
+configures hlt energy saving
+idtchk (pts-dos only)
+specifies if the system should check for boot sector viruses
+ifs (ms-dos 4.00-4.01 only ignored under dr-dos 7.02 and higher; os/2)
+loads installable file systems
+ignore (pts-dos only)
+exclude execution of specified config.sys subsections see force
+iopl (os/2 only)
+specifies programs (which would normally run at the cpu's iopl ring 3) which should be allowed to run at ring 2 in order to directly access the hardware for i/o
+include (dos 6.0 and higher not dr-dos not freedos)
+include directives from another menu block (can be emulated using gosub and return under dr-dos.)
+insert (dr-dos 7.02 and higher only)
+specifies whether the keyboard insert mode status is turned on or off
+install (dos 4.0 and dr dos 3.41 and higher)
+installs a tsr program into memory
+installhigh (dos 6.0 and dr dos 6.0 and higher)
+installs a tsr program into upper memory (same as hiinstall in dr dos 5.0.)
+installlast (edr-dos 7.01.07 and drmk only)
+installs a tsr program into memory like install but installs after the dos data segment relocation
+irqpriority (embedded dos 6-xl only)
+rotates pic controller interrupt priorities so that specified number gets the highest priority
+keyboard (pts-dos only)
+specifies the keyboard layout
+keybuf (freedos only)
+specifies the address of the relocated keyboard buffer
+lastdrive (dos 3.0 and dos plus 2.1 with fiddload and dr dos 3.31 and higher; os/2)
+specifies the maximum of drives that can be accessed
+lastdrivehigh (ms-dos 7.0 and dr-dos 7.02 and higher) and freedos only)
+same as lastdrive but explicitly loads the current directory structure (cds) into upper memory
+libpath (os/2 only)
+specifies a list of search paths for dlls
+loadfix (pts-dos only)
+specifies how old programs should be handled
+locks (pts-dos only)
+specifies number of file locks
+logo (ms-dos 7.0 and higher and pts-dos only ignored under dr-dos 7.02 and higher)
+configures boot logo support under ms-dos allows to display startup message in conjunction with pts-dos boot manager
+lpt1 (dr-dos 7.02 and higher only)
+defines count and logical order and configures i/o address and timeout for lpt1: device
+lpt2 (dr-dos 7.02 and higher only)
+defines count and logical order and configures i/o address and timeout for lpt2: device
+lpt3 (dr-dos 7.02 and higher only)
+defines count and logical order and configures i/o address and timeout for lpt3: device
+lpt4 (some versions of dr-dos 7.02 and higher only))
+enables defines count and logical order and configures i/o address and timeout for lpt4: device
+maxwait (os/2 only)
+specifies time before a waiting process gets a higher priority
+memman (os/2 only)
+configures memory allocation strategy
+memory (pts-dos only)
+specifies the default dos memory allocation strategy
+menu (freedos only)
+defines menu options
+menucolor (dos 6.0 and higher not dr dos not freedos)
+specifies menu colors (can be emulated using echo under dr-dos.)
+menudefault (dos 6.0 and higher and freedos not dr dos)
+specifies the default menu block (can be emulated using timeout and switch under dr-dos.)
+menuitem (dos 6.0 and higher not dr dos not freedos)
+specifies a menu block (can be emulated using echo and switch under dr-dos.)
+multitrack (dos 4.0 and dr-dos 7.02 and higher;) ignored under pts-dos)
+specifies whether multitrack disk operations are used or not
+nochar (dr-dos 7.02 and higher only)
+specifies the default no (n) character in yes/no/resume questions.)
+numlock (dos 6.0 and novell dos 7 and higher)
+specifies whether the keyboard num lock status is turned on or off
+onerror (dr dos 6.0 and higher only)
+conditional execution depending on last return code/error status only f.e onerror > 0 goto failload or onerror > 10 onerror <> 17 onerror <= 30 echo error 11-16 or 18-30 occurred
+pause (pts-dos only)
+similar to echo and getkey under dr-dos displays a text and waits for a key press
+pauseonerror (os/2 only)
+specifies if user must acknowledge errors in config.sys
+printmonbufsize (os/2 only)
+configures buffer size for lpt1 lpt2 lpt3
+pc (pts-dos only)
+conditional execution on pc-compatible machines only
+priority (os/2 only)
+configures priority scheduler
+priority_disk_io (os/2 only)
+configures priority of programs using disk i/o
+prn (dr-dos 7.02 and higher only)
+changes internal default printer device driver (lpt1 to lpt3 or even lpt4) for prn device
+protectonly (os/2 only)
+specifies if dos programs can be run or not
+protshell (os/2 only)
+loads user interface
+ps1 (pts-dos only)
+conditional execution on ps/1-compatible machines only
+ps2 (pts-dos only)
+conditional execution on ps/2-compatible machines only
+quiet (pts-dos and drmk only)
+mutes display output send to stdout
+reipl (os/2 3.0 and higher only)
+specifies if system should reboot automatically on errors
+rem (dos 4.0 and dr dos 3.31 and higher; ignored under pts-dos)
+allows comments in config.sys
+reservedriveletter (os/2 3 fixpack 24 and higher only)
+specifies a drive letter not to be used up for local block device drivers
+resumechar (dr-dos 7.02 and higher only)
+specifies the default resume (r) character in yes/no/resume queries.)
+return (dr dos 6.0 and higher only)
+returns nested config.sys processing at previous location of gosub or switch directive an optional return code can be given otherwise 0 is assumed
+rmsize (os/2 only ignored under dr-dos 7.02 and higher)
+defines the real mode memory size
+run (os/2 only)
+similar to call loads programs in config.sys similar to install under dos and call under os/2 but loads programs in background concurrenty
+savename (pts-dos only)
+specifies if the first character of deleted files should be stored in the reserved area of directory entries in the fat file system
+screen (freedos and pts-dos only)
+similar to videomode under pts-dos specifies the video mode to be used under freedos under pts-dos screen does not specify the video mode but screen access methods
+scrollock (dr-dos 7.02 and higher only)
+specifies whether the keyboard scroll lock status is turned on or off.)
+set (dos 6.0 and dr dos 6.0 and higher; os/2)
+sets environment variables
+shell (dos 2.0 and dr dos 3.31 and higher; os/2)
+loads the command interpreter shell
+shellhigh (dr-dos 7.02 and higher and pts-dos and freedos only)
+same as shell but supports an additional size parameter to define the size of the pre-allocation for command.com to relocate its resident portion into the hma (with /mh) can be useful to avoid hma fragmentation in conjunction with third-party shells which cannot load into the hma shellhigh under pts-dos tries to load the shell into umbs instead.)
+shiftstate (pts-dos only)
+specifies the state of the keyboard modifiers like shift lock num lock scroll lock or insert mode
+shutdown (pts-dos only)
+specifies if files should be closed on ctrl+alt+del
+softreboot (pts-dos only)
+specifies if post should be skipped on reboots
+stack (ignored under dr dos 3.31-5.0 and 7.02 and higher only)
+compatibility dummy - dr dos 3.31 - 6.0 were mostly reentrant and had a different stacks layout
+stacks (dos 3.2 and novell dos 7 and higher ignored under dr dos 6.0 and pts-dos)
+specifies the number of stacks for hardware interrupts
+stacksize (embedded dos 6-xl only)
+default size size allocated for new threads
+stackshigh (ms-dos 7.0 and dr-dos 7.02 and higher) and freedos only)
+same as stacks but explicitly loads buffers into upper memory
+storage (pts-dos only)
+boot manager
+string (ms-dos 3.0 only ignored under dr-dos 7.02 and higher)
+internal use
+stuba20 (pts-dos only)
+specifies how xms a20 gate control should work
+submenu (dos 6.0 and higher not dr dos not freedos)
+specifies a submenu block (can be emulated using cls echo and switch under dr-dos.)
+suppresspopups (os/2 3.0 and higher only)
+specifies a drive where to log error information instead of displaying a textmode popup screen
+swappath (os/2 only)
+specifies swap file path
+switch (dr dos 6.0 and higher only)
+conditionally continues nested config.sys processing at one of the specified labels depending on keys pressed with return returning to old location
+switchar (dos 2.0-2.1 dos plus 2.1 with fiddload dr-dos 7.02 and higher,) pts-dos freedos and rxdos only)
+defines the default switchar used by the system (either '/' or '-')
+switches (dos 4.0 and novell dos 7 and higher; ignored under pts-dos)
+specifies special options
+sxfakehwfpu (os/2 warp 4 fixpak 1 (and higher) only)
+specifies if a fix for a fpu rounding bug should be activated or not
+sysboot (pts-dos only)
+specifies file name of alternative dos operating systems to boot
+sysgen (pts-dos only)
+configures the location of the various dos parts in memory
+sysload (pts-dos only)
+load system from alternative disk area
+systempool (embedded dos 6-xl only)
+size of system memory pool from which the system dynamically allocates for various purposes
+systoumb (pts-dos only)
+specifies if dos data and code should be loaded into umbs
+threads (os/2 only)
+specifies number of concurrent threads
+timeout (dr dos 6.0 and higher and pts-dos only)
+specifies the timeouts in config.sys single-stepping and with switch getkey and  and the default answers for yes/no queries and switch selections pts-dos only supports the timeout value
+timeslice (os/2 only)
+configures minimum and maximum time slices for scheduler
+tmpext (pts-dos only)
+specifies the file extension for temporary files
+trace (dr-dos 7.02 and higher and pts-dos only; os/2)
+globally or locally enables or disables config.sys (and autoexec.bat) single-stepping execution the functionality under os/2 differs significantly from that under dos
+tracebuf (os/2 only)
+specifies size of trace log buffer
+trapdump (os/2 3.0 and higher only)
+logs detailed error information
+umb (embedded dos only)
+configures dos management to use a specific segment as umb memory
+umbsrv (pts-dos only)
+configures the umb server used
+useram (pts-dos only)
+specifies the address ranges used as umb ram
+verify (dr-dos 7.02 and higher and embedded dos only)
+enables or disables disk write verification
+version (freedos embedded dos and edr-dos 7.01.07 only)
+specifies the dos version (and optionally the true dos version) to be reported to programs
+vgascreen (pts-dos only)
+configures vga display status
+videomode (pts-dos only)
+similar to screen under freedos specifies current video mode
+virtdma (pts-dos only)
+specifies if virtual dma can be used
+vme (os/2 only)
+specifies if the processor's virtual mode extensions (vme) should be deactivated or not
+vxd (pts-dos only)
+configures vxd driver for windows
+windows (pts-dos only)
+configures system support for windows
+xbda (edr-dos 7.01.07 and drmk only)
+configures the relocation of the extended bios data area (xbda)
+xt (pts-dos only)
+conditional execution on xt-compatible machines only
+year2000 (dr-dos 7.02 and higher only)
+configures the built-in year 2000 support
+yeschar (palmdos 1.0 dr dos 6.0 updates and novell dos 7 and higher only)
+specifies the default yes (y) character in yes/no/resume queries
+zombiedrv (pts-dos only)
+configures deletion tracking
+== examples ==
+example config.sys for ms-dos 5 or higher:
+the first line causes dos to use the high memory area and upper memory when possible freeing up more conventional memory for applications to use
+the second line loads the himem.sys driver that enables dos to use the high memory area
+the third line loads the emm386 memory manager which emulates expanded memory the command line argument ram allows the use of the upper memory area another argument that can be given to emm386.exe is noems which allows use of the upper memory area without emulating expanded memory the noems switch also frees up more upper memory blocks
+the fourth line loads the ansi.sys device driver into the upper memory area
+the fifth line sets the maximum number of files that can be opened to 30
+the last line sets the shell to the default shell command.com and starts it with c:\dos as the working directory with an environment size of 512 bytes and the /p indicates that it is the primary process and therefore cannot be shut down by using the exit command
+as of ms-dos version 6.0 an optional dos boot menu was configurable with this the user could configure any number of boot configurations and choose one on start-up this was of great use because various dos applications preferred different settings for optimal functionality
+example config.sys with ms-dos 6.0 boot menu:
+the layout of the dos boot menu is fairly self-explanatory the [menu] section defines menu entries the option menudefault allows a default choice with a countdown timer before it starts up (10 seconds here) the [common] area holds lines that will start for every menu choice while the later [win] and [xms] areas are specific to each configuration
+the later boot file autoexec.bat would receive the chosen selection through a special %config% environment variable and thereby could branch into separately configured areas within this batch file as well
+more features of config.sys menu are described here:
+http://dos.rsvs.net/dospage/confmenu.htm
+in general sys-type files are loaded in config.sys as above and exe programs such as the version of the caching software smartdrv provided by microsoft with ms-dos 6.x or lbacache of freedos are loaded in the autoexec.bat file however there are ways to load device drivers dynamically from the command line (with devload or dynaload) as well as program files during config.sys processing (with install installhigh or hiinstall directives)
+== issues ==
+the system can still boot if these files are missing or corrupted however these two files are essential for the complete bootup process to occur with the dos operating system they contain information that is used to customize the operating system for personal use they also contain the requirements of different software application packages a dos system would require troubleshooting if either of these files became damaged or corrupted
+if config.sys does not contain a shell directive (or the file is corrupt or missing) dos typically searches for command.com in the root directory of the boot drive if this is not found versions of dos before 6.0 will not start up ms-dos 6.0/pc dos 6.1 and novell dos 7 and higher will instead display a prompt to enter the path and filename of a command processor this recovery prompt is also displayed when the primary command processor is aborted due to faults or if it is exited deliberately (in the case of command.com the internal exit command is disabled only when the shell was started with /p.) this also provides limited means to replace the shell without having to reboot the system since the ms-dos 7.0 and higher command.com executable is incompatible with dr-dos but typically resides in the root of drive c: in dual-boot scenarios with dr-dos dr-dos 7.02 and higher no longer allow to bypass shell directives in (ctrl+)f5/f7/f8 "skip"/"trace"/"step" modes (some later issues added (ctrl+)f6 to reinvoke the former f5 "skip" behaviour in order to allow recovery from problems with invalid shell arguments as well.) also if no shell directive could be found when skipping config.sys processing via (ctrl+)f5 (and also with (ctrl+)f7/f8 when the default file extension has been changed with sys /dr:ext) the user is prompted to enter a valid shell file name before trying to load command.com from the root pressing enter without specifying a file will assume the former default
+depending on the version the size of the config.sys file is limited to a few kilobytes under ms-dos/pc dos (up to 64 kb in most recent versions) whereas the file's size is unlimited under dr-dos this is because the former operating systems will compile the file into some tokenized in-memory representation before they sort and regroup the directives to be processed in a specific order (with device drivers always being loaded before tsrs) whereas dr-dos interprets the file and executes most directives line-by-line thereby giving full control over the load order of drivers and tsrs via device and install (for example to solve load order conflicts or to load a program debugger before a device driver to be debugged) and allowing to adapt the user interaction and change the flow through the file based on conditions like processor types installed any type of keys pressed load or input errors occurring or return codes given by loaded software this becomes particularly useful since install can also be used to run non-resident software under dr-dos so that temporary external programs can be integrated into the config.sys control flow
+in ms-dos/pc dos 2.0 through 4.01 the length of the shell line was limited to 31 characters whereas up to 128 characters are possible in later versions dr-dos even accepts up to 255 characters config.sys directives do not accept long filenames
+== dual booting dos and windows 9x ==
+when installing windows 95 over a preexisting dos/windows install config.sys and autoexec.bat are renamed to config.dos and autoexec.dos this is intended to ease dual booting between windows 9x and dos when booting into dos they are temporarily renamed config.sys and autoexec.bat backups of the windows 95 versions are made as config.w40 and autoexec.w40 files
+when caldera dr-dos 7.02/7.03 is installed on a system already containing windows 95 windows' config.sys and autoexec.bat retain those names dr-dos' startup files are installed as dconfig.sys (a name already used in earlier versions of dr dos) and autodos7.bat
+== os/2 / nt ==
+os/2 uses the config.sys file extensively for setting up its configuration drivers and environment before the graphical part of the system loads
+in the os/2 subsystem of windows nt what appeared as config.sys to os/2 programs was actually stored in the registry
+there are many undocumented or poorly documented config.sys directives used by os/2
+== see also ==
+autoexec.bat
+command.com
+dos
+ibmbio.com
+ibmdos.com
+io.sys
+msdos.sys
+list of dos commands
+== references ==
+^ a b c d e f g h i j k matthias paul (1997-07-30) nwdos-tips tips & tricks rund um novell dos 7 mit blick auf undokumentierte details bugs und workarounds mpdostip (e-book) (in german) (edition 3 release 157 ed.) retrieved 2012-01-11 nwdostip.txt is a comprehensive work on novell dos 7 and opendos 7.01 including the description of many undocumented features and internals it is part of the author's yet larger mpdostip.zip collection maintained up to 2001 and distributed on many sites at the time the provided link points to a html-converted older version of the nwdostip.txt file
+^ a b caldera inc (1998) dr-dos 7.02 user guide 1998 ([1])
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab paul matthias (1997-10-02) "caldera opendos 7.01/7.02 update alpha 3 ibmbio.com readme.txt" retrieved 2009-03-29
+^ a b matthias paul (2001-04-09) nwdos-tips tips & tricks rund um novell dos 7 mit blick auf undokumentierte details bugs und workarounds mpdostip (e-book) (in german) (edition 3 release 183 ed.)
+^ poarch mad (april 1993) "booting multiple operating systems with the dr multiuser dos loader utility" volume 5 number 4 novell archived from the original on 2012-03-22 retrieved 2013-06-28
+^ a b c d e f g conn rex; rawson tom; paul matthias; dye charles; georgiev luchezar (2002-02-27) 4dos 8.00 online help
+^ "understanding the settings in the windows millennium edition config.sys file"
+^ microsoft (2006-11-15) windows 95 cd-rom config.txt file article 135481 revision: 1.1 retrieved 2011-12-22: "for each hard disk specifies whether to record the date that files are last accessed last access dates are turned off for all drives when your computer is started in safe mode and are not maintained for floppy disks by default syntax: accdate=drive1+|- [drive2+|-]..."
+^ "config.sys statements used by os/2" rexx tips & tricks version 2.80 retrieved 17 january 2009
+== external links ==
+information about the autoexec.bat and the config.sys
+description of windows 98 / ms-dos 7.10 config.sys directives
+description of dr-dos 7 config.sys directives (incomplete)
+description of freedos config.sys directives
+pts-dos 2000 pro user manual including a description of pts-dos config.sys directives (incomplete)
+inoffizielle deutschsprachige pts-dos-faq (pts/faqd) inofficial german pts-dos faq as of 2004-04-25 including more config.sys directives

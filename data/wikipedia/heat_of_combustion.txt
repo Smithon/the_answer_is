@@ -1,0 +1,83 @@
+the heat of combustion is the energy released as heat when a compound undergoes complete combustion with oxygen under standard conditions the chemical reaction is typically a hydrocarbon reacting with oxygen to form carbon dioxide water and heat it may be expressed with the quantities:
+energy/mole of fuel (kj/mol)
+energy/mass of fuel
+energy/volume of the fuel
+the heat of combustion is conventionally measured with a bomb calorimeter it may also be calculated as the difference between the heat of formation of the products and reactants
+the heating value (or energy value or calorific value) of a substance usually a fuel or food (see food energy) is the amount of heat released during the combustion of a specified amount of it the energy value is a characteristic for each substance it is measured in units of energy per unit of the substance usually mass such as: kj/kg kj/mol kcal/kg btu/lb heating value is commonly determined by use of a bomb calorimeter
+heating value unit conversions:
+kcal/kg = mj/kg * 238.846
+btu/lb = kj/kg * 2.3238
+btu/lb = kcals/kg * 1.8
+the heat of combustion for fuels is expressed as the hhv lhv or ghv
+== higher heating valueedit ==
+the quantity known as higher heating value (hhv) (or gross energy or upper heating value or gross calorific value (gcv) or higher calorific value (hcv)) is determined by bringing all the products of combustion back to the original pre-combustion temperature and in particular condensing any vapor produced such measurements often use a standard temperature of 15 c (59 f) this is the same as the thermodynamic heat of combustion since the enthalpy change for the reaction assumes a common temperature of the compounds before and after combustion in which case the water produced by combustion is liquid
+the higher heating value takes into account the latent heat of vaporization of water in the combustion products and is useful in calculating heating values for fuels where condensation of the reaction products is practical (e.g. in a gas-fired boiler used for space heat) in other words hhv assumes all the water component is in liquid state at the end of combustion (in product of combustion) and that heat below 150 c (302 f) can be put to use
+== lower heating valueedit ==
+the quantity known as lower heating value (lhv) (net calorific value (ncv) or lower calorific value (lcv)) is determined by subtracting the heat of vaporization of the water vapor from the higher heating value this treats any h2o formed as a vapor the energy required to vaporize the water therefore is not released as heat
+lhv calculations assume that the water component of a combustion process is in vapor state at the end of combustion as opposed to the higher heating value (hhv) (a.k.a gross calorific value or gross cv) which assumes that all of the water in a combustion process is in a liquid state after a combustion process
+the lhv assumes that the latent heat of vaporization of water in the fuel and the reaction products is not recovered it is useful in comparing fuels where condensation of the combustion products is impractical or heat at a temperature below 150 c (302 f) cannot be put to use
+the above is but one definition of lower heating value adopted by the american petroleum institute (api) and uses a reference temperature of 60 f (15.56 c)
+another definition used by gas processors suppliers association (gpsa) and originally used by api (data collected for api research project 44) is the enthalpy of all combustion products minus the enthalpy of the fuel at the reference temperature (api research project 44 used 25 c gpsa currently uses 60 f) minus the enthalpy of the stoichiometric oxygen (o2) at the reference temperature minus the heat of vaporization of the vapor content of the combustion products
+the distinction between the two is that this second definition assumes that the combustion products are all returned to the reference temperature and the heat content from the condensing vapor is considered not to be useful this is more easily calculated from the higher heating value than when using the preceding definition and will in fact give a slightly different answer
+== gross heating valueedit ==
+gross heating value (see ar) accounts for water in the exhaust leaving as vapor and includes liquid water in the fuel prior to combustion this value is important for fuels like wood or coal which will usually contain some amount of water prior to burning
+note that gpsa 12th edition states that the gross heating value of a gas is equivalent to higher heating value this suggests that there may be different standards in play the use of the term gross normally describes a larger value than the net which usually describes a smaller value gpsa is consistent with this and equates the gross heating value to the higher heating value (for a gas - so probably with no liquid water present) and the net heating value to the lower heating value
+== measuring heating valuesedit ==
+the higher heating value is experimentally determined in a bomb calorimeter the combustion of a stoichiometric mixture of fuel and oxidizer (e.g two moles of hydrogen and one mole of oxygen) in a steel container at 25 c (77 f) is initiated by an ignition device and the reactions allowed to complete when hydrogen and oxygen react during combustion water vapor is produced the vessel and its contents are then cooled to the original 25 c and the higher heating value is determined as the heat released between identical initial and final temperatures
+when the lower heating value (lhv) is determined cooling is stopped at 150 c and the reaction heat is only partially recovered the limit of 150 c is an arbitrary choice
+note: higher heating value (hhv) is calculated with the product of water being in liquid form while lower heating value (lhv) is calculated with the product of water being in vapor form
+== relation between heating valuesedit ==
+the difference between the two heating values depends on the chemical composition of the fuel in the case of pure carbon or carbon monoxide the two heating values are almost identical the difference being the sensible heat content of carbon dioxide between 150 c and 25 c (sensible heat exchange causes a change of temperature in contrast latent heat is added or subtracted for phase transitions at constant temperature examples: heat of vaporization or heat of fusion) for hydrogen the difference is much more significant as it includes the sensible heat of water vapor between 150 c and 100 c the latent heat of condensation at 100 c and the sensible heat of the condensed water between 100 c and 25 c all in all the higher heating value of hydrogen is 18.2% above its lower heating value (142 mj/kg vs 120 mj/kg) for hydrocarbons the difference depends on the hydrogen content of the fuel for gasoline and diesel the higher heating value exceeds the lower heating value by about 10% and 7% respectively and for natural gas about 11%
+a common method of relating hhv to lhv is:
+hhv = lhv + hv x (nh2o,out/nfuel,in)
+where hv is the heat of vaporization of water nh2o,out is the moles of water vaporized and nfuel,in is the number of moles of fuel combusted
+most applications that burn fuel produce water vapor which is unused and thus wastes its heat content in such applications the lower heating value must be used to give a 'benchmark' for the process
+however for true energy calculations in some specific cases the higher heating value is correct this is particularly relevant for natural gas whose high hydrogen content produces much water when it is burned in condensing boilers and power plants with flue-gas condensation that condense the water vapor produced by combustion recovering heat which would otherwise be wasted
+== usage of termsedit ==
+many engine manufacturers rate their engine fuel consumption by the lower heating values american consumers should be aware that the corresponding fuel-consumption figure based on the higher heating value will be somewhat higher
+the difference between hhv and lhv definitions causes endless confusion when quoters do not bother to state the convention being used since there is typically a 10% difference between the two methods for a power plant burning natural gas for simply benchmarking part of a reaction the lhv may be appropriate but hhv should be used for overall energy efficiency calculations if only to avoid confusion and in any case the value or convention should be clearly stated
+== accounting for moistureedit ==
+both hhv and lhv can be expressed in terms of ar (all moisture counted) mf and maf (only water from combustion of hydrogen) ar mf and maf are commonly used for indicating the heating values of coal:
+ar (as received) indicates that the fuel heating value has been measured with all moisture and ash forming minerals present
+mf (moisture free) or dry indicates that the fuel heating value has been measured after the fuel has been dried of all inherent moisture but still retaining its ash forming minerals
+maf (moisture and ash free) or daf (dry and ash free) indicates that the fuel heating value has been measured in the absence of inherent moisture and ash forming minerals
+== heat of combustion tablesedit ==
+== lower heating value for some organic compounds (at 25 c [77 f])edit ==
+note that there is no difference between the lower and higher heating values for the combustion of carbon carbon monoxide and sulfur since no water is formed in combusting those substances btu/lb values are calculated from mj/kg (1 mj/kg = 430 btu/lb)
+== higher heating values of natural gases from various sourcesedit ==
+the international energy agency reports the following typical higher heating values:
+algeria: 42.00 mj/m
+bangladesh: 36.00 mj/m
+canada: 38.20 mj/m
+indonesia: 40.60 mj/m
+netherlands: 33.32 mj/m
+norway: 39.88 mj/m
+pakistan: 34.90 mj/m
+russia: 38.23 mj/m
+saudi arabia: 38.00 mj/m
+united kingdom: 39.71 mj/m
+united states: 38.42 mj/m
+uzbekistan: 37.89 mj/m
+the lower heating value of natural gas is normally about 90 percent of its higher heating val
+== see alsoedit ==
+adiabatic flame temperature
+energy density
+energy value of coal
+exothermic reaction
+fire
+fuel efficiency#energy content of fuel
+food energy
+internal energy
+thermal efficiency
+wobbe index: heat density
+iso 15971
+electrical efficiency
+mechanical efficiency
+figure of merit
+relative cost of electricity generated by different sources
+energy conversion efficiency
+== referencesedit ==
+"carburants et moteurs" j-c guibet publication de l'institut franais du ptrole isbn 2-7108-0704-1
+== external linksedit ==
+nist chemistry webbook
+astm standard testing

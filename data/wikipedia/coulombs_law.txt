@@ -1,0 +1,89 @@
+coulomb's law or coulomb's inverse-square law is a law of physics describing the electrostatic interaction between electrically charged particles the law was first published in 1784 by french physicist charles augustin de coulomb and was essential to the development of the theory of electromagnetism it is analogous to isaac newton's inverse-square law of universal gravitation coulomb's law can be used to derive gauss's law and vice versa the law has been tested heavily and all observations have upheld the law's principle
+== history ==
+ancient cultures around the mediterranean knew that certain objects such as rods of amber could be rubbed with cat's fur to attract light objects like feathers thales of miletus made a series of observations on static electricity around 600 bc from which he believed that friction rendered amber magnetic in contrast to minerals such as magnetite which needed no rubbing thales was incorrect in believing the attraction was due to a magnetic effect but later science would prove a link between magnetism and electricity electricity would remain little more than an intellectual curiosity for millennia until 1600 when the english scientist william gilbert made a careful study of electricity and magnetism distinguishing the lodestone effect from static electricity produced by rubbing amber he coined the new latin word electricus ("of amber" or "like amber" from [elektron] the greek word for "amber") to refer to the property of attracting small objects after being rubbed this association gave rise to the english words "electric" and "electricity" which made their first appearance in print in thomas browne's pseudodoxia epidemica of 1646
+early investigators of the 18th century who suspected that the electrical force diminished with distance as the force of gravity did (i.e. as the inverse square of the distance) included daniel bernoulli and alessandro volta both of whom measured the force between plates of a capacitor and franz aepinus who supposed the inverse-square law in 1758
+based on experiments with electrically charged spheres joseph priestley of england was among the first to propose that electrical force followed an inverse-square law similar to newton's law of universal gravitation however he did not generalize or elaborate on this in 1767 he conjectured that the force between charges varied as the inverse square of the distance
+in 1769 scottish physicist john robison announced that according to his measurements the force of repulsion between two spheres with charges of the same sign varied as x2.06
+in the early 1770s the dependence of the force between charged bodies upon both distance and charge had already been discovered but not published by henry cavendish of england
+finally in 1785 the french physicist charles-augustin de coulomb published his first three reports of electricity and magnetism where he stated his law this publication was essential to the development of the theory of electromagnetism he used a torsion balance to study the repulsion and attraction forces of charged particles and determined that the magnitude of the electric force between two point charges is directly proportional to the product of the charges and inversely proportional to the square of the distance between them
+the torsion balance consists of a bar suspended from its middle by a thin fiber the fiber acts as a very weak torsion spring in coulomb's experiment the torsion balance was an insulating rod with a metal-coated ball attached to one end suspended by a silk thread the ball was charged with a known charge of static electricity and a second charged ball of the same polarity was brought near it the two charged balls repelled one another twisting the fiber through a certain angle which could be read from a scale on the instrument by knowing how much force it took to twist the fiber through a given angle coulomb was able to calculate the force between the balls and derive his inverse-square proportionality law
+== the law ==
+coulomb's law states that:
+the magnitude of the electrostatic force of interaction between two point charges is directly proportional to the scalar multiplication of the magnitudes of charges and inversely proportional to the square of the distance between them
+the force is along the straight line joining them if the two charges have the same sign the electrostatic force between them is repulsive; if they have different signs the force between them is attractive
+coulomb's law can also be stated as a simple mathematical expression the scalar and vector forms of the mathematical equation are
+and respectively
+where is coulomb's constant () and are the signed magnitudes of the charges the scalar is the distance between the charges the vector is the vectorial distance between the charges and (a unit vector pointing from to ) the vector form of the equation calculates the force applied on by  if is used instead then the effect on can be found it can be also calculated using newton's third law: 
+=== units ===
+electromagnetic theory is usually expressed using the standard si units force is measured in newtons charge in coulombs and distance in metres coulomb's constant is given by  the constant is the permittivity of free space in c2 m2 n1 and is the relative permittivity of the material in which the charges are immersed and is dimensionless
+the si derived units for the electric field are volts per meter newtons per coulomb or tesla meters per second
+coulomb's law and coulomb's constant can also be interpreted in various terms:
+atomic units in atomic units the force is expressed in hartrees per bohr radius the charge in terms of the elementary charge and the distances in terms of the bohr radius
+electrostatic units or gaussian units in electrostatic units and gaussian units the unit charge (esu or statcoulomb) is defined in such a way that the coulomb constant k disappears because it has the value of one and becomes dimensionless
+=== electric field ===
+an electric field is a vector field that associates to each point in space the coulomb force experienced by a test charge in the simplest case the field is considered to be generated solely by a single source point charge the strength and direction of the coulomb force on a test charge depends on the electric field that it finds itself in such that  if the field is generated by a positive source point charge  the direction of the electric field points along lines directed radially outwards from it i.e in the direction that a positive point test charge would move if placed in the field for a negative point source charge the direction is radially inwards
+the magnitude of the electric field can be derived from coulomb's law by choosing one of the point charges to be the source and the other to be the test charge it follows from coulomb's law that the magnitude of the electric field created by a single source point charge at a certain distance from it in vacuum is given by:
+=== coulomb's constant ===
+coulomb's constant is a proportionality factor that appears in coulomb's law as well as in other electric-related formulas denoted  it is also called the electric force constant or electrostatic constant hence the subscript 
+the exact value of coulomb's constant is:
+=== conditions for validity ===
+there are three conditions to be fulfilled for the validity of coulombs law:
+the charges considered must be point charges
+they should be stationary with respect to each other
+the two point charges should be placed in a single medium
+== scalar form ==
+when it is only of interest to know the magnitude of the electrostatic force (and not its direction) it may be easiest to consider a scalar version of the law the scalar form of coulomb's law relates the magnitude and sign of the electrostatic force acting simultaneously on two point charges and as follows:
+where is the separation distance and is coulomb's constant if the product is positive the force between the two charges is repulsive; if the product is negative the force between them is attractive
+== vector form ==
+coulomb's law states that the electrostatic force experienced by a charge at position  in the vicinity of another charge at position  in a vacuum is equal to:
+where  the unit vector  and is the electric constant
+the vector form of coulomb's law is simply the scalar definition of the law with the direction given by the unit vector  parallel with the line from charge to charge  if both charges have the same sign (like charges) then the product is positive and the direction of the force on is given by ; the charges repel each other if the charges have opposite signs then the product is negative and the direction of the force on is given by ; the charges attract each other
+the electrostatic force experienced by  according to newton's third law is 
+=== system of discrete charges ===
+the law of superposition allows coulomb's law to be extended to include any number of point charges the force acting on a point charge due to a system of point charges is simply the vector addition of the individual forces acting alone on that point charge due to each one of the charges the resulting force vector is parallel to the electric field vector at that point with that point charge removed
+the force on a small charge at position  due to a system of discrete charges in vacuum is:
+where and are the magnitude and position respectively of the charge is a unit vector in the direction of (a vector pointing from charges to )
+=== continuous charge distribution ===
+in this case the principle of linear superposition is also used for a continuous charge distribution an integral over the region containing the charge is equivalent to an infinite summation treating each infinitesimal element of space as a point charge  the distribution of charge is usually linear surface or volumetric
+for a linear charge distribution (a good approximation for charge in a wire) where gives the charge per unit length at position  and is an infinitesimal element of length
+for a surface charge distribution (a good approximation for charge on a plate in a parallel plate capacitor) where gives the charge per unit area at position  and is an infinitesimal element of area
+for a volume charge distribution (such as charge within a bulk metal) where gives the charge per unit volume at position  and is an infinitesimal element of volume
+the force on a small test charge at position in vacuum is given by the integral over the distribution of charge:
+== simple experiment to verify coulomb's law ==
+it is possible to verify coulomb's law with a simple experiment let's consider two small spheres of mass and same-sign charge  hanging from two ropes of negligible mass of length  the forces acting on each sphere are three: the weight  the rope tension and the electric force 
+in the equilibrium state:
+and:
+dividing (1) by (2):
+being the distance between the charged spheres; the repulsion force between them  assuming coulomb's law is correct is equal to
+so:
+if we now discharge one of the spheres and we put it in contact with the charged sphere each one of them acquires a charge q/2 in the equilibrium state the distance between the charges will be and the repulsion force between them will be:
+we know that  and:
+dividing (4) by (5) we get:
+measuring the angles and and the distance between the charges and is sufficient to verify that the equality is true taking into account the experimental error in practice angles can be difficult to measure so if the length of the ropes is sufficiently great the angles will be small enough to make the following approximation:
+using this approximation the relationship (6) becomes the much simpler expression:
+in this way the verification is limited to measuring the distance between the charges and check that the division approximates the theoretical value
+== electrostatic approximation ==
+in either formulation coulombs law is fully accurate only when the objects are stationary and remains approximately correct only for slow movement these conditions are collectively known as the electrostatic approximation when movement takes place magnetic fields that alter the force on the two objects are produced the magnetic interaction between moving charges may be thought of as a manifestation of the force from the electrostatic field but with einsteins theory of relativity taken into consideration
+=== atomic forces ===
+coulomb's law holds even within atoms correctly describing the force between the positively charged atomic nucleus and each of the negatively charged electrons this simple law also correctly accounts for the forces that bind atoms together to form molecules and for the forces that bind atoms and molecules together to form solids and liquids generally as the distance between ions increases the energy of attraction approaches zero and ionic bonding is less favorable as the magnitude of opposing charges increases energy increases and ionic bonding is more favorable
+== see also ==
+biotsavart law
+darwin lagrangian
+electromagnetic force
+gauss's law
+method of image charges
+molecular modelling
+newton's law of universal gravitation which uses a similar structure but for mass instead of charge
+static forces and virtual-particle exchange
+== notes ==
+== references ==
+coulomb charles augustin (1788) [1785] "premier mmoire sur llectricit et le magntisme" histoire de lacadmie royale des sciences imprimerie royale pp 569577
+coulomb charles augustin (1788) [1785] "second mmoire sur llectricit et le magntisme" histoire de lacadmie royale des sciences imprimerie royale pp 578611
+griffiths david j (1998) introduction to electrodynamics (3rd ed.) prentice hall isbn 0-13-805326-x
+tipler paul a.; mosca gene (2008) physics for scientists and engineers (6th ed.) new york: w h freeman and company isbn 0-7167-8964-7 lccn 2007010418
+young hugh d.; freedman roger a (2010) sears and zemansky's university physics : with modern physics (13th ed.) addison-wesley (pearson) isbn 978-0-321-69686-1
+== external links ==
+coulomb's law on project physnet
+electricity and the atoma chapter from an online textbook
+a maze game for teaching coulomb's lawa game created by the molecular workbench software
+electric charges polarization electric force coulomb's law walter lewin 8.02 electricity and magnetism spring 2002: lecture 1 (video) mit opencourseware license: creative commons attribution-noncommercial-share alike

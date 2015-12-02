@@ -1,0 +1,42 @@
+quantum numbers describe values of conserved quantities in the dynamics of a quantum system in the case of quantum numbers of electrons they can be defined as "the sets of numerical values which give acceptable solutions to the schrdinger wave equation for the hydrogen atom" perhaps the most important aspect of quantum mechanics is the quantization of observable quantities since quantum numbers are discrete sets of integers or half-integers although they could approach infinity in some cases this is distinguished from classical mechanics where the values can range continuously quantum numbers often describe specifically the energy levels of electrons in atoms but other possibilities include angular momentum spin etc any quantum system can have one or more quantum numbers; it is thus difficult to list all possible quantum numbers
+== how many quantum numbers?edit ==
+the question of how many quantum numbers are needed to describe any given system has no universal answer hence for each system one must find the answer for a full analysis of the system a quantized system requires at least one quantum number the dynamics of any quantum system are described by a quantum hamiltonian h there is one quantum number of the system corresponding to the energy i.e. the eigenvalue of the hamiltonian there is also one quantum number for each operator o that commutes with the hamiltonian these are all the quantum numbers that the system can have note that the operators o defining the quantum numbers should be independent of each other often there is more than one way to choose a set of independent operators consequently in different situations different sets of quantum numbers may be used for the description of the same system
+== spatial and angular momentum numbersedit ==
+there are four quantum numbers which can describe an electron in an atom completely
+principal quantum number (n)
+azimuthal quantum number ()
+magnetic quantum number (m)
+spin quantum number (s)
+=== traditional nomenclaturesedit ===
+many different models have been proposed throughout the history of quantum mechanics but the most prominent system of nomenclature spawned from the hund-mulliken molecular orbital theory of friedrich hund robert s mulliken and contributions from schrdinger slater and john lennard-jones this system of nomenclature incorporated bohr energy levels hund-mulliken orbital theory and observations on electron spin based on spectroscopy and hund's rules
+this model describes electrons using four quantum numbers n  m ms given below it is also the common nomenclature in the classical description of nuclear particle states (e.g protons and neutrons) molecular orbitals require different quantum numbers because the hamiltonian and its symmetries are quite different
+note that there is no universal fixed value for m and ms values rather the m and ms values are random the only requirement is that the naming schematic used within a particular set of calculations or descriptions must be consistent (e.g the orbital occupied by the first electron in a p orbital could be described as m = 1 or m = 0 or m = 1 but the m value of the other electron in that orbital must be different; yet the m assigned to electrons in other orbitals again can be m = 1 or m = 0 or m = 1 )
+these rules are summarized as follows:
+example: the quantum numbers used to refer to the outermost valence electrons of the carbon (c) atom which are located in the 2p atomic orbital are; n = 2 (2nd electron shell) = 1 (p orbital subshell) m = 1 0 or 1 ms = (parallel spins)
+results from spectroscopy indicated that up to two electrons can occupy a single orbital however two electrons can never have the same exact quantum state nor the same set of quantum numbers according to hund's rules which addresses the pauli exclusion principle a fourth quantum number with two possible values was added as an ad hoc assumption to resolve the conflict; this supposition could later be explained in detail by relativistic quantum mechanics and from the results of the renowned sterngerlach experiment
+== total angular momenta numbersedit ==
+=== total momentum of a particleedit ===
+when one takes the spin-orbit interaction into consideration the l and s operators no longer commute with the hamiltonian and their eigenvalues therefore change over time thus another set of quantum numbers should be used this set includes
+for example consider the following eight states defined by their quantum numbers:
+the quantum states in the system can be described as linear combination of these eight states however in the presence of spin-orbit interaction if one wants to describe the same system by eight states which are eigenvectors of the hamiltonian (i.e each represents a state which does not mix with others over time) we should consider the following eight states:
+=== nuclear angular momentum quantum numbersedit ===
+in nuclei the entire assembly of protons and neutrons (nucleons) has a resultant angular momentum due to the angular momenta of each nucleon usually denoted i if the total angular momentum of a neutron is jn = + s and for a proton is jp = + s (where s for protons and neutrons happens to be again) then the nuclear angular momentum quantum numbers i are given by:
+i = |jn jp| |jn jp| + 1 |jn jp| + 2,... (jn + jp) 2 (jn + jp) 1 (jn + jp)
+parity with the number i is used to label nuclear angular momentum states examples for some isotopes of hydrogen (h) carbon (c) and sodium (na) are;
+the reason for the unusual fluctuations in i even by differences of just one nucleon are due to the odd/even numbers of protons and neutrons - pairs of nucleons have a total angular momentum of zero (just like electrons in orbitals) leaving an odd/even numbers of unpaired nucleons the property of nuclear spin is an important factor for the operation of nmr spectroscopy in organic chemistry and mri in nuclear medicine due to the nuclear magnetic moment interacting with an external magnetic field
+== elementary particlesedit ==
+elementary particles contain many quantum numbers which are usually said to be intrinsic to them however it should be understood that the elementary particles are quantum states of the standard model of particle physics and hence the quantum numbers of these particles bear the same relation to the hamiltonian of this model as the quantum numbers of the bohr atom does to its hamiltonian in other words each quantum number denotes a symmetry of the problem it is more useful in quantum field theory to distinguish between spacetime and internal symmetries
+typical quantum numbers related to spacetime symmetries are spin (related to rotational symmetry) the parity c-parity and t-parity (related to the poincar symmetry of spacetime) typical internal symmetries are lepton number and baryon number or the electric charge (for a full list of quantum numbers of this kind see the article on flavour.)
+a minor but often confusing point is as follows: most conserved quantum numbers are additive so in an elementary particle reaction the sum of the quantum numbers should be the same before and after the reaction however some usually called a parity are multiplicative; i.e. their product is conserved all multiplicative quantum numbers belong to a symmetry (like parity) in which applying the symmetry transformation twice is equivalent to doing nothing (involution) these are all examples of an abstract group called z2
+== see alsoedit ==
+electron configuration
+== references and external linksedit ==
+=== general principlesedit ===
+dirac paul a.m (1982) principles of quantum mechanics oxford university press isbn 0-19-852011-5
+=== atomic physicsedit ===
+quantum numbers for the hydrogen atom
+lecture notes on quantum numbers
+=== particle physicsedit ===
+griffiths david j (2004) introduction to quantum mechanics (2nd ed.) prentice hall isbn 0-13-805326-x
+halzen francis and martin alan d (1984) quarks and leptons: an introductory course in modern particle physics john wiley & sons isbn 0-471-88741-2
+the particle data group

@@ -1,0 +1,112 @@
+diffraction refers various phenomena occur wave encounters obstacle slit classical physics diffraction phenomenon described interference waves according huygensfresnel principle characteristic behaviors exhibited wave encounters obstacle slit comparable size wavelength similar effects occur light wave travels medium varying refractive index sound wave travels medium varying acoustic impedance diffraction occurs waves including sound waves water waves electromagnetic waves visible light xrays radio waves
+since physical objects wavelike properties atomic level diffraction also occurs matter studied according principles quantum mechanics italian scientist francesco maria grimaldi coined word diffraction first record accurate observations phenomenon
+diffraction occurs whenever propagating waves encounter changes effects generally pronounced waves whose wavelength roughly comparable dimensions diffracting object slit obstructing object provides multiple closely spaced openings complex pattern varying intensity result due addition interference different parts wave travels observer different paths different path lengths result different phases see diffraction grating wave superposition formalism diffraction also describe way waves finite extent propagate free space example expanding profile laser beam beam shape radar antenna field view ultrasonic transducer analyzed using diffraction equations
+examples
+effects diffraction often seen everyday life striking examples diffraction involve light example closely spaced tracks cd dvd act diffraction grating form familiar rainbow pattern seen looking disk principle extended engineer grating structure produce diffraction pattern desired hologram credit card example diffraction atmosphere small particles cause bright ring visible around bright light source like sun moon shadow solid object using light compact source shows small fringes near edges speckle pattern observed laser light falls optically rough surface also diffraction phenomenon deli meat appears iridescent diffraction meat fibers effects consequence fact light propagates wave
+diffraction occur kind wave ocean waves diffract around jetties obstacles sound waves diffract around objects one still hear someone calling even hiding behind tree diffraction also concern technical applications sets fundamental limit resolution camera telescope microscope
+history
+effects diffraction light first carefully observed characterized francesco maria grimaldi also coined term diffraction latin diffringere break pieces referring light breaking different directions results grimaldis observations published posthumously isaac newton studied effects attributed inflexion light rays james gregory observed diffraction patterns caused bird feather effectively first diffraction grating discovered thomas young performed celebrated experiment demonstrating interference two closely spaced slits explaining results interference waves emanating two different slits deduced light must propagate waves augustinjean fresnel definitive studies calculations diffraction made public thereby gave great support wave theory light advanced christiaan huygens reinvigorated young newtons particle theory
+mechanism
+diffraction arises way waves propagate described huygensfresnel principle principle superposition waves propagation wave visualized considering every particle transmitted medium wavefront point source secondary spherical wave wave displacement subsequent point sum secondary waves waves added together sum determined relative phases well amplitudes individual waves summed amplitude waves value zero sum individual amplitudes hence diffraction patterns usually series maxima minima
+various analytical models allow diffracted field calculated including kirchhofffresnel diffraction equation derived wave equation fraunhofer diffraction approximation kirchhoff equation applies far field fresnel diffraction approximation applies near field configurations cannot solved analytically yield numerical solutions finite element boundary element methods
+possible obtain qualitative understanding many diffraction phenomena considering relative phases individual secondary wave sources vary particular conditions phase difference equals half cycle case waves cancel one another
+simplest descriptions diffraction situation reduced twodimensional problem water waves already case water waves propagate surface water light often neglect one direction diffracting object extends direction distance far greater wavelength case light shining small circular holes take account full threedimensional nature problem
+quantum mechanics remarkable fact mechanism diffraction based radiating particles medium quantum mechanical waves transmitting medium part waveparticle duality physical explanation
+diffraction light
+examples diffraction light considered
+singleslit diffraction
+long slit infinitesimal width illuminated light diffracts light series circular waves wavefront emerges slit cylindrical wave uniform intensity
+slit wider wavelength produces interference effects space downstream slit explained assuming slit behaves though large number point sources spaced evenly across width slit analysis system simplified consider light single wavelength incident light coherent sources phase light incident given point space downstream slit made contributions point sources relative phases contributions vary may expect find minima maxima diffracted light phase differences caused differences path lengths contributing rays reach point slit
+find angle first minimum obtained diffracted light following reasoning light source located top edge slit interferes destructively source located middle slit path difference equal similarly source top slit interfere destructively source located middle slit angle continue reasoning along entire height slit conclude condition destructive interference entire slit condition destructive interference two narrow slits distance apart half width slit path difference given minimum intensity occurs angle min given
+d width slit
+angle incidence minimum intensity occurs
+wavelength light
+similar argument used show imagine slit divided four six eight parts etc minima obtained angles n given
+n integer zero
+simple argument enable us find maxima diffraction pattern intensity profile calculated using fraunhofer diffraction equation
+intensity given angle
+original intensity
+unnormalized sinc function given sincx sinxx x sinc
+analysis applies far field distance much larger width slit
+diffraction grating
+diffraction grating optical component regular pattern form light diffracted grating depends structure elements number elements present gratings intensity maxima angles m given grating equation
+angle light incident
+d separation grating elements
+m integer positive negative
+light diffracted grating found summing light diffracted elements essentially convolution diffraction interference patterns
+figure shows light diffracted element element gratings grating spacings seen maxima position detailed structures intensities different
+circular aperture
+farfield diffraction plane wave incident circular aperture often referred airy disk variation intensity angle given
+radius circular aperture k equal j bessel function smaller aperture larger spot size given distance greater divergence diffracted beams
+general aperture
+wave emerges point source amplitude location r given solution frequency domain wave equation point source helmholtz equation
+dimensional delta function delta function radial dependence laplace operator aka scalar laplacian spherical coordinate system simplifies see del cylindrical spherical coordinates
+direct substitution solution equation readily shown scalar greens function spherical coordinate system using physics time convention
+solution assumes delta function source located origin source located arbitrary source point denoted vector field point located point may represent scalar greens function arbitrary source location
+therefore electric field eincxy incident aperture field produced aperture distribution given surface integral
+source point aperture given vector
+far field wherein parallel rays approximation employed greens function
+simplifies
+seen figure right click enlarge
+expression farzone fraunhofer region field becomes
+since
+expression fraunhofer region field planar aperture becomes
+letting
+fraunhofer region field planar aperture assumes form fourier transform
+farfield fraunhofer region becomes spatial fourier transform aperture distribution huygens principle applied aperture simply says farfield diffraction pattern spatial fourier transform aperture shape direct byproduct using parallelrays approximation identical plane wave decomposition aperture plane fields see fourier optics
+propagation laser beam
+way beam profile laser beam changes propagates determined diffraction entire emitted beam planar spatially coherent wave front approximates gaussian beam profile lowest divergence given diameter smaller output beam quicker diverges possible reduce divergence laser beam first expanding one convex lens collimating second convex lens whose focal point coincident first lens resulting beam larger diameter hence lower divergence divergence laser beam may reduced diffraction gaussian beam even reversed convergence refractive index propagation media increases light intensity may result selffocusing effect
+wave front emitted beam perturbations transverse coherence length wave front perturbation less wavelength considered gaussian beam diameter determining divergence laser beam transverse coherence length vertical direction higher horizontal laser beam divergence lower vertical direction horizontal
+diffractionlimited imaging
+ability imaging system resolve detail ultimately limited diffraction plane wave incident circular lens mirror diffracted described light focused point forms airy disk central spot focal plane radius first null
+wavelength light n fnumber focal length divided diameter imaging optics object space corresponding angular resolution
+d diameter entrance pupil imaging lens eg telescopes main mirror
+two point sources produce airy pattern see photo binary star point sources move closer together patterns start overlap ultimately merge form single pattern case two point sources cannot resolved image rayleigh criterion specifies two point sources considered resolvable separation two images least radius airy disk ie first minimum one coincides maximum
+thus larger aperture lens smaller wavelength finer resolution imaging system telescopes large lenses mirrors optical microscopes limited detail see
+speckle patterns
+speckle pattern seen using laser pointer another diffraction phenomenon result superposition many waves different phases produced laser beam illuminates rough surface add together give resultant wave whose amplitude therefore intensity varies randomly
+babinets principle
+babinets principle useful theorem stating diffraction pattern opaque body identical hole size shape differing intensities means interference conditions single obstruction would single slit
+patterns
+several qualitative observations made diffraction general
+angular spacing features diffraction pattern inversely proportional dimensions object causing diffraction words smaller diffracting object wider resulting diffraction pattern vice versa precisely true sines angles
+diffraction angles invariant scaling depend ratio wavelength size diffracting object
+diffracting object periodic structure example diffraction grating features generally become sharper third figure example shows comparison doubleslit pattern pattern formed five slits sets slits spacing center one slit next
+particle diffraction
+quantum theory tells us every particle exhibits wave properties particular massive particles interfere therefore diffract diffraction electrons neutrons stood one powerful arguments favor quantum mechanics wavelength associated particle de broglie wavelength
+h plancks constant p momentum particle mass velocity slowmoving particles
+macroscopic objects wavelength short meaningful assign wavelength sodium atom traveling ms would de broglie wavelength pico meters
+wavelength even smallest macroscopic objects extremely small diffraction matter waves visible small particles like electrons neutrons atoms small molecules short wavelength matter waves makes ideally suited study atomic crystal structure solids large molecules like proteins
+relatively larger molecules like buckyballs also shown diffract
+bragg diffraction
+diffraction threedimensional periodic structure atoms crystal called bragg diffraction similar occurs waves scattered diffraction grating bragg diffraction consequence interference waves reflecting different crystal planes condition constructive interference given braggs law
+wavelength
+d distance crystal planes
+angle diffracted wave
+m integer known order diffracted beam
+bragg diffraction may carried using either light short wavelength like xrays matter waves like neutrons electrons whose wavelength order much smaller atomic spacing pattern produced gives information separations crystallographic planes d allowing one deduce crystal structure diffraction contrast electron microscopes xtopography devices particular also powerful tool examining individual defects local strain fields crystals
+coherence
+description diffraction relies interference waves emanating source taking different paths point screen description difference phase waves took different paths dependent effective path length take account fact waves arrive screen time emitted source different times initial phase source emits waves change time unpredictable way means waves emitted source times far apart longer form constant interference pattern since relation phases longer time independent
+length phase beam light correlated called coherence length order interference occur path length difference must smaller coherence length sometimes referred spectral coherence related presence different frequency components wave case light emitted atomic transition coherence length related lifetime excited state atom made transition
+waves emitted extended source lead incoherence transversal direction looking cross section beam light length phase correlated called transverse coherence length case youngs double slit experiment would mean transverse coherence length smaller spacing two slits resulting pattern screen would look like two single slit diffraction patterns
+case particles like electrons neutrons atoms coherence length related spatial extent wave function describes particle
+see also
+references
+external links
+diffraction ri channel video december
+diffraction crystallography beginners
+diffraction acoustics
+diffraction photography
+diffraction mathpages
+diffraction pattern calculators wolfram demonstrations project
+wave optics chapter online textbook
+d wave java applet displays diffraction patterns various slit configurations
+diffraction java applet displays diffraction patterns various d apertures
+diffraction approximations illustrated mit site illustrates various approximations diffraction intuitively explains fraunhofer regime perspective linear system theory
+gap obstacle corner java simulation diffraction water wave
+google maps satellite image panama canal entry ocean wave diffraction
+google maps bing maps aerial photo waves diffracting sea barriers sea palling norfolk uk
+introduction wigner distribution geometric optics
+doitpoms teaching learning package diffraction imaging
+animations demonstrating diffraction qed
+fdtd animation single slit diffraction youtube

@@ -1,0 +1,112 @@
+computer science scientific practical approach computation applications systematic study feasibility structure expression mechanization methodical procedures algorithms underlie acquisition representation processing storage communication access information alternate succinct definition computer science study automating algorithmic processes scale computer scientist specializes theory computation design computational systems
+fields divided variety theoretical practical disciplines fields computational complexity theory explores fundamental properties computational intractable problems highly abstract fields computer graphics emphasize realworld visual applications still fields focus challenges implementing computation example programming language theory considers various approaches description computation study computer programming investigates various aspects use programming language complex systems humancomputer interaction considers challenges making computers computations useful usable universally accessible humans
+historyedit
+earliest foundations would become computer science predate invention modern digital computer machines calculating fixed numerical tasks abacus existed since antiquity aiding computations multiplication division algorithms performing computations existed since antiquity even development sophisticated computing equipment ancient sanskrit treatise shulba sutras rules chord book algorithms written bc constructing geometric objects like altars using peg chord early precursor modern field computational geometry
+blaise pascal designed constructed first working mechanical calculator pascals calculator gottfried leibniz demonstrated digital mechanical calculator called stepped reckoner may considered first computer scientist information theorist among reasons documenting binary number system thomas de colmar launched mechanical calculator industry released simplified arithmometer first calculating machine strong enough reliable enough used daily office environment charles babbage started design first automatic mechanical calculator difference engine eventually gave idea first programmable mechanical calculator analytical engine started developing machine less two years sketched many salient features modern computer crucial step adoption punched card system derived jacquard loom making infinitely programmable translation french article analytical engine ada lovelace wrote one many notes included algorithm compute bernoulli numbers considered first computer program around herman hollerith invented tabulator used punched cards process statistical information eventually company became part ibm one hundred years babbages impossible dream howard aiken convinced ibm making kinds punched card equipment also calculator business develop giant programmable calculator asccharvard mark based babbages analytical engine used cards central computing unit machine finished hailed babbages dream come true
+new powerful computing machines developed term computer came refer machines rather human predecessors became clear computers could used mathematical calculations field computer science broadened study computation general computer science began established distinct academic discipline early worlds first computer science degree program cambridge diploma computer science began university cambridge computer laboratory first computer science degree program united states formed purdue university since practical computers became available many applications computing become distinct areas study rights
+although many initially believed impossible computers could actually scientific field study late fifties gradually became accepted among greater academic population wellknown ibm brand formed part computer science revolution time ibm short international business machines released ibm later ibm computers widely used exploration period devices still working ibm computer frustrating misplaced much one letter one instruction program would crash would start whole process late computer science discipline much developmental stages issues commonplace
+time seen significant improvements usability effectiveness computing technology modern society seen significant shift users computer technology usage experts professionals nearubiquitous user base initially computers quite costly degree human aid needed efficient usein part professional computer operators computer adoption became widespread affordable less human assistance needed common usage
+contributionsedit
+despite short history formal academic discipline computer science made number fundamental contributions science societyin fact along electronics founding science current epoch human history called information age driver information revolution seen third major leap human technological progress industrial revolution ce agricultural revolution bc
+contributions include
+start digital revolution includes current information age internet
+formal definition computation computability proof computationally unsolvable intractable problems
+concept programming language tool precise expression methodological information various levels abstraction
+cryptography breaking enigma code important factor contributing allied victory world war ii
+scientific computing enabled practical evaluation processes situations great complexity well experimentation entirely software also enabled advanced study mind mapping human genome became possible human genome project distributed computing projects foldinghome explore protein folding
+algorithmic trading increased efficiency liquidity financial markets using artificial intelligence machine learning statistical numerical techniques large scale high frequency algorithmic trading also exacerbate volatility
+computer graphics computergenerated imagery become ubiquitous modern entertainment particularly television cinema advertising animation video games even films feature explicit cgi usually filmed digital cameras edited postprocessed using digital video editor
+simulation various processes including computational fluid dynamics physical electrical electronic systems circuits well societies social situations notably war games along habitats among many others modern computers enable optimization designs complete aircraft notable electrical electronic circuit design spice well software physical realization new modified designs latter includes essential design software integrated circuits
+artificial intelligence becoming increasingly important gets efficient complex many applications ai seen home robotic vacuum cleaners also present video games modern battlefield drones antimissile systems squad support robots
+philosophyedit
+number computer scientists argued distinction three separate paradigms computer science peter wegner argued paradigms science technology mathematics peter dennings working group argued theory abstraction modeling design amnon h eden described rationalist paradigm treats computer science branch mathematics prevalent theoretical computer science mainly employs deductive reasoning technocratic paradigm might found engineering approaches prominently software engineering scientific paradigm approaches computerrelated artifacts empirical perspective natural sciences identifiable branches artificial intelligence
+name fieldedit
+although first proposed term computer science appears article communications acm louis fein argues creation graduate school computer sciences analogous creation harvard business school justifying name arguing like management science subject applied interdisciplinary nature characteristics typical academic discipline efforts others numerical analyst george forsythe rewarded universities went create programs starting purdue despite name significant amount computer science involve study computers several alternative names proposed certain departments major universities prefer term computing science emphasize precisely difference danish scientist peter naur suggested term datalogy reflect fact scientific discipline revolves around data data treatment necessarily involving computers first scientific institution use term department datalogy university copenhagen founded peter naur first professor datalogy term used mainly scandinavian countries alternative term also proposed naur data science used distinct field data analysis including statistics databases
+also early days computing number terms practitioners field computing suggested communications acmturingineer turologist flowchartsman applied metamathematician applied epistemologist three months later journal comptologist suggested followed next year hypologist term computics also suggested europe terms derived contracted translations expression automatic information eg informazione automatica italian information mathematics often used eg informatique french informatik german informatica italy netherlands informtica spain portugal informatika slavic languages hungarian pliroforiki means informatics greek similar words also adopted uk school informatics university edinburgh
+folkloric quotation often attributed tobut almost certainly first formulated byedsger dijkstra states computer science computers astronomy telescopes design deployment computers computer systems generally considered province disciplines computer science example study computer hardware usually considered part computer engineering study commercial computer systems deployment often called information technology information systems however much crossfertilization ideas various computerrelated disciplines computer science research also often intersects disciplines philosophy cognitive science linguistics mathematics physics biology statistics logic
+computer science considered much closer relationship mathematics many scientific disciplines observers saying computing mathematical science early computer science strongly influenced work mathematicians kurt gdel alan turing continues useful interchange ideas two fields areas mathematical logic category theory domain theory algebra
+relationship computer science software engineering contentious issue muddied disputes term software engineering means computer science defined david parnas taking cue relationship engineering science disciplines claimed principal focus computer science studying properties computation general principal focus software engineering design specific computations achieve practical goals making two separate complementary disciplines
+academic political funding aspects computer science tend depend whether department formed mathematical emphasis engineering emphasis computer science departments mathematics emphasis numerical orientation consider alignment computational science types departments tend make efforts bridge field educationally across research
+areas computer scienceedit
+discipline computer science spans range topics theoretical studies algorithms limits computation practical issues implementing computing systems hardware software csab formerly called computing sciences accreditation boardwhich made representatives association computing machinery acm ieee computer society ieee csidentifies four areas considers crucial discipline computer science theory computation algorithms data structures programming methodology languages computer elements architecture addition four areas csab also identifies fields software engineering artificial intelligence computer networking communication database systems parallel computation distributed computation humancomputer interaction computer graphics operating systems numerical symbolic computation important areas computer science
+theoretical computer scienceedit
+broader field theoretical computer science encompasses classical theory computation wide range topics focus abstract logical mathematical aspects computing
+theory computationedit
+according peter denning fundamental question underlying computer science efficiently automated theory computation focused answering fundamental questions computed amount resources required perform computations effort answer first question computability theory examines computational problems solvable various theoretical models computation second question addressed computational complexity theory studies time space costs associated different approaches solving multitude computational problems
+famous p np problem one millennium prize problems open problem theory computation
+information coding theoryedit
+information theory related quantification information developed claude shannon find fundamental limits signal processing operations compressing data reliably storing communicating data coding theory study properties codes systems converting information one form another fitness specific application codes used data compression cryptography error detection correction recently also network coding codes studied purpose designing efficient reliable data transmission methods
+algorithms data structuresedit
+algorithms data structures study commonly used computational methods computational efficiency
+programming language theoryedit
+programming language theory branch computer science deals design implementation analysis characterization classification programming languages individual features falls within discipline computer science depending affecting mathematics software engineering linguistics active research area numerous dedicated academic journals
+formal methodsedit
+formal methods particular kind mathematically based technique specification development verification software hardware systems use formal methods software hardware design motivated expectation engineering disciplines performing appropriate mathematical analysis contribute reliability robustness design form important theoretical underpinning software engineering especially safety security involved formal methods useful adjunct software testing since help avoid errors also give framework testing industrial use tool support required however high cost using formal methods means usually used development highintegrity lifecritical systems safety security utmost importance formal methods best described application fairly broad variety theoretical computer science fundamentals particular logic calculi formal languages automata theory program semantics also type systems algebraic data types problems software hardware specification verification
+applied computer scienceedit
+applied computer science aims identifying certain computer science concepts used directly solving real world problems
+artificial intelligenceedit
+artificial intelligence ai aims required synthesise goalorientated processes problemsolving decisionmaking environmental adaptation learning communication found humans animals origins cybernetics dartmouth conference artificial intelligence research necessarily crossdisciplinary drawing areas expertise applied mathematics symbolic logic semiotics electrical engineering philosophy mind neurophysiology social intelligence ai associated popular mind robotic development main field practical application embedded component areas software development require computational understanding startingpoint late alan turings question computers think question remains effectively unanswered although turing test still used assess computer output scale human intelligence automation evaluative predictive tasks increasingly successful substitute human monitoring intervention domains computer application involving complex realworld data
+computer architecture engineeringedit
+computer architecture digital computer organization conceptual design fundamental operational structure computer system focuses largely way central processing unit performs internally accesses addresses memory field often involves disciplines computer engineering electrical engineering selecting interconnecting hardware components create computers meet functional performance cost goals
+computer performance analysisedit
+computer performance analysis study work flowing computers general goals improving throughput controlling response time using resources efficiently eliminating bottlenecks predicting performance anticipated peak loads
+computer graphics visualizationedit
+computer graphics study digital visual contents involves synthesis manipulation image data study connected many fields computer science including computer vision image processing computational geometry heavily applied fields special effects video games
+computer security cryptographyedit
+computer security branch computer technology whose objective includes protection information unauthorized access disruption modification maintaining accessibility usability system intended users cryptography practice study hiding encryption therefore deciphering decryption information modern cryptography largely related computer science many encryption decryption algorithms based computational complexity
+computational scienceedit
+computational science scientific computing field study concerned constructing mathematical models quantitative analysis techniques using computers analyze solve scientific problems practical use typically application computer simulation forms computation problems various scientific disciplines
+computer networksedit
+branch computer science aims manage networks computers worldwide
+concurrent parallel distributed systemsedit
+concurrency property systems several computations executing simultaneously potentially interacting number mathematical models developed general concurrent computation including petri nets process calculi parallel random access machine model distributed system extends idea concurrency onto multiple computers connected network computers within distributed system private memory information often exchanged among achieve common goal
+databasesedit
+database intended organize store retrieve large amounts data easily digital databases managed using database management systems store create maintain search data database models query languages
+software engineeringedit
+software engineering study designing implementing modifying software order ensure high quality affordable maintainable fast build systematic approach software design involving application engineering practices software software engineering deals organizing analyzing softwareit doesnt deal creation manufacture new software internal maintenance arrangement computer applications software engineers computer systems software engineers projected among fastest growing occupations
+great insights computer scienceedit
+philosopher computing bill rapaport noted three great insights computer science
+gottfried wilhelm leibnizs george booles alan turings claude shannons samuel morses insight two objects computer deal order represent anything
+information computable problem represented using bistable pair flipflop two easily distinguishable states onoff magnetizeddemagnetized highvoltagelowvoltage etc
+alan turings insight five actions computer perform order anything
+every algorithm expressed language computer consisting five basic instructions
+move left one location
+move right one location
+read symbol current location
+print current location
+print current location
+corrado bhm giuseppe jacopinis insight three ways combining actions complex ones needed order computer anything
+three rules needed combine set basic instructions complex ones
+sequence first
+selection suchandsuch case else
+repetition suchandsuch case
+note three rules boehms jacopinis insight simplified use goto means elementary structured programming
+academiaedit
+conferences important events computer science research conferences researchers public private sectors present recent work meet unlike academic fields computer science prestige conference papers greater journal publications one proposed explanation quick development relatively new field requires rapid review distribution results task better handled conferences journals
+educationedit
+since computer science relatively new field widely taught schools universities academic subjects example codeorg estimated percent high schools united states offered computer science education report association computing machinery acm computer science teachers association csta revealed states adopted significant education standards high school computer science however computer science education growing countries israel new zealand south korea already included computer science respective national secondary education curriculum several countries following suit
+countries significant gender gap computer science education example us computer science degrees conferred women gender gap also exists western countries however parts world gap small nonexistent approximately half computer science degrees malaysia conferred women women made computer science graduates guyana
+see alsoedit
+notesedit
+referencesedit
+readingedit
+external linksedit
+computer science dmoz
+scholarly societies computer science
+best papers awards computer science since
+photographs computer scientists bertrand meyer
+eecsberkeleyedu
+bibliography academic search engines
+citeseerx article search engine digital library repository scientific academic papers focus computer information science
+dblp computer science bibliography article computer science bibliography website hosted universitt trier germany
+collection computer science bibliographies article
+professional organizations
+association computing machinery
+ieee computer society
+informatics europe
+aaai
+aaas computer science
+misc
+computer sciencestack exchange communityrun questionandanswer site computer science
+computer science
+computer science science

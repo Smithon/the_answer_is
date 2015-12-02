@@ -1,0 +1,20 @@
+molar solubility is the number of moles of a substance (the solute) that can be dissolved per liter of solution before the solution becomes saturated it can be calculated from a substance's solubility product constant (ksp) and stoichiometry the units are mol/l sometimes written as m
+== derivation ==
+given excess of a simple salt axby in an aqueous solution of no common ions (a or b already present in the solution) the amount of it which enters solution can be calculated as follows:
+the chemical equation for this salt would be:
+where a b are ions and x y are coefficients
+1 the relationship of the changes in amount (of which mole is a unit) represented as n() between the species is given by stoichiometry as follows:
+which when rearranged for a and b yields:
+2 the deltas() initials(i) and finals(f) relate very simply since in this case molar solubility is defined assuming no common ions are already present in the solution the difference law
+which condense to the identities
+3 in these variables (with v for volume) the molar solubility would be written as:
+4 the solubility product expression is defined as:
+these four sets of equations are enough to solve for s0 algebraically:
+hence;
+== simple calculation ==
+if the solubility product constant (ksp) and dissociation product ions are known the molar solubility can be computed without the aforementioned equation
+=== example ===
+ionic substance ab2 dissociates into a and 2b or one mole of ion a and two moles of ion b the soluble ion dissociation equation can thus be written as:
+where the corresponding solubility product equation is:
+if the initial concentration of a is x then that of b must be 2x inserting these initial concentrations into the solubility product equation gives:
+if ksp is known x can be computed which is the molar solubility

@@ -1,0 +1,27 @@
+the limiting reagent (or limiting reactant) in a chemical reaction is the substance which is totally consumed when the chemical reaction is complete the amount of product formed is limited by this reagent since the reaction cannot proceed further without it if one or more other reagents are present in excess of the quantities required to react with the limiting reagent they are described as excess reagents or excess reactants
+the limiting reagent must be identified in order to calculate the percentage yield of a reaction since the theoretical yield is defined as the amount of product obtained when the limiting reagent reacts completely
+given the balanced chemical equation which describes the reaction there are several equivalent ways to identify the limiting reagent and evaluate the excess quantities of other reagents
+== method 1: comparison of reactant amounts ==
+this method is most useful when there are only two reactants one reactant (a) is chosen and the balanced chemical equation is used to determine the amount of the other reactant (b) necessary to react with a if the amount of b actually present exceeds the amount required then b is in excess and a is the limiting reagent if the amount of b present is less than required then b is the limiting reagent
+=== example for two reactants ===
+consider the combustion of benzene represented by the following chemical equation:
+this means that 15 moles of molecular oxygen (o2) is required to react with 2 moles of benzene (c6h6)
+the amount of oxygen required for other quantities of benzene can be calculated using cross-multiplication (the rule of three) for example if 1.5 mol c6h6 is present 11.25 mol o2 is required:
+if in fact 18 mol o2 are present there will be an excess of (18 - 11.25) = 6.75 mol of unreacted oxygen when all the benzene is consumed benzene is then the limiting reagent
+this conclusion can be verified by comparing the mole ratio of o2 and c6h6 required by the balanced equation with the mole ratio actually present:
+since the actual ratio is larger than required o2 is the reagent in excess which confirms that benzene is the limiting reagent
+== method 2: comparison of product amounts which can be formed from each reactant ==
+in this method the chemical equation is used to calculate the amount of one product which can be formed from each reactant in the amount present the limiting reactant is the one which can form the smallest amount of the product considered this method can be extended to any number of reactants more easily than the first method
+=== example ===
+20.0 g of iron (iii) oxide (fe2o3) are reacted with 8.00 g aluminium (al) in the following thermite reaction:
+since the reactant amounts are given in grams they must be first converted into moles for comparison with the chemical equation in order to determine how many moles of fe can be produced from either reactant
+moles produced of fe from reactant fe2o3
+moles produced of fe from reactant al
+there is enough al to produce 0.297 mol fe but only enough fe2o3 to produce 0.250 mol fe this means that the amount of fe actually produced is limited by the fe2o3 present which is therefore the limiting reagent
+=== shortcut ===
+it can be seen from the example above that the amount of product (fe) formed from each reagent x (fe2o3 or al) is proportional to the quantity
+this suggests a shortcut which works for any number of reagents just calculate this formula for each reagent and the reagent that has the lowest value of this formula is the limiting reagent
+== see also ==
+limiting factor
+== references ==
+zumdahl steven s chemical principles 4th ed new york: houghton mifflin company 2005 isbn 0-618-37206-7

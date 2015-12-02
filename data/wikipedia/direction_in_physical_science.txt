@@ -1,0 +1,23 @@
+free energy perturbation (fep) is a method based on statistical mechanics that is used in computational chemistry for computing free energy differences from molecular dynamics or metropolis monte carlo simulations the fep method was introduced by robert w zwanzig in 1954 according to the free-energy perturbation method the free energy difference for going from state a to state b is obtained from the following equation known as the zwanzig equation:
+where t is the temperature kb is boltzmann's constant and the triangular brackets denote an average over a simulation run for state a in practice one runs a normal simulation for state a but each time a new configuration is accepted the energy for state b is also computed the difference between states a and b may be in the atom types involved in which case the f obtained is for "mutating" one molecule onto another or it may be a difference of geometry in which case one obtains a free energy map along one or more reaction coordinates this free energy map is also known as a potential of mean force or pmf free energy perturbation calculations only converge properly when the difference between the two states is small enough; therefore it is usually necessary to divide a perturbation into a series of smaller "windows" which are computed independently since there is no need for constant communication between the simulation for one window and the next the process can be trivially parallelized by running each window in a different cpu in what is known as an "embarrassingly parallel" setup
+fep calculations have been used for studying host-guest binding energetics pka predictions solvent effects on reactions and enzymatic reactions for the study of reactions it is often necessary to involve a quantum-mechanical representation of the reaction center because the molecular mechanics force fields used for fep simulations can't handle breaking bonds a hybrid method that has the advantages of both qm and mm calculations is called qm/mm
+umbrella sampling is another free-energy calculation technique that is typically used for calculating the free-energy change associated with a change in "position" coordinates as opposed to "chemical" coordinates although umbrella sampling can also be used for a chemical transformation when the "chemical" coordinate is treated as a dynamic variable (as in the case of the lambda dynamics approach of kong and brooks) an alternative to free energy perturbation for computing potentials of mean force in chemical space is thermodynamic integration another alternative which is probably more efficient is the bennett acceptance ratio method
+== software ==
+several software packages have been developed to help perform fep calculations below is a short list of some of the most common programs:
+amber
+boss
+charmm
+desmond
+gromacs
+macromodel
+molaris
+namd
+tinker
+q
+== see also ==
+thermodynamic integration
+umbrella sampling
+== references ==
+^ zwanzig r w j chem phys 1954 22 1420-1426 doi:10.1063/1.1740409
+^ http://www.ambermd.org
+^ http://laetro.usc.edu/software.html

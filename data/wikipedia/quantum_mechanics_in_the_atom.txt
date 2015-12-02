@@ -1,0 +1,163 @@
+in classical mechanics the laplacerungelenz vector (or simply the lrl vector) is a vector used chiefly to describe the shape and orientation of the orbit of one astronomical body around another such as a planet revolving around a star for two bodies interacting by newtonian gravity the lrl vector is a constant of motion meaning that it is the same no matter where it is calculated on the orbit; equivalently the lrl vector is said to be conserved more generally the lrl vector is conserved in all problems in which two bodies interact by a central force that varies as the inverse square of the distance between them; such problems are called kepler problems
+the hydrogen atom is a kepler problem since it comprises two charged particles interacting by coulomb's law of electrostatics another inverse square central force the lrl vector was essential in the first quantum mechanical derivation of the spectrum of the hydrogen atom before the development of the schrdinger equation however this approach is rarely used today
+in classical and quantum mechanics conserved quantities generally correspond to a symmetry of the system the conservation of the lrl vector corresponds to an unusual symmetry; the kepler problem is mathematically equivalent to a particle moving freely on the surface of a four-dimensional (hyper-)sphere so that the whole problem is symmetric under certain rotations of the four-dimensional space this higher symmetry results from two properties of the kepler problem: the velocity vector always moves in a perfect circle and for a given total energy all such velocity circles intersect each other in the same two points
+the laplacerungelenz vector is named after pierre-simon de laplace carl runge and wilhelm lenz it is also known as the laplace vector the rungelenz vector and the lenz vector ironically none of those scientists discovered it the lrl vector has been re-discovered several times and is also equivalent to the dimensionless eccentricity vector of celestial mechanics various generalizations of the lrl vector have been defined which incorporate the effects of special relativity electromagnetic fields and even different types of central forces
+== context ==
+a single particle moving under any conservative central force has at least four constants of motion the total energy e and the three cartesian components of the angular momentum vector l with respect to the origin the particle's orbit is confined to a plane defined by the particle's initial momentum p (or equivalently its velocity v) and the vector r between the particle and the center of force (see figure 1 below)
+as defined below (see mathematical definition) the laplacerungelenz vector (lrl vector) a always lies in the plane of motion for any central force however a is constant only for an inverse-square central force for most central forces however this vector a is not constant but changes in both length and direction; if the central force is approximately an inverse-square law the vector a is approximately constant in length but slowly rotates its direction a generalized conserved lrl vector can be defined for all central forces but this generalized vector is a complicated function of position and usually not expressible in closed form
+the plane of motion is perpendicular to the angular momentum vector l which is constant; this may be expressed mathematically by the vector dot product equation rl = 0; likewise since a lies in that plane al = 0
+the lrl vector differs from other conserved quantities in the following property whereas for typical conserved quantities there is a corresponding cyclic coordinate in the three-dimensional lagrangian of the system there does not exist such a coordinate for the lrl vector thus the conservation of the lrl vector must be derived directly e.g. by the method of poisson brackets as described below conserved quantities of this kind are called "dynamic" in contrast to the usual "geometric" conservation laws e.g. that of the angular momentum
+== history of rediscovery ==
+the lrl vector a is a constant of motion of the important kepler problem and is useful in describing astronomical orbits such as the motion of the planets nevertheless it has never been well known among physicists possibly because it is less intuitive than momentum and angular momentum consequently it has been rediscovered independently several times over the last three centuries
+jakob hermann was the first to show that a is conserved for a special case of the inverse-square central force and worked out its connection to the eccentricity of the orbital ellipse hermann's work was generalized to its modern form by johann bernoulli in 1710 at the end of the century pierre-simon de laplace rediscovered the conservation of a deriving it analytically rather than geometrically in the middle of the nineteenth century william rowan hamilton derived the equivalent eccentricity vector defined below using it to show that the momentum vector p moves on a circle for motion under an inverse-square central force (figure 3)
+at the beginning of the twentieth century josiah willard gibbs derived the same vector by vector analysis gibbs' derivation was used as an example by carle runge in a popular german textbook on vectors which was referenced by wilhelm lenz in his paper on the (old) quantum mechanical treatment of the hydrogen atom in 1926 the vector was used by wolfgang pauli to derive the spectrum of hydrogen using modern quantum mechanics but not the schrdinger equation; after pauli's publication it became known mainly as the rungelenz vector
+== mathematical definition ==
+for a single particle acted on by an inverse-square central force described by the equation  the lrl vector a is defined mathematically by the formula
+where
+m is the mass of the point particle moving under the central force
+p is its momentum vector
+l = r p is its angular momentum vector
+k is a parameter that describes strength of the central force
+r is the position vector of the particle (figure 1) and
+is the corresponding unit vector i.e. where r is the magnitude of r
+since the assumed force is conservative the total energy e is a constant of motion
+furthermore the assumed force is a central force and thus the angular momentum vector l is also conserved and defines the plane in which the particle travels the lrl vector a is perpendicular to the angular momentum vector l because both p l and r are perpendicular to l it follows that a lies in the plane of the orbit
+this definition of the lrl vector a pertains to a single point particle of mass m moving under the action of a fixed force however the same definition may be extended to two-body problems such as kepler's problem by taking m as the reduced mass of the two bodies and r as the vector between the two bodies
+a variety of alternative formulations for the same constant of motion may also be used the most common is to scale by mk to define the eccentricity vector
+== derivation of the kepler orbits ==
+the shape and orientation of the kepler problem orbits can be determined from the lrl vector as follows taking the dot product of a with the position vector r gives the equation
+where is the angle between r and a (figure 2) permuting the scalar triple product
+and rearranging yields the defining formula for a conic section provided that a is a constant which is the case for the inverse square force law
+of eccentricity e
+and latus rectum
+the major semiaxis a of the conic section may be defined using the latus rectum and the eccentricity
+where the minus sign pertains to ellipses and the plus sign to hyperbolae
+taking the dot product of a with itself yields an equation involving the energy e
+which may be rewritten in terms of the eccentricity
+thus if the energy e is negative (bound orbits) the eccentricity is less than one and the orbit is an ellipse conversely if the energy is positive (unbound orbits also called "scattered orbits") the eccentricity is greater than one and the orbit is a hyperbola finally if the energy is exactly zero the eccentricity is one and the orbit is a parabola in all cases the direction of a lies along the symmetry axis of the conic section and points from the center of force toward the periapsis the point of closest approach
+== circular momentum hodographs ==
+the conservation of the lrl vector a and angular momentum vector l is useful in showing that the momentum vector p moves on a circle under an inverse-square central force
+taking the dot product of
+with itself yields
+further choosing l along the z-axis and the major semiaxis as the x-axis yields the locus equation for p
+in other words the momentum vector p is confined to a circle of radius mk/l = l/ centered on (0 a/l) the eccentricity e corresponds to the cosine of the angle shown in figure 3
+in the degenerate limit of circular orbits and thus vanishing a the circle centers at the origin (0,0) for brevity it is also useful to introduce the variable  this circular hodograph is useful in illustrating the symmetry of the kepler problem
+== constants of motion and superintegrability ==
+the seven scalar quantities e a and l (being vectors the latter two contribute three conserved quantities each) are related by two equations a l = 0 and a2 = m2k2+ 2 mel2 giving five independent constants of motion (since the magnitude of a hence the eccentricity e of the orbit can be determined from the total angular momentum l and the energy e only the direction of a is conserved independently; moreover since a must be perpendicular to l it contributes only one additional conserved quantity.)
+this is consistent with the six initial conditions (the particle's initial position and velocity vectors each with three components) that specify the orbit of the particle since the initial time is not determined by a constant of motion the resulting 1-dimensional orbit in 6-dimensional phase space is thus completely specified
+a mechanical system with d degrees of freedom can have at most 2d 1 constants of motion since there are 2d initial conditions and the initial time cannot be determined by a constant of motion a system with more than d constants of motion is called superintegrable and a system with 2d 1 constants is called maximally superintegrable since the solution of the hamiltonjacobi equation in one coordinate system can yield only d constants of motion superintegrable systems must be separable in more than one coordinate system the kepler problem is maximally superintegrable since it has three degrees of freedom (d=3) and five independent constant of motion; its hamiltonjacobi equation is separable in both spherical coordinates and parabolic coordinates as described below
+maximally superintegrable systems follow closed one-dimensional orbits in phase space since the orbit is the intersection of the phase-space isosurfaces of their constants of motion consequently the orbits are perpendicular to all gradients of all these independent isosurfaces five in this specific problem and hence are determined by the generalized cross products of all of these gradients as a result all superintegrable systems are automatically describable by nambu mechanics alternatively and equivalently to hamiltonian mechanics
+maximally superintegrable systems can be quantized using commutation relations as illustrated below nevertheless equivalently they are also quantized in the nambu framework such as this classical kepler problem into the quantum hydrogen atom
+== evolution under perturbed potentials ==
+the laplacerungelenz vector a is conserved only for a perfect inverse-square central force in most practical problems such as planetary motion however the interaction potential energy between two bodies is not exactly an inverse square law but may include an additional central force a so-called perturbation described by a potential energy h(r) in such cases the lrl vector rotates slowly in the plane of the orbit corresponding to a slow apsidal precession of the orbit
+by assumption the perturbing potential h(r) is a conservative central force which implies that the total energy e and angular momentum vector l are conserved thus the motion still lies in a plane perpendicular to l and the magnitude a is conserved from the equation a2 = m2k2 + 2mel2 the perturbation potential h(r) may be any sort of function but should be significantly weaker than the main inverse-square force between the two bodies
+the rate at which the lrl vector rotates provides information about the perturbing potential h(r) using canonical perturbation theory and action-angle coordinates it is straightforward to show that a rotates at a rate of
+where t is the orbital period and the identity l dt = m r2 d was used to convert the time integral into an angular integral (figure 5) the expression in angular brackets h(r) represents the perturbing potential but averaged over one full period; that is averaged over one full passage of the body around its orbit mathematically this time average corresponds to the following quantity in curly braces this averaging helps to suppress fluctuations in the rate of rotation
+this approach was used to help verify einstein's theory of general relativity which adds a small effective inverse-cubic perturbation to the normal newtonian gravitational potential
+inserting this function into the integral and using the equation
+to express r in terms of  the precession rate of the periapsis caused by this non-newtonian perturbation is calculated to be
+which closely matches the observed anomalous precession of mercury and binary pulsars this agreement with experiment is strong evidence for general relativity
+== poisson brackets ==
+the algebraic structure of the problem is as explained in later sections so(4)/2 ~ so(3) so(3) the three components li of the angular momentum vector l have the poisson brackets
+where i=1,2,3 and ijs is the fully antisymmetric tensor i.e. the levi-civita symbol; the summation index s is used here to avoid confusion with the force parameter k defined above the poisson brackets will be extended to quantum mechanical commutation relations in the next section and lie brackets in a following section
+as noted below a scaled laplacerungelenz vector d may be defined with the same units as angular momentum by dividing a by  the poisson brackets of d with the angular momentum vector l can then be written in a similar form
+the poisson brackets of d with itself depend on the sign of e i.e. on whether the total energy e is negative (producing closed elliptical orbits under an inverse-square central force) or positive (producing open hyperbolic orbits under an inverse-square central force) for negative energies i.e. for bound systems the poisson brackets are
+whereas for positive energy the poisson brackets have the opposite sign
+the casimir invariants for negative energies are
+and have vanishing poisson brackets with all components of d and l
+c2 is trivially zero since the two vectors are always perpendicular
+however the other invariant c1 is non-trivial and depends only on m k and e upon canonical quantization this invariant allows the energy levels of hydrogen-like atoms to be derived using only quantum mechanical canonical commutation relations instead of the conventional solution of the schrdinger equation
+== quantum mechanics of the hydrogen atom ==
+poisson brackets provide a simple guide for quantizing most classical systems: the commutation relation of two quantum mechanical operators is specified by the poisson bracket of the corresponding classical variables multiplied by i
+by carrying out this quantization and calculating the eigenvalues of the c1 casimir operator for the kepler problem wolfgang pauli was able to derive the energy levels of hydrogen-like atoms (figure 6) and thus their atomic emission spectrum this elegant 1926 derivation was obtained before the development of the schrdinger equation
+a subtlety of the quantum mechanical operator for the lrl vector a is that the momentum and angular momentum operators do not commute; hence the quantum operator cross product of p and l must be defined carefully typically the operators for the cartesian components as are defined using a symmetrized (hermitian) product
+from which the corresponding additional ladder operators for l can be defined
+these further connect different eigenstates of l2 so different spin multiplets among themselves
+a normalized first casimir invariant operator quantum analog of the above can likewise be defined
+where h1 is the inverse of the hamiltonian energy operator and i is the identity operator
+applying these ladder operators to the eigenstates |mn of the total angular momentum azimuthal angular momentum and energy operators the eigenvalues of the first casimir operator c1 are seen to be quantized n2 1 importantly by dint of the vanishing of c2 they are independent of the and m quantum numbers making the energy levels degenerate
+hence the energy levels are given by
+which coincides with the rydberg formula for hydrogen-like atoms (figure 6) the additional symmetry operators a have connected the different multiplets among themselves for a given energy (and c1) dictating n2 states at each level in effect they have enlarged the angular momentum group so(3) to so(4)/2 ~ so(3) so(3)
+== conservation and symmetry ==
+the conservation of the lrl vector corresponds to a subtle symmetry of the system in classical mechanics symmetries are continuous operations that map one orbit onto another without changing the energy of the system; in quantum mechanics symmetries are continuous operations that "mix" electronic orbitals of the same energy i.e. degenerate energy levels a conserved quantity is usually associated with such symmetries for example every central force is symmetric under the rotation group so(3) leading to the conservation of angular momentum l classically an overall rotation of the system does not affect the energy of an orbit; quantum mechanically rotations mix the spherical harmonics of the same quantum number l without changing the energy
+the symmetry for the inverse-square central force is higher and more subtle the peculiar symmetry of the kepler problem results in the conservation of both the angular momentum vector l and the lrl vector a (as defined above) and quantum mechanically ensures that the energy levels of hydrogen do not depend on the angular momentum quantum numbers l and m the symmetry is more subtle however because the symmetry operation must take place in a higher-dimensional space; such symmetries are often called "hidden symmetries"
+classically the higher symmetry of the kepler problem allows for continuous alterations of the orbits that preserve energy but not angular momentum; expressed another way orbits of the same energy but different angular momentum (eccentricity) can be transformed continuously into one another quantum mechanically this corresponds to mixing orbitals that differ in the l and m quantum numbers such as the s (l=0) and p (l=1) atomic orbitals such mixing cannot be done with ordinary three-dimensional translations or rotations but is equivalent to a rotation in a higher dimension
+for negative energies i.e. for bound systems the higher symmetry group is so(4) which preserves the length of four-dimensional vectors
+in 1935 vladimir fock showed that the quantum mechanical bound kepler problem is equivalent to the problem of a free particle confined to a three-dimensional unit sphere in four-dimensional space specifically fock showed that the schrdinger wavefunction in the momentum space for the kepler problem was the stereographic projection of the spherical harmonics on the sphere rotation of the sphere and reprojection results in a continuous mapping of the elliptical orbits without changing the energy; quantum mechanically this corresponds to a mixing of all orbitals of the same energy quantum number n valentine bargmann noted subsequently that the poisson brackets for the angular momentum vector l and the scaled lrl vector d formed the lie algebra for so(4) simply put the six quantities d and l correspond to the six conserved angular momenta in four dimensions associated with the six possible simple rotations in that space (there are six ways of choosing two axes from four) this conclusion does not imply that our universe is a three-dimensional sphere; it merely means that this particular physics problem (the two-body problem for inverse-square central forces) is mathematically equivalent to a free particle on a three-dimensional sphere
+for positive energies i.e. for unbound "scattered" systems the higher symmetry group is so(3,1) which preserves the minkowski length of 4-vectors
+both the negative- and positive-energy cases were considered by fock and bargmann and have been reviewed encyclopedically by bander and itzykson
+the orbits of central-force systems and those of the kepler problem in particular are also symmetric under reflection therefore the so(3) so(4) and so(3,1) groups cited above are not the full symmetry groups of their orbits; the full groups are o(3) o(4) and o(3,1) respectively nevertheless only the connected subgroups so(3) so(4) and so(3,1) are needed to demonstrate the conservation of the angular momentum and lrl vectors; the reflection symmetry is irrelevant for conservation which may be derived from the lie algebra of the group
+== rotational symmetry in four dimensions ==
+the connection between the kepler problem and four-dimensional rotational symmetry so(4) can be readily visualized let the four-dimensional cartesian coordinates be denoted (w x y z) where (x y z) represent the cartesian coordinates of the normal position vector r the three-dimensional momentum vector p is associated with a four-dimensional vector on a three-dimensional unit sphere
+where is the unit vector along the new w-axis the transformation mapping p to can be uniquely inverted; for example the x-component of the momentum equals
+and similarly for py and pz in other words the three-dimensional vector p is a stereographic projection of the four-dimensional vector scaled by p0 (figure 8)
+without loss of generality we may eliminate the normal rotational symmetry by choosing the cartesian coordinates such that the z-axis is aligned with the angular momentum vector l and the momentum hodographs are aligned as they are in figure 7 with the centers of the circles on the y-axis since the motion is planar and p and l are perpendicular pz = z = 0 and attention may be restricted to the three-dimensional vector = (w x y) the family of apollonian circles of momentum hodographs (figure 7) correspond to a family of great circles on the three-dimensional sphere all of which intersect the x-axis at the two foci x = 1 corresponding to the momentum hodograph foci at px = p0 these great circles are related by a simple rotation about the x-axis (figure 8) this rotational symmetry transforms all the orbits of the same energy into one another; however such a rotation is orthogonal to the usual three-dimensional rotations since it transforms the fourth dimension w this higher symmetry is characteristic of the kepler problem and corresponds to the conservation of the lrl vector
+an elegant action-angle variables solution for the kepler problem can be obtained by eliminating the redundant four-dimensional coordinates in favor of elliptic cylindrical coordinates (  )
+where sn cn and dn are jacobi's elliptic functions
+== generalizations to other potentials and relativity ==
+the laplacerungelenz vector can also be generalized to identify conserved quantities that apply to other situations
+in the presence of a uniform electric field e the generalized laplacerungelenz vector is
+where q is the charge of the orbiting particle although is not conserved it gives rise to a conserved quantity namely 
+further generalizing the laplacerungelenz vector to other potentials and special relativity the most general form can be written as
+where u = 1/r (cf bertrand's theorem) and = cos  with the angle defined by
+and is the lorentz factor as before we may obtain a conserved binormal vector b by taking the cross product with the conserved angular momentum vector
+these two vectors may likewise be combined into a conserved dyadic tensor w
+in illustration the lrl vector for a non-relativistic isotropic harmonic oscillator can be calculated since the force is central
+the angular momentum vector is conserved and the motion lies in a plane
+the conserved dyadic tensor can be written in a simple form
+although it should be noted that p and r are not necessarily perpendicular
+the corresponding rungelenz vector is more complicated
+where is the natural oscillation frequency and 
+== proofs that the laplacerungelenz vector is conserved in kepler problems ==
+the following are arguments showing that the lrl vector is conserved under central forces that obey an inverse-square law
+=== direct proof of conservation ===
+a central force acting on the particle is
+for some function of the radius  since the angular momentum is conserved under central forces and
+where the momentum and where the triple cross product has been simplified using lagrange's formula
+the identity
+yields the equation
+for the special case of an inverse-square central force  this equals
+therefore a is conserved for inverse-square central forces
+a shorter proof is obtained by using the relation of angular momentum to angular velocity  which holds for a particle traveling in a plane perpendicular to  specifying to inverse-square central forces the time derivative of is
+where the last equality holds because a unit vector can only change by rotation and is the orbital velocity of the rotating vector thus a is seen to be a difference of two vectors with equal time derivatives
+as described below this lrl vector a is a special case of a general conserved vector that can be defined for all central forces however since most central forces do not produce closed orbits (see bertrand's theorem) the analogous vector rarely has a simple definition and is generally a multivalued function of the angle between r and 
+=== hamiltonjacobi equation in parabolic coordinates ===
+the constancy of the lrl vector can also be derived from the hamiltonjacobi equation in parabolic coordinates ( ) which are defined by the equations
+where r represents the radius in the plane of the orbit
+the inversion of these coordinates is
+separation of the hamiltonjacobi equation in these coordinates yields the two equivalent equations
+where is a constant of motion subtraction and re-expression in terms of the cartesian momenta px and py shows that is equivalent to the lrl vector
+=== noether's theorem ===
+the connection between the rotational symmetry described above and the conservation of the lrl vector can be made quantitative by way of noether's theorem this theorem which is used for finding constants of motion states that any infinitesimal variation of the generalized coordinates of a physical system
+that causes the lagrangian to vary to first order by a total time derivative
+corresponds to a conserved quantity
+in particular the conserved lrl vector component as corresponds to the variation in the coordinates
+where i equals 1 2 and 3 with xi and pi being the ith components of the position and momentum vectors r and p respectively; as usual is represents the kronecker delta the resulting first-order change in the lagrangian is
+substitution into the general formula for the conserved quantity yields the conserved component as of the lrl vector
+=== lie transformation ===
+the noether theorem derivation of the conservation of the lrl vector a is elegant but has one drawback: the coordinate variation xi involves not only the position r but also the momentum p or equivalently the velocity v this drawback may be eliminated by instead deriving the conservation of a using an approach pioneered by sophus lie specifically one may define a lie transformation in which the coordinates r and the time t are scaled by different powers of a parameter (figure 9)
+this transformation changes the total angular momentum l and energy e
+but preserves their product el2 therefore the eccentricity e and the magnitude a are preserved as may be seen from the equation for a2
+the direction of a is preserved as well since the semiaxes are not altered by a global scaling this transformation also preserves kepler's third law namely that the semiaxis a and the period t form a constant t2/a3
+== alternative scalings symbols and formulations ==
+unlike the momentum and angular momentum vectors p and l there is no universally accepted definition of the laplacerungelenz vector; several different scaling factors and symbols are used in the scientific literature the most common definition is given above but another common alternative is to divide by the constant mk to obtain a dimensionless conserved eccentricity vector
+where v is the velocity vector this scaled vector e has the same direction as a and its magnitude equals the eccentricity of the orbit other scaled versions are also possible e.g. by dividing a by m alone
+or by p0
+which has the same units as the angular momentum vector l in rare cases the sign of the lrl vector may be reversed i.e. scaled by 1 other common symbols for the lrl vector include a r f j and v however the choice of scaling and symbol for the lrl vector do not affect its conservation
+an alternative conserved vector is the binormal vector b studied by william rowan hamilton
+which is conserved and points along the minor semiaxis of the ellipse; the lrl vector a = b l is the cross product of b and l (figure 4)
+the vector b is denoted as "binormal" since it is perpendicular to both a and l similar to the lrl vector itself the binormal vector can be defined with different scalings and symbols
+the two conserved vectors a and b can be combined to form a conserved dyadic tensor w
+where and are arbitrary scaling constants and represents the tensor product (which is not related to the vector cross product despite their similar symbol) written in explicit components this equation reads
+being perpendicular to each another the vectors a and b can be viewed as the principal axes of the conserved tensor w i.e. its scaled eigenvectors w is perpendicular to l
+since a and b are both perpendicular to l as well l a = l b = 0 for clarification this equation reads in explicit components
+== see also ==
+astrodynamics: orbit eccentricity vector orbital elements
+bertrand's theorem
+binet equation
+two-body problem
+== references ==
+== further reading ==
+baez john "mysteries of the gravitational 2-body problem"
+deliseo mm (2007) "the first-order orbital equation" american journal of physics 75: 352355 bibcode:2007amjph..75..352d doi:10.1119/1.2432126
+leach p.g.l.; g.p flessas (2003) "generalisations of the laplacerungelenz vector" j nonlinear math phys 10: 340423 arxiv:math-ph/0403028 bibcode:2003jnmp...10..340l doi:10.2991/jnmp.2003.10.3.6

@@ -1,0 +1,58 @@
+this article outlines the historical development of the laws describing ideal gases for a detailed description of the ideal gas laws and their further development see ideal gas law
+the gas laws were developed at the end of the 18th century when scientists began to realize that relationships between the pressure volume and temperature of a sample of gas could be obtained which would hold to a good approximation for all gases gases behave in a similar way over a wide variety of conditions because they all have molecules which are widely spaced and the equation of state for an ideal gas is derived from kinetic theory the earlier gas laws are now considered as special cases of the ideal gas equation with one or more of the variables held constant
+== boyle's law ==
+boyle's law published in 1662 states that at constant temperature the product of the pressure and volume of a given mass of an ideal gas in a closed system is always constant it can be verified experimentally using a pressure gauge and a variable volume container it can also be derived from the kinetic theory of gases: if a container with a fixed number of molecules inside is reduced in volume more molecules will strike a given area of the sides of the container per unit time causing a greater pressure
+as a mathematical equation boyle's law is written as either:
+ or
+ or
+where p is the pressure and v is the volume of a gas and k1 is the constant in this equation (and is not the same as the proportionality constants in the other equations below) the statement of boyle 's law is as follows:
+the volume of a given mass of a gas is inversely related to the pressure exerted on it at a given temperature and given number of moles
+== charles' law ==
+charles' law or the law of volumes was found in 1787 by jacques charles it states that for a given mass of an ideal gas at constant pressure the volume is directly proportional to its absolute temperature assuming in a closed system
+as a mathematical equation charles' law is written as either:
+ or
+ or
+where v is the volume of a gas t is the absolute temperature and k2 is a proportionality constant (which is not the same as the proportionality constants in the other equations in this article)
+== gay-lussac's law ==
+gay-lussac's law or the pressure law was found by joseph louis gay-lussac in 1809 it states that for a given mass and constant volume of an ideal gas the pressure exerted on the sides of its container is directly proportional to its absolute temperature
+as a mathematical equation gay-lussac's law is written as either:
+ or
+ or
+where p is the pressure t is the absolute temperature and k3 is another proportionality constant
+== avogadro's law ==
+avogadro's law states that the volume occupied by an ideal gas is directly proportional to the number of molecules of the gas present in the container this gives rise to the molar volume of a gas which at stp is 22.4 dm3 (or litres) the relation is given by
+where n is equal to the number of molecules of gas (or the number of moles of gas)
+== combined and ideal gas laws ==
+the combined gas law or general gas equation is obtained by combining the three preceding gas laws and shows the relationship between the pressure volume and temperature for a fixed mass (quantity) of gas:
+this can also be written as:
+with the addition of avogadro's law the combined gas law develops into the ideal gas law:
+where
+p is pressure
+v is volume
+n is the number of moles
+r is the universal gas constant
+t is temperature (k)
+where the proportionality constant now named r is the universal gas constant with a value of 0.08206 (atml)/(molk) an equivalent formulation of this law is:
+where
+p is the pressure
+v is the volume
+n is the number of gas molecules
+k is the boltzmann constant (1.3811023 jk1 in si units)
+t is the absolute temperature
+these equations are exact only for an ideal gas which neglects various intermolecular effects (see real gas) however the ideal gas law is a good approximation for most gases under moderate pressure and temperature
+this law has the following important consequences:
+if temperature and pressure are kept constant then the volume of the gas is directly proportional to the number of molecules of gas
+if the temperature and volume remain constant then the pressure of the gas changes is directly proportional to the number of molecules of gas present
+if the number of gas molecules and the temperature remain constant then the pressure is inversely proportional to the volume
+if the temperature changes and the number of gas molecules are kept constant then either pressure or volume (or both) will change in direct proportion to the temperature
+== other gas laws ==
+graham's law states that the rate at which gas molecules diffuse is inversely proportional to the square root of its density combined with avogadro's law (i.e since equal volumes have equal number of molecules) this is the same as being inversely proportional to the root of the molecular weight
+dalton's law of partial pressures states that the pressure of a mixture of gases simply is the sum of the partial pressures of the individual components dalton's law is as follows:
+or
+where ptotal is the total pressure of the atmosphere pgas is the pressure of the gas mixture in the atmosphere and ph2o is the water pressure at that temperature
+henry's law states that:
+at constant temperature the amount of a given gas dissolved in a given type and volume of liquid is directly proportional to the partial pressure of that gas in equilibrium with that liquid
+== references ==
+castka joseph f.; metcalfe h clark; davis raymond e.; williams john e (2002) modern chemistry holt rinehart and winston isbn 0-03-056537-5
+guch ian (2003) the complete idiot's guide to chemistry alpha penguin group inc isbn 1-59257-101-8
+zumdahl steven s (1998) chemical principles houghton mifflin company isbn 0-395-83995-5

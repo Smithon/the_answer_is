@@ -1,0 +1,49 @@
+in physics a standing wave also known as a stationary wave is a wave in a medium in which each point on the axis of the wave has an associated constant amplitude the locations at which the amplitude is minimum are called nodes and the locations where the amplitude is maximum are called antinodes
+this phenomenon can occur because the medium is moving in the opposite direction to the wave or it can arise in a stationary medium as a result of interference between two waves traveling in opposite directions the most common cause of standing waves is the phenomenon of resonance in which standing waves occur inside a resonator due to interference between waves reflected back and forth at the resonator's resonant frequency
+for waves of equal amplitude traveling in opposing directions there is on average no net propagation of energy
+== moving mediumedit ==
+as an example of the first type under certain meteorological conditions standing waves form in the atmosphere in the lee of mountain ranges such waves are often exploited by glider pilots
+standing waves and hydraulic jumps also form on fast flowing river rapids and tidal currents such as the saltstraumen maelstrom many standing river waves are popular river surfing breaks
+== opposing wavesedit ==
+as an example of the second type a standing wave in a transmission line is a wave in which the distribution of current voltage or field strength is formed by the superposition of two waves of the same frequency propagating in opposite directions the effect is a series of nodes (zero displacement) and anti-nodes (maximum displacement) at fixed points along the transmission line such a standing wave may be formed when a wave is transmitted into one end of a transmission line and is reflected from the other end by an impedance mismatch i.e. discontinuity such as an open circuit or a short the failure of the line to transfer power at the standing wave frequency will usually result in attenuation distortion
+in practice losses in the transmission line and other components mean that a perfect reflection and a pure standing wave are never achieved the result is a partial standing wave which is a superposition of a standing wave and a traveling wave the degree to which the wave resembles either a pure standing wave or a pure traveling wave is measured by the standing wave ratio (swr)
+another example is standing waves in the open ocean formed by waves with the same wave period moving in opposite directions these may form near storm centres or from reflection of a swell at the shore and are the source of microbaroms and microseisms
+=== mathematical descriptionedit ===
+in one dimension two waves with the same frequency wavelength and amplitude traveling in opposite directions will interfere and produce a standing wave or stationary wave for example: a wave traveling to the right along a taut string and hitting the end will reflect back in the other direction along the string and the two waves will superpose to produce a standing wave the reflective wave has to have the same amplitude and frequency as the incoming wave
+if the string is held at both ends forcing zero movement at the ends the ends become zeroes or nodes of the wave the length of the string then becomes a measure of which waves the string will entertain: the longest wavelength is called the fundamental half a wavelength of the fundamental fits on the string shorter wavelengths also can be supported as long as multiples of half a wavelength fit on the string the frequencies of these waves all are multiples of the fundamental and are called harmonics or overtones for example a guitar player can select an overtone by putting a finger on a string to force a node at the proper position between the ends of the string suppressing all harmonics that do not share this node
+harmonic waves travelling in opposite directions can be represented by the equations below:
+and
+where:
+y0 is the amplitude of the wave
+(called angular frequency measured in radians per second) is 2 times the frequency (in hertz)
+k (called the wave number and measured in radians per metre) is 2 divided by the wavelength (in metres) and
+x and t are variables for longitudinal position and time respectively
+so the resultant wave y equation will be the sum of y1 and y2:
+using the trigonometric sum-to-product identity for 'sin(u) + sin(v)' to simplify:
+this describes a wave that oscillates in time but has a spatial dependence that is stationary: sin(kx) at locations x = 0 /2  3/2  called the nodes the amplitude is always zero whereas at locations x = /4 3/4 5/4  called the anti-nodes the amplitude is maximum the distance between two conjugative nodes or anti-nodes is /2
+standing waves can also occur in two- or three-dimensional resonators with standing waves on two-dimensional membranes such as drumheads illustrated in the animations above the nodes become nodal lines lines on the surface at which there is no movement that separate regions vibrating with opposite phase these nodal line patterns are called chladni figures in three-dimensional resonators such as musical instrument sound boxes and microwave cavity resonators there are nodal surfaces
+== examplesedit ==
+one easy example to understand standing waves is two people shaking either end of a jump rope if they shake in sync the rope can form a regular pattern of waves oscillating up and down with stationary points along the rope where the rope is almost still (nodes) and points where the arc of the rope is maximum (antinodes)
+=== sound wavesedit ===
+standing waves are also observed in physical media such as strings and columns of air any waves traveling along the medium will reflect back when they reach the end this effect is most noticeable in musical instruments where at various multiples of a vibrating string or air column's natural frequency a standing wave is created allowing harmonics to be identified nodes occur at fixed ends and anti-nodes at open ends if fixed at only one end only odd-numbered harmonics are available at the open end of a pipe the anti-node will not be exactly at the end as it is altered by its contact with the air and so end correction is used to place it exactly the density of a string will affect the frequency at which harmonics will be produced; the greater the density the lower the frequency needs to be to produce a standing wave of the same harmonic
+=== lightedit ===
+standing waves are also observed in optical media such as optical wave guides optical cavities etc lasers use optical cavities in the form of a pair of facing mirrors the gain medium in the cavity (such as a crystal) emits light coherently exciting standing waves of light in the cavity the wavelength of light is very short (in the range of nanometers 109 m) so the standing waves are microscopic in size one use for standing light waves is to measure small distances using optical flats
+=== mechanical wavesedit ===
+standing waves can be mechanically induced into solid medium using resonance one easy to understand example is two people shaking either end of a jump rope if they shake in sync the rope will form a regular pattern with nodes and antinodes and appear to be stationary hence the name standing wave similarly a cantilever beam can have a standing wave imposed on it by applying a base excitation in this case the free end moves the greatest distance laterally compared to any location along the beam such a device can be used as a sensor to track changes in frequency or phase of the resonance of the fiber one application is as a measurement device for dimensional metrology
+=== seismic wavesedit ===
+standing surface waves on the earth are observed as free oscillations of the earth
+=== faraday wavesedit ===
+the faraday wave is a non-linear standing wave at the air-liquid interface induced by hydrodynamic instability it can be used as a liquid-based template to assemble microscale materials
+== see alsoedit ==
+index of wave articles:
+amphidromic point clapotis longitudinal mode modelocking metachronal rhythm resonant room modes seiche trumpet voltage standing wave ratio wave kundt's tube
+list of electronics topics:
+cavity resonator characteristic impedance cymatics impedance normal mode
+== references and notesedit ==
+== external linksedit ==
+simulation of standing waves in a room using webgl
+java applet of standing waves on a vibrating string
+java applet of transverse standing wave
+java applet showing the production of standing wave on a string by adjusting frequency
+standing wave lessons - includes helpful graphics flash animations youtube videos
+web application for drawing standing wave diagrams including the reflection coefficient input impedance swr etc

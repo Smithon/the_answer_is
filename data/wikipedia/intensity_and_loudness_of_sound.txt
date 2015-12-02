@@ -1,0 +1,34 @@
+loudness is the characteristic of a sound that is primarily a psychological correlate of physical strength (amplitude) more formally it is defined as "that attribute of auditory sensation in terms of which sounds can be ordered on a scale extending from quiet to loud"
+loudness a subjective measure is often confused with objective measures of sound strength such as sound pressure sound pressure level (in decibels) sound intensity or sound power filters such as a-weighting attempt to adjust sound measurements to correspond to loudness as perceived by the typical human however loudness perception is a much more complex process than a-weighting
+loudness is also affected by parameters other than sound pressure including frequency bandwidth and duration
+== explanation ==
+the perception of loudness is related to both the sound pressure level (spl) and duration of a sound the human auditory system averages the effects of spl over a 6001000 ms interval a sound of constant spl will be perceived to increase in loudness as samples of duration 20 50 100 200 ms are heard up to a duration of about 1 second at which point the perception of loudness will stabilize for sounds of duration greater than 1 second the moment-by-moment perception of loudness will be related to the average loudness during the preceding 6001000 ms
+for sounds having a duration longer than 1 second the relationship between spl and loudness can be approximated by a power function in which spl has an exponent of 0.6 while that between spl and intensity can be approximated by a power function with an exponent of 0.3 (stevens' power law) more precise measurements indicate that loudness increases with a higher exponent at low and high levels and with a lower exponent at moderate levels
+units used to measure loudness:
+sone (loudness n)
+phon (loudness level l)
+the sensitivity of the human ear changes as a function of frequency as shown in the equal-loudness graph each line on this graph shows the spl required for frequencies to be perceived as equally loud it also shows that humans with good hearing are most sensitive to sounds around 24 khz with sensitivity declining to either side of this region a complete model of the perception of loudness will include the integration of spl by frequency and the duration of each
+== hearing loss ==
+when sensorineural hearing loss (damage to the cochlea or in the brain) is present the perception of loudness is altered sounds at low levels (often perceived by those without hearing loss as relatively quiet) are no longer audible to the hearing impaired but interestingly sounds at high levels often are perceived as having the same loudness as they would for an unimpaired listener this phenomenon can be explained by two theories: loudness grows more rapidly for these listeners than normal listeners with changes in level this theory is called "loudness recruitment" and has been accepted as the classical explanation more recently it has been proposed that some listeners with sensorineural hearing loss may in fact exhibit a normal rate of loudness growth but instead have an elevated loudness at their threshold that is the softest sound that is audible to these listeners is louder than the softest sound audible to normal listeners this theory is called "softness imperception" a term coined by mary florentine
+== compensation ==
+the "loudness" control on some consumer stereos alters the frequency response curve to correspond roughly with the equal loudness characteristic of the ear loudness compensation is intended to make the recorded music sound more natural when played at a lower sound pressure level
+== normalization ==
+loudness normalization equalizes perceived level such that for instance commercials do not sound louder than television programs loudness normalisation schemes exist for a number of audio applications
+=== broadcast ===
+commercial advertisement loudness mitigation act
+european broadcasting union r128
+=== movie and home theaters ===
+dialnorm
+=== music playback ===
+sound check in itunes
+replaygain
+== measurement ==
+relative loudness monitoring in production is measured in accordance with itu-r bs.1770 in units of lkfs
+== see also ==
+loudness war
+sending loudness rating
+volume in acoustics is related to:
+amplitude
+sound pressure
+dynamics
+== references ==

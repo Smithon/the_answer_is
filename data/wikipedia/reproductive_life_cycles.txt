@@ -1,0 +1,96 @@
+electrostatics is a branch of physics that deals with the phenomena and properties of stationary or slow-moving electric charges with no acceleration
+since classical physics it has been known that some materials such as amber attract lightweight particles after rubbing the greek word for amber electron was the source of the word 'electricity' electrostatic phenomena arise from the forces that electric charges exert on each other such forces are described by coulomb's law even though electrostatically induced forces seem to be rather weak the electrostatic force between e.g an electron and a proton that together make up a hydrogen atom is about 36 orders of magnitude stronger than the gravitational force acting between them
+there are many examples of electrostatic phenomena from those as simple as the attraction of the plastic wrap to your hand after you remove it from a package and the attraction of paper to a charged scale to the apparently spontaneous explosion of grain silos the damage of electronic components during manufacturing and the operation of photocopiers electrostatics involves the buildup of charge on the surface of objects due to contact with other surfaces although charge exchange happens whenever any two surfaces contact and separate the effects of charge exchange are usually only noticed when at least one of the surfaces has a high resistance to electrical flow this is because the charges that transfer to or from the highly resistive surface are more or less trapped there for a long enough time for their effects to be observed these charges then remain on the object until they either bleed off to ground or are quickly neutralized by a discharge: e.g. the familiar phenomenon of a static 'shock' is caused by the neutralization of charge built up in the body from contact with insulated surfaces
+== coulomb's lawedit ==
+we begin with the magnitude of the electrostatic force (in newtons) between two point charges and (in coulombs) it is convenient to label one of these charges  as a test charge and call a source charge as we develop the theory more source charges will be added if is the distance (in meters) between two charges then the force is:
+where 0 is the vacuum permittivity or permittivity of free space:
+the si units of 0 are equivalently a2s4 kg1m3 or c2n1m2 or f m1 coulomb's constant is:
+the use of 0 instead of k0 in expressing coulomb's law is related to the fact that the force is inversely proportional to the surface area of a sphere with radius equal to the separation between the two charges
+a single proton has a charge of e and the electron has a charge of e where
+these physical constants (0 k0 e) are currently defined so that 0 and k0 are exactly defined and e is a measured quantity
+== electric fieldedit ==
+electric field lines are useful for visualizing the electric field field lines begin on positive charge and terminate on negative charge electric field lines are parallel to the direction of the electric field and the density of these field lines is a measure of the magnitude of the electric field at any given point the electric field  (in units of volts per meter) is a vector field that can be defined everywhere except at the location of point charges (where it diverges to infinity) it is convenient to place a hypothetical test charge at a point (where no charges are present) by coulomb's law this test charge will experience a force that can be used to define the electric field as follow
+(see the lorentz equation if the charge is not stationary.)
+consider a collection of particles of charge  located at points (called source points) the electric field at (called the field point) is:
+where is the displacement vector from a source point to the field point  and is a unit vector that indicates the direction of the field for a single point charge at the origin the magnitude of this electric field is and points away from that charge is positive that fact that the force (and hence the field) can be calculated by summing over all the contributions due to individual source particles is an example of the superposition principle the electric field produced by a distribution of charges is given by the volume charge density and can be obtained by converting this sum into a triple integral:
+=== gauss's lawedit ===
+gauss's law states that " the total electric flux through any closed surface in free space of any shape drawn in an electric field is proportional to the total electric charge enclosed by the surface." mathematically gauss's law takes the form of an integral equation:
+where is a volume element if the charge is distributed over a surface or along a line replace by or  the divergence theorem allows gauss's law to be written in differential form:
+where is the divergence operator
+=== poisson and laplace equationsedit ===
+the definition of electrostatic potential combined with the differential form of gauss's law (above) provides a relationship between the potential and the charge density :
+this relationship is a form of poisson's equation in the absence of unpaired electric charge the equation becomes laplace's equation:
+== electrostatic approximationedit ==
+the validity of the electrostatic approximation rests on the assumption that the electric field is irrotational:
+from faraday's law this assumption implies the absence or near-absence of time-varying magnetic fields:
+in other words electrostatics does not require the absence of magnetic fields or electric currents rather if magnetic fields or electric currents do exist they must not change with time or in the worst-case they must change with time only very slowly in some problems both electrostatics and magnetostatics may be required for accurate predictions but the coupling between the two can still be ignored
+=== electrostatic potentialedit ===
+because the electric field is irrotational it is possible to express the electric field as the gradient of a scalar function called the electrostatic potential (also known as the voltage) an electric field  points from regions of high electric potential to regions of low electric potential expressed mathematically as
+the gradient theorem can be used to establish that the electrostatic potential is the amount of work per unit charge required to move a charge from point to point is the following line integral:
+from these equations we see that the electric potential is constant in any region for which the electric field vanishes (such as occurs inside a conducting object)
+=== electrostatic energyedit ===
+a single test particle's potential energy  can be calculated from a line integral of the work  we integrate from a point at infinity and assume a collection of particles of charge  are already situated at the points  this potential energy (in joules) is:
+where is the distance of each charge from the test charge  which situated at the point  and is the electric potential that would be at if the test charge were not present if only two charges are present the potential energy is  the total electric potential energy due a collection of n charges is calculating by assembling these particles one at a time:
+where the following sum from j = 1 to n excludes i = j:
+this electric potential is what would be measured at if the charge were missing this formula obviously excludes the (infinite) energy that would be required to assemble each point charge from a disperse cloud of charge the sum over charges can be converted into an integral over charge density using the prescription :
+this second expression for electrostatic energy uses the fact that the electric field is the negative gradient of the electric potential as well as vector calculus identities in a way that resembles integration by parts these two integrals for electric field energy seem to indicate two mutually exclusive formulas for electrostatic energy density namely and ; they yield equal values for the total electrostatic energy only if both are integrated over all space
+=== electrostatic pressureedit ===
+on a conductor a surface charge will experience a force in the presence of an electric field this force is the average of the discontinuous electric field at the surface charge this average in terms of the field just outside the surface amounts to:
+this pressure tends to draw the conductor into the field regardless of the sign of the surface charge
+== triboelectric seriesedit ==
+the triboelectric effect is a type of contact electrification in which certain materials become electrically charged when they are brought into contact with a different material and then separated one of the materials acquires a positive charge and the other acquires an equal negative charge the polarity and strength of the charges produced differ according to the materials surface roughness temperature strain and other properties amber for example can acquire an electric charge by friction with a material like wool this property first recorded by thales of miletus was the first electrical phenomenon investigated by man other examples of materials that can acquire a significant charge when rubbed together include glass rubbed with silk and hard rubber rubbed with fur
+== electrostatic generatorsedit ==
+the presence of surface charge imbalance means that the objects will exhibit attractive or repulsive forces this surface charge imbalance which yields static electricity can be generated by touching two differing surfaces together and then separating them due to the phenomena of contact electrification and the triboelectric effect rubbing two nonconductive objects generates a great amount of static electricity this is not just the result of friction; two nonconductive surfaces can become charged by just being placed one on top of the other since most surfaces have a rough texture it takes longer to achieve charging through contact than through rubbing rubbing objects together increases amount of adhesive contact between the two surfaces usually insulators e.g. substances that do not conduct electricity are good at both generating and holding a surface charge some examples of these substances are rubber plastic glass and pith conductive objects only rarely generate charge imbalance except for example when a metal surface is impacted by solid or liquid nonconductors the charge that is transferred during contact electrification is stored on the surface of each object static electric generators devices which produce very high voltage at very low current and used for classroom physics demonstrations rely on this effect
+note that the presence of electric current does not detract from the electrostatic forces nor from the sparking from the corona discharge or other phenomena both phenomena can exist simultaneously in the same system
+see also: friction machines wimshurst machines and van de graaff generators
+== charge neutralizationedit ==
+natural electrostatic phenomena are most familiar as an occasional annoyance in seasons of low humidity but can be destructive and harmful in some situations (e.g electronics manufacturing) when working in direct contact with integrated circuit electronics (especially delicate mosfets) or in the presence of flammable gas care must be taken to avoid accumulating and suddenly discharging a static charge (see electrostatic discharge)
+== charge inductionedit ==
+charge induction occurs when a negatively charged object repels (the negatively charged) electrons from the surface of a second object this creates a region in the second object that is more positively charged an attractive force is then exerted between the objects for example when a balloon is rubbed the balloon will stick to the wall as an attractive force is exerted by two oppositely charged surfaces (the surface of the wall gains an electric charge due to charge induction as the free electrons at the surface of the wall are repelled by the negative balloon creating a positive wall surface which is subsequently attracted to the surface of the balloon) you can explore the effect with a simulation of the balloon and static electricity
+== 'static' electricityedit ==
+before the year 1832 when michael faraday published the results of his experiment on the identity of electricities physicists thought "static electricity" was somehow different from other electrical charges michael faraday proved that the electricity induced from the magnet voltaic electricity produced by a battery and static electricity are all the same
+static electricity is usually caused when certain materials are rubbed against each other like wool on plastic or the soles of shoes on carpet the process causes electrons to be pulled from the surface of one material and relocated on the surface of the other material
+a static shock occurs when the surface of the second material negatively charged with electrons touches a positively charged conductor or vice versa
+static electricity is commonly used in xerography air filters and some automotive paints static electricity is a buildup of electric charges on two objects that have become separated from each other small electrical components can easily be damaged by static electricity component manufacturers use a number of antistatic devices to avoid this
+=== static electricity and chemical industryedit ===
+when different materials are brought together and then separated an accumulation of electric charge can occur which leaves one material positively charged while the other becomes negatively charged the mild shock that you receive when touching a grounded object after walking on carpet is an example of excess electrical charge accumulating in your body from frictional charging between your shoes and the carpet the resulting charge build-up upon your body can generate a strong electrical discharge although experimenting with static electricity may be fun similar sparks create severe hazards in those industries dealing with flammable substances where a small electrical spark may ignite explosive mixtures with devastating consequences
+a similar charging mechanism can occur within low conductivity fluids flowing through pipelinesa process called flow electrification fluids which have low electrical conductivity (below 50 picosiemens per meter) are called accumulators fluids having conductivities above 50 ps/m are called non-accumulators in non-accumulators charges recombine as fast as they are separated and hence electrostatic charge generation is not significant in the petrochemical industry 50 ps/m is the recommended minimum value of electrical conductivity for adequate removal of charge from a fluid
+an important concept for insulating fluids is the static relaxation time this is similar to the time constant (tau) within an rc circuit for insulating materials it is the ratio of the static dielectric constant divided by the electrical conductivity of the material for hydrocarbon fluids this is sometimes approximated by dividing the number 18 by the electrical conductivity of the fluid thus a fluid that has an electrical conductivity of 1 ps/cm (100 ps/m) will have an estimated relaxation time of about 18 seconds the excess charge within a fluid will be almost completely dissipated after 4 to 5 times the relaxation time or 90 seconds for the fluid in the above example
+charge generation increases at higher fluid velocities and larger pipe diameters becoming quite significant in pipes 8 inches (200 mm) or larger static charge generation in these systems is best controlled by limiting fluid velocity the british standard bs pd clc/tr 50404:2003 (formerly bs-5958-part 2) code of practice for control of undesirable static electricity prescribes velocity limits because of its large impact on dielectric constant the recommended velocity for hydrocarbon fluids containing water should be limited to 1 m/s
+bonding and earthing are the usual ways by which charge buildup can be prevented for fluids with electrical conductivity below 10 ps/m bonding and earthing are not adequate for charge dissipation and anti-static additives may be required
+==== applicable standardsedit ====
+1.bs pd clc/tr 50404:2003 code of practice for control of undesirable static electricity
+2.nfpa 77 (2007) recommended practice on static electricity
+3.api rp 2003 (1998) protection against ignitions arising out of static lightning and stray currents
+== electrostatic induction in commercial applicationsedit ==
+the principle of electrostatic induction has been harnessed to beneficial effect in industry for many years beginning with the introduction of electrostatic industrial painting systems for the economical and even application of enamel and polyurethane paints to consumer goods including automobiles bicycles and other products
+== see alsoedit ==
+electromagnetism
+permittivity and relative permittivity
+ionic bond
+electronegativity
+electrostatic discharge
+electrostatic separator
+electrostatic voltmeter
+== referencesedit ==
+faraday michael (1839) experimental researches in electricity london: royal inst
+e-book at project gutenberg
+halliday david; robert resnick; kenneth s krane (1992) physics new york: john wiley & sons isbn 0-471-80457-6
+griffiths david j (1999) introduction to electrodynamics upper saddle river nj: prentice hall isbn 0-13-805326-x
+hermann a haus and james r melcher (1989) electromagnetic fields and energy englewood cliffs nj: prentice-hall isbn 0-13-249020-x
+== further readingedit ==
+essays
+william j beaty "humans and sparks; the cause stopping the pain and 'electric people" 1997
+books
+william cecil dampier "the theory of experimental electricity" cambridge [eng.] university press 1905 (cambridge physical series) xi 334 p illus. diagrs 23 cm lccn 05040419 //r33
+william thomson kelvin reprint of papers on electrostatics and magnetism by william thomson kelvin macmillan 1872
+alexander macaulay utility of quaternions in physics electrostaticsgeneral problem macmillan 1893
+alexander russell a treatise on the theory of alternating currents electrostatics university press 1904
+== external linksedit ==
+man's static jacket sparks alert" bbc news 16 september 2005
+static electricity and plastics
+"can shocks from static electricity damage your health?" wolfson electrostatics news pages
+invisible wall of static:
+downloadable electrostatic bem modules in matlab for simple capacitance problems
+introduction to electrostatics: point charges can be treated as a distribution using the dirac delta function
+learning materials related to electrostatics at wikiversity

@@ -1,0 +1,109 @@
+in organic chemistry an alkene is an unsaturated hydrocarbon that contains at least one carboncarbon double bond alkene olefin and olefine are used often interchangeably (see nomenclature section below) acyclic alkenes with only one double bond and no other functional groups known as mono-enes form a homologous series of hydrocarbons with the general formula cnh2n alkenes have two hydrogen atoms less than the corresponding alkane (with the same number of carbon atoms) the simplest alkene ethylene (c2h4) which has the international union of pure and applied chemistry (iupac) name ethene is the organic compound produced on the largest scale industrially aromatic compounds are often drawn as cyclic alkenes but their structure and properties are different and they are not considered to be alkenes
+== structure ==
+=== bonding ===
+like a single covalent bond double bonds can be described in terms of overlapping atomic orbitals except that unlike a single bond (which consists of a single sigma bond) a carboncarbon double bond consists of one sigma bond and one pi bond this double bond is stronger than a single covalent bond (611 kj/mol for c=c vs 347 kj/mol for cc) and also shorter with an average bond length of 1.33 angstroms (133 pm)
+each carbon of the double bond uses its three sp hybrid orbitals to form sigma bonds to three atoms the unhybridized 2p atomic orbitals which lie perpendicular to the plane created by the axes of the three sp hybrid orbitals combine to form the pi bond this bond lies outside the main cc axis with half of the bond on one side and half on the other
+rotation about the carboncarbon double bond is restricted because it involves an energetic cost to break the alignment of the p orbitals on the two carbon atoms as a consequence substituted alkenes may exist as one of two isomers called cis or trans isomers more complex alkenes may be named using the e-z notation used to describe molecules having three or four different substituents (side groups) for example of the isomers of butene the two methyl groups of (z)-but-2-ene (a.k.a cis-2-butene) face the same side of the double bond and in (e)-but-2-ene (a.k.a trans-2-butene) the methyl groups face the opposite side these two isomers of butene are slightly different in their chemical and physical properties
+a 90 twist of the c=c bond as determined by the positions of the groups attached to the carbons requires less energy than the strength of a pi bond which means that that there is still some bonding present this contradicts the simple and common textbook explanation of bond twisting which usually says that this sort of molecular rotation would cause the p orbitals on the two carbons to be twisted 90 to each other and thus be unable to have a bonding effect instead the misalignment of the p orbitals is less than expected because pyramidalization takes place (see: pyramidal alkene) trans-cyclooctene is a stable strained alkene and the orbital misalignment is only 19 with a dihedral angle of 137 (normal 120) and a degree of pyramidalization of 18 the trans isomer of cycloheptene is only stable at low temperatures
+=== shape ===
+as predicted by the vsepr model of electron pair repulsion the molecular geometry of alkenes includes bond angles about each carbon in a double bond of about 120 the angle may vary because of steric strain introduced by nonbonded interactions created by functional groups attached to the carbons of the double bond for example the c-c-c bond angle in propylene is 123.9
+for bridged alkenes bredt's rule states that a double bond cannot be placed at the bridgehead of a bridged ring system unless the rings are large enough (8 or more atoms)
+== physical properties ==
+the physical properties of alkenes and alkanes are similar they are colourless nonpolar combustable and almost odorless the physical state depends on molecular mass: like the corresponding saturated hydrocarbons the simplest alkenes ethene propene and butene are gases at room temperature linear alkenes of approximately five to sixteen carbons are liquids and higher alkenes are waxy solids
+== reactions ==
+alkenes are relatively stable compounds but are more reactive than alkanes either because of the reactivity of the carboncarbon pi-bond or the presence of allylic ch centers most reactions of alkenes involve additions to this pi bond forming new single bonds alkenes serve as a feedstock for the petrochemical industry because they can participate in a wide variety of reactions prominently polymerization and alkylation
+=== addition reactions ===
+alkenes react in many addition reactions which occur by opening up the double-bond most addition reactions to alkenes follow the mechanism of electrophilic addition examples of addition reactions are hydrohalogenation halogenation halohydrin formation oxymercuration hydroboration dichlorocarbene addition simmonssmith reaction catalytic hydrogenation epoxidation radical polymerization and hydroxylation
+==== hydrogenation ====
+hydrogenation of alkenes produces the corresponding alkanes the reaction is carried out under pressure at a temperature of 200 c in the presence of a metallic catalyst common industrial catalysts are based on platinum nickel or palladium for laboratory syntheses raney nickel (an alloy of nickel and aluminium) is often employed the simplest example of this reaction is the catalytic hydrogenation of ethylene to yield ethane:
+ch2=ch2 + h2 ch3-ch3
+==== hydration ====
+hydration the addition of water across the double bond of alkenes yields alcohols the reaction is catalyzed by strong acids such as sulfuric acid this reaction is carried out on an industrial scale to produce ethanol
+ch2=ch2 + h2o ch3-ch2oh
+alkenes can also be converted into alcohols via the oxymercurationdemercuration reaction or hydroborationoxidation reaction
+==== halogenation ====
+in electrophilic halogenation the addition of elemental bromine or chlorine to alkenes yields vicinal dibromo- and dichloroalkanes (1,2-dihalides or ethylene dihalides) respectively the decoloration of a solution of bromine in water is an analytical test for the presence of alkenes:
+ch2=ch2 + br2 brch2-ch2br
+related reactions are also used as quantitative measures of unsaturation expressed as the bromine number and iodine number of a compound or mixture
+==== hydrohalogenation ====
+hydrohalogenation is the addition of hydrogen halides such as hcl or hi to alkenes to yield the corresponding haloalkanes:
+ch3-ch=ch2 + hi ch3-chi-ch2-h
+if the two carbon atoms at the double bond are linked to a different number of hydrogen atoms the halogen is found preferentially at the carbon with fewer hydrogen substituents this patterns is known as markovnikov's rule the use of radical initiators or other compounds can lead to the opposite product result hydrobromic acid in particular is prone to forming radicals in the presence of various impurities or even atmospheric oxygen leading to the reversal of the markovnikov result:
+ch3-ch=ch2 + hbr ch3-chh-ch2-br
+==== halohydrin formation ====
+alkenes react with water and halogens to form halohydrins by an addition reaction markovnikov regiochemistry and anti stereochemistry occur
+ch2=ch2 + x2 + h2o xch2-ch2oh + hx
+==== oxidation ====
+alkenes are oxidized with a large number of oxidizing agents in the presence of oxygen alkenes burn with a bright flame to produce carbon dioxide and water catalytic oxidation with oxygen or the reaction with percarboxylic acids yields epoxides reaction with ozone in ozonolysis leads to the breaking of the double bond yielding two aldehydes or ketones reaction with concentrated hot kmno4 (or other oxidizing salts) in an acidic solution will yield ketones or carboxylic acids
+r1-ch=ch-r2 + o3 r1-cho + r2-cho + h2o
+this reaction can be used to determine the position of a double bond in an unknown alkene
+the oxidation can be stopped at the vicinal diol rather than full cleavage of the alkene by using milder (dilute,lower temperature) kmno4 or with osmium tetroxide or other oxidants
+==== photooxygenation ====
+in the presence of an appropriate photosensitiser such as methylene blue and light alkenes can undergo reactions with reactive oxygen species generated by the photosensitiser such as hydroxyl radicals singlet oxygen or superoxide ion these reactive photochemical intermediates are generated in what are known as type i type ii and type iii processes respectively these various alternative processes and reactions can be controlled by choice of specific reaction conditions leading to a wide range of different products a common example is the [4+2] cycloaddition of singlet oxygen with a diene such as cyclopentadiene to yield an endoperoxide:
+another example is the schenck ene reaction in which singlet oxygen reacts with an allylic structure to give a transposed allyl peroxide:
+=== polymerization ===
+polymerization of alkenes is a reaction that yields polymers of high industrial value at great economy such as the plastics polyethylene and polypropylene polymers from alkene monomers are referred to in a general way as polyolefins or in rare instances as polyalkenes a polymer from alpha-olefins is called a polyalphaolefin (pao) polymerization can proceed via either a free-radical or an ionic mechanism converting the double to a single bond and forming single bonds to join the other monomers polymerization of conjugated dienes such as buta-1,3-diene or isoprene (2-methylbuta-1,3-diene) results in largely 1,4-addition with possibly some 1,2-addition of the diene monomer to a growing polymer chain
+=== metal complexation ===
+alkenes are ligands in transition metal alkene complexes the two carbon centres bond to the metal using the c-c pi- and pi* orbitals mono- and diolefins are often used as ligands in stable complexes cyclooctadiene and norbornadiene are popular chelating agents and even ethylene itself is sometimes used as a ligand for example in zeise's salt in addition metalalkene complexes are intermediates in many metal-catalyzed reactions including hydrogenation hydroformylation and polymerization
+=== reaction overview ===
+== synthesis ==
+=== industrial methods ===
+alkenes are produced by hydrocarbon cracking raw materials are mostly natural gas condensate components (principally ethane and propane) in the us and mideast and naphtha in europe and asia alkanes are broken apart at high temperatures often in the presence of a zeolite catalyst to produce a mixture of primarily aliphatic alkenes and lower molecular weight alkanes the mixture is feedstock and temperature dependent and separated by fractional distillation this is mainly used for the manufacture of small alkenes (up to six carbons)
+related to this is catalytic dehydrogenation where an alkane loses hydrogen at high temperatures to produce a corresponding alkene this is the reverse of the catalytic hydrogenation of alkenes
+this process is also known as reforming both processes are endothermic and are driven towards the alkene at high temperatures by entropy
+catalytic synthesis of higher -alkenes (of the type rch=ch2) can also be achieved by a reaction of ethylene with the organometallic compound triethylaluminium in the presence of nickel cobalt or platinum
+=== elimination reactions ===
+one of the principal methods for alkene synthesis in the laboratory is the elimination of alkyl halides alcohols and similar compounds most common is the -elimination via the e2 or e1 mechanism but -eliminations are also known
+the e2 mechanism provides a more reliable -elimination method than e1 for most alkene syntheses most e2 eliminations start with an alkyl halide or alkyl sulfonate ester (such as a tosylate or triflate) when an alkyl halide is used the reaction is called a dehydrohalogenation for unsymmetrical products the more substituted alkenes (those with fewer hydrogens attached to the c=c) tend to predominate (see zaitsev's rule) two common methods of elimination reactions are dehydrohalogenation of alkyl halides and dehydration of alcohols a typical example is shown below; note that if possible the h is anti to the leaving group even though this leads to the less stable z-isomer
+alkenes can be synthesized from alcohols via dehydration in which case water is lost via the e1 mechanism for example the dehydration of ethanol produces ethene:
+ch3ch2oh + h2so4 h2c=ch2 + h3o+ + hso4
+an alcohol may also be converted to a better leaving group (e.g. xanthate) so as to allow a milder syn-elimination such as the chugaev elimination and the grieco elimination related reactions include eliminations by -haloethers (the boord olefin synthesis) and esters (ester pyrolysis)
+alkenes can be prepared indirectly from alkyl amines the amine or ammonia is not a suitable leaving group so the amine is first either alkylated (as in the hofmann elimination) or oxidized to an amine oxide (the cope reaction) to render a smooth elimination possible the cope reaction is a syn-elimination that occurs at or below 150 c for example:
+the hofmann elimination is unusual in that the less substituted (non-saytseff) alkene is usually the major product
+alkenes are generated from -halo sulfones in the ramberg-bcklund reaction via a three-membered ring sulfone intermediate
+=== synthesis from carbonyl compounds ===
+another important method for alkene synthesis involves construction of a new carboncarbon double bond by coupling of a carbonyl compound (such as an aldehyde or ketone) to a carbanion equivalent such reactions are sometimes called olefinations the most well-known of these methods is the wittig reaction but other related methods are known
+the wittig reaction involves reaction of an aldehyde or ketone with a wittig reagent (or phosphorane) of the type ph3p=chr to produce an alkene and ph3p=o the wittig reagent is itself prepared easily from triphenylphosphine and an alkyl halide the reaction is quite general and many functional groups are tolerated even esters as in this example:
+related to the wittig reaction is the peterson olefination this uses a less accessible silicon-based reagent in place of the phosphorane but it allows for the selection of e or z products if an e-product is desired another alternative is the julia olefination which uses the carbanion generated from a phenyl sulfone the takai olefination based on an organochromium intermediate also delivers e-products a titanium compound tebbe's reagent is useful for the synthesis of methylene compounds; in this case even esters and amides react
+a pair of carbonyl compounds can also be reductively coupled together (with reduction) to generate an alkene symmetrical alkenes can be prepared from a single aldehyde or ketone coupling with itself using ti metal reduction (the mcmurry reaction) if two different ketones are to be coupled a more complex indirect method such as the bartonkellogg reaction may be used
+a single ketone can also be converted to the corresponding alkene via its tosylhydrazone using sodium methoxide (the bamfordstevens reaction) or an alkyllithium (the shapiro reaction)
+=== synthesis from alkenes: olefin metathesis and hydrovinylation ===
+alkenes can be prepared by exchange with other alkenes in a reaction known as olefin metathesis frequently loss of ethene gas is used to drive the reaction towards a desired product in many cases a mixture of geometric isomers is obtained but the reaction tolerates many functional groups the method is particularly effective for the preparation of cyclic alkenes as in this synthesis of muscone:
+transition metal catalyzed hydrovinylation is another important alkene synthesis process starting from alkene itself in general it involves the addition of a hydrogen and a vinyl group (or an alkenyl group) across a double bond the hydrovinylation reaction was first reported by alderson jenner and lindsey by using rhodium and ruthenium salts other metal catalysts commonly employed nowadays included iron cobalt nickel and palladium the addition can be done highly regio- and stereo-selectively the choices of metal centers ligands substrates and counterions often play very important role recent studies showed that the use of n-heterocyclic carbene with ni can be useful for the selective preparations of functionalized geminal olefins or 1,1-disubstituted alkenes
+=== from alkynes ===
+reduction of alkynes is a useful method for the stereoselective synthesis of disubstituted alkenes if the cis-alkene is desired hydrogenation in the presence of lindlar's catalyst (a heterogeneous catalyst that consists of palladium deposited on calcium carbonate and treated with various forms of lead) is commonly used though hydroboration followed by hydrolysis provides an alternative approach reduction of the alkyne by sodium metal in liquid ammonia gives the trans-alkene
+for the preparation multisubstituted alkenes carbometalation of alkynes can give rise to a large variety of alkene derivatives
+=== rearrangements and related reactions ===
+alkenes can be synthesized from other alkenes via rearrangement reactions besides olefin metathesis (described above) a large number of pericyclic reactions can be used such as the ene reaction and the cope rearrangement
+in the diels-alder reaction a cyclohexene derivative is prepared from a diene and a reactive or electron-deficient alkene
+== nomenclature ==
+although the nomenclature is not followed widely according to iupac alkenes are acyclic hydrocarbons with one double bond between carbon centers olefins comprise a larger collection of cyclic and acyclic alkenes as well as di- and polyenes
+=== iupac names ===
+to form the root of the iupac names for alkenes simply change the -an- infix of the parent to -en- for example ch3-ch3 is the alkane ethane the name of ch2=ch2 is therefore ethene
+in higher alkenes where isomers exist that differ in location of the double bond the following numbering system is used:
+number the longest carbon chain that contains the double bond in the direction that gives the carbon atoms of the double bond the lowest possible numbers
+indicate the location of the double bond by the location of its first carbon
+name branched or substituted alkenes in a manner similar to alkanes
+number the carbon atoms locate and name substituent groups locate the double bond and name the main chain
+=== cis-trans notation ===
+in the specific case of disubstituted alkenes where the two carbons have one substituent each cis-trans notation may be used if both substituents are on the same side of the bond it is defined as (cis-) if the substituents are on either side of the bond it is defined as (trans-)
+=== e,z notation ===
+when an alkene has more than one substituent (especially necessary with 3 or 4 substituents) the double bond geometry is described using the labels e and z these labels come from the german words "entgegen," meaning "opposite," and "zusammen," meaning "together." alkenes with the higher priority groups (as determined by cip rules) on the same side of the double bond have these groups together and are designated z alkenes with the higher priority groups on opposite sides are designated e a mnemonic to remember this: z notation has the higher priority groups on "ze zame zide."
+=== groups containing c=c double bonds ===
+iupac recognizes two names for hydrocarbon groups containing carboncarbon double bonds the vinyl group and the allyl group 
+== see also ==
+alpha-olefin
+cycloalkene
+arenes
+diene
+dendralene
+radialene
+annulene
+polyene
+nitroalkene
+== nomenclature links ==
+rule a-3 unsaturated compounds and univalent radicals [1] iupac blue book
+rule a-4 bivalent and multivalent radicals [2] iupac blue book
+rules a-11.3 a-11.4 a-11.5 unsaturated monocyclic hydrocarbons and substituents [3] iupac blue book
+rule a-23 hydrogenated compounds of fused polycyclic hydrocarbons [4] iupac blue book
+== references ==

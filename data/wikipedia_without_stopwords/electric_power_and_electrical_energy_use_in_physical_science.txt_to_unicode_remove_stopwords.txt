@@ -1,0 +1,77 @@
+electricity generation generator device converts mechanical energy electrical energy use external circuit source mechanical energy may vary widely hand crank internal combustion engine generators provide nearly power electric power grids
+reverse conversion electrical energy mechanical energy done electric motor motors generators many similarities many motors mechanically driven generate electricity frequently make acceptable generators
+terminologyedit
+electromagnetic generators fall one two broad categories dynamos alternators
+dynamos generate direct current usually voltage current fluctuations usually use commutator
+alternators generate alternating current may rectified another external directly incorporated system
+mechanical
+rotor rotating part electrical machine
+stator stationary part electrical machine
+electrical
+armature powerproducing component electrical machine generator alternator dynamo armature windings generate electric current armature either rotor stator
+field magnetic field component electrical machine magnetic field dynamo alternator provided either electromagnets permanent magnets mounted either rotor stator
+historyedit
+connection magnetism electricity discovered electrostatic generators used operated electrostatic principles generators generated high voltage low current operated using moving electrically charged belts plates disks carried charge high potential electrode charge generated using either two mechanisms electrostatic induction triboelectric effect inefficiency difficulty insulating machines produced high voltages electrostatic generators low power ratings never used generation commercially significant quantities electric power
+theoretical developmentedit
+operating principle electromagnetic generators discovered years michael faraday principle later called faradays law electromotive force generated electrical conductor encircles varying magnetic flux
+also built first electromagnetic generator called faraday disk type homopolar generator using copper disc rotating poles horseshoe magnet produced small dc voltage
+design inefficient due selfcancelling counterflows current regions influence magnetic field current induced directly underneath magnet current would circulate backwards regions outside influence magnetic field counterflow limited power output pickup wires induced waste heating copper disc later homopolar generators would solve problem using array magnets arranged around disc perimeter maintain steady field effect one currentflow direction
+another disadvantage output voltage low due single current path magnetic flux experimenters found using multiple turns wire coil could produce higher useful voltages since output voltage proportional number turns generators could easily designed produce desired voltage varying number turns wire windings became basic feature subsequent generator designs
+independently faraday hungarian anyos jedlik started experimenting electromagnetic rotating devices called electromagnetic selfrotors prototype singlepole electric starter finished stationary revolving parts electromagnetic also may formulated concept dynamo siemens wheatstone didnt patent thought wasnt first realize
+direct current generatorsedit
+dynamo first electrical generator capable delivering power industry dynamo uses electromagnetic induction convert mechanical rotation direct current use commutator early dynamo built hippolyte pixii
+woolrich electrical generator thinktank birmingham science museum earliest electrical generator used industrial process used firm elkingtons commercial electroplating
+modern dynamo fit use industrial applications invented independently sir charles wheatstone werner von siemens samuel alfred varley varley took patent december siemens wheatstone announced discoveries january latter delivering paper discovery royal society
+dynamoelectric machine employed selfpowering electromagnetic field coils rather permanent magnets create stator field wheatstones design similar siemens difference siemens design stator electromagnets series rotor wheatstones design parallel use electromagnets rather permanent magnets greatly increased power output dynamo enabled high power generation first time invention led directly first major industrial uses electricity example siemens used electromagnetic dynamos power electric arc furnaces production metals materials
+dynamo machine developed consisted stationary structure provides magnetic field set rotating windings turn within field larger machines constant magnetic field provided one electromagnets usually called field coils
+large power generation dynamos rarely seen due nearly universal use alternating current power distribution adoption ac large directcurrent dynamos means power generation distribution ac come dominate due ability ac easily transformed high voltages permit low losses large distances
+alternating current generatorsedit
+series discoveries dynamo succeeded many later inventions especially ac alternator capable generating alternating current
+alternating current generating systems known simple forms michael faradays original discovery magnetic induction electric current faraday built early alternator machine rotating rectangle whose operation heteropolar active conductor passed successively regions magnetic field opposite directions
+large twophase alternating current generators built british electrician jeh gordon first public demonstration alternator system given william stanley jr employee westinghouse electric
+sebastian ziani de ferranti established ferranti thompson ince market ferrantithompson alternator invented help renowned physicist lord kelvin early alternators produced frequencies hz ferranti went design deptford power station london electric supply corporation using alternating current system completion first truly modern power station supplying highvoltage ac power stepped consumer use street basic system remains use today around world
+polyphase alternators introduced supply currents multiple differing phases later alternators designed varying alternatingcurrent frequencies sixteen one hundred hertz use arc lighting incandescent lighting electric motors
+selfexcitationedit
+requirements larger scale power generation increased new limitation rose magnetic fields available permanent magnets diverting small amount power generated generator electromagnetic field coil allowed generator produce substantially power concept dubbed selfexcitation
+field coils connected series parallel armature winding generator first starts turn small amount remanent magnetism present iron core provides magnetic field get started generating small current armature flows field coils creating larger magnetic field generates larger armature current bootstrap process continues magnetic field core levels due saturation generator reaches steady state power output
+large power station generators often utilize separate smaller generator excite field coils larger event severe widespread power outage islanding power stations occurred stations may need perform black start excite fields largest generators order restore customer power service
+specialized types generatoredit
+direct currentedit
+homopolar generatoredit
+homopolar generator dc electrical generator comprising electrically conductive disc cylinder rotating plane perpendicular uniform static magnetic field potential difference created center disc rim ends cylinder electrical polarity depending direction rotation orientation field
+also known unipolar generator acyclic generator disk dynamo faraday disc voltage typically low order volts case small demonstration models large research generators produce hundreds volts systems multiple generators series produce even larger voltage unusual produce tremendous electric current million amperes homopolar generator made low internal resistance
+mhd generatoredit
+magnetohydrodynamic generator directly extracts electric power moving hot gases magnetic field without use rotating electromagnetic machinery mhd generators originally developed output plasma mhd generator flame well able heat boilers steam power plant first practical design avco mk developed us government funded substantial development culminating mw demonstration plant soviet union late mhd plant u regular commercial operation moscow power system rating mw largest mhd plant rating world time mhd generators operated topping cycle currently less efficient combined cycle gas turbines
+alternating currentedit
+induction generatoredit
+ac motors may used generators turning mechanical energy electric current induction generators operate mechanically turning rotor faster synchronous speed giving negative slip regular ac asynchronous motor usually used generator without internal modifications induction generators useful applications minihydro power plants wind turbines reducing highpressure gas streams lower pressure recover energy relatively simple controls
+operate induction generator must excited leading voltage usually done connection electrical grid sometimes selfexcited using phase correcting capacitors
+linear electric generatoredit
+simplest form linear electric generator sliding magnet moves back forth solenoid spool copper wire alternating current induced loops wire faradays law induction time magnet slides type generator used faraday flashlight larger linear electricity generators used wave power schemes
+variable speed constant frequency generatorsedit
+many renewable energy efforts attempt harvest natural sources mechanical energy wind tides etc produce electricity sources fluctuate power applied standard generators using permanent magnets fixed windings would deliver unregulated voltage frequency overhead regulation whether generator via gear reduction generation electrical means high proportion naturallyderived energy available
+new generator designs asynchronous induction singly fed generator doubly fed generator brushless woundrotor doubly fed generator seeing success variable speed constant frequency applications wind turbines renewable energy technologies systems thus offer cost reliability efficiency benefits certain use cases
+common use casesedit
+vehicular generatorsedit
+roadway vehiclesedit
+motor vehicles require electrical energy power instrumentation keep engine operating recharge batteries motor vehicles tended use dc generators electromechanical regulators following historical trend many reasons replaced alternators builtin rectifier circuits
+bicyclesedit
+bicycles require energy power running lights equipment two common kinds generator use bicycles bottle dynamos engage bicycles tire asneeded basis hub dynamos directly attached bicycles drive train reality neither dynamo properly speaking small permanentmagnet alternators
+sailboatsedit
+sailing boats may use water windpowered generator tricklecharge batteries small propeller wind turbine impeller connected lowpower generator supply currents typical wind cruising speeds
+gensetedit
+enginegenerator combination electrical generator engine prime mover mounted together form single piece selfcontained equipment engines used usually piston engines gas turbines also used even hybrid dieselgas units called dualfuel units many different versions enginegenerators available ranging small portable petrol powered sets large turbine installations primary advantage enginegenerators ability independently supply electricity allowing units serve backup power solutions
+human powered electrical generatorsedit
+generator also driven human muscle power instance field radio station equipment
+human powered direct current generators commercially available project diy enthusiasts typically operated means pedal power converted bicycle trainer foot pump generators practically used charge batteries cases designed integral inverter average healthy human produce steady watts horsepower full eight hour period first class athlete produce approximately watts horsepower similar period end undetermined period rest recovery required watts average healthy human becomes exhausted within minutes important note power figures referenced direct human output electrical power generated portable radio receivers crank made reduce battery purchase requirements see clockwork radio mid th century pedal powered radios used throughout australian outback provide schooling school air medical needs remote stations towns
+mechanical measurementedit
+designed measure shaft speed tachogenerator device produces output voltage proportional speed tachogenerators frequently used power tachometers measure speeds electric motors engines equipment power speed precise construction design generators built produce precise voltages certain ranges shaft speeds
+equivalent circuitedit
+equivalent circuit generator load shown diagram right generator represented abstract generator consisting ideal voltage source internal resistance generators parameters determined measuring winding resistance corrected operating temperature measuring opencircuit loaded voltage defined current load
+simplest model generator elements may need added accurate representation particular inductance added allow machines windings magnetic leakage flux full representation become much complex
+see alsoedit
+referencesedit
+external linksedit
+simple generator
+demonstration electrical generator
+short video simple generator

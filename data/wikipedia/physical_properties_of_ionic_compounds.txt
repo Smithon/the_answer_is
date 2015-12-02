@@ -1,0 +1,30 @@
+the ionic strength of a solution is a measure of the concentration of ions in that solution ionic compounds when dissolved in water dissociate into ions the total electrolyte concentration in solution will affect important properties such as the dissociation or the solubility of different salts one of the main characteristics of a solution with dissolved ions is the ionic strength
+== quantifying ionic strength ==
+the ionic strength i of a solution is a function of the concentration of all ions present in that solution
+where ci is the molar concentration of ion i (m mol/l) zi is the charge number of that ion and the sum is taken over all ions in the solution for a 1:1 electrolyte such as sodium chloride the ionic strength is equal to the concentration but for mgso4 the ionic strength is four times higher generally multivalent ions contribute strongly to the ionic strength
+=== calculation example ===
+for example the ionic strength of a mixed 0.050 m in na2so4 and 0.020 m in kcl solution is:
+i = 1/2 [(concentration of na2so4 in m # of sodium ions (charge of sodium)2) + (concentration of na2so4 in m # of so4 ions (charge of so4)2) + (concentration of kcl # of potassium ions (charge of potassium)2) + (concentration of kcl in m # of chloride ions (charge of chloride)2)]
+i = 1/2 [(0.050 m 2 (+1)2) + (0.050 m 1 (2)2) + (0.020 m 1 (+1)2) + (0.020 m 1 (1)2)] = 0.17 m
+== non-ideal solutions ==
+because in non-ideal solutions volumes are no longer strictly additive it is often preferable to work with molality b (mol/kg{h2o}) rather than molarity c (mol/l) in that case ionic strength is defined as:
+in which
+i = ion identification number
+z = charge of ion
+== importance ==
+the ionic strength plays a central role in the debyehckel theory that describes the strong deviations from ideality typically encountered in ionic solutions it is also important for the theory of double layer and related electrokinetic phenomena and electroacoustic phenomena in colloids and other heterogeneous systems that is the debye length which is the inverse of the debye parameter () is inversely proportional to the square root of the ionic strength debye length is characteristic of the double layer thickness increasing the concentration or valence of the counterions compresses the double layer and increases the electrical potential gradient
+media of high ionic strength are used in stability constant determination in order to minimize changes during a titration in the activity quotient of solutes at lower concentrations natural waters such as seawater have a non-zero ionic strength due to the presence of dissolved salts which significantly affects their properties
+== see also ==
+activity (chemistry)
+activity coefficient
+bromley equation
+double layer (interfacial)
+double layer (electrode)
+electrical double layer
+salting out
+== external links ==
+ionic strength
+== references ==
+iupac compendium of chemical terminology 2nd ed (the "gold book") (1997) online corrected version: (2006) "ionic strength i"
+debye p.; hckel e (1923) "zur theorie der elektrolyte i gefrierpunktserniedrigung und verwandte erscheinungen" [the theory of electrolytes i lowering of freezing point and related phenomena] (pdf) physikalische zeitschrift 24: 185206
+skoog d.a.; west d.m.; holler f.j.; crouch s.r (2004) fundamentals of analytical chemistry brooks/cole pub co isbn 0-03-058459-0

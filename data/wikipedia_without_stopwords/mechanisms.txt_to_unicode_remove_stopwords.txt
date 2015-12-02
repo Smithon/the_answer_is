@@ -1,0 +1,98 @@
+newtons laws motion three physical laws together laid foundation classical mechanics describe relationship body forces acting upon motion response forces expressed several different ways nearly three centuries summarised follows
+three laws motion first compiled isaac newton philosophi naturalis principia mathematica mathematical principles natural philosophy first published newton used explain investigate motion many physical objects systems example third volume text newton showed laws motion combined law universal gravitation explained keplers laws planetary motion
+overview
+newtons laws applied objects idealised single point masses sense size shape objects body neglected focus motion easily done object small compared distances involved analysis deformation rotation body importance way even planet idealised particle analysis orbital motion around star
+original form newtons laws motion adequate characterise motion rigid bodies deformable bodies leonhard euler introduced generalisation newtons laws motion rigid bodies called eulers laws motion later applied well deformable bodies assumed continuum body represented assemblage discrete particles governed newtons laws motion eulers laws derived newtons laws eulers laws however taken axioms describing laws motion extended bodies independently particle structure
+newtons laws hold respect certain set frames reference called newtonian inertial reference frames authors interpret first law defining inertial reference frame point view second law holds observation made inertial reference frame therefore first law cannot proved special case second authors treat first law corollary second explicit concept inertial frame reference developed long newtons death
+given interpretation mass acceleration momentum importantly force assumed externally defined quantities common interpretation way one consider laws definition quantities
+newtonian mechanics superseded special relativity still useful approximation speeds involved much slower speed light
+newtons first law
+first law states net force vector sum forces acting object zero velocity object constant velocity vector quantity expresses objects speed direction motion therefore statement objects velocity constant statement speed direction motion constant
+first law stated mathematically
+consequently
+object rest stay rest unless external force acts upon
+object motion change velocity unless external force acts upon
+known uniform motion object continues whatever happens unless force exerted upon rest continues state rest demonstrated tablecloth skilfully whipped dishes tabletop dishes remain initial state rest object moving continues move without turning changing speed evident space probes continually move outer space changes motion must imposed tendency object retain state motion absence net forces moving object tends move along straight line path indefinitely
+newton placed first law motion establish frames reference laws applicable first law motion postulates existence least one frame reference called newtonian inertial reference frame relative motion particle subject forces straight line constant speed newtons first law often referred law inertia thus condition necessary uniform motion particle relative inertial reference frame total net force acting zero sense first law restated
+every material universe motion particle preferential reference frame determined action forces whose total vanished times velocity particle constant particle initially rest uniform motion preferential frame continues state unless compelled forces change
+newtons laws valid inertial reference frame reference frame uniform motion respect inertial frame also inertial frame ie galilean invariance principle newtonian relativity
+newtons second law
+second law states net force object equal rate change derivative linear momentum p inertial reference frame
+second law also stated terms objects acceleration since newtons second law valid constantmass systems mass taken outside differentiation operator constant factor rule differentiation thus
+f net force applied m mass body bodys acceleration thus net force applied body produces proportional acceleration words body accelerating force
+consistent first law time derivative momentum nonzero momentum changes direction even change magnitude case uniform circular motion relationship also implies conservation momentum net force body zero momentum body constant net force equal rate change momentum
+mass gained lost system cause change momentum result external force different equation necessary variablemass systems see
+newtons second law requires modification effects special relativity taken account high speeds approximation momentum product rest mass velocity accurate
+impulse
+impulse j occurs force f acts interval time given
+since force time derivative momentum follows
+relation impulse momentum closer newtons wording second law
+impulse concept frequently used analysis collisions impacts
+variablemass systems
+variablemass systems like rocket burning fuel ejecting spent gases closed cannot directly treated making mass function time second law following formula wrong
+falsehood formula seen noting respect galilean invariance variablemass object f one frame seen f another frame correct equation motion body whose mass m varies time either ejecting accreting mass obtained applying second law entire constantmass system consisting body ejectedaccreted mass result
+u velocity escaping incoming mass relative body equation one derive equation motion varying mass system example tsiolkovsky rocket equation conventions quantity udmdt lefthand side represents advection momentum defined force force exerted body changing mass rocket exhaust included quantity f substituting definition acceleration equation becomes f ma
+newtons third law
+third law states forces two objects exist equal magnitude opposite direction one object exerts force fa second object b b simultaneously exerts force fb two forces equal opposite fa fb third law means forces interactions different bodies thus thing unidirectional force force acts one body law sometimes referred actionreaction law fa called action fb reaction action reaction simultaneous matter called action called reaction forces part single interaction neither force exists without
+two forces newtons third law type eg road exerts forward frictional force accelerating cars tires also frictional force newtons third law predicts tires pushing backward road
+conceptual standpoint newtons third law seen person walks push floor floor pushes person similarly tires car push road road pushes back tiresthe tires road simultaneously push swimming person interacts water pushing water backward water simultaneously pushes person forwardboth person water push reaction forces account motion examples forces depend friction person car ice example may unable exert action force produce needed reaction force
+history
+newtons st law
+original latin newtons principia
+translated english reads
+ancient greek philosopher aristotle view objects natural place universe heavy objects rocks wanted rest earth light objects like smoke wanted rest sky stars wanted remain heavens thought body natural state rest body move straight line constant speed external agent needed continually propel otherwise would stop moving galileo galilei however realised force necessary change velocity body ie acceleration force needed maintain velocity words galileo stated absence force moving object continue moving tendency objects resist changes motion galileo called inertia insight refined newton made first law also known law inertiano force means acceleration hence body maintain velocity newtons first law restatement law inertia galileo already described newton appropriately gave credit galileo
+law inertia apparently occurred several different natural philosophers scientists independently including thomas hobbes leviathan th century philosopher mathematician ren descartes also formulated law although perform experiments confirm
+newtons nd law
+newtons original latin reads
+translated quite closely mottes translation
+according modern ideas newton using terminology understood modern terms equivalent
+change momentum body proportional impulse impressed body happens along straight line impulse impressed
+may expressed formula f p p time derivative momentum p equation seen clearly wren library trinity college cambridge glass case newtons manuscript open relevant page
+mottes translation newtons latin continued newtons commentary second law motion reading
+force generates motion double force generate double motion triple force triple motion whether force impressed altogether gradually successively motion always directed way generating force body moved added subtracted former motion according directly conspire directly contrary obliquely joined oblique produce new motion compounded determination
+sense senses newton used terminology understood second law intended understood extensively discussed historians science along relations newtons formulation modern formulations
+newtons rd law
+translated english reads
+newtons scholium explanatory comment law
+whatever draws presses another much drawn pressed press stone finger finger also pressed stone horse draws stone tied rope horse may say equally drawn back towards stone distended rope endeavour relax unbend draw horse much towards stone stone towards horse obstruct progress one much advances body impinges upon another force changes motion body also equality mutual pressure undergo equal change motion toward contrary part changes made actions equal velocities motions bodies say bodies hindered impediments motions equally changed changes velocities made toward contrary parts reciprocally proportional bodies law takes place also attractions proved next scholium
+usual motion newtons name momentum hence careful distinction motion velocity
+newton used third law derive law conservation momentum deeper perspective however conservation momentum fundamental idea derived via noethers theorem galilean invariance holds cases newtons third law appears fail instance force fields well particles carry momentum quantum mechanics
+importance range validity
+newtons laws verified experiment observation years excellent approximations scales speeds everyday life newtons laws motion together law universal gravitation mathematical techniques calculus provided first time unified quantitative explanation wide range physical phenomena
+three laws hold good approximation macroscopic objects everyday conditions however newtons laws combined universal gravitation classical electrodynamics inappropriate use certain circumstances notably small scales high speeds special relativity lorentz factor must included expression momentum along rest mass velocity strong gravitational fields therefore laws cannot used explain phenomena conduction electricity semiconductor optical properties substances errors nonrelativistically corrected gps systems superconductivity explanation phenomena requires sophisticated physical theories including general relativity quantum field theory
+quantum mechanics concepts force momentum position defined linear operators operate quantum state speeds much lower speed light newtons laws exact operators classical objects speeds comparable speed light second law holds original form f dpdt f p fourvectors
+relationship conservation laws
+modern physics laws conservation momentum energy angular momentum general validity newtons laws since apply light matter classical nonclassical physics
+stated simply momentum energy angular momentum cannot created destroyed
+force time derivative momentum concept force redundant subordinate conservation momentum used fundamental theories eg quantum mechanics quantum electrodynamics general relativity etc standard model explains detail three fundamental forces known gauge forces originate exchange virtual particles forces gravity fermionic degeneracy pressure also arise momentum conservation indeed conservation momentum inertial motion via curved spacetime results call gravitational force general relativity theory application space derivative momentum operator quantum mechanics overlapping wave functions pair fermions particles halfinteger spin results shifts maxima compound wavefunction away observable repulsion fermions
+newton stated third law within worldview assumed instantaneous action distance material particles however prepared philosophical criticism action distance context stated famous phrase feign hypotheses modern physics action distance completely eliminated except subtle effects involving quantum entanglement however modern engineering practical applications involving motion vehicles satellites concept action distance used extensively
+discovery second law thermodynamics carnot th century showed every physical quantity conserved time thus disproving validity inducing opposite metaphysical view newtons laws hence steadystate worldview based solely newtons laws conservation laws take entropy account
+see also
+eulers laws
+hamiltonian mechanics
+lagrangian mechanics
+list scientific laws named people
+mercury orbit
+modified newtonian dynamics
+newtons law universal gravitation
+principle least action
+reaction physics
+principle relativity
+references notes
+reading works cited
+crowell benjamin light matter light matter especially section newtons first law section newtons second law section newtons third law
+feynman r p leighton r b sands m feynman lectures physics vol nd ed pearsonaddisonwesley isbn
+fowles g r cassiday g l analytical mechanics th ed saunders college publishing isbn
+likins peter w elements engineering mechanics mcgrawhill book company isbn
+marion jerry thornton stephen classical dynamics particles systems harcourt college publishers isbn
+nmj woodhouse special relativity londonberlin springer p isbn
+historical
+newton isaac mathematical principles natural philosophy english translation based rd latin edition volume containing book especially section axioms laws motion starting page
+newton isaac mathematical principles natural philosophy english translation based rd latin edition volume containing books
+thomson w lord kelvin tait p g treatise natural philosophy volume especially section newtons laws motion
+external links
+mit physics video lecture newtons three laws
+light matter online textbook
+simulation newtons first law motion
+newtons second law enrique zeleny wolfram demonstrations project
+newtons rd law demonstrated vacuum youtube

@@ -1,0 +1,136 @@
+enthalpy defined thermodynamic state function designated letter h consists internal energy system u plus product pressure p volume v system
+since u p v functions state thermodynamic system enthalpy state function
+unit measurement enthalpy international system units si joule historical conventional units still use british thermal unit calorie
+enthalpy preferred expression system energy changes many chemical biological physical measurements constant pressure simplifies description energy transfer constant pressure enthalpy change equals energy transferred environment heating work expansion work
+total enthalpy h system cannot measured directly situation exists classical mechanics change difference energy carries physical meaning enthalpy thermodynamic potential order measure enthalpy system must refer defined reference point therefore measure change enthalpy h h positive change endothermic reactions negative heatreleasing exothermic processes
+processes constant pressure h equal change internal energy system plus pressurevolume work system done surroundings means change enthalpy conditions heat absorbed released material chemical reaction external heat transfer enthalpies chemical substances constant pressure assume standard state commonly bar pressure standard state strictly speaking specify temperature see standard state expressions enthalpy generally reference standard heat formation c
+enthalpy ideal gases incompressible solids liquids depend pressure unlike entropy gibbs energy real materials common temperatures pressures usually closely approximate behavior greatly simplifies enthalpy calculation use practical designs analyses
+origins
+word enthalpy based greek enthalpein means warm comes classical greek prefix en meaning put verb thalpein meaning heat word enthalpy often incorrectly attributed benot paul mile clapeyron rudolf clausius publication clausiusclapeyron relation misconception popularized publication mollier steam tables diagrams however neither concept word symbol enthalpy existed well clapeyrons death
+earliest writings contain concept enthalpy appear josiah willard gibbs introduced heat function constant pressure however gibbs use word enthalpy writings
+actual word first appears scientific literature publication j p dalton according publication heike kamerlingh onnes actually coined word
+years many different symbols used denote enthalpy alfred w porter proposed symbol h accepted standard thus finalizing terminology still use today
+formal definition
+enthalpy homogeneous system defined
+h enthalpy system
+u internal energy system
+p pressure system
+v volume system
+enthalpy extensive property means homogeneous systems enthalpy proportional size system convenient introduce specific enthalpy h hm m mass system molar enthalpy hm hn n number moles h hm intensive properties inhomogeneous systems enthalpy sum enthalpies composing subsystems
+label k refers various subsystems case continuously varying p andor composition summation becomes integral
+density
+enthalpy homogeneous systems viewed function hsp entropy pressure p differential relation derived follows start first law thermodynamics closed systems infinitesimal process
+q small amount heat added system w small amount work performed system homogeneous system reversible processes take place second law thermodynamics gives q tds absolute temperature system furthermore pv work done w pdv result
+adding dpv sides expression gives
+expressions
+expression dh terms entropy pressure may unfamiliar readers however expressions terms familiar variables temperature pressure
+cp heat capacity constant pressure coefficient cubic thermal expansion
+expression one principle determine enthalpy cp v known functions p
+notice ideal gas
+general form first law describes internal energy additional terms involving chemical potential number particles various types differential statement dh becomes
+chemical potential per particle itype particle ni number particles last term also written idni dni number moles component added system case molar chemical potential idmi dmi mass component added system case specific chemical potential
+physical interpretation
+u term interpreted energy required create system pv term energy would required make room system pressure environment remained constant system example n moles gas volume v pressure p temperature created brought present state absolute zero energy must supplied equal internal energy u plus pv pv work done pushing ambient atmospheric pressure
+basic physics statistical mechanics may interesting study internal properties system therefore internal energy used basic chemistry experiments often conducted constant atmospheric pressure pressurevolume work represents energy exchange atmosphere cannot accessed controlled h expression chosen heat reaction
+relationship heat
+order discuss relation enthalpy increase heat supply return first law closed systems du q w apply special case pressure surface uniform case work term split two contributions socalled pv work given pdv p pressure surface dv increase volume system types work w shaft electromagnetic interaction write w pdvw case first law reads
+relation see increase enthalpy system equal added heat
+provided system constant pressure dp work done system expansion work w
+applications
+thermodynamics one calculate enthalpy determining requirements creating system nothingness mechanical work required pv differs based upon conditions obtain creation thermodynamic system
+energy must supplied remove particles surroundings make space creation system assuming pressure p remains constant pv term supplied energy must also provide change internal energy u includes activation energies ionization energies mixing energies vaporization energies chemical bond energies forth together constitute change enthalpy u pv systems constant pressure external work done pv work change enthalpy heat received system
+simple system constant number particles difference enthalpy maximum amount thermal energy derivable thermodynamic process pressure held constant
+heat reaction
+total enthalpy system cannot measured directly enthalpy change system measured instead enthalpy change defined following equation
+enthalpy change
+final enthalpy system expressed joules chemical reaction enthalpy products
+initial enthalpy system expressed joules chemical reaction enthalpy reactants
+exothermic reaction constant pressure systems change enthalpy equals energy released reaction including energy retained system lost expansion surroundings similar manner endothermic reaction systems change enthalpy equal energy absorbed reaction including energy lost system gained compression surroundings relatively easy way determine whether reaction exothermic endothermic determine sign h h positive reaction endothermic heat absorbed system due products reaction greater enthalpy reactants hand h negative reaction exothermic overall decrease enthalpy achieved generation heat
+specific enthalpy
+specific enthalpy uniform system defined h hm m mass system si unit specific enthalpy joule per kilogram expressed specific quantities h u pv u specific internal energy p pressure v specific volume equal density
+enthalpy changes
+enthalpy change describes change enthalpy observed constituents thermodynamic system undergoing transformation chemical reaction difference enthalpy process completed ie enthalpy products initial enthalpy system ie reactants processes reversible enthalpy reverse process negative value forward change
+common standard enthalpy change enthalpy formation determined large number substances enthalpy changes routinely measured compiled chemical physical reference works crc handbook chemistry physics following selection enthalpy changes commonly recognized thermodynamics
+used recognized terms qualifier change usually dropped property simply termed enthalpy process since properties often used reference values common quote standardized set environmental parameters standard conditions including
+temperature c k
+pressure one atmosphere atm kpa
+concentration m element compound present solution
+elements compounds normal physical states ie standard state
+standardized values name enthalpy commonly prefixed term standard eg standard enthalpy formation
+chemical properties
+enthalpy reaction defined enthalpy change observed constituent thermodynamic system one mole substance reacts completely
+enthalpy formation defined enthalpy change observed constituent thermodynamic system one mole compound formed elementary antecedents
+enthalpy combustion defined enthalpy change observed constituent thermodynamic system one mole substance burns completely oxygen
+enthalpy hydrogenation defined enthalpy change observed constituent thermodynamic system one mole unsaturated compound reacts completely excess hydrogen form saturated compound
+enthalpy atomization defined enthalpy change required atomize one mole compound completely
+enthalpy neutralization defined enthalpy change observed constituent thermodynamic system one mole water formed acid base react
+standard enthalpy solution defined enthalpy change observed constituent thermodynamic system one mole solute dissolved completely excess solvent solution infinite dilution
+standard enthalpy denaturation biochemistry defined enthalpy change required denature one mole compound
+enthalpy hydration defined enthalpy change observed one mole gaseous ions completely dissolved water forming one mole aqueous ions
+physical properties
+enthalpy fusion defined enthalpy change required completely change state one mole substance solid liquid states
+enthalpy vaporization defined enthalpy change required completely change state one mole substance liquid gaseous states
+enthalpy sublimation defined enthalpy change required completely change state one mole substance solid gaseous states
+lattice enthalpy defined energy required separate one mole ionic compound separated gaseous ions infinite distance apart meaning force attraction
+enthalpy mixing defined enthalpy change upon mixing two nonreacting chemical substances
+open systems
+thermodynamic open systems matter may flow system boundaries first law thermodynamics open systems states increase internal energy system equal amount energy added system matter flowing heating minus amount lost matter flowing form work done system first law open systems given
+average internal energy entering system average internal energy leaving system
+region space enclosed open system boundaries usually called control volume may may correspond physical walls choose shape control volume flow occurs perpendicular surface flow matter system performs work piston fluid pushing mass system system performs work flow matter driving piston fluid two types work performed flow work described performed fluid also often called pv work shaft work may performed mechanical device
+two types work expressed equation
+substitution equation control volume cv yields
+definition enthalpy permits us use thermodynamic potential account internal energy work fluids open systems
+expression described fig allow also system boundary move eg due moving pistons get rather general form first law open systems terms time derivatives reads
+represent algebraic sums indices k refer various places heat supplied matter flows system boundaries moving terms represent enthalpy flows written
+mass flow molar flow position k respectively term dvkdt represents rate change system volume position k results pv power done system parameter p represents forms power done system shaft power also eg electric power produced electrical power plant note previous expression holds true kinetic energy flow rate conserved system inlet outlet otherwise included enthalpy balance steadystate operation device see turbine pump engine average dudt may set equal zero yields useful expression average power generation devices absence chemical reactions
+angle brackets denote time averages technical importance enthalpy directly related presence first law open systems formulated
+diagrams
+nowadays enthalpy values important substances obtained via commercial software practically relevant material properties obtained either tabular graphical form many types diagrams ht diagrams give specific enthalpy function temperature various pressures hp diagrams give h function p various one common diagrams temperatureentropy diagram tsdiagram example fig tsdiagram nitrogen gives melting curve saturated liquid vapor values together isobars isenthalps diagrams powerful tools hands thermal engineer
+basic applications
+points h fig play role discussion section
+k p bar kjkgk h kjkg
+b k p bar kjkgk h kjkg
+c k p bar kjkgk h kjkg
+d k p bar kjkgk h kjkg
+e k p bar kjkgk h kjkg saturated liquid bar
+f k p bar kjkgk h kjkg
+g k p bar kjkgk h kjkg saturated liquid bar
+h k p bar kjkgk h kjkg saturated gas bar
+throttling
+one simple applications concept enthalpy socalled throttling process also known joulethomson expansion concerns steady adiabatic flow fluid flow resistance valve porous plug type flow resistance shown figa process important since heart domestic refrigerators responsible temperature drop ambient temperature interior fridge also final stage many types liquefiers
+first law open systems see applied system figa terms zero except terms enthalpy flow hence
+since mass flow constant specific enthalpies two sides flow resistance
+enthalpy per unit mass change throttling consequences relation demonstrated using fig point c fig bar room temperature k joulethomson expansion bar bar follows curve constant enthalpy roughly kjkg shown fig lying kjkg isenthalps ends point d temperature k hence expansion bar bar cools nitrogen k k valve lot friction lot entropy produced still final temperature starting value
+point e chosen saturated liquid line h kjkg corresponds roughly p bar k throttling point pressure one bar ends twophase region point f means mixture gas liquid leaves throttling valve since enthalpy extensive parameter enthalpy f hf equal enthalpy g hg multiplied liquid fraction f xf plus enthalpy h hh multiplied gas fraction f xf
+numbers xf xf xf means mass fraction liquid liquidgas mixture leaves throttling valve
+compressors
+figb schematic drawing compressor power p applied eg electrical power compression adiabatic gas temperature goes reversible case would constant entropy corresponds vertical line fig eg compressing nitrogen bar point bar point b would result temperature increase k k order let compressed gas exit ambient temperature ta heat exchange eg cooling water necessary ideal case compression isothermal average heat flow surroundings since system steady state first law gives
+minimum power needed compression realized compression reversible case second law thermodynamics open systems gives
+eliminating gives minimum power
+eg compressing kg nitrogen bar bar costs least hc ha tascsa data obtained fig find value kjkg
+relation power simplified writing
+dh tds vdp results final relation
+see also
+standard enthalpy change formation data table
+calorimetry
+calorimeter
+departure function
+hesss law
+isenthalpic process
+stagnation enthalpy
+thermodynamic databases pure substances
+entropy
+notes
+references
+bibliography
+jp dalton researches joulekelvin effect especially low temperatures calculations hydrogen knaw proceedings pp
+haase r physical chemistry advanced treatise jost w ed academic new york p
+gibbs j w collected works j willard gibbs vol yale university press new haven connecticut reprinted p
+ik howard h enthalpy thanks heike kamerlingh onnes alfred w porter journal chemical education pp
+laidler k world physical chemistry oxford university press oxford p
+c kittel h kroemer thermal physics r furphy company new york p
+dehoff r thermodynamics materials science nd ed taylor francis group new york
+external links
+enthalpy eric weissteins world physics
+enthalpy georgia state university
+enthalpy example calculations texas university chemistry department

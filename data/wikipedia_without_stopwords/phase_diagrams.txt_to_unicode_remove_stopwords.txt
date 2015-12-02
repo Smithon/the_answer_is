@@ -1,0 +1,47 @@
+use term mathematics physics see phase space
+phase diagram physical chemistry engineering mineralogy materials science type chart used show conditions thermodynamically distinct phases occur equilibrium
+overviewedit
+common components phase diagram lines equilibrium phase boundaries refer lines mark conditions multiple phases coexist equilibrium phase transitions occur along lines equilibrium
+triple points points phase diagrams lines equilibrium intersect triple points mark conditions three different phases coexist example water phase diagram triple point corresponding single temperature pressure solid liquid gaseous water coexist stable equilibrium
+solidus temperature substance stable solid state liquidus temperature substance stable liquid state may gap solidus liquidus within gap substance consists mixture crystals liquid like slurry
+types phase diagramsedit
+d phase diagramsedit
+simplest phase diagrams pressuretemperature diagrams single simple substance water axes correspond pressure temperature phase diagram shows pressuretemperature space lines equilibrium phase boundaries three phases solid liquid gas
+curves phase diagram show points free energy derived properties becomes nonanalytic derivatives respect coordinates temperature pressure example change discontinuously abruptly example heat capacity container filled ice change abruptly container heated past melting point open spaces free energy analytic correspond single phase regions single phase regions separated lines nonanalytical behavior phase transitions occur called phase boundaries
+diagram left phase boundary liquid gas continue indefinitely instead terminates point phase diagram called critical point reflects fact extremely high temperatures pressures liquid gaseous phases become indistinguishable known supercritical fluid water critical point occurs around tc k c pc mpa atm c kgm
+existence liquidgas critical point reveals slight ambiguity labelling single phase regions going liquid gaseous phase one usually crosses phase boundary possible choose path never crosses boundary going right critical point thus liquid gaseous phases blend continuously solidliquid phase boundary end critical point solid liquid phases symmetry group
+solidliquid phase boundary phase diagram substances positive slope greater pressure given substance closer together molecules substance brought increases effect substances intermolecular forces thus substance requires higher temperature molecules enough energy break fixed pattern solid phase enter liquid phase similar concept applies liquidgas phase changes water particular properties one several exceptions rule
+thermodynamic propertiesedit
+addition temperature pressure thermodynamic properties may graphed phase diagrams examples thermodynamic properties include specific volume specific enthalpy specific entropy example singlecomponent graphs temperature vs specific entropy vs watersteam refrigerant commonly used illustrate thermodynamic cycles carnot cycle rankine cycle vaporcompression refrigeration cycle
+twodimensional graph two thermodynamic quantities may shown horizontal vertical axes additional thermodynamic quantities may illustrated increments series lines curved straight combination curved straight isolines represents thermodynamic quantity certain constant value
+d phase diagramsedit
+possible envision threedimensional d graphs showing three thermodynamic quantities example single component d cartesian coordinate type graph show temperature one axis pressure p second axis specific volume v third d graph sometimes called pvt diagram equilibrium conditions shown curves curved surface d areas solid liquid vapor phases areas solid liquid solid vapor liquid vapor coexist equilibrium line surface called triple line solid liquid vapor coexist equilibrium critical point remains point surface even d phase diagram
+orthographic projection d pvt graph showing pressure temperature vertical horizontal axes collapses d plot standard d pressuretemperature diagram done solidvapor solidliquid liquidvapor surfaces collapse three corresponding curved lines meeting triple point collapsed orthographic projection triple line
+binary phase diagramsedit
+much complex types phase diagrams constructed particularly one pure component present case concentration becomes important variable phase diagrams two dimensions constructed show effect two variables phase substance phase diagrams use variables addition place temperature pressure composition example strength applied electrical magnetic field also involve substances take three states matter
+one type phase diagram plots temperature relative concentrations two substances binary mixture called binary phase diagram shown right mixture either solid solution eutectic peritectic among others two types mixtures result different graphs another type binary phase diagram boilingpoint diagram mixture two components e chemical compounds two particular volatile components certain pressure atmospheric pressure boilingpoint diagram shows vapor gas compositions equilibrium given liquid compositions depending temperature typical binary boilingpoint diagram temperature plotted vertical axis mixture composition horizontal axis
+simple example diagram hypothetical components nonazeotropic mixture shown right fact two separate curved lines joining boiling points pure components means vapor composition usually liquid composition vapor equilibrium see vaporliquid equilibrium information
+addition abovementioned types phase diagrams thousands possible combinations major features phase diagrams include congruent points solid phase transforms directly liquid also peritectoid point two solid phases combine one solid phase cooling inverse one solid phase transforms two solid phases heating called eutectoid
+complex phase diagram great technological importance ironcarbon system less carbon see steel
+xaxis diagram represents concentration variable mixture mixtures typically far dilute density function temperature usually unknown preferred concentration measure mole fraction volumebased measure like molarity would inadvisable
+crystal phase diagramsedit
+polymorphic polyamorphic substances multiple crystal amorphous phases graphed similar fashion solid liquid gas phases
+mesophase diagramsedit
+organic materials pass intermediate states solid liquid states called mesophases attention directed mesophases enable display devices become commercially important socalled liquidcrystal technology phase diagrams used describe occurrence mesophases
+see alsoedit
+calphad method
+congruent melting incongruent melting
+gibbs phase rule
+glass databases
+hamiltonian mechanics
+phase separation
+schreinemakers analysis
+referencesedit
+external linksedit
+ironiron carbide phase diagram example
+build phase diagram
+phase changes phase diagrams part
+equilibrium fec phase diagram
+phase diagrams lead free solders
+doitpoms phase diagram library
+doitpoms teaching learning package phase diagrams solidification

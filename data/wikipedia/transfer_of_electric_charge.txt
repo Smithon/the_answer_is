@@ -1,0 +1,60 @@
+in engineering physics and chemistry the study of transport phenomena concerns the exchange of mass energy and momentum between observed and studied systems while it draws from fields as diverse as continuum mechanics and thermodynamics it places a heavy emphasis on the commonalities between the topics covered mass momentum and heat transport all share a very similar mathematical framework and the parallels between them are exploited in the study of transport phenomena to draw deep mathematical connections that often provide very useful tools in the analysis of one field that are directly derived from the others
+while it draws its theoretical foundation from principles in a number of fields most of the fundamental transport theory is a restatement of basic conservation laws
+the fundamental analyses in all three subfields of mass heat and momentum transfer are often grounded in the simple principle that the sum total of the quantities being studied must be conserved by the system and its environment thus the different phenomena that lead to transport are each considered individually with the knowledge that the sum of their contributions must equal zero this principle is useful for calculating many relevant quantities for example in fluid mechanics a common use of transport analysis is to determine the velocity profile of a fluid flowing through a rigid volume
+transport phenomena are ubiquitous throughout the engineering disciplines some of the most common examples of transport analysis in engineering are seen in the fields of process chemical biological and mechanical engineering but the subject is a fundamental component of the curriculum in all disciplines involved in any way with fluid mechanics heat transfer and mass transfer it is now considered to be a part of the engineering discipline as much as thermodynamics mechanics and electromagnetism
+transport phenomena encompass all agents of physical change in the universe moreover they are considered to be fundamental building blocks which developed the universe and which is responsible for the success of all life on earth however the scope here is limited to the relationship of transport phenomena to artificial engineered systems
+== overviewedit ==
+in physics transport phenomena are all irreversible processes of statistical nature stemming from the random continuous motion of molecules mostly observed in fluids every aspect of transport phenomena is grounded in two primary concepts : the conservation laws and the constitutive equations the conservation laws which in the context of transport phenomena are formulated as continuity equations describe how the quantity being studied must be conserved the constitutive equations describe how the quantity in question responds to various stimuli via transport prominent examples include fourier's law of heat conduction and the navier-stokes equations which describe respectively the response of heat flux to temperature gradients and the relationship between fluid flux and the forces applied to the fluid these equations also demonstrate the deep connection between transport phenomena and thermodynamics a connection that explains why transport phenomena are irreversible almost all of these physical phenomena ultimately involve systems seeking their lowest energy state in keeping with the principle of minimum energy as they approach this state they tend to achieve true thermodynamic equilibrium at which point there are no longer any driving forces in the system and transport ceases the various aspects of such equilibrium are directly connected to a specific transport: heat transfer is the system's attempt to achieve thermal equilibrium with its environment just as mass and momentum transport move the system towards chemical and mechanical equilibrium
+examples of transport processes include heat conduction (energy transfer) fluid flow (momentum transfer) molecular diffusion (mass transfer) radiation and electric charge transfer in semiconductors
+transport phenomena have wide application for example in solid state physics the motion and interaction of electrons holes and phonons are studied under "transport phenomena" another example is in biomedical engineering where some transport phenomena of interest are thermoregulation perfusion and microfluidics in chemical engineering transport phenomena are studied in reactor design analysis of molecular or diffusive transport mechanisms and metallurgy
+the transport of mass energy and momentum can be affected by the presence of external sources:
+an odor dissipates more slowly (and may intensify) when the source of the odor remains present
+the rate of cooling of a solid that is conducting heat depends on whether a heat source is applied
+the gravitational force acting on a rain drop counteracts the resistance or drag imparted by the surrounding air
+== commonalities among phenomenaedit ==
+an important principle in the study of transport phenomena is analogy between phenomena
+=== diffusionedit ===
+there are some notable similarities in equations for momentum energy and mass transfer which can all be transported by diffusion as illustrated by the following examples:
+mass: the spreading and dissipation of odors in air is an example of mass diffusion
+energy: the conduction of heat in a solid material is an example of heat diffusion
+momentum: the drag experienced by a rain drop as it falls in the atmosphere is an example of momentum diffusion (the rain drop loses momentum to the surrounding air through viscous stresses and decelerates)
+the molecular transfer equations of newton's law for fluid momentum fourier's law for heat and fick's law for mass are very similar one can convert from one transfer coefficient to another in order to compare all three different transport phenomena
+(definitions of these formulas are given below)
+a great deal of effort has been devoted in the literature to developing analogies among these three transport processes for turbulent transfer so as to allow prediction of one from any of the others the reynolds analogy assumes that the turbulent diffusivities are all equal and that the molecular diffusivities of momentum (/) and mass (dab) are negligible compared to the turbulent diffusivities when liquids are present and/or drag is present the analogy is not valid other analogies such as von karman's and prandtl's usually result in poor relations
+the most successful and most widely used analogy is the chilton and colburn j-factor analogy this analogy is based on experimental data for gases and liquids in both the laminar and turbulent regimes although it is based on experimental data it can be shown to satisfy the exact solution derived from laminar flow over a flat plate all of this information is used to predict transfer of mass
+=== onsager reciprocal relationsedit ===
+in fluid systems described in terms of temperature matter density and pressure it is known that temperature differences lead to heat flows from the warmer to the colder parts of the system; similarly pressure differences will lead to matter flow from high-pressure to low-pressure regions (a "reciprocal relation") what is remarkable is the observation that when both pressure and temperature vary temperature differences at constant pressure can cause matter flow (as in convection) and pressure differences at constant temperature can cause heat flow perhaps surprisingly the heat flow per unit of pressure difference and the density (matter) flow per unit of temperature difference are equal
+this equality was shown to be necessary by lars onsager using statistical mechanics as a consequence of the time reversibility of microscopic dynamics the theory developed by onsager is much more general than this example and capable of treating more than two thermodynamic forces at once
+== momentum transferedit ==
+in momentum transfer the fluid is treated as a continuous distribution of matter the study of momentum transfer or fluid mechanics can be divided into two branches: fluid statics (fluids at rest) and fluid dynamics (fluids in motion) when a fluid is flowing in the x direction parallel to a solid surface the fluid has x-directed momentum and its concentration is x by random diffusion of molecules there is an exchange of molecules in the z direction hence the x-directed momentum has been transferred in the z-direction from the faster- to the slower-moving layer the equation for momentum transport is newton's law of viscosity written as follows:
+where zx is the flux of x-directed momentum in the z direction is / the momentum diffusivity z is the distance of transport or diffusion is the density and is the viscosity newtons law is the simplest relationship between the flux of momentum and the velocity gradient
+== mass transferedit ==
+when a system contains two or more components whose concentration vary from point to point there is a natural tendency for mass to be transferred minimizing any concentration difference within the system mass transfer in a system is governed by fick's first law: 'diffusion flux from higher concentration to lower concentration is proportional to the gradient of the concentration of the substance and the diffusivity of the substance in the medium.' mass transfer can take place due to different driving forces some of them are:
+mass can be transferred by the action of a pressure gradient(pressure diffusion)
+forced diffusion occurs because of the action of some external force
+diffusion can be caused by temperature gradients (thermal diffusion)
+diffusion can be caused by differences in chemical potential
+this can be compared to fourier's law for conduction of heat:
+where d is the diffusivity constant
+== energy transferedit ==
+all process in engineering involve the transfer of energy some examples are the heating and cooling of process streams phase changes distillations etc the basic principle is the first law of thermodynamics which is expressed as follows for a static system:
+the net flux of energy through a system equals the conductivity times the rate of change of temperature with respect to position
+for other systems that involve either turbulent flow complex geometries or difficult boundary conditions another equation would be easier to use:
+where a is the surface area : is the temperature driving force q is the heat flow per unit time and h is the heat transfer coefficient
+within heat transfer two types of convection can occur:
+forced convection can occur in both laminar and turbulent flow in the situation of laminar flow in circular tubes several dimensionless numbers are used such as nusselt number reynolds number and prandtl the commonly used equation is:
+natural or free convection is a function of grashof and prandtl numbers the complexities of free convection heat transfer make it necessary to mainly use empirical relations from experimental data
+heat transfer is analyzed in packed beds reactors and heat exchangers
+== see alsoedit ==
+constitutive equation
+continuity equation
+wave propagation
+pulse
+action potential
+bioheat transfer
+== referencesedit ==
+== external linksedit ==
+transport phenomena archive in the teaching archives of the materials digital library pathway
+"some classical transport phenomena problems with solutions - fluid mechanics"
+"some classical transport phenomena problems with solutions - heat transfer"
+"some classical transport phenomena problems with solutions - mass transfer"

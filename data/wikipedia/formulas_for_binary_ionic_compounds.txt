@@ -1,0 +1,80 @@
+a chemical nomenclature is a set of rules to generate systematic names for chemical compounds the nomenclature used most frequently worldwide is the one created and developed by the international union of pure and applied chemistry (iupac)
+the iupac's rules for naming organic and inorganic compounds are contained in two publications known as the blue book and the red book respectively a third publication known as the green book describes the recommendations for the use of symbols for physical quantities (in association with the iupap) while a fourth the gold book contains the definitions of a large number of technical terms used in chemistry similar compendia exist for biochemistry (the white book in association with the iubmb) analytical chemistry (the orange book) macromolecular chemistry (the purple book) and clinical chemistry (the silver book) these "color books" are supplemented by shorter recommendations for specific circumstances that are published from time to time in the journal pure and applied chemistry
+== aims of chemical nomenclatureedit ==
+the primary function of chemical nomenclature is to ensure that a spoken or written chemical name leaves no ambiguity concerning which chemical compound the name refers to: each chemical name should refer to a single substance a less important aim is to ensure that each substance has a single name although a limited number of alternative names is acceptable in some cases
+preferably the name also conveys some information about the structure or chemistry of a compound cas numbers form an extreme example of names that do not perform this function: each cas number refers to a single compound but none contain information about the structure
+the form of nomenclature used depends on the audience to which it is addressed as such no single correct form exists but rather there are different forms that are more or less appropriate in different circumstances
+a common name will often suffice to identify a chemical compound in a particular set of circumstances to be more generally applicable the name should indicate at least the chemical formula to be more specific still the three-dimensional arrangement of the atoms may need to be specified
+in a few specific circumstances (such as the construction of large indices) it becomes necessary to ensure that each compound has a unique name: this requires the addition of extra rules to the standard iupac system (the cas system is the most commonly used in this context) at the expense of having names that are longer and less familiar to most readers another system gaining popularity is the international chemical identifier (inchi) which reflects a substance's structure and composition making it more general than a cas number
+the iupac system is often criticized for the above failures when they become relevant (for example in differing reactivity of sulfur allotropes which iupac does not distinguish) while iupac has a human-readable advantage over cas numbering it would be difficult to claim that the iupac names for some larger relevant molecules (such as rapamycin) are human-readable and so most researchers simply use the informal names
+== differing aims of chemical nomenclature and lexicographyedit ==
+it is generally understood that the aims of lexicography versus chemical nomenclature vary and are to an extent at odds dictionaries of words whether in traditional print or on the web collect and report the meanings of words as their uses appear and change over time for web dictionaries with limited or no formal editorial process definitionsin this case definitions of chemical names and termscan change rapidly without concern for the formal or historical meanings chemical nomenclature on the other hand (with iupac nomenclature as the best example) is necessarily more restrictive: it aims to standardize communication and practice so that when a chemical term is used it has a fixed meaning relating to chemical structure thereby giving insights into chemical properties and derived molecular functions these differing aims can have profound effects on valid understanding in chemistry especially with regard to chemical classes that have achieved mass attention examples of the impact of these can be seen in considering the examples of:
+resveratrol a single compound clearly defined by this common name but that can be confused popularly with its cis-isomer
+omega-3 fatty acids a reasonably well-defined chemical structure class that is nevertheless broad as a result of its formal definition and
+polyphenols a fairly broad structural class with a formal definition but where mistranslations and general misuse of the term relative to the formal definition has led to serious usage errors and so ambiguity in the relationship between structure and activity (sar)
+the rapid pace at which meanings can change on the web in particular for chemical compounds with perceived health benefits rightly or wrongly ascribed complicates the matter of maintaining a sound nomenclature (and so access to sar understanding) a further discussion with specific examples appears in the article on polyphenols where differing definitions are in use and there are various further web definitions and common uses of the word odds with any accepted chemical nomenclature connecting polyphenol structure and bioactivity)
+== historyedit ==
+the nomenclature of alchemy is rich in description but does not effectively meet the aims outlined above opinions differ about whether this was deliberate on the part of the early practitioners of alchemy or whether it was a consequence of the particular (and often esoteric) theoretical framework in which they worked
+while both explanations are probably valid to some extent it is remarkable that the first "modern" system of chemical nomenclature appeared at the same time as the distinction (by lavoisier) between elements and compounds in the late eighteenth century
+the french chemist louis-bernard guyton de morveau published his recommendations in 1782 hoping that his "constant method of denomination" would "help the intelligence and relieve the memory" the system was refined in collaboration with berthollet de fourcroy and lavoisier and promoted by the latter in a textbook that would survive long after his death at the guillotine in 1794 the project was also espoused by jns jakob berzelius who adapted the ideas for the german-speaking world
+the recommendations of guyton covered only what would be today known as inorganic compounds with the massive expansion of organic chemistry in the mid-nineteenth century and the greater understanding of the structure of organic compounds the need for a less ad hoc system of nomenclature was felt just as the theoretical tools became available to make this possible an international conference was convened in geneva in 1892 by the national chemical societies from which the first widely accepted proposals for standardization arose
+a commission was set up in 1913 by the council of the international association of chemical societies but its work was interrupted by world war i after the war the task passed to the newly formed international union of pure and applied chemistry which first appointed commissions for organic inorganic and biochemical nomenclature in 1921 and continues to do so to this day
+== types of nomenclatureedit ==
+=== organic chemistryedit ===
+substitutive name
+functional class name also known as a radicofunctional name
+conjunctive name
+additive name
+subtractive name
+multiplicative name
+fusion name
+hantzschwidman name
+replacement name
+=== inorganic chemistryedit ===
+==== compositional nomenclatureedit ====
+===== type-i ionic binary compoundsedit =====
+for type-i ionic binary compounds the cation (a metal in most cases) is named first and the anion (usually a nonmetal) is named second the cation retains its elemental name (e.g. iron or zinc) but the suffix of the nonmetal changes to -ide for example the compound libr is made of li+ cations and br anions; thus it's called lithium bromide the compound bao which is composed of ba2+ cations and o2 anions is referred to as barium oxide
+the oxidation state of each element is unambiguous when these ions combine into a type-i binary compound their equal-but-opposite charges are neutralized so the compound's net charge is zero
+===== type-ii ionic binary compoundsedit =====
+type-ii ionic binary compounds are those in which the cation does not have just one oxidation state this is common among transition metals to name these compounds one must determine the charge of the cation and then write out the name as would be done with type i ionic compounds except that a roman numeral (indicating the charge of the cation) is written in parentheses next to the cation name (this is sometimes referred to as stock nomenclature) for example take the compound fecl3 the cation iron can occur as fe2+ and fe3+ in order for the compound to have a net charge of zero the cation must be fe3+ so that the three cl anions can be balanced out (3+ and 3 balance to 0) thus this compound is called iron(iii) chloride another example could be the compound pbs2 because the s2 anion has a subscript of 2 in the formula (giving a 4 charge) the compound must be balanced with a 4+ charge on the pb cation (lead is a transition metal and can form cations with a 4+ or a 2+ charge) thus the compound is made of one pb4+ cation to every two s2 anions the compound is balanced and its name is written as lead(iv) sulfide an older system relying on latin names for the elements is also sometimes used to name type ii ionic binary compounds in this system the metal (instead of a roman numeral next to it) has an "-ic" or "-ous" suffix added to it to indicate its oxidation state ("-ous" for lower "-ic" for higher) for example the compound feo contains the fe2+ cation (which balances out with the o2 anion) since this oxidation state is lower than the other possibility (fe3+) this compound is sometimes called ferrous oxide for the compound sno2 the tin ion is sn4+ (balancing out the 4 charge on the two o2 anions) and because this is a higher oxidation state than the alternative (sn2+) this compound is called stannic oxide
+some ionic compounds contain polyatomic ions which are charged entities containing two or more covalently bonded types of atoms it is important to know the names of common polyatomic ions; these include:
+ammonium (nh4+)
+nitrite (no2)
+nitrate (no3)
+sulfite (so32)
+sulfate (so42)
+hydrogen sulfate (bisulfate) (hso4)
+hydroxide (oh)
+cyanide (cn)
+phosphate (po43)
+hydrogen phosphate (hpo42)
+dihydrogen phosphate (h2po4)
+carbonate (co32)
+hydrogen carbonate (bicarbonate) (hco3)
+hypochlorite (clo)
+chlorite (clo2)
+chlorate (clo3)
+perchlorate (clo4)
+acetate (c2h3o2) permanganate (mno4)
+dichromate (cr2o72)
+chromate (cro42)
+peroxide (o22)
+the formula na2so3 denotes that the cation is sodium or na+ and that the anion is the sulfite ion (so32) therefore this compound is named sodium sulfite if the given formula is ca(oh)2 it can be seen that oh is the hydroxide ion since the charge on the calcium ion is 2+ it makes sense there must be two oh ions to balance the charge therefore the name of the compound is calcium hydroxide if one is asked to write the formula for copper(i) chromate the roman numeral indicates that copper ion is cu+ and one can identify that the compound contains the chromate ion (cro42) two of the 1+ copper ions are needed to balance the charge of one 2 chromate ion so the formula is cu2cro4
+===== type-iii binary compoundsedit =====
+type-iii binary compounds are covalently bonded covalent bonding occurs between nonmetal elements covalently-bonded compounds are also known as molecules in the compound the first element is named first and with its full elemental name the second element is named as if it were an anion (root name of the element + -ide suffix) then prefixes are used to indicate the numbers of each atom present: these prefixes are mono- (one) di- (two) tri- (three) tetra- (four) penta- (five) hexa- (six) hepta- (seven) octa- (eight) nona- (nine) and deca- (ten) the prefix mono- is never used with the first element thus ncl3 is called nitrogen trichloride p2o5 is called diphosphorus pentoxide (the a of the penta- prefix is dropped before the vowel for easier pronunciation) and bf3 is called boron trifluoride
+carbon dioxide is written co2; sulfur tetrafluoride is written sf4 a few compounds however have common names that prevail h2o for example is usually called water rather than dihydrogen monoxide and nh3 is preferentially called ammonia rather than hydrogen nitride
+==== substitutive nomenclatureedit ====
+this naming method generally follows established iupac organic nomenclature hydrides of the main group elements (groups 1317) are given -ane base name e.g borane (b h3) oxidane (h2o) phosphane (p h3) (although the name phosphine is also in common use it is not recommended by iupac) the compound pcl3 would thus be named substitutively as trichlorophosphane (with chlorine "substituting") however not all such names (or stems) are derived from the element name for example n h3 is called "azane"
+==== additive nomenclatureedit ====
+this naming method has been developed principally for coordination compounds although it can be more widely applied an example of its application is [cocl(nh3)5]cl2 pentaamminechloridocobalt(iii) chloride
+ligands too have a special naming convention whereas chloride becomes the prefix chloro- in substitutive naming in a ligand it becomes chlorido-
+== see alsoedit ==
+iupac nomenclature of inorganic chemistry 2005
+iupac nomenclature of organic chemistry
+preferred iupac name
+iupac numerical multiplier
+iupac nomenclature for organic transformations
+international chemical identifier
+list of chemical compounds with unusual names
+== referencesedit ==
+== external linksedit ==

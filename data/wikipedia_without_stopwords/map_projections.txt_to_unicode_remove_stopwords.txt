@@ -1,0 +1,178 @@
+commonly map projection systematic transformation latitudes longitudes locations surface sphere ellipsoid locations plane map projections necessary creating maps map projections distort surface fashion depending purpose map distortions acceptable others therefore different map projections exist order preserve properties spherelike body expense properties limit number possible map projections
+generally surfaces planetary bodies mapped even irregular modeled well sphere ellipsoid see even generally projections subject several pure mathematical fields including differential geometry projective geometry however map projection refers specifically cartographic projection
+background
+maps useful globes many situations compact easier store readily accommodate enormous range scales viewed easily computer displays facilitate measuring properties terrain mapped show larger portions earths surface cheaper produce transport useful traits maps motivate development map projections
+however carl friedrich gausss theorema egregium proved spheres surface cannot represented plane without distortion applies reference surfaces used models earth since map projection representation one surfaces plane map projections distort every distinct map projection distorts distinct way study map projections characterization distortions
+projection limited perspective projections resulting casting shadow screen rectilinear image produced pinhole camera flat film plate rather mathematical function transforming coordinates curved surface plane projection projections actual use perspective
+simplicity article assumes surface mapped sphere reality earth large celestial bodies generally better modeled oblate spheroids whereas small objects asteroids often irregular shapes surfaces mapped well therefore generally map projection method flattening plane continuous curved surface
+metric properties maps
+many properties measured earths surface independent geography properties
+area
+shape
+direction
+bearing
+distance
+scale
+map projections constructed preserve least one properties though limited way projection preserves compromises approximates basic metric properties different ways purpose map determines projection form base map many purposes exist maps many projections created suit purposes
+another consideration configuration projection compatibility data sets used map data sets geographic information collection depends chosen datum model earth different datums assign slightly different coordinates location large scale maps national mapping systems important match datum projection slight differences coordinate assignation different datums concern world maps vast territories differences get shrunk imperceptibility
+projection best
+mathematics projection permit particular map projection best everything something always get distorted therefore diversity projections exists service many uses maps vast range scales
+modern national mapping systems typically employ transverse mercator close variant largescale maps order preserve conformality low variation scale small areas smallerscale maps spanning continents entire world many projections common use according fitness purpose
+thematic maps normally require equal area projection phenomena per unit area shown correct proportion however representing area ratios correctly necessarily distorts shapes many maps equalarea hence reference maps world often appear compromise projections instead due distortions inherent map world choice projection becomes largely one aesthetics
+mercator projection developed navigational purposes often used world maps projections would appropriate problem long recognized even outside professional circles example new york times editorial states
+time come discard mercator something represents continents directions less deceptively although usage diminished still highly popular wall map apparently part rectangular map fills rectangular wall space map clearly familiarity breeds popularity
+controversy peters map motivated american cartographic association cartography geographic information society produce series booklets including map best designed educate public map projections distortion maps internal debate seven north american geographic organizations adopted resolution recommending using rectangular projection including mercator gallpeters reference maps world
+distortion
+classic way showing distortion inherent projection use tissots indicatrix given point using scale factor h along meridian scale factor k along parallel angle nicolas tissot described construct ellipse characterizes amount orientation components distortion spacing ellipses regularly along meridians parallels network indicatrices shows distortion varies across map
+mercator projection conformal projection hk ellipse degenerates circle radius hk equal sole scale factor point
+sinusoidal projection equalarea projection semimajor axis ellipse reciprocal semiminor axis every ellipse area even though shapes vary
+arbitrary projections neither shape area ellipses related general
+construction map projection
+creation map projection involves two steps
+selection model shape earth planetary body usually choosing sphere ellipsoid earths actual shape irregular information lost step
+transformation geographic coordinates longitude latitude cartesian xy polar plane coordinates cartesian coordinates normally simple relation eastings northings defined grid superimposed projection
+simplest map projections literally projections obtained placing light source definite point relative globe projecting features onto specified surface case projections defined terms mathematical formulae direct geometric interpretation
+choosing projection surface
+surface unfolded unrolled plane sheet without stretching tearing shrinking called developable surface cylinder cone plane developable surfaces sphere ellipsoid developable surfaces projection onto plane distort image compare one cannot flatten orange peel without tearing warping
+one way describing projection first project earths surface developable surface cylinder cone unroll surface plane first step inevitably distorts properties globe developable surface unfolded without distortion
+aspect projection
+choice made projecting onto cylinder cone plane aspect shape must specified aspect describes developable surface placed relative globe may normal surfaces axis symmetry coincides earths axis transverse right angles earths axis oblique angle
+notable lines
+developable surface may also either tangent secant sphere ellipsoid tangent means surface touches slice globe secant means surface slice globe moving developable surface away contact globe never preserves optimizes metric properties possibility discussed
+tangent secant lines represented undistorted lines parallel latitude conical projections called standard parallel central meridian meridian globe rotated projecting central meridian usually written parallel origin usually written often used define origin map projection
+scale
+globe way represent earth constant scale throughout entire map directions map cannot achieve property area matter small however achieve constant scale along specific lines
+possible properties
+scale depends location direction equivalent preservation angles defining characteristic conformal map
+scale constant along parallel direction parallel applies cylindrical pseudocylindrical projection normal aspect
+combination scale depends latitude longitude direction applies mercator projection normal aspect
+scale constant along straight lines radiating particular geographic location defining characteristic equidistant projection azimuthal equidistant projection also projections maurer close true distances two points preserved
+choosing model shape body
+projection construction also affected shape earth planetary body approximated following section projection categories earth taken sphere order simplify discussion however earths actual shape closer oblate ellipsoid whether spherical ellipsoidal principles discussed hold without loss generality
+selecting model shape earth involves choosing advantages disadvantages sphere versus ellipsoid spherical models useful smallscale maps world atlases globes since error scale usually noticeable important enough justify using complicated ellipsoid ellipsoidal model commonly used construct topographic maps large mediumscale maps need accurately depict land surface auxiliary latitudes often employed projecting ellipsoid
+third model geoid complex accurate representation earths shape coincident mean sea level would winds tides land compared best fitting ellipsoid geoidal model would change characterization important properties distance conformality equivalence therefore geoidal projections preserve properties mapped graticule would deviate mapped ellipsoids graticule normally geoid used earth model projections however earths shape regular undulation geoid amounting less m ellipsoidal model million m earth radius irregular planetary bodies asteroids however sometimes models analogous geoid used project maps
+classification
+fundamental projection classification based type projection surface onto globe conceptually projected projections described terms placing gigantic surface contact earth followed implied scaling operation surfaces cylindrical eg mercator conic eg albers azimuthal plane eg stereographic many mathematical projections however neatly fit three conceptual projection methods hence peer categories described literature pseudoconic pseudocylindrical pseudoazimuthal retroazimuthal polyconic
+another way classify projections according properties model preserve common categories
+preserving direction azimuthal zenithal trait possible one two points every point
+preserving shape locally conformal orthomorphic
+preserving area equalarea equiareal equivalent authalic
+preserving distance equidistant trait possible one two points every point
+preserving shortest route trait preserved gnomonic projection
+sphere developable surface impossible construct map projection equalarea conformal
+projections surface
+three developable surfaces plane cylinder cone provide useful models understanding describing developing map projections however models limited two fundamental ways one thing world projections actual use fall categories another thing even projections fall categories naturally attainable physical projection lp lee notes
+reference made definitions cylinders cones planes projections termed cylindric conic regarded developed cylinder cone case may well dispense picturing cylinders cones since given rise much misunderstanding particularly regard conic projections two standard parallels may regarded developed cones cones bear simple relationship sphere reality cylinders cones provide us convenient descriptive terms little else
+lees objection refers way terms cylindrical conic planar azimuthal abstracted field map projections maps projected light shining globe onto developable surface spacing parallels would follow limited set possibilities cylindrical projection example one
+rectangular
+straight vertical meridians spaced evenly
+straight parallels symmetrically placed equator
+parallels constrained fall light shines globe onto cylinder light source someplace along line formed intersection prime meridian equator center sphere
+rotate globe projecting parallels meridians necessarily still straight lines rotations normally ignored purpose classification
+light source emanates along line described last constraint yields differences various natural cylindrical projections term cylindrical used field map projections relaxes last constraint entirely instead parallels placed according algorithm designer decided suits needs map famous mercator projection one placement parallels arise projection instead parallels placed need order satisfy property course constant bearing always plotted straight line
+cylindrical
+term normal cylindrical projection used refer projection meridians mapped equally spaced vertical lines circles latitude parallels mapped horizontal lines
+mapping meridians vertical lines visualized imagining cylinder whose axis coincides earths axis rotation cylinder wrapped around earth projected onto unrolled
+geometry construction cylindrical projections stretch distances eastwest amount stretch chosen latitude cylindrical projections given secant latitude multiple equators scale various cylindrical projections distinguished solely northsouth stretching latitude given
+northsouth stretching equals eastwest stretching secant eastwest scale matches northsouth scale conformal cylindrical mercator distorts areas excessively high latitudes see also transverse mercator
+northsouth stretching grows latitude faster eastwest stretching secant cylindric perspective central cylindrical projection unsuitable distortion even worse mercator projection
+northsouth stretching grows latitude less quickly eastwest stretching miller cylindrical projection secant
+northsouth distances neither stretched compressed equirectangular projection plate carre
+northsouth compression equals cosine latitude reciprocal eastwest stretching equalarea cylindrical projection many named specializations differing scaling constant gallpeters gall orthographic undistorted degree parallels behrmann undistorted degree parallels lambert cylindrical equalarea undistorted equator since projection scales northsouth distances reciprocal eastwest stretching preserves area expense shapes
+first case mercator eastwest scale always equals northsouth scale second case central cylindrical northsouth scale exceeds eastwest scale everywhere away equator remaining case pair secant linesa pair identical latitudes opposite sign else equator eastwest scale matches northsouthscale
+normal cylindrical projections map whole earth finite rectangle except first two cases rectangle stretches infinitely tall retaining constant width
+pseudocylindrical
+pseudocylindrical projections represent central meridian straight line segment meridians longer central meridian bow outward away central meridian pseudocylindrical projections map parallels straight lines along parallels point surface mapped distance central meridian proportional difference longitude central meridian pseudocylindrical map point equator point higher latitude point preserving northsouth relationships trait useful illustrating phenomena depend latitude climate examples pseudocylindrical projections include
+sinusoidal first pseudocylindrical projection developed vertical scale horizontal scale throughout resulting equalarea map map reality length parallel proportional cosine latitude thus shape map whole earth region two symmetric rotated cosine curves true distance two points meridian corresponds distance map two parallels smaller distance two points map distance two points parallel true area region true
+collignon projection common forms represents meridian straight line segments one pole equator
+hybrid
+healpix projection combines equalarea cylindrical projection equatorial regions collignon projection polar areas
+conic
+term conic projection used refer projection meridians mapped equally spaced lines radiating apex circles latitude parallels mapped circular arcs centered apex
+making conic map map maker arbitrarily picks two standard parallels standard parallels may visualized secant lines cone intersects globeor map maker chooses parallel twice tangent line cone tangent globe resulting conic map low distortion scale shape area near standard parallels distances along parallels north standard parallels south standard parallels stretched distances along parallels standard parallels compressed single standard parallel used distances along parallels stretched
+popular conic maps include
+equidistant conic keeps parallels evenly spaced along meridians preserve constant distance scale along meridian typically similar scale along standard parallels
+albers conic adjusts northsouth distance nonstandard parallels compensate eastwest stretching compression giving equalarea map
+lambert conformal conic adjusts northsouth distance nonstandard parallels equal eastwest stretching giving conformal map
+pseudoconic
+bonne
+werner cordiform upon distances correct one pole well along parallels
+continuous american polyconic
+azimuthal projections onto plane
+azimuthal projections property directions central point preserved therefore great circles central point represented straight lines map usually projections also radial symmetry scales hence distortions map distances central point computed function rd true distance d independent angle correspondingly circles central point center mapped circles center central point map
+mapping radial lines visualized imagining plane tangent earth central point tangent point
+radial scale rd transverse scale rdr sindr r radius earth
+azimuthal projections true perspective projections constructed mechanically projecting surface earth extending lines point perspective along infinite line tangent point tangent points antipode onto plane
+gnomonic projection displays great circles straight lines constructed using point perspective center earth rd c tandr even hemisphere already infinite extent
+general perspective projection constructed using point perspective outside earth photographs earth international space station give perspective
+orthographic projection maps point earth closest point plane constructed point perspective infinite distance tangent point rd c sindr display hemisphere finite circle photographs earth far enough away moon give perspective
+azimuthal conformal projection also known stereographic projection constructed using tangent points antipode point perspective rd c tandr scale cr cosdr display nearly entire spheres surface finite circle spheres full surface requires infinite map
+azimuthal projections true perspective projections
+azimuthal equidistant rd cd used amateur radio operators know direction point antennas toward point see distance distance tangent point map proportional surface distance earth case tangent point north pole see flag united nations
+lambert azimuthal equalarea distance tangent point map proportional straightline distance earth rd c sindr
+logarithmic azimuthal constructed points distance center map logarithm distance tangent point earth rd c lndd locations closer distance equal constant d shown figure
+projections preservation metric property
+conformal
+conformal orthomorphic map projections preserve angles locally implying map infinitesimal circles constant size anywhere earth infinitesimal circles varying sizes map contrast mappings conformal distort small circles ellipses distortion important consequence conformality relative angles point map correct local scale although varying throughout map every direction around one point constant conformal projections
+mercator rhumb lines represented straight segments
+transverse mercator
+stereographic circle sphere great small maps circle straight line
+roussilhe
+lambert conformal conic
+peirce quincuncial projection
+adams hemisphereinasquare projection
+guyou hemisphereinasquare projection
+equalarea
+equalarea maps preserve area measure generally distorting shapes order equalarea maps also called equivalent authalic projections preserve area
+equidistant
+projections preserve distance standard point line
+equirectangulardistances along meridians conserved
+plate carrean equirectangular projection centered equator
+azimuthal equidistantdistances along great circles radiating centre conserved
+equidistant conic
+sinusoidaldistances along parallels conserved
+werner cordiform distances north pole correct curved distance parallels
+soldner
+twopoint equidistant two control points arbitrarily chosen map maker distance point map control point proportional surface distance earth
+gnomonic
+great circles displayed straight lines
+gnomonic projection
+retroazimuthal
+direction fixed location b bearing starting location shortest route corresponds direction map b
+littrowthe conformal retroazimuthal projection
+hammer retroazimuthalalso preserves distance central point
+craig retroazimuthal aka mecca qiblaalso vertical meridians
+compromise projections
+compromise projections give idea perfectly preserving metric properties seeking instead strike balance distortions simply make things look right types projections distort shape polar regions equator compromise projections
+robinson
+van der grinten
+miller cylindrical
+winkel tripel
+buckminster fullers dymaxion
+b j cahills butterfly map
+kavrayskiy vii projection
+wagner vi projection
+chamberlin trimetric
+oronce fins cordiform
+see also
+references
+notes
+external links
+cartography dmoz
+cornucopia map projections visualization distortion vast array map projections single image
+gprojector free software render many projections nasa giss
+color images map projections distortion mapthematicscom
+geometric aspects mapping map projection kartowebitcnl
+java world map projections henry bottomley seinfo
+map projections httpwwwdsoftwarecomcartographyusgsmapprojections wayback machine archived january dsoftware
+map projections john savard
+map projections mathworld
+map projections interactive java applet study deformations area distance angle map projections uffbr
+map projections projections work progonoscom
+map projections poster us geographical survey
+mapref internet collection mapprojections reference systems europe
+proj cartographic projections library
+projection reference table examples properties common projections radicalcartographynet
+understanding map projections pdf mb melita kennedy esri
+world map projections stephen wolfram based work yusung chang wolfram demonstrations project
+compare map projections

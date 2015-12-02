@@ -1,0 +1,46 @@
+longitudinal waves also known as "l-waves" are waves in which the displacement of the medium is in the same direction as or the opposite direction to the direction of travel of the wave mechanical longitudinal waves f wave is the transverse wave in which the displacements of the medium are at right angles to the direction of propagation transverse mechanical waves are also called "t-waves" or "shear waves"
+== examples ==
+longitudinal waves include sound waves (vibrations in pressure particle of displacement and particle velocity propagated in an elastic medium) and seismic p-waves (created by earthquakes and explosions) in longitudinal waves the displacement of the medium is parallel to the propagation of the wave a wave along the length of a stretched slinky toy where the distance between coils increases and decreases is a good visualization sound waves in air are longitudinal pressure waves
+=== sound waves ===
+in the case of longitudinal harmonic sound waves the frequency and wavelength can be described by the formula
+where:
+y is the displacement of the point on the traveling sound wave;
+x is the distance the point has traveled from the wave's source;
+t is the time elapsed;
+y0 is the amplitude of the oscillations
+c is the speed of the wave; and
+is the angular frequency of the wave
+the quantity x/c is the time that the wave takes to travel the distance x
+the ordinary frequency (f) of the wave is given by
+for sound waves the amplitude of the wave is the difference between the pressure of the undisturbed air and the maximum pressure caused by the wave
+sound's propagation speed depends on the type temperature and composition of the medium through which it propagates
+=== pressure waves ===
+in an elastic medium with rigidity a harmonic pressure wave oscillation has the form
+where:
+y0 is the amplitude of displacement
+k is the wavenumber
+x is the distance along the axis of propagation
+is the angular frequency
+t is the time and
+is the phase difference
+the restoring force which acts to return the medium to its original position is provided by the medium's bulk modulus
+== electromagnetic ==
+maxwell's equations lead to the prediction of electromagnetic waves in a vacuum which are transverse (in that the electric fields and magnetic fields vary perpendicularly to the direction of propagation) however waves can exist in plasmas or confined spaces called plasma waves which can be longitudinal transverse or a mixture of both plasma waves can also occur in force-free magnetic fields
+in the early development of electromagnetism there were some like alexandru proca (1897-1955) known for developing relativistic quantum field equations bearing his name (proca's equations) for the massive vector spin-1 mesons in recent decades some extended electromagnetic theorists such as jean-pierre vigier and bo lehnert of the swedish royal society have used the proca equation in an attempt to demonstrate photon mass as a longitudinal electromagnetic component of maxwell's equations suggesting that longitudinal electromagnetic waves could exist in a dirac polarized vacuum
+after heaviside's attempts to generalize maxwell's equations heaviside came to the conclusion that electromagnetic waves were not to be found as longitudinal waves in "free space" or homogeneous media but maxwell's equations do lead to the appearance of longitudinal waves under some circumstances for example in plasma waves or guided waves basically distinct from the "free-space" waves such as those studied by hertz in his uhf experiments are zenneck waves the longitudinal modes of a resonant cavity are the particular standing wave patterns formed by waves confined in a cavity the longitudinal modes correspond to those wavelengths of the wave which are reinforced by constructive interference after many reflections from the cavity's reflecting surfaces recently haifeng wang et al proposed a method that can generate a longitudinal electromagnetic (light) wave in free space and this wave can propagate without divergence for a few wavelengths
+== see also ==
+transverse wave
+shear wave splitting
+longitudinal mode
+sks wave
+== references ==
+== further reading ==
+varadan v k. and vasundara v varadan "elastic wave scattering and propagation" attenuation due to scattering of ultrasonic compressional waves in granular media - a.j devaney h levine and t plona ann arbor mich. ann arbor science 1982
+schaaf john van der jaap c schouten and cor m van den bleek "experimental observation of pressure waves in gas-solids fluidized beds" american institute of chemical engineers new york n.y. 1997
+krishan s and a a selim "generation of transverse waves by non-linear wave-wave interaction" department of physics university of alberta edmonton canada
+barrow w l. "transmission of electromagnetic waves in hollow tubes of metal" proc ire vol 24 pp 12981398 october 1936
+russell dan "longitudinal and transverse wave motion" acoustics animations pennsylvania state university graduate program in acoustics
+longitudinal waves with animations "the physics classroom"
+== external links ==
+an interactive simulation of longitudinal travelling wave
+wave types explained using high speed film and animations

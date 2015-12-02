@@ -1,0 +1,103 @@
+electron transport chain etc series compounds transfer electrons electron donors electron acceptors via redox reactions couples electron transfer transfer protons h ions across membrane creates electrochemical proton gradient drives atp synthesis generation chemical energy form adenosine triphosphate atp final acceptor electrons electron transport chain molecular oxygen
+electron transport chains used extracting energy via redox reactions sunlight photosynthesis case oxidation sugars cellular respiration eukaryotes important electron transport chain found inner mitochondrial membrane serves site oxidative phosphorylation use atp synthase also found thylakoid membrane chloroplast photosynthetic eukaryotes bacteria electron transport chain located cell membrane
+chloroplasts light drives conversion water oxygen nadp nadph transfer h ions across chloroplast membranes mitochondria conversion oxygen water nadh nad succinate fumarate required generate proton gradient
+electron transport chains major sites premature electron leakage oxygen generating superoxide potentially resulting increased oxidative stress
+background
+electron transport chain consists spatially separated series redox reactions electrons transferred donor molecule acceptor molecule underlying force driving reactions gibbs free energy reactants products gibbs free energy energy available free work reaction decreases overall gibbs free energy system thermodynamically spontaneous
+function electron transport chain produce transmembrane proton electrochemical gradient result redox reactions protons flow back membrane enable mechanical work rotating bacterial flagella atp synthase enzyme highly conserved among domains life converts mechanical work chemical energy producing atp powers cellular reactions small amount atp available substratelevel phosphorylation example glycolysis organisms majority atp generated electron transport chains obtain atp fermentation
+electron transport chains mitochondria
+eukaryotic cells mitochondria produce atp products citric acid cycle fatty acid oxidation amino acid oxidation mitochondrial inner membrane electrons nadh succinate pass electron transport chain oxygen reduced water electron transport chain comprises enzymatic series electron donors acceptors electron donor passes electrons electronegative acceptor turn donates electrons another acceptor process continues series electrons passed oxygen electronegative terminal electron acceptor chain passage electrons donor acceptor releases energy used generate proton gradient across mitochondrial membrane actively pumping protons intermembrane space producing thermodynamic state potential work entire process called oxidative phosphorylation since adp phosphorylated atp using energy hydrogen oxidation many steps
+small percentage electrons complete whole series instead directly leak oxygen resulting formation freeradical superoxide highly reactive molecule contributes oxidative stress implicated number diseases aging
+mitochondrial redox carriers
+energy obtained transfer electrons blue arrows etc used pump protons red arrows mitochondrial matrix intermembrane space creating electrochemical proton gradient across inner mitochondrial membrane imm called electrochemical proton gradient allows atp synthase atpase use flow h enzyme back matrix generate atp adenosine diphosphate adp inorganic phosphate complex nadh coenzyme q reductase labeled accepts electrons krebs cycle electron carrier nicotinamide adenine dinucleotide nadh passes coenzyme q ubiquinone labeled q also receives electrons complex ii succinate dehydrogenase labeled ii uq passes electrons complex iii cytochrome bc complex labeled iii passes cytochrome c cyt c cyt c passes electrons complex iv cytochrome c oxidase labeled iv uses electrons hydrogen ions reduce molecular oxygen water
+four membranebound complexes identified mitochondria extremely complex transmembrane structure embedded inner membrane three proton pumps structures electrically connected lipidsoluble electron carriers watersoluble electron carriers overall electron transport chain
+nadhh complex q complex iii cytochrome c complex iv o
+complex ii
+succinate
+complex
+complex nadhubiquinone oxidoreductase nadhcoq reductase nadh dehydrogenase ec two electrons removed nadh transferred lipidsoluble carrier ubiquinone q reduced product ubiquinol qh freely diffuses within membrane complex translocates four protons h across membrane thus producing proton gradient complex one main sites premature electron leakage oxygen occurs thus one main sites production superoxide
+pathway electrons follows
+nadh oxidized nad reducing flavin mononucleotide fmnh one twoelectron step fmnh oxidized two oneelectron steps semiquinone intermediate electron thus transfers fmnh fes cluster fes cluster ubiquinone q transfer first electron results freeradical semiquinone form q transfer second electron reduces semiquinone form ubiquinol form qh process four protons translocated mitochondrial matrix intermembrane space
+complex ii
+complex ii succinate dehydrogenase succinatecoq reductase ec additional electrons delivered quinone pool q originating succinate transferred via fad q complex ii consists four protein subunits sdha sdhb sdhc sdhd electron donors eg fatty acids glycerol phosphate also direct electrons q via fad complex parallel electron transport pathway complex unlike complex protons transported intermembrane space pathway therefore pathway complex contributes less energy overall electron transport chain process
+complex iii
+complex iii cytochrome bc complex coqhcytochrome c reductase ec qcycle contributes proton gradient asymmetric absorptionrelease protons two electrons removed qh qo site sequentially transferred two molecules cytochrome c watersoluble electron carrier located within intermembrane space two electrons sequentially pass across protein qi site quinone part ubiquinone reduced quinol proton gradient formed one quinol oxidations qo site form one quinol qi site total four protons translocated two protons reduce quinone quinol two protons released two ubiquinol molecules
+qh cytochrome c feiii hin q cytochrome c feii hout
+electron transfer reduced high membrane potential respiratory inhibitors antimycin complex iii may leak electrons molecular oxygen resulting superoxide formation
+complex iv
+complex iv cytochrome c oxidase ec sometimes called cytochrome four electrons removed four molecules cytochrome c transferred molecular oxygen o producing two molecules water time four protons removed mitochondrial matrix although two translocated across membrane contributing proton gradient activity cytochrome c oxidase inhibited cyanide
+coupling oxidative phosphorylation
+according chemiosmotic coupling hypothesis proposed nobel prize chemistry winner peter d mitchell electron transport chain oxidative phosphorylation coupled proton gradient across inner mitochondrial membrane efflux protons mitochondrial matrix creates electrochemical gradient proton gradient gradient used fof atp synthase complex make atp via oxidative phosphorylation atp synthase sometimes described complex v electron transport chain fo component atp synthase acts ion channel provides proton flux back mitochondrial matrix reflux releases free energy produced generation oxidized forms electron carriers nad q free energy used drive atp synthesis catalyzed f component complex
+coupling oxidative phosphorylation key step atp production however specific cases uncoupling two processes may biologically useful uncoupling protein thermogeninpresent inner mitochondrial membrane brown adipose tissueprovides alternative flow protons back inner mitochondrial matrix alternative flow results thermogenesis rather atp production synthetic uncouplers eg dinitrophenol also exist high doses lethal
+summary
+mitochondrial electron transport chain electrons move electron donor nadh qh terminal electron acceptor o via series redox reactions reactions coupled creation proton gradient across mitochondrial inner membrane three proton pumps iii iv resulting transmembrane proton gradient used make atp via atp synthase
+reactions catalyzed complex complex iii work roughly equilibrium means reactions readily reversible increasing concentration products relative concentration reactants example increasing proton gradient atp synthase also readily reversible thus atp used build proton gradient turn used make nadh process reverse electron transport important many prokaryotic electron transport chains
+electron transport chains bacteria
+eukaryotes nadh important electron donor associated electron transport chain
+nadh complex q complex iii cytochrome c complex iv o complexes iii iv proton pumps q cytochrome c mobile electron carriers electron acceptor molecular oxygen
+prokaryotes bacteria archaea situation complicated several different electron donors several different electron acceptors generalized electron transport chain bacteria
+donor donor donor
+dehydrogenase quinone bc cytochrome
+oxidasereductase oxidasereductase
+acceptor acceptor
+note electrons enter chain three levels level dehydrogenase level quinone pool level mobile cytochrome electron carrier levels correspond successively positive redox potentials successively decreased potential differences relative terminal electron acceptor words correspond successively smaller gibbs free energy changes overall redox reaction donor acceptor
+individual bacteria use multiple electron transport chains often simultaneously bacteria use number different electron donors number different dehydrogenases number different oxidases reductases number different electron acceptors example e coli growing aerobically using glucose energy source uses two different nadh dehydrogenases two different quinol oxidases total four different electron transport chains operating simultaneously
+common feature electron transport chains presence proton pump create transmembrane proton gradient bacterial electron transport chains may contain many three proton pumps like mitochondria may contain one two always contain least one proton pump
+electron donors
+present day biosphere common electron donors organic molecules organisms use organic molecules energy source called organotrophs organotrophs animals fungi protists phototrophs plants algae constitute vast majority familiar life forms
+prokaryotes use inorganic matter energy source organisms called lithotrophs rockeaters inorganic electron donors include hydrogen carbon monoxide ammonia nitrite sulfur sulfide ferrous iron lithotrophs found growing rock formations thousands meters surface earth volume distribution lithotrophs may actually outnumber organotrophs phototrophs biosphere
+use inorganic electron donors energy source particular interest study evolution type metabolism must logically preceded use organic molecules energy source
+dehydrogenases
+bacteria use number different electron donors organic matter energy source donor may nadh succinate case electrons enter electron transport chain via nadh dehydrogenase similar complex mitochondria succinate dehydrogenase similar complex ii dehydrogenases may used process different energy sources formate dehydrogenase lactate dehydrogenase glyceraldehydephosphate dehydrogenase h dehydrogenase hydrogenase etc dehydrogenases also proton pumps others funnel electrons quinone pool dehydrogenases show induced expression bacterial cell response metabolic needs triggered environment cells grow
+quinone carriers
+quinones mobile lipidsoluble carriers shuttle electrons protons large relatively immobile macromolecular complexes embedded membrane bacteria use ubiquinone quinone mitochondria use related quinones menaquinone another name ubiquinone coenzyme q
+proton pumps
+proton pump process creates proton gradient across membrane protons physically moved across membrane seen mitochondrial complexes iv effect produced moving electrons opposite direction result disappearance proton cytoplasm appearance proton periplasm mitochondrial complex iii uses second type proton pump mediated quinone q cycle
+dehydrogenases proton pumps others oxidases reductases proton pumps cytochrome bc proton pump found many bacteria found e coli name implies bacterial bc similar mitochondrial bc complex iii
+proton pumps heart electron transport process produce transmembrane electrochemical gradient enables atp synthase synthesize atp
+cytochrome electron carriers
+cytochromes pigments contain iron found two different environments
+cytochromes watersoluble carriers shuttle electrons large immobile macromolecular structures imbedded membrane mobile cytochrome electron carrier mitochondria cytochrome c bacteria use number different mobile cytochrome electron carriers
+cytochromes found within macromolecules complex iii complex iv also function electron carriers different intramolecular solidstate environment
+electrons may enter electron transport chain level mobile cytochrome quinone carrier example electrons inorganic electron donors nitrite ferrous iron etc enter electron transport chain cytochrome level electrons enter redox level greater nadh electron transport chain must operate reverse produce necessary higherenergy molecule
+terminal oxidases reductases
+bacteria grow aerobic environments terminal electron acceptor o reduced water enzyme called oxidase bacteria grow anaerobic environments terminal electron acceptor reduced enzyme called reductase
+mitochondria terminal membrane complex complex iv cytochrome oxidase aerobic bacteria use number different terminal oxidases example e coli cytochrome oxidase bc complex aerobic conditions uses two different terminal quinol oxidases proton pumps reduce oxygen water
+anaerobic bacteria use oxygen terminal electron acceptor terminal reductases individualized terminal acceptor example e coli use fumarate reductase nitrate reductase nitrite reductase dmso reductase trimethylaminenoxide reductase depending availability acceptors environment
+terminal oxidases reductases inducible synthesized organism needed response specific environmental conditions
+electron acceptors
+number different electron donors organic matter organotrophs inorganic matter lithotrophs number different electron acceptors organic inorganic oxygen available invariably used terminal electron acceptor generates greatest gibbs free energy change produces energy
+anaerobic environments different electron acceptors used including nitrate nitrite ferric iron sulfate carbon dioxide small organic molecules fumarate
+since electron transport chains redox processes described sum two redox pairs example mitochondrial electron transport chain described sum nadnadh redox pair oho redox pair nadh electron donor o electron acceptor
+every donoracceptor combination thermodynamically possible redox potential acceptor must positive redox potential donor furthermore actual environmental conditions may far different standard conditions molar concentrations atm partial pressures ph apply standard redox potentials example hydrogenevolving bacteria grow ambient partial pressure hydrogen gas atm associated redox reaction thermodynamically favorable nature thermodynamic impossible standard conditions
+summary
+bacterial electron transport pathways general inducible depending environment bacteria synthesize different transmembrane complexes produce different electron transport chains cell membranes bacteria select electron transport chains dna library containing multiple possible dehydrogenases terminal oxidases terminal reductases situation often summarized saying electron transport chains bacteria branched modular inducible
+photosynthetic electron transport chains
+oxidative phosphorylation electrons transferred lowenergy electron donor eg nadh acceptor eg o electron transport chain photophosphorylation energy sunlight used create highenergy electron donor electron acceptor electrons transferred donor acceptor another electron transport chain
+photosynthetic electron transport chains many similarities oxidative chains discussed use mobile lipidsoluble carriers quinones mobile watersoluble carriers cytochromes etc also contain proton pump remarkable proton pump photosynthetic chains resembles mitochondrial complex iii
+photosynthetic electron transport chains discussed greater detail articles photophosphorylation photosynthesis photosynthetic reaction center lightdependent reaction
+summary
+electron transport chains redox reactions transfer electrons electron donor electron acceptor transfer electrons coupled translocation protons across membrane producing proton gradient proton gradient used produce useful work work units produced per electron transport
+see also
+corr hypothesis
+electron equivalent
+hydrogen hypothesis
+respirasome
+references
+fenchel king gm blackburn th september bacterial biogeochemistry ecophysiology mineral cycling nd ed elsevier isbn
+lengeler jw drews g schlegel hg editors january biology prokaryotes blackwell science isbn
+nelson dl cox mm april lehninger principles biochemistry th ed w h freeman isbn
+nicholls dg ferguson sj july bioenergetics academic press isbn
+stumm w morgan jj aquatic chemistry rd ed john wiley sons isbn
+thauer rk jungermann k decker k march energy conservation chemotrophic anaerobic bacteria bacteriol rev pmc pmid
+white d september physiology biochemistry prokaryotes nd ed oxford university press isbn
+voet d voet jg march biochemistry rd ed john wiley sons isbn
+kim hs patel k muldoonjacobs k bisht ks aykinburns n pennington jd van der meer r nguyen p et al january sirt mitochondrialocalized tumor suppressor required maintenance mitochondrial integrity metabolism stress cancer cell doijccr pmc pmid
+external links
+electron transport chain complex proteins us national library medicine medical subject headings mesh
+khan academy video lecture
+umich orientation proteins membranes familiessuperfamily complexes cytochrome blike domains
+umich orientation proteins membranes familiessuperfamily bacterial mitochondrial cytochrome c oxidases
+umich orientation proteins membranes familiessuperfamily photosynthetic reaction centers photosystems
+umich orientation proteins membranes familiessuperfamily cytochrome porn renodoxin reductase
+umich orientation proteins membranes familiessuperfamily electron transfer flavoproteins

@@ -1,0 +1,30 @@
+avalanche photodiode apd highly sensitive semiconductor electronic device exploits photoelectric effect convert light electricity apds thought photodetectors provide builtin first stage gain avalanche multiplication functional standpoint regarded semiconductor analog photomultipliers applying high reverse bias voltage typically v silicon apds show internal current gain effect around due impact ionization avalanche effect however silicon apds employ alternative doping beveling techniques compared traditional apds allow greater voltage applied v breakdown reached hence greater operating gain general higher reverse voltage higher gain among various expressions apd multiplication factor m instructive expression given formula
+l space charge boundary electrons multiplication coefficient electrons holes coefficient strong dependence applied electric field strength temperature doping profile since apd gain varies strongly applied reverse bias temperature necessary control reverse voltage keep stable gain avalanche photodiodes therefore sensitive compared semiconductor photodiodes
+high gain needed certain apds singlephoton avalanche diodes operated reverse voltage apds breakdown voltage case apd needs signal current limited quickly diminished active passive current quenching techniques used purpose apds operate highgain regime geiger mode mode particularly useful single photon detection provided dark count event rate sufficiently low
+typical application apds laser rangefinders long range fiber optic telecommunication new applications include positron emission tomography particle physics apd arrays becoming commercially available
+apd applicability usefulness depends many parameters two larger factors quantum efficiency indicates well incident optical photons absorbed used generate primary charge carriers total leakage current sum dark current photocurrent noise electronic dark noise components series parallel noise series noise effect shot noise basically proportional apd capacitance parallel noise associated fluctuations apd bulk surface dark currents another noise source excess noise factor enf describes statistical noise inherent stochastic apd multiplication process confused fano noise f describes fluctuation total electric charge collected apd
+materials
+principle semiconductor material used multiplication region
+silicon detect visible near infrared low multiplication noise excess noise
+germanium ge detect infrared wavelength m high multiplication noise
+ingaas detect longer m less multiplication noise ge normally used absorption region heterostructure diode typically involving inp substrate multiplication layer material system compatible absorption window roughly m ingaas exhibits high absorption coefficient wavelengths appropriate highspeed telecommunications using optical fibers micrometres ingaas required nearly light absorption excess noise factor low enough permit gainbandwidth product excess ghz simple inpingaas system ghz ingaas silicon therefore high speed operation possible commercial devices available speeds least gbits
+gallium nitride based diodes used operation ultraviolet light
+hgcdte based diodes operate infrared typically maximum wavelength m require cooling reduce dark currents low excess noise achieved material system
+excess noise
+excess noise refers noise due multiplication process gain m denoted enfm often expressed
+ratio hole impact ionization rate electrons electron multiplication device given hole impact ionization rate divided electron impact ionization rate desirable large asymmetry rates minimize enfm since enfm one main factors limit among things best possible energy resolution obtainable
+performance limits
+addition excess noise limits device performance associated capacitance transit times avalanche multiplication time capacitance increases increasing device area decreasing thickness transit times electrons holes increase increasing thickness implying tradeoff capacitance transit time performance avalanche multiplication time times gain given first order gainbandwidth product function device structure especially
+see also
+avalanche diode
+avalanche breakdown
+singlephoton avalanche diode
+references
+reading
+avalanche photodiode user guide
+avalanche photodiode low noise apd receivers
+kagawa fully ionimplanted pn germanium avalanche photodiodes applied physics letters doi
+hyun kyungsook park chanyong breakdown characteristics inpingaas avalanche photodiode pin multiplication layer structure journal applied physics doi
+selecting right apd
+pulsed laserdiodes avalanche photodiodes industrial applications
+excelitas technologies photonic detectors

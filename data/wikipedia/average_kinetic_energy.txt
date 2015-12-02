@@ -1,0 +1,81 @@
+in mechanics the virial theorem provides a general equation that relates the average over time of the total kinetic energy  of a stable system consisting of n particles bound by potential forces with that of the total potential energy  where angle brackets represent the average over time of the enclosed quantity mathematically the theorem states
+where fk represents the force on the kth particle which is located at position rk the word virial for the right-hand side of the equation derives from vis the latin word for "force" or "energy" and was given its technical definition by rudolf clausius in 1870
+the significance of the virial theorem is that it allows the average total kinetic energy to be calculated even for very complicated systems that defy an exact solution such as those considered in statistical mechanics; this average total kinetic energy is related to the temperature of the system by the equipartition theorem however the virial theorem does not depend on the notion of temperature and holds even for systems that are not in thermal equilibrium the virial theorem has been generalized in various ways most notably to a tensor form
+if the force between any two particles of the system results from a potential energy v(r) = r n that is proportional to some power n of the inter-particle distance r the virial theorem takes the simple form
+thus twice the average total kinetic energy equals n times the average total potential energy  whereas v(r) represents the potential energy between two particles vtot represents the total potential energy of the system i.e. the sum of the potential energy v(r) over all pairs of particles in the system a common example of such a system is a star held together by its own gravity where n equals 1
+although the virial theorem depends on averaging the total kinetic and potential energies the presentation here postpones the averaging to the last step
+== history ==
+in 1870 rudolf clausius delivered the lecture "on a mechanical theorem applicable to heat" to the association for natural and medical sciences of the lower rhine following a 20 year study of thermodynamics the lecture stated that the mean vis viva of the system is equal to its virial or that the average kinetic energy is equal to 1/2 the average potential energy the virial theorem can be obtained directly from lagrange's identity as applied in classical gravitational dynamics the original form of which was included in lagrange's "essay on the problem of three bodies" published in 1772 karl jacobi's generalization of the identity to n bodies and to the present form of laplace's identity closely resembles the classical virial theorem however the interpretations leading to the development of the equations were very different since at the time of development statistical dynamics had not yet unified the separate studies of thermodynamics and classical dynamics the theorem was later utilized popularized generalized and further developed by james clerk maxwell lord rayleigh henri poincar subrahmanyan chandrasekhar enrico fermi paul ledoux and eugene parker fritz zwicky was the first to use the virial theorem to deduce the existence of unseen matter which is now called dark matter as another example of its many applications the virial theorem has been used to derive the chandrasekhar limit for the stability of white dwarf stars
+== statement and derivation ==
+for a collection of n point particles the scalar moment of inertia i about the origin is defined by the equation
+where mk and rk represent the mass and position of the kth particle rk=|rk| is the position vector magnitude the scalar g is defined by the equation
+where pk is the momentum vector of the kth particle assuming that the masses are constant g is one-half the time derivative of this moment of inertia
+in turn the time derivative of g can be written
+where mk is the mass of the k-th particle is the net force on that particle and t is the total kinetic energy of the system
+=== connection with the potential energy between particles ===
+the total force on particle k is the sum of all the forces from the other particles j in the system
+where is the force applied by particle j on particle k hence the virial can be written
+since no particle acts on itself (i.e. whenever ) we have
+where we have assumed that newton's third law of motion holds i.e. (equal and opposite reaction)
+it often happens that the forces can be derived from a potential energy v that is a function only of the distance rjk between the point particles j and k since the force is the negative gradient of the potential energy we have in this case
+which is clearly equal and opposite to  the force applied by particle on particle j as may be confirmed by explicit calculation hence
+thus we have
+=== special case of power-law forces ===
+in a common special case the potential energy v between two particles is proportional to a power n of their distance r
+where the coefficient and the exponent n are constants in such cases the virial is given by the equation
+where vtot is the total potential energy of the system
+thus we have
+for gravitating systems the exponent n equals 1 giving lagrange's identity
+which was derived by lagrange and extended by jacobi
+=== time averaging ===
+the average of this derivative over a time  is defined as
+from which we obtain the exact equation
+the virial theorem states that if  then
+there are many reasons why the average of the time derivative might vanish i.e.  one often-cited reason applies to stably bound systems i.e. systems that hang together forever and whose parameters are finite in that case velocities and coordinates of the particles of the system have upper and lower limits so that gbound is bounded between two extremes gmin and gmax and the average goes to zero in the limit of very long times
+even if the average of the time derivative of g is only approximately zero the virial theorem holds to the same degree of approximation
+for power-law forces with an exponent n the general equation holds
+for gravitational attraction n equals 1 and the average kinetic energy equals half of the average negative potential energy
+this general result is useful for complex gravitating systems such as solar systems or galaxies
+a simple application of the virial theorem concerns galaxy clusters if a region of space is unusually full of galaxies it is safe to assume that they have been together for a long time and the virial theorem can be applied doppler measurements give lower bounds for their relative velocities and the virial theorem gives a lower bound for the total mass of the cluster including any dark matter
+the averaging need not be taken over time; an ensemble average can also be taken with equivalent results
+== in quantum mechanics ==
+although originally derived for classical mechanics the virial theorem also holds for quantum mechanics as first shown by fock
+evaluate the commutator of the hamiltonian and the product of the position operator and the momentum operator of particle :
+so summing over all particles one finds for the commutator
+with kinetic energy  the left-hand side of this equation is just  according to the heisenberg equation of motion the expectation value of that time derivative vanishes in a stationary state hence we obtain the quantum virial theorem
+== in special relativity ==
+for a single particle in special relativity it is not the case that  instead it is true that  where and  we have
+the last expression can be simplified to either or 
+thus under the conditions described in earlier sections (including newton's third law of motion  despite relativity) the time average for particles with a power law potential is
+in particular the ratio of kinetic energy to potential energy is no longer fixed but necessarily falls into an interval:
+where the more relativistic systems exhibit the larger ratios
+== generalizations ==
+lord rayleigh published a generalization of the virial theorem in 1903 henri poincar applied a form of the virial theorem in 1911 to the problem of determining cosmological stability a variational form of the virial theorem was developed in 1945 by ledoux a tensor form of the virial theorem was developed by parker chandrasekhar and fermi the following generalization of the virial theorem has been established by pollard in 1964 for the case of the inverse square law: the statement is true if and only if a boundary term otherwise must be added such as in ref
+== inclusion of electromagnetic fields ==
+the virial theorem can be extended to include electric and magnetic fields the result is
+where i is the moment of inertia g is the momentum density of the electromagnetic field t is the kinetic energy of the "fluid" u is the random "thermal" energy of the particles we and wm are the electric and magnetic energy content of the volume considered finally pik is the fluid-pressure tensor expressed in the local moving coordinate system
+and tik is the electromagnetic stress tensor
+a plasmoid is a finite configuration of magnetic fields and plasma with the virial theorem it is easy to see that any such configuration will expand if not contained by external forces in a finite configuration without pressure-bearing walls or magnetic coils the surface integral will vanish since all the other terms on the right hand side are positive the acceleration of the moment of inertia will also be positive it is also easy to estimate the expansion time  if a total mass m is confined within a radius r then the moment of inertia is roughly mr2 and the left hand side of the virial theorem is mr2/2 the terms on the right hand side add up to about pr3 where p is the larger of the plasma pressure or the magnetic pressure equating these two terms and solving for  we find
+where cs is the speed of the ion acoustic wave (or the alfvn wave if the magnetic pressure is higher than the plasma pressure) thus the lifetime of a plasmoid is expected to be on the order of the acoustic (or alfvn) transit time
+== in astrophysics ==
+the virial theorem is frequently applied in astrophysics especially relating the gravitational potential energy of a system to its kinetic or thermal energy some common virial relations are
+for a mass  radius  velocity  and temperature  and the constants are newton's constant  the boltzmann constant  and proton mass  note that these relations are only approximate and often the leading numerical factors (e.g 3/5 or 1/2) are neglected entirely
+=== galaxies and cosmology (virial mass and radius) ===
+in astronomy the mass and size of a galaxy (or general overdensity) is often defined in terms of the "virial radius" and "virial mass" respectively because galaxies and overdensities in continuous fluids can be highly extended (even to infinity in some modelse.g an isothermal sphere) it can be hard to define specific finite measures of their mass and size the virial theorem and related concepts provide an often convenient means by which to quantify these properties
+in galaxy dynamics the mass of a galaxy is often inferred by measuring the rotation velocity of its gas and stars assuming circular keplerian orbits using the virial theorem the dispersion velocity can be used in a similar way taking the kinetic energy (per particle) of the system as  and the potential energy (per particle) as u ~ (3/5)(gm/r) we can write
+here is the radius at which the velocity dispersion is being measured and is the mass within that radius the virial mass and radius are generally defined for the radius at which the velocity dispersion is a maximum i.e
+as numerous approximations have been made in addition to the approximate nature of these definitions order-unity proportionality constants are often omitted (as in the above equations) these relations are thus only accurate in an order of magnitude sense or when used self-consistently
+an alternate definition of the virial mass and radius is often used in cosmology where it is used to refer to the radius of a sphere centered on a galaxy or a galaxy cluster within which virial equilibrium holds since this radius is difficult to determine observationally it is often approximated as the radius within which the average density is greater by a specified factor than the critical density  where is the hubble parameter and is the gravitational constant a common (although mostly arbitrary) choice for the factor is 200 in which case the virial radius is approximated as  the virial mass is then defined relative to this radius as 
+== see also ==
+virial coefficient
+virial stress
+virial mass
+derrick's theorem (pohozaev's identity)
+equipartition theorem
+== references ==
+== further reading ==
+goldstein h (1980) classical mechanics (2nd ed.) addisonwesley isbn 0-201-02918-9
+collins g w (1978) "the virial theorem in stellar astrophysics" pachart press
+== external links ==
+the virial theorem at mathpages
+gravitational contraction and star formation georgia state university

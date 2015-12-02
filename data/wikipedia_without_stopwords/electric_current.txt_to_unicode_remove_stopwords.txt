@@ -1,0 +1,97 @@
+electric current flow electric charge electric circuits charge often carried moving electrons wire also carried ions electrolyte ions electrons plasma
+si unit measuring electric current ampere flow electric charge across surface rate one coulomb per second electric current measured using device called ammeter
+electric currents cause joule heating creates light incandescent light bulbs also create magnetic fields used motors inductors generators
+particles carry charge electric current called charge carriers metals one electrons atom loosely bound atom move freely within metal conduction electrons charge carriers metal conductors
+symbol
+conventional symbol current originates french phrase intensit de courant meaning current intensity current intensity often referred simply current symbol used andrmarie ampre unit electric current named formulating eponymous ampres force law discovered notation travelled france great britain became standard although least one journal change using c
+conventions
+metals make wires conductors electrical circuits positively charged atomic nuclei held fixed position electrons free move carrying charge one place another materials notably semiconductors charge carriers positive negative depending dopant used positive negative charge carriers may even present time happens electrochemical cell
+flow positive charges gives electric current effect circuit equal flow negative charges opposite direction since current flow either positive negative charges convention needed direction current independent type charge carriers direction conventional current arbitrarily defined direction positive charges flow
+consequence convention electrons charge carriers metal wires parts electric circuits flow opposite direction conventional current flow electrical circuit
+reference direction
+since current wire component flow either direction variable defined represent current direction representing positive current must specified usually arrow circuit schematic diagram called reference direction current current flows opposite direction variable negative value
+analyzing electrical circuits actual direction current specific circuit element usually unknown consequently reference directions currents often assigned arbitrarily circuit solved negative value variable means actual direction current circuit element opposite chosen reference direction electronic circuits reference current directions often chosen currents toward ground often corresponds actual current direction many circuits power supply voltage positive respect ground
+ohms law
+ohms law states current conductor two points directly proportional potential difference across two points introducing constant proportionality resistance one arrives usual mathematical equation describes relationship
+current conductor units amperes v potential difference measured across conductor units volts r resistance conductor units ohms specifically ohms law states r relation constant independent current
+ac dc
+abbreviations ac dc often used mean simply alternating direct modify current voltage
+direct current
+direct current dc unidirectional flow electric charge direct current produced sources batteries thermocouples solar cells commutatortype electric machines dynamo type direct current may flow conductor wire also flow semiconductors insulators even vacuum electron ion beams electric charge flows constant direction distinguishing alternating current ac term formerly used direct current galvanic current
+alternating current
+alternating current ac also ac movement electric charge periodically reverses direction direct current dc also dc flow electric charge one direction
+ac form electric power delivered businesses residences usual waveform ac power circuit sine wave certain applications use different waveforms triangular square waves audio radio signals carried electrical wires also examples alternating current important goal applications recovery information encoded modulated onto ac signal
+occurrences
+natural observable examples electrical current include lightning static electricity solar wind source polar auroras
+manmade occurrences electric current include flow conduction electrons metal wires overhead power lines deliver electrical energy across long distances smaller wires within electrical electronic equipment eddy currents electric currents occur conductors exposed changing magnetic fields similarly electric currents occur particularly surface conductors exposed electromagnetic waves oscillating electric currents flow correct voltages within radio antennas radio waves generated
+electronics forms electric current include flow electrons resistors vacuum vacuum tube flow ions inside battery neuron flow holes within semiconductor
+current measurement
+current measured using ammeter
+circuit level various techniques used measure current
+shunt resistors
+hall effect current sensor transducers
+transformers however dc cannot measured
+magnetoresistive field sensors
+resistive heating
+joule heating also known ohmic heating resistive heating process passage electric current conductor releases heat first studied james prescott joule joule immersed length wire fixed mass water measured temperature rise due known current wire minute period varying current length wire deduced heat produced proportional square current multiplied electrical resistance wire
+relationship known joules first law si unit energy subsequently named joule given symbol j commonly known unit power watt equivalent one joule per second
+electromagnetism
+electromagnet
+electric current produces magnetic field magnetic field visualized pattern circular field lines surrounding wire persists long current
+magnetism also produce electric currents changing magnetic field applied conductor electromotive force emf produced suitable path causes current
+electric current directly measured galvanometer method involves breaking electrical circuit sometimes inconvenient current also measured without breaking circuit detecting magnetic field associated current devices used include hall effect sensors current clamps current transformers rogowski coils
+radio waves
+electric current flows suitably shaped conductor radio frequencies radio waves generated travel speed light cause electric currents distant conductors
+conduction mechanisms various media
+metallic solids electric charge flows means electrons lower higher electrical potential media stream charged objects ions example may constitute electric current provide definition current independent type charge carriers conventional current defined moving direction positive charge flow metals charge carriers electrons negative conventional current opposite direction electrons conductors charge carriers positive conventional current direction charge carriers
+vacuum beam ions electrons may formed conductive materials electric current due flow positively negatively charged particles time still others current entirely due positive charge flow example electric currents electrolytes flows positively negatively charged ions common leadacid electrochemical cell electric currents composed positive hydrogen ions protons flowing one direction negative sulfate ions flowing electric currents sparks plasma flows electrons well positive negative ions ice certain solid electrolytes electric current entirely composed flowing ions
+metals
+solid conductive metal contains mobile free electrons function conduction electrons electrons bound metal lattice longer individual atom metals particularly conductive large number free electrons typically one per atom lattice even external electric field applied electrons move randomly due thermal energy average zero net current within metal room temperature average speed random motions metres per second given surface metal wire passes electrons move directions across surface equal rate george gamow wrote popular science book one two threeinfinity metallic substances differ materials fact outer shells atoms bound rather loosely often let one electrons go free thus interior metal filled large number unattached electrons travel aimlessly around like crowd displaced persons metal wire subjected electric force applied opposite ends free electrons rush direction force thus forming call electric current
+metal wire connected across two terminals dc voltage source battery source places electric field across conductor moment contact made free electrons conductor forced drift toward positive terminal influence field free electrons therefore charge carrier typical solid conductor
+steady flow charge surface current amperes calculated following equation
+q electric charge transferred surface time q measured coulombs seconds respectively amperes
+generally electric current represented rate charge flows given surface
+electrolytes
+electric currents electrolytes flows electrically charged particles ions example electric field placed across solution na cl conditions right sodium ions move towards negative electrode cathode chloride ions move towards positive electrode anode reactions take place electrode surfaces absorbing ion
+waterice certain solid electrolytes called proton conductors contain positive hydrogen ions protons mobile materials electric currents composed moving protons opposed moving electrons metals
+certain electrolyte mixtures brightly coloured ions moving electric charges slow progress colour makes current visible
+gases plasmas
+air ordinary gases breakdown field dominant source electrical conduction via relatively mobile ions produced radioactive gases ultraviolet light cosmic rays since electrical conductivity low gases dielectrics insulators however applied electric field approaches breakdown value free electrons become sufficiently accelerated electric field create additional free electrons colliding ionizing neutral gas atoms molecules process called avalanche breakdown breakdown process forms plasma contains enough mobile electrons positive ions make electrical conductor process forms light emitting conductive path spark arc lightning
+plasma state matter electrons gas stripped ionized molecules atoms plasma formed high temperature application high electric alternating magnetic field noted due lower mass electrons plasma accelerate quickly response electric field heavier positive ions hence carry bulk current free ions recombine create new chemical compounds example breaking atmospheric oxygen single oxygen o o recombine creating ozone o
+vacuum
+since perfect vacuum contains charged particles normally behaves perfect insulator however metal electrode surfaces cause region vacuum become conductive injecting free electrons ions either field electron emission thermionic emission thermionic emission occurs thermal energy exceeds metals work function field electron emission occurs electric field surface metal high enough cause tunneling results ejection free electrons metal vacuum externally heated electrodes often used generate electron cloud filament indirectly heated cathode vacuum tubes cold electrodes also spontaneously produce electron clouds via thermionic emission small incandescent regions called cathode spots anode spots formed incandescent regions electrode surface created localized high current regions may initiated field electron emission sustained localized thermionic emission vacuum arc forms small electronemitting regions form quite rapidly even explosively metal surface subjected high electrical field vacuum tubes sprytrons electronic switching amplifying devices based vacuum conductivity
+superconductivity
+superconductivity phenomenon exactly zero electrical resistance expulsion magnetic fields occurring certain materials cooled characteristic critical temperature discovered heike kamerlingh onnes april leiden like ferromagnetism atomic spectral lines superconductivity quantum mechanical phenomenon characterized meissner effect complete ejection magnetic field lines interior superconductor transitions superconducting state occurrence meissner effect indicates superconductivity cannot understood simply idealization perfect conductivity classical physics
+semiconductor
+semiconductor sometimes useful think current due flow positive holes mobile positive charge carriers places semiconductor crystal missing valence electron case ptype semiconductor semiconductor electrical conductivity intermediate magnitude conductor insulator means conductivity roughly range siemens per centimeter scm
+classic crystalline semiconductors electrons energies within certain bands ie ranges levels energy energetically bands located energy ground state state electrons tightly bound atomic nuclei material free electron energy latter describing energy required electron escape entirely material energy bands correspond large number discrete quantum states electrons states low energy closer nucleus occupied particular band called valence band semiconductors insulators distinguished metals valence band given metal nearly filled electrons usual operating conditions semiconductor virtually none insulator available conduction band band immediately valence band
+ease exciting electrons semiconductor valence band conduction band depends band gap bands size energy band gap serves arbitrary dividing line roughly ev semiconductors insulators
+covalent bonds electron moves hopping neighboring bond pauli exclusion principle requires electron lifted higher antibonding state bond delocalized states example one dimension nanowire every energy state electrons flowing one direction another state electrons flowing net current flow states one direction direction must occupied occur energy required semiconductor next higher states lie band gap often stated full bands contribute electrical conductivity however semiconductors temperature rises absolute zero energy semiconductor spend lattice vibration exciting electrons conduction band currentcarrying electrons conduction band known free electrons though often simply called electrons clear context
+current density ohms law
+current density measure density electric current defined vector whose magnitude electric current per crosssectional area si units current density measured amperes per square metre
+current conductor current density differential crosssectional area vector
+current density current per unit area materials finite resistance directly proportional electric field medium proportionality constant called conductivity material whose value depends material concerned general dependent temperature material
+reciprocal conductivity material called resistivity material equation written terms resistivity becomes
+conduction semiconductor devices may occur combination drift diffusion proportional diffusion constant charge density current density
+elementary charge electron density carriers move direction decreasing concentration electrons positive current results positive density gradient carriers holes replace electron density negative hole density
+linear anisotropic materials d tensors
+linear materials metals low frequencies current density across conductor surface uniform conditions ohms law states current directly proportional potential difference two ends across metal ideal resistor ohmic device
+current measured amperes potential difference measured volts resistance measured ohms alternating currents especially higher frequencies skin effect causes current spread unevenly across conductor crosssection higher density near surface thus increasing apparent resistance
+drift speed
+mobile charged particles within conductor move constantly random directions like particles gas create net flow charge particles must also move together average drift rate electrons charge carriers metals follow erratic path bouncing atom atom generally drifting opposite direction electric field speed drift calculated equation
+electric current
+number charged particles per unit volume charge carrier density
+crosssectional area conductor
+drift velocity
+charge particle
+typically electric charges solids flow slowly example copper wire crosssection mm carrying current drift velocity electrons order millimetre per second take different example nearvacuum inside cathode ray tube electrons travel nearstraight lines tenth speed light
+accelerating electric charge therefore changing electric current gives rise electromagnetic wave propagates high speed outside surface conductor speed usually significant fraction speed light deduced maxwells equations therefore many times faster drift velocity electrons example ac power lines waves electromagnetic energy propagate space wires moving source distant load even though electrons wires move back forth tiny distance
+ratio speed electromagnetic wave speed light free space called velocity factor depends electromagnetic properties conductor insulating materials surrounding shape size
+magnitudes natures three velocities illustrated analogy three similar velocities associated gases
+low drift velocity charge carriers analogous air motion words winds
+high speed electromagnetic waves roughly analogous speed sound gas waves move medium much faster individual particles
+random motion charges analogous heat thermal velocity randomly vibrating gas particles
+see also
+references
+external links
+allaboutcircuitscom useful site introducing electricity electronics

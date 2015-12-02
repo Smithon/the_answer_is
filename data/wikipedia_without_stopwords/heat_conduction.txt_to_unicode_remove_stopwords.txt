@@ -1,0 +1,124 @@
+thermal conduction transfer internal energy microscopic diffusion collisions particles quasiparticles within body contiguous bodies microscopically diffusing colliding objects include molecules atoms electrons phonons transfer disorganized microscopic kinetic potential energy jointly known internal energy conduction takes place phases ponderable matter solids liquids gases plasmas distinctly recognizable matter undergoing neither chemical reaction differential local internal flows distinct chemical constituents presence chemically defined contributory subprocesses flow internal energy recognizable distinct thermal conduction net flow energy solely temperature gradient recognized flow heat
+heat spontaneously flows hotter colder body example heat conducted hotplate electric stove bottom saucepan contact absence external drivers within body bodies temperature differences decay time thermal equilibrium approached temperature becoming uniform
+conduction heat flow within body contrast heat transfer thermal radiation transfer often bodies may separated spatially also possible transfer heat combination conduction thermal radiation convection internal energy carried bodies moving material carrier solids conduction mediated combination vibrations collisions molecules propagation collisions phonons diffusion collisions free electrons gases liquids conduction due collisions diffusion molecules random motion photons context collide one another heat transport electromagnetic radiation conceptually distinct heat conduction microscopic diffusion collisions material particles phonons distinction often easily observed unless material semitransparent
+engineering sciences heat transfer includes processes thermal radiation convection sometimes mass transfer usually one processes occurs given situation conventional symbol material property thermal conductivity
+overviewedit
+microscopic scale conduction occurs within body considered stationary means kinetic potential energies bulk motion body separately accounted internal energy diffuses rapidly moving vibrating atoms molecules interact neighboring particles transferring microscopic kinetic potential energies quantities defined relative bulk body considered stationary heat transferred conduction adjacent atoms molecules collide several electrons move backwards forwards atom atom disorganized way form macroscopic electric current phonons collide scatter conduction significant means heat transfer within solid solid objects thermal contact conduction greater solids network relatively close fixed spatial relationships atoms helps transfer energy vibration
+fluids especially gases less conductive due large distance atoms gas fewer collisions atoms means less conduction conductivity gases increases temperature conductivity increases increasing pressure vacuum critical point density gas molecules gas may expected collide transfer heat one surface another point conductivity increases slightly increasing pressure density
+thermal contact conductance study heat conduction solid bodies contact temperature drop often observed interface two surfaces contact phenomenon said result thermal contact resistance existing contacting surfaces interfacial thermal resistance measure interfaces resistance thermal flow thermal resistance differs contact resistance exists even atomically perfect interfaces understanding thermal resistance interface two materials primary significance study thermal properties interfaces often contribute significantly observed properties materials
+intermolecular transfer energy could primarily elastic impact fluids free electron diffusion metals phonon vibration insulators insulators heat flux carried almost entirely phonon vibrations
+metals eg copper platinum goldetc usually good conductors thermal energy due way metals bond chemically metallic bonds opposed covalent ionic bonds freemoving electrons transfer thermal energy rapidly metal electron fluid conductive metallic solid conducts heat flux solid phonon flux still present carries less energy electrons also conduct electric current conductive solids thermal electrical conductivities metals ratio good electrical conductor copper also conducts heat well thermoelectricity caused interaction heat flux electric current heat conduction within solid directly analogous diffusion particles within fluid situation fluid currents
+quantify ease particular medium conducts engineers employ thermal conductivity also known conductivity constant conduction coefficient k thermal conductivity k defined quantity heat q transmitted time thickness l direction normal surface area due temperature difference thermal conductivity material property primarily dependent mediums phase temperature density molecular bonding thermal effusivity quantity derived conductivity measure ability exchange thermal energy surroundings
+steadystate conductionedit
+steady state conduction form conduction happens temperature differences driving conduction constant equilibration time spatial distribution temperatures temperature field conducting object change thus partial derivatives temperature respect space may either zero nonzero values derivatives temperature point respect time uniformly zero steady state conduction amount heat entering region object equal amount heat coming temperature would rising falling thermal energy tapped trapped region
+example bar may cold one end hot state steady state conduction reached spatial gradient temperatures along bar change time proceeds instead temperature given section rod remains constant temperature varies linearly space along direction heat transfer
+steady state conduction laws direct current electrical conduction applied heat currents cases possible take thermal resistances analog electrical resistances cases temperature plays role voltage heat transferred per unit time heat power analog electric current steady state systems modelled networks thermal resistances series parallel exact analogy electrical networks resistors see purely resistive thermal circuits example network
+transient conductionedit
+general period temperatures change time place within object mode thermal energy flow termed transient conduction another term non steadystate conduction referring timedependence temperature fields object nonsteadystate situations appear imposed change temperature boundary object may also occur temperature changes inside object result new source sink heat suddenly introduced within object causing temperatures near source sink change time
+new perturbation temperature type happens temperatures within system change time toward new equilibrium new conditions provided change equilibrium heat flow system equals heat flow temperatures point inside system longer change happens transient conduction ended although steadystate conduction may continue heat flow continues
+changes external temperatures internal heat generation changes rapid equilibrium temperatures space take place system never reaches state unchanging temperature distribution time system remains transient state
+example new source heat turning within object causing transient conduction engine starting automobile case transient thermal conduction phase entire machine steady state phase appears soon engine reaches steadystate operating temperature state steadystate equilibrium temperatures vary greatly engine cylinders parts automobile point space within automobile temperature increase decrease establishing state transient conduction phase heat transfer
+new external conditions also cause process example copper bar example steadystate conduction experiences transient conduction soon one end subjected different temperature time field temperatures inside bar reach new steadystate constant temperature gradient along bar finally set gradient stays constant space typically new steady state gradient approached exponentially time new temperatureorheat source sink introduced transient conduction phase heat flow may still continue high power long temperatures change
+example transient conduction end steadystate conduction rather conduction occurs hot copper ball dropped oil low temperature temperature field within object begins change function time heat removed metal interest lies analyzing spatial change temperature within object time gradients disappear entirely ball reached temperature oil mathematically condition also approached exponentially theory takes infinite time practice intents purposes much shorter period end process heat sink internal parts ball finite steady state heat conduction reach state never occurs situation rather end process heat conduction
+analysis non steadystate conduction systems complex steadystate systems conducting body simple shape exact analytical mathematical expressions solutions may possible see heat equation analytical approach however often complicated shapes varying thermal conductivities within shape ie complex objects mechanisms machines engineering often application approximate theories required andor numerical analysis computer one popular graphical method involves use heisler charts
+occasionally transient conduction problems may considerably simplified regions object heated cooled identified thermal conductivity much greater heat paths leading region case region high conductivity often treated lumped capacitance model lump material simple thermal capacitance consisting aggregate heat capacity regions warm cool process show significant temperature variation across extent process compared rest system due far higher conductance transient conduction therefore temperature across conductive regions changes uniformly space simple exponential time example systems follow newtons law cooling transient cooling reverse heating equivalent thermal circuit consists simple capacitor series resistor cases remainder system high thermal resistance comparatively low conductivity plays role resistor circuit
+relativistic conductionedit
+theory relativistic heat conduction model compatible theory special relativity last century recognized fourier equation contradiction theory relativity admits infinite speed propagation heat signals example according fourier equation pulse heat origin would felt infinity instantaneously speed information propagation faster speed light vacuum physically inadmissible within framework relativity alterations fourier model provided relativistic model heat conduction avoiding problem
+quantum conductionedit
+second sound quantum mechanical phenomenon heat transfer occurs wavelike motion rather usual mechanism diffusion heat takes place pressure normal sound waves leads high thermal conductivity known second sound wave motion heat similar propagation sound air
+fouriers lawedit
+law heat conduction also known fouriers law states time rate heat transfer material proportional negative gradient temperature area right angles gradient heat flows state law two equivalent forms integral form look amount energy flowing body whole differential form look flow rates fluxes energy locally
+newtons law cooling discrete analog fouriers law ohms law electrical analogue fouriers law
+differential formedit
+differential form fouriers law thermal conduction shows local heat flux density equal product thermal conductivity negative local temperature gradient heat flux density amount energy flows unit area per unit time
+including si units
+local heat flux density wm
+materials conductivity wmk
+temperature gradient km
+thermal conductivity often treated constant though always true thermal conductivity material generally varies temperature variation small significant range temperatures common materials anisotropic materials thermal conductivity typically varies orientation case represented secondorder tensor non uniform materials varies spatial location
+many simple applications fouriers law used onedimensional form xdirection
+integral formedit
+integrating differential form materials total surface arrive integral form fouriers law
+including si units
+amount heat transferred per unit time w
+oriented surface area element m
+differential equation integrated homogeneous material d geometry two endpoints constant temperature gives heat flow rate
+crosssectional surface area
+temperature difference ends
+distance ends
+law forms basis derivation heat equation
+conductanceedit
+writing
+u conductance wm k
+fouriers law also stated
+reciprocal conductance resistance r given
+resistance additive several conducting layers lie hot cool regions q layers multilayer partition total conductance related conductance layers
+dealing multilayer partition following formula usually used
+heat conduction one fluid another barrier sometimes important consider conductance thin film fluid remains stationary next barrier thin film fluid difficult quantify characteristics depend upon complex conditions turbulence viscositybut dealing thin highconductance barriers sometimes quite significant
+intensiveproperty representationedit
+previous conductance equations written terms extensive properties reformulated terms intensive properties
+ideally formulae conductance produce quantity dimensions independent distance like ohms law electrical resistance conductance
+electrical formula resistivity x length crosssectional area g conductance k conductivity x length crosssectional area
+heat
+u conductance
+fouriers law also stated
+analogous ohms law
+reciprocal conductance resistance r given
+analogous ohms law
+rules combining resistances conductances series parallel heat flow electric current
+cylindrical shellsedit
+conduction cylindrical shells eg pipes calculated internal radius external radius length temperature difference inner outer wall
+surface area cylinder
+fouriers equation applied
+rearranged
+rate heat transfer
+thermal resistance
+important note logmean radius
+sphericaledit
+conduction spherical shell internal radius external radius calculated similar manner cylindrical shell
+surface area sphere
+solving similar manner cylindrical shell see produces
+transient thermal conductionedit
+interface heat transferedit
+heat transfer interface considered transient heat flow analyze problem biot number important understand system behaves biot number determined heat transfer coefficient h introduced formula measured system biot number less material behaves according newtonian cooling ie negligible temperature gradient within body biot number greater system behaves series solution temperature profile terms time determined function derived equation
+becomes
+heat transfer coefficient h measured represents transfer heat interface two materials value different every interface important concept understanding heat flow interface
+series solution analyzed nomogram nomogram relative temperature y coordinate fourier number calculated
+biot number increases fourier number decreases five steps determine temperature profile terms time
+calculate biot number
+determine relative depth matters either x l
+convert time fourier number
+convert relative temperature boundary conditions
+compared required point trace specified biot number nomogram
+thermal conduction applicationsedit
+splat coolingedit
+splat cooling method quenching small droplets molten materials rapid contact cold surface particles undergo characteristic cooling process heat profile initial temperature maximum heat profile boundary conditions splat cooling rapidly ends steady state temperature similar form gaussian diffusion equation temperature profile respect position time type cooling varies
+splat cooling fundamental concept adapted practical use form thermal spraying thermal diffusivity coefficient represented written varies according material
+metal quenchingedit
+metal quenching transient heat transfer process terms time temperature transformation ttt possible manipulate cooling process adjust phase suitable material example appropriate quenching steel convert desirable proportion content austenite martensite creating tough product achieve necessary quench nose eutectic ttt diagram since materials differ biot numbers time takes material quench fourier number varies practice steel quenching temperature range generally c c control quenching time select suitable quenching media necessary determine fourier number desired quenching time relative temperature drop relevant biot number usually correct figures read standard nomogram calculating heat transfer coefficient biot number one find liquid medium suitable application
+zeroth law thermodynamicsedit
+one statement socalled zeroth law thermodynamics directly focused idea conduction heat bailyn writes zeroth law may stated
+diathermal walls equivalent
+diathermal wall physical connection two bodies allows passage heat bailyn referring diathermal walls exclusively connect two bodies especially conductive walls
+statement zeroth law belongs idealized theoretical discourse actual physical walls may peculiarities conform generality
+example material wall must undergo phase transition evaporation fusion temperature must conduct heat thermal equilibrium considered time urgent conductivity material matter much one suitable heat conductor good another conversely another aspect zeroth law subject suitable restrictions given diathermal wall indifferent nature heat bath connected example glass bulb thermometer acts diathermal wall whether exposed gas liquid provided corrode melt
+indifferences amongst defining characteristics heat transfer sense symmetries heat transfer
+see alsoedit
+list thermal conductivities
+electrical conduction
+convection diffusion equation
+rvalue insulation
+heat pipe
+ficks law diffusion
+relativistic heat conduction
+thermomass theory
+churchillbernstein equation
+fourier number
+biot number
+false diffusion
+referencesedit
+dehghani f chng conservation transport processes course notes university sydney sydney
+john h lienhard iv john h lienhard v heat transfer textbook third edition phlogyston press cambridge massachusetts
+external linksedit
+heat conduction thermalfluidspedia
+newtons law cooling jeff bryant based program stephen wolfram wolfram demonstrations project

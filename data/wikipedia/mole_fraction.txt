@@ -1,0 +1,32 @@
+in chemistry the mole fraction or molar fraction () is defined as the amount of a constituent (expressed in moles)  divided by the total amount of all constituents in a mixture :
+the sum of all the mole fractions is equal to 1:
+the same concept expressed with a denominator of 100 is the mole percent or molar percentage or molar proportion (mol%)
+the mole fraction is also called the amount fraction it is identical to the number fraction which is defined as the number of molecules of a constituent divided by the total number of all molecules  the mole fraction is sometimes denoted by the lowercase greek letter (chi) instead of a roman  for mixtures of gases iupac recommends the letter 
+the national institute of standards and technology of the united states prefers the term amount-of-substance fraction over mole fraction because it does not contain the name of the unit mole
+whereas mole fraction is a ratio of moles to moles molar concentration is a ratio of moles to volume
+the mole fraction is one way of expressing the composition of a mixture with a dimensionless quantity; mass fraction (percentage by weight wt%) and volume fraction (percentage by volume vol%) are others
+== propertiesedit ==
+mole fraction is used very frequently in the construction of phase diagrams it has a number of advantages:
+it is not temperature dependent (such as molar concentration) and does not require knowledge of the densities of the phase(s) involved
+a mixture of known mole fraction can be prepared by weighing off the appropriate masses of the constituents
+the measure is symmetric: in the mole fractions x=0.1 and x=0.9 the roles of 'solvent' and 'solute' are reversed
+in a mixture of ideal gases the mole fraction can be expressed as the ratio of partial pressure to total pressure of the mixture
+== related quantitiesedit ==
+=== mass fractionedit ===
+the mass fraction can be calculated using the formula
+where is the molar mass of the component and is the average molar mass of the mixture
+replacing the expression of the molar mass:
+=== mole percentageedit ===
+multiplying mole fraction by 100 gives the mole percentage also referred as amount/amount percent (abbreviated as n/n%)
+=== mass concentrationedit ===
+the conversion to and from mass concentration is given by:
+where is the average molar mass of the mixture
+=== molar concentrationedit ===
+the conversion to molar concentration is given by:
+or
+where is the average molar mass of the solution c total molar concentration and is the density of the solution 
+=== mass and molar massedit ===
+the mole fraction can be calculated from the masses and molar masses of the components:
+== spatial variation and gradientedit ==
+in a spatially non-uniform mixture the mole fraction gradient triggers the phenomenon of diffusion
+== referencesedit ==

@@ -1,0 +1,133 @@
+equilibrium constant chemical reaction value reaction quotient reaction reached equilibrium equilibrium constant value independent analytical concentrations reactant product species mixture depends temperature ionic strength known equilibrium constant values used determine composition system equilibrium
+general chemical equilibrium
+thermodynamic equilibrium constant defined equilibrium
+curly brackets denote thermodynamic activities chemical species righthand side equation corresponds reaction quotient q arbitrary values activities becomes equilibrium constant shown reaction equilibrium
+equilibrium constant related standard gibbs free energy change reaction
+deviations ideal behaviour neglected activities solutes may replaced concentrations activity quotient becomes concentration quotient kc
+kc defined equal thermodynamic equilibrium constant concentrations reactants products instead activities kc appears units concentration raised power k dimensionless however discussed definitions concentration factors kc properly divided standard concentration kc dimensionless also
+assuming ideal behavior activity solvent may replaced mole fraction approximately dilute solution activity pure liquid solid phase exactly activity species ideal gas phase may replaced partial pressure
+knowledge equilibrium constants essential understanding many chemical systems well biochemical processes oxygen transport hemoglobin blood acidbase homeostasis human body
+stability constants formation constants binding constants association constants dissociation constants types equilibrium constant see also determination equilibrium constants experimental computational methods
+types equilibrium constantsedit
+cumulative stepwise formation constantsedit
+cumulative overall constant given symbol constant formation complex reagents example cumulative constant formation ml given
+stepwise constant k formation complex ml l given
+follows
+cumulative constant always expressed product stepwise constants agreed notation stepwise constants though symbol klml sometimes found literature best always define stability constant reference equilibrium expression
+competition methodedit
+particular use stepwise constant determination stability constant values outside normal range given method example edta complexes many metals outside range potentiometric method stability constants complexes determined competition weaker ligand
+formation constant pdcn determined competition method
+association dissociation constantsedit
+organic chemistry biochemistry customary use pka values acid dissociation equilibria
+kdiss stepwise acid dissociation constant bases base association constant pkb used given acid base two constants related pka pkb pkw pka always used calculations
+hand stability constants metal complexes binding constants hostguest complexes generally expressed association constants considering equilibria
+customary use association constants ml hl also generalized computer programs dealing equilibrium constants general practice use cumulative constants rather stepwise constants omit ionic charges equilibrium expressions example nta nitrilotriacetic acid nchcoh designated hl forms complexes ml mhl metal ion m following expressions would apply dissociation constants
+cumulative association constants expressed
+note subscripts define stoichiometry equilibrium product
+microconstantsedit
+two sites asymmetrical molecule may involved equilibrium reaction one possible equilibrium constants example molecule ldopa two nonequivalent hydroxyl groups may deprotonated denoting ldopa lh following diagram shows species may formed xchchnhcoh
+first protonation constants
+lh klh lh klh
+concentration lh sum concentrations two microspecies therefore equilibrium constant reaction macroconstant sum microconstants
+k k k
+way
+k k k
+lastly cumulative constant
+kk kk kk
+thus although seven microand macroconstants three mutually independent moreover isomerization constant ki equal ratio microconstants
+ki kk
+ldopa isomerization constant microspecies lh lh almost equal concentrations ph values
+general macroconstant equal sum microconstants occupancy site proportional microconstant site protonation important example biological activity
+microconstants cannot determined individually usual methods give macroconstants methods used determine microconstants include
+blocking one sites example methylation hydroxyl group determine one microconstants
+using spectroscopic technique infrared spectroscopy different microspecies give different signals
+applying mathematical procedures c nmr data
+ph considerations brnsted constantsedit
+ph defined terms activity hydrogen ion
+approximation ideal behaviour activity replaced concentration ph measured means glass electrode mixed equilibrium constant also known brnsted constant may result
+depends whether electrode calibrated reference solutions known activity known concentration latter case equilibrium constant would concentration quotient electrode calibrated terms known hydrogen ion concentrations would better write ph rather ph suggestion generally adopted
+hydrolysis constantsedit
+aqueous solution concentration hydroxide ion related concentration hydrogen ion
+first step metal ion hydrolysis expressed two different ways
+follows kkw hydrolysis constants usually reported form leads appearing strange values example lg k lg kw lg general hydrolysis product contains n hydroxide groups lg lg k n lg kw
+conditional constantsedit
+conditional constants also known apparent constants concentration quotients true equilibrium constants derived common instance ph fixed particular value example case ironiii interacting edta conditional constant could defined
+conditional constant vary ph maximum certain ph ph ligand sequesters metal effectively
+biochemistry equilibrium constants often measured ph fixed means buffer solution constants definition conditional different values may obtained using different buffers
+gas phase equilibriaedit
+equilibria gas phase fugacity f used place activity however fugacity dimension pressure must divided standard pressure usually bar order produce dimensionless quantity f p equilibrium constant expressed terms dimensionless quantity example equilibrium
+fugacity related partial pressure p dimensionless fugacity coefficient f p thus example
+usually standard pressure omitted expressions expressions equilibrium constants gas phase resemble expression solution equilibria fugacity coefficient place activity coefficient partial pressure place concentration
+thermodynamicsedit
+definitionsedit
+general chemical equilibrium
+thermodynamic definition equilibrium constant equilibrium
+activity equilibrium chemical species etc conventional put activities products numerator reactants denominator since activity dimensionless quantity thermodynamic equilibrium constant k also dimensionless quantity important k related standard free energy change g reaction
+r gas constant absolute thermodynamic temperature taking logarithm k possible k dimensions pure positive number however often convenient use concentrations partial pressures gas phase activities equilibrium expression may written product three components reaction quotient equilibrium concentrations qe quotient activity factors quotient standard concentrations c
+symbol stands generalized concentration partial pressure chemical species activity coefficients dimensionless ca stands standard concentration standard partial pressure convention standard concentrations value moldm atm third factor c numerical value units reciprocal units concentration quotient k remains dimensionless expression simplifies
+follows concentration constant kc related thermodynamic equilibrium constant
+note kc defined way dimension log kc permissible
+equilibrium constant value determined three options dealing activity coefficients
+use known calculated activity coefficients together concentrations reactants equilibria solution estimates activity coefficients charged species obtained using debyehckel theory extended version sit theory uncharged species activity coefficient mostly follows saltingout model log bi stands ionic strength
+assume activity coefficients equal acceptable species uncharged solvent low polarity
+equilibria solution use medium high ionic strength effect redefines standard state referring medium activity coefficients standard state definition equal value equilibrium constant determined manner dependent ionic strength published constants refer ionic strength one required particular application may adjusted means specific ion theory sit theories
+unitsedit
+kc appears dimension concentration power z difference sums powers numerator denominator z must fact dimensionless would possible take logarithm illusion result omitting standard concentrations defining expression nevertheless unusual particularly texts relating biochemical equilibria see value quoted dimension examples follows
+symbol m signifies molar concentration m mol dm writing expressions implicit assumption quotient activity coefficients equal furthermore subscript c often omitted implying concentration quotient thermodynamic equilibrium constant sense defined cases unit effect specifies concentration scale concentrations b etc refer implicitly standard concentrations scale
+speciation calculations one must define equilibrium constant quotient concentrations k qe equilibrium constant dimensions m mol dm mm mmol dm unit sometimes used biochemistry example formation adduct b ab concentrations b calculated solving equations massbalance
+ta tb analytical concentrations reagents b numerical value k known term expressions unit concentration numerical values concentrations calculated example assuming molar concentrations product concentration ab kab dimension m m m m ta tb b
+derivation equilibrium constant expressionedit
+temperature assumed constant following treatment
+thermodynamic equilibrium characterized free energy whole closed system minimum systems constant pressure gibbs free energy minimum slope reaction free energy gr respect reaction coordinate zero free energy minimum value
+free energy change gr expressed weighted sum chemical potentials partial molar free energies species equilibrium potential ith species chemical reaction partial derivative free energy respect number moles species ni
+general chemical equilibrium written
+nj stoichiometric coefficients reactants equilibrium equation mj coefficients products value gr reactions function chemical potentials species
+chemical potential ith species calculated terms activity ai
+standard chemical potential species r gas constant temperature setting sum reactants j equal sum products k greq
+rearranging terms
+relates standard gibbs free energy change g equilibrium constant k reaction quotient activity values equilibrium
+temperature dependenceedit
+van hoff equation
+shows reaction exothermic h negative k decreases increasing temperature accordance le chateliers principle permits calculation reaction equilibrium constant temperature reaction constant known standard reaction enthalpy assumed independent temperature even though standard enthalpy change defined different temperature however assumption valid small temperature differences fact standard thermodynamic arguments used show
+cp heat capacity constant pressure equilibrium constant related standard gibbs energy change reaction
+g standard gibbs free energy change reaction r gas constant absolute temperature
+equilibrium constant determined standard reaction enthalpy also determined calorimetry example equation allows standard entropy change reaction derived
+complex formulationedit
+calculation k particular temperature known k another given temperature approached follows standard thermodynamic properties available effect temperature equilibrium constant equivalent effect temperature gibbs energy
+rg reaction standard gibbs energy sum standard gibbs energies reaction products minus sum standard gibbs energies reactants
+term standard denotes ideal behaviour ie infinite dilution hypothetical standard concentration typically molkg imply particular temperature pressure although contrary iupac recommendation convenient describing aqueous systems wide temperature pressure ranges
+standard gibbs energy species entire reaction represented basic definitions
+equation effect temperature gibbs energy thus equilibrium constant ascribed entirely heat capacity evaluate integrals equation form dependence heat capacity temperature needs known
+one expresses standard heat capacity cp function absolute temperature using correlations following forms
+pure substances solids gas liquid
+ionic species deg c
+integrals evaluated following final form obtained
+constants b c b absolute entropy required evaluation cpt well values g k k many species tabularized literature
+pressure dependenceedit
+pressure dependence equilibrium constant usually weak range pressures normally encountered industry therefore usually neglected practice true condensed reactantproducts ie reactants products solids liquid well gaseous ones
+gaseousreaction example one may consider wellstudied reaction hydrogen nitrogen produce ammonia
+n h nh
+pressure increased addition inert gas neither composition equilibrium equilibrium constant appreciably affected partial pressures remain constant assuming idealgas behaviour gases involved however composition equilibrium depend appreciably pressure
+pressure changed compression gaseous reacting system
+reaction results change number moles gas system
+example reaction number moles changes increase pressure system compression result appreciably ammonia equilibrium mixture general case gaseous reaction
+change mixture composition pressure quantified using
+p denote partial pressures components p total system pressure x denote mole fraction kp equilibrium constant expressed terms partial pressures kx equilibrium constant expressed terms mole fractions
+change composition accordance le chateliers principle involve change equilibrium constant total system pressure indeed idealgas reactions kp independent pressure
+condensed phase pressure dependence equilibrium constant associated reaction molar volume reaction
+reaction molar volume
+v denotes partial molar volume reactant product
+reaction one expect change reaction equilibrium constant based either molefraction molalconcentration scale pressure constant temperature
+matter complicated partial molar volume dependent pressure
+data sourcesedit
+iupac scdatabase comprehensive database published data equilibrium constants metal complexes ligands
+nist standard reference database critically selected stability constants metal complexes
+inorganic organic acids bases pka data water dmso
+nasa glenn thermodynamic database webpage links selfconsistent temperaturedependent specific heat enthalpy entropy elements molecules
+see alsoedit
+determination equilibrium constants
+stability constants complexes
+equilibrium fractionation
+external linksedit
+science aid equilibrium constants explanation kc kp high school level
+referencesedit

@@ -1,0 +1,166 @@
+in a chemical reaction chemical equilibrium is the state in which both reactants and products are present in concentrations which have no further tendency to change with time usually this state results when the forward reaction proceeds at the same rate as the reverse reaction the reaction rates of the forward and backward reactions are generally not zero but equal thus there are no net changes in the concentrations of the reactant(s) and product(s) such a state is known as dynamic equilibrium
+== historical introduction ==
+the concept of chemical equilibrium was developed after berthollet (1803) found that some chemical reactions are reversible for any reaction mixture to exist at equilibrium the rates of the forward and backward (reverse) reactions are equal in the following chemical equation with arrows pointing both ways to indicate equilibrium a and b are reactant chemical species s and t are product species and    and are the stoichiometric coefficients of the respective reactants and products:
+the equilibrium concentration position of a reaction is said to lie "far to the right" if at equilibrium nearly all the reactants are consumed conversely the equilibrium position is said to be "far to the left" if hardly any product is formed from the reactants
+guldberg and waage (1865) building on berthollets ideas proposed the law of mass action:
+where a b s and t are active masses and k+ and k are rate constants since at equilibrium forward and backward rates are equal:
+and the ratio of the rate constants is also a constant now known as an equilibrium constant
+by convention the products form the numerator however the law of mass action is valid only for concerted one-step reactions that proceed through a single transition state and is not valid in general because rate equations do not in general follow the stoichiometry of the reaction as guldberg and waage had proposed (see for example nucleophilic aliphatic substitution by sn1 or reaction of hydrogen and bromine to form hydrogen bromide) equality of forward and backward reaction rates however is a necessary condition for chemical equilibrium though it is not sufficient to explain why equilibrium occurs
+despite the failure of this derivation the equilibrium constant for a reaction is indeed a constant independent of the activities of the various species involved though it does depend on temperature as observed by the van 't hoff equation adding a catalyst will affect both the forward reaction and the reverse reaction in the same way and will not have an effect on the equilibrium constant the catalyst will speed up both reactions thereby increasing the speed at which equilibrium is reached
+although the macroscopic equilibrium concentrations are constant in time reactions do occur at the molecular level for example in the case of acetic acid dissolved in water and forming acetate and hydronium ions
+ch3co2h + h2o ch3co2 + h3o+
+a proton may hop from one molecule of acetic acid on to a water molecule and then on to an acetate anion to form another molecule of acetic acid and leaving the number of acetic acid molecules unchanged this is an example of dynamic equilibrium equilibria like the rest of thermodynamics are statistical phenomena averages of microscopic behavior
+le chatelier's principle (1884) gives an idea of the behavior of an equilibrium system when changes to its reaction conditions occur if a dynamic equilibrium is disturbed by changing the conditions the position of equilibrium moves to partially reverse the change for example adding more s from the outside will cause an excess of products and the system will try to counteract this by increasing the reverse reaction and pushing the equilibrium point backward (though the equilibrium constant will stay the same)
+if mineral acid is added to the acetic acid mixture increasing the concentration of hydronium ion the amount of dissociation must decrease as the reaction is driven to the left in accordance with this principle this can also be deduced from the equilibrium constant expression for the reaction:
+if {h3o+} increases {ch3co2h} must increase and {ch3co2} must decrease the h2o is left out as it is the solvent and its concentration remains high and nearly constant
+a quantitative version is given by the reaction quotient
+j w gibbs suggested in 1873 that equilibrium is attained when the gibbs free energy of the system is at its minimum value (assuming the reaction is carried out at constant temperature and pressure) what this means is that the derivative of the gibbs energy with respect to reaction coordinate (a measure of the extent of reaction that has occurred ranging from zero for all reactants to a maximum for all products) vanishes signalling a stationary point this derivative is called the reaction gibbs energy (or energy change) and corresponds to the difference between the chemical potentials of reactants and products at the composition of the reaction mixture this criterion is both necessary and sufficient if a mixture is not at equilibrium the liberation of the excess gibbs energy (or helmholtz energy at constant volume reactions) is the driving force for the composition of the mixture to change until equilibrium is reached the equilibrium constant can be related to the standard gibbs free energy change for the reaction by the equation
+where r is the universal gas constant and t the temperature
+when the reactants are dissolved in a medium of high ionic strength the quotient of activity coefficients may be taken to be constant in that case the concentration quotient kc
+where [a] is the concentration of a etc. is independent of the analytical concentration of the reactants for this reason equilibrium constants for solutions are usually determined in media of high ionic strength kc varies with ionic strength temperature and pressure (or volume) likewise kp for gases depends on partial pressure these constants are easier to measure and encountered in high-school chemistry courses
+== thermodynamics ==
+at constant temperature and pressure one must consider the gibbs free energy g while at constant temperature and volume one must consider the helmholtz free energy: a for the reaction; and at constant internal energy and volume one must consider the entropy for the reaction: s
+the constant volume case is important in geochemistry and atmospheric chemistry where pressure variations are significant note that if reactants and products were in standard state (completely pure) then there would be no reversibility and no equilibrium indeed they would necessarily occupy disjoint volumes of space the mixing of the products and reactants contributes a large entropy (known as entropy of mixing) to states containing equal mixture of products and reactants the standard gibbs energy change together with the gibbs energy of mixing determine the equilibrium state
+in this article only the constant pressure case is considered the relation between the gibbs free energy and the equilibrium constant can be found by considering chemical potentials
+at constant temperature and pressure the gibbs free energy g for the reaction depends only on the extent of reaction: (greek letter xi) and can only decrease according to the second law of thermodynamics it means that the derivative of g with must be negative if the reaction happens; at the equilibrium the derivative being equal to zero
+: equilibrium
+in general an equilibrium system is defined by writing an equilibrium equation for the reaction
+in order to meet the thermodynamic condition for equilibrium the gibbs energy must be stationary meaning that the derivative of g with respect to the extent of reaction:  must be zero it can be shown that in this case the sum of chemical potentials of the products is equal to the sum of those corresponding to the reactants therefore the sum of the gibbs energies of the reactants must be the equal to the sum of the gibbs energies of the products
+where is in this case a partial molar gibbs energy a chemical potential the chemical potential of a reagent a is a function of the activity {a} of that reagent
+ ( is the standard chemical potential )
+the definition of the gibbs energy equation interacts with the fundamental thermodynamic relation to produce
+inserting into the above equation gives a stoichiometric coefficient () and a differential that denotes the reaction occurring once () at constant pressure and temperature the above equations can be written as
+which is the "gibbs free energy change for the reaction 
+this results in:
+by substituting the chemical potentials:
+the relationship becomes:
+: which is the standard gibbs energy change for the reaction that can be calculated using thermodynamical tables
+the reaction quotient is defined as
+therefore
+at equilibrium
+leading to:
+and
+obtaining the value of the standard gibbs energy change allows the calculation of the equilibrium constant
+=== addition of reactants or products ===
+for a reactional system at equilibrium: ; 
+if are modified activities of constituents the value of the reaction quotient changes and becomes different from the equilibrium constant:
+and
+then
+if activity of a reagent increases
+ the reaction quotient decreases
+then
+and : the reaction will shift to the right (i.e in the forward direction and thus more products will form)
+if activity of a product increases
+then
+and : the reaction will shift to the left (i.e in the reverse direction and thus less products will form)
+note that activities and equilibrium constants are dimensionless numbers
+=== treatment of activity ===
+the expression for the equilibrium constant can be rewritten as the product of a concentration quotient kc and an activity coefficient quotient 
+[a] is the concentration of reagent a etc it is possible in principle to obtain values of the activity coefficients  for solutions equations such as the debyehckel equation or extensions such as davies equation specific ion interaction theory or pitzer equations may be used.software (below) however this is not always possible it is common practice to assume that is a constant and to use the concentration quotient in place of the thermodynamic equilibrium constant it is also general practice to use the term equilibrium constant instead of the more accurate concentration quotient this practice will be followed here
+for reactions in the gas phase partial pressure is used in place of concentration and fugacity coefficient in place of activity coefficient in the real world for example when making ammonia in industry fugacity coefficients must be taken into account fugacity f is the product of partial pressure and fugacity coefficient the chemical potential of a species in the gas phase is given by
+so the general expression defining an equilibrium constant is valid for both solution and gas phases
+=== concentration quotients ===
+in aqueous solution equilibrium constants are usually determined in the presence of an "inert" electrolyte such as sodium nitrate nano3 or potassium perchlorate kclo4 the ionic strength of a solution is given by
+where ci and zi stands for the concentration and ionic charge of ion type i and the sum is taken over all the n types of charged species in solution when the concentration of dissolved salt is much higher than the analytical concentrations of the reagents the ions originating from the dissolved salt determine the ionic strength and the ionic strength is effectively constant since activity coefficients depend on ionic strength the activity coefficients of the species are effectively independent of concentration thus the assumption that is constant is justified the concentration quotient is a simple multiple of the equilibrium constant
+however kc will vary with ionic strength if it is measured at a series of different ionic strengths the value can be extrapolated to zero ionic strength the concentration quotient obtained in this manner is known paradoxically as a thermodynamic equilibrium constant
+to use a published value of an equilibrium constant in conditions of ionic strength different from the conditions used in its determination the value should be adjustedsoftware (below)
+=== metastable mixtures ===
+a mixture may be appear to have no tendency to change though it is not at equilibrium for example a mixture of so2 and o2 is metastable as there is a kinetic barrier to formation of the product so3
+2so2 + o2 2so3
+the barrier can be overcome when a catalyst is also present in the mixture as in the contact process but the catalyst does not affect the equilibrium concentrations
+likewise the formation of bicarbonate from carbon dioxide and water is very slow under normal conditions
+co2 + 2h2o hco3 +h3o+
+but almost instantaneous in the presence of the catalytic enzyme carbonic anhydrase
+== pure substances ==
+when pure substances (liquids or solids) are involved in equilibria their activities do not appear in the equilibrium constant because their numerical values are considered one
+applying the general formula for an equilibrium constant to the specific case of a dilute solution of acetic acid in water one obtains
+ch3co2h + h2o ch3co2 + h3o+
+for all but very concentrated solutions the water can be considered a "pure" liquid and therefore it has an activity of one the equilibrium constant expression is therefore usually written as
+a particular case is the self-ionization of water itself
+because water is the solvent and has an activity of one the self-ionization constant of water is defined as
+it is perfectly legitimate to write [h+] for the hydronium ion concentration since the state of solvation of the proton is constant (in dilute solutions) and so does not affect the equilibrium concentrations kw varies with variation in ionic strength and/or temperature
+the concentrations of h+ and oh are not independent quantities most commonly [oh] is replaced by kw[h+]1 in equilibrium constant expressions which would otherwise include hydroxide ion
+solids also do not appear in the equilibrium constant expression if they are considered to be pure and thus their activities taken to be one an example is the boudouard reaction:
+for which the equation (without solid carbon) is written as:
+== multiple equilibria ==
+consider the case of a dibasic acid h2a when dissolved in water the mixture will contain h2a ha and a2 this equilibrium can be split into two steps in each of which one proton is liberated
+k1 and k2 are examples of stepwise equilibrium constants the overall equilibrium constant is product of the stepwise constants
+note that these constants are dissociation constants because the products on the right hand side of the equilibrium expression are dissociation products in many systems it is preferable to use association constants
+1 and 2 are examples of association constants clearly 1 = 1/k2 and 2 = 1/d; lg 1 = pk2 and lg 2 = pk2 + pk1 for multiple equilibrium systems also see: theory of response reactions
+== effect of temperature ==
+the effect of changing temperature on an equilibrium constant is given by the van 't hoff equation
+thus for exothermic reactions (h is negative) k decreases with an increase in temperature but for endothermic reactions (h is positive) k increases with an increase temperature an alternative formulation is
+at first sight this appears to offer a means of obtaining the standard molar enthalpy of the reaction by studying the variation of k with temperature in practice however the method is unreliable because error propagation almost always gives very large errors on the values calculated in this way
+== effect of electric and magnetic fields ==
+the effect of electric field on equilibrium has been studied by manfred eigen among others
+== types of equilibrium ==
+in the gas phase rocket engines
+the industrial synthesis such as ammonia in the haberbosch process (depicted right) takes place through a succession of equilibrium steps including adsorption processes
+atmospheric chemistry
+seawater and other natural waters: chemical oceanography
+distribution between two phases
+logd-distribution coefficient: important for pharmaceuticals where lipophilicity is a significant property of a drug
+liquidliquid extraction ion exchange chromatography
+solubility product
+uptake and release of oxygen by haemoglobin in blood
+acid/base equilibria: acid dissociation constant hydrolysis buffer solutions indicators acidbase homeostasis
+metal-ligand complexation: sequestering agents chelation therapy mri contrast reagents schlenk equilibrium
+adduct formation: hostguest chemistry supramolecular chemistry molecular recognition dinitrogen tetroxide
+in certain oscillating reactions the approach to equilibrium is not asymptotically but in the form of a damped oscillation 
+the related nernst equation in electrochemistry gives the difference in electrode potential as a function of redox concentrations
+when molecules on each side of the equilibrium are able to further react irreversibly in secondary reactions the final product ratio is determined according to the curtinhammett principle
+in these applications terms such as stability constant formation constant binding constant affinity constant association/dissociation constant are used in biochemistry it is common to give units for binding constants which serve to define the concentration units used when the constants value was determined
+== composition of a mixture ==
+when the only equilibrium is that of the formation of a 1:1 adduct as the composition of a mixture there are any number of ways that the composition of a mixture can be calculated for example see ice table for a traditional method of calculating the ph of a solution of a weak acid
+there are three approaches to the general calculation of the composition of a mixture at equilibrium
+the most basic approach is to manipulate the various equilibrium constants until the desired concentrations are expressed in terms of measured equilibrium constants (equivalent to measuring chemical potentials) and initial conditions
+minimize the gibbs energy of the system
+satisfy the equation of mass balance the equations of mass balance are simply statements that demonstrate that the total concentration of each reactant must be constant by the law of conservation of mass
+=== mass-balance equations ===
+in general the calculations are rather complicated or complex for instance in the case of a dibasic acid h2a dissolved in water the two reactants can be specified as the conjugate base a2 and the proton h+ the following equations of mass-balance could apply equally well to a base such as 1,2-diaminoethane in which case the base itself is designated as the reactant a:
+with ta the total concentration of species a note that it is customary to omit the ionic charges when writing and using these equations
+when the equilibrium constants are known and the total concentrations are specified there are two equations in two unknown "free concentrations" [a] and [h] this follows from the fact that [ha]= 1[a][h] [h2a]= 2[a][h]2 and [oh] = kw[h]1
+so the concentrations of the "complexes" are calculated from the free concentrations and the equilibrium constants general expressions applicable to all systems with two reagents a and b would be
+it is easy to see how this can be extended to three or more reagents
+==== polybasic acids ====
+the composition of solutions containing reactants a and h is easy to calculate as a function of p[h] when [h] is known the free concentration [a] is calculated from the mass-balance equation in a
+the diagram alongside shows an example of the hydrolysis of the aluminium lewis acid al3+aq shows the species concentrations for a 5106m solution of an aluminium salt as a function of ph each concentration is shown as a percentage of the total aluminium
+==== solution and precipitation ====
+the diagram above illustrates the point that a precipitate that is not one of the main species in the solution equilibrium may be formed at ph just below 5.5 the main species present in a 5m solution of al3+ are aluminium hydroxides al(oh)2+ al(oh)2+ and al13(oh)327+ but on raising the ph al(oh)3 precipitates from the solution this occurs because al(oh)3 has a very large lattice energy as the ph rises more and more al(oh)3 comes out of solution this is an example of le chatelier's principle in action: increasing the concentration of the hydroxide ion causes more aluminium hydroxide to precipitate which removes hydroxide from the solution when the hydroxide concentration becomes sufficiently high the soluble aluminate al(oh)4 is formed
+another common instance where precipitation occurs is when a metal cation interacts with an anionic ligand to form an electrically neutral complex if the complex is hydrophobic it will precipitate out of water this occurs with the nickel ion ni2+ and dimethylglyoxime (dmgh2): in this case the lattice energy of the solid is not particularly large but it greatly exceeds the energy of solvation of the molecule ni(dmgh)2
+=== minimization of free energy ===
+at equilibrium g is at a minimum:
+for a closed system no particles may enter or leave although they may combine in various ways the total number of atoms of each element will remain constant this means that the minimization above must be subjected to the constraints:
+where is the number of atoms of element i in molecule j and bi0 is the total number of atoms of element i which is a constant since the system is closed if there are a total of k types of atoms in the system then there will be k such equations
+this is a standard problem in optimisation known as constrained minimisation the most common method of solving it is using the method of lagrange multipliers also known as undetermined multipliers (though other methods may be used)
+define:
+where the are the lagrange multipliers one for each element this allows each of the to be treated independently and it can be shown using the tools of multivariate calculus that the equilibrium condition is given by
+and
+(for proof see lagrange multipliers)
+this is a set of (m+k) equations in (m+k) unknowns (the and the ) and may therefore be solved for the equilibrium concentrations as long as the chemical potentials are known as functions of the concentrations at the given temperature and pressure (see thermodynamic databases for pure substances)
+this method of calculating equilibrium chemical concentrations is useful for systems with a large number of different molecules the use of k atomic element conservation equations for the mass constraint is straightforward and replaces the use of the stoichiometric coefficient equations
+== symbol ==
+in unicode a suitable symbol is registered as u+21cc rightwards harpoon over leftwards harpoon it can be typed in microsoft windows as alt + + 2 1 c c on the numeric keypad and in most linux distributions with ctrl + shift + u 2 1 c c enter
+== see also ==
+acidosis
+alkalosis
+arterial blood gas
+autocatalytic reactions and order creation
+benesihildebrand method
+determination of equilibrium constants
+equilibrium constant
+hendersonhasselbalch equation
+isotope fractionation
+michaelismenten kinetics
+pco2
+ph
+pka
+redox equilibria
+steady state (chemistry)
+thermodynamic databases for pure substances
+== references ==
+== further reading ==
+f van zeggeren and s.h storey the computation of chemical equilibria cambridge university press 1970 mainly concerned with gas-phase equilibria
+d j leggett (editor) computational methods for the determination of formation constants plenum press 1985
+a.e martell and r.j motekaitis the determination and use of stability constants wiley-vch 1992
+p gans stability constants: determination and uses an interactive cd protonic software (leeds) 2004

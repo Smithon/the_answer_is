@@ -1,0 +1,30 @@
+ward leonard control also known ward leonard drive system widely used dc motor speed control system introduced harry ward leonard early control system ward leonard adopted us navy also used passenger lift large mines also provided solution moving sidewalk paris exposition many others failed operate properly applied railway locomotives used world war used antiaircraft radars world war ii connected automatic antiaircraft gun directors tracking motion two dimensions extremely smooth precise mit radiation laboratory selected wardleonard equip famous radar scr ward leonard control system widely used elevators thyristor drives became available offered smooth speed control consistent torque many ward leonard control systems variations remain use
+basic concept
+key feature ward leonard control system ability smoothly vary speed dc motor including reversing controlling field windings hence output voltage dc generator speed dc motor dictated supplied voltage gives simple speed control dc generator could driven means provided also supplied voltage source field windings prime mover could ac motor could internal combustion engine application vehicles patented hw leonard
+ward leonard drive viewed highpower amplifier multikilowatt range built rotating electrical machinery prime mover electrical ward leonard drive unit consists motor generator shafts coupled together prime mover turns constant speed may ac dc powered generator dc generator field windings armature windings input amplifier applied field windings higher power output comes armature windings see excitation magneticamplifier principle generator act amplifier amplifier output usually connected second motor moves load elevator arrangement small changes current applied input thus generator field result large changes output allowing smooth speed control
+flywheel may used reduce voltage fluctuations sudden load changes ward leonard system modification known ward leonard ilgner control
+technical description
+speed motor controlled varying voltage fed generator field windings vgf varies output voltage generator varied output voltage change voltage motor since connected directly armature consequently changing vgf control speed motor picture right shows ward leonard control system vgf feeding generator vmf feeding motor
+transfer function
+first subscripts g m represents generator motor superscripts f rand correspond field rotor armature
+plant state vector
+gain
+time constant
+polar moment inertia
+angular viscous friction
+rotational inductance constant
+laplace operator
+eq generator field equation
+eq equation electrical equilibrium armature circuit
+eq motor torque equation
+total impedance neglected transfer function obtained solving eq
+eq transfer function
+constants defined
+see also
+references
+citations
+general references
+editors nov technology electrical components power transmission design
+ward leonard h volts versus ohms speed regulation electric motors aiee trans
+gottlieb im electric motors control techniques nd edition tab books
+malcolm barnes practical variable speed drives power electronics oxford newnes pp isbn

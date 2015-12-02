@@ -1,0 +1,129 @@
+centripetal force latin centrum center petere seek force makes body follow curved path direction always orthogonal motion body towards fixed point instantaneous center curvature path isaac newton described force bodies drawn impelled way tend towards point centre newtonian mechanics gravity provides centripetal force responsible astronomical orbits
+one common example involving centripetal force case body moves uniform speed along circular path centripetal force directed right angles motion also along radius towards centre circular path mathematical description derived dutch physicist christiaan huygens
+formula
+magnitude centripetal force object mass m moving tangential speed v along path radius curvature r
+centripetal acceleration direction force toward center circle object moving osculating circle circle best fits local path object path circular speed formula squared twice speed needs four times force inverse relationship radius curvature shows half radial distance requires twice force force also sometimes written terms angular velocity object center circle related tangential velocity formula
+expressed using orbital period one revolution circle
+equation becomes
+particle accelerators velocity high close speed light vacuum rest mass exerts greater inertia relativistic mass thereby requiring greater force centripetal acceleration equation becomes
+called lorentz factor
+sources centripetal force
+case object swinging around end rope horizontal plane centripetal force object supplied tension rope rope example example involving pull force centripetal force also supplied push force case normal reaction wall supplies centripetal force wall death rider
+newtons idea centripetal force corresponds nowadays referred central force satellite orbit around planet gravity considered centripetal force even though case eccentric orbits gravitational force directed towards focus towards instantaneous center curvature
+another example centripetal force arises helix traced charged particle moves uniform magnetic field absence external forces case magnetic force centripetal force acts towards helix axis
+analysis several cases
+three examples increasing complexity derivations formulas governing velocity acceleration
+uniform circular motion
+uniform circular motion refers case constant rate rotation two approaches describing case
+calculus derivation
+two dimensions position vector magnitude length directed angle xaxis expressed cartesian coordinates using unit vectors
+assume uniform circular motion requires three things
+object moves circle
+radius circle change time
+object moves constant angular velocity around circle therefore time
+find velocity acceleration motion taking derivatives position respect time
+notice term parenthesis original expression cartesian coordinates consequently
+negative shows acceleration pointed towards center circle opposite radius hence called centripetal ie centerseeking objects naturally follow straight path due inertia centripetal acceleration describes circular motion path caused centripetal force
+derivation using vectors
+image right shows vector relationships uniform circular motion rotation represented angular velocity vector normal plane orbit using righthand rule magnitude given
+angular position time subsection ddt assumed constant independent time distance traveled d particle time dt along circular path
+properties vector cross product magnitude rd direction tangent circular path
+consequently
+words
+differentiating respect time
+lagranges formula states
+applying lagranges formula observation rt times
+words acceleration pointing directly opposite radial displacement r times magnitude
+vertical bars denote vector magnitude case rt simply radius r path result agrees previous section though notation slightly different
+rate rotation made constant analysis nonuniform circular motion analysis agrees one
+merit vector approach manifestly independent coordinate system
+example banked turn
+upper panel image right shows ball circular motion banked curve curve banked angle horizontal surface road considered slippery objective find angle bank must ball slide road intuition tells us flat curve banking ball simply slide road steep banking ball slide center unless travels curve rapidly
+apart acceleration might occur direction path lower panel image indicates forces ball two forces one force gravity vertically downward center mass ball mg m mass ball g gravitational acceleration second upward normal force exerted road perpendicular road surface man centripetal force demanded curved motion also shown centripetal force third force applied ball rather must provided net force ball resulting vector addition normal force force gravity resultant net force ball found vector addition normal force exerted road vertical force due gravity must equal centripetal force dictated need travel circular path curved motion maintained long net force provides centripetal force requisite motion
+horizontal net force ball horizontal component force road magnitude fh mansin vertical component force road must counteract gravitational force fv mancos mg implies ang cos substituting formula fh yields horizontal force
+hand velocity v circular path radius r kinematics says force needed turn ball continuously turn radially inward centripetal force fc magnitude
+consequently ball stable path angle road set satisfy condition
+angle bank approaches tangent function approaches infinity allowing larger values vr words equation states faster speeds bigger v road must banked steeply larger value sharper turns smaller r road also must banked steeply accords intuition angle satisfy condition horizontal component force exerted road provide correct centripetal force additional frictional force tangential road surface called upon provide difference friction cannot coefficient friction exceeded ball slides different radius balance realized
+ideas apply air flight well see faa pilots manual
+nonuniform circular motion
+generalization uniform circular motion case suppose angular rate rotation constant acceleration tangential component shown image right case used demonstrate derivation strategy based upon polar coordinate system
+let rt vector describes position point mass function time since assuming circular motion let rt rur r constant radius circle ur unit vector pointing origin point mass direction ur described angle xaxis unit vector measured counterclockwise xaxis unit vector polar coordinates u perpendicular ur points direction increasing polar unit vectors expressed terms cartesian unit vectors x y directions denoted j respectively
+ur cos sin j
+u sin cos j
+one differentiate find velocity
+angular velocity ddt
+result velocity matches expectations velocity directed tangential circle magnitude velocity r differentiating noting
+find acceleration
+thus radial tangential components acceleration
+v r magnitude velocity speed
+equations express mathematically case object moves along circular path changing speed acceleration body may decomposed perpendicular component changes direction motion centripetal acceleration parallel tangential component changes speed
+general planar motion
+polar coordinates
+results derived perhaps simply polar coordinates time extended general motion within plane shown next polar coordinates plane employ radial unit vector u angular unit vector u shown particle position r described
+notation used describe distance path origin instead r emphasize distance fixed varies time unit vector u travels particle always points direction rt unit vector u also travels particle stays orthogonal u thus u u form local cartesian coordinate system attached particle tied path traveled particle moving unit vectors tails coincide seen circle left image seen u u form rightangled pair tips unit circle trace back forth perimeter circle angle rt
+particle moves velocity
+evaluate velocity derivative unit vector u needed u unit vector magnitude fixed change direction change du component perpendicular u trajectory rt rotates amount d u points direction rt also rotates d see image therefore change u
+similar fashion rate change u found u u unit vector rotate without changing size remain orthogonal u trajectory rt rotates amount d u orthogonal rt also rotates d see image therefore change du orthogonal u proportional d see image
+image shows sign negative maintain orthogonality du positive d du must decrease
+substituting derivative u expression velocity
+obtain acceleration another time differentiation done
+substituting derivatives u u acceleration particle
+particular example particle moves circle constant radius r ddt v v
+results agree nonuniform circular motion see also article nonuniform circular motion acceleration multiplied particle mass leading term centripetal force negative second term related angular acceleration sometimes called euler force
+trajectories circular motion example general trajectory envisioned image instantaneous center rotation radius curvature trajectory related indirectly coordinate system defined u u length rt consequently general case straightforward disentangle centripetal euler terms general acceleration equation deal directly issue local coordinates preferable discussed next
+local coordinates
+local coordinates meant set coordinates travel particle orientation determined path particle unit vectors formed shown image right tangential normal path coordinate system sometimes referred intrinsic path coordinates ntcoordinates normaltangential referring unit vectors coordinates special example general concept local coordinates theory differential forms
+distance along path particle arc length considered known function time
+center curvature defined position located distance radius curvature curve line along normal un required distance arc length defined terms rate rotation tangent curve turn determined path orientation tangent relative starting position defined derivative dds
+radius curvature usually taken positive absolute value curvature signed quantity
+geometric approach finding center curvature radius curvature uses limiting process leading osculating circle see image
+using coordinates motion along path viewed succession circular paths everchanging center position constitutes nonuniform circular motion position radius local value angular rate rotation given
+local speed v given
+examples unit vectors cannot change magnitude rate change always perpendicular direction see lefthand insert image
+consequently velocity acceleration
+using chainrule differentiation
+tangential acceleration
+local coordinate system acceleration resembles expression nonuniform circular motion local radius centripetal acceleration identified second term
+extension approach three dimensional space curves leads frenetserret formulas
+alternative approach
+looking image one might wonder whether adequate account taken difference curvature ds computing arc length ds sd reassurance point found using formal approach outlined approach also makes connection article curvature
+introduce unit vectors local coordinate system one approach begin cartesian coordinates describe local coordinates terms cartesian coordinates terms arc length let path described
+incremental displacement along path ds described
+primes introduced denote derivatives respect magnitude displacement ds showing
+eq
+displacement necessarily tangent curve showing unit vector tangent curve
+outward unit vector normal curve
+orthogonality verified showing vector dot product zero unit magnitude vectors consequence eq using tangent vector angle tangent curve given
+radius curvature introduced completely formally without need geometric interpretation
+derivative found sin
+denominator unity formula derivative sine radius curvature becomes
+equivalence forms stems differentiation eq
+results acceleration found
+verified taking dot product unit vectors uts uns result acceleration circular motion based radius using coordinate system inertial frame easy identify force normal trajectory centripetal force parallel trajectory tangential force qualitative standpoint path approximated arc circle limited time limited time particular radius curvature applies centrifugal euler forces analyzed basis circular motion radius
+result acceleration agrees found earlier however approach question change radius curvature handled completely formally consistent geometric interpretation relying upon thereby avoiding questions image might suggest neglecting variation
+example circular motion
+illustrate formulas let x y given
+recognized circular path around origin radius position corresponds oclock use formalism derivatives needed
+results one verify
+unit vectors also found
+serve show located position agrees original expressions x y words measured counterclockwise around circle oclock also derivatives vectors found
+obtain velocity acceleration timedependence necessary counterclockwise motion variable speed vt
+vt speed time st
+already established acceleration standard result nonuniform circular motion
+see also
+notes references
+reading
+serway raymond jewett john w physics scientists engineers th ed brookscole isbn
+tipler paul physics scientists engineers mechanics oscillations waves thermodynamics th ed w h freeman isbn
+centripetal force vs centrifugal force online regents exam physics tutorial oswego city school district
+external links
+notes university winnipeg
+notes physics astronomy hyperphysics georgia state university see also home page
+notes britannica
+notes physicsnet
+nasa notes david p stern
+notes u texas
+analysis smart yoyo
+inuit yoyo
+kinematic models design digital library kmoddl
+movies photos hundreds working mechanicalsystems models cornell university also includes ebook library classic texts mechanical design engineering

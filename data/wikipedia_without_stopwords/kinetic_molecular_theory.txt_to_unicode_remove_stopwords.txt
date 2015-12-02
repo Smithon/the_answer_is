@@ -1,0 +1,109 @@
+article applies gases see also kinetic theory solids
+kinetic theory describes gas large number submicroscopic particles atoms molecules constant random motion rapidly moving particles constantly collide walls container kinetic theory explains macroscopic properties gases pressure temperature viscosity thermal conductivity volume considering molecular composition motion theory posits gas pressure due impacts walls container molecules atoms moving different velocities
+kinetic theory defines temperature way identical thermodynamic definition
+microscope molecules making liquid small visible jittering motion pollen grains dust particles seen known brownian motion results directly collisions grains particles liquid molecules analyzed albert einstein experimental evidence kinetic theory generally seen confirmed concrete material existence atoms molecules
+assumptions
+theory ideal gases makes following assumptions
+gas consists small particles known molecules smallness size total volume individual gas molecules added negligible compared volume smallest open ball containing molecules equivalent stating average distance separating gas particles large compared size
+particles mass
+number molecules large statistical treatment applied
+molecules constant random rapid motion
+rapidly moving particles constantly collide among walls container collisions perfectly elastic means molecules considered perfectly spherical shape elastic nature
+except collisions interactions among molecules negligible exert forces one another
+implies
+relativistic effects negligible
+quantummechanical effects negligible means interparticle distance much larger thermal de broglie wavelength molecules treated classical objects
+two dynamics treated classically means equations motion molecules timereversible
+average kinetic energy gas particles depends absolute temperature system kinetic theory definition temperature identical thermodynamic definition
+time collision molecule containers wall negligible compared time successive collisions
+mass gas molecules affected gravity
+modern developments relax assumptions based boltzmann equation accurately describe properties dense gases include volume molecules necessary assumptions absence quantum effects molecular chaos small gradients bulk properties expansions higher orders density known virial expansions
+important book kinetic theory chapman cowling important approach subject called chapmanenskog theory many modern developments alternative approach developed grad based moment expansions limit extremely rarefied gases gradients bulk properties small compared mean free paths known knudsen regime expansions performed knudsen number
+properties
+pressure kinetic energy
+pressure explained kinetic theory arising force exerted molecules atoms impacting walls container consider gas n molecules mass m enclosed cuboidal container volume vl gas molecule collides wall container perpendicular x coordinate axis bounces opposite direction speed elastic collision momentum lost particle gained wall
+vx xcomponent initial velocity particle
+particle impacts one specific side wall every
+l distance opposite walls
+force due particle
+total force wall
+bar denotes average n particles since assumption particles move random directions conclude divide velocity vectors particles three mutually perpendicular directions average value along direction must equal though proportions arbitrary individual particles
+rewrite force
+force exerted area l therefore pressure gas
+vl volume box ratio nnv number density gas mass density nm less convenient theoretical derivations atomic level using n rewrite pressure
+first nontrivial result kinetic theory relates pressure macroscopic property average translational kinetic energy per molecule microscopic property
+temperature kinetic energy
+rewriting result pressure may combine ideal gas law
+boltzmann constant absolute temperature defined ideal gas law obtain
+leads expression average kinetic energy molecule
+kinetic energy system n times molecule namely temperature takes form
+becomes
+eq one important result kinetic theory average molecular kinetic energy proportional ideal gas laws absolute temperature eq eq
+thus product pressure volume per mole proportional average translational molecular kinetic energy
+eq eq called classical results could also derived statistical mechanics details see
+since degrees freedom monatomicgas system particles kinetic energy per degree freedom per molecule
+kinetic energy per degree freedom constant proportionality temperature times boltzmann constant addition temperature decrease pressure drops certain point result related equipartition theorem
+noted article heat capacity diatomic gases degrees freedom lighter gases act
+thus kinetic energy per kelvin monatomic ideal gas
+per mole j
+per molecule yj ev
+standard temperature k get
+per mole j
+per molecule zj mev
+collisions container
+one calculate number atomic molecular collisions wall container per unit area per unit time
+assuming ideal gas derivation results equation total number collisions per unit time per area
+quantity also known impingement rate vacuum physics
+speed molecules
+kinetic energy formula shown
+v ms kelvins m molecular mass kg probable speed rms speed mean speeds isotropic distribution speeds
+see rootmeansquare speed
+transport properties
+kinetic theory gases deals gases thermodynamic equilibrium also importantly gases thermodynamic equilibrium means considering known transport properties viscosity thermal conductivity
+history
+approximately bce roman philosopher lucretius proposed apparently static macroscopic bodies composed small scale rapidly moving atoms bouncing epicurean atomistic point view rarely considered subsequent centuries aristotlean ideas dominant
+daniel bernoulli published hydrodynamica laid basis kinetic theory gases work bernoulli posited argument still used day gases consist great numbers molecules moving directions impact surface causes gas pressure feel experience heat simply kinetic energy motion theory immediately accepted part conservation energy yet established obvious physicists collisions molecules could perfectly elastic
+pioneers kinetic theory neglected contemporaries mikhail lomonosov georgeslouis le sage ca published john herapath john james waterston connected research development mechanical explanations gravitation august krnig probably reading paper waterston created simple gaskinetic model considered translational motion particles
+rudolf clausius according words independently krnig developed similar much sophisticated version theory included translational contrary krnig also rotational vibrational molecular motions work introduced concept mean free path particle reading paper clausius james clerk maxwell formulated maxwell distribution molecular velocities gave proportion molecules certain velocity specific range firstever statistical law physics thirteen page article molecules maxwell states told atom material point invested surrounded potential forces flying molecules strike solid body constant succession causes called pressure air gases ludwig boltzmann generalized maxwells achievement formulated maxwellboltzmann distribution also logarithmic connection entropy probability first stated
+beginning twentieth century however atoms considered many physicists purely hypothetical constructs rather real objects important turning point albert einsteins marian smoluchowskis papers brownian motion succeeded making certain accurate quantitative predictions based kinetic theory
+see also
+bogoliubovborngreenkirkwoodyvon hierarchy equations
+boltzmann equation
+collision theory
+critical temperature
+gas laws
+heat
+maxwellboltzmann distribution
+mixmaster dynamics
+thermodynamics
+vlasov equation
+references
+clausius r ueber die art der bewegung welche wir wrme nennen annalen der physik bibcodeanpc doiandp
+de groot r w van leeuwen ch g van weert relativistic kinetic theory northholland amsterdam
+einstein ber die von der molekularkinetischen theorie der wrme geforderte bewegung von ruhenden flssigkeiten suspendierten teilchen pdf annalen der physik bibcodeanpe doiandp
+grad harold kinetic theory rarefied gases communications pure applied mathematics doicpa
+herapath j physical properties gases annals philosophy robert baldwin
+herapath j causes laws phenomena heat gases gravitation annals philosophy baldwin cradock joy
+krnig grundzge einer theorie der gase annalen der physik bibcodeanpk doiandp
+le sage gl physique mcanique des georgeslouis le sage prvost pierre deux traites de physique mcanique geneva paris jj paschoud pp
+liboff r l kinetic theory prenticehall englewood cliffs n j
+lomonosov m relation amount material weight henry m leicester mikhail vasilevich lomonosov corpuscular theory cambridge harvard university press pp
+mahon basil man changed everything life james clerk maxwell hoboken new jersey wiley isbn
+maxwell james clerk molecules scholar search nature bibcodenaturm doia pmid
+smoluchowski m zur kinetischen theorie der brownschen molekularbewegung und der suspensionen annalen der physik bibcodeanpv doiandp
+waterston john james thoughts mental functions reprinted papers
+williams m m r mathematical methods particle transport theory butterworths london
+endnotes
+reading
+sydney chapman tg cowling mathematical theory nonuniform gases account kinetic theory viscosity thermal conduction diffusion gases first edition second edition third edition prepared cooperation d burnett cambridge university press london
+jo hirschfelder cf curtiss rb bird molecular theory gases liquids second edition wiley
+rl liboff kinetic theory classical quantum relativistic descriptions third edition springer
+external links
+early theories gases
+thermodynamics chapter online textbook
+temperature pressure ideal gas equation state project physnet
+introduction kinetic molecular theory gases upper canada district school board
+java animation illustrating kinetic theory university arkansas
+flowchart linking together kinetic theory concepts hyperphysics
+interactive java applets allowing high school students experiment discover various factors affect rates chemical reactions
+httpswwwyoutubecomwatchvbfopblistuuxrjjddeqlggjjbpsmnha demonstration apparatus thermal agitation gases

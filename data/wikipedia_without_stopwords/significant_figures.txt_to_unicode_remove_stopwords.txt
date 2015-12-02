@@ -1,0 +1,79 @@
+significant figures number digits carry meaning contributing measurement resolution includes digits except
+leading zeros
+trailing zeros merely placeholders indicate scale number exact rules explained identifying significant figures
+spurious digits introduced example calculations carried greater precision original data measurements reported greater precision equipment supports
+significance arithmetic approximate rules roughly maintaining significance throughout computation sophisticated scientific rules known propagation uncertainty
+numbers often rounded avoid reporting insignificant figures example would create false precision express measurement kg seven significant figures scales measured nearest gram gave reading kg five significant figures numbers also rounded merely simplicity rather indicate given precision measurement example make faster pronounce news broadcasts
+identifying significant figures
+concise rules
+nonzero digits significant
+zeros nonzero digits significant
+leading zeros never significant
+number decimal point trailing zeros right last nonzero digit significant
+number without decimal point trailing zeros may may significant information additional graphical symbols explicit information errors needed clarify significance trailing zeros
+significant figures rules explained
+specifically rules identifying significant figures writing interpreting numbers follows
+nonzero digits considered significant example two significant figures five significant figures
+zeros appearing anywhere two nonzero digits significant example seven significant figures
+leading zeros significant example two significant figures
+trailing zeros number containing decimal point significant example six significant figures number still six significant figures zeros significant addition five significant figures since three trailing zeros convention clarifies precision numbers example measurement precise four decimal places given might understood two decimal places precision available stating result makes clear precise four decimal places case six significant figures
+significance trailing zeros number containing decimal point ambiguous example may always clear number like precise nearest unit happens coincidentally exact multiple hundred shown nearest hundred due rounding uncertainty many conventions exist address issue
+overline sometimes also called overbar less accurately vinculum macron may placed last significant figure trailing zeros following insignificant example three significant figures hence indicates number precise nearest ten
+less often using closely related convention last significant figure number may underlined example two significant figures
+decimal point may placed number example indicates specifically three significant figures meant
+combination number unit measurement ambiguity avoided choosing suitable unit prefix example number significant figures mass specified g ambiguous mass hg kg
+however conventions universally used often necessary determine context whether trailing zeros intended significant else fails level rounding specified explicitly abbreviation sf sometimes used example sf sf alternatively uncertainty stated separately explicitly plusminus sign significantfigures rules apply also allows specifying precision inbetween powers ten whatever base power numbering system
+scientific notation
+cases rules apply numbers expressed scientific notation however normalized form notation placeholder leading trailing digits occur digits significant example two significant figures becomes six significant figures becomes particular potential ambiguity significance trailing zeros eliminated example four significant figures written two significant figures written
+part representation contains significant figures opposed base exponent known significand mantissa
+rounding decimal places
+basic concept significant figures often used connection rounding rounding significant figures generalpurpose technique rounding n decimal places since handles numbers different scales uniform way example population city might known nearest thousand stated population country might known nearest million stated former might error hundreds latter might error hundreds thousands two significant figures reflects fact significance error likely size relative size quantity measured cases
+round n significant figures
+first nonsignificant figure followed nonzero digits round last significant figure away zero example result calculation measurement allows significant figures written
+first nonsignificant figure followed digits followed zeros rounding requires tiebreaking rule example round significant figures
+round half also known rounds default rounding method implied many disciplines specified
+round half even rounds nearest even number rounds case strategy applied would instead round
+replace nonsignificant figures front decimal zeros
+financial calculations number often rounded given number places example two places decimal separator many world currencies rounding fixed number decimal places way orthographic convention maintain significance may either lose information create false precision
+illustration decimal quantity expressed various numbers significant digits decimal places insufficient precision available number rounded manner fit available precision following table shows results various total precisions decimal places rounded nearest value using roundtoeven method
+representation positive number x precision p significant digits numerical value given formula
+roundnxn n floorlog x p
+negative numbers formula used absolute value zero transformation necessary note result may need written one conventions explained section identifying significant figures indicate actual number significant digits result includes example trailing significant zeros
+arithmetic
+rules determining number significant figures directly measured quantities rules determining number significant figures quantities calculated measured quantities
+measured quantities figure determination number significant figures calculated quantities exact mathematical quantities like formula area circle radius r r effect number significant figures final calculated area similarly formula kinetic energy mass m velocity v mv bearing number significant figures final calculated kinetic energy constants considered infinite number significant figures
+quantities created measured quantities multiplication division calculated result many significant figures measured number least number significant figures example
+two significant figures first factor four significant figures second two significant figures factor least number significant figures second one two final calculated result also total two significant figures
+quantities created measured quantities addition subtraction last significant decimal place hundreds tens ones tenths forth calculated result leftmost largest decimal place last significant figure measured quantities terms sum example
+last significant figure tenths place first term last significant figure tenths place second term last significant figure thousandths place leftmost decimal places last significant figure terms sum tenths place first term calculated result also last significant figure tenths place
+rules calculating significant figures multiplication division opposite rules addition subtraction multiplication division total number significant figures factors matter decimal place last significant figure factor irrelevant addition subtraction decimal place last significant figure terms matters total number significant figures term irrelevant
+base logarithm normalized number result rounded number significant figures normalized number example log log log rounded
+taking antilogarithms resulting number many significant figures mantissa logarithm
+performing calculation follow guidelines intermediate results keep many digits practical least implied precision final result end calculation avoid cumulative rounding errors
+estimating tenths
+using ruler initially use smallest mark first estimated digit example rulers smallest mark cm cm read cm cm
+possible overall length ruler may accurate degree smallest mark marks may imperfectly spaced within unit however assuming normal good quality ruler possible estimate tenths nearest two marks achieve extra decimal place accuracy failing adds error reading ruler error calibration ruler
+estimation
+estimating proportion individuals carrying particular characteristic population random sample population number significant figures exceed maximum precision allowed sample size correct number significant figures given order magnitude sample size found taking base logarithm sample size rounding nearest integer
+example poll randomly chosen viewers regularly visited web page find people disagree proposition web page order magnitude sample size log rounds estimated proportion people disagree proposition therefore significant figures different samples people population estimate would vary units additional figures would misrepresent size sample giving spurious precision interpret estimate number viewers disagree proposition calculate measure confidence estimate
+relationship accuracy precision measurement
+traditionally various technical fields accuracy refers closeness given measurement true value precision refers stability measurement repeated many times hoping reflect way term accuracy actually used scientific community recent standard iso keeps definition precision defines term trueness closeness given measurement true value uses term accuracy combination trueness precision see accuracy precision article fuller discussion either case number significant figures roughly corresponds precision either use word accuracy newer concept trueness
+computing
+computer representations floating point numbers typically use form rounding significant figures binary numbers number correct significant figures closely related notion relative error advantage accurate measure precision independent radix number system used
+see also
+accuracy precision
+benfords law first digit law
+engineering notation
+error bar
+false precision
+ieee ieee floating point standard
+interval arithmetic
+kahan summation algorithm
+precision computer science
+roundoff error
+references
+reading
+subcommittee e standard practice using significant digits test data determine conformance specifications astm international doie astm e
+external links
+significant figures calculator
+significant figures video khan academy

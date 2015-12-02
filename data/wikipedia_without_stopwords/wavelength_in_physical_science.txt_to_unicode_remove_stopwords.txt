@@ -1,0 +1,84 @@
+physics wavelength sinusoidal wave spatial period wavethe distance waves shape repeats inverse spatial frequency usually determined considering distance consecutive corresponding points phase crests troughs zero crossings characteristic traveling waves standing waves well spatial wave patterns wavelength commonly designated greek letter lambda concept also applied periodic waves nonsinusoidal shape term wavelength also sometimes applied modulated waves sinusoidal envelopes modulated waves waves formed interference several sinusoids
+assuming sinusoidal wave moving fixed wave speed wavelength inversely proportional frequency wave waves higher frequencies shorter wavelengths lower frequencies longer wavelengths
+wavelength depends medium example vacuum air water wave travels
+examples wavelike phenomena sound waves light water waves sound wave variation air pressure light electromagnetic radiation strength electric magnetic field vary water waves variations height body water crystal lattice vibration atomic positions vary
+wavelength measure distance repetitions shape feature peaks valleys zerocrossings measure far given particle moves example sinusoidal waves deep water particle near waters surface moves circle diameter wave height unrelated wavelength range wavelengths frequencies wave phenomena called spectrum name originated visible light spectrum applied entire electromagnetic spectrum well sound spectrum vibration spectrum
+sinusoidal waves
+linear media wave pattern described terms independent propagation sinusoidal components wavelength sinusoidal waveform traveling constant speed v given
+v called phase speed magnitude phase velocity wave f waves frequency dispersive medium phase speed depends upon frequency wave making relationship wavelength frequency nonlinear
+case electromagnetic radiationsuch lightin free space phase speed speed light ms thus wavelength mhz electromagnetic radio wave ms divided hz metres wavelength visible light ranges deep red roughly nm violet roughly nm examples see electromagnetic spectrum
+sound waves air speed sound ms room temperature atmospheric pressure wavelengths sound frequencies audible human ear hz khz thus approximately m mm respectively note wavelengths audible sound much longer visible light
+standing waves
+standing wave undulatory motion stays one place sinusoidal standing wave includes stationary points motion called nodes wavelength twice distance nodes
+upper figure shows three standing waves box walls box considered require wave nodes walls box example boundary conditions determining wavelengths allowed example electromagnetic wave box ideal metal walls condition nodes walls results metal walls cannot support tangential electric field forcing wave zero amplitude wall
+stationary wave viewed sum two traveling sinusoidal waves oppositely directed velocities consequently wavelength period wave velocity related traveling wave example speed light determined observation standing waves metal box containing ideal vacuum
+mathematical representation
+traveling sinusoidal waves often represented mathematically terms velocity v x direction frequency f wavelength
+y value wave position x time amplitude wave also commonly expressed terms wavenumber k times reciprocal wavelength angular frequency times frequency
+wavelength wavenumber related velocity frequency
+second form given phase kx often generalized kr replacing wavenumber k wave vector specifies direction wavenumber plane wave space parameterized position vector r case wavenumber k magnitude k still relationship wavelength shown v interpreted scalar speed direction wave vector first form using reciprocal wavelength phase generalize easily wave arbitrary direction
+generalizations sinusoids phases complex exponentials also common see plane wave typical convention using cosine phase instead sine phase describing wave based fact cosine real part complex exponential wave
+general media
+speed wave depends upon medium propagates particular speed light medium less vacuum means frequency correspond shorter wavelength medium vacuum shown figure right
+change speed upon entering medium causes refraction change direction waves encounter interface media angle electromagnetic waves change angle propagation governed snells law
+wave velocity one medium may differ another velocity typically varies wavelength result change direction upon entering different medium changes wavelength wave
+electromagnetic waves speed medium governed refractive index according
+c speed light vacuum n refractive index medium wavelength latter measured vacuum rather medium corresponding wavelength medium
+wavelengths electromagnetic radiation quoted wavelength vacuum usually intended unless wavelength specifically identified wavelength medium acoustics medium essential waves exist wavelength value given specified medium
+variation speed light vacuum wavelength known dispersion also responsible familiar phenomenon light separated component colors prism separation occurs refractive index inside prism varies wavelength different wavelengths propagate different speeds inside prism causing refract different angles mathematical relationship describes speed light within medium varies wavelength known dispersion relation
+nonuniform media
+wavelength useful concept even wave periodic space example ocean wave approaching shore shown figure incoming wave undulates varying local wavelength depends part depth sea floor compared wave height analysis wave based upon comparison local wavelength local water depth
+waves sinusoidal time propagate medium whose properties vary position inhomogeneous medium may propagate velocity varies position result may sinusoidal space figure right shows example wave slows wavelength gets shorter amplitude increases place maximum response short wavelength associated high loss wave dies
+analysis differential equations systems often done approximately using wkb method also known liouvillegreen method method integrates phase space using local wavenumber interpreted indicating local wavelength solution function time space method treats system locally uniform local properties particular local wave velocity associated frequency thing needed estimate corresponding local wavenumber wavelength addition method computes slowly changing amplitude satisfy constraints equations physical system conservation energy wave
+crystals
+waves crystalline solids continuous composed vibrations discrete particles arranged regular lattice produces aliasing vibration considered variety different wavelengths shown figure descriptions using one wavelengths redundant conventional choose longest wavelength fits phenomenon range wavelengths sufficient provide description possible waves crystalline medium corresponds wave vectors confined brillouin zone
+indeterminacy wavelength solids important analysis wave phenomena energy bands lattice vibrations mathematically equivalent aliasing signal sampled discrete intervals
+general waveforms
+concept wavelength often applied sinusoidal nearly sinusoidal waves linear system sinusoid unique shape propagates shape change phase change potentially amplitude change wavelength alternatively wavenumber wave vector characterization wave space functionally related frequency constrained physics system sinusoids simplest traveling wave solutions complex solutions built superposition
+special case dispersionfree uniform media waves sinusoids propagate unchanging shape constant velocity certain circumstances waves unchanging shape also occur nonlinear media example figure shows ocean waves shallow water sharper crests flatter troughs sinusoid typical cnoidal wave traveling wave named described jacobi elliptic function mth order usually denoted cnx m largeamplitude ocean waves certain shapes propagate unchanged properties nonlinear surfacewave medium
+traveling wave fixed shape repeats space time periodic wave waves sometimes regarded wavelength even though sinusoidal shown figure wavelength measured consecutive corresponding points waveform
+wave packets
+localized wave packets bursts wave action wave packet travels unit find application many fields physics wave packet envelope describes overall amplitude wave within envelope distance adjacent peaks troughs sometimes called local wavelength example shown figure general envelope wave packet moves different speed constituent waves
+using fourier analysis wave packets analyzed infinite sums integrals sinusoidal waves different wavenumbers wavelengths
+louis de broglie postulated particles specific value momentum p wavelength hp h plancks constant hypothesis basis quantum mechanics nowadays wavelength called de broglie wavelength example electrons crt display de broglie wavelength m prevent wave function particle spread space de broglie proposed using wave packets represent particles localized space spatial spread wave packet spread wavenumbers sinusoids make packet correspond uncertainties particles position momentum product bounded heisenberg uncertainty principle
+interference diffraction
+doubleslit interference
+sinusoidal waveforms add may reinforce constructive interference cancel destructive interference depending upon relative phase phenomenon used interferometer simple example experiment due young light passed two slits shown figure light passed two slits shines screen path light position screen different two slits depends upon angle path makes screen suppose screen far enough slits large compared slit separation d paths nearly parallel path difference simply d sin accordingly condition constructive interference
+m integer destructive interference
+thus wavelength light known slit separation determined interference pattern fringes vice versa
+multiple slits pattern
+q number slits g grating constant first factor singleslit result modulates rapidly varying second factor depends upon number slits spacing figure set unity rough approximation
+noted effect interference redistribute light energy contained light altered shows
+singleslit diffraction
+notion path difference constructive destructive interference used doubleslit experiment applies well display single slit light intercepted screen main result interference spread light narrow slit broader image screen distribution wave energy called diffraction
+two types diffraction distinguished depending upon separation source screen fraunhofer diffraction farfield diffraction large separations fresnel diffraction nearfield diffraction close separations
+analysis single slit nonzero width slit taken account point aperture taken source one contribution beam light huygens wavelets screen light arriving position within slit different path length albeit possibly small difference consequently interference occurs
+fraunhofer diffraction pattern sufficiently far single slit within smallangle approximation intensity spread related position x via squared sinc function
+l slit width r distance pattern screen slit wavelength light used function zeros u nonzero integer x values separation proportion wavelength
+diffractionlimited resolution
+diffraction fundamental limitation resolving power optical instruments telescopes including radiotelescopes microscopes circular aperture diffractionlimited image spot known airy disk distance x singleslit diffraction formula replaced radial distance r sine replaced j j first order bessel function
+resolvable spatial size objects viewed microscope limited according rayleigh criterion radius first null airy disk size proportional wavelength light used depending numerical aperture
+numerical aperture defined halfangle cone rays accepted microscope objective
+angular size central bright portion radius first null airy disk image diffracted circular aperture measure commonly used telescopes cameras
+wavelength waves focused imaging d entrance pupil diameter imaging system units angular resolution radians
+diffraction patterns pattern scales proportion wavelength shorter wavelengths lead higher resolution
+subwavelength
+term subwavelength used describe object one dimensions smaller length wave object interacts example term subwavelengthdiameter optical fibre means optical fibre whose diameter less wavelength light propagating
+subwavelength particle particle smaller wavelength light interacts see rayleigh scattering subwavelength apertures holes smaller wavelength light propagating structures applications extraordinary optical transmission zeromode waveguides among areas photonics
+subwavelength may also refer phenomenon involving subwavelength objects example subwavelength imaging
+angular wavelength
+quantity related wavelength angular wavelength also known reduced wavelength usually symbolized lambdabar equal regular wavelength reduced factor usually encountered quantum mechanics used combination reduced planck constant symbol hbar angular frequency symbol angular wavenumber symbol k
+see also
+emission spectrum
+envelope waves
+fraunhofer lines dark lines solar spectrum traditionally used standard optical wavelength references
+index wave articles
+length measurement
+spectral line
+spectroscopy
+spectrum
+references
+external links
+conversion wavelength frequency vice versa sound waves radio waves
+teaching resource years sound including wavelength
+visible electromagnetic spectrum displayed web colors according wavelengths

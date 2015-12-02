@@ -1,0 +1,35 @@
+electrical network interconnection electrical components eg batteries resistors inductors capacitors switches model interconnection consisting electrical elements eg voltage sources current sources resistances inductances capacitances electrical circuit network consisting closed loop giving return path current linear electrical networks special type consisting sources voltage current linear lumped elements resistors capacitors inductors linear distributed elements transmission lines property signals linearly superimposable thus easily analyzed using powerful frequency domain methods laplace transforms determine dc response ac response transient response
+resistive circuit circuit containing resistors ideal current voltage sources analysis resistive circuits less complicated analysis circuits containing capacitors inductors sources constant dc sources result dc circuit
+network contains active electronic components known electronic circuit networks generally nonlinear require complex design analysis tools
+classificationedit
+passivityedit
+active network network contains active source either voltage source current source
+passive network network contain active source
+linearityedit
+network linear signals obey principle superposition otherwise nonlinear linear network composed entirely independent sources linear dependent sources linear passive elements
+classification sourcesedit
+sources classified independent sources dependent sources
+independent sourcesedit
+ideal independent source maintains voltage current regardless elements present circuit value either constant dc sinusoidal ac strength voltage current changed variation connected network
+dependent sourcesedit
+dependent sources depend upon particular element circuit delivering power voltage current depending upon type source
+electrical lawsedit
+number electrical laws apply electrical networks include
+kirchhoffs current law sum currents entering node equal sum currents leaving node
+kirchhoffs voltage law directed sum electrical potential differences around loop must zero
+ohms law voltage across resistor equal product resistance current flowing
+nortons theorem network voltage current sources resistors electrically equivalent ideal current source parallel single resistor
+thvenins theorem network voltage current sources resistors electrically equivalent single voltage source series single resistor
+superposition theorem linear network several independent sources response particular branch sources acting simultaneously equal linear sum individual responses calculated taking one independent source time
+complex laws may needed network contains nonlinear reactive components nonlinear selfregenerative heterodyning systems approximated applying laws results set simultaneous equations solved either algebraically numerically
+design methodsedit
+design electrical circuit either analog digital electrical engineers need able predict voltages currents places within circuit simple linear circuits analyzed hand using complex number theory complex cases circuit may analyzed specialized software programs estimation techniques piecewiselinear model
+circuit simulation software hspice languages vhdlams verilogams allow engineers design circuits without time cost risk error involved building circuit prototypes
+network simulation softwareedit
+complex circuits analyzed numerically software spice gnucap symbolically using software sapwin
+linearization around operating pointedit
+faced new circuit software first tries find steady state solution one nodes conform kirchhoffs current law voltages across element circuit conform voltagecurrent equations governing element
+steady state solution found operating points element circuit known small signal analysis every nonlinear element linearized around operation point obtain smallsignal estimate voltages currents application ohms law resulting linear circuit matrix solved gaussian elimination
+piecewiselinear approximationedit
+software plecs interface simulink uses piecewiselinear approximation equations governing elements circuit circuit treated completely linear network ideal diodes every time diode switches vice versa configuration linear network changes adding detail approximation equations increases accuracy simulation also increases running time
+see alsoedit

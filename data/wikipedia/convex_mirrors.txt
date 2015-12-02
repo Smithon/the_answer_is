@@ -1,0 +1,46 @@
+a curved mirror is a mirror with a curved reflecting surface the surface may be either convex (bulging outward) or concave (bulging inward) most curved mirrors have surfaces that are shaped like part of a sphere but other shapes are sometimes used in optical devices the most common non-spherical type are parabolic reflectors found in optical devices such as reflecting telescopes that need to image distant objects since spherical mirror systems like spherical lenses suffer from spherical aberration one advantage that mirror optics have over lens optics is that mirrors do not introduce chromatic aberration
+== convex mirrors ==
+a convex mirror fish eye mirror or diverging mirror is a curved mirror in which the reflective surface bulges toward the light source convex mirrors reflect light outwards therefore they are not used to focus light such mirrors always form a virtual image since the focal point (f) and the centre of curvature (2f) are both imaginary points "inside" the mirror which cannot be reached as a result images formed by these mirrors cannot be projected on a screen since the image is inside the mirror the image is smaller than the object but gets larger as the object approaches the mirror
+a collimated (parallel) beam of light diverges (spreads out) after reflection from a convex mirror since the normal to the surface differs with each spot on the mirror
+=== uses ===
+the passenger-side mirror on a car is typically a convex mirror in some countries these are labeled with the safety warning "objects in mirror are closer than they appear" to warn the driver of the convex mirror's distorting effects on distance perception convex mirrors are preferred in vehicles because they give an upright though diminished image also they provide a wider field of view as they are curved outwards
+these mirrors are often found in the hallways of various buildings (commonly known as "hallway safety mirrors") including hospitals hotels schools stores and apartment buildings they are usually mounted on a wall or ceiling where hallways intersect each other or where they make sharp turns they are useful for people accessing the hallways especially at locations having blind spots or where visibility may be limited they are also used on roads driveways and alleys to provide safety for motorists where there is a lack of visibility especially at curves and turns
+convex mirrors are used in some automated teller machines as a simple and handy security feature allowing the users to see what is happening behind them similar devices are sold to be attached to ordinary computer monitors convex mirrors make everything seem smaller but cover a larger area of surveillance
+some camera phones use convex mirrors to allow the user to correctly aim the camera while taking a self-portrait
+round convex mirrors called oeil de sorcire (french for "sorcerer's eye") were a popular luxury item from the 15th century onwards shown in many depictions of interiors from that time with 15th century technology it was easier to make a regular curved mirror (from blown glass) than a perfectly flat one they were also known as "bankers' eyes" due to the fact that their wide field of vision was useful for security famous examples in art include the arnolfini portrait by jan van eyck and the left wing of the werl altarpiece by robert campin
+=== image ===
+the image on a convex mirror is always virtual (rays haven't actually passed through the image; their extensions do like in a regular mirror) diminished (smaller) and upright as the object gets closer to the mirror the image gets larger until reaching approximately the size of the object when it touches the mirror as the object moves away the image diminishes in size and gets gradually closer to the focus until it is reduced to a point in the focus when the object is at an infinite distance these features make convex mirrors very useful: since everything appears smaller in the mirror they cover a wider field of view than a normal plane mirror does
+== concave mirrors ==
+a concave mirror or converging mirror has a reflecting surface that bulges inward (away from the incident light) concave mirrors reflect light inward to one focal point.they are used to focus light unlike convex mirrors concave mirrors show different image types depending on the distance between the object and the mirror
+these mirrors are called "converging" because they tend to collect light that falls on them refocusing parallel incoming rays toward a focus this is because the light is reflected at different angles since the normal to the surface differs with each spot on the mirror
+=== uses ===
+concave mirrors are used in reflecting telescopes they are also used to provide a magnified image of the face for applying make-up or shaving in illumination applications concave mirrors are used to gather light from a small source and direct it outward in a beam as in headlamps and spotlights or to collect light from a large area and focus it into a small spot as in concentrated solar power concave mirrors are used to form optical cavities which are important in laser construction they are also used in torches and headlights of cars
+=== image ===
+== mirror shape ==
+most curved mirrors have a spherical profile these are the simplest to make and it is the best shape for general-purpose use spherical mirrors however suffer from spherical aberration parallel rays reflected from such mirrors do not focus to a single point for parallel rays such as those coming from a very distant object a parabolic reflector can do a better job such a mirror can focus incoming parallel rays to a much smaller spot than a spherical mirror can
+== analysis ==
+=== mirror equation and magnification ===
+the gaussian mirror equation also known as the mirror and lens equation relates the object distance and image distance to the focal length :
+the sign convention used here is that the focal length is positive for concave mirrors and negative for convex ones and and are positive when the object and image are in front of the mirror respectively (they are positive when the object or image is real.)
+for convex mirrors if one moves the term to the right side of the equation to solve for  the result is always a negative number meaning that the image distance is negativethe image is virtual located "behind" the mirror this is consistent with the behavior described above
+for concave mirrors whether the image is virtual or real depends on how large the object distance is compared to the focal length if the term is larger than the term is positive and the image is real otherwise the term is negative and the image is virtual again this validates the behavior described above
+the magnification of a mirror is defined as the height of the image divided by the height of the object:
+by convention if the resulting magnification is positive the image is upright if the magnification is negative the image is inverted (upside down)
+=== ray tracing ===
+the image location and size can also be found by graphical ray tracing as illustrated in the figures above a ray drawn from the top of the object to the surface vertex (where the optical axis meets the mirror) will form an angle with that axis the reflected ray has the same angle to the axis but is below it (see specular reflection)
+a second ray can be drawn from the top of the object passing through the focal point and reflecting off the mirror at a point somewhere below the optical axis such a ray will be reflected from the mirror as a ray parallel to the optical axis the point at which the two rays described above meet is the image point corresponding to the top of the object its distance from the axis defines the height of the image and its location along the axis is the image location the mirror equation and magnification equation can be derived geometrically by considering these two rays
+=== ray transfer matrix of spherical mirrors ===
+the mathematical treatment is done under the paraxial approximation meaning that under the first approximation a spherical mirror is a parabolic reflector the ray matrix of a spherical mirror is shown here for the concave reflecting surface of a spherical mirror the element of the matrix is  where is the focal point of the optical device
+boxes 1 and 3 feature summing the angles of a triangle and comparing to radians (or 180) box 2 shows the maclaurin series of up to order 1 the derivations of the ray matrices of a convex spherical mirror and a thin lens are very similar
+== see also ==
+anish kapoor - sculptor who has used large curved mirrors in his work
+concentrated solar power - a method of solar power generation using curved mirrors or arrays of mirrors
+lens (optics)
+list of telescope parts and construction
+== references ==
+== external links ==
+java applet to explore ray tracing
+java applets to explore ray tracing for curved mirrors
+concave mirrors real images molecular expressions optical microscopy primer
+spherical mirrors online physics lab
+"grinding the world's largest mirror" popular science december 1935

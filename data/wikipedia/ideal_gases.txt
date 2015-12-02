@@ -1,0 +1,101 @@
+an ideal gas is a theoretical gas composed of many randomly moving point particles that do not interact except when they collide elastically the ideal gas concept is useful because it obeys the ideal gas law a simplified equation of state and is amenable to analysis under statistical mechanics one mole of an ideal gas has a volume of 22.7 l at stp as defined by iupac
+at normal conditions such as standard temperature and pressure most real gases behave qualitatively like an ideal gas many gases such as nitrogen oxygen hydrogen noble gases and some heavier gases like carbon dioxide can be treated like ideal gases within reasonable tolerances generally a gas behaves more like an ideal gas at higher temperature and lower pressure as the potential energy due to intermolecular forces becomes less significant compared with the particles' kinetic energy and the size of the molecules becomes less significant compared to the empty space between them
+the ideal gas model tends to fail at lower temperatures or higher pressures when intermolecular forces and molecular size become important it also fails for most heavy gases such as many refrigerants and for gases with strong intermolecular forces notably water vapor at high pressures the volume of a real gas is often considerably greater than that of an ideal gas at low temperatures the pressure of a real gas is often considerably less than that of an ideal gas at some point of low temperature and high pressure real gases undergo a phase transition such as to a liquid or a solid the model of an ideal gas however does not describe or allow phase transitions these must be modeled by more complex equations of state the deviation from the ideal gas behaviour can be described by a dimensionless quantity the compressibility factor z
+the ideal gas model has been explored in both the newtonian dynamics (as in "kinetic theory") and in quantum mechanics (as a "gas in a box") the ideal gas model has also been used to model the behavior of electrons in a metal (in the drude model and the free electron model) and it is one of the most important models in statistical mechanics
+== types of ideal gas ==
+there are three basic classes of ideal gas:
+the classical or maxwellboltzmann ideal gas
+the ideal quantum bose gas composed of bosons and
+the ideal quantum fermi gas composed of fermions
+the classical ideal gas can be separated into two types: the classical thermodynamic ideal gas and the ideal quantum boltzmann gas both are essentially the same except that the classical thermodynamic ideal gas is based on classical statistical mechanics and certain thermodynamic parameters such as the entropy are only specified to within an undetermined additive constant the ideal quantum boltzmann gas overcomes this limitation by taking the limit of the quantum bose gas and quantum fermi gas in the limit of high temperature to specify these additive constants the behavior of a quantum boltzmann gas is the same as that of a classical ideal gas except for the specification of these constants the results of the quantum boltzmann gas are used in a number of cases including the sackurtetrode equation for the entropy of an ideal gas and the saha ionization equation for a weakly ionized plasma
+== classical thermodynamic ideal gas ==
+=== macroscopic account ===
+the ideal gas law is an extension of experimentally discovered gas laws real fluids at low density and high temperature approximate the behavior of a classical ideal gas however at lower temperatures or a higher density a real fluid deviates strongly from the behavior of an ideal gas particularly as it condenses from a gas into a liquid or as it deposits from a gas into a solid this deviation is expressed as a compressibility factor
+the classical thermodynamic properties of an ideal gas can be described by two equations of state:
+one of them is the well known ideal gas law
+where
+is the pressure
+is the volume
+is the amount of substance of the gas (in moles)
+is the gas constant (8.314 jk1mol1)
+is the absolute temperature
+this equation is derived from boyle's law: (at constant t and n); charles's law: (at constant p and n); and avogadro's law: (at constant t and p); where
+is a constant used in boyle's law
+is a proportionality constant; equal to
+is a proportionality constant; equal to 
+by combining the three laws it would demonstrate that which would mean that 
+under ideal conditions ; that is 
+the other equation of state of an ideal gas must express joule's law that the internal energy of a fixed mass of ideal gas is a function only of its temperature for the present purposes it is convenient to postulate an exemplary version of this law by writing:
+where
+is the internal energy
+is the dimensionless specific heat capacity at constant volume 3/2 for monatomic gas 5/2 for diatomic gas and 3 for more complex molecules
+=== microscopic model ===
+in order to switch from macroscopic quantities (left hand side of the following equation) to microscopic ones (right hand side) we use
+where
+is the number of gas particles
+is the boltzmann constant (1.3811023jk1)
+the probability distribution of particles by velocity or energy is given by the maxwell speed distribution
+the ideal gas model depends on the following assumptions:
+the molecules of the gas are indistinguishable small hard spheres
+all collisions are elastic and all motion is frictionless (no energy loss in motion or collision)
+newton's laws apply
+the average distance between molecules is much larger than the size of the molecules
+the molecules are constantly moving in random directions with a distribution of speeds
+there are no attractive or repulsive forces between the molecules apart from those that determine their point-like collisions
+the only forces between the gas molecules and the surroundings are those that determine the point-like collisions of the molecules with the walls
+in the simplest case there are no long-range forces between the molecules of the gas and the surroundings
+the assumption of spherical particles is necessary so that there are no rotational modes allowed unlike in a diatomic gas the following three assumptions are very related: molecules are hard collisions are elastic and there are no inter-molecular forces the assumption that the space between particles is much larger than the particles themselves is of paramount importance and explains why the ideal gas approximation fails at high pressures
+== heat capacity ==
+the heat capacity at constant volume including an ideal gas is:
+where s is the entropy this is the dimensionless heat capacity at constant volume which is generally a function of temperature due to intermolecular forces for moderate temperatures the constant for a monatomic gas is while for a diatomic gas it is  it is seen that macroscopic measurements on heat capacity provide information on the microscopic structure of the molecules
+the heat capacity at constant pressure of 1/r mole of ideal gas is:
+where is the enthalpy of the gas
+sometimes a distinction is made between an ideal gas where and could vary with temperature and a perfect gas for which this is not the case
+the ratio of the constant volume and constant pressure heat capacity is
+for air which is a mixture of gases this ratio is 1.4
+== entropy ==
+using the results of thermodynamics only we can go a long way in determining the expression for the entropy of an ideal gas this is an important step since according to the theory of thermodynamic potentials if we can express the entropy as a function of u (u is a thermodynamic potential) volume v and the number of particles n then we will have a complete statement of the thermodynamic behavior of the ideal gas we will be able to derive both the ideal gas law and the expression for internal energy from it
+since the entropy is an exact differential using the chain rule the change in entropy when going from a reference state 0 to some other state with entropy s may be written as where:
+where the reference variables may be functions of the number of particles n using the definition of the heat capacity at constant volume for the first differential and the appropriate maxwell relation for the second we have:
+expressing in terms of as developed in the above section differentiating the ideal gas equation of state and integrating yields:
+which implies that the entropy may be expressed as:
+where all constants have been incorporated into the logarithm as f(n) which is some function of the particle number n having the same dimensions as in order that the argument of the logarithm be dimensionless we now impose the constraint that the entropy be extensive this will mean that when the extensive parameters (v and n) are multiplied by a constant the entropy will be multiplied by the same constant mathematically:
+from this we find an equation for the function f(n)
+differentiating this with respect to a setting a equal to unity and then solving the differential equation yields f(n):
+where may vary for different gases but will be independent of the thermodynamic state of the gas it will have the dimensions of  substituting into the equation for the entropy:
+and using the expression for the internal energy of an ideal gas the entropy may be written:
+since this is an expression for entropy in terms of u v and n it is a fundamental equation from which all other properties of the ideal gas may be derived
+this is about as far as we can go using thermodynamics alone note that the above equation is flawed as the temperature approaches zero the entropy approaches negative infinity in contradiction to the third law of thermodynamics in the above "ideal" development there is a critical point not at absolute zero at which the argument of the logarithm becomes unity and the entropy becomes zero this is unphysical the above equation is a good approximation only when the argument of the logarithm is much larger than unity the concept of an ideal gas breaks down at low values of v/n nevertheless there will be a "best" value of the constant in the sense that the predicted entropy is as close as possible to the actual entropy given the flawed assumption of ideality a quantum-mechanical derivation of this constant is developed in the derivation of the sackurtetrode equation which expresses the entropy of a monatomic ideal gas in the sackur-tetrode theory the constant depends only upon the mass of the gas particle the sackurtetrode equation also suffers from a divergent entropy at absolute zero but is a good approximation for the entropy of a monatomic ideal gas for high enough temperatures
+== thermodynamic potentials ==
+expressing the entropy as a function of t v and n:
+the chemical potential of the ideal gas is calculated from the corresponding equation of state (see thermodynamic potential):
+where g is the gibbs free energy and is equal to so that:
+the thermodynamic potentials for an ideal gas can now be written as functions of t v and n as:
+where as before  the most informative way of writing the potentials is in terms of their natural variables since each of these equations can be used to derive all of the other thermodynamic variables of the system in terms of their natural variables the thermodynamic potentials of a single-species ideal gas are:
+in statistical mechanics the relationship between the helmholtz free energy and the partition function is fundamental and is used to calculate the thermodynamic properties of matter; see configuration integral for more details
+== speed of sound ==
+the speed of sound in an ideal gas is given by
+where
+is the adiabatic index
+is the entropy per particle of the gas
+is the mass density of the gas
+is the pressure of the gas
+is the universal gas constant
+is the temperature
+is the molar mass of the gas
+== table of ideal gas equations ==
+see table of thermodynamic equations: ideal gas
+== ideal quantum gases ==
+in the above-mentioned sackurtetrode equation the best choice of the entropy constant was found to be proportional to the quantum thermal wavelength of a particle and the point at which the argument of the logarithm becomes zero is roughly equal to the point at which the average distance between particles becomes equal to the thermal wavelength in fact quantum theory itself predicts the same thing any gas behaves as an ideal gas at high enough temperature and low enough density but at the point where the sackurtetrode equation begins to break down the gas will begin to behave as a quantum gas composed of either bosons or fermions (see the gas in a box article for a derivation of the ideal quantum gases including the ideal boltzmann gas.)
+gases tend to behave as an ideal gas over a wider range of pressures when the temperature reaches the boyle temperature
+=== ideal boltzmann gas ===
+the ideal boltzmann gas yields the same results as the classical thermodynamic gas but makes the following identification for the undetermined constant :
+where is the thermal de broglie wavelength of the gas and g is the degeneracy of states
+=== ideal bose and fermi gases ===
+an ideal gas of bosons (e.g a photon gas) will be governed by boseeinstein statistics and the distribution of energy will be in the form of a boseeinstein distribution an ideal gas of fermions will be governed by fermidirac statistics and the distribution of energy will be in the form of a fermidirac distribution
+== see also ==
+compressibility factor
+dynamical billiards - billiard balls as a model of an ideal gas
+table of thermodynamic equations
+scale-free ideal gas
+== references ==

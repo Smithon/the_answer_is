@@ -1,0 +1,89 @@
+stressenergy tensor sometimes stressenergymomentum tensor energymomentum tensor tensor quantity physics describes density flux energy momentum spacetime generalizing stress tensor newtonian physics attribute matter radiation nongravitational force fields stressenergy tensor source gravitational field einstein field equations general relativity mass density source field newtonian gravity
+definitionedit
+stressenergy tensor involves use superscripted variables exponents see tensor index notation einstein summation notation cartesian coordinates si units used components position fourvector given x x x x y x z time seconds x y z distances meters
+stressenergy tensor defined tensor order two gives flux th component momentum vector across surface constant x coordinate theory relativity momentum vector taken fourmomentum general relativity stressenergy tensor symmetric
+alternative theories like einsteincartan theory stressenergy tensor may perfectly symmetric nonzero spin tensor geometrically corresponds nonzero torsion tensor
+identifying components tensoredit
+stressenergy tensor order two components displayed matrix form
+following k range
+timetime component density relativistic mass ie energy density divided speed light squared special interest simple physical interpretation case perfect fluid component
+electromagnetic field otherwise empty space component
+e b electric magnetic fields respectively
+flux relativistic mass across xi surface equivalent density ith component linear momentum
+components
+represent flux ith component linear momentum across xk surface particular
+summed represents normal stress called pressure independent direction remaining components
+represent shear stress compare stress tensor
+solid state physics fluid mechanics stress tensor defined spatial components stressenergy tensor proper frame reference words stress energy tensor engineering differs stressenergy tensor momentum convective term
+covariant mixed formsedit
+article work contravariant form stressenergy tensor however often necessary work covariant form
+mixed form
+mixed tensor density
+article use spacelike sign convention metric signature
+conservation lawedit
+special relativityedit
+stressenergy tensor conserved noether current associated spacetime translations
+divergence nongravitational stressenergy zero words nongravitational energy momentum conserved
+gravity negligible using cartesian coordinate system spacetime may expressed terms partial derivatives
+integral form
+n compact fourdimensional region spacetime boundary threedimensional hypersurface element boundary regarded outward pointing normal
+flat spacetime using cartesian coordinates one combines symmetry stressenergy tensor one show angular momentum also conserved
+general relativityedit
+gravity nonnegligible using arbitrary coordinate systems divergence stressenergy still vanishes case coordinate free definition divergence used incorporates covariant derivative
+christoffel symbol gravitational force field
+consequently killing vector field conservation law associated symmetry generated killing vector field may expressed
+integral form
+general relativityedit
+general relativity symmetric stressenergy tensor acts source spacetime curvature current density associated gauge transformations gravity general curvilinear coordinate transformations torsion tensor longer symmetric corresponds case nonzero spin tensor einsteincartan gravity theory
+general relativity partial derivatives used special relativity replaced covariant derivatives means continuity equation longer implies nongravitational energy momentum expressed tensor absolutely conserved ie gravitational field work matter vice versa classical limit newtonian gravity simple interpretation energy exchanged gravitational potential energy included tensor momentum transferred field bodies general relativity landaulifshitz pseudotensor unique way define gravitational field energy momentum densities stressenergy pseudotensor made vanish locally coordinate transformation
+curved spacetime spacelike integral depends spacelike slice general fact way define global energymomentum vector general curved spacetime
+einstein field equationsedit
+general relativity stress tensor studied context einstein field equations often written
+ricci tensor ricci scalar tensor contraction ricci tensor metric tensor universal gravitational constant
+stressenergy special situationsedit
+isolated particleedit
+special relativity stressenergy noninteracting particle mass m trajectory
+velocity vector confused fourvelocity
+dirac delta function energy particle
+stressenergy fluid equilibriumedit
+perfect fluid thermodynamic equilibrium stressenergy tensor takes particularly simple form
+massenergy density kilograms per cubic meter hydrostatic pressure pascals fluids four velocity reciprocal metric tensor
+four velocity satisfies
+inertial frame reference comoving fluid better known fluids proper frame reference four velocity
+reciprocal metric tensor simply
+stressenergy tensor diagonal matrix
+electromagnetic stressenergy tensoredit
+hilbert stressenergy tensor sourcefree electromagnetic field
+electromagnetic field tensor
+scalar fieldedit
+stressenergy tensor scalar field satisfies kleingordon equation
+variant definitions stressenergyedit
+number inequivalent definitions nongravitational stressenergy
+hilbert stressenergy tensoredit
+defined functional derivative
+nongravitational part lagrangian density action symmetric gaugeinvariant see einsteinhilbert action information
+canonical stressenergy tensoredit
+noethers theorem implies conserved current associated translations space time called canonical stressenergy tensor generally symmetric gauge theory may gauge invariant spacedependent gauge transformations commute spatial translations
+general relativity translations respect coordinate system transform covariantly see section gravitational stressenergy pseudotensor
+belinfanterosenfeld stressenergy tensoredit
+presence spin intrinsic angular momentum canonical noether stress energy tensor fails symmetric belinfanterosenfeld stress energy tensor constructed canonical stressenergy tensor spin current way symmetric still conserved general relativity modified tensor agrees hilbert stressenergy tensor
+gravitational stressenergyedit
+equivalence principle gravitational stressenergy always vanish locally chosen point chosen frame therefore gravitational stressenergy cannot expressed nonzero tensor instead use pseudotensor
+general relativity many possible distinct definitions gravitational stressenergymomentum pseudotensor include einstein pseudotensor landaulifshitz pseudotensor landaulifshitz pseudotensor reduced zero event spacetime choosing appropriate coordinate system
+see alsoedit
+cooperstocks energylocalization hypothesis
+electromagnetic stressenergy tensor
+energy condition
+energy density electric magnetic fields
+maxwell stress tensor
+poynting vector
+ricci calculus
+segre classification
+notes referencesedit
+pp misner thorne wheeler section symmetry stressenergy tensor begins stressenergy tensors explored symmetric could otherwise one sees follows
+charles w misner thorne kip wheeler john gravitation san frandisco w h freeman company isbn
+dinverno ra introducing einsteins relativity new york oxford university press isbn
+w wyss energymomentum tensor classical field theory pdf colorado usa
+external linksedit
+lecture stephan waner
+caltech tutorial relativity simple discussion relation stressenergy tensor general relativity metric

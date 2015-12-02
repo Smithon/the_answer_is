@@ -1,0 +1,48 @@
+the fpplvon krmn equations named after august fppl and theodore von krmn are a set of nonlinear partial differential equations describing the large deflections of thin flat plates with applications ranging from the design of submarine hulls to the mechanical properties of cell wall the equations are notoriously difficult to solve and take the following form:
+where e is the young's modulus of the plate material (assumed homogeneous and isotropic) is the poisson's ratio h is the thickness of the plate w is the outofplane deflection of the plate p is the external normal force per unit area of the plate is the cauchy stress tensor and  are indices that take values of 1 or 2 the 2-dimensional biharmonic operator is defined as
+equation (1) above can be derived from kinematic assumptions and the constitutive relations for the plate equations (2) are the two equations for the conservation of linear momentum in two dimensions where it is assumed that the outofplane stresses (33,13,23) are zero
+== validity of the fpplvon krmn equations ==
+while the fpplvon krmn equations are of interest from a purely mathematical point of view the physical validity of these equations is questionable ciarlet states: the two-dimensional von karman equations for plates originally proposed by von karman [1910] play a mythical role in applied mathematics while they have been abundantly and satisfactorily studied from the mathematical standpoint as regards notably various questions of existence regularity and bifurcation of their solutions their physical soundness has been often seriously questioned reasons include the facts that
+the theory depends on an approximate geometry which is not clearly defined
+a given variation of stress over a cross-section is assumed arbitrarily
+a linear constitutive relation is used that does not correspond to a known relation between well defined measures of stress and strain
+some components of strain are arbitrarily ignored
+there is a confusion between reference and deformed configurations which makes the theory inapplicable to the large deformations for which it was apparently devised
+conditions under which these equations are actually applicable and will give reasonable results when solved are discussed in ciarlet
+== equations in terms of airy stress function ==
+the three fpplvon krmn equations can be reduced to two by introducing the airy stress function where
+then the above equations become
+== pure bending ==
+for the pure bending of thin plates the equation of equilibrium is  where
+is called flexural or cylindrical rigidity of the plate
+== kinematic assumptions (kirchhoff hypothesis) ==
+in the derivation of the fpplvon krmn equations the main kinematic assumption (also known as the kirchhoff hypothesis) is that surface normals to the plane of the plate remain perpendicular to the plate after deformation it is also assumed that the in-plane (membrane) displacements and the change in thickness of the plate are negligible these assumptions imply that the displacement field u in the plate can be expressed as
+this form of the displacement field implicitly assumes that the amount of rotation of the plate is small
+== strain-displacement relations (von krmn strains) ==
+the components of the three-dimensional lagrangian green strain tensor are defined as
+substitution of the expressions for the displacement field into the above gives
+for small strains but moderate rotations the higher order terms that cannot be neglected are
+neglecting all other higher order terms and enforcing the requirement that the plate does not change its thickness the strain tensor components reduce to the von krmn strains
+== stress-strain relations ==
+if we assume that the cauchy stress tensor components are linearly related to the von krmn strains by hooke's law the plate is isotropic and homogeneous and that the plate in under a plane stress condition we have 33 = 13 = 23 = 0 and
+expanding the terms the three non-zero stresses are
+== stress resultants ==
+the stress resultants in the plate are defined as
+therefore
+and
+solutions are easier to find when the governing equations are expressed in terms of stress resultants rather than the in-plane stresses
+== fpplvon_krmn equations in terms of stress resultants ==
+the fpplvon_krmn equations are typically derived with an energy approach by considering variations of internal energy and the work done by external forces a similar approach can be used to write these equations in terms of stress resultants the resulting governing equations are
+== references ==
+^ fppl a. "vorlesungen ber technische mechanik" b.g teubner bd 5. p 132 leipzig germany (1907)
+^ von krmn t. "festigkeitsproblem im maschinenbau," encyk d math wiss iv 311385 (1910)
+^ e cerda and l mahadevan 2003 "geometry and physics of wrinkling" phys rev lett 90 074302 (2003)
+^ http://focus.aps.org/story/v27/st6
+^ a b c "theory of elasticity" l d landau e m lifshitz (3rd ed isbn 0-7506-2633-x)
+^ the 2-dimensional laplacian  is defined as
+^ von karman plate equations http://imechanica.org/node/6618 accessed tue july 30 2013 14:20
+^ a b ciarlet p g (1990) plates and junctions in elastic multi-structures springer-verlag
+^ ciarlet philippe g (1980) "a justification of the von krmn equations" archive for rational mechanics and analysis 73 (4): 349389. bibcode:1980arrma..73..349c doi:10.1007/bf00247674
+^ typically an assumption of zero out-of-plane stress is made at this point
+== see also ==
+plate theory

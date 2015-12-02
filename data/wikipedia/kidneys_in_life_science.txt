@@ -1,0 +1,52 @@
+half-life (t12) is the amount of time required for the amount of something to fall to half its initial value the term is very commonly used in nuclear physics to describe how quickly unstable atoms undergo radioactive decay but it is also used more generally for discussing any type of exponential decay
+the original term dating to ernest rutherford's discovery of the principle in 1907 was "half-life period" which was shortened to "half-life" in the early 1950s rutherford applied the principle of a radioactive element's half-life to studies of age determination of rocks by measuring the decay period of radium to lead-206
+half-life is used to describe a quantity undergoing exponential decay and is constant over the lifetime of the decaying quantity it is a characteristic unit for the exponential decay equation the term "half-life" may generically be used to refer to any period of time in which a quantity falls by half even if the decay is not exponential the table on the right shows the reduction of a quantity in the number of half-lives elapsed for a general introduction and description of exponential decay see exponential decay for a general introduction and description of non-exponential decay see rate law the converse of half-life is doubling time
+== probabilistic nature of half-lifeedit ==
+a half-life usually describes the decay of discrete entities such as radioactive atoms in that case it does not work to use the definition "half-life is the time required for exactly half of the entities to decay" for example if there are 3 radioactive atoms with a half-life of one second there will not be "1.5 atoms" left after one second
+instead the half-life is defined in terms of probability: "half-life is the time required for exactly half of the entities to decay on average" in other words the probability of a radioactive atom decaying within its half-life is 50%
+for example the image on the right is a simulation of many identical atoms undergoing radioactive decay note that after one half-life there are not exactly one-half of the atoms remaining only approximately because of the random variation in the process nevertheless when there are many identical atoms decaying (right boxes) the law of large numbers suggests that it is a very good approximation to say that half of the atoms remain after one half-life
+there are various simple exercises that demonstrate probabilistic decay for example involving flipping coins or running a statistical computer program
+== formulas for half-life in exponential decayedit ==
+an exponential decay process can be described by any of the following three equivalent formulas:
+where
+n0 is the initial quantity of the substance that will decay (this quantity may be measured in grams moles number of atoms etc.)
+n(t) is the quantity that still remains and has not yet decayed after a time t
+t12 is the half-life of the decaying quantity
+is a positive number called the mean lifetime of the decaying quantity
+is a positive number called the decay constant of the decaying quantity
+the three parameters   and are all directly related in the following way:
+where ln(2) is the natural logarithm of 2 (approximately 0.693)
+by plugging in and manipulating these relationships we get all of the following equivalent descriptions of exponential decay in terms of the half-life:
+regardless of how it's written we can plug into the formula to get
+as expected (this is the definition of "initial quantity")
+as expected (this is the definition of half-life)
+; i.e. amount approaches zero as t approaches infinity as expected (the longer we wait the less remains)
+=== decay by two or more processesedit ===
+some quantities decay by two exponential-decay processes simultaneously in this case the actual half-life t12 can be related to the half-lives t1 and t2 that the quantity would have if each of the decay processes acted in isolation:
+for three or more processes the analogous formula is:
+for a proof of these formulas see exponential decay#decay by two or more processes
+=== examplesedit ===
+there is a half-life describing any exponential-decay process for example:
+the current flowing through an rc circuit or rl circuit decays with a half-life of or  respectively for this example the term half time might be used instead of "half life" but they mean the same thing
+in a first-order chemical reaction the half-life of the reactant is  where is the reaction rate constant
+in radioactive decay the half-life is the length of time after which there is a 50% chance that an atom will have undergone nuclear decay it varies depending on the atom type and isotope and is usually determined experimentally see list of nuclides
+the half life of a species is the time it takes for the concentration of the substance to fall to half of its initial value
+== half-life in non-exponential decayedit ==
+the decay of many physical quantities is not exponentialfor example the evaporation of water from a puddle or (often) the chemical reaction of a molecule in such cases the half-life is defined the same way as before: as the time elapsed before half of the original quantity has decayed however unlike in an exponential decay the half-life depends on the initial quantity and the prospective half-life will change over time as the quantity decays
+as an example the radioactive decay of carbon-14 is exponential with a half-life of 5730 years a quantity of carbon-14 will decay to half of its original amount (on average) after 5730 years regardless of how big or small the original quantity was after another 5730 years one-quarter of the original will remain on the other hand the time it will take a puddle to half-evaporate depends on how deep the puddle is perhaps a puddle of a certain size will evaporate down to half its original volume in one day but on the second day there is no reason to expect that one-quarter of the puddle will remain; in fact it will probably be much less than that this is an example where the half-life reduces as time goes on (in other non-exponential decays it can increase instead.)
+the decay of a mixture of two or more materials which each decay exponentially but with different half-lives is not exponential mathematically the sum of two exponential functions is not a single exponential function a common example of such a situation is the waste of nuclear power stations which is a mix of substances with vastly different half-lives consider a sample containing a rapidly decaying element a with a half-life of 1 second and a slowly decaying element b with a half-life of one year after a few seconds almost all atoms of the element a have decayed after repeated halving of the initial total number of atoms; but very few of the atoms of element b will have decayed yet as only a tiny fraction of a half-life has elapsed thus the mixture taken as a whole does not decay by halves
+== half-life in biology and pharmacologyedit ==
+a biological half-life or elimination half-life is the time it takes for a substance (drug radioactive nuclide or other) to lose one-half of its pharmacologic physiologic or radiological activity in a medical context the half-life may also describe the time that it takes for the concentration in blood plasma of a substance to reach one-half of its steady-state value (the "plasma half-life")
+the relationship between the biological and plasma half-lives of a substance can be complex due to factors including accumulation in tissues active metabolites and receptor interactions
+while a radioactive isotope decays almost perfectly according to so-called "first order kinetics" where the rate constant is a fixed number the elimination of a substance from a living organism usually follows more complex chemical kinetics
+for example the biological half-life of water in a human being is about 9 to 10 days though this can be altered by behavior and various other conditions the biological half-life of cesium in human beings is between one and four months
+== see alsoedit ==
+half time (physics)
+list of isotopes by half-life
+mean lifetime
+== referencesedit ==
+== external linksedit ==
+nucleonica.net nuclear science portal
+nucleonica.net wiki: decay engine
+bucknell.edu system dynamics time constants
+subotex.com half-life elimination of drugs in blood plasma simple charting tool

@@ -1,0 +1,57 @@
+amount of substance is a standards-defined quantity that measures the size of an ensemble of elementary entities such as atoms molecules electrons and other particles it is sometimes referred to as chemical amount the international system of units (si) defines the amount of substance to be proportional to the number of elementary entities present the si unit for amount of substance is the mole it has the unit symbol mol
+the mole is defined as the amount of substance that contains an equal number of elementary entities as there are atoms in 12 g of the isotope carbon-12 this number is called avogadro's number and has the value 70236022140857000006.022140857(74)1023 it is the numerical value of the avogadro constant which has the unit 1/mol and relates the molar mass of an amount of substance to its mass therefore the amount of substance of a sample is calculated as the sample mass divided by the molar mass of the substance
+amount of substance appears in thermodynamic relations such as the ideal gas law and in stoichiometric relations between reacting molecules as in the law of multiple proportions
+the only other unit of amount of substance in current use is the pound-mole with the symbol lb-mol which is sometimes used in chemical engineering in the united states one pound-mole is 7002453592370000000453.59237 mol
+== terminologyedit ==
+when quoting an amount of substance it is necessary to specify the entity involved unless there is no risk of ambiguity one mole of chlorine could refer either to chlorine atoms as in 58.44 g of sodium chloride or to chlorine molecules as in 22.711 liters of chlorine gas at stp the simplest way to avoid ambiguity is to replace the term substance by the name of the entity or to quote the empirical formula for example:
+amount of chloroform (molecules) chcl3
+amount of sodium (atoms) na
+amount of hydrogen (atoms) h
+n(c2h4)
+this can be considered to be a technical definition of the word amount a usage which is also found in the names of certain derived quantities (see below)
+== derived quantitiesedit ==
+when amount of substance enters into a derived quantity it is usually as the denominator: such quantities are known as molar quantities for example the quantity which describes the volume occupied by a given amount of substance is called the molar volume while the quantity which describes the mass of a given amount of substance is the molar mass molar quantities are sometimes denoted by a subscript latin "m" in the symbol e.g cp,m molar heat capacity at constant pressure: the subscript may be omitted if there is no risk of ambiguity as is often the case in pure chemistry
+the main derived quantity in which amount of substance enters into the numerator is amount of substance concentration c this name is often abbreviated to "amount concentration" except in clinical chemistry where "substance concentration" is the preferred term (to avoid any possible ambiguity with mass concentration) the name "molar concentration" is incorrect if commonly used
+== historyedit ==
+the alchemists and especially the early metallurgists probably had some notion of amount of substance but there are no surviving records of any generalization of the idea beyond a set of recipes in 1758 mikhail lomonosov questioned the idea that mass was the only measure of the quantity of matter but he did so only in relation to his theories on gravitation the development of the concept of amount of substance was coincidental with and vital to the birth of modern chemistry
+1777: wenzel publishes lessons on affinity in which he demonstrates that the proportions of the "base component" and the "acid component" (cation and anion in modern terminology) remain the same during reactions between two neutral salts
+1789: lavoisier publishes treatise of elementary chemistry introducing the concept of a chemical element and clarifying the law of conservation of mass for chemical reactions
+1792: richter publishes the first volume of stoichiometry or the art of measuring the chemical elements (publication of subsequent volumes continues until 1802) the term "stoichiometry" is used for the first time the first tables of equivalent weights are published for acidbase reactions richter also notes that for a given acid the equivalent mass of the acid is proportional to the mass of oxygen in the base
+1794: proust's law of definite proportions generalizes the concept of equivalent weights to all types of chemical reaction not simply acidbase reactions
+1805: dalton publishes his first paper on modern atomic theory including a "table of the relative weights of the ultimate particles of gaseous and other bodies"
+the concept of atoms raised the question of their weight while many were skeptical about the reality of atoms chemists quickly found atomic weights to be an invaluable tool in expressing stoichiometric relationships
+1808: publication of dalton's a new system of chemical philosophy containing the first table of atomic weights (based on h = 1)
+1809: gay-lussac's law of combining volumes stating an integer relationship between the volumes of reactants and products in the chemical reactions of gases
+1811: avogadro hypothesizes that equal volumes of different gases contain equal numbers of particles now known as avogadro's law
+1813/1814: berzelius publishes the first of several tables of atomic weights based on the scale of o = 100
+1815: prout publishes his hypothesis that all atomic weights are integer multiple of the atomic weight of hydrogen the hypothesis is later abandoned given the observed atomic weight of chlorine (approx 35.5 relative to hydrogen)
+1819: dulongpetit law relating the atomic weight of a solid element to its specific heat capacity
+1819: mitscherlich's work on crystal isomorphism allows many chemical formulae to be clarified resolving several ambiguities in the calculation of atomic weights
+1834: clapeyron states the ideal gas law
+the ideal gas law was the first to be discovered of many relationships between the number of atoms or molecules in a system and other physical properties of the system apart from its mass however this was not sufficient to convince all scientists of the existence of atoms and molecules many considered it simply being a useful tool for calculation
+1834: faraday states his laws of electrolysis in particular that "the chemical decomposing action of a current is constant for a constant quantity of electricity"
+1856: krnig derives the ideal gas law from kinetic theory clausius publishes an independent derivation the following year
+1860: the karlsruhe congress debates the relation between "physical molecules" "chemical molecules" and atoms without reaching consensus
+1865: loschmidt makes the first estimate of the size of gas molecules and hence of number of molecules in a given volume of gas now known as the loschmidt constant
+1886: van't hoff demonstrates the similarities in behaviour between dilute solutions and ideal gases
+1886: eugen goldstein observed discrete particle rays in gas discharges that laid the foundation of mass spectrometry a tool later used to establish the masses of atoms and molecules
+1887: arrhenius describes the dissociation of electrolyte in solution resolving one of the problems in the study of colligative properties
+1893: first recorded use of the term mole to describe a unit of amount of substance by ostwald in a university textbook
+1897: first recorded use of the term mole in english
+by the turn of the twentieth century the concept of atomic and molecular entities was generally accepted but many questions remained not least the size of atoms and their number in a given sample the concurrent development of mass spectrometry starting in 1886 supported the concept of atomic and molecular mass and provided a tool of direct relative measurement
+1905: einstein's paper on brownian motion dispels any last doubts on the physical reality of atoms and opens the way for an accurate determination of their mass
+1909: perrin coins the name avogadro constant and estimates its value
+1913: discovery of isotopes of non-radioactive elements by soddy and thomson
+1914: richards receives the nobel prize in chemistry for "his determinations of the atomic weight of a large number of elements"
+1920: aston proposes the whole number rule an updated version of prout's hypothesis
+1921: soddy receives the nobel prize in chemistry "for his work on the chemistry of radioactive substances and investigations into isotopes"
+1922: aston receives the nobel prize in chemistry "for his discovery of isotopes in a large number of non-radioactive elements and for his whole-number rule"
+1926: perrin receives the nobel prize in physics in part for his work in measuring avogadro's constant
+1959/1960: unified atomic weight scale based on 12c = 12 adopted by iupap and iupac
+1968: the mole is recommended for inclusion in the international system of units (si) by the international committee for weights and measures (cipm)
+1972: the mole is approved as the si base unit of amount of substance
+== see alsoedit ==
+amount fraction
+international system of quantities
+== notesedit ==
+== referencesedit ==

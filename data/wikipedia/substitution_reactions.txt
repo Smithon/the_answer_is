@@ -1,0 +1,32 @@
+substitution reaction (also known as single displacement reaction or single replacement reaction) is a chemical reaction during which one functional group in a chemical compound is replaced by another functional group substitution reactions are of prime importance in organic chemistry substitution reactions in organic chemistry are classified either as electrophilic or nucleophilic depending upon the reagent involved there are other classifications as well that are mentioned below
+organic substitution reactions are classified in several main organic reaction types depending on whether the reagent that brings about the substitution is considered an electrophile or a nucleophile whether a reactive intermediate involved in the reaction is a carbocation a carbanion or a free radical or whether the substrate is aliphatic or aromatic detailed understanding of a reaction type helps to predict the product outcome in a reaction it also is helpful for optimizing a reaction with regard to variables such as temperature and choice of solvent
+a good example of a substitution reaction is halogenation when chlorine gas (cl-cl) is irradiated some of the molecules are split into two chlorine radicals (cl.) whose free electrons are strongly nucleophilic one of them breaks a weak c-h covalent bond and grabs the liberated proton to form the electrically neutral h-cl the other radical reforms a covalent bond with the ch3 to form ch3cl (methyl chloride)
+== nucleophilic substitution ==
+in organic (and inorganic) chemistry nucleophilic substitution is a fundamental class of reactions in which an nucleophile selectively bonds with or attacks the positive or partially positive charge on an atom or a group of atoms as it does so it replaces a weaker nucleophile which then become a leaving group; the remaining positive or partially positive atom becomes an electrophile the whole molecular entity of which the electrophile and the leaving group are part is usually called the substrate.[1][2]
+the most general form for the reaction may be given as where r-lg indicates the substrate
+nuc: + r-lg r-nuc + lg:
+the electron pair (:) from the nucleophile (nuc:) attacks the substrate (r-lg) forming a new covalent bond nuc-r-lg the prior state of charge is restored when the leaving group (lg) departs with an electron pair the principal product in this case is r-nuc in such reactions the nucleophile is usually electrically neutral or negatively charged whereas the substrate is typically neutral or positively charged
+an example of nucleophilic substitution is the hydrolysis of an alkyl bromide r-br under basic conditions where the attacking nucleophile is the base oh and the leaving group is br
+r-br + oh r-oh + br
+nucleophilic substitution reactions are commonplace in organic chemistry and they can be broadly categorized as taking place at a carbon of a saturated aliphatic compound carbon or (less often) at an aromatic or other unsaturated carbon center.[3]
+=== mechanisms ===
+these substitutions can be produced by two different mechanisms categorized at: unimolecular nucleophilic substitution (sn1) and bimolecular nucleophilic substitution (sn2)
+the sn1 mechanism has two steps in the first step the leaving group departs forming a carbocation c+ in the second step the nucleophilic reagent (nuc:) attaches to the carbocation and forms a covalent sigma bond if the substrate has a chiral carbon this mechanism can result in either inversion of the stereochemistry or retention of configuration usually both occur without preference the result is racemization
+for an example with diagrams see the reaction of tert-butyl bromide with water shown at sn1 reaction
+the sn2 mechanism have just one step the attack of the reagent and the expulsion of the leaving group happen simultaneously this mechanism always results in inversion of configuration
+if the substrate that is under nucleophilic attack is chiral the reaction will lead to an inversion of its stereochemistry called a walden inversion
+for the example of sn2 reaction of chloroethane with bromide ion see sn2 reaction
+sn2 attack may occurs if the backside route of attack is not sterically hindered by substituents on the substrate therefore this mechanism usually occurs at an unhindered primary carbon center if there is steric crowding on the substrate near the leaving group such as at a tertiary carbon center the substitution will involve an sn1 rather than an sn2 mechanism (an sn1 would also be more likely in this case because a sufficiently stable carbocation intermediary could be formed)
+when the substrate is an aromatic compound the reaction type is nucleophilic aromatic substitution carboxylic acid derivatives react with nucleophiles in nucleophilic acyl substitution this kind of reaction can be useful in preparing compounds
+== electrophilic substitution ==
+electrophiles are involved in electrophilic substitution reactions particularly in electrophilic aromatic substitutions
+in this example the benzene ring's electron resonance structure is attacked by an electrophile e+ the resonating bond is broken and a carbocation resonating structure results finally a proton is kicked out and a new aromatic compound is formed
+electrophilic reactions to other unsaturated compounds than arenes generally lead to electrophilic addition rather than substitution
+== radical substitution ==
+a radical substitution reaction involves radicals an example is the hunsdiecker reaction
+== organometallic substitution ==
+coupling reactions are a class of metal-catalyzed reactions involving an organometallic compound rm and an organic halide r'x that together react to form a compound of the type r-r' with formation of a new carbon-carbon bond examples include the heck reaction ullmann reaction and wurtzfittig reaction many variations exist
+== substituted compounds ==
+substituted compounds are chemical compounds where one or more hydrogen atoms of a core structure have been replaced with a functional group like alkyl hydroxy or halogen or with larger substituent groups
+for example benzene is a simple aromatic ring benzenes that have undergone substitution are a heterogeneous group of chemicals with a wide spectrum of uses and properties:
+== references ==

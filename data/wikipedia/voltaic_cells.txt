@@ -1,0 +1,57 @@
+a galvanic cell or voltaic cell named after luigi galvani or alessandro volta respectively is an electrochemical cell that derives electrical energy from spontaneous redox reactions taking place within the cell it generally consists of two different metals connected by a salt bridge or individual half-cells separated by a porous membrane
+volta was the inventor of the voltaic pile the first electrical battery in common usage the word "battery" has come to include a single galvanic cell but a battery properly consists of multiple cells
+== historyedit ==
+in 1780 luigi galvani discovered that when two different metals (e.g. copper and zinc) are connected and then both touched at the same time to two different parts of a nerve of a frog leg then the leg contracts he called this "animal electricity" the voltaic pile invented by alessandro volta in the 1800s consists of a pile of cells similar to the galvanic cell however volta built it entirely out of non-biological material in order to challenge galvani's (and the later experimenter leopoldo nobili) animal electricity theory in favour of his own metal-metal contact electricity theory carlo matteucci in his turn constructed a battery entirely out of biological material in answer to volta these discoveries paved the way for electrical batteries; volta's cell was named an ieee milestone in 1999
+it was suggested by wilhelm knig in 1940 that the object known as the baghdad battery might represent galvanic cell technology from ancient parthia replicas filled with citric acid or grape juice have been shown to produce a voltage however it is far from certain that this was its purposeother scholars have pointed out that it is very similar to vessels known to have been used for storing parchment scrolls
+== descriptionedit ==
+in its simplest form a half-cell consists of a solid metal (called an electrode) that is submerged in a solution; the solution contains cations of the electrode metal and anions to balance the charge of the cations in essence a half-cell contains a metal in two oxidation states; inside an isolated half-cell there is an oxidation-reduction (redox) reaction that is in chemical equilibrium a condition written symbolically as follows (here "m" represents a metal cation an atom that has a charge imbalance due to the loss of "n" electrons):
+mn+ (oxidized species) + ne m (reduced species)
+a galvanic cell consists of two half-cells such that the electrode of one half-cell is composed of metal a and the electrode of the other half-cell is composed of metal b; the redox reactions for the two separate half-cells are thus:
+an+ + ne a
+bm+ + me b
+in general then these two metals can react with each other:
+m a + n bm+ n b + m an+
+in other words the metal atoms of one half-cell are able to induce reduction of the metal cations of the other half-cell; conversely stated the metal cations of one half-cell are able to oxidize the metal atoms of the other half-cell when metal b has a greater electronegativity than metal a then metal b tends to steal electrons from metal a (that is metal b tends to oxidize metal a) thus favoring one direction of the reaction:
+m a + n bm+ n b + m an+
+this reaction between the metals can be controlled in a way that allows for doing useful work:
+the electrodes are connected with a metal wire in order to conduct the electrons that participate in the reaction
+in one half-cell dissolved metal-b cations combine with the free electrons that are available at the interface between the solution and the metal-b electrode; these cations are thereby neutralized causing them to precipitate from solution as deposits on the metal-b electrode a process known as plating
+this reduction reaction causes the free electrons throughout the metal-b electrode the wire and the metal-a electrode to be pulled into the metal-b electrode consequently electrons are wrestled away from some of the atoms of the metal-a electrode as though the metal-b cations were reacting directly with them; those metal-a atoms become cations that dissolve into the surrounding solution
+as this reaction continues the half-cell with the metal-a electrode develops a positively charged solution (because the metal-a cations dissolve into it) while the other half-cell develops a negatively charged solution (because the metal-b cations precipitate out of it leaving behind the anions); unabated this imbalance in charge would stop the reaction
+the solutions are connected by a salt bridge or a porous plate in order to conduct the ions (both the metal-a cations from one solution and the anions from the other solution) which balances the charges of the solutions and thereby allows the reaction between metal a and metal b to continue without opposition
+by definition:
+the anode is the electrode where oxidation (loss of electrons) takes place; in a galvanic cell it is the negative electrode as when oxidation occurs electrons are left behind on the electrode these electrons then migrate to the cathode (positive electrode) however in electrolysis an electric current stimulates electron flow in the opposite direction thus the anode is positive and the statement anode attracts anions is true (negatively charged ions flow to the anode while electrons are expelled through the wire) the metal-a electrode is the anode
+the cathode is the electrode where reduction (gain of electrons) takes place; in a galvanic cell it is the positive electrode as less oxidation occurs fewer ions go into solution and less electrons are left on the electrode instead there is a greater tendency for aqueous ions to be reduced by the incoming electrons from the anode however in electrolysis the cathode is the negative terminal and attracting positive ions from the solution in this situation the statement the cathode attracts cations is true (positively charged oxidized metal ions flow toward cathode as electrons travel through the wire) the metal-b electrode is the cathode
+copper readily oxidizes zinc; for the daniell cell depicted in the figure the anode is zinc and the cathode is copper and the anions in the solutions are sulfates of the respective metals when an electrically conducting device connects the electrodes the electrochemical reaction is:
+zn + cu2+ zn2++ cu
+the zinc electrode is dissolved and copper is deposited on the copper electrode
+galvanic cells are typically used as a source of electrical power by their nature they produce direct current the weston cell has an anode composed of cadmium mercury amalgam and a cathode composed of pure mercury the electrolyte is a (saturated) solution of cadmium sulfate the depolarizer is a paste of mercurous sulfate when the electrolyte solution is saturated the voltage of the cell is very reproducible; hence in 1911 it was adopted as an international standard for voltage
+a battery is a set of galvanic cells that are connected in parallel for instance a leadacid battery has galvanic cells with the anodes composed of lead and cathodes composed of lead dioxide
+== cell voltageedit ==
+the standard electrical potential of a cell can be determined by the use of a standard potential table for the two half cells involved the first step is to identify the two metals reacting in the cell then one looks up the standard electrode potential e0 in volts for each of the two half reactions the standard potential for the cell is equal to the more positive e0 value minus the more negative e0 value
+for example in the figure above the solutions are cuso4 and znso4 each solution has a corresponding metal strip in it and a salt bridge or porous disk connecting the two solutions and allowing so42 ions to flow freely between the copper and zinc solutions in order to calculate the standard potential one looks up copper and zinc's half reactions and finds:
+cu2+ + 2 e cu: e0 = +0.34 v
+zn2+ + 2 e zn: e0 = 0.76 v
+thus the overall reaction is:
+cu2+ + zn cu + zn2+
+the standard potential for the reaction is then +0.34 v (0.76 v) = 1.10 v the polarity of the cell is determined as follows zinc metal is more strongly reducing than copper metal; equivalently the standard (reduction) potential for zinc is more negative than that of copper thus zinc metal will lose electrons to copper ions and develop a positive electrical charge the equilibrium constant k for the cell is given by
+where f is the faraday constant r is the gas constant and t is the temperature in kelvins for the daniell cell k is approximately equal to 1.51037 thus at equilibrium a few electrons are transferred enough to cause the electrodes to be charged
+actual half-cell potentials must be calculated by using the nernst equation as the solutes are unlikely to be in their standard states
+where q is the reaction quotient this simplifies to
+where {mn+} is the activity of the metal ion in solution the metal electrode is in its standard state so by definition has unit activity in practice concentration is used in place of activity the potential of the whole cell is obtained by combining the potentials for the two half-cells so it depends on the concentrations of both dissolved metal ions
+the value of 2.303r/f is 0.19845103 v/k so at 25 c (298.15 k) the half-cell potential will change by if the concentration of a metal ion is increased or decreased by a factor of 10
+these calculations are based on the assumption that all chemical reactions are in equilibrium when a current flows in the circuit equilibrium conditions are not achieved and the cell potential will usually be reduced by various mechanisms such as the development of overpotentials also since chemical reactions occur when the cell is producing power the electrolyte concentrations change and the cell voltage is reduced a consequence of the temperature dependency of standard potentials is that the voltage produced by a galvanic cell is also temperature dependent
+== galvanic corrosionedit ==
+galvanic corrosion is a process that degrades metals electrochemically this corrosion occurs when two dissimilar metals are placed in contact with each other in the presence of an electrolyte such as salt water forming a galvanic cell a cell can also be formed if the same metal is exposed to two different concentrations of electrolyte the resulting electrochemical potential then develops an electric current that electrolytically dissolves the less noble material
+== cell typesedit ==
+concentration cell
+electrolytic cell
+electrochemical cell
+lemon battery
+thermogalvanic cell
+== see alsoedit ==
+== referencesedit ==
+== external linksedit ==
+how to build a galvanic cell battery from miniscience.com
+galvanic cell an animation
+interactive animation of galvanic cell chemical education research group iowa state university

@@ -1,0 +1,57 @@
+frequency number occurrences repeating event per unit time also referred temporal frequency emphasizes contrast spatial frequency angular frequency period duration time one cycle repeating event period reciprocal frequency example newborn babys heart beats frequency times minute period interval beats half second seconds ie minute divided beats frequency important parameter used science engineering specify rate oscillatory vibratory phenomena mechanical vibrations audio sound signals radio waves light
+definitionsedit
+cyclical processes rotation oscillations waves frequency defined number cycles per unit time physics engineering disciplines optics acoustics radio frequency usually denoted latin letter f greek letter nu see eg plancks formula period usually denoted duration one cycle reciprocal frequency f
+unitsedit
+si unit frequency hertz hz named german physicist heinrich hertz one hertz means event repeats per second previous name unit cycles per second cps si unit period second
+traditional unit measure used rotating mechanical devices revolutions per minute abbreviated rmin rpm rpm equals one hertz
+period versus frequencyedit
+matter convenience longer slower waves ocean surface waves tend described wave period rather frequency short fast waves like audio radio usually described frequency instead period commonly used conversions listed
+related types frequencyedit
+angular frequency usually denoted greek letter omega defined rate change angular displacement rotation rate change phase sinusoidal waveform eg oscillations waves rate change argument sine function
+angular frequency commonly measured radians per second rads discretetime signals also expressed radians per sample time dimensionless quantity
+spatial frequency analogous temporal frequency time axis replaced one spatial displacement axes eg
+wavenumber k sometimes means spatial frequency analogue angular temporal frequency case one spatial dimension wavenumber vector quantity
+wave propagation edit
+periodic waves nondispersive media media wave speed independent frequency frequency inverse relationship wavelength lambda even dispersive media frequency f sinusoidal wave equal phase velocity v wave divided wavelength wave
+special case electromagnetic waves moving vacuum v c c speed light vacuum expression becomes
+waves monochrome source travel one medium another frequency remains sameonly wavelength speed change
+measurementedit
+countingedit
+calculating frequency repeating event accomplished counting number times event occurs within specific time period dividing count length time period example events occur within seconds frequency
+number counts large accurate measure time interval predetermined number occurrences rather number occurrences within specified time latter method introduces random error count zero one count average half count called gating error causes average error calculated frequency f tm fractional error f f f tm tm timing interval f measured frequency error decreases frequency problem low frequencies number counts n small
+stroboscopeedit
+older method measuring frequency rotating vibrating objects use stroboscope intense repetitively flashing light strobe light whose frequency adjusted calibrated timing circuit strobe light pointed rotating object frequency adjusted frequency strobe equals frequency rotating vibrating object object completes one cycle oscillation returns original position flashes light illuminated strobe object appears stationary frequency read calibrated readout stroboscope downside method object rotating integer multiple strobing frequency also appear stationary
+frequency counteredit
+higher frequencies usually measured frequency counter electronic instrument measures frequency applied repetitive electronic signal displays result hertz digital display uses digital logic count number cycles time interval established precision quartz time base cyclic processes electrical nature rotation rate shaft mechanical vibrations sound waves converted repetitive electronic signal transducers signal applied frequency counter frequency counters currently cover range ghz represents limit direct counting methods frequencies must measured indirect methods
+heterodyne methodsedit
+range frequency counters frequencies electromagnetic signals often measured indirectly means heterodyning frequency conversion reference signal known frequency near unknown frequency mixed unknown frequency nonlinear mixing device diode creates heterodyne beat signal difference two frequencies two signals close together frequency heterodyne low enough measured frequency counter process measures difference unknown frequency reference frequency must determined method reach higher frequencies several stages heterodyning used current research extending method infrared light frequencies optical heterodyne detection
+examplesedit
+lightedit
+visible light electromagnetic wave consisting oscillating electric magnetic fields traveling space frequency wave determines color hz red light hz violet light range hz colors rainbow electromagnetic wave frequency less hz invisible human eye waves called infrared ir radiation even lower frequency wave called microwave still lower frequencies called radio wave likewise electromagnetic wave frequency higher hz invisible human eye waves called ultraviolet uv radiation even higherfrequency waves called xrays higher still gamma rays
+waves lowestfrequency radio waves highestfrequency gamma rays fundamentally called electromagnetic radiation travel vacuum speed speed light giving wavelengths inversely proportional frequencies
+c speed light c vacuum less media f frequency wavelength
+dispersive media glass speed depends somewhat frequency wavelength quite inversely proportional frequency
+soundedit
+sound propagates mechanical vibration waves pressure displacement air substances frequency property sound determines pitch
+frequencies ear hear limited specific range frequencies audible frequency range humans typically given hz hz khz though high frequency limit usually reduces age species different hearing ranges example dog breeds perceive vibrations hz
+many media air speed sound approximately independent frequency wavelength sound waves distance repetitions approximately inversely proportional frequency
+line currentedit
+europe africa australia southern south america asia russia frequency alternating current household electrical outlets hz close tone g whereas north america northern south america frequency alternating current household electrical outlets hz tones b b minor third european frequency frequency hum audio recording show recording made countries using european american grid frequency
+see alsoedit
+referencesedit
+httpwwwmerriamwebstercomdictionaryfrequency
+httpwwwmerriamwebstercomdictionaryperiod
+davies handbook condition monitoring techniques methodology new york springer isbn
+bakshi ka av bakshi ua bakshi electronic measurement systems us technical publications pp isbn
+httpwwwmerriamwebstercomdictionarysound
+pilhofer michael music theory dummies dummies p isbn
+elert glenn timothy condon frequency range dog hearing physics factbook retrieved
+readingedit
+giancoli dc physics scientists engineers nd ed prentice hall isbn x
+external linksedit
+conversion frequency wavelength back
+conversion period cycle duration periodic time frequency
+keyboard frequencies naming notes english american system versus german system
+teaching resource yrs sound including frequency
+simple tutorial build frequency meter
+frequency diracdeltacouk javascript calculation

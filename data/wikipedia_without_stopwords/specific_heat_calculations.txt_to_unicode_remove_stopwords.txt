@@ -1,0 +1,33 @@
+approximation error data discrepancy exact value approximation approximation error occur
+measurement data precise due instruments eg accurate reading piece paper cm since ruler use decimals round cm
+approximations used instead real data eg instead
+mathematical field numerical analysis numerical stability algorithm numerical analysis indicates error propagated algorithm
+formal definition
+one commonly distinguishes relative error absolute error
+given value v approximation vapprox absolute error
+vertical bars denote absolute value relative error
+percent error
+words absolute error magnitude difference exact value approximation relative error absolute error divided magnitude exact value percent error relative error expressed terms per
+generalizations
+definitions extended case ndimensional vectors replacing absolute value nnorm
+examples
+example exact value approximation absolute error relative error another example would measured beaker read ml correct reading would ml means percent error would
+uses relative error
+relative error often used compare approximations numbers widely differing size example approximating number absolute error applications much worse approximating number absolute error first case relative error second
+two features relative error kept mind firstly relative error undefined true value zero appears denominator see secondly relative error makes sense measured ratio scale ie scale true meaningful zero otherwise would sensitive measurement units example absolute error temperature measurement given celsius true value c relative error percent error case temperature given kelvin absolute error true value k gives relative error percent error celsius temperature measured interval scale whereas kelvin scale true zero ratio scale
+instruments
+indicating instruments accuracy guaranteed certain percentage fullscale reading limits deviations specified values known limiting errors guarantee errors
+see also
+accepted experimental value
+relative difference
+uncertainty
+experimental uncertainty analysis
+propagation uncertainty
+errors residuals statistics
+roundoff error
+quantization error
+measurement uncertainty
+measurement error
+references
+external links
+weisstein eric w percentage error mathworld

@@ -1,0 +1,19 @@
+atomic emission spectroscopy (aes) is a method of chemical analysis that uses the intensity of light emitted from a flame plasma arc or spark at a particular wavelength to determine the quantity of an element in a sample the wavelength of the atomic spectral line gives the identity of the element while the intensity of the emitted light is proportional to the number of atoms of the element
+== flame emission spectroscopy ==
+a sample of a material (analyte) is brought into the flame as either a gas sprayed solution or directly inserted into the flame by use of a small loop of wire usually platinum the heat from the flame evaporates the solvent and breaks chemical bonds to create free atoms the thermal energy also excites the atoms into excited electronic states that subsequently emit light when they return to the ground electronic state each element emits light at a characteristic wavelength which is dispersed by a grating or prism and detected in the spectrometer
+a frequent application of the emission measurement with the flame is the regulation of alkali metals for pharmaceutical analytics
+== inductively coupled plasma atomic emission spectroscopy ==
+inductively coupled plasma atomic emission spectroscopy (icp-aes) uses an inductively coupled plasma to produce excited atoms and ions that emit electromagnetic radiation at wavelengths characteristic of a particular element
+advantages of icp-aes are excellent limit of detection and linear dynamic range multi-element capability low chemical interference and a stable and reproducible signal disadvantages are spectral interferences (many emission lines) cost and operating expense and the fact that samples typically must be in solution
+== spark and arc atomic emission spectroscopy ==
+spark or arc atomic emission spectroscopy is used for the analysis of metallic elements in solid samples for non-conductive materials the sample is ground with graphite powder to make it conductive in traditional arc spectroscopy methods a sample of the solid was commonly ground up and destroyed during analysis an electric arc or spark is passed through the sample heating it to a high temperature to excite the atoms within it the excited analyte atoms emit light at characteristic wavelengths that can be dispersed with a monochromator and detected in the past the spark or arc conditions were typically not well controlled the analysis for the elements in the sample were qualitative however modern spark sources with controlled discharges can be considered quantitative both qualitative and quantitative spark analysis are widely used for production quality control in foundries and steel mills
+== see also ==
+inductively coupled plasma atomic emission spectroscopy
+atomic absorption spectroscopy
+atomic spectroscopy
+laser-induced breakdown spectroscopy
+== references ==
+== bibliography ==
+== external links ==
+atomic emission spectroscopy tutorial
+media related to atomic emission spectroscopy at wikimedia commons

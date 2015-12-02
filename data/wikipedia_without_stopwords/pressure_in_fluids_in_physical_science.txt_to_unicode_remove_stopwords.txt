@@ -1,0 +1,132 @@
+pressure symbol p p force applied perpendicular surface object per unit area force distributed gauge pressure also spelled gage pressure pressure relative local atmospheric ambient pressure
+various units used express pressure derive unit force divided unit area si unit pressure pascal pa example one newton per square metre similarly poundforce per square inch psi traditional unit pressure imperial us customary systems pressure may also expressed terms standard atmospheric pressure atmosphere atm equal pressure torr defined manometric units centimetre water millimetre mercury inch mercury used express pressures terms height column particular fluid manometer
+definition
+pressure amount force acting per unit area symbol pressure p p
+formula
+mathematically
+pressure
+normal force
+area surface contact
+pressure scalar quantity relates vector surface element vector normal surface normal force acting pressure scalar proportionality constant relates two normal vectors
+minus sign comes fact force considered towards surface element normal vector points outward equation meaning surface contact fluid total force exerted fluid surface surface integral righthand side equation
+incorrect although rather usual say pressure directed direction pressure scalar direction force given previous relationship quantity direction pressure change orientation surface element direction normal force changes accordingly pressure remains
+pressure transmitted solid boundaries across arbitrary sections fluid normal boundaries sections every point fundamental parameter thermodynamics conjugate volume
+units
+si unit pressure pascal pa equal one newton per square metre nm kgms name unit added pressure si expressed simply newtons per square metre
+units pressure pounds per square inch bar also common use cgs unit pressure barye ba equal dyncm pa pressure sometimes expressed gramsforce kilogramsforce per square centimetre gcm kgcm like without properly identifying force units using names kilogram gram kilogramforce gramforce symbols units force expressly forbidden si technical atmosphere symbol kgfcm kpa psi
+since system pressure potential perform work surroundings pressure measure potential energy stored per unit volume therefore related energy density may measured units joules per cubic metre
+meteorologists prefer hectopascal hpa atmospheric air pressure equivalent older unit millibar mbar similar pressures given kilopascals kpa fields hecto prefix rarely used inch mercury still used united states oceanographers usually measure underwater pressure decibars dbar pressure ocean increases approximately one decibar per metre depth
+standard atmosphere atm established constant approximately equal typical air pressure earth mean sea level defined pa
+pressure commonly measured ability displace column liquid manometer pressures often expressed depth particular fluid eg centimetres water millimetres mercury inches mercury common choices mercury hg water water nontoxic readily available mercurys high density allows shorter column smaller manometer used measure given pressure pressure exerted column liquid height h density given hydrostatic pressure equation p gh fluid density local gravity vary one reading another depending local factors height fluid column define pressure precisely millimetres mercury inches mercury quoted today units based physical column mercury rather given precise definitions expressed terms si units one millimetre mercury approximately equal one torr waterbased units still depend density water measured rather defined quantity manometric units still encountered many fields blood pressure measured millimetres mercury world lung pressures centimetres water still common
+underwater divers use metre sea water msw msw foot sea water fsw fsw units pressure standard units pressure gauges used measure pressure exposure diving chambers personal decompression computers msw defined bar linear metre depth fsw atm note pressure conversion msw fsw different length conversion msw fsw m ft
+gauge pressure often given units g appended eg kpag barg psig units measurements absolute pressure sometimes given suffix avoid confusion example kpaa psia however us national institute standards technology recommends avoid confusion modifiers instead applied quantity measured rather unit measure example pg psi rather p psig
+differential pressure expressed units d appended type measurement useful considering sealing performance whether valve open close
+presently formerly popular pressure units include following
+atmosphere atm
+manometric units
+centimetre inch millimetre mercury torr
+height equivalent column water including millimetre mm h
+o centimetre cm h
+o metre inch foot water
+imperial customary units
+kip short tonforce long tonforce poundforce ounceforce poundal per square inch
+short tonforce long tonforce per square inch
+fsw feet sea water used underwater diving particularly connection diving pressure exposure decompression
+nonsi metric units
+bar decibar millibar
+msw metres sea water used underwater diving particularly connection diving pressure exposure decompression
+kilogramforce kilopond per square centimetre technical atmosphere
+gramforce tonneforce metric tonforce per square centimetre
+barye dyne per square centimetre
+kilogramforce tonneforce per square metre
+sthene per square metre pieze
+examples
+example varying pressures finger pressed wall without making lasting impression however finger pushing thumbtack easily damage wall although force applied surface thumbtack applies pressure point concentrates force smaller area pressure transmitted solid boundaries across arbitrary sections fluid normal boundaries sections every point unlike stress pressure defined scalar quantity negative gradient pressure called force density
+another example common knife try cut fruit flat side obviously cut take thin side cut smoothly reason flat side greater surface area less pressure cut fruit take thin side surface area reduced cuts fruit easily quickly one example practical application pressure
+gases pressure sometimes measured absolute pressure relative atmospheric pressure measurements called gauge pressure example air pressure automobile tire might said kpa psi actually kpa psi atmospheric pressure since atmospheric pressure sea level kpa psi absolute pressure tire therefore kpa psi technical work written gauge pressure kpa psi space limited pressure gauges name plates graph labels table headings use modifier parentheses kpa gauge kpa absolute permitted nonsi technical work gauge pressure psi sometimes written psig absolute pressure psia though methods explained avoid attaching characters unit pressure preferred
+gauge pressure relevant measure pressure wherever one interested stress storage vessels plumbing components fluidics systems however whenever equationofstate properties densities changes densities must calculated pressures must expressed terms absolute values instance atmospheric pressure kpa gas helium kpa gauge kpa absolute denser gas kpa gauge kpa absolute focusing gauge values one might erroneously conclude first sample twice density second one
+scalar nature
+static gas gas whole appear move individual molecules gas however constant random motion dealing extremely large number molecules motion individual molecules random every direction detect motion enclose gas within container detect pressure gas molecules colliding walls container put walls container anywhere inside gas force per unit area pressure shrink size container small point becoming less true approach atomic scale pressure still single value point therefore pressure scalar quantity vector quantity magnitude direction sense associated pressure acts directions point inside gas surface gas pressure force acts perpendicular right angle surface
+closely related quantity stress tensor relates vector force vector area via
+tensor may expressed sum viscous stress tensor minus hydrostatic pressure negative stress tensor sometimes called pressure tensor following term pressure refer scalar pressure
+according theory general relativity pressure increases strength gravitational field see stressenergy tensor adds massenergy cause gravity effect unnoticeable everyday pressures significant neutron stars although experimentally tested
+types
+fluid pressure
+fluid pressure pressure point within fluid water air information specifically liquid pressure see section
+fluid pressure occurs one two situations
+open condition called open channel flow eg ocean swimming pool atmosphere
+closed condition called closed conduit eg water line gas line
+pressure open conditions usually approximated pressure static nonmoving conditions even ocean waves currents motions create negligible changes pressure conditions conform principles fluid statics pressure given point nonmoving static fluid called hydrostatic pressure
+closed bodies fluid either static fluid moving dynamic fluid move either pipe compressing air gap closed container pressure closed conditions conforms principles fluid dynamics
+concepts fluid pressure predominantly attributed discoveries blaise pascal daniel bernoulli bernoullis equation used almost situation determine pressure point fluid equation makes assumptions fluid fluid ideal incompressible ideal fluid fluid friction inviscid zero viscosity equation points system filled constantdensity fluid
+p pressure fluid
+g densityacceleration gravity specific weight fluid
+v velocity fluid
+g acceleration gravity
+z elevation
+pressure head
+velocity head
+applications
+hydraulic brakes
+artesian well
+blood pressure
+hydraulic head
+plant cell turgidity
+pythagorean cup
+explosion deflagration pressures
+explosion deflagration pressures result ignition explosive gases mists dustair suspensions unconfined confined spaces
+negative pressures
+pressures general positive several situations negative pressures may encountered
+dealing relative gauge pressures instance absolute pressure kpa may described gauge pressure kpa ie kpa atmospheric pressure kpa
+attractive intermolecular forces eg van der waals forces hydrogen bonds particles fluid exceed repulsive forces due thermal motion forces explain ascent sap tall plants apparent negative pressure must act water molecules top tree taller m pressure head water balances atmospheric pressure intermolecular forces maintain cohesion columns sap run continuously xylem roots top leaves
+casimir effect create small attractive force due interactions vacuum energy force sometimes termed vacuum pressure confused negative gauge pressure vacuum
+nonisotropic stresses rigid bodies depending orientation surface chosen distribution forces may component positive pressure along one surface normal component negative pressure acting along another surface normal
+stresses electromagnetic field generally nonisotropic pressure normal one surface element normal stress negative positive surface elements perpendicular
+cosmological constant
+stagnation pressure
+stagnation pressure pressure fluid exerts forced stop moving consequently although fluid moving higher speed lower static pressure may higher stagnation pressure forced standstill static pressure stagnation pressure related
+stagnation pressure
+flow velocity
+static pressure
+pressure moving fluid measured using pitot tube one variations kiel probe cobra probe connected manometer depending inlet holes located probe measure static pressures stagnation pressures
+surface pressure surface tension
+twodimensional analog pressure lateral force per unit length applied line perpendicular force
+surface pressure denoted shares many similar properties threedimensional pressure properties surface chemicals investigated measuring pressurearea isotherms twodimensional analog boyles law k constant temperature
+surface tension another example surface pressure reversed sign tension opposite pressure
+pressure ideal gas
+ideal gas molecules volume interact according ideal gas law pressure varies linearly temperature quantity inversely volume
+p absolute pressure gas
+n amount substance
+absolute temperature
+v volume
+r ideal gas constant
+real gases exhibit complex dependence variables state
+vapor pressure
+vapor pressure pressure vapor thermodynamic equilibrium condensed phases closed system liquids solids tendency evaporate gaseous form gases tendency condense back liquid solid form
+atmospheric pressure boiling point liquid also known normal boiling point temperature vapor pressure equals ambient atmospheric pressure incremental increase temperature vapor pressure becomes sufficient overcome atmospheric pressure lift liquid form vapor bubbles inside bulk substance bubble formation deeper liquid requires higher pressure therefore higher temperature fluid pressure increases atmospheric pressure depth increases
+vapor pressure single component mixture contributes total pressure system called partial vapor pressure
+liquid pressure
+person swims water water pressure felt acting persons eardrums deeper person swims greater pressure pressure felt due weight water person someone swims deeper water person therefore greater pressure pressure liquid exerts depends depth
+liquid pressure also depends density liquid someone submerged liquid dense water pressure would correspondingly greater pressure due liquid liquid columns constant density depth within substance represented following formula
+p liquid pressure
+g gravity surface overlaying material
+density liquid
+h height liquid column depth within substance
+another way saying formula following
+pressure liquid exerts sides bottom container depends density depth liquid atmospheric pressure neglected liquid pressure bottom twice great twice depth three times depth liquid pressure threefold etc liquid two three times dense liquid pressure correspondingly two three times great given depth liquids practically incompressible volume hardly changed pressure water volume decreases millionths original volume atmospheric increase pressure thus except small changes produced temperature density particular liquid practically depths
+atmospheric pressure pressing surface liquid must taken account trying discover total pressure acting liquid total pressure liquid gh plus pressure atmosphere distinction important term total pressure used otherwise discussions liquid pressure refer pressure without regard normally everpresent atmospheric pressure
+important recognize pressure depend amount liquid present volume important factor depth average water pressure acting dam depends average depth water volume water held back example wide shallow lake depth m ft exerts half average pressure small m ft deep pond note total force applied longer dam greater due greater total surface area pressure act upon given foot section dam ft deep water apply half force ft deep water person feel pressure whether hisher head dunked metre beneath surface water small pool depth middle large lake four vases contain different amounts water filled equal depths fish head dunked centimetres surface acted water pressure vases fish swims centimetres deeper pressure fish increase depth matter vase fish fish swims bottom pressure greater makes difference vase vases filled equal depths water pressure bottom vase regardless shape volume water pressure bottom vase greater water pressure bottom neighboring vase greater pressure would force water sideways narrower vase higher level pressures bottom equalized pressure depth dependent volume dependent reason water seeks level
+restating energy equation energy per unit volume ideal incompressible liquid constant throughout vessel surface gravitational potential energy large liquid pressure energy low bottom vessel gravitational potential energy converted pressure energy sum pressure energy gravitational potential energy per unit volume constant throughout volume fluid two energy components change linearly depth mathematically described bernoullis equation velocity head zero comparisons per unit volume vessel
+terms meaning section fluid pressure
+direction liquid pressure
+experimentally determined fact liquid pressure exerted equally directions someone submerged water matter way person tilts hisher head person feel amount water pressure hisher ears liquid flow pressure isnt downward pressure seen acting sideways water spurts sideways leak side upright pressure also acts upward demonstrated someone tries push beach ball beneath surface water bottom boat pushed upward water pressure buoyancy
+liquid presses surface net force perpendicular surface although pressure doesnt specific direction force submerged triangular block water forced point many directions components force perpendicular surface cancel leaving net perpendicular point water spurting hole bucket initially exits bucket direction right angles surface bucket hole located curves downward due gravity three holes bucket top bottom middle force vectors perpendicular inner container surface increase increasing depth greater pressure bottom makes bottom hole shoot water farthest force exerted fluid smooth surface always right angles surface speed liquid hole h depth free surface interestingly speed water anything else would freely falling vertical distance h
+kinematic pressure
+kinematic pressure pressure constant mass density si unit p ms kinematic pressure used manner kinematic viscosity order compute navierstokes equation without explicitly showing density
+navierstokes equation kinematic quantities
+see also
+notes
+references
+external links
+introduction fluid statics dynamics project physnet
+pressure scalar quantity

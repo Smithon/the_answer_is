@@ -1,0 +1,27 @@
+an inelastic collision in contrast to an elastic collision is a collision in which kinetic energy is not conserved due to the action of internal friction
+in collisions of macroscopic bodies some kinetic energy is turned into vibrational energy of the atoms causing a heating effect and the bodies are deformed
+the molecules of a gas or liquid rarely experience perfectly elastic collisions because kinetic energy is exchanged between the molecules' translational motion and their internal degrees of freedom with each collision at any one instant half the collisions are to a varying extent inelastic (the pair possesses less kinetic energy after the collision than before) and half could be described as super-elastic (possessing more kinetic energy after the collision than before) averaged across an entire sample molecular collisions are elastic
+inelastic collisions may not conserve kinetic energy but they do obey conservation of momentum simple ballistic pendulum problems obey the conservation of kinetic energy only when the block swings to its largest angle
+in nuclear physics an inelastic collision is one in which the incoming particle causes the nucleus it strikes to become excited or to break up deep inelastic scattering is a method of probing the structure of subatomic particles in much the same way as rutherford probed the inside of the atom (see rutherford scattering) such experiments were performed on protons in the late 1960s using high-energy electrons at the stanford linear accelerator (slac) as in rutherford scattering deep inelastic scattering of electrons by proton targets revealed that most of the incident electrons interact very little and pass straight through with only a small number bouncing back this indicates that the charge in the proton is concentrated in small lumps reminiscent of rutherford's discovery that the positive charge in an atom is concentrated at the nucleus however in the case of the proton the evidence suggested three distinct concentrations of charge (quarks) and not one
+== formula ==
+the formula for the velocities after a one-dimensional collision is:
+where
+va is the final velocity of the first object after impact
+vb is the final velocity of the second object after impact
+ua is the initial velocity of the first object before impact
+ub is the initial velocity of the second object before impact
+ma is the mass of the first object
+mb is the mass of the second object
+cr is the coefficient of restitution; if it is 1 we have an elastic collision; if it is 0 we have a perfectly inelastic collision see below
+in a center of momentum frame the formulas reduce to:
+for two- and three-dimensional collisions the velocities in these formulas are the components perpendicular to the tangent line/plane at the point of contact
+== perfectly inelastic collision ==
+a perfectly inelastic collision occurs when the maximum amount of kinetic energy of a system is lost in a perfectly inelastic collision i.e. a zero coefficient of restitution the colliding particles stick together in such a collision kinetic energy is lost by bonding the two bodies together this bonding energy usually results in a maximum kinetic energy loss of the system it is necessary to consider conservation of momentum: (note: in the sliding block example above momentum of the two body system is only conserved if the surface has zero friction with friction momentum of the two bodies is transferred to the surface that the two bodies are sliding upon similarly if there is air resistance the momentum of the bodies can be transferred to the air.) the equation below holds true for the two-body (body a body b) system collision in the example above in this example momentum of the system is conserved because there is no friction between the sliding bodies and the surface
+where v is the final velocity which is hence given by
+the reduction of total kinetic energy is equal to the total kinetic energy before the collision in a center of momentum frame with respect to the system of two particles because in such a frame the kinetic energy after the collision is zero in this frame most of the kinetic energy before the collision is that of the particle with the smaller mass in another frame in addition to the reduction of kinetic energy there may be a transfer of kinetic energy from one particle to the other; the fact that this depends on the frame shows how relative this is
+with time reversed we have the situation of two objects pushed away from each other e.g shooting a projectile or a rocket applying thrust (compare the derivation of the tsiolkovsky rocket equation)
+== partially inelastic collisions ==
+partially inelastic collisions are the most common form of collisions in the real world in this type of collision the objects involved in the collisions do not stick but some kinetic energy is still lost friction sound and heat are some ways the kinetic energy can be lost through partial inelastic collisions
+== references ==
+== external links ==
+petit regis "the art of billiards play" retrieved 30 july 2012 gives the general vector equations of a collision between two bodies of any speed

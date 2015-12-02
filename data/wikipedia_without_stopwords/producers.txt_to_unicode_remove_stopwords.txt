@@ -1,0 +1,84 @@
+resistorcapacitor circuit rc circuit rc filter rc network electric circuit composed resistors capacitors driven voltage current source first order rc circuit composed one resistor one capacitor simplest type rc circuit
+rc circuits used filter signal blocking certain frequencies passing others two common rc filters highpass filters lowpass filters bandpass filters bandstop filters usually require rlc filters though crude ones made rc filters
+introductionedit
+three basic linear passive lumped analog circuit components resistor r capacitor c inductor l may combined rc circuit rl circuit lc circuit rlc circuit acronyms indicating components used circuits among exhibit large number important types behaviour fundamental much analog electronics particular able act passive filters article considers rc circuit series parallel forms shown diagrams
+article relies knowledge complex impedance representation capacitors knowledge frequency domain representation signals
+natural responseedit
+simplest rc circuit capacitor resistor parallel circuit consists charged capacitor resistor capacitor discharge stored energy resistor voltage across capacitor time dependent found using kirchhoffs current law current charging capacitor must equal current resistor results linear differential equation
+c capacitance capacitor
+solving equation v yields formula exponential decay
+v capacitor voltage time
+time required voltage fall called rc time constant given
+complex impedanceedit
+complex impedance zc ohms capacitor capacitance c farads
+complex frequency general complex number
+represents imaginary unit
+exponential decay constant radians per second
+sinusoidal angular frequency also radians per second
+sinusoidal steady stateedit
+sinusoidal steady state special case input voltage consists pure sinusoid exponential decay result
+evaluation becomes
+series circuitedit
+viewing circuit voltage divider voltage across capacitor
+voltage across resistor
+transfer functionsedit
+transfer function input voltage voltage across capacitor
+similarly transfer function input voltage across resistor
+poles zerosedit
+transfer functions single pole located
+addition transfer function resistor zero located origin
+gain phaseedit
+magnitude gains across two components
+phase angles
+expressions together may substituted usual expression phasor representing output
+currentedit
+current circuit everywhere since circuit series
+impulse responseedit
+impulse response voltage inverse laplace transform corresponding transfer function represents response circuit input voltage consisting impulse dirac delta function
+impulse response capacitor voltage
+ut heaviside step function
+time constant
+similarly impulse response resistor voltage
+dirac delta function
+frequencydomain considerationsedit
+frequency domain expressions analysis show frequencies circuits filters pass reject analysis rests consideration happens gains frequency becomes large small
+shows output taken across capacitor high frequencies attenuated shorted ground low frequencies passed thus circuit behaves lowpass filter though output taken across resistor high frequencies passed low frequencies attenuated since capacitor blocks signal frequency approaches configuration circuit behaves highpass filter
+range frequencies filter passes called bandwidth point filter attenuates signal half unfiltered power termed cutoff frequency requires gain circuit reduced
+solving equation yields
+frequency filter attenuate half original power
+clearly phases also depend frequency although effect less interesting generally gain variations
+dc hz capacitor voltage phase signal voltage resistor voltage leads frequency increases capacitor voltage comes lag relative signal resistor voltage comes inphase signal
+timedomain considerationsedit
+section relies knowledge e natural logarithmic constant
+straightforward way derive time domain behaviour use laplace transforms expressions given effectively transforms assuming step input ie afterwards
+partial fractions expansions inverse laplace transform yield
+equations calculating voltage across capacitor resistor respectively capacitor charging discharging equations vice versa equations rewritten terms charge current using relationships cqv vir see ohms law
+thus voltage across capacitor tends towards v time passes voltage across resistor tends towards shown figures keeping intuitive point capacitor charging supply voltage time passes eventually fully charged
+equations show series rc circuit time constant usually denoted time takes voltage across component either rise across c fall across r within final value time takes reach reach
+rate change fractional per thus going voltage moved way level toward final value c charged essentially fully charged voltage source replaced shortcircuit c fully charged voltage across c drops exponentially towards c discharged essentially fully discharged note current circuit behaves voltage across r via ohms law
+results may also derived solving differential equations describing circuit
+first equation solved using integrating factor second follows easily solutions exactly obtained via laplace transforms
+integratoredit
+consider output across capacitor high frequency ie
+means capacitor insufficient time charge voltage small thus input voltage approximately equals voltage across resistor see consider expression given
+note frequency condition described means
+ohms law
+integrator across capacitor
+differentiatoredit
+consider output across resistor low frequency ie
+means capacitor time charge voltage almost equal sources voltage considering expression
+differentiator across resistor
+accurate integration differentiation achieved placing resistors capacitors appropriate input feedback loop operational amplifiers see operational amplifier integrator operational amplifier differentiator
+parallel circuitedit
+parallel rc circuit generally less interest series circuit largely output voltage equal input voltage result circuit act filter input signal unless fed current source
+complex impedances
+shows capacitor current phase resistor source current alternatively governing differential equations may used
+fed current source transfer function parallel rc circuit
+see alsoedit
+rl circuit
+lc circuit
+rlc circuit
+electrical network
+list electronics topics
+step response
+rc circuit continuousrepayment mortgage

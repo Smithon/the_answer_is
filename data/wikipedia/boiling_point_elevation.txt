@@ -1,0 +1,33 @@
+boiling-point elevation describes the phenomenon that the boiling point of a liquid (a solvent) will be higher when another compound is added meaning that a solution has a higher boiling point than a pure solvent this happens whenever a non-volatile solute such as a salt is added to a pure solvent such as water the boiling point can be measured accurately using an ebullioscope
+== explanationedit ==
+the boiling point elevation is a colligative property which means that it is dependent on the presence of dissolved particles and their number but not their identity it is an effect of the dilution of the solvent in the presence of a solute it is a phenomenon that happens for all solutes in all solutions even in ideal solutions and does not depend on any specific solute-solvent interactions the boiling point elevation happens both when the solute is an electrolyte such as various salts and a nonelectrolyte in thermodynamic terms the origin of the boiling point elevation is entropic and can be explained in terms of the vapor pressure or chemical potential of the solvent in both cases the explanation depends on the fact that many solutes are only present in the liquid phase and do not enter into the gas phase (except at extremely high temperatures)
+put in vapor pressure terms a liquid boils at the temperature when its vapor pressure equals the surrounding pressure for the solvent the presence of the solute decreases its vapor pressure by dilution a non-volatile solute has a vapor pressure of zero so the vapor pressure of the solution is less than the vapor pressure of the solvent thus a higher temperature is needed for the vapor pressure to reach the surrounding pressure and the boiling point is elevated
+put in chemical potential terms at the boiling point the liquid phase and the gas (or vapor) phase have the same chemical potential (or vapor pressure) meaning that they are energetically equivalent the chemical potential is dependent on the temperature and at other temperatures either the liquid or the gas phase has a lower chemical potential and is more energetically favorable than the other phase this means that when a non-volatile solute is added the chemical potential of the solvent in the liquid phase is decreased by dilution but the chemical potential of the solvent in the gas phase is not affected this means in turn that the equilibrium between the liquid and gas phase is established at another temperature for a solution than a pure liquid i.e. the boiling point is elevated
+the phenomenon of freezing-point depression is analogous to boiling point elevation however the magnitude of the freezing point depression is larger than the boiling point elevation for the same solvent and the same concentration of a solute because of these two phenomena the liquid range of a solvent is increased in the presence of a solute
+== the general equation for calculations at dilute concentrationedit ==
+the extent of boiling-point elevation can be calculated by applying clausiusclapeyron relation and raoult's law together with the assumption of the non-volatility of the solute the result is that in dilute ideal solutions the extent of boiling-point elevation is directly proportional to the molal concentration of the solution according to the equation:
+tb = kb bb
+where
+tb the boiling point elevation is defined as tb (solution) - tb (pure solvent)
+kb the ebullioscopic constant which is dependent on the properties of the solvent it can be calculated as kb = rtb2m/hv where r is the gas constant and tb is the boiling temperature of the pure solvent [in k] m is the molar mass of the solvent and hv is the heat of vaporization per mole of the solvent
+bb is the molality of the solution calculated by taking dissociation into account since the boiling point elevation is a colligative property dependent on the number of particles in solution this is most easily done by using the van 't hoff factor i as bb = bsolute i the factor i accounts for the number of individual particles (typically ions) formed by a compound in solution examples:
+i = 1 for sugar in water
+i = 1.9 for sodium chloride in water due to the near full dissociation of nacl into na+ and cl (often simplified as 2)
+i = 2.3 for calcium chloride in water due to nearly full dissociation of cacl2 into ca2+ and 2cl (often simplified as 3)
+non integer i factors result from ion pairs in solution which lower the effective number of particles in the solution
+equation after including the van 't hoff factor
+tb = kb bsolute i
+at high concentrations the above formula is less precise due to nonideality of the solution if the solute is also volatile one of the key assumptions used in deriving the formula is not true since it derived for solutions of non-volatile solutes in a volatile solvent in the case of volatile solutes it is more relevant to talk of a mixture of volatile compounds and the effect of the solute on the boiling point must be determined from the phase diagram of the mixture in such cases the mixture can sometimes have a boiling point that is lower than either of the pure components; a mixture with a minimum boiling point is a type of azeotrope
+=== ebullioscopic constantsedit ===
+values of the ebullioscopic constants kb for selected solvents:
+== usesedit ==
+together with the formula above the boiling-point elevation can in principle be used to measure the degree of dissociation or the molar mass of the solute this kind of measurement is called ebullioscopy (greek "boiling-viewing") however since superheating is difficult to avoid precise tb measurements are difficult to carry out which was partly overcome by the invention of the beckmann thermometer furthermore the cryoscopic constant that determine freezing-point depression is larger than the ebullioscopic constant and since the freezing point is often easier to measure with precision it is more common to use cryoscopy
+among many urban legends related to the effect of ebullioscopic increase one of them leads to adding salt when cooking pasta only after water has started boiling the misconception is that since the water boils at a higher temperature food will cook faster however at the approximate concentration of salt in water for cooking (10 g of salt per 1 kg of water or 1 teaspoon per quart) the ebullioscopic increase is approximately 0.17 c (0.31 f) which will arguably make no practical difference for cooking
+== see alsoedit ==
+colligative properties
+freezing point depression
+dhring's rule
+list of boiling and freezing information of solvents
+== referencesedit ==
+^ a b c p w atkins physical chemistry 4th ed. oxford university press oxford 1994 isbn 0-19-269042-6 p 222-225
+^ p w atkins physical chemistry 4th ed. p c17 (table 7.2)

@@ -1,0 +1,54 @@
+molality also called molal concentration is a measure of the concentration of a solute in a solution in terms of amount of substance in a specified amount of mass of the solvent this contrasts with the definition of molarity which is based on a specified volume of solution
+a commonly used unit for molality in chemistry is mol/kg a solution of concentration 1 mol/kg is also sometimes denoted as 1 molal
+== definitionedit ==
+the molality (b) of a solution is defined as the amount of substance (in mol) of solute  divided by the mass (in kg) of the solvent :
+== originedit ==
+the term molality is formed in analogy to molarity which is the molar concentration of a solution the earliest of the intensive property molality and of its adjectival unit the now-deprecated molal appears to have been published by g n lewis and m randall in the 1923 publication of thermodynamics and the free energies of chemical substances though the two terms are subject to being confused with one another the molality and molarity of a weak aqueous solution are nearly the same as one kilogram of water (solvent) occupies the volume of 1 liter at room temperature and a small amount of solute has little effect on the volume
+== unitedit ==
+the si unit for molality is mol/kg
+a solution with a molality of 3 mol/kg is often described as "3 molal" or "3 m" however following the si system of units the national institute of standards and technology the united states authority on measurement considers the term "molal" and the unit symbol "m" to be obsolete and suggests mol/kg or a related unit of the si this recommendation has not been universally implemented in academia yet
+== usage considerationsedit ==
+advantages
+compared to molar concentration or mass concentration the preparation of a solution of a given molality requires only a good scale: both solvent and solute need to be weighed as opposed to measured volumetrically which would be subject to variations in density due to the ambient conditions of temperature and pressure; this is an advantage because in chemical compositions the mass or the amount of a pure known substance is more relevant than its volume: a contained measured amount of substance may change in volume with ambient conditions but its amount and mass are unvarying and chemical reactions occur in proportions of mass not volume the mass-based nature of molality implies that it can be readily converted into a mass ratio (or mass fraction "w," ratio)
+where the symbol m stands for molar mass in kg/mole or into a mole ratio (or mole fraction "x," ratio)
+the advantage of molality over other mass-based fractions is the fact that the molality of one solute in a single-solvent solution is independent of the presence or absence of other solutes
+problem areas
+unlike all the other compositional properties listed in "relation" section (below) molality depends on the choice of the substance to be called solvent in an arbitrary mixture if there is only one pure liquid substance in a mixture the choice is clear but not all solutions are this clear-cut: in an alcohol-water solution either one could be called the solvent; in an alloy or solid solution there is no clear choice and all constituents may be treated alike in such situations mass or mole fraction is the preferred compositional specification
+== relation to other compositional propertiesedit ==
+in what follows the solvent may be given the same treatment as the other constituents of the solution such that the molality of the solvent of an n-solute solution say b0 is found to be nothing more than the reciprocal of its molar mass m0:
+=== mass fractionedit ===
+the conversions to and from the mass fraction  of the solute in a single-solute solution are
+where b is the molality and m is the molar mass of the solute
+more generally for an n-solute/one-solvent solution letting bi and wi be respectively the molality and mass fraction of the i-th solute
+where mi is the molar mass of the i-th solute and w0 is the mass fraction of the solvent which is expressible both as a function of the molalities as well as a function of the other mass fractions
+=== mole fractionedit ===
+the conversions to and from the mole fraction x of the solute in a single-solute solution are
+where m0 is the molar mass of the solvent
+more generally for an n-solute/one-solvent solution letting xi be the mole fraction of the i-th solute
+where x0 is the mole fraction of the solvent expressible both as a function of the molalities as well as a function of the other mole fractions:
+=== molar concentration (molarity)edit ===
+the conversions to and from the molar concentration c for one-solute solutions are
+where is the mass density of the solution b is the molality and m is the molar mass of the solute
+for solutions with n solutes the conversions are
+where the molar concentration of the solvent c0 is expressible both as a function of the molalities as well as a function of the molarities:
+=== mass concentrationedit ===
+the conversions to and from the mass concentration solute of a single-solute solution are
+where is the mass density of the solution b is the molality and m is the molar mass of the solute
+for the general n-solute solution the mass concentration of the i-th solute i is related to its molality bi as follows:
+where the mass concentration of the solvent 0 is expressible both as a function of the molalities as well as a function of the mass concentrations:
+=== equal ratiosedit ===
+alternatively we may use just the last two equations given for the compositional property of the solvent in each of the preceding sections together with the relationships given below to derive the remainder of properties in that set:
+where i and j are subscripts representing all the constituents the n solutes plus the solvent
+=== example of conversionedit ===
+an acid mixture consists of 0.76/0.04/0.20 mass fractions of (70% hno3) / (49% hf) /(h2o) where the percentages refer to mass fractions of the bottled acids carrying a balance of h2o the first step is determining the mass fractions of the constituents:
+the approximate molar masses in kg/mol are
+first derive the molality of the solvent in mol/kg
+and use that to derive all the others by use of the equal ratios:
+actually bh2o cancels out because it is not needed in this case there is a more direct equation: we use it to derive the molality of hf:
+the mole fractions may be derived from this result:
+=== osmolalityedit ===
+osmolality is a variation of molality that takes into account only solutes that contribute to a solution's osmotic pressure it is measured in osmoles of the solute per kilogram of water this unit is frequently used in medical laboratory results in place of osmolarity because it can be measured simply by depression of the freezing point of a solution or cryoscopy (see also: osmostat and colligative properties)
+== relation to apparent (molar) propertiesedit ==
+molality appears in the expression of the apparent (molar) volume of a solute as a function of the molality b of that solute (and density of the solution and solvent):
+for multicomponent systems the relation is slightly modified by the sum of molalities of solutes
+== referencesedit ==

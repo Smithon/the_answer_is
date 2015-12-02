@@ -1,0 +1,86 @@
+an elastic collision is an encounter between two bodies in which the total kinetic energy of the two bodies after the encounter is equal to their total kinetic energy before the encounter elastic collisions occur only if there is no net conversion of kinetic energy into other forms
+during the collision of small objects kinetic energy is first converted to potential energy associated with a repulsive force between the particles (when the particles move against this force i.e the angle between the force and the relative velocity is obtuse) then this potential energy is converted back to kinetic energy (when the particles move with this force i.e the angle between the force and the relative velocity is acute)
+the collisions of atoms are elastic collisions (rutherford backscattering is one example)
+the moleculesas distinct from atomsof a gas or liquid rarely experience perfectly elastic collisions because kinetic energy is exchanged between the molecules translational motion and their internal degrees of freedom with each collision at any one instant half the collisions are to a varying extent inelastic collisions (the pair possesses less kinetic energy in their translational motions after the collision than before) and half could be described as super-elastic (possessing more kinetic energy after the collision than before) averaged across the entire sample molecular collisions can be regarded as essentially elastic as long as planck's law forbids black-body photons to carry away energy from the system
+in the case of macroscopic bodies perfectly elastic collisions are an ideal never fully realized but approximated by the interactions of objects such as billiard balls
+when considering energies possible rotational energy before and/or after a collision may also play a role
+== equations ==
+=== one-dimensional newtonian ===
+consider two particles denoted by subscripts 1 and 2 let m1 and m2 be the masses u1 and u2 the velocities before collision and v1 and v2 the velocities after collision
+the conservation of the total momentum demands that the total momentum before the collision is the same as the total momentum after the collision and is expressed by the equation
+likewise the conservation of the total kinetic energy is expressed by the equation
+these equations may be solved directly to find vi when ui are known or vice versa an alternative solution is to first change the frame of reference such that one of the known velocities is zero the unknown velocities in the new frame of reference can then be determined and followed by a conversion back to the original frame of reference to reach the same result once one of the unknown velocities is determined the other can be found by symmetry
+solving these simultaneous equations for vi we get:
+or
+the latter is the trivial solution corresponding to the case that no collision has taken place (yet)
+for example:
+ball 1: mass = 3 kg velocity = 4 m/s
+ball 2: mass = 5 kg velocity = 6 m/s
+after collision:
+ball 1: velocity = 8.5 m/s
+ball 2: velocity = 1.5 m/s
+property:
+derivation: using the kinetic energy we can write
+rearrange momentum equation:
+dividing kinetic energy equation by the momentum equation we get:
+the relative velocity of one particle with respect to the other is reversed by the collision
+the average of the momenta before and after the collision is the same for both particles
+as can be expected the solution is invariant under adding a constant to all velocities which is like using a frame of reference with constant translational velocity
+the velocity of the center of mass does not change by the collision:
+the center of mass at time before the collision and at time after the collision is given by two equations:
+ and
+hence the velocities of the center of mass before and after the collision are:
+ and
+the numerator of is the total momentum before the collision and numerator of is the total momentum after the collision since momentum is conserved we have 
+with respect to the center of mass both velocities are reversed by the collision: in the case of particles of different mass a heavy particle moves slowly toward the center of mass and bounces back with the same low speed and a light particle moves fast toward the center of mass and bounces back with the same high speed
+from the equations for and above we see that in the case of a large  the value of is small if the masses are approximately the same: hitting a much lighter particle does not change the velocity much hitting a much heavier particle causes the fast particle to bounce back with high speed
+this is why a neutron moderator (a medium which slows down fast neutrons thereby turning them into thermal neutrons capable of sustaining a chain reaction) is a material full of atoms with light nuclei (with the additional property that they do not easily absorb neutrons): the lightest nuclei have about the same mass as a neutron
+=== one-dimensional relativistic ===
+according to special relativity
+where p denotes momentum of any particle with mass v denotes velocity and c is the speed of light
+in the center of momentum frame where the total momentum equals zero
+where represents the rest mass of the first colliding body represents the rest mass of the second colliding body represents the initial velocity of the first colliding body represents the initial velocity of the second colliding body represents the velocity after collision of the first colliding body represents the velocity after collision of the second colliding body denotes the momentum of the first colliding body denotes the momentum of the second colliding body and denotes the speed of light in vacuum denotes the total energy of the system (i.e the sum of rest masses and kinetic energies of the colliding bodies)
+since the total energy and momentum of the system are conserved and the rest masses of the colliding bodies do not change it is shown that the momentum of the colliding body is decided by the rest masses of the colliding bodies total energy and the total momentum the magnitude of the momentum of the colliding body does not change after collision but the direction of movement is opposite relative to the center of momentum frame
+classical mechanics is only a good approximation it will give accurate results when it deals with the object which is macroscopic and running with much lower speed than the speed of light beyond the classical limits it will give a wrong result total momentum of the two colliding bodies is frame-dependent in the center of momentum frame according to classical mechanics
+it is shown that remains true in relativistic calculation despite other differences one of the postulates in special relativity states that the laws of physics should be invariant in all inertial frames of reference that is if total momentum is conserved in a particular inertial frame of reference total momentum will also be conserved in any inertial frame of reference although the amount of total momentum is frame-dependent therefore by transforming from an inertial frame of reference to another we will be able to get the desired results in a particular frame of reference where the total momentum could be any
+we can look at the two moving bodies as one system of which the total momentum is  the total energy is and its velocity is the velocity of its center of mass relative to the center of momentum frame the total momentum equals zero it can be shown that is given by:
+now the velocities before the collision in the center of momentum frame and are:
+when and 
+therefore the classical calculation holds true when the speed of both colliding bodies is much lower than the speed of light (about 300 million m/s)
+=== another derivation relativistic formulas for the collision ===
+we express the so-called parameter of velocity :
+hence we get
+relativistic energy and momentum are expressed as follows:
+equations sum of energy and momentum colliding masses and  (velocities   correspond to the velocity parameters    ) after dividing by adequate power are as follows:
+and dependent equation the sum of above equations:
+subtract squares both sides equations "momentum" from "energy" and use the identity  after simplicity we get:
+for non-zero mass we get:
+as functions is even we get two solutions:
+from the last equation leading to a non-trivial solution we solve and substitute into the dependent equation we obtain and then  we have:
+it is a solution to the problem but expressed by the parameters of velocity return substitution to get the solution for velocities is:
+substitute the previous solutions and replace: and  after long transformation with substituting: we get:
+== two-dimensional ==
+for the case of two colliding bodies in two dimensions the overall velocity of each body must be split into two perpendicular velocities: one tangent to the common normal surfaces of the colliding bodies at the point of contact the other along the line of collision since the collision only imparts force along the line of collision the velocities that are tangent to the point of collision do not change the velocities along the line of collision can then be used in the same equations as a one-dimensional collision the final velocities can then be calculated from the two new component velocities and will depend on the point of collision studies of two-dimensional collisions are conducted for many bodies in the framework of a two-dimensional gas
+in a center of momentum frame at any time the velocities of the two bodies are in opposite directions with magnitudes inversely proportional to the masses in an elastic collision these magnitudes do not change the directions may change depending on the shapes of the bodies and the point of impact for example in the case of spheres the angle depends on the distance between the (parallel) paths of the centers of the two bodies any non-zero change of direction is possible: if this distance is zero the velocities are reversed in the collision; if it is close to the sum of the radii of the spheres the two bodies are only slightly deflected
+assuming that the second particle is at rest before the collision the angles of deflection of the two particles and  are related to the angle of deflection in the system of the center of mass by
+the magnitudes of the velocities of the particles after the collision are:
+=== two-dimensional collision with two moving objects ===
+the final x and y velocities components of the first ball can be calculated as:
+where v1 and v2 are the scalar sizes of the two original speeds of the objects m1 and m2 are their masses 1 and 2 are their movement angles that is (meaning moving directly down to the right is either a -45 angle or a 315angle) and lowercase phi () is the contact angle (to get the x and y velocities of the second ball one needs to swap all the '1' subscripts with '2' subscripts.)
+this equation is derived from the fact that the interaction between the two bodies is easily calculated along the contact angle meaning the velocities of the objects can be calculated in one dimension by rotating the x and y axis to be parallel with the contact angle of the objects and then rotated back to the original orientation to get the true x and y components of the velocities
+in an angle-free representation the changed velocities are computed using the centers x1 and x2 at the time of contact as
+where the angle brackets indicate the inner product (or dot product) of two vectors
+== see also ==
+collision
+inelastic collision
+coefficient of restitution
+== references ==
+== external links ==
+rigid body collision resolution in three dimensions including a derivation using the conservation laws
+vne rigid body collision simulation small open source 3d engine with easy-to-understand implementation of elastic collisions in c
+visualize 2-d collision free simulation of 2-particle collision with user-adjustable coefficient of restitution and particle velocities (requires adobe shockwave)
+2-dimensional elastic collisions without trigonometry explanation of how to calculate 2-dimensional elastic collisions using vectors
+bouncescope free simulator of elastic collisions of dozens of user-configurable objects
+managing ball vs ball collision with flash flash script to manage elastic collisions among any number of spheres
+elastic collision derivation
+elastic collision formula derivation if one of balls velocity is 0

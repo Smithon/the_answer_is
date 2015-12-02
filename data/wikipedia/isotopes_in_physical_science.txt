@@ -1,0 +1,150 @@
+isotopes are variants of a particular chemical element which differ in neutron number although all isotopes of a given element have the same number of protons in each atom the term isotope is formed from the greek roots isos ( "equal") and topos ( "place") meaning "the same place"; thus the meaning behind the name it is that different isotopes of a single element occupy the same position on the periodic table the number of protons within the atom's nucleus is called atomic number and is equal to the number of electrons in the neutral (non-ionized) atom each atomic number identifies a specific element but not the isotope; an atom of a given element may have a wide range in its number of neutrons the number of nucleons (both protons and neutrons) in the nucleus is the atom's mass number and each isotope of a given element has a different mass number
+for example carbon-12 carbon-13 and carbon-14 are three isotopes of the element carbon with mass numbers 12 13 and 14 respectively the atomic number of carbon is 6 which means that every carbon atom has 6 protons so that the neutron numbers of these isotopes are 6 7 and 8 respectively
+== isotope vs nuclide ==
+nuclide refers to a nucleus rather than to an atom identical nuclei belong to one nuclide for example each nucleus of the carbon-13 nuclide is composed of 6 protons and 7 neutrons the nuclide concept (referring to individual nuclear species) emphasizes nuclear properties over chemical properties while the isotope concept (grouping all atoms of each element) emphasizes chemical over nuclear the neutron number has large effects on nuclear properties but its effect on chemical properties is negligible for most elements even in the case of the very lightest elements where the ratio of neutron number to atomic number varies the most between isotopes it usually has only a small effect although it does matter in some circumstances (for hydrogen the lightest element the isotope effect is large enough to strongly affect biology) since isotope is the older term it is better known than nuclide and is still sometimes used in contexts where nuclide might be more appropriate such as nuclear technology and nuclear medicine
+== notation ==
+an isotope and/or nuclide is specified by the name of the particular element (this indicates the atomic number) followed by a hyphen and the mass number (e.g helium-3 helium-4 carbon-12 carbon-14 uranium-235 and uranium-239) when a chemical symbol is used e.g. "c" for carbon standard notation (now known as "aze notation" because a is the mass number z the atomic number and e for element) is to indicate the mass number (number of nucleons) with a superscript at the upper left of the chemical symbol and to indicate the atomic number with a subscript at the lower left (e.g 3
+2he 4
+2he 12
+6c 14
+6c 235
+92u and 239
+92u) since the atomic number is given by the element symbol it is common to state only the mass number in the superscript and leave out the atomic number subscript (e.g 3he 4he 12c 14c 235u and 239u) the letter m is sometimes appended after the mass number to indicate a nuclear isomer a metastable or energetically-excited nuclear state (as opposed to the lowest-energy ground state) for example 180m
+73ta (tantalum-180m)
+== radioactive primordial and stable isotopes ==
+some isotopes are radioactive and are therefore described as radioisotopes or radionuclides while others have never been observed to undergo radioactive decay and are described as stable isotopes or stable nuclides for example 14c is a radioactive form of carbon while 12c and 13c are stable isotopes there are about 339 naturally occurring nuclides on earth of which 288 are primordial nuclides meaning that they have existed since the solar system's formation
+primordial nuclides include 34 nuclides with very long half-lives (over 80 million years) and 254 that are formally considered as "stable nuclides" since they have not been observed to decay in most cases for obvious reasons if an element has stable isotopes those isotopes predominate in the elemental abundance found on earth and in the solar system however in the cases of three elements (tellurium indium and rhenium) the most abundant isotope found in nature is actually one (or two) extremely long-lived radioisotope(s) of the element despite these elements having one or more stable isotopes
+theory predicts that many apparently "stable" isotopes/nuclides are radioactive with extremely long half-lives (discounting the possibility of proton decay which would make all nuclides ultimately unstable) of the 254 nuclides never observed to decay only 90 of these (all from the first 40 elements) are theoretically stable to all known forms of decay element 41 (niobium) is theoretically unstable via spontaneous fission but this has never been detected many other stable nuclides are in theory energetically susceptible to other known forms of decay such as alpha decay or double beta decay but no decay products have yet been observed and so these isotopes are described as "observationally stable" the predicted half-lives for these nuclides often greatly exceed the estimated age of the universe and in fact there are also 27 known radionuclides (see primordial nuclide) with half-lives longer than the age of the universe
+adding in the radioactive nuclides that have been created artificially there are more than 3100 currently known nuclides these include 905 nuclides that are either stable or have half-lives longer than 60 minutes see list of nuclides for details
+== history ==
+=== radioactive isotopes ===
+the existence of isotopes was first suggested in 1913 by the radiochemist frederick soddy based on studies of radioactive decay chains that indicated about 40 different species described as radioelements (i.e radioactive elements) between uranium and lead although the periodic table only allowed for 11 elements from uranium to lead
+several attempts to separate these new radioelements chemically had failed for example soddy had shown in 1910 that mesothorium (later shown to be 228ra) radium (226ra the longest-lived isotope) and thorium x (224ra) are impossible to separate attempts to place the radioelements in the periodic table led soddy and kazimierz fajans independently to propose their radioactive displacement law in 1913 to the effect that alpha decay produced an element two places to the left in the periodic table while beta decay emission produced an element one place to the right soddy recognized that emission of an alpha particle followed by two beta particles led to the formation of an element chemically identical to the initial element but with a mass four units lighter and with different radioactive properties
+soddy proposed that several types of atoms (differing in radioactive properties) could occupy the same place in the table for example the alpha-decay of uranium-235 forms thorium-231 while the beta decay of actinium-230 forms thorium-230 the term "isotope" greek for "at the same place" was suggested to soddy by margaret todd a scottish physician and family friend during a conversation in which he explained his ideas to her
+in 1914 t w richards found variations between the atomic weight of lead from different mineral sources attributable to variations in isotopic composition due to different radioactive origins
+=== stable isotopes ===
+the first evidence for multiple isotopes of a stable (non-radioactive) element was found by j j thomson in 1913 as part of his exploration into the composition of canal rays (positive ions) thomson channeled streams of neon ions through a magnetic and an electric field and measured their deflection by placing a photographic plate in their path each stream created a glowing patch on the plate at the point it struck thomson observed two separate patches of light on the photographic plate (see image) which suggested two different parabolas of deflection thomson eventually concluded that some of the atoms in the neon gas were of higher mass than the rest
+f w aston subsequently discovered multiple stable isotopes for numerous elements using a mass spectrograph in 1919 aston studied neon with sufficient resolution to show that the two isotopic masses are very close to the integers 20 and 22 and that neither is equal to the known molar mass (20.2) of neon gas this is an example of aston's whole number rule for isotopic masses which states that large deviations of elemental molar masses from integers are primarily due to the fact that the element is a mixture of isotopes aston similarly showed that the molar mass of chlorine (35.45) is a weighted average of the almost integral masses for the two isotopes 35cl and 37cl
+== variation in properties between isotopes ==
+=== chemical and molecular properties ===
+a neutral atom has the same number of electrons as protons thus different isotopes of a given element all have the same number of electrons and share a similar electronic structure because the chemical behavior of an atom is largely determined by its electronic structure different isotopes exhibit nearly identical chemical behavior the main exception to this is the kinetic isotope effect: due to their larger masses heavier isotopes tend to react somewhat more slowly than lighter isotopes of the same element this is most pronounced by far for protium (1h) deuterium (2h) and tritium (3h) because deuterium has twice the mass of protium and tritium has three times the mass of protium these mass differences also affect the behavior of their respective chemical bonds by changing the center of gravity (reduced mass) of the atomic systems however for heavier elements the relative mass difference between isotopes is much less so that the mass-difference effects on chemistry are usually negligible (heavy elements also have relatively more neutrons than lighter elements so the ratio of the nuclear mass to the collective electronic mass is slightly greater.)
+similarly two molecules that differ only in the isotopes of their atoms (isotopologues) have identical electronic structure and therefore almost indistinguishable physical and chemical properties (again with deuterium and tritium being the primary exceptions) the vibrational modes of a molecule are determined by its shape and by the masses of its constituent atoms; so different isotopologues have different sets of vibrational modes since vibrational modes allow a molecule to absorb photons of corresponding energies isotopologues have different optical properties in the infrared range
+=== nuclear properties and stability ===
+atomic nuclei consist of protons and neutrons bound together by the residual strong force because protons are positively charged they repel each other neutrons which are electrically neutral stabilize the nucleus in two ways their copresence pushes protons slightly apart reducing the electrostatic repulsion between the protons and they exert the attractive nuclear force on each other and on protons for this reason one or more neutrons are necessary for two or more protons to bind into a nucleus as the number of protons increases so does the ratio of neutrons to protons necessary to ensure a stable nucleus (see graph at right) for example although the neutron:proton ratio of 3
+2he is 1:2 the neutron:proton ratio of 238
+92u is greater than 3:2 a number of lighter elements have stable nuclides with the ratio 1:1 (z = n) the nuclide 40
+20ca (calcium-40) is observationally the heaviest stable nuclide with the same number of neutrons and protons; (theoretically the heaviest stable one is sulfur-32) all stable nuclides heavier than calcium-40 contain more neutrons than protons
+=== numbers of isotopes per element ===
+of the 81 elements with a stable isotope the largest number of stable isotopes observed for any element is ten (for the element tin) no element has nine stable isotopes xenon is the only element with eight stable isotopes four elements have seven stable isotopes eight have six stable isotopes ten have five stable isotopes nine have four stable isotopes five have three stable isotopes 16 have two stable isotopes (counting 180m
+73ta as stable) and 26 elements have only a single stable isotope (of these 19 are so-called mononuclidic elements having a single primordial stable isotope that dominates and fixes the atomic weight of the natural element to high precision; 3 radioactive mononuclidic elements occur as well) in total there are 254 nuclides that have not been observed to decay for the 80 elements that have one or more stable isotopes the average number of stable isotopes is 254/80 = 3.2 isotopes per element
+=== even and odd nucleon numbers ===
+the proton:neutron ratio is not the only factor affecting nuclear stability it depends also on evenness or oddness of its atomic number z neutron number n and consequently of their sum the mass number a oddness of both z and n tends to lower the nuclear binding energy making odd nuclei generally less stable this remarkable difference of nuclear binding energy between neighbouring nuclei especially of odd-a isobars has important consequences: unstable isotopes with a nonoptimal number of neutrons or protons decay by beta decay (including positron decay) electron capture or other exotic means such as spontaneous fission and cluster decay
+the majority of stable nuclides are even-proton-even-neutron where all numbers z n and a are even the odd-a stable nuclides are divided (roughly evenly) into odd-proton-even-neutron and even-proton-odd-neutron nuclides odd-proton-odd-neutron nuclei are the least common
+==== even atomic number ====
+the 148 even-proton even-neutron (ee) nuclides comprise ~ 58% of all stable nuclides and all have spin 0 because of pairing there are also 22 primordial long-lived even-even nuclides as a result each of the 41 even-numbered elements from 2 to 82 has at least one stable isotope and most of these elements have several primordial isotopes half of these even-numbered elements have six or more stable isotopes the extreme stability of helium-4 due to a double pairing of 2 protons and 2 neutrons prevents any nuclides containing five or eight nucleons from existing for long enough to serve as platforms for the buildup of heavier elements via nuclear fusion in stars (see triple alpha process)
+these 53 stable nuclides have an even number of protons and an odd number of neutrons they are a minority in comparison to the even-even isotopes which are about 3 times as numerous among the 41 even-z elements that have a stable nuclide only three elements (argon cerium and lead) have no even-odd stable nuclides one element (tin) has three there are 24 elements that have one even-odd nuclide and 13 that have two odd-even nuclides of 35 primordial radionuclides there exist four even-odd nuclides (see table at right) including the fissile 235
+92u because of their odd neutron numbers the even-odd nuclides tend to have large neutron capture cross sections due to the energy that results from neutron-pairing effects these stable even-proton odd-neutron nuclides tend to be uncommon by abundance in nature generally because to form and enter into primordial abundance they must have escaped capturing neutrons to form yet other stable even-even isotopes during both the s-process and r-process of neutron capture during nucleosynthesis in stars for this reason only 195
+78pt and 9
+4be are the most naturally abundant isotopes of their element
+==== odd atomic number ====
+48 stable odd-proton-even-neutron nuclides stabilized by their even numbers of paired neutrons form most of the stable isotopes of the odd-numbered elements; the very few odd-odd nuclides comprise the others there are 41 odd-numbered elements with z = 1 through 81 of which 39 have stable isotopes (the elements technetium (
+43tc) and promethium (
+61pm) have no stable isotopes) of these 39 odd z elements 30 elements (including hydrogen-1 where 0 neutrons is even) have one stable odd-even isotope and nine elements: chlorine (
+17cl) potassium (
+19k) copper (
+29cu) gallium (
+31ga) bromine (
+35br) silver (
+47ag) antimony (
+51sb) iridium (
+77ir) and thallium (
+81tl) have two odd-even stable isotopes each this makes a total 30 + 2(9) = 48 stable odd-even isotopes
+there are also five primordial long-lived radioactive odd-even isotopes 87
+37rb 115
+49in 187
+75re 151
+63eu and 209
+83bi the last two were only recently found to decay with half-lives greater than 1018 years
+only five stable nuclides contain both an odd number of protons and an odd number of neutrons the first four "odd-odd" nuclides occur in low mass nuclides for which changing a proton to a neutron or vice versa would lead to a very lopsided proton-neutron ratio (2
+1h 6
+3li 10
+5b and 14
+7n; spins 1 1 3 1) the only other entirely "stable" odd-odd nuclide is 180m
+73ta (spin 9) the only primordial nuclear isomer which has not yet been observed to decay despite experimental attempts hence all observationally stable odd-odd nuclides have nonzero integer spin this is because the single unpaired neutron and unpaired proton have a larger nuclear force attraction to each other if their spins are aligned (producing a total spin of at least 1 unit) instead of anti-aligned see deuterium for the simplest case of this nuclear behavior
+many odd-odd radionuclides (like tantalum-180) with comparatively short half lives are known usually they beta-decay to their nearby even-even isobars that have paired protons and paired neutrons of the nine primordial odd-odd nuclides (five stable and four radioactive with long half lives) only 14
+7n is the most common isotope of a common element this is the case because it is a part of the cno cycle the nuclides 6
+3li and 10
+5b are minority isotopes of elements that are themselves rare compared to other light elements while the other six isotopes make up only a tiny percentage of the natural abundance of their elements for example 180m
+73ta is thought to be the rarest of the 254 stable isotopes
+==== odd neutron number ====
+actinides with odd neutron number are generally fissile (with thermal neutrons) while those with even neutron number are generally not though they are fissionable with fast neutrons only 195
+78pt 9
+4be and 14
+7n have odd neutron number and are the most naturally abundant isotope of their element
+== occurrence in nature ==
+elements are composed of one or more naturally occurring isotopes the unstable (radioactive) isotopes are either primordial or postprimordial primordial isotopes were a product of stellar nucleosynthesis or another type of nucleosynthesis such as cosmic ray spallation and have persisted down to the present because their rate of decay is so slow (e.g. uranium-238 and potassium-40) postprimordial isotopes were created by cosmic ray bombardment as cosmogenic nuclides (e.g. tritium carbon-14) or by the decay of a radioactive primordial isotope to a radioactive radiogenic nuclide daughter (e.g. uranium to radium) a few isotopes are naturally synthesized as nucleogenic nuclides by some other natural nuclear reaction such as when neutrons from natural nuclear fission are absorbed by another atom
+as discussed above only 80 elements have any stable isotopes and 26 of these have only one stable isotope thus about two-thirds of stable elements occur naturally on earth in multiple stable isotopes with the largest number of stable isotopes for an element being ten for tin (
+50sn) there are about 94 elements found naturally on earth (up to plutonium inclusive) though some are detected only in very tiny amounts such as plutonium-244 scientists estimate that the elements that occur naturally on earth (some only as radioisotopes) occur as 339 isotopes (nuclides) in total only 254 of these naturally occurring isotopes are stable in the sense of never having been observed to decay as of the present time an additional 35 primordial nuclides (to a total of 289 primordial nuclides) are radioactive with known half-lives but have half-lives longer than 80 million years allowing them to exist from the beginning of the solar system see list of nuclides for details
+all the known stable isotopes occur naturally on earth; the other naturally occurring-isotopes are radioactive but occur on earth due to their relatively long half-lives or else due to other means of ongoing natural production these include the afore-mentioned cosmogenic nuclides the nucleogenic nuclides and any radiogenic radioisotopes formed by ongoing decay of a primordial radioactive isotope such as radon and radium from uranium
+an additional ~3000 radioactive isotopes not found in nature have been created in nuclear reactors and in particle accelerators many short-lived isotopes not found naturally on earth have also been observed by spectroscopic analysis being naturally created in stars or supernovae an example is aluminium-26 which is not naturally found on earth but is found in abundance on an astronomical scale
+the tabulated atomic masses of elements are averages that account for the presence of multiple isotopes with different masses before the discovery of isotopes empirically determined noninteger values of atomic mass confounded scientists for example a sample of chlorine contains 75.8% chlorine-35 and 24.2% chlorine-37 giving an average atomic mass of 35.5 atomic mass units
+according to generally accepted cosmology theory only isotopes of hydrogen and helium traces of some isotopes of lithium and beryllium and perhaps some boron were created at the big bang while all other isotopes were synthesized later in stars and supernovae and in interactions between energetic particles such as cosmic rays and previously produced isotopes (see nucleosynthesis for details of the various processes thought responsible for isotope production.) the respective abundances of isotopes on earth result from the quantities formed by these processes their spread through the galaxy and the rates of decay for isotopes that are unstable after the initial coalescence of the solar system isotopes were redistributed according to mass and the isotopic composition of elements varies slightly from planet to planet this sometimes makes it possible to trace the origin of meteorites
+== atomic mass of isotopes ==
+the atomic mass (mr) of an isotope is determined mainly by its mass number (i.e number of nucleons in its nucleus) small corrections are due to the binding energy of the nucleus (see mass defect) the slight difference in mass between proton and neutron and the mass of the electrons associated with the atom the latter because the electron:nucleon ratio differs among isotopes
+the mass number is a dimensionless quantity the atomic mass on the other hand is measured using the atomic mass unit based on the mass of the carbon-12 atom it is denoted with symbols "u" (for unified atomic mass unit) or "da" (for dalton)
+the atomic masses of naturally occurring isotopes of an element determine the atomic mass of the element when the element contains n isotopes the expression below is applied for the average atomic mass :
+where m1 m2  mn are the atomic masses of each individual isotope and x1  xn are the relative abundances of these isotopes
+== applications of isotopes ==
+=== purification of isotopes ===
+several applications exist that capitalize on properties of the various isotopes of a given element isotope separation is a significant technological challenge particularly with heavy elements such as uranium or plutonium lighter elements such as lithium carbon nitrogen and oxygen are commonly separated by gas diffusion of their compounds such as co and no the separation of hydrogen and deuterium is unusual since it is based on chemical rather than physical properties for example in the girdler sulfide process uranium isotopes have been separated in bulk by gas diffusion gas centrifugation laser ionization separation and (in the manhattan project) by a type of production mass spectrometry
+=== use of chemical and biological properties ===
+isotope analysis is the determination of isotopic signature the relative abundances of isotopes of a given element in a particular sample for biogenic substances in particular significant variations of isotopes of c n and o can occur analysis of such variations has a wide range of applications such as the detection of adulteration in food products or the geographic origins of products using isoscapes the identification of certain meteorites as having originated on mars is based in part upon the isotopic signature of trace gases contained in them
+isotopic substitution can be used to determine the mechanism of a chemical reaction via the kinetic isotope effect
+another common application is isotopic labeling the use of unusual isotopes as tracers or markers in chemical reactions normally atoms of a given element are indistinguishable from each other however by using isotopes of different masses even different nonradioactive stable isotopes can be distinguished by mass spectrometry or infrared spectroscopy for example in 'stable isotope labeling with amino acids in cell culture (silac)' stable isotopes are used to quantify proteins if radioactive isotopes are used they can be detected by the radiation they emit (this is called radioisotopic labeling)
+isotopes are commonly used to determine the concentration of various elements or substances using the isotope dilution method whereby known amounts of isotopically-substituted compounds are mixed with the samples and the isotopic signatures of the resulting mixtures are determined with mass spectrometry
+=== use of nuclear properties ===
+a technique similar to radioisotopic labeling is radiometric dating: using the known half-life of an unstable element one can calculate the amount of time that has elapsed since a known concentration of isotope existed the most widely known example is radiocarbon dating used to determine the age of carbonaceous materials
+several forms of spectroscopy rely on the unique nuclear properties of specific isotopes both radioactive and stable for example nuclear magnetic resonance (nmr) spectroscopy can be used only for isotopes with a nonzero nuclear spin the most common isotopes used with nmr spectroscopy are 1h 2d,15n 13c and 31p
+mssbauer spectroscopy also relies on the nuclear transitions of specific isotopes such as 57fe
+radionuclides also have important uses nuclear power and nuclear weapons development require relatively large quantities of specific isotopes nuclear medicine and radiation oncology utilize radioisotopes respectively for medical diagnosis and treatment
+== see also ==
+abundance of the chemical elements
+atom
+geotraces
+isobars
+isotones
+isotope dilution
+isotopologue
+isotopomer
+list of elements by stability of isotopes
+list of isotopes
+list of isotopes by half-life
+list of particles
+nuclear medicine (includes medical isotopes)
+radionuclide (or radioisotope)
+table of nuclides
+table of nuclides (complete)
+== notes ==
+isotopes are nuclides having the same number of protons; compare:
+isotones are nuclides having the same number of neutrons
+isobars are nuclides having the same mass number i.e sum of protons plus neutrons
+nuclear isomers are different excited states of the same type of nucleus a transition from one isomer to another is accompanied by emission or absorption of a gamma ray or the process of internal conversion isomers are by definition both isotopic and isobaric (not to be confused with chemical isomers.)
+isodiaphers are nuclides having the same neutron excess i.e number of neutrons minus number of protons
+bainbridge mass spectrometer
+== references ==
+== external links ==
+the nuclear science web portal nucleonica
+the karlsruhe nuclide chart
+national nuclear data center portal to large repository of free data and analysis programs from nndc
+national isotope development center coordination and management of the production availability and distribution of isotopes and reference information for the isotope community
+isotope development & production for research and applications (idpra) u.s department of energy program for isotope production and production research and development
+international atomic energy agency homepage of international atomic energy agency (iaea) an agency of the united nations (un)
+atomic weights and isotopic compositions for all elements static table from nist (national institute of standards and technology)
+atomgewichte zerfallsenergien und halbwertszeiten aller isotope
+exploring the table of the isotopes at the lbnl
+current isotope research and information isotope.info
+emergency preparedness and response: radioactive isotopes by the cdc (centers for disease control and prevention)
+chart of nuclides interactive chart of nuclides (national nuclear data center)
+interactive chart of the nuclides isotopes and periodic table
+the livechart of nuclides iaea with isotope data
+annotated bibliography for isotopes from the alsos digital library for nuclear issues

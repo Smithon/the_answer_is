@@ -1,0 +1,48 @@
+kirchhoffs circuit laws two equalities deal current potential difference commonly known voltage lumped element model electrical circuits first described german physicist gustav kirchhoff generalized work georg ohm preceded work maxwell widely used electrical engineering also called kirchhoffs rules simply kirchhoffs laws
+kirchhoffs laws understood corollaries maxwell equations lowfrequency limit accurate dc circuits ac circuits frequencies wavelengths electromagnetic radiation large compared circuits
+kirchhoffs current law kcledit
+law also called kirchhoffs first law kirchhoffs point rule kirchhoffs junction rule nodal rule
+principle conservation electric charge implies
+node junction electrical circuit sum currents flowing node equal sum currents flowing node
+equivalently
+algebraic sum currents network conductors meeting point zero
+recalling current signed positive negative quantity reflecting direction towards away node principle stated
+n total number branches currents flowing towards away node
+formula valid complex currents
+law based conservation charge whereby charge measured coulombs product current amperes time seconds
+usesedit
+matrix version kirchhoffs current law basis circuit simulation software spice kirchhoffs current law combined ohms law used nodal analysis
+kcl applicable lumped network irrespective nature network whether unilateral bilateral active passive linear nonlinear
+kirchhoffs voltage law kvledit
+law also called kirchhoffs second law kirchhoffs loop mesh rule kirchhoffs second rule
+principle conservation energy implies
+directed sum electrical potential differences voltage around closed network zero
+simply sum emfs closed loop equivalent sum potential drops loop
+algebraic sum products resistances conductors currents closed loop equal total emf available loop
+similarly kcl stated
+n total number voltages measured voltages may also complex
+law based conservation energy whereby voltage defined energy per unit charge total amount energy gained per unit charge must equal amount energy lost per unit charge energy charge conserved
+generalizationedit
+lowfrequency limit voltage drop around loop zero includes imaginary loops arranged arbitrarily space limited loops delineated circuit elements conductors lowfrequency limit corollary faradays law induction one maxwell equations
+practical application situations involving static electricity
+limitationsedit
+kcl kvl depend lumped element model applicable circuit question model applicable laws apply
+kcl usual form dependent assumption current flows conductors whenever current flows one end conductor immediately flows end safe assumption highfrequency ac circuits lumped element model longer applicable often possible improve applicability kcl considering parasitic capacitances distributed along conductors significant violations kcl occur even hz high frequency
+words kcl valid total electric charge remains constant region considered practical cases always kcl applied geometric point investigating finite region however possible charge density within region may change since charge conserved come flow charge across region boundary flow represents net current kcl violated
+kvl based assumption fluctuating magnetic field linking closed loop safe assumption highfrequency shortwavelength ac circuits presence changing magnetic field electric field conservative vector field therefore electric field cannot gradient potential say line integral electric field around loop zero directly contradicting kvl
+often possible improve applicability kvl considering parasitic inductances including mutual inductances distributed along conductors treated imaginary circuit elements produce voltage drop equal rateofchange flux
+exampleedit
+assume electric network consisting two voltage sources three resistors
+according first law
+second law applied closed circuit gives
+second law applied closed circuit gives
+thus get linear system equations
+equivalent
+assuming
+solution
+negative sign means direction opposite assumed direction direction defined picture
+see alsoedit
+faradays law induction
+kirchhoffs laws disambiguation
+lumped matter discipline
+referencesedit

@@ -1,0 +1,54 @@
+raoults law law thermodynamics established french chemist franoismarie raoult states partial vapor pressure component ideal mixture liquids equal vapor pressure pure component multiplied mole fraction mixture
+mathematically raoults law single component ideal solution stated
+partial vapor pressure component gaseous mixture solution vapor pressure pure component mole fraction component mixture solution
+components solution reached equilibrium total vapor pressure solution determined combining raoults law daltons law partial pressures give
+nonvolatile solute zero vapor pressure evaporate dissolved solvent form ideal solution vapor pressure final solution lower pure solvent
+principleedit
+raoults law phenomenological law assumes ideal behavior based simple microscopic assumption intermolecular forces unlike molecules equal similar molecules conditions ideal solution analogous ideal gas law limiting law valid interactive forces molecules approach zero example concentration approaches zero raoults law instead valid physical properties components identical similar components behavior approaches described raoults law example two components differ isotopic content raoults law essentially exact
+comparing measured vapor pressures predicted values raoults law provides information true relative strength intermolecular forces vapor pressure less predicted negative deviation fewer molecules component expected left solution presence component indicating forces unlike molecules stronger converse true positive deviations
+solution two liquids b raoults law predicts gases present total vapor pressure solution equal weighted sum pure vapor pressures two components thus total pressure solution b would
+since sum mole fractions equal one
+linear function mole fraction shown graph
+thermodynamic considerationsedit
+raoults law originally discovered idealised experimental law using raoults law definition ideal solution possible deduce chemical potential component liquid given
+chemical potential component pure state equation chemical potential may used derive thermodynamic properties ideal solution see ideal solution
+however fundamental thermodynamic definition ideal solution one chemical potential component given formula assuming also vapor mixture acts ideal gas possible rederive raoults law follows
+system equilibrium chemical potential component must liquid solution vapor
+assuming liquid ideal solution using formula chemical potential gas gives
+fugacity vapor indicates reference state
+corresponding equation pure equilibrium pure vapor
+indicates pure component
+subtracting equations gives us
+rearranges
+fugacities replaced simple pressures vapor solution behaves ideally ie
+raoults law
+ideal mixingedit
+ideal solution would follow raoults law ideal solutions exist fact vapor liquid taken ideal least worries interactions gas molecules typically quite small especially vapor pressures low interactions liquid however strong solution ideal must assume matter whether molecule another neighbor b molecule approximately true two species almost identical chemically one see considering gibbs free energy change mixing
+always negative mixing spontaneous however expression apart factor equal entropy mixing leaves room enthalpy effect implies must equal zero true interactions u molecules indifferent
+shown using gibbsduhem equation raoults law holds entire concentration range x binary solution second component must also hold
+deviations ideal large raoults law still valid narrow concentration range approaching x majority phase solvent solute also shows linear limiting law different coefficient law known henrys law
+presence limited linear regimes experimentally verified great number cases perfectly ideal system ideal liquid ideal vapor assumed useful equation emerges raoults law combined daltons law
+mole fraction component solution mole fraction gas phase equation shows ideal solution pure component different vapor pressure gas phase enriched component higher pure vapor pressure solution enriched component lower pure vapor pressure phenomenon basis distillation
+nonideal mixingedit
+raoults law may adapted nonideal solutions incorporating two factors account interactions molecules different substances first factor correction gas nonideality deviations idealgas law called fugacity coefficient second activity coefficient correction interactions liquid phase different molecules
+modified extended raoults law written
+real solutionsedit
+many pairs liquids present uniformity attractive forces ie adhesive cohesive forces attraction uniform two liquids deviate raoults law applied ideal solutions
+negative deviationedit
+vapor pressure mixture lower expected raoults law said negative deviation evidence adhesive forces different components stronger average cohesive forces like components consequence component retained liquid phase attractive forces stronger pure liquid partial vapor pressure lower
+example system chloroform chcl acetone chcoch negative deviation raoults law indicating attractive interaction two components described hydrogen bond system hydrochloric acid water large enough negative deviation form minimum vapor pressure curve known negative azeotrope corresponding mixture evaporates without change composition
+positive deviationedit
+cohesive forces like molecules greater adhesive forces dissimilar molecules dissimilarities polarity leads components escape solution easily therefore vapor pressure greater expected raoults law showing positive deviation deviation large vapor pressure curve shows maximum particular composition form positive azeotrope mixtures happens benzene methanol carbon disulfide acetone chloroform ethanol
+electrolytes solutionsedit
+expression law case includes van hoff factor
+see alsoedit
+atomic theory
+azeotrope
+dechema model
+dhrings rule
+henrys law
+khler theory
+solubility
+referencesedit
+chapter d mcquarrie j d simon physical chemistry molecular approach university science books
+e b smith basic chemical thermodynamics clarendon press oxford

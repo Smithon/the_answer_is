@@ -1,0 +1,104 @@
+electromagnet type magnet magnetic field produced electric current magnetic field disappears current turned electromagnets usually consist large number closely spaced turns wire create magnetic field wire turns often wound around magnetic core made ferromagnetic ferrimagnetic material iron magnetic core concentrates magnetic flux makes powerful magnet
+main advantage electromagnet permanent magnet magnetic field quickly changed controlling amount electric current winding however unlike permanent magnet needs power electromagnet requires continuous supply current maintain magnetic field
+electromagnets widely used components electrical devices motors generators relays loudspeakers hard disks mri machines scientific instruments magnetic separation equipment electromagnets also employed industry picking moving heavy iron objects scrap iron steel
+history
+danish scientist hans christian rsted discovered electric currents create magnetic fields british scientist william sturgeon invented electromagnet first electromagnet horseshoeshaped piece iron wrapped turns bare copper wire insulated wire didnt exist yet iron varnished insulate windings current passed coil iron became magnetized attracted pieces iron current stopped lost magnetization sturgeon displayed power showing although weighed seven ounces roughly grams could lift nine pounds roughly kilos current singlecell battery applied however sturgeons magnets weak uninsulated wire used could wrapped single spaced layer around core limiting number turns
+beginning us scientist joseph henry systematically improved popularized electromagnet using wire insulated silk thread inspired schweiggers use insulated wire combination galvanometer able wind multiple layers wire cores creating powerful magnets thousands turns wire including one could support lb kg first major use electromagnets telegraph sounders
+magnetic domain theory ferromagnetic cores work first proposed french physicist pierreernest weiss detailed modern quantum mechanical theory ferromagnetism worked werner heisenberg lev landau felix bloch others
+uses electromagnets
+electromagnets widely used electric electromechanical devices including
+motors generators
+transformers
+relays including reed relays originally used telephone exchanges
+electric bells buzzers
+loudspeakers earphones
+actuators
+magnetic recording data storage equipment tape recorders vcrs hard disks
+mri machines
+scientific equipment mass spectrometers
+particle accelerators
+magnetic locks
+magnetic separation equipment used separating magnetic nonmagnetic material example separating ferrous metal material scrap
+industrial lifting magnets
+magnetic levitation
+induction heating cooking manufacturing hyperthermia therapy
+physics
+electric current flowing wire creates magnetic field around wire due amperes law see drawing concentrate magnetic field electromagnet wire wound coil many turns wire lying side side magnetic field turns wire passes center coil creating strong magnetic field coil forming shape straight tube helix called solenoid
+direction magnetic field coil wire found form righthand rule fingers right hand curled around coil direction current flow conventional current flow positive charge windings thumb points direction field inside coil side magnet field lines emerge defined north pole
+much stronger magnetic fields produced magnetic core soft ferromagnetic ferrimagnetic material iron placed inside coil core increase magnetic field thousands times strength field coil alone due high magnetic permeability material called ferromagneticcore ironcore electromagnet however electromagnets use cores strongest electromagnets superconducting high current electromagnets cannot use due saturation
+amperes law
+definitions variables see box end article
+magnetic field electromagnets general case given amperes law
+says integral magnetizing field h around closed loop field equal sum current flowing loop another equation used gives magnetic field due small segment current biotsavart law computing magnetic field force exerted ferromagnetic materials difficult two reasons first strength field varies point point complicated way particularly outside core air gaps fringing fields leakage flux must considered second magnetic field b force nonlinear functions current depending nonlinear relation b h particular core material used precise calculations computer programs produce model magnetic field using finite element method employed
+magnetic core
+material magnetic core often made iron steel composed small regions called magnetic domains act like tiny magnets see ferromagnetism current electromagnet turned domains iron core point random directions tiny magnetic fields cancel iron large scale magnetic field current passed wire wrapped around iron magnetic field penetrates iron causes domains turn aligning parallel magnetic field tiny magnetic fields add wires field creating large magnetic field extends space around magnet effect core concentrate field magnetic field passes core easily would pass air
+larger current passed wire coil domains align stronger magnetic field finally domains lined increases current cause slight increases magnetic field phenomenon called saturation
+current coil turned magnetically soft materials nearly always used cores domains lose alignment return random state field disappears however alignment persists domains difficulty turning direction magnetization leaving core weak permanent magnet phenomenon called hysteresis remaining magnetic field called remanent magnetism residual magnetization core removed degaussing alternating current electromagnets used motors cores magnetisation constantly reversed remanence contributes motors losses
+magnetic circuit constant b field approximation
+many practical applications electromagnets motors generators transformers lifting magnets loudspeakers iron core form loop magnetic circuit possibly broken narrow air gaps magnetic field lines form closed loops iron presents much less resistance reluctance magnetic field air stronger field obtained magnetic fields path within core
+since magnetic field confined within outlines core loop allows simplification mathematical analysis see drawing right common simplifying assumption satisfied many electromagnets used section magnetic field strength b constant around magnetic circuit zero outside magnetic field concentrated core material c within core magnetic field b approximately uniform across cross section addition core roughly constant area throughout length field core constant leaves air gaps g core sections gaps magnetic field lines longer confined core bulge beyond outlines core curving back enter next piece core material reducing field strength gap bulges bf called fringing fields however long length gap smaller cross section dimensions core field gap approximately core addition magnetic field lines bl take short cuts pass entire core circuit thus contribute force exerted magnet also includes field lines encircle wire windings enter core called leakage flux therefore equations section valid electromagnets
+magnetic circuit single loop core material possibly broken air gaps
+core roughly cross sectional area throughout length
+air gaps sections core material large compared cross sectional dimensions core
+negligible leakage flux
+main nonlinear feature ferromagnetic materials b field saturates certain value around teslas high permeability core steels b field increases quickly increasing current value value field levels becomes almost constant regardless much current sent windings maximum strength magnetic field possible iron core electromagnet limited around
+magnetic field created current
+magnetic field created electromagnet proportional number turns winding n current wire hence product ni ampereturns given name magnetomotive force electromagnet single magnetic circuit length lcore magnetic field path core material length lgap air gaps amperes law reduces
+magnetic permeability core material particular b field used
+permeability free space air note definition amperes
+nonlinear equation permeability core varies magnetic field b exact solution value b value used must obtained core material hysteresis curve b unknown equation must solved numerical methods however magnetomotive force well saturation core material saturation magnetic field approximately saturation value bsat material wont vary much changes ni closed magnetic circuit air gap core materials saturate magnetomotive force roughly ampereturns per meter flux path
+core materials equation second term dominates therefore magnetic circuits air gap strength magnetic field b depends strongly length air gap length flux path core doesnt matter much
+force exerted magnetic field
+force exerted electromagnet section core material
+limit field mentioned sets limit maximum force per unit core area pressure ironcore electromagnet exert roughly
+intuitive units useful remember magnetic pressure approximately atmospheres kgcm
+given core geometry b field needed given force calculated comes much larger core must used
+closed magnetic circuit
+closed magnetic circuit air gap would found electromagnet lifting piece iron bridged across poles equation becomes
+substituting force
+seen maximize force core short flux path l wide cross sectional area preferred also applies magnets air gap achieve applications like lifting magnets see photo loudspeakers flat cylindrical design often used winding wrapped around short wide cylindrical core forms one pole thick metal housing wraps around outside windings forms part magnetic circuit bringing magnetic field front form pole
+force electromagnets
+methods applicable electromagnets magnetic circuit apply large part magnetic field path outside core example would magnet straight cylindrical core like one shown top article electromagnets permanent magnets well defined poles field lines emerge core force two electromagnets found using gilbert model assumes magnetic field produced fictitious magnetic charges surface poles pole strength m units ampereturn meter magnetic pole strength electromagnets found
+force two poles
+model doesnt give correct magnetic field inside core thus gives incorrect results pole one magnet gets close another magnet
+side effects
+several effects production magnetic field often important
+ohmic heating
+power consumed dc electromagnet due resistance windings dissipated heat large electromagnets require cooling water circulating pipes windings carry waste heat
+since magnetic field proportional product ni number turns windings n current chosen minimize heat losses long product constant since power dissipation p ir increases square current increases approximately linearly number windings power lost windings minimized reducing increasing number turns n proportionally using thicker wire reduce resistance example halving doubling n halves power loss doubling area wire either case increasing amount wire reduces ohmic losses reason electromagnets often significant thickness windings
+however limit increasing n lowering resistance windings take room magnets core pieces area available windings filled turns require going smaller diameter wire higher resistance cancels advantage using turns large magnets minimum amount heat loss cant reduced increases square magnetic flux b
+inductive voltage spikes
+electromagnet significant inductance resists changes current windings sudden changes winding current cause large voltage spikes across windings current magnet increased turned energy circuit must stored magnetic field turned energy field returned circuit
+ordinary switch used control winding current cause sparks terminals switch doesnt occur magnet switched voltage limited power supply voltage switched energy magnetic field suddenly returned circuit causing large voltage spike arc across switch contacts damage small electromagnets capacitor often used across contacts reduces arcing temporarily storing current often diode used prevent voltage spikes providing path current recirculate winding energy dissipated heat diode connected across winding oriented reversebiased steady state operation doesnt conduct supply voltage removed voltage spike forwardbiases diode reactive current continues flow winding diode back winding diode used way called flyback diode
+large electromagnets usually powered variable current electronic power supplies controlled microprocessor prevent voltage spikes accomplishing current changes slowly gentle ramps may take several minutes energize deenergize large magnet
+lorentz forces
+powerful electromagnets magnetic field exerts force turn windings due lorentz force acting moving charges within wire lorentz force perpendicular axis wire magnetic field visualized pressure magnetic field lines pushing apart two effects electromagnets windings
+field lines within axis coil exert radial force turn windings tending push outward directions causes tensile stress wire
+leakage field lines turn coil exert repulsive force adjacent turns tending push apart
+lorentz forces increase b large electromagnets windings must firmly clamped place prevent motion powerup powerdown causing metal fatigue windings bitter design used high field research magnets windings constructed flat disks resist radial forces clamped axial direction resist axial ones
+core losses
+alternating current ac electromagnets used transformers inductors ac motors generators magnetic field constantly changing causes energy losses magnetic cores dissipated heat core losses stem two processes
+eddy currents faradays law induction changing magnetic field induces circulating electric currents inside nearby conductors called eddy currents energy currents dissipated heat electrical resistance conductor cause energy loss since magnets iron core conductive magnetic field concentrated eddy currents core major problem eddy currents closed loops current flow planes perpendicular magnetic field energy dissipated proportional area enclosed loop prevent cores ac electromagnets made stacks thin steel sheets laminations oriented parallel magnetic field insulating coating surface insulation layers prevent eddy current flowing sheets remaining eddy currents must flow within cross section individual lamination reduces losses greatly another alternative use ferrite core nonconductor
+hysteresis losses reversing direction magnetization magnetic domains core material cycle causes energy loss coercivity material losses called hysteresis energy lost per cycle proportional area hysteresis loop bh graph minimize loss magnetic cores used transformers ac electromagnets made soft low coercivity materials silicon steel soft ferrite
+energy loss per cycle ac current constant processes power loss increases linearly frequency
+high field electromagnets
+superconducting electromagnets
+magnetic field higher ferromagnetic limit needed superconducting electromagnets used instead using ferromagnetic materials use superconducting windings cooled liquid helium conduct current without electrical resistance allow enormous currents flow generate intense magnetic fields superconducting magnets limited field strength winding material ceases superconducting current designs limited current record necessary refrigeration equipment cryostat make much expensive ordinary electromagnets however high power applications offset lower operating costs since startup power required windings since energy lost ohmic heating used particle accelerators mri machines
+bitter electromagnets
+ironcore superconducting electromagnets limits field produce therefore powerful manmade magnetic fields generated aircore nonsuperconducting electromagnets design invented francis bitter called bitter electromagnets instead wire windings bitter magnet consists solenoid made stack conducting disks arranged current moves helical path hole center maximum field created design mechanical strength withstand extreme lorentz forces field increase b disks pierced holes cooling water passes carry away heat caused high current strongest continuous field achieved solely resistive magnet march produced bitter electromagnet radboud university high field magnet laboratory nijmegen holland previous record strongest continuous magnetic field overall achieved june hybrid device consisting bitter magnet inside superconducting magnet
+exploding electromagnets
+factor limiting strength electromagnets inability dissipate enormous waste heat powerful fields obtained resistive magnets sending brief pulses current powerful manmade magnetic fields created using explosives compress magnetic field inside electromagnet pulsed implosion compresses magnetic field values around microseconds method may seem destructive methods control blast neither experiment magnetic structure harmed redirecting brunt force radially outwards devices known destructive pulsed electromagnets used physics materials science research study properties materials high magnetic fields
+definition terms
+see also
+dipole magnet electromagnet used particle accelerators
+electromagnetism
+electropermanent magnet magnetically hard electromagnet arrangement
+explosively pumped flux compression generator
+magnetic bearing
+pulsed field magnet
+quadrupole magnet electromagnet used particle accelerators
+references
+external links
+magnets mini mighty primer electromagnets magnets national high magnetic field laboratory
+magnetic fields forces cuyahoga community college
+fundamental relationships school geology geophysics university oklahoma

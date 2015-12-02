@@ -1,0 +1,28 @@
+phosphorescence is a specific type of photoluminescence related to fluorescence unlike fluorescence a phosphorescent material does not immediately re-emit the radiation it absorbs the slower time scales of the re-emission are associated with "forbidden" energy state transitions in quantum mechanics as these transitions occur very slowly in certain materials absorbed radiation may be re-emitted at a lower intensity for up to several hours after the original excitation
+commonly seen examples of phosphorescent materials are the glow-in-the-dark toys paint and clock dials that glow for some time after being charged with a bright light such as in any normal reading or room light typically the glowing then slowly fades out within minutes (or up to a few hours) in a dark room
+the study of phosphorescent materials led to the discovery of radioactivity in 1896
+ironically white phosphorus (from which phosphorescence takes its name) does not actually exhibit this property but rather chemiluminescence
+== explanationsedit ==
+=== simpleedit ===
+in simple terms phosphorescence is a process in which energy absorbed by a substance is released relatively slowly in the form of light this is in some cases the mechanism used for "glow-in-the-dark" materials which are "charged" by exposure to light unlike the relatively swift reactions in fluorescence such as those seen in a common fluorescent tube phosphorescent materials "store" absorbed energy for a longer time as the processes required to re-emit energy occur less often
+=== quantum mechanicaledit ===
+most photoluminescent events in which a chemical substrate absorbs and then re-emits a photon of light are fast in the order of 10 nanoseconds light is absorbed and emitted at these fast time scales in cases where the energy of the photons involved matches the available energy states and allowed transitions of the substrate in the special case of phosphorescence the absorbed photon energy undergoes an unusual intersystem crossing into an energy state of higher spin multiplicity (see term symbol) usually a triplet state as a result the energy can become trapped in the triplet state with only "forbidden" transitions available to return to the lower energy state these transitions although "forbidden" will still occur in quantum mechanics but are kinetically unfavored and thus progress at significantly slower time scales most phosphorescent compounds are still relatively fast emitters with triplet lifetimes on the order of milliseconds however some compounds have triplet lifetimes up to minutes or even hours allowing these substances to effectively store light energy in the form of very slowly degrading excited electron states if the phosphorescent quantum yield is high these substances will release significant amounts of light over long time scales creating so-called "glow-in-the-dark" materials
+==== equationedit ====
+where s is a singlet and t a triplet whose subscripts denote states (0 is the ground state and 1 the excited state) transitions can also occur to higher energy levels but the first excited state is denoted for simplicity
+== chemiluminescenceedit ==
+some examples of glow-in-the-dark materials do not glow by phosphorescence for example glow sticks glow due to a chemiluminescent process which is commonly mistaken for phosphorescence in chemiluminescence an excited state is created via a chemical reaction the light emission tracks the kinetic progress of the underlying chemical reaction the excited state will then transfer to a dye molecule also known as a sensitizer or fluorophor and subsequently fluoresce back to the ground state
+== materialsedit ==
+common pigments used in phosphorescent materials include zinc sulfide and strontium aluminate use of zinc sulfide for safety related products dates back to the 1930s however the development of strontium aluminate with a luminance approximately 10 times greater than zinc sulfide has relegated most zinc sulfide based products to the novelty category strontium aluminate based pigments are now used in exit signs pathway marking and other safety related signage
+phosphorescent pigments zinc sulfide vs strontium aluminate
+phosphorescent pigments red and blue
+== see alsoedit ==
+luminous paint
+microsphere
+persistent luminescence
+phosphor
+phosphoroscope
+tritium
+== referencesedit ==
+== external linksedit ==
+luminosity in watches
+spectra of gitd (glow-in-the-dark) materials

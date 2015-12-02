@@ -1,0 +1,47 @@
+fpplvon krmn equations named august fppl theodore von krmn set nonlinear partial differential equations describing large deflections thin flat plates applications ranging design submarine hulls mechanical properties cell wall equations notoriously difficult solve take following form
+e youngs modulus plate material assumed homogeneous isotropic poissons ratio h thickness plate w outofplane deflection plate p external normal force per unit area plate cauchy stress tensor indices take values dimensional biharmonic operator defined
+equation derived kinematic assumptions constitutive relations plate equations two equations conservation linear momentum two dimensions assumed outofplane stresses zero
+validity fpplvon krmn equations
+fpplvon krmn equations interest purely mathematical point view physical validity equations questionable ciarlet states twodimensional von karman equations plates originally proposed von karman play mythical role applied mathematics abundantly satisfactorily studied mathematical standpoint regards notably various questions existence regularity bifurcation solutions physical soundness often seriously questioned reasons include facts
+theory depends approximate geometry clearly defined
+given variation stress crosssection assumed arbitrarily
+linear constitutive relation used correspond known relation well defined measures stress strain
+components strain arbitrarily ignored
+confusion reference deformed configurations makes theory inapplicable large deformations apparently devised
+conditions equations actually applicable give reasonable results solved discussed ciarlet
+equations terms airy stress function
+three fpplvon krmn equations reduced two introducing airy stress function
+equations become
+pure bending
+pure bending thin plates equation equilibrium
+called flexural cylindrical rigidity plate
+kinematic assumptions kirchhoff hypothesis
+derivation fpplvon krmn equations main kinematic assumption also known kirchhoff hypothesis surface normals plane plate remain perpendicular plate deformation also assumed inplane membrane displacements change thickness plate negligible assumptions imply displacement field u plate expressed
+form displacement field implicitly assumes amount rotation plate small
+straindisplacement relations von krmn strains
+components threedimensional lagrangian green strain tensor defined
+substitution expressions displacement field gives
+small strains moderate rotations higher order terms cannot neglected
+neglecting higher order terms enforcing requirement plate change thickness strain tensor components reduce von krmn strains
+stressstrain relations
+assume cauchy stress tensor components linearly related von krmn strains hookes law plate isotropic homogeneous plate plane stress condition
+expanding terms three nonzero stresses
+stress resultants
+stress resultants plate defined
+therefore
+solutions easier find governing equations expressed terms stress resultants rather inplane stresses
+fpplvonkrmn equations terms stress resultants
+fpplvonkrmn equations typically derived energy approach considering variations internal energy work done external forces similar approach used write equations terms stress resultants resulting governing equations
+references
+fppl vorlesungen ber technische mechanik bg teubner bd p leipzig germany
+von krmn festigkeitsproblem im maschinenbau encyk d math wiss iv
+e cerda l mahadevan geometry physics wrinkling phys rev lett
+httpfocusapsorgstoryvst
+b c theory elasticity l d landau e m lifshitz rd ed isbn x
+dimensional laplacian defined
+von karman plate equations httpimechanicaorgnode accessed tue july
+b ciarlet p g plates junctions elastic multistructures springerverlag
+ciarlet philippe g justification von krmn equations archive rational mechanics analysis bibcodearrmac doibf
+typically assumption zero outofplane stress made point
+see also
+plate theory

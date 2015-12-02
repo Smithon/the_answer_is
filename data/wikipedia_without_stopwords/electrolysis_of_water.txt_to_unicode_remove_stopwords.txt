@@ -1,0 +1,79 @@
+electrolysis water decomposition water ho oxygen o hydrogen gas h due electric current passed water
+technique used make hydrogen fuel hydrogen gas breathable oxygen though currently industrial methods make hydrogen fuel natural gas instead
+historyedit
+jan rudolph deiman adriaan paets van troostwijk used electrostatic machine produce electricity discharged gold electrodes leyden jar water alessandro volta invented voltaic pile weeks later william nicholson anthony carlisle used electrolysis water znobe gramme invented gramme machine electrolysis water became cheap method production hydrogen method industrial synthesis hydrogen oxygen electrolysis developed dmitry lachinov
+principleedit
+dc electrical power source connected two electrodes two plates typically made inert metal platinum stainless steel iridium placed water hydrogen appear cathode negative electrode electrons enter water oxygen appear anode positive electrode assuming ideal faradaic efficiency amount hydrogen generated twice amount oxygen proportional total electrical charge conducted solution however many cells competing side reactions occur resulting different products less ideal faradaic efficiency
+electrolysis pure water requires excess energy form overpotential overcome various activation barriers without excess energy electrolysis pure water occurs slowly part due limited selfionization water pure water electrical conductivity one millionth seawater many electrolytic cells may also lack requisite electrocatalysts efficiency electrolysis increased addition electrolyte salt acid base use electrocatalysts
+currently electrolytic process rarely used industrial applications since hydrogen currently produced affordably fossil fuels
+equationsedit
+pure water negatively charged cathode reduction reaction takes place electrons e cathode given hydrogen cations form hydrogen gas half reaction balanced acid
+reduction cathode haq e hg
+positively charged anode oxidation reaction occurs generating oxygen gas giving electrons anode complete circuit
+oxidation anode hol og haq e
+half reactions also balanced base listed half reactions must balanced acid base many like oxidation reduction water listed add half reactions must balanced either acid base
+cathode reduction hol e hg ohaq
+anode oxidation ohaq og hol e
+combining either half reaction pair yields overall decomposition water oxygen hydrogen
+overall reaction hol hg og
+number hydrogen molecules produced thus twice number oxygen molecules assuming equal temperature pressure gases produced hydrogen gas therefore twice volume produced oxygen gas number electrons pushed water twice number generated hydrogen molecules four times number generated oxygen molecules
+thermodynamicsedit
+decomposition pure water hydrogen oxygen standard temperature pressure favorable thermodynamic terms
+anode oxidation hol og haq e eo
+ox v eo
+red
+cathode reduction haq e hg eo
+red v
+thus standard potential water electrolysis cell v c ph h m c ph h m potential unchanged based nernst equation thermodynamic standard cell potential obtained standardstate free energy calculations find g using equation g nfewhere e cell potential practice electrochemical cell driven toward completion applying reasonable potential kinetically controlled therefore activation energy ion mobility diffusion concentration wire resistance surface hindrance including bubble formation causes electrode area blockage entropy require greater applied potential overcome factors
+electrolyte selectionedit
+described processes occur pure water h cations accumulate anode oh anions accumulate cathode verified adding ph indicator water water near anode acidic water near cathode basic negative hydroxyl ions approach anode mostly combine positive hydronium ions ho form water positive hydronium ions approach negative cathode mostly combine negative hydroxyl ions form water relatively hydronium hydroxyl ions reach cathode anode cause concentration overpotential electrodes
+pure water fairly good insulator since low autoionization kw x room temperature thus pure water conducts current poorly scm unless large potential applied cause increase autoionization water electrolysis pure water proceeds slowly limited overall conductivity
+watersoluble electrolyte added conductivity water rises considerably electrolyte disassociates cations anions anions rush towards anode neutralize buildup positively charged h similarly cations rush towards cathode neutralize buildup negatively charged oh allows continued flow electricity
+care must taken choosing electrolyte since anion electrolyte competition hydroxide ions give electron electrolyte anion less standard electrode potential hydroxide oxidized instead hydroxide oxygen gas produced cation greater standard electrode potential hydrogen ion reduced stead hydrogen gas produced
+following cations lower electrode potential h therefore suitable use electrolyte cations li rb k cs ba sr ca na mg sodium lithium frequently used form inexpensive soluble salts
+acid used electrolyte cation h competitor h created disassociating water commonly used anion sulfate
+difficult oxidize standard potential oxidation ion peroxydisulfate ion volts
+strong acids sulfuric acid hso strong bases potassium hydroxide koh sodium hydroxide naoh frequently used electrolytes due strong conducting abilities
+solid polymer electrolyte also used nafion applied special catalyst side membrane efficiently split water molecule little volts also number solid electrolyte systems trialled developed number electrolysis systems available commercially use solid electrolytes
+techniquesedit
+fundamental demonstrationedit
+two leads running terminals battery placed cup water quantity electrolyte establish conductivity solution using nacl table salt electrolyte solution results chlorine gas rather oxygen due competing halfreaction correct electrodes correct electrolyte baking soda sodium bicarbonate hydrogen oxygen gases stream oppositely charged electrodes oxygen collect positively charged electrode anode hydrogen collect negatively charged electrode cathode note hydrogen positively charged ho molecule ends negative electrode vice versa oxygen
+note aqueous solution water chloride ions electrolysed result either oh concentration cl low chlorine gas preferentially discharged concentration cl greater mass solution
+hofmann voltameteredit
+hofmann voltameter often used smallscale electrolytic cell consists three joined upright cylinders inner cylinder open top allow addition water electrolyte platinum electrode placed bottom two side cylinders connected positive negative terminals source electricity current run hofmann voltameter gaseous oxygen forms anode positive gaseous hydrogen cathode negative gas displaces water collects top two outer tubes drawn stopcock
+industrialedit
+many industrial electrolysis cells similar hofmann voltameters complex platinum plates honeycombs electrodes generally time hydrogen intentionally produced electrolysis specific point use application case oxyhydrogen torches extremely high hydrogen purity oxygen desired vast majority hydrogen produced hydrocarbons result contains trace amounts carbon monoxide among impurities carbon monoxide impurity detrimental various systems including many fuel cells
+high pressureedit
+high pressure electrolysis electrolysis water compressed hydrogen output around bar psi pressurising hydrogen electrolyser need external hydrogen compressor eliminated average energy consumption internal compression around
+hightemperatureedit
+hightemperature electrolysis also hte steam electrolysis method currently investigated water electrolysis heat engine high temperature electrolysis may preferable traditional roomtemperature electrolysis energy supplied heat cheaper electricity electrolysis reaction efficient higher temperatures
+alkaline wateredit
+polymer electrolyte membraneedit
+nickelironedit
+researchers announced electrolysis system made inexpensive abundant nickel iron rather precious metal catalysts platinum iridium nickelmetalnickeloxide structure active pure nickel metal pure nickel oxide alone catalyst significantly lowers required voltage
+applicationsedit
+five percent hydrogen gas produced worldwide created electrolysis majority hydrogen produced electrolysis side product production chlorine prime example competing side reaction
+nacl ho cl h naoh
+electrolysis brine saltwater water sodium chloride mixture half electrolysis water since chloride ions oxidized chlorine rather water oxidized oxygen hydrogen produced process either burned converting back water used production specialty chemicals various smallscale applications
+water electrolysis also used generate oxygen international space station
+hydrogen may later used fuel cell storage method energy water
+efficiencyedit
+thermodynamicsedit
+electrolysis water standard conditions requires theoretical minimum kj electrical energy input dissociate mole water standard gibbs free energy formation water also requires energy overcome change entropy reaction therefore process cannot proceed kj per mol external heatenergy added
+since mole water requires two moles electrons given faraday constant f represents charge mole electrons cmol follows minimum voltage necessary electrolysis v electrolysis carried high temperature voltage reduces effectively allows electrolyser operate electrical efficiency electrochemical systems means heat must supplied reactor sustain reaction way thermal energy used part electrolysis energy requirement similar way required voltage reduced fuel carbon reacted oxygen produced results fuels energy used assist electrolysis process reduce overall cost hydrogen produced
+however observing entropy component losses voltages v required reaction proceed practical current densities thermoneutral voltage
+case water electrolysis gibbs free energy represents minimum work necessary reaction proceed reaction enthalpy amount energy work heat provided reaction products temperature reactant ie standard temperature values given electrolyser operating v would efficient
+overpotentialedit
+real water electrolysers require higher voltages reaction proceed part exceeds v called overpotential overvoltage represents kind loss nonideality electrochemical process
+well designed cell largest overpotential reaction overpotential fourelectron oxidation water oxygen anode electrocatalysts facilitate reaction platinum alloys state art oxidation developing cheap effective electrocatalyst reaction would great advance topic current research many approaches among yearold recipe molybdenum sulfide graphene quantum dots carbon nanotubes perovskite nickelnickeloxide simpler twoelectron reaction produce hydrogen cathode electrocatalyzed almost overpotential platinum theory hydrogenase enzyme less effective materials used cathode eg graphite large overpotentials appear
+industrial useedit
+efficiency modern hydrogen generators measured power consumed per standard volume hydrogen mjm assuming standard temperature pressure h efficient electrolyser would consume mjm lower actual power used higher efficiency
+electrolyser vendors provide efficiencies based enthalpy assess claimed efficiency electrolyser important establish defined vendor ie enthalpy value current density etc
+two main technologies available market alkaline proton exchange membrane pem electrolysers alkaline electrolysers cheaper terms investment generally use nickel catalysts less efficient pem electrolysers conversely expensive generally use expensive platinumgroup metal catalysts efficient operate higher current densities therefore possibly cheaper hydrogen production large enough reported working efficiencies range alkaline pem
+see alsoedit
+referencesedit
+external linksedit
+electrolysis water experiments electrochemistry retrieved november
+electrolysis water chem retrieved november
+eere kghday trade study
+nrel electrolysis technical report

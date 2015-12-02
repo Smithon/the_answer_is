@@ -1,0 +1,90 @@
+components electrical circuit electronic circuit connected many different ways two simplest called series parallel occur frequently components connected series connected along single path current flows components components connected parallel connected voltage applied component
+circuit composed solely components connected series known series circuit likewise one connected completely parallel known parallel circuit
+series circuit current components voltage across circuit sum voltages across component parallel circuit voltage across components total current sum currents component
+consider simple circuit consisting four light bulbs one v battery wire joins battery one bulb next bulb next bulb next bulb back battery one continuous loop bulbs said series bulb wired battery separate loop bulbs said parallel four light bulbs connected series current voltage drop v across bulb may sufficient make glow light bulbs connected parallel currents light bulbs combine form current battery voltage drop v across bulb glow
+series circuit every device must function circuit complete one bulb burning series circuit breaks circuit parallel circuits light circuit one light could burned last one still function
+series circuits
+series circuits sometimes called currentcoupled daisy chaincoupled current series circuit goes every component circuit therefore components series connection carry current one path series circuit current flow formula search resistance series rs r r r rn
+series circuits main disadvantage advantage depending intended role products overall design one path current flow opening breaking series circuit point causes entire circuit open stop operating example even one light bulbs olderstyle string christmas tree lights burns removed entire string becomes inoperable bulb replaced
+current
+series circuit current elements
+resistors
+total resistance resistors series equal sum individual resistances
+electrical conductance presents reciprocal quantity resistance total conductance series circuits pure resistors therefore calculated following expression
+special case two resistors series total conductance equal
+inductors
+inductors follow law total inductance noncoupled inductors series equal sum individual inductances
+however situations difficult prevent adjacent inductors influencing magnetic field one device couples windings neighbours influence defined mutual inductance m example two inductors series two possible equivalent inductances depending magnetic fields inductors influence
+two inductors mutual inductance way coils influence complicates calculation larger number coils total combined inductance given sum mutual inductances various coils including mutual inductance given coil term selfinductance simply inductance three coils six mutual inductances also three selfinductances three coils
+therefore
+reciprocity last two groups combined first three terms represent sum selfinductances various coils formula easily extended number series coils mutual coupling method used find selfinductance large coils wire crosssectional shape computing sum mutual inductance turn wire coil every turn since coil turns series
+capacitors
+see also capacitor networkscapacitors follow law using reciprocals total capacitance capacitors series equal reciprocal sum reciprocals individual capacitances
+switches
+two switches series form logical circuit carries current switches closed see gate two switches parallel circuits form logical circuit carry current least one switches closed see gate
+cells batteries
+battery collection electrochemical cells cells connected series voltage battery sum cell voltages example volt car battery contains six volt cells connected series vehicles trucks two volt batteries series feed volt system
+parallel circuits
+two components connected parallel potential difference voltage across ends potential differences across components magnitude also identical polarities voltage applicable circuit components connected parallel total current sum currents individual components accordance kirchhoffs current law
+voltage
+parallel circuit voltage elements
+resistors
+current individual resistor found ohms law factoring voltage gives
+find total resistance components add reciprocals resistances component take reciprocal sum total resistance always less value smallest resistance
+two resistors unreciprocated expression reasonably simple
+sometimes goes mnemonic product sum
+n equal resistors parallel reciprocal sum expression simplifies
+therefore
+find current component resistance use ohms law
+components divide current according reciprocal resistances case two resistors
+old term devices connected parallel multiple multiple connection arc lamps
+since electrical conductance reciprocal resistance expression total conductance parallel circuit resistors reads
+relations total conductance resistance stand complementary relationship expression series connection resistances parallel connection conductances vice versa
+inductors
+inductors follow law total inductance noncoupled inductors parallel equal reciprocal sum reciprocals individual inductances
+inductors situated others magnetic fields approach invalid due mutual inductance mutual inductance two coils parallel m equivalent inductor
+sign depends magnetic fields influence two equal tightly coupled coils total inductance close single coil polarity one coil reversed m negative parallel inductance nearly zero combination almost noninductive assumed tightly coupled case m nearly equal l however inductances equal coils tightly coupled near short circuit conditions high circulating currents positive negative values m cause problems
+three inductors becomes complex mutual inductance inductor inductor influence must considered three coils three mutual inductances best handled matrix methods summing terms inverse matrix case
+pertinent equations form
+capacitors
+total capacitance capacitors parallel equal sum individual capacitances
+working voltage parallel combination capacitors always limited smallest working voltage individual capacitor
+switches
+two switches parallel form logical circuit carries current least one switch see gate
+cells batteries
+cells battery connected parallel battery voltage cell voltage current supplied cell fraction total current example battery contains four cells connected parallel delivers current ampere current supplied cell ampere parallelconnected batteries widely used power valve filaments portable radios rare solar electric systems batteries parallel increase storage capacity close approximation total amphours sum batteries parallel
+combining conductances
+kirchhoffs circuit laws deduce rules combining conductances two conductances parallel voltage across kirchhoffs current law total current
+substituting ohms law conductances gives
+equivalent conductance
+two conductances series current kirchhoffs voltage law tells us voltage across sum voltages across conductance
+substituting ohms law conductance gives
+turn gives formula equivalent conductance
+equation rearranged slightly though special case rearrange like two components
+notation
+value two components parallel often represented equations two vertical lines borrowing parallel lines notation geometry
+simplifies expressions would otherwise become complicated expansion terms instance expression refers resistors parallel expanded expression
+applications
+common application series circuit consumer electronics volt block battery fire alarm battery internally built six cells volts
+series circuits formerly used lighting electric multiple unit trains example supply voltage volts might eight volt bulbs series total volts plus resistor drop remaining volts series circuits train lighting superseded first motorgenerators solid state devices
+series resistance also applied arrangement blood vessels within given organ organ supplied large artery smaller arteries arterioles capillaries veins arranged series total resistance sum individual resistances expressed following equation rtotal rartery rarterioles rcapillaries largest proportion resistance series contributed arterioles
+parallel resistance illustrated circulatory system organ supplied artery branches aorta total resistance parallel arrangement expressed following equation rtotal ra rb rn ra rb rn resistances renal hepatic arteries respectively total resistance less resistance individual arteries
+see also
+network analysis electrical circuits
+wheatstone bridge
+y transform
+voltage divider
+current divider
+combining impedances
+equivalent impedance transforms
+resistance distance
+seriesparallel partial order
+notes
+references
+resnick robert halliday david physics vol ii combined edition wiley international edition library congress catalog card
+smith rj circuits devices systems wiley international edition new york library congress catalog card
+williams tim circuit designers companion butterworthheinemann isbn
+external links
+series circuits see page onwards
+parallel circuit see page onwards
+sameen ahmed khan many equivalent resistances resonance journal science education vol may

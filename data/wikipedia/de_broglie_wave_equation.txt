@@ -1,0 +1,82 @@
+the kleingordon equation (kleinfockgordon equation or sometimes kleingordonfock equation) is a relativistic version of the schrdinger equation
+its solutions include a quantum scalar or pseudoscalar field a field whose quanta are spinless particles it cannot be straightforwardly interpreted as a schrdinger equation for a quantum state because it is second order in time and because it does not admit a positive definite conserved probability density still with the appropriate interpretation it does describe the quantum amplitude for finding a point particle in various places the relativistic wavefunction but the particle propagates both forwards and backwards in time any solution to the dirac equation is automatically a solution to the kleingordon equation but the converse is not true
+== statement ==
+the kleingordon equation is
+this is often abbreviated as
+where = mc/ and is the d'alembert operator defined by
+(we are using the ( + + +) metric signature.)
+the klein-gordon equation is most often written in natural units:
+the form is determined by requiring that plane wave solutions of the equation:
+obey the energy momentum relation of special relativity:
+unlike the schrdinger equation the kleingordon equation admits two values of for each k one positive and one negative only by separating out the positive and negative frequency parts does one obtain an equation describing a relativistic wavefunction for the time-independent case the kleingordon equation becomes
+which is the homogeneous screened poisson equation
+== history ==
+the equation was named after the physicists oskar klein and walter gordon who in 1926 proposed that it describes relativistic electrons other authors making similar claims in that same year were vladimir fock johann kudar thophile de donder and frans-h van den dungen and louis de broglie although it turned out that the dirac equation describes the spinning electron the kleingordon equation correctly describes the spinless pion a composite particle on july 4 2012 cern announced the discovery of the higgs boson since the higgs boson is a spin-zero particle it is the first elementary particle that is described by the klein-gordon equation further experimentation and analysis is required to discern whether the higgs boson found is that of the standard model or a more exotic form
+the kleingordon equation was first considered as a quantum wave equation by schrdinger in his search for an equation describing de broglie waves the equation is found in his notebooks from late 1925 and he appears to have prepared a manuscript applying it to the hydrogen atom yet because it fails to take into account the electron's spin the equation predicts the hydrogen atom's fine structure incorrectly including overestimating the overall magnitude of the splitting pattern by a factor of 4n/2n 1 for the n-th energy level the dirac result is however easily recovered if the orbital momentum quantum number is replaced by total angular momentum quantum number j in january 1926 schrdinger submitted for publication instead his equation a non-relativistic approximation that predicts the bohr energy levels of hydrogen without fine structure
+in 1926 soon after the schrdinger equation was introduced vladimir fock wrote an article about its generalization for the case of magnetic fields where forces were dependent on velocity and independently derived this equation both klein and fock used kaluza and klein's method fock also determined the gauge theory for the wave equation the kleingordon equation for a free particle has a simple plane wave solution
+== derivation ==
+the non-relativistic equation for the energy of a free particle is
+by quantizing this we get the non-relativistic schrdinger equation for a free particle
+where
+is the momentum operator ( being the del operator) and
+is the energy operator
+the schrdinger equation suffers from not being relativistically covariant meaning it does not take into account einstein's special relativity
+it is natural to try to use the identity from special relativity describing the energy:
+then just inserting the quantum mechanical operators for momentum and energy yields the equation
+this however is a cumbersome expression to work with because the differential operator cannot be evaluated while under the square root sign in addition this equation as it stands is nonlocal (see also introduction to nonlocal equations)
+klein and gordon instead began with the square of the above identity i.e
+which when quantized gives
+which simplifies to
+rearranging terms yields
+since all reference to imaginary numbers has been eliminated from this equation it can be applied to fields that are real valued as well as those that have complex values
+using the inverse of the minkowski metric diag(c2 1 1 1) we get
+in covariant notation this is often abbreviated as
+where
+and
+this operator is called the d'alembert operator
+today this form is interpreted as the relativistic field equation for spin-0 particles furthermore any solution to the dirac equation (for a spin-one-half particle) is automatically a solution to the kleingordon equation though not all solutions of the kleingordon equation are solutions of the dirac equation it is noteworthy that the kleingordon equation is very similar to the proca equation
+=== kleingordon equation in a potential ===
+the kleingordon equation can be generalized to describe a field in some potential v() as:
+== conserved current ==
+the conserved current associated to the u(1) symmetry of a complex field satisfying the klein gordon equation reads
+the form of the conserved current can be derived systematically by applying noether's theorem to the u(1) symmetry we will not do so here but simply give a proof that this conserved current is correct
+== relativistic free particle solution ==
+the kleingordon equation for a free particle can be written as
+we look for plane wave solutions of the form
+for some constant angular frequency and wave number k 3 substitution gives the dispersion relation:
+energy and momentum are seen to be proportional to and k:
+so the dispersion relation is just the classic relativistic equation:
+for massless particles we may set m = 0 recovering the relationship between energy and momentum for massless particles:
+== action ==
+the kleingordon equation can also be derived via a variational method by considering the action:
+where is the kleingordon field and m is its mass the complex conjugate of is written  if the scalar field is taken to be real-valued then = 
+applying the formula for the hilbert stressenergy tensor to the lagrangian density (the quantity inside the integral) we can derive the stressenergy tensor of the scalar field it is
+== electromagnetic interaction ==
+there is a simple way to make any field interact with electromagnetism in a gauge invariant way: replace the derivative operators with the gauge covariant derivative operators the klein gordon equation becomes:
+in natural units where a is the vector potential while it is possible to add many higher order terms for example
+these terms are not renormalizable in 3+1 dimensions
+the field equation for a charged scalar field multiplies by i which means the field must be complex in order for a field to be charged it must have two components that can rotate into each other the real and imaginary parts
+the action for a charged scalar is the covariant version of the uncharged action:
+== gravitational interaction ==
+in general relativity we include the effect of gravity and the kleingordon equation becomes (in the mostly pluses signature)
+or equivalently
+where g is the inverse of the metric tensor that is the gravitational potential field g is the determinant of the metric tensor is the covariant derivative and is the christoffel symbol that is the gravitational force field
+== see also ==
+dirac equation
+raritaschwinger equation
+quantum field theory
+scalar field theory
+sinegordon equation
+== notes ==
+^ see c itzykson and j-b zuber quantum field theory mcgraw-hill co. 1985 pp 7374 eq 2.87 is identical to eq 2.86 except that it features j instead of 
+^ david tong lectures on quantum field theory lecture 1 section 1.1.1
+^ s.a fulling aspects of quantum field theory in curved spacetime cambridge university press 1996 p 117
+== references ==
+sakurai j j (1967) advanced quantum mechanics addison wesley isbn 0-201-06710-2
+davydov a.s (1976) quantum mechanics 2nd edition pergamon isbn 0-08-020437-6
+== external links ==
+hazewinkel michiel ed (2001) "kleingordon equation" encyclopedia of mathematics springer isbn 978-1-55608-010-4
+weisstein eric w. "kleingordon equation" mathworld
+linear kleingordon equation at eqworld: the world of mathematical equations
+nonlinear kleingordon equation at eqworld: the world of mathematical equations
+introduction to nonlocal equations

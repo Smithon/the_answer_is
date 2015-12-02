@@ -1,0 +1,61 @@
+active laser medium also called gain medium lasing medium source optical gain within laser gain results stimulated emission electronic molecular transitions lower energy state higher energy state previously populated pump source
+examples active laser media include
+certain crystals typically doped rareearth ions eg neodymium ytterbium erbium transition metal ions titanium chromium often yttrium aluminium garnet yalo yttrium orthovanadate yvo sapphire alo
+glasses eg silicate phosphate glasses doped laseractive ions
+gases eg mixtures helium neon hene nitrogen argon carbon monoxide carbon dioxide metal vapors
+semiconductors eg gallium arsenide gaas indium gallium arsenide ingaas gallium nitride gan
+liquids form dye solutions used dye lasers
+order lase active gain medium must nonthermal energy distribution known population inversion preparation state requires external energy source known laser pumping pumping may achieved electrical currents eg semiconductors gases via highvoltage discharges light generated discharge lamps lasers semiconductor lasers exotic gain media pumped chemical reactions nuclear fission highenergy electron beams
+example model gain medium
+universal model valid laser types exist simplest model includes two systems sublevels upper lower within sublevel system fast transitions ensure thermal equilibrium reached quickly leading maxwellboltzmann statistics excitations among sublevels system fig upper level assumed metastable also gain refractive index assumed independent particular way excitation
+good performance gain medium separation sublevels larger working temperature pump frequency absorption dominates
+case amplification optical signals lasing frequency called signal frequency however term used even laser oscillators amplified radiation used transfer energy rather information model seems work well opticallypumped solidstate lasers
+crosssections
+simple medium characterized effective crosssections absorption emission frequencies
+let concentration active centers solidstate lasers
+let concentration active centers ground state
+let concentration excited centers
+let
+relative concentrations defined
+rate transitions active center ground state excited state expressed rate transitions back ground state expressed effective crosssections absorption frequencies signal pump
+stimulated emission
+rate spontaneous decay upper level
+kinetic equation relative populations written follows
+however equations keep
+absorption pump frequency gain signal frequency written follows
+steadystate solution
+many cases gain medium works continuouswave quasicontinuous regime causing time derivatives populations negligible
+steadystate solution written
+dynamic saturation intensities defined
+absorption strong signal
+gain strong pump determinant crosssection
+gain never exceeds value absorption never exceeds value
+given intensities pump signal gain absorption expressed follows
+identities
+following identities take place
+state gain medium characterized single parameter population upper level gain absorption
+efficiency gain medium
+efficiency gain medium defined
+within model efficiency expressed follows
+efficient operation intensities pump signal exceed saturation intensities
+estimates valid medium uniformly filled pump signal light spatial hole burning may slightly reduce efficiency regions pumped well pump efficiently withdrawn signal nodes interference counterpropagating waves
+see also
+population inversion
+laser construction
+laser science
+list laser articles
+list laser types
+references notes
+hecht jeff laser guidebook second edition mcgrawhill chapter
+hecht chapter
+hecht chapters
+hecht chapters
+f j duarte l w hillman eds dye laser principles academic new york
+f p schfer ed dye lasers nd edition springerverlag berlin
+encyclopedia laser physics technology
+aesiegman lasers university science books isbn
+dkouznetsov jfbisson ktakaichi kueda singlemode solidstate laser short wide unstable cavity josab bibcodejosabk doijosab
+asaharn lasing action
+physics encyclopedia online russian
+external links
+gain media encyclopedia laser physics technology

@@ -1,0 +1,106 @@
+correlation imply causation phrase used statistics emphasize correlation two variables imply one causes many statistical tests calculate correlation variables go using correlation basis testing hypothesis true causal relationship examples granger causality test convergent cross mapping
+counterassumption correlation proves causation considered questionable cause logical fallacy two events occurring together taken causeandeffect relationship fallacy also known cum hoc ergo propter hoc latin therefore false cause similar fallacy event follows another necessarily consequence first event sometimes described post hoc ergo propter hoc latin therefore
+example widely studied case numerous epidemiological studies showed women taking combined hormone replacement therapy hrt also lowerthanaverage incidence coronary heart disease chd leading doctors propose hrt protective chd randomized controlled trials showed hrt caused small statistically significant increase risk chd reanalysis data epidemiological studies showed women undertaking hrt likely higher socioeconomic groups abc betterthanaverage diet exercise regimens use hrt decreased incidence coronary heart disease coincident effects common cause ie benefits associated higher socioeconomic status rather direct cause effect supposed
+logical fallacy identifying reasoning behind argument flawed imply resulting conclusion false instance trials found hormone replacement therapy fact negative incidence likelihood coronary heart disease assumption causality would correct although logic behind assumption would still flawed
+usageedit
+logic technical use word implies means sufficient circumstance meaning intended statisticians say causation certain indeed p implies q technical meaning material conditional p q symbolized p q circumstance p true q follows sense always correct say correlation imply causation
+however casual use word implies loosely means suggests rather requires idea correlation causation connected certainly true causation likely correlation indeed correlation used inferring causation important point inferences made correlations confirmed real causational relationship systematically explored using large enough data sets
+edward tufte criticism brevity correlation imply causation deprecates use relate correlation causation correlation causation citing inaccuracy incomplete case correlation causation simply stating nonequivalence omits information relationship tufte suggests shortest true statement made causality correlation one following
+empirically observed covariation necessary sufficient condition causality
+correlation causation sure hint
+general patternedit
+two correlated events b following relationships possible
+causes b direct causation
+b causes reverse causation
+b consequences common cause cause
+causes b b causes bidirectional cyclic causation
+causes c causes b indirect causation
+connection b correlation coincidence
+thus conclusion made regarding existence direction causeandeffect relationship fact b correlated determining whether actual causeandeffect relationship requires investigation even relationship b statistically significant large effect size observed large part variance explained
+examples illogically inferring causation correlationedit
+b causes reverse causationedit
+example
+faster windmills observed rotate wind observed
+therefore wind caused rotation windmills simply put windmills name indicates machines used produce wind
+example correlation simultaneity windmill activity wind velocity imply wind caused windmills rather way around suggested fact wind doesnt need windmills exist windmills need wind rotate wind observed places windmills nonrotating windmillsand good reasons believe wind existed invention windmills
+third factor c commoncausal variable causes bedit
+examples deal lurking variable simply hidden third variable affects causes correlation example fact summer example difficulty often also arises third factor though fundamentally different b closely related andor b confused difficult scientifically disentangle see example
+example
+sleeping ones shoes strongly correlated waking headache
+therefore sleeping ones shoes causes headache
+example commits correlationimpliescausation fallacy prematurely concludes sleeping ones shoes causes headache plausible explanation caused third factor case going bed drunk thereby gives rise correlation conclusion false
+example
+young children sleep light much likely develop myopia later life
+therefore sleeping light causes myopia
+scientific example resulted study university pennsylvania medical center published may issue nature study received much coverage time popular press however later study ohio state university find infants sleeping light caused development myopia find strong link parental myopia development child myopia also noting myopic parents likely leave light childrens bedroom case cause conditions parental myopia abovestated conclusion false
+example
+ice cream sales increase rate drowning deaths increases sharply
+therefore ice cream consumption causes drowning
+aforementioned example fails recognize importance time temperature relationship ice cream sales ice cream sold hot summer months much greater rate colder times hot summer months people likely engage activities involving water swimming increased drowning deaths simply caused exposure waterbased activities ice cream stated conclusion false
+example
+hypothetical study shows relationship test anxiety scores shyness scores statistical r value strength correlation
+therefore may simply concluded shyness part causally influences test anxiety
+however encountered many psychological studies another variable selfconsciousness score discovered sharper correlation shyness suggests possible third variable problem however three closely related measures found suggests may bidirectional tendencies see bidirectional variable cluster correlated values influencing one another extent therefore simple conclusion may false
+example
+since atmospheric co level obesity levels increased sharply
+hence atmospheric co causes obesity
+richer populations tend eat food consume energy
+example
+hdl good cholesterol negatively correlated incidence heart attack
+therefore taking medication raise hdl decreases chance heart attack
+research called conclusion question instead may underlying factors like genes diet exercise affect hdl levels likelihood heart attack possible medicines may affect directly measurable factor hdl levels without affecting chance heart attack
+bidirectional causation causes b b causes aedit
+causality necessarily oneway predatorprey relationship predator numbers affect prey numbers prey numbers ie food supply also affect predator numbers
+relationship b coincidentaledit
+two variables arent related correlate chance things correlate chance confidence level things examined likely two unrelated variables appear related example result last home game washington redskins prior presidential election predicted outcome every presidential election inclusive despite fact outcomes football games nothing outcome popular election streak finally broken using alternative formulation original rule
+determining causationedit
+academiaedit
+point view correlation implies causation may regarded theory causality somewhat inherent field statistics within academia whole nature causality systematically investigated several academic disciplines including philosophy physics
+academia significant number theories causality oxford handbook causation beebee hitchcock menzies encompasses pages among influential theories within philosophy aristotles four causes alghazalis occasionalism david hume argued causality based experience experience similarly based assumption future models past turn based experience leading circular logic conclusion asserted causality based actual reasoning correlation actually perceived immanuel kant according beebee hitchcock menzies held causal principle according every event cause follows according causal law cannot established induction purely empirical claim since would lack strict universality necessity
+outside field philosophy theories causation identified classical mechanics statistical mechanics quantum mechanics spacetime theories biology social sciences law establish correlation causal within physics normally understood cause effect must connect local mechanism cf instance concept impact nonlocal mechanism cf concept field accordance known laws nature
+point view thermodynamics universal properties causes compared effects identified second law thermodynamics confirming ancient medieval cartesian view cause greater effect particular case thermodynamic free energy turn challenged popular interpretations concepts nonlinear systems butterfly effect small events cause large effects due respectively unpredictability unlikely triggering large amounts potential energy
+causality construed counterfactual statesedit
+intuitively causation seems require correlation counterfactual dependence suppose student performed poorly test guesses cause studying prove one thinks counterfactual student writing test circumstances studied night one could rewind history change one small thing making student study exam causation could observed comparing version version one cannot rewind history replay events making small controlled changes causation inferred never exactly known referred fundamental problem causal inference impossible directly observe causal effects
+major goal scientific experiments statistical methods approximate best possible counterfactual state world example one could run experiment identical twins known consistently get grades tests one twin sent study six hours sent amusement park test scores suddenly diverged large degree would strong evidence studying going amusement park causal effect test scores case correlation studying test scores would almost certainly imply causation
+welldesigned experimental studies replace equality individuals previous example equality groups objective construct two groups similar except treatment groups receive achieved selecting subjects single population randomly assigning two groups likelihood groups behaving similarly one another average rises number subjects group groups essentially equivalent except treatment receive difference outcome groups observed constitutes evidence treatment responsible outcome words treatment causes observed effect however observed effect could also caused chance example result random perturbations population statistical tests exist quantify likelihood erroneously concluding observed difference exists fact example see pvalue
+causality predicted extrapolation trendsedit
+experimental studies impossible preexisting data available usually case example economics regression analysis used factors potential causative variable interest controlled including regressors addition regressor representing variable interest false inferences causation due reverse causation wrong estimates magnitude causation due presence bidirectional causation avoided using explanators regressors necessarily exogenous physical explanators like rainfall amount determinant say futures prices lagged variables whose values determined dependent variables value determined instrumental variables explanators chosen based known exogeneity etc see causalitystatistics economics spurious correlation due mutual influence third common causative variable harder avoid model must specified theoretical reason believe underlying causative variable omitted model particular underlying time trends dependent variable independent potentially causative variable must controlled including time another independent variable
+use correlation scientific evidenceedit
+much scientific evidence based upon correlation variables observed occur together scientists careful point correlation necessarily mean causation assumption causes b simply correlates b often accepted legitimate form argument
+however sometimes people commit opposite fallacy dismissing correlation entirely suggest causation would dismiss large swath important scientific evidence since may difficult ethically impossible run controlled doubleblind studies correlational evidence several different angles may strongest causal evidence available combination limited available methodologies dismissing correlation fallacy occasion used counter scientific finding example tobacco industry historically relied dismissal correlational evidence reject link tobacco lung cancer
+correlation valuable type scientific evidence fields medicine psychology sociology first correlations must confirmed real every possible causative relationship must systematically explored end correlation used powerful evidence causeandeffect relationship treatment benefit risk factor disease social economic factor various outcomes also one abused types evidence easy even tempting come premature conclusions based upon preliminary appearance correlation
+correlations used bells theorem disprove local causality
+see alsoedit
+affirming consequent
+bradford hill criteria
+causal inference
+chain reaction
+confirmation bias
+confounding
+design experiments
+domino effect
+ecological fallacy
+epidemiological method
+epidemiology
+pirates global warming
+four causes
+jumping conclusions
+mierscheid law
+molecular pathology
+molecular pathological epidemiology
+normally distributed uncorrelated imply independent
+observational study
+occams razor
+pathogenesis
+pathology
+post hoc ergo propter hoc
+synchronicity
+referencesedit
+bibliographyedit
+beebee helen hitchcock christopher menzies peter oxford handbook causation oxford university press isbn
+tufte edward r cognitive style powerpoint pitching corrupts within nd ed cheshire connecticut graphics press isbn
+external linksedit
+art science cause effect slide show tutorial lecture judea pearl
+causal inference statistics overview judea pearl september
+spurious correlations site searching showing correlations
+everyone know statistical correlation

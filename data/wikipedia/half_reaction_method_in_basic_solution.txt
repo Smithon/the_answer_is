@@ -1,0 +1,154 @@
+redox is a contraction of the name for chemical reduction-oxidation reaction a reduction reaction always occurs with an oxidation reaction redox reactions include all chemical reactions in which atoms have their oxidation state changed; in general redox reactions involve the transfer of electrons between chemical species the chemical species from which the electron is stripped is said to have been oxidized while the chemical species to which the electron is added is said to have been reduced oxygen is not necessarily included in such reactions as other chemical species can serve the same function
+the term "redox" comes from two concepts involved with electron transfer: reduction and oxidation it can be explained in simple terms:
+oxidation is the loss of electrons or an increase in oxidation state by a molecule atom or ion
+reduction is the gain of electrons or a decrease in oxidation state by a molecule atom or ion
+although oxidation reactions are commonly associated with the formation of oxides from oxygen molecules these are only specific examples of a more general concept of reactions involving electron transfer
+redox reactions or oxidation-reduction reactions have a number of similarities to acidbase reactions like acidbase reactions redox reactions are a matched set that is there cannot be an oxidation reaction without a reduction reaction happening simultaneously the oxidation alone and the reduction alone are each called a half-reaction because two half-reactions always occur together to form a whole reaction when writing half-reactions the gained or lost electrons are typically included explicitly in order that the half-reaction be balanced with respect to electric charge
+though sufficient for many purposes these descriptions are not precisely correct oxidation and reduction properly refer to a change in oxidation state the actual transfer of electrons may never occur the oxidation state of an atom is the fictitious charge that an atom would have if all bonds between atoms of different elements were 100% ionic thus oxidation is better defined as an increase in oxidation state and reduction as a decrease in oxidation state in practice the transfer of electrons will always cause a change in oxidation state but there are many reactions that are classed as "redox" even though no electron transfer occurs (such as those involving covalent bonds)
+there are simple redox processes such as the oxidation of carbon to yield carbon dioxide (co
+2) or the reduction of carbon by hydrogen to yield methane (ch4) and more complex processes such as the oxidation of glucose (c6h12o6) in the human body through a series of complex electron transfer processes
+== etymologyedit ==
+"redox" is a combination of "reduction" and "oxidation"
+the word oxidation originally implied reaction with oxygen to form an oxide since dioxygen (o2 (g)) was historically the first recognized oxidizing agent later the term was expanded to encompass oxygen-like substances that accomplished parallel chemical reactions ultimately the meaning was generalized to include all processes involving loss of electrons
+the word reduction originally referred to the loss in weight upon heating a metallic ore such as a metal oxide to extract the metal in other words ore was "reduced" to metal antoine lavoisier (17431794) showed that this loss of weight was due to the loss of oxygen as a gas later scientists realized that the metal atom gains electrons in this process the meaning of reduction then became generalized to include all processes involving gain of electrons even though "reduction" seems counter-intuitive when speaking of the gain of electrons it might help to think of reduction as the loss of oxygen which was its historical meaning
+the electrochemist john bockris has used the words electronation and deelectronation to describe reduction and oxidation processes respectively when they occur at electrodes these words are analogous to protonation and deprotonation but they have not been widely adopted by chemists
+the term "hydrogenation" could be used instead of reduction since hydrogen is the reducing agent in a large number of reactions especially in organic chemistry and biochemistry but unlike oxidation which has been generalized beyond its root element hydrogenation has maintained its specific connection to reactions that add hydrogen to another substance (e.g. the hydrogenation of unsaturated fats in saturated fats r-ch=ch-r + h2 r-ch2-ch2-r) the word "redox" was first used in 1928
+== oxidizing and reducing agentsedit ==
+in redox processes the reductant transfers electrons to the oxidant thus in the reaction the reductant or reducing agent loses electrons and is oxidized and the oxidant or oxidizing agent gains electrons and is reduced the pair of an oxidizing and reducing agent that are involved in a particular reaction is called a redox pair a redox couple is a reducing species and its corresponding oxidized form e.g. fe2+/fe3+
+=== oxidizersedit ===
+substances that have the ability to oxidize other substances (cause them to lose electrons) are said to be oxidative or oxidizing and are known as oxidizing agents oxidants or oxidizers that is the oxidant (oxidizing agent) removes electrons from another substance and is thus itself reduced and because it "accepts" electrons the oxidizing agent is also called an electron acceptor oxygen is the quintessential oxidizer
+oxidants are usually chemical substances with elements in high oxidation states (e.g. h
+2o
+2 mno
+4 cro
+3 cr
+2o2
+7 oso
+4) or else highly electronegative elements (o2 f2 cl2 br2) that can gain extra electrons by oxidizing another substance
+=== reducersedit ===
+substances that have the ability to reduce other substances (cause them to gain electrons) are said to be reductive or reducing and are known as reducing agents reductants or reducers the reductant (reducing agent) transfers electrons to another substance and is thus itself oxidized and because it "donates" electrons the reducing agent is also called an electron donor electron donors can also form charge transfer complexes with electron acceptors
+reductants in chemistry are very diverse electropositive elemental metals such as lithium sodium magnesium iron zinc and aluminium are good reducing agents these metals donate or give away electrons readily hydride transfer reagents such as nabh4 and lialh4 are widely used in organic chemistry primarily in the reduction of carbonyl compounds to alcohols another method of reduction involves the use of hydrogen gas (h2) with a palladium platinum or nickel catalyst these catalytic reductions are used primarily in the reduction of carbon-carbon double or triple bonds
+== standard electrode potentials (reduction potentials)edit ==
+each half-reaction has a standard electrode potential (e0cell) which is equal to the potential difference (or voltage) (e0cell) at equilibrium under standard conditions of an electrochemical cell in which the cathode reaction is the half-reaction considered and the anode is a standard hydrogen electrode where hydrogen is oxidized: h2 h+ + e
+the electrode potential of each half-reaction is also known as its reduction potential e0red or potential when the half-reaction takes place at a cathode the reduction potential is a measure of the tendency of the oxidizing agent to be reduced its value is zero for h+ + e h2 by definition positive for oxidizing agents stronger than h+ (e.g. +2.866 v for f2) and negative for oxidizing agents that are weaker than h+ (e.g. 0.763 v for zn2+)
+for a redox reaction that takes place in a cell the potential difference e0cell = e0cathode e0anode
+however the potential of the reaction at the anode was sometimes expressed as an oxidation potential e0ox = e0 the oxidation potential is a measure of the tendency of the reducing agent to be oxidized but does not represent the physical potential at an electrode with this notation the cell voltage equation is written with a plus sign e0cell = e0cathode + e0ox (anode)
+== examples of redox reactionsedit ==
+a good example is the reaction between hydrogen and fluorine in which hydrogen is being oxidized and fluorine is being reduced:
+h
+2 + f
+2 2 hf
+we can write this overall reaction as two half-reactions:
+the oxidation reaction:
+h
+2 2 h+ + 2 e
+and the reduction reaction:
+f
+2 + 2 e 2 f
+analyzing each half-reaction in isolation can often make the overall chemical process clearer because there is no net change in charge during a redox reaction the number of electrons in excess in the oxidation reaction must equal the number consumed by the reduction reaction (as shown above)
+elements even in molecular form always have an oxidation state of zero in the first half-reaction hydrogen is oxidized from an oxidation state of zero to an oxidation state of +1 in the second half-reaction fluorine is reduced from an oxidation state of zero to an oxidation state of 1
+when adding the reactions together the electrons are canceled:
+and the ions combine to form hydrogen fluoride:
+2 h+ + 2 f 2 hf
+the overall reaction is:
+h
+2 + f
+2 2 hf
+=== metal displacementedit ===
+in this type of reaction a metal atom in a compound (or in a solution) is replaced by an atom of another metal for example copper is deposited when zinc metal is placed in a copper(ii) sulfate solution:
+zn(s)+ cuso4(aq) znso4(aq) + cu(s)
+in the above reaction zinc metal displaces the copper(ii) ion from copper sulfate solution and thus liberates free copper metal
+the ionic equation for this reaction is:
+zn + cu2+ zn2+ + cu
+as two half-reactions it is seen that the zinc is oxidized:
+zn zn2+ + 2 e
+and the copper is reduced:
+cu2+ + 2 e cu
+=== other examplesedit ===
+the reduction of nitrate to nitrogen in the presence of an acid (denitrification):
+2 no3 + 10 e + 12 h+ n2 + 6 h2o
+the combustion of hydrocarbons such as in an internal combustion engine which produces water carbon dioxide some partially oxidized forms such as carbon monoxide and heat energy complete oxidation of materials containing carbon produces carbon dioxide
+in organic chemistry the stepwise oxidation of a hydrocarbon by oxygen produces water and successively an alcohol an aldehyde or a ketone a carboxylic acid and then a peroxide
+==== corrosion and rustingedit ====
+the term corrosion refers to the electrochemical oxidation of metals in reaction with an oxidant such as oxygen rusting the formation of iron oxides is a well-known example of electrochemical corrosion; it forms as a result of the oxidation of iron metal common rust often refers to iron(iii) oxide formed in the following chemical reaction:
+4fe + 3o2 2fe2o3
+the oxidation of iron(ii) to iron(iii) by hydrogen peroxide in the presence of an acid:
+fe2+ fe3+ + e
+h2o2 + 2 e 2 oh
+overall equation:
+2 fe2+ + h2o2 + 2 h+ 2 fe3+ + 2 h2o
+== redox reactions in industryedit ==
+cathodic protection is a technique used to control the corrosion of a metal surface by making it the cathode of an electrochemical cell a simple method of protection connects protected metal to a more easily corroded "sacrificial anode" to act as the anode the sacrificial metal instead of the protected metal then corrodes a common application of cathodic protection is in galvanized steel in which a sacrificial coating of zinc on steel parts protects them from rust
+the primary process of reducing ore at high temperature to produce metals is known as smelting
+oxidation is used in a wide variety of industries such as in the production of cleaning products and oxidizing ammonia to produce nitric acid which is used in most fertilizers
+redox reactions are the foundation of electrochemical cells
+the process of electroplating uses redox reactions to coat objects with a thin layer of a material as in chrome-plated automotive parts silver plating cutlery and gold-plated jewelry
+the production of compact discs depends on a redox reaction which coats the disc with a thin layer of metal film
+== redox reactions in biologyedit ==
+many important biological processes involve redox reactions
+cellular respiration for instance is the oxidation of glucose (c6h12o6) to co2 and the reduction of oxygen to water the summary equation for cell respiration is:
+c6h12o6 + 6 o2 6 co2 + 6 h2o
+the process of cell respiration also depends heavily on the reduction of nad+ to nadh and the reverse reaction (the oxidation of nadh to nad+) photosynthesis and cellular respiration are complementary but photosynthesis is not the reverse of the redox reaction in cell respiration:
+6 co2 + 6 h2o + light energy c6h12o6 + 6 o2
+biological energy is frequently stored and released by means of redox reactions photosynthesis involves the reduction of carbon dioxide into sugars and the oxidation of water into molecular oxygen the reverse reaction respiration oxidizes sugars to produce carbon dioxide and water as intermediate steps the reduced carbon compounds are used to reduce nicotinamide adenine dinucleotide (nad+) which then contributes to the creation of a proton gradient which drives the synthesis of adenosine triphosphate (atp) and is maintained by the reduction of oxygen in animal cells mitochondria perform similar functions see the membrane potential article
+free radical reactions are redox reactions that occur as a part of homeostasis and killing microorganisms where an electron detaches from a molecule and then reattaches almost instantaneously free radicals are a part of redox molecules and can become harmful to the human body if they do not reattach to the redox molecule or an antioxidant unsatisfied free radicals can spur the mutation of cells they encounter and are thus causes of cancer
+the term redox state is often used to describe the balance of gsh/gssg nad+/nadh and nadp+/nadph in a biological system such as a cell or organ the redox state is reflected in the balance of several sets of metabolites (e.g. lactate and pyruvate beta-hydroxybutyrate and acetoacetate) whose interconversion is dependent on these ratios an abnormal redox state can develop in a variety of deleterious situations such as hypoxia shock and sepsis redox mechanism also control some cellular processes redox proteins and their genes must be co-located for redox regulation according to the corr hypothesis for the function of dna in mitochondria and chloroplasts
+=== redox cyclingedit ===
+a wide variety of aromatic compounds are enzymatically reduced to form free radicals that contain one more electron than their parent compounds in general the electron donor is any of a wide variety of flavoenzymes and their coenzymes once formed these anion free radicals reduce molecular oxygen to superoxide and regenerate the unchanged parent compound the net reaction is the oxidation of the flavoenzyme's coenzymes and the reduction of molecular oxygen to form superoxide this catalytic behavior has been described as futile cycle or redox cycling
+examples of redox cycling-inducing molecules are the herbicide paraquat and other viologens and quinones such as menadione
+== redox reactions in geologyedit ==
+in geology redox is important to both the formation of minerals and the mobilization of minerals and is also important in some depositional environments in general the redox state of most rocks can be seen in the color of the rock the rock forms in oxidizing conditions giving it a red color it is then "bleached" to a greenor sometimes whiteform when a reducing fluid passes through the rock the reduced fluid can also carry uranium-bearing minerals famous examples of redox conditions affecting geological processes include uranium deposits and moqui marbles
+== balancing redox reactionsedit ==
+describing the overall electrochemical reaction for a redox process requires a balancing of the component half-reactions for oxidation and reduction in general for reactions in aqueous solution this involves adding h+ oh h2o and electrons to compensate for the oxidation changes
+=== acidic mediaedit ===
+in acidic media h+ ions and water are added to half-reactions to balance the overall reaction
+for instance when manganese(ii) reacts with sodium bismuthate:
+the reaction is balanced by scaling the two half-cell reactions to involve the same number of electrons (multiplying the oxidation reaction by the number of electrons in the reduction step and vice versa):
+8 h
+2o(l) + 2 mn2+(aq) 2 mno
+4(aq) + 16 h+(aq) + 10 e
+10 e + 30 h+ + 5 bio
+3(s) 5 bi3+(aq) + 15 h
+2o(l)
+adding these two reactions eliminates the electrons terms and yields the balanced reaction:
+14 h+(aq) + 2 mn2+(aq) + 5 nabio
+3(s) 7 h
+2o(l) + 2 mno
+4(aq) + 5 bi3+(aq) + 5 na+(aq)
+=== basic mediaedit ===
+in basic media oh ions and water are added to half reactions to balance the overall reaction
+for example in the reaction between potassium permanganate and sodium sulfite:
+balancing the number of electrons in the two half-cell reactions gives:
+6 e + 4 h
+2o + 2 mno
+4 2 mno
+2 + 8 oh
+6 oh + 3 so
+32 3 so
+42 + 3 h
+2o + 6 e
+adding these two half-cell reactions together gives the balanced equation:
+2 kmno
+4 + 3 na
+2so
+3 + h
+2o 2 mno
+2 + 3 na
+2so
+4 + 2 koh
+== memory aidsedit ==
+the key terms involved in redox are often confusing to students for example an element that is oxidized loses electrons; however that element is referred to as the reducing agent likewise an element that is reduced gains electrons and is referred to as the oxidizing agent acronyms or mnemonics are commonly used to help remember what is happening:
+"oil rig"oxidation is loss of electrons reduction is gain of electrons
+"leo the lion says ger" loss of electrons is oxidation gain of electrons is reduction
+"leora says geroa" loss of electrons is oxidation (reducing agent) gain of electrons is reduction (oxidizing agent)
+"red cat" and "an ox" or "anox redcat" ("an ox-red cat") reduction occurs at the cathode and the anode is for oxidation
+"red cat gains what an ox loses" reduction occurs at the cathode gains (electrons) what anode oxidation loses (electrons)
+== see alsoedit ==
+== referencesedit ==
+sources
+== external linksedit ==
+chemical equation balancer an open source chemical equation balancer that handles redox reactions
+video synthesis of copper(ii) acetate 20 feb 2009
+redox reactions calculator
+redox reactions at chemguide
+online redox reaction equation balancer balances equations of any half-cell and full reactions

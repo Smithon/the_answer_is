@@ -1,0 +1,52 @@
+the standard hydrogen electrode (abbreviated she) is a redox electrode which forms the basis of the thermodynamic scale of oxidation-reduction potentials its absolute electrode potential is estimated to be 4.44 0.02 v at 25 c but to form a basis for comparison with all other electrode reactions hydrogen's standard electrode potential (e0) is declared to be zero at all temperatures potentials of any other electrodes are compared with that of the standard hydrogen electrode at the same temperature
+hydrogen electrode is based on the redox half cell:
+2h+(aq) + 2e h2(g)
+this redox reaction occurs at a platinized platinum electrode the electrode is dipped in an acidic solution and pure hydrogen gas is bubbled through it the concentration of both the reduced form and oxidised form is maintained at unity that implies that the pressure of hydrogen gas is 1 bar and the activity of hydrogen ions in the solution is unity the activity of hydrogen ions is their effective concentration which is equal to the formal concentration times the activity coefficient these unit-less activity coefficients are close to 1.00 for very dilute water solutions but usually lower for more concentrated solutions the nernst equation should be written as:
+or
+where:
+ah+ is the activity of the hydrogen ions ah+=fh+ ch+ /c0
+ph2 is the partial pressure of the hydrogen gas in pascals pa
+r is the universal gas constant
+t is the temperature in kelvins
+f is the faraday constant (the charge per a mole of electrons) equal to 9.6485309*104 c mol1
+p0 is the standard pressure 105 in pa
+== relationship between the normal hydrogen electrode (nhe) and the standard hydrogen electrode (she) ==
+during the early development of electrochemistry researchers used the normal hydrogen electrode as their standard for zero potential this was convenient because it could actually be constructed by having "[immersing] a platinum electrode into a solution of 1n strong acid and [bubbling] hydrogen gas through the solution at about 1 atm pressure" however this electrode/solution interface was not entirely reproducible so the standard for zero potential was later changed what replaced it was a theoretical electrode/solution interface where the concentration of h+ was 1m but the h+ ions were assumed to have no interaction with other ions (a condition not physically attainable at those concentrations) to differentiate this new standard from the previous one it was given the name 'standard hydrogen electrode'
+in summary
+nhe: potential of a platinum electrode in 1n acid solution
+she: potential of a platinum electrode in a theoretical solution (the current standard for zero potential)
+== choice of platinum ==
+the choice of platinum for the hydrogen electrode is due to several factors:
+inertness of platinum (it does not corrode)
+the capability of platinum to catalyze the reaction of proton reduction
+a high intrinsic exchange current density for proton reduction on platinum
+excellent reproducibility of the potential (bias of less than 10 v when two well-made hydrogen electrodes are compared with one another)
+the surface of platinum is platinized (i.e. covered with platinum black) to:
+increase total surface area this improves reaction kinetics and maximum possible current
+use a surface material that adsorbs hydrogen well at its interface this also improves reaction kinetics
+other metals can be used for building electrodes with a similar function such as the palladium-hydrogen electrode
+== interference ==
+because of the high adsorption activity of the platinized platinum electrode it's very important to protect electrode surface and solution from the presence of organic substances as well as from atmospheric oxygen inorganic ions that can reduce to a lower valency state at the electrode also have to be avoided (e.g. fe3+ cro42) a number of organic substances are also reduced by hydrogen at a platinum surface and these also have to be avoided
+cations that can reduce and deposit on the platinum can be source of interference: silver mercury copper lead cadmium and thallium
+substances that can inactivate ("poison") the catalytic sites include arsenic sulfides and other sulfur compounds colloidal substances alkaloids and material found in living systems
+== isotopic effect ==
+the standard redox potential of the deuterium couple is slightly different from that of proton couple (ca -0.0044 v vs she) various values in this range have been obtained -0.0061 v -0.00431 v -0.0074
+2d+(aq) + 2e d2(g)
+also difference occur when hydrogen deuteride is used instead of hydrogen in the electrode
+== construction ==
+the scheme of the standard hydrogen electrode:
+platinized platinum electrode
+hydrogen blow
+solution of the acid with activity of h+ = 1 mol dm3
+hydroseal for prevention of the oxygen interference
+reservoir through which the second half-element of the galvanic cell should be attached the connection can be direct through a narrow tube to reduce mixing or through a salt bridge depending on the other electrode and solution this creates an ionically conductive path to the working electrode of interest
+== see also ==
+table of standard electrode potentials
+reversible hydrogen electrode
+palladium-hydrogen electrode
+reference electrode
+dynamic hydrogen electrode
+quinhydrone electrode
+== references ==
+== external links ==
+journal of electroanalytical chemistry

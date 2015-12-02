@@ -1,0 +1,124 @@
+differential equation mathematical equation relates function derivatives applications functions usually represent physical quantities derivatives represent rates change equation defines relationship two relations extremely common differential equations play prominent role many disciplines including engineering physics economics biology
+pure mathematics differential equations studied several different perspectives mostly concerned solutionsthe set functions satisfy equation simplest differential equations solvable explicit formulas however properties solutions given differential equation may determined without finding exact form
+selfcontained formula solution available solution may numerically approximated using computers theory dynamical systems puts emphasis qualitative analysis systems described differential equations many numerical methods developed determine solutions given degree accuracy
+history
+differential equations first came existence invention calculus newton leibniz chapter work methodus fluxionum et serierum infinitarum isaac newton listed three kinds differential equations
+solves examples others using infinite series discusses nonuniqueness solutions
+jacob bernoulli proposed bernoulli differential equation ordinary differential equation form
+following year leibniz obtained solutions simplifying
+historically problem vibrating string musical instrument studied jean le rond dalembert leonhard euler daniel bernoulli josephlouis lagrange dalembert discovered onedimensional wave equation within ten years euler discovered threedimensional wave equation
+eulerlagrange equation developed euler lagrange connection studies tautochrone problem problem determining curve weighted particle fall fixed point fixed amount time independent starting point
+lagrange solved problem sent solution euler developed lagranges method applied mechanics led formulation lagrangian mechanics
+fourier published work heat flow thorie analytique de la chaleur analytic theory heat based reasoning newtons law cooling namely flow heat two adjacent molecules proportional extremely small difference temperatures contained book fouriers proposal heat equation conductive diffusion heat partial differential equation taught every student mathematical physics
+example
+example classical mechanics motion body described position velocity time value varies newtons laws allow given position velocity acceleration various forces acting body one express variables dynamically differential equation unknown position body function time
+cases differential equation called equation motion may solved explicitly
+example modelling real world problem using differential equations determination velocity ball falling air considering gravity air resistance balls acceleration towards ground acceleration due gravity minus acceleration due air resistance
+gravity considered constant air resistance may modeled proportional balls velocity means balls acceleration derivative velocity depends velocity velocity depends time finding velocity function time involves solving differential equation verifying validity
+main topics
+ordinary differential equations
+ordinary differential equation ode equation containing function one independent variable derivatives term ordinary used contrast term partial differential equation may respect one independent variable
+linear differential equations solutions added multiplied coefficients welldefined understood exact closedform solutions obtained contrast odes lack additive solutions nonlinear solving far intricate one rarely represent elementary functions closed form instead exact analytic solutions odes series integral form graphical numerical methods applied hand computer may approximate solutions odes perhaps yield useful information often sufficing absence exact analytic solutions
+partial differential equations
+partial differential equation pde differential equation contains unknown multivariable functions partial derivatives contrast ordinary differential equations deal functions single variable derivatives pdes used formulate problems involving functions several variables either solved hand used create relevant computer model
+pdes used describe wide variety phenomena sound heat electrostatics electrodynamics fluid flow elasticity quantum mechanics seemingly distinct physical phenomena formalised similarly terms pdes ordinary differential equations often model onedimensional dynamical systems partial differential equations often model multidimensional systems pdes find generalisation stochastic partial differential equations
+linear nonlinear
+ordinary partial differential equations broadly classified linear nonlinear
+differential equation linear unknown function derivatives appear power products unknown function derivatives allowed nonlinear otherwise characteristic property linear equations solutions form affine subspace appropriate function space results much developed theory linear differential equations homogeneous linear differential equations subclass space solutions linear subspace ie sum set solutions multiples solutions also solution coefficients unknown function derivatives linear differential equation allowed known functions independent variable variables coefficients constants one speaks constant coefficient linear differential equation
+methods solving nonlinear differential equations exactly known typically depend equation particular symmetries nonlinear differential equations exhibit complicated behavior extended time intervals characteristic chaos even fundamental questions existence uniqueness extendability solutions nonlinear differential equations wellposedness initial boundary value problems nonlinear pdes hard problems resolution special cases considered significant advance mathematical theory cf navierstokes existence smoothness however differential equation correctly formulated representation meaningful physical process one expects solution
+linear differential equations frequently appear approximations nonlinear equations approximations valid restricted conditions example harmonic oscillator equation approximation nonlinear pendulum equation valid small amplitude oscillations see
+examples
+first group examples let u unknown function x c known constants
+inhomogeneous firstorder linear constant coefficient ordinary differential equation
+homogeneous secondorder linear ordinary differential equation
+homogeneous secondorder linear constant coefficient ordinary differential equation describing harmonic oscillator
+inhomogeneous firstorder nonlinear ordinary differential equation
+secondorder nonlinear due sine function ordinary differential equation describing motion pendulum length l
+next group examples unknown function u depends two variables x x y
+homogeneous firstorder linear partial differential equation
+homogeneous secondorder linear constant coefficient partial differential equation elliptic type laplace equation
+thirdorder nonlinear partial differential equation kortewegde vries equation
+existence solutions
+solving differential equations like solving algebraic equations solutions oftentimes unclear whether solutions unique exist also notable subjects interest
+first order initial value problems peano existence theorem gives one set circumstances solution exists given point xyplane define rectangular region interior given differential equation condition locally solution problem continuous solution exists interval center solution may unique see ordinary differential equation results
+however helps us first order initial value problems suppose linear initial value problem nth order
+nonzero continuous interval containing unique exists
+related concepts
+delay differential equation dde equation function single variable usually called time derivative function certain time given terms values function earlier times
+stochastic differential equation sde equation unknown quantity stochastic process equation involves known stochastic processes example wiener process case diffusion equations
+differential algebraic equation dae differential equation comprising differential algebraic terms given implicit form
+connection difference equations
+theory differential equations closely related theory difference equations coordinates assume discrete values relationship involves values unknown function functions values nearby coordinates many methods compute numerical solutions differential equations study properties differential equations involve approximation solution differential equation solution corresponding difference equation
+applications
+study differential equations wide field pure applied mathematics physics engineering disciplines concerned properties differential equations various types pure mathematics focuses existence uniqueness solutions applied mathematics emphasizes rigorous justification methods approximating solutions differential equations play important role modelling virtually every physical technical biological process celestial motion bridge design interactions neurons differential equations used solve reallife problems may necessarily directly solvable ie closed form solutions instead solutions approximated using numerical methods
+many fundamental laws physics chemistry formulated differential equations biology economics differential equations used model behavior complex systems mathematical theory differential equations first developed together sciences equations originated results found application however diverse problems sometimes originating quite distinct scientific fields may give rise identical differential equations whenever happens mathematical theory behind equations viewed unifying principle behind diverse phenomena example consider propagation light sound atmosphere waves surface pond may described secondorder partial differential equation wave equation allows us think light sound forms waves much like familiar waves water conduction heat theory developed joseph fourier governed another secondorder partial differential equation heat equation turns many diffusion processes seemingly different described equation blackscholes equation finance instance related heat equation
+physics
+eulerlagrange equation classical mechanics
+hamiltons equations classical mechanics
+radioactive decay nuclear physics
+newtons law cooling thermodynamics
+wave equation
+heat equation thermodynamics
+laplaces equation defines harmonic functions
+poissons equation
+geodesic equation
+navierstokes equations fluid dynamics
+diffusion equation stochastic processes
+convectiondiffusion equation fluid dynamics
+cauchyriemann equations complex analysis
+poissonboltzmann equation molecular dynamics
+shallow water equations
+universal differential equation
+lorenz equations whose solutions exhibit chaotic flow
+classical mechanics
+long force acting particle known newtons second law sufficient describe motion particle independent relations force acting particle available substituted newtons second law obtain ordinary differential equation called equation motion
+electrodynamics
+maxwells equations set partial differential equations together lorentz force law form foundation classical electrodynamics classical optics electric circuits fields turn underlie modern electrical communications technologies maxwells equations describe electric magnetic fields generated altered charges currents named scottish physicist mathematician james clerk maxwell published early form equations
+general relativity
+einstein field equations efe also known einsteins equations set ten partial differential equations albert einsteins general theory relativity describe fundamental interaction gravitation result spacetime curved matter energy first published einstein tensor equation efe equate local spacetime curvature expressed einstein tensor local energy momentum within spacetime expressed stressenergy tensor
+quantum mechanics
+quantum mechanics analogue newtons law schrdingers equation partial differential equation quantum system usually atoms molecules subatomic particles whether free bound localized simple algebraic equation general linear partial differential equation describing timeevolution systems wave function also called state function
+biology
+verhulst equation biological population growth
+von bertalanffy model biological individual growth
+replicator dynamics found theoretical biology
+hodgkinhuxley model neural action potentials
+predatorprey equations
+lotkavolterra equations also known predatorprey equations pair firstorder nonlinear differential equations frequently used describe dynamics biological systems two species interact one predator prey
+chemistry
+rate law rate equation chemical reaction differential equation links reaction rate concentrations pressures reactants constant parameters normally rate coefficients partial reaction orders determine rate equation particular system one combines reaction rate mass balance system
+economics
+key equation solowswan model
+blackscholes pde
+malthusian growth model
+vidalewolfe advertising model
+see also
+complex differential equation
+exact differential equation
+initial condition
+integral equations
+numerical methods
+picardlindelf theorem existence uniqueness solutions
+recurrence relation also known difference equation
+references
+reading
+p abbott h neill teach calculus pages
+p blanchard r l devaney g r hall differential equations thompson
+e coddington n levinson theory ordinary differential equations mcgrawhill
+e l ince ordinary differential equations dover publications
+w johnson treatise ordinary partial differential equations john wiley sons university michigan historical math collection
+d polyanin v f zaitsev handbook exact solutions ordinary differential equations nd edition chapman hallcrc press boca raton isbn
+r porter elementary analysis chapter xix differential equations
+teschl gerald ordinary differential equations dynamical systems providence american mathematical society isbn
+d zwillinger handbook differential equations rd edition academic press boston
+external links
+lectures differential equations mit open courseware videos
+online notes differential equations paul dawkins lamar university
+differential equations sos mathematics
+introduction modeling via differential equations introduction modeling means differential equations critical remarks
+mathematical assistant web symbolic ode tool using maxima
+exact solutions ordinary differential equations
+collection ode dae models physical systems matlab models
+notes diffy qs differential equations engineers introductory textbook differential equations jiri lebl uiuc
+khan academy video playlist differential equations topics covered first year course differential equations
+mathdiscuss video playlist differential equations

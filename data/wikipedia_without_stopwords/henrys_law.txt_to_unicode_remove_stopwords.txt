@@ -1,0 +1,92 @@
+chemistry henrys law one gas laws formulated english chemist william henry studied topic early th century publication quantity gases absorbed water described results experiments
+water takes gas condensed one two additional atmospheres quantity ordinarily compressed would equal twice thrice c volume absorbed common pressure atmosphere
+words amount dissolved gas proportional partial pressure gas phase proportionality factor called henrys law constant
+everyday example henrys law given carbonated soft drink bottle opened gas drink almost pure carbon dioxide pressure higher atmospheric pressure drink contains dissolved carbon dioxide bottle opened gas escapes giving characteristic hiss partial pressure carbon dioxide liquid much lower dissolved carbon dioxide comes solution bubbles drink left open concentration carbon dioxide solution come equilibrium carbon dioxide air drink go flat another example depthdependent dissolution oxygen nitrogen blood underwater divers decompression decompression sickness
+fundamental types variants henrys law constantsedit
+many ways define proportionality constant henrys law subdivided two fundamental types one possibility put aqueous phase numerator gas phase denominator aqgas results henrys law solubility constant value increases increased solubility alternatively numerator denominator switched gasaq results henrys law volatility constant value decreases increased solubility several variants fundamental types results multiplicity quantities chosen describe composition two phases typical choices aqueous phase molar concentration molality molar mixing ratio gas phase molar concentration partial pressure often used possible use gasphase mixing ratio given gasphase mixing ratio aqueousphase concentration depends total pressure thus ratio constant specify exact variant henrys law constant two superscripts used refer numerator denominator definition example refers henry solubility defined
+henrys law solubility constants edit
+henry solubility defined via concentration edit
+atmospheric chemists often define henry solubility
+concentration species aqueous phase partial pressure species gas phase equilibrium conditions
+si unit mol m pa however often unit m atm used since usually expressed m m mol dm atm atm pa
+dimensionless henry solubility edit
+henry solubility also expressed dimensionless ratio aqueousphase concentration species gasphase concentration
+ideal gas conversion
+gas constant temperature
+sometimes dimensionless constant called waterair partitioning coefficient closely related various slightly different definitions ostwald coefficient discussed battino
+henry solubility defined via aqueousphase mixing ratio edit
+another henrys law solubility constant
+molar mixing ratio aqueous phase dilute aqueous solution conversion
+density water molar mass water thus
+si unit pa however atm still frequently used
+henry solubility defined via molality edit
+advantageous describe aqueous phase terms molality instead concentration molality solution change since refers mass solvent contrast concentration change since density solution thus volume temperaturedependent defining aqueousphase composition via molality advantage temperature dependence henrys law constant true solubility phenomenon introduced indirectly via density change solution using molality henry solubility defined
+used symbol molality instead avoid confusion symbol mass si unit mol kg pa simple way calculate since conversion concentration molality involves solutes solution solution total solutes indices conversion
+density solution molar mass identical one denominator one solute equation simplifies
+henrys law valid dilute solutions case conversion reduces
+thus
+bunsen coefficient edit
+according sazonov shaw dimensionless bunsen coefficient defined volume saturating gas reduced k bar absorbed unit volume pure solvent temperature measurement partial pressure bar gas ideal pressure cancels conversion simply
+k note according definition conversion factor temperaturedependent independent temperature bunsen coefficient refers k always used conversion bunsen coefficient named robert bunsen used mainly older literature
+kuenen coefficient edit
+according sazonov shaw kuenen coefficient defined volume saturating gas reduced k bar dissolved unit mass pure solvent temperature measurement partial pressure bar gas ideal relation
+density solvent k si unit m kg kuenen coefficient named johannes kuenen used mainly older literature iupac considers obsolete
+henrys law volatility constants edit
+henry volatility defined via concentration edit
+common way define henry volatility dividing partial pressure aqueousphase concentration
+si unit pa m mol
+henry volatility defined via aqueousphase mixing ratio edit
+another henry volatility
+si unit pa however atm still frequently used
+dimensionless henry volatility edit
+henry volatility also expressed dimensionless ratio gasphase concentration species aqueousphase concentration
+chemical engineering environmental chemistry dimensionless constant often called airwater partitioning coefficient
+values henrys law constantsedit
+large compilation henrys law constants published sander selected values shown table
+temperature dependenceedit
+temperature system changes henry constant also change temperature dependence equilibrium constants generally described van hoff equation also applies henrys law constants
+enthalpy dissolution note letter symbol refers enthalpy related letter henrys law constants integrating equation creating expression based reference temperature k yields
+vant hoff equation form valid limited temperature range change much temperature
+following table lists temperature dependencies
+solubility permanent gases usually decreases increasing temperature around room temperature however aqueous solutions henrys law solubility constant many species goes minimum permanent gases minimum c often smaller gas molecule lower gas solubility water lower temperature maximum henrys law constant thus maximum c helium c argon nitrogen oxygen c xenon
+effective henrys law constants edit
+henrys law constants mentioned far consider chemical equilibria aqueous phase type called intrinsic physical henrys law constant example intrinsic henrys law solubility constant methanal defined
+aqueous solution methanal almost completely hydrated
+total concentration dissolved methanal
+taking equilibrium account effective henrys law constant defined
+acids bases effective henrys law constant useful quantity depends ph solution order obtain phindependent constant product intrinsic henrys law constant acidity constant often used strong acids like hydrochloric acid
+although usually also called henrys law constant noted different quantity different units
+dependence ionic strength sechenov equationedit
+values henrys law constants aqueous solutions depend composition solution ie ionic strength dissolved organics general solubility gas decreases increasing salinity salting however salting effect also observed example effective henrys law constant glyoxal effect described sechenov equation named russian physiologist ivan sechenov sometimes german transliteration setschenow cyrillic name used many alternative ways define sechenov equation depending aqueousphase composition described based concentration molality molar fraction variant henrys law constant used describing solution terms molality preferred molality invariant temperature addition dry salt solution thus sechenov equation written
+henrys law constant pure water henrys law constant salt solution molalitybased sechenov constant molality salt
+miscellaneousedit
+geochemistryedit
+geochemistry version henrys law applies solubility noble gas contact silicate melt one equation used
+c number concentrations solute gas melt gas phases
+kbt inverse temperature scale kb boltzmann constant
+e excess chemical potentials solute gas two phases
+comparison raoults lawedit
+henrys law limiting law applies sufficiently dilute solutions range concentrations applies becomes narrower system diverges ideal behavior roughly speaking chemically different solute solvent
+dilute solution concentration solute approximately proportional mole fraction x henrys law written
+compared raoults law
+p vapor pressure pure component
+first sight raoults law appears special case henrys law kh p true pairs closely related substances benzene toluene obey raoults law entire composition range mixtures called ideal mixtures
+general case laws limit laws apply opposite ends composition range vapor pressure component large excess solvent dilute solution proportional mole fraction constant proportionality vapor pressure pure substance raoults law vapor pressure solute also proportional solutes mole fraction constant proportionality different must determined experimentally henrys law mathematical terms
+raoults law
+henrys law
+raoults law also related nongas solutes
+standard chemical potentialedit
+henrys law shown apply wide range solutes limit infinite dilution x including nonvolatile substances sucrose cases necessary state law terms chemical potentials solute ideal dilute solution chemical potential depends concentration
+volatile solute co moll
+nonideal solutions activity coefficient c depends concentration must determined concentration interest activity coefficient also obtained nonvolatile solutes vapor pressure pure substance negligible using gibbsduhem relation
+measuring change vapor pressure hence chemical potential solvent chemical potential solute deduced
+standard state dilute solution also defined terms infinitedilution behavior although standard concentration co taken moll convention standard state hypothetical solution moll solute limiting infinitedilution properties effect nonideal behavior described activity coefficient activity coefficient moll necessarily unity frequently quite different unity
+relations also expressed terms molalities b rather concentrations eg
+volatile solute bo molkg
+standard chemical potential mo activity coefficient m henrys law constant khb different numerical values molalities used place concentrations
+see alsoedit
+pervaporation
+partition coefficient
+sieverts law
+henry adsorption constant
+referencesedit

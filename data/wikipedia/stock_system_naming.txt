@@ -1,0 +1,28 @@
+pirasea is an open-source monopoly-based game built and designed by a group of students at the university of kansas
+== about pirasea ==
+pirasea was created around the constraints of having at least four players in addition there are three different maps available these different maps are not selectable by the user but are chosen at random when a new game is started each player has a specific color:
+pirasea also has chance cards which function as they do in monopoly but are generally more beneficial to the players in addition there are other tiles which will add or subtract a set amount of gold if you land on them
+== money ==
+the currency of pirasea is gold you start with 1000 and is reduced by 1 for each space you move this was a gameplay design issue not to mention stays true to the idea that traveling on the ocean requires money for maintenance
+== property ==
+staying true to monopoly pirasea incorporates the idea of purchasable properties the price of a particular property is arbitrary and the properties do not have groupings as they do in monopoly after buying a property the property will then be outlined with the player's color the average price of a property is around 100 gold
+== items ==
+there are 3 different items in pirasea that will either hurt your enemy financially or increase your movement to purchase these items you must land on the store's tile
+=== cannon shot ===
+this must be used when you are on the same tile as an opponent this will damage their ship and cost them 100-150 gold in repairs
+=== mercenaries ===
+although expensive when they are used on an enemy territory there is a chance that control of that property will be transferred to you
+=== bottled wind ===
+this is used after you're done moving this can give you an extra 3 to 5 spaces in movement
+== the stock system ==
+the player can invest in four different trade goods with three stock certificates available for each trade good in line with a pirate theme the stock system is named the east india trading company the different trade goods each have different values and give you set amount after each turn is finished the four trade goods are from most valuable to least
+tea
+cotton
+indigo
+spices
+== the gaming house ==
+a mini-game included in pirasea is a gambling game the player picks the character and amount of money they bet if their selected character wins the player is given the amount of their bet if the character the players chose loses then the player loses that much gold
+== jail ==
+like monopoly pirasea has a jail system but slightly modified the royal navy is how players go to jail and instead of rolling a string of doubles the player must land on a specific tile where the navy is this tile however changes every turn and cannot be told apart from other tiles the jail or stockade as it is called in pirasea makes you lose only one turn
+== game engine ==
+pirasea was developed using the allegro game engine and various extensions

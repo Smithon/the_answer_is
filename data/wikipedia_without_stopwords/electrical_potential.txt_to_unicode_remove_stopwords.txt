@@ -1,0 +1,45 @@
+electric potential also called electric field potential electrostatic potential amount electric potential energy unitary point electric charge would located point space equal work done electric field carrying unit positive charge infinity point
+according theoretical electromagnetics electric potential scalar quantity denoted phi e v equal electric potential energy charged particle location measured joules divided charge particle measured coulombs dividing charge particle remainder obtained property electric field
+value calculated either static timeinvariant dynamic varying time electric field specific time units joules per coulomb j c volts v electric potential infinity assumed zero
+generalized electric scalar potential also used electrodynamics timevarying electromagnetic fields present simply calculated electric potential magnetic vector potential together form four vector two kinds potential mixed lorentz transformations
+introduction
+classical mechanics explores concepts force energy potential etc force potential energy directly related net force acting object cause accelerate object moves direction force accelerates potential energy decreases gravitational potential energy cannonball top hill greater base hill rolls downhill potential energy decreases translated motion inertial kinetic energy
+possible define potential certain force fields potential energy object field depends position object respect field two force fields gravitational field electric field absence timevarying magnetic fields fields must affect objects due intrinsic properties object eg mass charge position object
+objects may possess property known electric charge electric field exerts force charged objects charged object positive charge force direction electric field vector point charge negative force opposite direction magnitude force given quantity charge multiplied magnitude electric field vector
+electrostatics
+electric potential point r static electric field e given line integral
+c arbitrary path connecting point zero potential r curl e zero line integral depend specific path c chosen endpoints case electric field conservative determined gradient potential
+gausss law potential satisfies poissons equation
+total charge density including bound charge denotes divergence
+concept electric potential closely linked potential energy test charge q electric potential energy ue given
+potential energy hence also electric potential defined additive constant one must arbitrarily choose position potential energy electric potential zero
+equations cannot used curl e ie case nonconservative electric field caused changing magnetic field see maxwells equations generalization electric potential case described
+electric potential due point charge
+electric potential created point charge q distance r charge relative potential infinity shown
+electric constant permittivity vacuum known coulomb potential
+electric potential due system point charges equal sum point charges individual potentials fact simplifies calculations significantly since addition potential scalar fields much easier addition electric vector fields
+equation given electric potential equations used forms required si units less common systems units cgsgaussian many equations would altered
+generalization electrodynamics
+timevarying magnetic fields present true whenever timevarying electric fields vice versa possible describe electric field simply terms scalar potential v electric field longer conservative pathdependent faradays law induction
+instead one still define scalar potential also including magnetic vector potential particular defined satisfy
+b magnetic field divergence magnetic field always zero due absence magnetic monopoles always found given quantity
+conservative field faradays law one therefore write
+v scalar potential defined conservative field f
+electrostatic potential simply special case definition timeinvariant hand timevarying fields
+unlike electrostatics
+units
+si unit electric potential volt honor alessandro volta difference electric potential two points known voltage older units rarely used today variants centimeter gram second system units included number different units electric potential including abvolt statvolt
+galvani potential versus electrochemical potential
+inside metals solids liquids energy electron affected electric potential also specific atomic environment voltmeter connected two different types metal measures electric potential difference instead potential difference corrected different atomic environments quantity measured voltmeter called electrochemical potential fermi level pure unadjusted electric potential sometimes called galvani potential terms voltage electric potential bit ambiguous practice refer either different contexts
+see also
+absolute electrode potential
+electrochemical potential
+electrode potential
+gluon field
+linardwiechert potential
+mathematical descriptions electromagnetic field
+voltage electric potential difference
+references
+griffiths david j introduction electrodynamics rd ed prentice hall isbn x
+jackson john david classical electrodynamics rd ed usa john wiley sons inc isbn
+wangsness roald k electromagnetic fields nd revised illustrated ed wiley isbn

@@ -1,0 +1,136 @@
+rate law rate equation chemical reaction equation links reaction rate concentrations pressures reactants constant parameters normally rate coefficients partial reaction orders many reactions rate given power law
+b express concentration species b respectively usually moles per liter molarity m exponents x y partial reaction orders must determined experimentally often equal stoichiometric coefficients constant k rate coefficient rate constant reaction value coefficient k may depend conditions temperature ionic strength surface area adsorbent light irradiation
+elementary reactions consist single step order equals molecularity predicted collision theory example bimolecular elementary reaction b products second order overall first order reactant rate equation multistep reactions order step equals molecularity generally true overall rate
+rate equation reaction assumed multistep mechanism often derived theoretically using quasisteady state assumptions underlying elementary reactions compared experimental rate equation test assumed mechanism equation may involve fractional order may depend concentration intermediate species
+rate equation differential equation integrated obtain integrated rate equation links concentrations reactants products time
+zero order reactionsedit
+zero order reaction rate independent concentration reactants increasing concentration reacting species speed rate reaction ie amount substance reacted proportional time zero order reactions typically found material required reaction proceed surface catalyst saturated reactants rate law zero order reaction
+r reaction rate k reaction rate coefficient units concentration time zeroth order reaction occurs closed system net buildup intermediates reactions occurring shown solving mass balance equation system
+differential equation integrated gives equation often called integrated zero order rate law
+represents concentration chemical interest particular time represents initial concentration
+reaction zero order concentration data plotted versus time result straight line plot vs time gives straight line slope
+halflife reaction describes time needed half reactant depleted halflife involved nuclear decay first order reaction zero order reaction halflife given
+example zero order reaction
+reversed haber process
+order reaction cannot deduced chemical equation reaction
+first order reactionsedit
+first order reaction depends concentration one reactant unimolecular reaction reactants present zero order rate law reaction first order respect reactant
+k first order rate constant units
+integrated first order rate law
+plot vs time gives straight line slope
+halflife first order reaction independent starting concentration given
+examples reactions first order respect reactant
+properties first order reaction kineticsedit
+integrated first order rate law
+usually written form exponential decay equation
+different equivalent way considering first order kinetics follows exponential decay equation rewritten
+corresponds specific time period integer corresponding number time periods end time period fraction reactant population remaining relative amount present start time period
+time periods fraction original reactant population
+corresponds fraction reactant population break time period equation indicates fraction total amount reactant population break time period independent initial amount present chosen time period corresponds fraction population break time period exactly amount present start time period ie time period corresponds halflife first order reaction
+average rate reaction nth time period given
+therefore amount remaining end time period related average rate time period reactant population start time period
+since fraction reactant population break time period expressed
+amount reactant break time period related average rate time period
+amount remains end time period related amount present start time period according
+equation recursion allowing calculation amount present number time periods without need rate constant provided average rate time period known
+second order reactionsedit
+second order reaction depends concentrations one second order reactant two first order reactants
+reaction rate given
+last equations stems definition rate law respect reactant
+consider reaction b
+second order reaction involving one reagent must mean terms definition rate law derivative b respect time equal one half derivative respect time b appears disappearing thus speed disappears twice speed b appears disappearing groups two b appearing groups one derivative b respect time equal minus one half derivative respect time
+taking account definition rate equation relationship rate reaction terms concentration given reagent say ra make expressions equivalent find
+thus derivative respect time must halved obtain rate disappearing
+integrated second order rate laws respectively
+b must different obtain integrated equation
+halflife equation second order reaction dependent one second order reactant reaction halflife progressively doubles concentration reactant falls half initial value
+another way present rate laws take log sides
+examples second order reaction
+pseudofirst orderedit
+measuring second order reaction rate reactants b problematic concentrations two reactants must followed simultaneously difficult measure one calculate difference less precise common solution problem pseudofirst order approximation
+concentration one reactants remains constant supplied great excess concentration absorbed within rate constant obtaining pseudo first order reaction constant fact depends concentration one reactant example b remains constant
+k kobs units expression obtained identical first order expression
+one way obtain pseudofirst order reaction use large excess one reactants ba would work previous example reaction progresses small amount reactant consumed concentration considered stay constant collecting many reactions different excess concentrations b plot versus b gives regular second order rate constant slope
+example hydrolysis esters dilute mineral acids follows pseudofirst order kinetics concentration water present large excess
+chcooch ho chcooh choh
+summary reaction orders nedit
+elementary reaction steps order called ternary reactions rare unlikely occur however overall reactions composed several elementary steps course including noninteger order
+m stands concentration molarity mol l time k reaction rate constant halflife first order reaction often expressed k ln
+equilibrium reactions opposed reactionsedit
+pair forward reverse reactions may define equilibrium process example b react x y vice versa u v stoichiometric coefficients
+reaction rate expression reactions assuming one elementary expressed
+k rate coefficient reaction consumes b k rate coefficient backwards reaction consumes x y produces b
+constants k k related equilibrium coefficient reaction k following relationship set r balance
+simple exampleedit
+simple equilibrium two species
+reactions starts initial concentration initial concentration b time
+constant k equilibrium expressed
+concentrations b equilibrium respectively
+concentration time related concentration b time equilibrium reaction equation
+note term present simple example initial concentration b
+applies even time infinity ie equilibrium reached
+follows definition k
+therefore
+equations allow us uncouple system differential equations allow us solve concentration alone
+reaction equation given previously
+derivative negative rate reaction going b therefore concentration decreasing simplify annotation let x concentration time let concentration equilibrium
+since
+reaction rate becomes
+results
+plot negative natural logarithm concentration time minus concentration equilibrium versus time gives straight line slope kf kb measurement ae values k two reaction rate constants known
+generalization simple exampleedit
+concentration time different simplifications invalid system differential equations must solved however system also solved exactly yield following generalized expressions
+equilibrium constant close unity reaction rates fast instance conformational analysis molecules methods required determination rate constants instance complete lineshape analysis nmr spectroscopy
+consecutive reactionsedit
+rate constants following reaction rate equation
+reactant
+reactant b
+product c
+individual concentrations scaled total population reactants become probabilities linear systems differential equations formulated master equation differential equations solved analytically integrated rate equations
+steady state approximation leads similar results easier way
+parallel competitive reactionsedit
+substance reacts simultaneously give two different products parallel competitive reaction said take place
+two first order reactions
+constants rate equations
+integrated rate equations
+one important relationship case
+one first order one second order reaction
+case studying bimolecular reaction simultaneous hydrolysis treated pseudo order one takes place hydrolysis complicates study reaction kinetics reactant spent parallel reaction example reacts r give product c meanwhile hydrolysis reaction takes away amount give b byproduct rate equations pseudo first order constant
+integrated rate equation main product c equivalent concentration b related c
+integrated equations analytically obtained process assumed therefeore previous equation c used low concentrations c compared
+stoichiometric reaction networksedit
+general description chemical reaction network considers number distinct chemical species reacting via reactions chemical equation th reaction written generic form
+often written equivalent form
+reaction index running
+denotes th chemical species
+rate constant th reaction
+stoichiometric coefficients reactants products respectively
+rate reaction inferred law mass action
+denotes flux molecules per unit time unit volume vector concentrations note definition includes elementary reactions
+zero order reactions
+first order reactions
+single
+second order reactions
+exactly two ie bimolecular reaction single ie dimerization reaction
+discussed detail one define stoichiometric matrix
+denoting net extend molecules reaction reaction rate equations written general form
+note product stoichiometric matrix vector reaction rate functions particular simple solutions exist equilibrium systems composed merely reversible reactions case rate forward backward reactions equal principle called detailed balance note detailed balance property stoichiometric matrix alone depend particular form rate functions cases detailed balance violated commonly studied flux balance analysis developed understand metabolic pathways
+general dynamics unimolecular conversionedit
+general unimolecular reaction involving interconversion different species whose concentrations time denoted analytic form timeevolution species found let rate constant conversion species species denoted construct rateconstant matrix whose entries
+also let vector concentrations function time
+let vector ones
+let identity matrix
+let function takes vector constructs diagonal matrix whose ondiagonal entries vector
+let inverse laplace transform
+timeevolved state given
+thus providing relation initial conditions system state time
+see alsoedit
+michaelismenten kinetics
+petersen matrix
+reactiondiffusion equation
+reactions surfaces rate equations reactions least one reactants adsorbs onto surface
+reaction progress kinetic analysis
+reaction rate
+reaction rate constant
+steady state approximation
+referencesedit

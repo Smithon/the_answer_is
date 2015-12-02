@@ -1,0 +1,74 @@
+chemistry hybridisation hybridization concept mixing atomic orbitals new hybrid orbitals different energies shapes etc component atomic orbitals suitable pairing electrons form chemical bonds valence bond theory hybrid orbitals useful explanation molecular geometry atomic bonding properties although sometimes taught together valence shell electronpair repulsion vsepr theory valence bond hybridisation fact related vsepr model
+historyedit
+chemist linus pauling first developed hybridisation theory order explain structure simple molecules methane ch using atomic orbitals pauling pointed carbon atom forms four bonds using one three p orbitals might inferred carbon atom would form three bonds right angles using p orbitals fourth weaker bond using orbital arbitrary direction reality however methane four bonds equivalent strength separated tetrahedral bond angle pauling explained supposing presence four hydrogen atoms p orbitals form four equivalent combinations hybrid orbitals denoted sp indicate composition directed along four ch bonds concept developed simple chemical systems approach later applied widely today considered effective heuristic rationalising structures organic compounds gives simple orbital picture equivalent lewis structures hybridisation theory finds use mainly organic chemistry
+atomic orbitalsedit
+orbitals model representation behaviour electrons within molecules case simple hybridisation approximation based atomic orbitals similar obtained hydrogen atom neutral atom schrdinger equation solved exactly heavier atoms carbon nitrogen oxygen atomic orbitals used p orbitals similar excited state orbitals hydrogen
+overviewedit
+hybrid orbitals assumed mixtures atomic orbitals superimposed various proportions example methane c hybrid orbital forms carbonhydrogen bond consists character p character thus described sp read spthree hybridised quantum mechanics describes hybrid sp wavefunction form ns p n normalization constant p p orbital directed along ch axis form sigma bond ratio coefficients denoted general example since electron density associated orbital proportional square wavefunction ratio pcharacter scharacter p character weight p component n
+amount p character character decided mainly orbital hybridisation used reliably predict molecular properties acidity basicity
+two possible representationsedit
+molecules multiple bonds multiple lone pairs orbitals represented terms sigma pi symmetry equivalent orbitals sigma pi representation erich hckel common one compared equivalent orbital representation linus pauling two mathematically equivalent total manyelectron wave functions related unitary transformation set occupied molecular orbitals
+types hybridisationedit
+spedit
+hybridisation describes bonding atoms atoms point view tetrahedrally coordinated carbon eg methane ch carbon orbitals correct symmetry bond hydrogen atoms
+carbons ground state configuration p easily read
+carbon atom utilize two singly occupied ptype orbitals form two covalent bonds two hydrogen atoms yielding singlet methylene ch simplest carbene carbon atom also bond four hydrogen atoms excitation electron doubly occupied orbital empty p orbital producing four singly occupied orbitals
+energy released formation two additional bonds compensates excitation energy required energetically favouring formation four ch bonds
+quantum mechanically lowest energy obtained four bonds equivalent requires formed equivalent orbitals carbon set four equivalent orbitals obtained linear combinations valenceshell core orbitals almost never involved bonding p wave functions four sp hybrids
+ch four sp hybrid orbitals overlapped hydrogen orbitals yielding four sigma bonds four single covalent bonds equal length strength
+translates
+spedit
+carbon based compounds molecules may explained similar way example ethene ch double bond carbons
+molecule carbon sp hybridises one pi bond required double bond carbons three bonds formed per carbon atom sp hybridisation orbital mixed two three available p orbitals
+forming total three sp orbitals one remaining p orbital ethylene ethene two carbon atoms form bond overlapping two sp orbitals carbon atom forms two covalent bonds hydrogen ssp overlap angles bond carbon atoms perpendicular molecular plane formed pp overlap hydrogencarbon bonds equal strength length agreement experimental data
+spedit
+chemical bonding compounds alkynes triple bonds explained sp hybridisation model orbital mixed one three p orbitals
+resulting two sp orbitals two remaining p orbitals chemical bonding acetylene ethyne ch consists spsp overlap two carbon atoms forming bond two additional bonds formed pp overlap carbon also bonds hydrogen ssp overlap angles
+hybridisation molecule shapeedit
+hybridisation helps explain molecule shape since angles bonds approximately equal angles hybrid orbitals explained tetrahedral geometry methane another example three sp hybrid orbitals angles hybridisation favours trigonal planar molecular geometry bond angles examples given table
+hybridisation hypervalent moleculesedit
+expanded valence shelledit
+hybridisation often presented main group ax well many transition metal complexes using hybridisation scheme first proposed pauling
+notation d orbitals main group atoms listed p orbitals since principal quantum number n d orbitals transition metals listed first since p orbitals higher n thus ax molecules spd hybridisation atom involves p d orbitals dsp mo involves d p orbitals
+contrary evidenceedit
+magnusson published seminal work definitively excluding role dorbital hybridization bonding hypervalent compounds secondrow elements ending point contention confusion part confusion originates fact dfunctions essential basis sets used describe compounds else unreasonably high energies distorted geometries result also contribution dfunction molecular wavefunction large facts incorrectly interpreted mean dorbitals must involved bonding
+similarly p orbitals transition metal centers thought participate bonding ligands hence electron description however recent molecular orbital calculations found p orbital participation bonding significant
+resonanceedit
+shown computational chemistry hypervalent molecules stable given strongly polar weakened bonds electronegative ligands fluorine oxygen reduce valence electron occupancy central atom maximum transition metals requires explanation invokes sigma resonance addition hybridisation implies resonance structure hybridisation scheme guideline resonance structures obey octet rule main group centers duodectet rule transition metal centers
+isovalent hybridisationedit
+although ideal hybrid orbitals useful reality bonds require orbitals intermediate character requires extension include flexible weightings atomic orbitals type p d allows quantitative depiction bond formation molecular geometry deviates ideal bond angles amount pcharacter restricted integer values ie hybridisations like sp also readily described
+hybridisation bond orbitals determined bents rule atomic character concentrates orbitals directed toward electropositive substituents
+molecules lone pairsedit
+molecules lone pairs lone pair bonding pairs hybridise varying extent give molecules bond angles example two bondforming hybrid orbitals oxygen water described sp give interorbital angle means character p character imply hybrid orbital formed one four p orbitals oxygen since p subshell oxygen contains three p orbitals
+consistent treatment multiple bonds lone pairs also distinguished according symmetry example water one two lone pairs pure ptype orbital electron density perpendicular hoh framework lone pair srich orbital plane hoh bonding
+trigonal pyramidal axe
+eg nh
+bent axe
+planar symmetry one bond lone pair
+eg ho
+monocoordinate axe
+linear symmetry two bonds lone pairs
+eg co hf
+hypervalent moleculesedit
+hypervalent molecules lone pairs bonding scheme split two components resonant bonding component regular bonding component regular bonding component description see resonant bonding component consists resonating bonds utilizing p orbitals table shows shape related two components respective descriptions
+hybridisation defectsedit
+hybridisation p orbitals form effective spx hybrids requires comparable radial extent p orbitals average less larger part attributable lack radial node p orbitals p orbitals one radial node exceed orbitals difference extent p orbitals increases group hybridisation atoms chemical bonds analyzed considering localized molecular orbitals example using natural localized molecular orbitals natural bond orbital nbo scheme methane ch calculated ps ratio approximately consistent ideal sp hybridisation whereas silane sih ps ratio closer similar trend seen p elements substitution fluorine hydrogen decreases ps ratiothe p elements exhibit near ideal hybridisation orthogonal hybrid orbitals heavier p block elements assumption orthogonality cannot justified deviations ideal hybridisation termed hybridisation defects kutzelnigg
+photoelectron spectraedit
+popular misconception concept hybrid orbitals incorrectly predicts ultraviolet photoelectron spectra many molecules true koopmans theorem applied localized hybrids quantum mechanics requires case ionized wavefunction obey symmetry molecule implies resonance valence bond theory example methane ionized states ch constructed four resonance structures attributing ejected electron four sp orbitals linear combination four structures conserving number structures leads triply degenerate state state difference energy ionized state ground state would ionization energy yields two values agreement experiment
+hybridisation theory vs molecular orbital theoryedit
+hybridisation theory integral part organic chemistry general discussed together molecular orbital theory drawing reaction mechanisms sometimes classical bonding picture needed two atoms sharing two electrons predicting bond angles methane mo theory straightforward hybridisation theory explains bonding alkenes methane
+bonding orbitals formed hybrid atomic orbitals may considered localized molecular orbitals formed delocalized orbitals molecular orbital theory appropriate mathematical transformation molecules closed electron shell ground state transformation orbitals leaves total manyelectron wave function unchanged hybrid orbital description ground state therefore equivalent delocalized orbital description ground state total energy electron density well molecular geometry corresponds minimum total energy value
+see alsoedit
+bents rule effect ligand electronegativity
+linear combination atomic orbitals molecular orbital method
+mo diagrams
+ligand field theory
+crystal field theory
+isovalent hybridization
+referencesedit
+external linksedit
+covalent bonds molecular structure
+hybridisation flash movie
+hybrid orbital d preview program opengl
+understanding concepts molecular orbitals
+general chemistry tutorial orbital hybridization

@@ -1,0 +1,214 @@
+statistical hypothesis hypothesis testable basis observing process modeled via set random variables statistical hypothesis test method statistical inference commonly two statistical data sets compared data set obtained sampling compared synthetic data set idealized model hypothesis proposed statistical relationship two data sets compared alternative idealized null hypothesis proposes relationship two data sets comparison deemed statistically significant relationship data sets would unlikely realization null hypothesis according threshold probabilitythe significance level hypothesis tests used determining outcomes study would lead rejection null hypothesis prespecified level significance process distinguishing null hypothesis alternative hypothesis aided identifying two conceptual types errors type type specifying parametric limits eg much type error permitted
+alternative framework statistical hypothesis testing specify set statistical models one candidate hypothesis use model selection techniques choose appropriate model common selection techniques based either akaike information criterion bayes factor
+statistical hypothesis testing sometimes called confirmatory data analysis contrasted exploratory data analysis may prespecified hypotheses
+variations subclasses
+statistical hypothesis testing key technique frequentist inference bayesian inference although two types inference notable differences statistical hypothesis tests define procedure controls fixes probability incorrectly deciding default position null hypothesis incorrect procedure based likely would set observations occur null hypothesis true note probability making incorrect decision probability null hypothesis true whether specific alternative hypothesis true contrasts possible techniques decision theory null alternative hypothesis treated equal basis
+one naive bayesian approach hypothesis testing base decisions posterior probability fails comparing point continuous hypotheses approaches decision making bayesian decision theory attempt balance consequences incorrect decisions across possibilities rather concentrating single null hypothesis number approaches reaching decision based data available via decision theory optimal decisions desirable properties hypothesis testing though dominant approach data analysis many fields science extensions theory hypothesis testing include study power tests ie probability correctly rejecting null hypothesis given false considerations used purpose sample size determination prior collection data
+testing process
+statistics literature statistical hypothesis testing plays fundamental role usual line reasoning follows
+initial research hypothesis truth unknown
+first step state relevant null alternative hypotheses important misstating hypotheses muddy rest process
+second step consider statistical assumptions made sample test example assumptions statistical independence form distributions observations equally important invalid assumptions mean results test invalid
+decide test appropriate state relevant test statistic
+derive distribution test statistic null hypothesis assumptions standard cases wellknown result example test statistic might follow students distribution normal distribution
+select significance level probability threshold null hypothesis rejected common values
+distribution test statistic null hypothesis partitions possible values null hypothesis rejectedthe socalled critical regionand probability critical region
+compute observations observed value tobs test statistic
+decide either reject null hypothesis favor alternative reject decision rule reject null hypothesis h observed value tobs critical region accept fail reject hypothesis otherwise
+alternative process commonly used
+compute observations observed value tobs test statistic
+calculate pvalue probability null hypothesis sampling test statistic least extreme observed
+reject null hypothesis favor alternative hypothesis pvalue less significance level selected probability threshold
+two processes equivalent former process advantageous past tables test statistics common probability thresholds available allowed decision made without calculation probability adequate classwork operational use deficient reporting results
+latter process relied extensive tables computational support always available explicit calculation probability useful reporting calculations trivially performed appropriate software
+difference two processes applied radioactive suitcase example
+geigercounter reading limit check suitcase
+geigercounter reading high safe suitcases lower readings limit check suitcase
+former report adequate latter gives detailed explanation data reason suitcase checked
+important note difference accepting null hypothesis simply failing reject fail reject terminology highlights fact null hypothesis assumed true start test lack evidence simply continues assumed true phrase accept null hypothesis may suggest proved simply disproved logical fallacy known argument ignorance unless test particularly high power used idea accepting null hypothesis may dangerous nonetheless terminology prevalent throughout statistics meaning well understood
+processes described perfectly adequate computation seriously neglect design experiments considerations
+particularly critical appropriate sample sizes estimated conducting experiment
+phrase test significance coined statistician ronald fisher
+interpretation
+pvalue less required significance level equivalently observed test statistic critical region say null hypothesis rejected given level significance rejection null hypothesis conclusion like guilty verdict criminal trial evidence sufficient reject innocence thus proving guilt might accept alternative hypothesis research hypothesis
+pvalue less required significance level equivalently observed test statistic outside critical region test result evidence insufficient support conclusion like jury fails reach verdict researcher typically gives extra consideration cases pvalue close significance level
+lady tasting tea example fisher required lady properly categorize cups tea justify conclusion result unlikely result chance defined critical region case alone region defined probability null hypothesis correct less
+whether rejection null hypothesis truly justifies acceptance research hypothesis depends structure hypotheses rejecting hypothesis large paw print originated bear immediately prove existence bigfoot hypothesis testing emphasizes rejection based probability rather acceptance requires extra steps logic
+probability rejecting null hypothesis function five factors whether test one two tailed level significance standard deviation amount deviation null hypothesis number observations factors source criticism factors control experimenteranalyst give results appearance subjectivity
+use importance
+statistics helpful analyzing collections data equally true hypothesis testing justify conclusions even scientific theory exists lady tasting tea example obvious difference existed milk poured tea tea poured milk data contradicted obvious
+real world applications hypothesis testing include
+testing whether men women suffer nightmares
+establishing authorship documents
+evaluating effect full moon behavior
+determining range bat detect insect echo
+deciding whether hospital carpeting results infections
+selecting best means stop smoking
+checking whether bumper stickers reflect car owner behavior
+testing claims handwriting analysts
+statistical hypothesis testing plays important role whole statistics statistical inference example lehmann review fundamental paper neyman pearson says nevertheless despite shortcomings new paradigm formulated paper many developments carried within framework continue play central role theory practice statistics expected foreseeable future
+significance testing favored statistical tool experimental social sciences articles journal applied psychology early fields favored estimation parameters eg effect size significance testing used substitute traditional comparison predicted value experimental result core scientific method theory capable predicting sign relationship directional onesided hypothesis test configured statistically significant result supports theory form theory appraisal heavily criticized application hypothesis testing
+cautions
+government required statistical procedures carry warning labels like drugs inference methods would long labels indeed caution applies hypothesis tests alternatives
+successful hypothesis test associated probability typei error rate conclusion might wrong
+conclusion test solid sample upon based design experiment critical number unexpected effects observed including
+clever hans effect horse appeared capable simple arithmetic
+hawthorne effect industrial workers productive better illumination productive worse
+placebo effect pills medically active ingredients remarkably effective
+statistical analysis misleading data produces misleading conclusions issue data quality subtle forecasting example agreement measure forecast accuracy absence consensus measurement decision based measurements without controversy
+book lie statistics popular book statistics ever published much consider hypothesis testing cautions applicable including many claims made basis samples small convince report mention sample size doubtful
+hypothesis testing acts filter statistical conclusions results meeting probability threshold publishable economics also acts publication filter results favorable author funding source may submitted publication impact filtering publication termed publication bias related problem multiple testing sometimes linked data mining variety tests variety possible effects applied single data set yielding significant result reported often dealt using multiplicity correction procedures control family wise error rate fwer false discovery rate fdr
+making critical decisions based results hypothesis test prudent look details rather conclusion alone physical sciences results fully accepted independently confirmed general advice concerning statistics figures never lie liars figure anonymous
+examples
+lady tasting tea
+famous example hypothesis testing known lady tasting tea female colleague fisher claimed able tell whether tea milk added first cup fisher proposed give eight cups four variety random order one could ask probability getting number got correct chance null hypothesis lady ability test statistic simple count number successes selecting cups critical region single case successes possible based conventional probability criterion fisher asserted alternative hypothesis ever required lady correctly identified every cup would considered statistically significant result
+courtroom trial
+statistical test procedure comparable criminal trial defendant considered guilty long guilt proven prosecutor tries prove guilt defendant enough charging evidence defendant convicted
+start procedure two hypotheses defendant guilty defendant guilty first one called null hypothesis time accepted second one called alternative hypothesis hypothesis one hopes support
+hypothesis innocence rejected error unlikely one doesnt want convict innocent defendant error called error first kind ie conviction innocent person occurrence error controlled rare consequence asymmetric behaviour error second kind acquitting person committed crime often rather large
+criminal trial regarded either two decision processes guilty vs guilty evidence vs threshold beyond reasonable doubt one view defendant judged view performance prosecution bears burden proof judged hypothesis test regarded either judgment hypothesis judgment evidence
+philosophers beans
+following example produced philosopher describing scientific methods generations hypothesis testing formalized popularized
+beans handful white
+beans bag white
+therefore probably beans taken another bag
+hypothetical inference
+beans bag population handful sample null hypothesis sample originated population criterion rejecting nullhypothesis obvious difference appearance informal difference mean interesting result consideration real population real sample produced imaginary bag philosopher considering logic rather probability real statistical hypothesis test example requires formalities probability calculation comparison probability standard
+simple generalization example considers mixed bag beans handful contain either many white beans generalization considers extremes requires calculations comparisons arrive formal answer core philosophy unchanged composition handful greatly different bag sample probably originated another bag original example termed onesided onetailed test generalization termed twosided twotailed test
+statement also relies inference sampling random someone picking bag find white beans would explain handful many white beans also explain number white beans bag depleted although bag probably intended assumed much larger ones hand
+clairvoyant card game
+person subject tested clairvoyance shown reverse randomly chosen playing card times asked four suits belongs number hits correct answers called x
+try find evidence clairvoyance time null hypothesis person clairvoyant alternative course person less clairvoyant
+null hypothesis valid thing test person guess every card probability relative frequency single suit appearing alternative valid test subject predict suit correctly probability greater call probability guessing correctly p hypotheses
+null hypothesis guessing
+alternative hypothesis true clairvoyant
+test subject correctly predicts cards consider clairvoyant reject null hypothesis thus also hits hits hand cause consider hits hits critical number c hits point consider subject clairvoyant determine critical value c obvious choice c ie accept clairvoyance cards predicted correctly critical c first case almost test subjects recognized clairvoyant second case certain number pass test practice one decides critical one one decides often one accepts error first kind false positive type error c probability error
+hence small probability false positive probability randomly guessing correctly times
+less critical c gives
+thus c yields much greater probability false positive
+test actually performed maximum acceptable probability type error determined typically values range selected maximum acceptable error rate zero infinite number correct guesses required depending type error rate critical value c calculated example select error rate c calculated thus
+numbers c property choose smallest order minimize probability type ii error false negative example select
+radioactive suitcase
+example consider determining whether suitcase contains radioactive material placed geiger counter produces counts per minute null hypothesis radioactive material suitcase measured counts due ambient radioactivity typical surrounding air harmless objects calculate likely would observe counts per minute null hypothesis true null hypothesis predicts say average counts per minute according poisson distribution typical radioactive decay chance recording counts thus say suitcase compatible null hypothesis guarantee radioactive material dont enough evidence suggest hand null hypothesis predicts counts per minute poisson distribution predicts chance recording counts suitcase compatible null hypothesis likely factors responsible produce measurements
+test directly assert presence radioactive material successful test asserts claim radioactive material present unlikely given reading therefore double negative disproving null hypothesis method confusing using counterexample disprove standard mathematical practice attraction method practicality know experience expected range counts ambient radioactivity present say measurement unusually large statistics formalizes intuitive using numbers instead adjectives probably know characteristics radioactive suitcases assume produce larger readings
+slightly formalize intuition radioactivity suspected geigercount suitcase among exceeds greatest geigercounts made ambient radiation alone makes assumptions distribution counts many ambient radiation observations required obtain good probability estimates rare events
+test described fully nullhypothesis statistical significance test null hypothesis represents would believe default seeing evidence statistical significance possible finding test declared observed sample unlikely occurred chance null hypothesis true name test describes formulation possible outcome one characteristic test crisp decision reject reject null hypothesis calculated value compared threshold determined tolerable risk error
+definition terms
+following definitions mainly based exposition book lehmann romano
+statistical hypothesis
+statement parameters describing population sample
+statistic
+value calculated sample often summarize sample comparison purposes
+simple hypothesis
+hypothesis specifies population distribution completely
+composite hypothesis
+hypothesis specify population distribution completely
+null hypothesis h
+simple hypothesis associated contradiction theory one would like prove
+alternative hypothesis h
+hypothesis often composite associated theory one would like prove
+statistical test
+procedure whose inputs samples whose result hypothesis
+region acceptance
+set values test statistic fail reject null hypothesis
+region rejection critical region
+set values test statistic null hypothesis rejected
+critical value
+threshold value delimiting regions acceptance rejection test statistic
+power test
+tests probability correctly rejecting null hypothesis complement false negative rate power termed sensitivity biostatistics sensitive test result negative confidently say patient condition see sensitivity specificity type type ii errors exhaustive definitions
+size
+simple hypotheses tests probability incorrectly rejecting null hypothesis false positive rate composite hypotheses supremum probability rejecting null hypothesis cases covered null hypothesis complement false positive rate termed specificity biostatistics specific test result positive confidently say patient condition see sensitivity specificity type type ii errors exhaustive definitions
+significance level test
+upper bound imposed size test value chosen statistician prior looking data choosing particular test used maximum exposure erroneously rejecting h heshe ready accept testing h significance level means testing h test whose size exceed cases one uses tests whose size equal significance level
+pvalue
+probability assuming null hypothesis true observing result least extreme test statistic
+statistical significance test
+predecessor statistical hypothesis test see origins section experimental result said statistically significant sample sufficiently inconsistent null hypothesis variously considered common sense pragmatic heuristic identifying meaningful experimental results convention establishing threshold statistical evidence method drawing conclusions data statistical hypothesis test added mathematical rigor philosophical consistency concept making alternative hypothesis explicit term loosely used describe modern version part statistical hypothesis testing
+conservative test
+test conservative constructed given nominal significance level true probability incorrectly rejecting null hypothesis never greater nominal level
+exact test
+test significance level critical value computed exactly ie without approximation contexts term restricted tests applied categorical data permutation tests computations carried complete enumeration possible outcomes probabilities
+statistical hypothesis test compares test statistic z examples threshold test statistic formula found table based optimality fixed level type error rate use statistics minimizes type ii error rates equivalent maximizing power following terms describe tests terms optimality
+powerful test
+given size significance level test greatest power probability rejection given value parameters tested contained alternative hypothesis
+uniformly powerful test ump
+test greatest power values parameters tested contained alternative hypothesis
+common test statistics
+onesample tests appropriate sample compared population hypothesis population characteristics known theory calculated population
+twosample tests appropriate comparing two samples typically experimental control samples scientifically controlled experiment
+paired tests appropriate comparing two samples impossible control important variables rather comparing two sets members paired samples difference members becomes sample typically mean differences compared zero common example scenario paired difference test appropriate single set test subjects something applied test intended check effect
+ztests appropriate comparing means stringent conditions regarding normality known standard deviation
+ttest appropriate comparing means relaxed conditions less assumed
+tests proportions analogous tests means proportion
+chisquared tests use calculations probability distribution different applications
+chisquared tests variance used determine whether normal population specified variance null hypothesis
+chisquared tests independence used deciding whether two variables associated independent variables categorical rather numeric used decide whether lefthandedness correlated libertarian politics null hypothesis variables independent numbers used calculation observed expected frequencies occurrence contingency tables
+chisquared goodness fit tests used determine adequacy curves fit data null hypothesis curve fit adequate common determine curve shapes minimize mean square error appropriate goodnessoffit calculation sums squared errors
+ftests analysis variance anova commonly used deciding whether groupings data category meaningful variance test scores lefthanded class much smaller variance whole class may useful study lefties group null hypothesis two variances proposed grouping meaningful
+table symbols used defined bottom table many tests found articles proofs exist test statistics appropriate
+origins early controversy
+significance testing largely product karl pearson pvalue pearsons chisquared test william sealy gosset students tdistribution ronald fisher null hypothesis analysis variance significance test hypothesis testing developed jerzy neyman egon pearson son karl ronald fisher began life statistics bayesian zabell fisher soon grew disenchanted subjectivity involved namely use principle indifference determining prior probabilities sought provide objective approach inductive inference
+fisher agricultural statistician emphasized rigorous experimental design methods extract result samples assuming gaussian distributions neyman teamed younger pearson emphasized mathematical rigor methods obtain results many samples wider range distributions modern hypothesis testing inconsistent hybrid fisher vs neymanpearson formulation methods terminology developed early th century hypothesis testing popularized early th century evidence use found much earlier laplace considered statistics almost half million births statistics showed excess boys compared girls concluded calculation pvalue excess real unexplained effect
+fisher popularized significance test required nullhypothesis corresponding population frequency distribution sample familiar calculations determined whether reject nullhypothesis significance testing utilize alternative hypothesis concept type ii error
+pvalue devised informal objective index meant help researcher determine based knowledge whether modify future experiments strengthen ones faith null hypothesis hypothesis testing type iii errors devised neyman pearson objective alternative fishers pvalue also meant determine researcher behaviour without requiring inductive inference researcher
+neyman pearson considered different problem called hypothesis testing initially considered two simple hypotheses frequency distributions calculated two probabilities typically selected hypothesis associated higher probability hypothesis likely generated sample method always selected hypothesis also allowed calculation types error probabilities
+fisher neymanpearson clashed bitterly neymanpearson considered formulation improved generalization significance testingthe defining paper abstract mathematicians generalized refined theory decades fisher thought applicable scientific research often course experiment discovered initial assumptions null hypothesis questionable due unexpected sources error believed use rigid rejectaccept decisions based models formulated data collected incompatible common scenario faced scientists attempts apply method scientific research would lead mass confusion
+dispute fisher neymanpearson waged philosophical grounds characterized philosopher dispute proper role models statistical inference
+events intervened neyman accepted position western hemisphere breaking partnership pearson separating disputants occupied building much planetary diameter world war ii provided intermission debate dispute fisher neyman terminated unresolved years fishers death neyman wrote wellregarded eulogy neymans later publications reported pvalues significance levels
+modern version hypothesis testing hybrid two approaches resulted confusion writers statistical textbooks predicted fisher beginning signal detection example still uses neymanpearson formulation great conceptual differences many caveats addition mentioned ignored neyman pearson provided stronger terminology rigorous mathematics consistent philosophy subject taught today introductory statistics similarities fishers method history explains inconsistent terminology example null hypothesis never accepted region acceptance
+sometime around apparent effort provide researchers noncontroversial way cake eat authors statistical text books began anonymously combining two strategies using pvalue place test statistic data test neymanpearson significance level thus researchers encouraged infer strength data null hypothesis using pvalues also thinking retaining postdata collection objectivity provided hypothesis testing became customary null hypothesis originally realistic research hypothesis used almost solely strawman nil hypothesis one treatment effect regardless context
+comparison fisherian frequentist neymanpearson
+early choices null hypothesis
+paul meehl argued epistemological importance choice null hypothesis gone largely unacknowledged null hypothesis predicted theory precise experiment severe test underlying theory null hypothesis defaults difference effect precise experiment less severe test theory motivated performing experiment examination origins latter practice may therefore useful
+pierre laplace compares birthrates boys girls multiple european cities states natural conclude possibilities nearly ratio thus laplaces null hypothesis birthrates boys girls equal given conventional wisdom
+karl pearson develops chi squared test determine whether given form frequency curve effectively describe samples drawn given population thus null hypothesis population described distribution predicted theory uses example numbers five sixes weldon dice throw data
+karl pearson develops concept contingency order determine whether outcomes independent given categorical factor null hypothesis default two things unrelated eg scar formation death rates smallpox null hypothesis case longer predicted theory conventional wisdom instead principle indifference lead fisher others dismiss use inverse probabilities
+null hypothesis statistical significance testing vs hypothesis testing
+example neymanpearson hypothesis testing made change radioactive suitcase example suitcase actually shielded container transportation radioactive material test might used select among three hypotheses radioactive source present one present two present test could required safety actions required case neymanpearson lemma hypothesis testing says good criterion selection hypotheses ratio probabilities likelihood ratio simple method solution select hypothesis highest probability geiger counts observed typical result matches intuition counts imply source many counts imply two sources intermediate counts imply one source
+neymanpearson theory accommodate prior probabilities costs actions resulting decisions former allows test consider results earlier tests unlike fishers significance tests latter allows consideration economic issues example well probabilities likelihood ratio remains good criterion selecting among hypotheses
+two forms hypothesis testing based different problem formulations original test analogous truefalse question neymanpearson test like multiple choice view tukey former produces conclusion basis strong evidence latter produces decision basis available evidence two tests seem quite different mathematically philosophically later developments lead opposite claim consider many tiny radioactive sources hypotheses become grains radioactive sand little distinction none radiation fisher grains radioactive sand versus alternatives neymanpearson major neymanpearson paper also considered composite hypotheses ones whose distribution includes unknown parameter example proved optimality students ttest better test hypothesis consideration p neymanpearson theory proving optimality fisherian methods inception
+fishers significance testing proven popular flexible statistical tool application little mathematical growth potential neymanpearson hypothesis testing claimed pillar mathematical statistics creating new paradigm field also stimulated new applications statistical process control detection theory decision theory game theory formulations successful successes different character
+dispute formulations unresolved science primarily uses fishers slightly modified formulation taught introductory statistics statisticians study neymanpearson theory graduate school mathematicians proud uniting formulations philosophers consider separately learned opinions deem formulations variously competitive fisher vs neyman incompatible complementary dispute become complex since bayesian inference achieved respectability
+terminology inconsistent hypothesis testing mean mixture two formulations changed time discussion significance testing vs hypothesis testing doubly vulnerable confusion
+fisher thought hypothesis testing useful strategy performing industrial quality control however strongly disagreed hypothesis testing could useful scientists hypothesis testing provides means finding test statistics used significance testing concept power useful explaining consequences adjusting significance level heavily used sample size determination two methods remain philosophically distinct usually always produce mathematical answer preferred answer context dependent existing merger fisher neymanpearson theories heavily criticized modifying merger achieve bayesian goals considered
+criticism
+criticism statistical hypothesis testing fills volumes citing primary references much criticism summarized following issues
+interpretation pvalue dependent upon stopping rule definition multiple comparison former often changes course study latter unavoidably ambiguous ie p values depend data observed possible data might observed werent
+confusion resulting part combining methods fisher neymanpearson conceptually distinct
+emphasis statistical significance exclusion estimation confirmation repeated experiments
+rigidly requiring statistical significance criterion publication resulting publication bias criticism indirect rather wrong statistical hypothesis testing misunderstood overused misused
+used detect whether difference exists groups paradox arises improvements made experimental design eg increased precision measurement sample size test becomes lenient unless one accepts absurd assumption sources noise data cancel completely chance finding statistical significance either direction approaches
+layers philosophical concerns probability statistical significance function decisions made experimentersanalysts decisions based convention termed arbitrary mindless based may termed subjective minimize type ii errors large samples recommended psychology practically null hypotheses claimed false sufficiently large samples usually nonsensical perform experiment sole aim rejecting null hypothesis statistically significant findings often misleading psychology statistical significance imply practical significance correlation imply causation casting doubt null hypothesis thus far directly supporting research hypothesis
+tell us want know lists dozens complaints available
+critics supporters largely factual agreement regarding characteristics null hypothesis significance testing nhst provide critical information inadequate sole tool statistical analysis successfully rejecting null hypothesis may offer support research hypothesis continuing controversy concerns selection best statistical practices nearterm future given often poor existing practices critics would prefer ban nhst completely forcing complete departure practices supporters suggest less absolute change
+controversy significance testing effects publication bias particular produced several results american psychological association strengthened statistical reporting requirements review medical journal publishers recognized obligation publish results statistically significant combat publication bias journal journal articles support null hypothesis created publish results exclusively textbooks added cautions increased coverage tools necessary estimate size sample required produce significant results major organizations abandoned use significance tests although discussed
+alternatives
+numerous criticisms significance testing lead single alternative unifying position critics statistics lead conclusion decision probability estimated value confidence interval rather acceptreject decision regarding particular hypothesis unlikely controversy surrounding significance testing resolved near future supposed flaws unpopularity eliminate need objective transparent means reaching conclusions regarding studies produce statistical results critics unified around alternative forms reporting confidence uncertainty could probably grow popularity one strong critic significance testing suggested list reporting alternatives effect sizes importance prediction intervals confidence replications extensions replicability metaanalyses generality none suggested alternatives produces conclusiondecision lehmann said hypothesis testing theory presented terms conclusionsdecisions probabilities confidence intervals distinction approaches largely one reporting interpretation
+one alternative disagreement fisher said relation test significance may say phenomenon experimentally demonstrable know conduct experiment rarely fail give us statistically significant result cohen influential critic significance testing concurred dont look magic alternative nhst null hypothesis significance testing doesnt exist given problems statistical induction must finally rely older sciences replication alternative significance testing repeated testing easiest way decrease statistical uncertainty obtaining data whether increased sample size repeated tests nickerson claimed never seen publication literally replicated experiment psychology indirect approach replication metaanalysis
+bayesian inference one proposed alternative significance testing nickerson cited sources suggesting including rozeboom example bayesian parameter estimation provide rich information data researchers draw inferences using uncertain priors exert minimal influence results enough data available psychologist kruschke john k suggested bayesian estimation alternative ttest alternatively two competing modelshypothesis compared using bayes factors bayesian methods could criticized requiring information seldom available cases significance testing heavily used neither prior probabilities probability distribution test statistic alternative hypothesis often available social sciences
+advocates bayesian approach sometimes claim goal researcher often objectively assess probability hypothesis true based data collected neither fishers significance testing neymanpearson hypothesis testing provide information claim probability hypothesis true derived use bayes theorem unsatisfactory fisher neymanpearson camps due explicit use subjectivity form prior probability fishers strategy sidestep pvalue objective index based data alone followed inductive inference neymanpearson devised approach inductive behaviour
+philosophy
+hypothesis testing philosophy intersect inferential statistics includes hypothesis testing applied probability probability application intertwined philosophy philosopher david hume wrote knowledge degenerates probability competing practical definitions probability reflect philosophical differences common application hypothesis testing scientific interpretation experimental data naturally studied philosophy science
+fisher neyman opposed subjectivity probability views contributed objective definitions core historical disagreement philosophical
+many philosophical criticisms hypothesis testing discussed statisticians contexts particularly correlation imply causation design experiments hypothesis testing continuing interest philosophers
+education
+statistics increasingly taught schools hypothesis testing one elements taught many conclusions reported popular press political opinion polls medical studies based statistics informed public understand limitations statistical conclusions many college fields study require course statistics reason introductory college statistics class places much emphasis hypothesis testing perhaps half course fields literature divinity include findings based statistical analysis see bible analyzer introductory statistics class teaches hypothesis testing cookbook process hypothesis testing also taught postgraduate level statisticians learn create good statistical test procedures like z students f chisquared statistical hypothesis testing considered mature area within statistics limited amount development continues
+cookbook method teaching introductory statistics leaves time history philosophy controversy hypothesis testing taught received unified method surveys showed graduates class filled philosophical misconceptions aspects statistical inference persisted among instructors problem addressed decade ago calls educational reform continue students still graduate statistics classes holding fundamental misconceptions hypothesis testing ideas improving teaching hypothesis testing include encouraging students search statistical errors published papers teaching history statistics emphasizing controversy generally dry subject
+see also
+references
+reading
+lehmann el introduction neyman pearson problem efficient tests statistical hypotheses breakthroughs statistics volume eds kotz johnson nl springerverlag isbn followed reprinting paper
+neyman j pearson es problem efficient tests statistical hypotheses philosophical transactions royal society doirsta
+external links
+hazewinkel michiel ed statistical hypotheses verification encyclopedia mathematics springer isbn
+wilson gonzlez georgina kay sankaran september hypothesis testing environmental sampling monitoring primer virginia tech
+bayesian critique classical hypothesis testing
+critique classical hypothesis testing highlighting longstanding qualms statisticians
+dallal ge little handbook statistical practice good tutorial
+references arguments hypothesis testing
+statistical tests overview choose correct statistical test
+interactive online tool encourage understanding hypothesis testing
+non mathematical way understand hypothesis testing
+online calculators
+mbastats confidence interval hypothesis test calculators

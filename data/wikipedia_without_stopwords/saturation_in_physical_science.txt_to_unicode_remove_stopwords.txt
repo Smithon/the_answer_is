@@ -1,0 +1,29 @@
+colorimetry color theory colorfulness chroma saturation related distinct concepts referring perceived intensity specific color colorfulness visual sensation according perceived color area appears less chromatic
+chroma colorfulness relative brightness similarly illuminated area appears white highly transmitting therefore chroma confused colorfulness
+saturation colorfulness color relative brightness though general concept intuitive terms chroma saturation purity intensity often used without great precision even welldefined depend greatly specific color model use
+highly colorful stimulus vivid intense less colorful stimulus appears muted closer gray colorfulness color neutral gray image colorfulness colors called grayscale three color appearance parameterscolorfulness chroma saturation lightness brightness hueany color described
+saturationedit
+saturation one three coordinates hsl hsv color spaces
+saturation color determined combination light intensity much distributed across spectrum different wavelengths purest saturated color achieved using one wavelength high intensity laser light intensity drops result saturation drops desaturate color given intensity subtractive system watercolor one add white black gray hues complement
+various correlates saturation follow
+cieluv
+chroma normalized lightness
+un vn chromaticity white point chroma defined
+analogy cielab would yield
+cie formally recommended equation since cielab chromaticity diagram definition therefore lacks direct correlation older concepts saturation nevertheless equation provides reasonable predictor saturation demonstrates adjusting lightness cielab holding b fixed affect saturation
+following formula agreement human perception saturation formula proposed eva lbbe agreement verbal definition manfred richter saturation proportion pure chromatic color total color sensation
+sab saturation l lightness cab chroma color
+ciecam
+square root colorfulness divided brightness
+definition inspired experimental work done intention remedying ciecamss poor performance m proportional chroma c m cfl thus ciecam definition bears similarity cieluv definition important difference ciecam model accounts viewing conditions parameter fl
+excitation purityedit
+excitation purity purity short stimulus difference illuminants white point furthest point chromaticity diagram hue dominant wavelength monochromatic sources using cie color space
+xn yn chromaticity white point xi yi point perimeter whose line segment white point contains chromaticity stimulus different color spaces cielab cieluv may used yield different results
+chroma cie lab luv color spacesedit
+nave definition saturation specify response function cie xyz rgb color spaces saturation defined terms additive color mixing property proportional scaling centered white white point illuminant however color spaces nonlinear terms psychovisually perceived color differences also possibleand sometimes desirableto define saturationlike quantity linearized term psychovisual perception
+cie lab luv color spaces unnormalized chroma radial component cylindrical coordinate cie lch lightness chroma hue representation lab luv color spaces also denoted cie lchab cie lch short cie lchuv transformation b cab hab given
+analogously cie lchuv
+chroma cie lchab cie lchuv coordinates advantage psychovisually linear yet nonlinear terms linear component color mixing therefore chroma cie lab luv color spaces much different traditional sense saturation
+chroma color appearance modelsedit
+another psychovisually even accurate also complex method obtain specify saturation use color appearance model chroma color appearance parameter might depending color appearance model intertwined eg physical brightness illumination characteristics emittingreflecting surface sensible psychovisually
+referencesedit

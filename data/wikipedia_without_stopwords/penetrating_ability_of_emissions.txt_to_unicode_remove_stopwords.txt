@@ -1,0 +1,61 @@
+groundpenetrating radar gpr geophysical method uses radar pulses image subsurface nondestructive method uses electromagnetic radiation microwave band uhfvhf frequencies radio spectrum detects reflected signals subsurface structures gpr applications variety media including rock soil ice fresh water pavements structures right conditions practitioners use gpr detect subsurface objects changes material properties voids cracks
+gpr uses highfrequency usually polarized radio waves usually range mhz ghz gpr transmitter emits electromagnetic energy ground energy encounters buried object boundary materials different dielectric constants may reflected refracted scattered back surface receiving antenna record variations return signal principles involved similar seismology except electromagnetic energy used instead acoustic energy energy may reflected boundaries subsurface electrical properties change rather subsurface mechanical properties case seismic energy
+electrical conductivity ground transmitted center frequency radiated power may limit effective depth range gpr investigation increases electrical conductivity attenuate introduced electromagnetic wave thus penetration depth decreases frequencydependent attenuation mechanisms higher frequencies penetrate far lower frequencies however higher frequencies may provide improved resolution thus operating frequency always tradeoff resolution penetration optimal depth subsurface penetration achieved ice depth penetration achieve several thousand metres bedrock greenland low gpr frequencies dry sandy soils massive dry materials granite limestone concrete tend resistive rather conductive depth penetration could metre ft moist andor clayladen soils materials high electrical conductivity penetration may little centimetres
+groundpenetrating radar antennas generally contact ground strongest signal strength however gpr airlaunched antennas used ground
+cross borehole gpr developed within field hydrogeophysics valuable means assessing presence amount soil water
+applicationsedit
+gpr many applications number fields earth sciences used study bedrock soils groundwater ice utility prospecting gold nuggets diamonds alluvial gravel beds finding natural traps buried stream beds potential accumulating heavier particles chinese lunar rover yutu gpr underside investigate soil crust moon
+engineering applications include nondestructive testing ndt structures pavements locating buried structures utility lines studying soils bedrock environmental remediation gpr used define landfills contaminant plumes remediation sites archaeology used mapping archaeological features cemeteries gpr used law enforcement locating clandestine graves buried evidence military uses include detection mines unexploded ordnance tunnels
+borehole radars utilizing gpr used map structures borehole underground mining applications modern directional borehole radar systems able produce threedimensional images measurements single borehole
+one main applications groundpenetrating radars locating underground utilities standard electromagnetic induction utility locating tools require utilities conductive tools ineffective locating plastic conduits concrete storm sanitary sewers since gpr detects variations dielectric properties subsurface highly effective locating nonconductive utilities
+gpr often used channel television programme time team uses technology determine suitable area examination means excavations gpr used recover cash kidnapper michael sams received ransom estate agent kidnapped sams buried money field
+archaeologyedit
+ground penetrating radar survey one method used archaeological geophysics gpr used detect map subsurface archaeological artifacts features patterning
+concept radar familiar people ground penetrating radar radar signal electromagnetic pulse directed ground subsurface objects stratigraphy layering cause reflections picked receiver travel time reflected signal indicates depth data may plotted profiles planview maps isolating specific depths threedimensional models
+gpr powerful tool favorable conditions uniform sandy soils ideal like geophysical methods used archaeology unlike excavation locate artifacts map features without risk damaging among methods used archaeological geophysics unique ability detect small objects relatively great depths ability distinguish depth anomaly sources
+principal disadvantage gpr severely limited lessthanideal environmental conditions finegrained sediments clays silts often problematic high electrical conductivity causes loss signal strength rocky heterogeneous sediments scatter gpr signal weakening useful signal increasing extraneous noise
+militaryedit
+military applications groundpenetrating radar include detection unexploded ordnance detecting tunnels military applications common gpr applications practitioners often use gpr conjunction available geophysical techniques electrical resistivity electromagnetic induction methods
+threedimensional imagingedit
+individual lines gpr data represent sectional profile view subsurface multiple lines data systematically collected area may used construct threedimensional tomographic images data may presented threedimensional blocks horizontal vertical slices horizontal slices known depth slices time slices essentially planview maps isolating specific depths timeslicing become standard practice archaeological applications horizontal patterning often important indicator cultural activities
+limitationsedit
+significant performance limitation gpr highconductivity materials clay soils soils salt contaminated performance also limited signal scattering heterogeneous conditions eg rocky soils
+disadvantages currently available gpr systems include
+interpretation radargrams generally nonintuitive novice
+considerable expertise necessary effectively design conduct interpret gpr surveys
+relatively high energy consumption problematic extensive field surveys
+radar sensitive changes material composition detecting changes requires movement looking stationary items using surfacepenetrating groundpenetrating radar equipment needs moved order radar examine specified area looking differences material composition identify items pipes voids soil cannot identify specific materials gold precious gems however useful providing subsurface mapping potential gembearing pockets vugs readings confused moisture ground cant separate gembearing pockets nongembearing ones
+determining depth capabilities frequency range antenna dictates size antenna depth capability grid spacing scanned based size targets need identified results required typical grid spacings meter ft ft ft ft ground surveys ft walls floors
+speed radar signal travels dependent upon composition material penetrated depth target determined based amount time takes radar signal reflect back units antenna radar signals travel different velocities different types materials possible use depth known object determine specific velocity calibrate depth calculations
+power regulationedit
+european telecommunications standards institute introduced legislation regulate gpr equipment gpr operators control excess emissions electromagnetic radiation european gpr association eurogpr formed trade association represent protect legitimate use gpr europe
+similar technologiesedit
+groundpenetrating radar uses variety technologies generate radar signal impulse stepped frequency frequencymodulated continuouswave fmcw noise systems market also use digital signal processing dsp process data survey work rather offline
+special kind gpr uses unmodulated continuouswave signals holographic subsurface radar differs gpr types records planview subsurface holograms depth penetration kind radar rather small cm lateral resolution enough discriminate different types landmines soil cavities defects bugging devices hidden objects walls floors structural elements
+gpr used vehicles closein highspeed road survey landmine detection well standoff mode
+pipepenetrating radar ppr application gpr technologies applied inpipe signals directed pipe conduit walls detect pipe wall thickness voids behind pipe walls
+wallpenetrating radar read walls even act motion sensor police
+mineseeker project seeks design system determine whether landmines present areas using ultra wideband synthetic aperture radar units mounted blimps
+referencesedit
+daniels dj ed ground penetrating radar nd ed knoval institution engineering technology pp isbn
+wilson m g c henry g marshall r review alluvial diamond industry gravels north west province south africa pdf south african journal geology geological society south africa doigssajg retrieved december
+hofinghoff janflorian resistive loaded antenna ground penetrating radar inside bottom hole assembly ieee transactions antennas propagation ieee doitap
+birmingham mail
+conyers lawrence b dean goodman ground penetrating radar introduction archaeologists walnut creek ca altamira press
+gems technology vision underground ganoksin project retrieved february
+etsi eg v electromagnetic compatibility radio spectrum matters erm code practice respect control use application ground probing radar gpr wall probing radar wpr systems equipment
+impulse generator ground penetrating radar
+zhuravlev av ivashov si razevig vv vasiliev ia trk kizilay holographic subsurface imaging radar applications civil engineering pdf iet international radar conference xian china iet doicp httpwwwrslabrudownloadsapdf
+ivashov razevig v v vasiliev zhuravlev v bechtel d capineri l holographic subsurface radar rascan type development application pdf ieee journal selected topics applied earth observation remote sensing doijstars retrieved september
+borchert olaf receiver design directional borehole radar system dissertation university wuppertal
+readingedit
+conyers l b groundpenetrating radar archaeology walnut creek ca united states altamira press ltd
+general overview geophysical methods archaeology found following works
+clark anthony j seeing beneath soil prospecting methods archaeology london united kingdom bt batsford ltd
+gaffney chris john gater revealing buried past geophysics archaeologists stroud united kingdom tempus
+external linksedit
+eurogpr european gpr regulatory body
+gprmax gpr numerical simulator based fdtd method
+short movie showing acquisition processing accuracy gpr readings
+ground penetrating radar fundamentals
+fdtd animation sample gpr propagation youtube

@@ -1,0 +1,53 @@
+imaging spectroscopy (also hyperspectral or spectral imaging or chemical imaging) is similar to color photography but each pixel acquires many bands of light intensity data from the spectrum instead of just the three bands of the rgb color model more precisely it is the simultaneous acquisition of spatially coregistered images in many spectrally contiguous bands
+some spectral images contain only a few image planes of a spectral data cube while others are better thought of as full spectra at every location in the image for example solar physicists use the spectroheliograph to make images of the sun built up by scanning the slit of a spectrograph to study the behavior of surface features on the sun; such a spectroheliogram may have a spectral resolution of over 100,000 () and be used to measure local motion (via the doppler shift) and even the magnetic field (via the zeeman splitting or hanle effect) at each location in the image plane the multispectral images collected by the opportunity rover in contrast have only four wavelength bands and hence are only a little more than 3-color images
+to be scientifically useful such measurement should be done using an internationally recognized system of units
+one application is spectral geophysical imaging which allows quantitative and qualitative characterization of the surface and of the atmosphere using radiometric measurements these measurements can then be used for unambiguous direct and indirect identification of surface materials and atmospheric trace gases the measurement of their relative concentrations subsequently the assignment of the proportional contribution of mixed pixel signals (e.g. the spectral unmixing problem) the derivation of their spatial distribution (mapping problem) and finally their study over time (multi-temporal analysis) the moon mineralogy mapper on chandrayaan-1 was a geophysical imaging spectrometer
+== background ==
+in 1704 sir isaac newton demonstrated that white light could be split up into component colours the subsequent history of spectroscopy led to precise measurements and provided the empirical foundations for atomic and molecular physics (born & wolf 1999) significant achievements in imaging spectroscopy are attributed to airborne instruments particularly arising in the early 1980s and 1990s (goetz et al. 1985; vane et al. 1984) however it was not until 1999 that the first imaging spectrometer was launched in space (the nasa moderate-resolution imaging spectroradiometer or modis)
+terminology and definitions evolve over time at one time >10 spectral bands sufficed to justify the term "imaging spectrometer" but presently the term is seldom defined by a total minimum number of spectral bands rather by a contiguous (or redundant) statement of spectral bands
+the term hyperspectral imaging is sometimes used interchangeably with imaging spectroscopy due to its heavy use in military related applications the civil world has established a slight preference for using the term imaging spectroscopy
+== unmixing ==
+hyperspectral data is often used to determine what materials are present in a scene materials of interest could include roadways vegetation and specific targets (i.e pollutants hazardous materials etc.) trivially each pixel of a hyperspectral image could be compared to a material database to determine the type of material making up the pixel however many hyperspectral imaging platforms have low resolution (>5m per pixel) causing each pixel to be a mixture of several materials the process of unmixing one of these 'mixed' pixels is called hyperspectral image unmixing or simply hyperspectral unmixing
+=== models ===
+a solution to hyperspectral unmixing is to reverse the mixing process generally two models of mixing are assumed: linear and nonlinear linear mixing models the ground as being flat and incident sunlight on the ground causes the materials to radiate some amount of the incident energy back to the sensor each pixel then is modeled as a linear sum of all the radiated energy curves of materials making up the pixel therefore each material contributes to the sensor's observation in a positive linear fashion additionally a conservation of energy constraint is often observed thereby forcing the weights of the linear mixture to sum to one in addition to being positive the model can be described mathematically as follows:
+where represents a pixel observed by the sensor is a matrix of material reflectance signatures (each signature is a column of the matrix) and is the proportion of material present in the observed pixel this type of model is also referred to as a simplex
+with satisfying the two constraints: 1 abundance nonnegativity constraint (anc) - each element of x is positive 2 abundance sum-to-one constraint (asc) - the elements of x must sum to one
+non-linear mixing results from multiple scattering often due to non-flat surface such as buildings and vegetation
+=== unmixing (endmember detection) algorithms ===
+there are many algorithms to unmix hyperspectral data each with their own strengths and weaknesses many algorithms assume that pure pixels (pixels which contain only one materials) are present in a scene some algorithms to perform unmixing are listed below:
+pixel purity index (ppi) - works by projecting each pixel onto one vector from a set of random vectors spanning the reflectance space a pixel receives a score when it represent an extremum of all the projections pixels with the highest scores are deemed to be spectrally pure
+n-findr
+gift wrapping algorithm
+independent component analysis endmember extraction algorithm (ica-eea) - works by assuming that pure pixels occur independently than mixed pixels assumes pure pixels are present
+vertex component analysis (vca) - works on the fact that the affine transformation of a simplex is another simplex which helps to find hidden (folded) verticies of the simplex assumes pure pixels are present
+principal component analysis -(pca) could also be used to determine endmembers projection on principal axes could permit endmember selection [ smith,johnson et adams (1985) bateson et curtiss (1996) ]
+multi endmembers spatial mixture analysis (mesma) based on the sma algorithm
+spectral phasor analysis (spa) based on fourier transformation of spectra and plotting them on a 2d plot
+non-linear unmixing algorithms also exist: support vector machines (svm) or analytical neural network (ann)
+probabilistic methods have also been attempted to unmix pixel through monte carlo unmixing (mcu) algorithm
+=== abundance maps ===
+once the fundamental materials of a scene are determined it is often useful to construct an abundance map of each material which displays the fractional amount of material present at each pixel often linear programming is done to observed anc and asc
+== sensors ==
+modis on board eos terra and aqua platforms
+meris on board envisat
+hyperion on board earth observing-1
+several commercial manufacturers for laboratory ground based aerial or industrial imaging spectrographs
+== see also ==
+remote sensing
+hyperspectral imaging
+full spectral imaging
+list of earth observation satellites
+chemical imaging
+imaging spectrometer
+infrared microscopy
+phasor approach to fluorescence lifetime and spectral imaging
+== references ==
+goetz a.f.h. vane g. solomon j.e. & rock b.n (1985) imaging spectrometry for earth remote sensing science 228 1147
+schaepman m (2005) spectrodirectional imaging: from pixels to processes inaugural address wageningen university wageningen (nl)
+vane g. chrisp m. emmark h. macenka s. & solomon j (1984) airborne visible infrared imaging spec-trometer (aviris): an advanced tool for earth remote sensing european space agency (special publication) esa sp 2 751
+== external links ==
+about imaging spectroscopy (usgs): http://speclab.cr.usgs.gov/aboutimsp.html
+link to resources (oksi): http://www.techexpo.com/www/opto-knowledge/is_resources.html
+special interest group imaging spectroscopy (earsel): http://www.op.dlr.de/dais/sig-is/sig-is.html
+applications of spectroscopic and chemical imaging in research: http://www3.imperial.ac.uk/vibrationalspectroscopyandchemicalimaging/research
+analysis tool for spectral unmixing : http://www.spechron.com

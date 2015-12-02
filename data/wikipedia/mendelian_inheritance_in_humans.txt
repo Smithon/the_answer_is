@@ -1,0 +1,34 @@
+online mendelian inheritance in man (omim) is a continuously-updated catalog of human genes and genetic disorders and traits with a particular focus on the gene-phenotype relationship as of 23 july 2015 approximately 8,062 of the over 23,000 entries in omim represented phenotypes; the rest represented genes many of which were related to known phenotypes
+== versions and history ==
+omim is the online continuation of dr victor mckusick's mendelian inheritance in man (mim) which was published in 12 editions between 1966 and 1998 nearly all of the 1,486 entries in the first edition of mim discussed phenotypes
+mim/omim is produced and curated at the johns hopkins university school of medicine (jhusom) omim became available on the internet in 1987 under the direction of the welch medical library at jhusom with financial support from the howard hughes medical institute from 1995 to 2010 omim was available on the world wide web with informatics and financial support from the national center for biotechnology information the current omim website (omim.org) which was developed with funding from jhusom is maintained by johns hopkins university with financial support from the national human genome research institute
+== collection process and use ==
+the content of mim/omim is based on selection and review of the published peer-reviewed biomedical literature updating of content is performed by a team of science writers and curators under the direction of dr ada hamosh at the mckusick-nathans institute of genetic medicine of johns hopkins university while omim is freely available to the public it is designed for use primarily by physicians and other health care professionals concerned with genetic disorders by genetics researchers and by advanced students in science and medicine
+the database may be used as a resource for locating literature relevant to inherited conditions and its numbering system is widely used in the medical literature to provide a unified index for genetic diseases
+== mim classification system ==
+=== mim numbers ===
+each omim entry is given a unique six-digit identifier as summarized below:
+100000299999: autosomal loci or phenotypes (entries created before may 15 1994)
+300000399999: x-linked loci or phenotypes
+400000499999: y-linked loci or phenotypes
+500000599999: mitochondrial loci or phenotypes
+600000 and above: autosomal loci or phenotypes (entries created after may 15 1994)
+in cases of allelic heterogeneity the mim number of the entry is followed by a decimal point and a unique 4-digit number specifying the variant for example allelic variants in the hbb gene (141900) are numbered 141900.0001 through 141900.0538
+because omim has responsibility for the classification and naming of genetic disorders these numbers are stable identifiers of the disorders
+=== symbols preceding mim numbers ===
+symbols preceding mim numbers indicate the entry category:
+an asterisk (*) before an entry number indicates a gene
+a number symbol (#) before an entry number indicates that it is a descriptive entry usually of a phenotype and does not represent a unique locus the reason for the use of the number symbol is given in the first paragraph of the entry discussion of any gene(s) related to the phenotype resides in another entry (or entries) as described in the first paragraph
+a plus sign (+) before an entry number indicates that the entry contains the description of a gene of known sequence and a phenotype
+a percent sign (%) before an entry number indicates that the entry describes a confirmed mendelian phenotype or phenotypic locus for which the underlying molecular basis is not known
+no symbol before an entry number generally indicates a description of a phenotype for which the mendelian basis although suspected has not been clearly established or that the separateness of this phenotype from that in another entry is unclear
+a caret (^) before an entry number means the entry no longer exists because it was removed from the database or moved to another entry as indicated
+== see also ==
+mendelian inheritance
+online mendelian inheritance in animals
+medical classification
+comparative toxicogenomics database a database that integrates chemicals and genes with human diseases including omim data
+decipher a database of chromosomal imbalance and associated phenotype in humans using ensembl resources
+== references ==
+== external links ==
+omim home page

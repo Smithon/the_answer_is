@@ -1,0 +1,53 @@
+imaging spectroscopy also hyperspectral spectral imaging chemical imaging similar color photography pixel acquires many bands light intensity data spectrum instead three bands rgb color model precisely simultaneous acquisition spatially coregistered images many spectrally contiguous bands
+spectral images contain image planes spectral data cube others better thought full spectra every location image example solar physicists use spectroheliograph make images sun built scanning slit spectrograph study behavior surface features sun spectroheliogram may spectral resolution used measure local motion via doppler shift even magnetic field via zeeman splitting hanle effect location image plane multispectral images collected opportunity rover contrast four wavelength bands hence little color images
+scientifically useful measurement done using internationally recognized system units
+one application spectral geophysical imaging allows quantitative qualitative characterization surface atmosphere using radiometric measurements measurements used unambiguous direct indirect identification surface materials atmospheric trace gases measurement relative concentrations subsequently assignment proportional contribution mixed pixel signals eg spectral unmixing problem derivation spatial distribution mapping problem finally study time multitemporal analysis moon mineralogy mapper chandrayaan geophysical imaging spectrometer
+background
+sir isaac newton demonstrated white light could split component colours subsequent history spectroscopy led precise measurements provided empirical foundations atomic molecular physics born wolf significant achievements imaging spectroscopy attributed airborne instruments particularly arising early goetz et al vane et al however first imaging spectrometer launched space nasa moderateresolution imaging spectroradiometer modis
+terminology definitions evolve time one time spectral bands sufficed justify term imaging spectrometer presently term seldom defined total minimum number spectral bands rather contiguous redundant statement spectral bands
+term hyperspectral imaging sometimes used interchangeably imaging spectroscopy due heavy use military related applications civil world established slight preference using term imaging spectroscopy
+unmixing
+hyperspectral data often used determine materials present scene materials interest could include roadways vegetation specific targets ie pollutants hazardous materials etc trivially pixel hyperspectral image could compared material database determine type material making pixel however many hyperspectral imaging platforms low resolution m per pixel causing pixel mixture several materials process unmixing one mixed pixels called hyperspectral image unmixing simply hyperspectral unmixing
+models
+solution hyperspectral unmixing reverse mixing process generally two models mixing assumed linear nonlinear linear mixing models ground flat incident sunlight ground causes materials radiate amount incident energy back sensor pixel modeled linear sum radiated energy curves materials making pixel therefore material contributes sensors observation positive linear fashion additionally conservation energy constraint often observed thereby forcing weights linear mixture sum one addition positive model described mathematically follows
+represents pixel observed sensor matrix material reflectance signatures signature column matrix proportion material present observed pixel type model also referred simplex
+satisfying two constraints abundance nonnegativity constraint anc element x positive abundance sumtoone constraint asc elements x must sum one
+nonlinear mixing results multiple scattering often due nonflat surface buildings vegetation
+unmixing endmember detection algorithms
+many algorithms unmix hyperspectral data strengths weaknesses many algorithms assume pure pixels pixels contain one materials present scene algorithms perform unmixing listed
+pixel purity index ppi works projecting pixel onto one vector set random vectors spanning reflectance space pixel receives score represent extremum projections pixels highest scores deemed spectrally pure
+nfindr
+gift wrapping algorithm
+independent component analysis endmember extraction algorithm icaeea works assuming pure pixels occur independently mixed pixels assumes pure pixels present
+vertex component analysis vca works fact affine transformation simplex another simplex helps find hidden folded verticies simplex assumes pure pixels present
+principal component analysis pca could also used determine endmembers projection principal axes could permit endmember selection smithjohnson et adams bateson et curtiss
+multi endmembers spatial mixture analysis mesma based sma algorithm
+spectral phasor analysis spa based fourier transformation spectra plotting d plot
+nonlinear unmixing algorithms also exist support vector machines svm analytical neural network ann
+probabilistic methods also attempted unmix pixel monte carlo unmixing mcu algorithm
+abundance maps
+fundamental materials scene determined often useful construct abundance map material displays fractional amount material present pixel often linear programming done observed anc asc
+sensors
+modis board eos terra aqua platforms
+meris board envisat
+hyperion board earth observing
+several commercial manufacturers laboratory ground based aerial industrial imaging spectrographs
+see also
+remote sensing
+hyperspectral imaging
+full spectral imaging
+list earth observation satellites
+chemical imaging
+imaging spectrometer
+infrared microscopy
+phasor approach fluorescence lifetime spectral imaging
+references
+goetz afh vane g solomon je rock bn imaging spectrometry earth remote sensing science
+schaepman m spectrodirectional imaging pixels processes inaugural address wageningen university wageningen nl
+vane g chrisp m emmark h macenka solomon j airborne visible infrared imaging spectrometer aviris advanced tool earth remote sensing european space agency special publication esa sp
+external links
+imaging spectroscopy usgs httpspeclabcrusgsgovaboutimsphtml
+link resources oksi httpwwwtechexpocomwwwoptoknowledgeisresourceshtml
+special interest group imaging spectroscopy earsel httpwwwopdlrdedaissigissigishtml
+applications spectroscopic chemical imaging research httpwwwimperialacukvibrationalspectroscopyandchemicalimagingresearch
+analysis tool spectral unmixing httpwwwspechroncom

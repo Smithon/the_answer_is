@@ -1,0 +1,470 @@
+configsys primary configuration file dos os operating systems special ascii text file contains useraccessible setup configuration directives evaluated operating system boot configsys introduced dos
+usage
+directives file configure dos use devices applications system configsys directives also set memory managers system processing configsys file dos proceeds load execute command shell specified shell line configsys commandcom line command shell turn responsible processing autoexecbat file
+configsys composed mostly namevalue directives look like variable assignments fact either define tunable parameters often resulting reservation memory load files mostly device drivers tsrs memory
+dos configsys located root directory drive system booted
+versions dos probe alternative filenames taking precedence default configsys filename exist
+older versions concurrent dos support configsys files later versions concurrent dos concurrent dos xm well multiuser dos system manager real probe cconfigsys c derived concurrent instead configsys versions multiuser dos use filename cconfigini instead whereas real known look mconfigsys operating systems support many additional different configuration settings known msdospc dos stored binary repository named cconfigbin rather cconfigini files typically modified configuration utility named configexe
+drdos palmdos novell dos opendos drdos higher file named dconfigsys d derived dr dos present take precedence configsys since dr dos used conjunction disk compression software original boot drive c would become drive d loading compression driver d file name came handy well commonly used help maintain multiple configuration files multiboot scenarios addition opendos dropendos look file named odconfigsys whereas issues drdos higher instead also look drconfigsys dr dos higher sys drext command used change default file extensions example sys l dr written volume boot record would look renamed modified ibmbio system file instead default ibmbiocom ibmbio would look ibmdos dconfig instead ibmdoscom dconfigsys multiple parallel sets files coexist root directory selected via bootloader like loader supplied multiuser dos drdos shell directive enhanced provide means specify alternative autoexecbat files via pfilenameext specific scenario commandcom accept file extensions bat well features also supported dos dr dos higher configsys directive chainfilespec used continue processing named file necessarily need reside root directory boot drive drdos higher optionally support additional parameter chainfilespeclabel jump specific label given file drdos higher support new sys parameter order copy corresponding configsys autoexecbat files alongside system files
+freedos implements similar feature fdconfigsys configuration file ptsdos uses configpts
+configsys autoexecbat found included root folder windows windows boot drives based dos typically files left empty content strictly required run windows programs versions
+windows even parse configsys file windows boot process loading settings windows registry instead
+hklmsystemcurrentcontrolsetcontrolsessionmanagerenvironment
+flexos configsys binary file defining resource managers device drivers loaded
+configsys directives
+dr dos higher
+defines labels configsys jump targets chain drswitch goto gosub switch directives
+dos dr dos higher
+similar rem used also inline comments following configsys directives see comment msdospc dos inlinecomment ignored put doublequotes
+ptsdos
+used lead inline comments addition directive
+dr dos higher embedded dos freedos
+displays yesno query since dr dos optional message ask user confirmation execute following configsys directives freedos support optional messages optional conditions conjunction boot menus defined menu menudefault dos higher supports similar feature adding corresponding configsys directive fe device device instead device variant also supported dr dos
+freedos
+unconditionally execute following configsys directive
+abort ptsdos
+specifies programs aborted errors
+accdate msdos higher ignored drdos higher
+configures drives store file access date stamps reserved area directory entries fat file systems
+ptsdos
+conditional execution atcompatible machines
+autocheck ptsdos
+boot manager
+autofail os
+configures verbosity error messages
+aux drdos higher
+changes internal default serial device driver com com aux device
+availdev dos drdos higher
+disables availability character devices outside phantom dev directory
+basedev os
+loads base device driver memory
+beep drdos higher
+emits short beep even audible notifications disabled via switchesq
+bootnext drmk
+specifies operating system booted
+break dos dr dos higher os
+sets clears extended ctrlc checking
+buffers dos dr dos higher os
+specifies number disk buffers allocate
+buffershigh msdos drdos higher freedos
+buffers explicitly loads buffers hma umb like hibuffers dr dos higher
+cachesize embedded dos xl
+maximum number byte cache blocks dynamically allocated system pool
+cachettl embedded dos xl
+maximum time ms unused cache blocks returned system pool
+cacheflush embedded dos xl
+maximum time ms dirty cache block gets flushed disk
+call os higher
+similar install dos loads programs configsys similar run os runs foreground halts configsys processing return
+capslock drdos higher
+specifies whether keyboard caps lock status turned
+cddname ptsdos
+specifies name cdrom hardware driver
+cddbuffers ptsdos
+specifies number buffers cdrom access
+chain dr dos higher embedded dos
+continues configsys processing new file since drdos optional label
+clock ptsdos
+specifies type clock used system
+cls dr dos higher
+clears screen
+codepage os
+specifies oem codepages
+cmosaddr ptsdos
+specifies address cmos ram
+color ptsdos
+specifies colors boot menus
+com drdos higher
+defines count logical order configures io address timeout com device
+com drdos higher
+defines count logical order configures io address timeout com device
+com drdos higher
+defines count logical order configures io address timeout com device
+com drdos higher
+defines count logical order configures io address timeout com device
+comarea ptsdos
+specifies buffer dma
+comment dos higher rxdos ignored drdos higher embedded dos ptsdos
+redefines leadin characters configsys inlinecomments causes following line ignored
+country dos dos plus fiddload dr dos higher os
+enables configures international support
+cpos dr dos higher
+sets display cursor specified position configuration menus
+cpsw msdos ignored drdos higher
+codepage switching support
+cpu ptsdos
+specifies ram refresh speed
+cpu ptsdos
+conditional execution cpus
+cpu ptsdos
+conditional execution higher cpus
+cpu ptsdos
+conditional execution cpus
+cpu ptsdos
+conditional execution higher cpus
+cpu ptsdos
+conditional execution cpus
+cpu ptsdos
+conditional execution higher cpus
+cpu drdos higher ptsdos
+conditional execution higher cpus fe cpu devicecdosemmexe cpu goto label
+cpu ptsdos
+conditional execution higher cpus
+cpu ptsdos
+conditional execution cpus
+cpu ptsdos
+conditional execution higher cpus
+ddscs edrdos
+configures relocation drive descriptor tables
+deblock dr dos update higher
+specifies memory segment address multisector disk data deblocking allowed
+debug dr dos higher
+enables internal debugger support
+default ptsdos
+boot manager
+device dos dos plus fiddload dr dos higher os
+loads device driver memory
+devicehigh dos dr dos higher os
+loads device driver upper memory hidevice dr dos
+devinfo os
+configures country codepage information kbd scr lpt lpt lpt devices
+diskcache os ignored drdos higher
+configures cache memory sizes
+diskette ptsdos
+specifies floppy disk compatibility mode
+display ptsdos
+specifies display font
+dos dos dr dos higher os
+specifies whether load dos high memory area andor use upper memory similar hidoson dr dos
+dosdata pc dos higher freedos edrdos drmk
+specifies whether load dos tables buffers fcbs files lastdrive stacks upper memory
+dosdir ptsdos
+specifies alternative path search dos files
+dpbs drmk
+dpath os higher
+specifies search path data files
+drivattr ptsdos
+specifies physical parameters disk drives
+drivparm dos higher
+define parameters unrecognized drives
+drswitch dr dos higher
+see switch
+dumpprocess os higher
+enables specifies drive pdumpnnn error logs
+echo dr dos higher ptsdos freedos
+displays message screen
+eecho freedos
+displays message including ansi escape sequences
+errexe ptsdos
+specifies additional checks carried starting programs
+error dr dos higher
+specifies error return code assumed following
+execaoff ptsdos
+specifies state gate starting program
+exit dr dos higher
+finishes configsys processing end file reached except switches shell directive processing conditions
+fastopen dr dos higher ptsdos
+specified size hash table fast file open operations works considerably differently external msdospc dos fastopen driver
+fcbs dos dr dos higher os
+specifies number cached fcbs opened drdos fcbs files dynamically share internal buffer
+fcbshigh msdos drdos higher
+fcbs explicitly loads fcbs upper memory
+filename ptsdos
+boot manager
+files dos dr dos higher os
+specifies number files opened
+fileshigh msdos drdos higher freedos
+files explicitly loads file handles upper memory
+force ptsdos
+include execution specified configsys subsections see ignore
+getkey dr dos higher
+waits key timeout sets error level ascii code timeout
+goto dr dos higher
+continues configsys processing specified label
+gosub dr dos higher
+continues nested configsys processing specified label return returning old location
+hibuffers dr dos higher
+see buffershigh doshighumb dosdata
+hidevice dr dos higher
+see devicehigh
+hidos dr dos higher
+see doshighumb
+hifcbs dr dos higher edrdos drmk
+see fcbshigh dosdata
+hifiles dr dos higher edrdos drmk
+see fileshigh dosdata
+hiinstall dr dos higher
+see installhigh
+hiinstalllast edrdos drmk
+installs tsr program memory like hiinstall installs dos data segment relocation
+hilastdrive drdos higher edrdos drmk
+see lastdrivehigh dosumb dosdata
+hishell drdos higher
+see shellhigh
+histacks drdos higher edrdos drmk
+see stackshigh dosdata
+history dr dos higher
+enables configures console command line history buffer extended pattern search functionality
+hmarea ptsdos
+specifies address hma segment
+idlehalt freedos
+configures hlt energy saving
+idtchk ptsdos
+specifies system check boot sector viruses
+ifs msdos ignored drdos higher os
+loads installable file systems
+ignore ptsdos
+exclude execution specified configsys subsections see force
+iopl os
+specifies programs would normally run cpus iopl ring allowed run ring order directly access hardware io
+include dos higher drdos freedos
+include directives another menu block emulated using gosub return drdos
+insert drdos higher
+specifies whether keyboard insert mode status turned
+install dos dr dos higher
+installs tsr program memory
+installhigh dos dr dos higher
+installs tsr program upper memory hiinstall dr dos
+installlast edrdos drmk
+installs tsr program memory like install installs dos data segment relocation
+irqpriority embedded dos xl
+rotates pic controller interrupt priorities specified number gets highest priority
+keyboard ptsdos
+specifies keyboard layout
+keybuf freedos
+specifies address relocated keyboard buffer
+lastdrive dos dos plus fiddload dr dos higher os
+specifies maximum drives accessed
+lastdrivehigh msdos drdos higher freedos
+lastdrive explicitly loads current directory structure cds upper memory
+libpath os
+specifies list search paths dlls
+loadfix ptsdos
+specifies old programs handled
+locks ptsdos
+specifies number file locks
+logo msdos higher ptsdos ignored drdos higher
+configures boot logo support msdos allows display startup message conjunction ptsdos boot manager
+lpt drdos higher
+defines count logical order configures io address timeout lpt device
+lpt drdos higher
+defines count logical order configures io address timeout lpt device
+lpt drdos higher
+defines count logical order configures io address timeout lpt device
+lpt versions drdos higher
+enables defines count logical order configures io address timeout lpt device
+maxwait os
+specifies time waiting process gets higher priority
+memman os
+configures memory allocation strategy
+memory ptsdos
+specifies default dos memory allocation strategy
+menu freedos
+defines menu options
+menucolor dos higher dr dos freedos
+specifies menu colors emulated using echo drdos
+menudefault dos higher freedos dr dos
+specifies default menu block emulated using timeout switch drdos
+menuitem dos higher dr dos freedos
+specifies menu block emulated using echo switch drdos
+multitrack dos drdos higher ignored ptsdos
+specifies whether multitrack disk operations used
+nochar drdos higher
+specifies default n character yesnoresume questions
+numlock dos novell dos higher
+specifies whether keyboard num lock status turned
+onerror dr dos higher
+conditional execution depending last return codeerror status fe onerror goto failload onerror onerror onerror echo error occurred
+pause ptsdos
+similar echo getkey drdos displays text waits key press
+pauseonerror os
+specifies user must acknowledge errors configsys
+printmonbufsize os
+configures buffer size lpt lpt lpt
+pc ptsdos
+conditional execution pccompatible machines
+priority os
+configures priority scheduler
+prioritydiskio os
+configures priority programs using disk io
+prn drdos higher
+changes internal default printer device driver lpt lpt even lpt prn device
+protectonly os
+specifies dos programs run
+protshell os
+loads user interface
+ps ptsdos
+conditional execution pscompatible machines
+ps ptsdos
+conditional execution pscompatible machines
+quiet ptsdos drmk
+mutes display output send stdout
+reipl os higher
+specifies system reboot automatically errors
+rem dos dr dos higher ignored ptsdos
+allows comments configsys
+reservedriveletter os fixpack higher
+specifies drive letter used local block device drivers
+resumechar drdos higher
+specifies default resume r character yesnoresume queries
+return dr dos higher
+returns nested configsys processing previous location gosub switch directive optional return code given otherwise assumed
+rmsize os ignored drdos higher
+defines real mode memory size
+run os
+similar call loads programs configsys similar install dos call os loads programs background concurrenty
+savename ptsdos
+specifies first character deleted files stored reserved area directory entries fat file system
+screen freedos ptsdos
+similar videomode ptsdos specifies video mode used freedos ptsdos screen specify video mode screen access methods
+scrollock drdos higher
+specifies whether keyboard scroll lock status turned
+set dos dr dos higher os
+sets environment variables
+shell dos dr dos higher os
+loads command interpreter shell
+shellhigh drdos higher ptsdos freedos
+shell supports additional size parameter define size preallocation commandcom relocate resident portion hma mh useful avoid hma fragmentation conjunction thirdparty shells cannot load hma shellhigh ptsdos tries load shell umbs instead
+shiftstate ptsdos
+specifies state keyboard modifiers like shift lock num lock scroll lock insert mode
+shutdown ptsdos
+specifies files closed ctrlaltdel
+softreboot ptsdos
+specifies post skipped reboots
+stack ignored dr dos higher
+compatibility dummy dr dos mostly reentrant different stacks layout
+stacks dos novell dos higher ignored dr dos ptsdos
+specifies number stacks hardware interrupts
+stacksize embedded dos xl
+default size size allocated new threads
+stackshigh msdos drdos higher freedos
+stacks explicitly loads buffers upper memory
+storage ptsdos
+boot manager
+string msdos ignored drdos higher
+internal use
+stuba ptsdos
+specifies xms gate control work
+submenu dos higher dr dos freedos
+specifies submenu block emulated using cls echo switch drdos
+suppresspopups os higher
+specifies drive log error information instead displaying textmode popup screen
+swappath os
+specifies swap file path
+switch dr dos higher
+conditionally continues nested configsys processing one specified labels depending keys pressed return returning old location
+switchar dos dos plus fiddload drdos higher ptsdos freedos rxdos
+defines default switchar used system either
+switches dos novell dos higher ignored ptsdos
+specifies special options
+sxfakehwfpu os warp fixpak higher
+specifies fix fpu rounding bug activated
+sysboot ptsdos
+specifies file name alternative dos operating systems boot
+sysgen ptsdos
+configures location various dos parts memory
+sysload ptsdos
+load system alternative disk area
+systempool embedded dos xl
+size system memory pool system dynamically allocates various purposes
+systoumb ptsdos
+specifies dos data code loaded umbs
+threads os
+specifies number concurrent threads
+timeout dr dos higher ptsdos
+specifies timeouts configsys singlestepping switch getkey default answers yesno queries switch selections ptsdos supports timeout value
+timeslice os
+configures minimum maximum time slices scheduler
+tmpext ptsdos
+specifies file extension temporary files
+trace drdos higher ptsdos os
+globally locally enables disables configsys autoexecbat singlestepping execution functionality os differs significantly dos
+tracebuf os
+specifies size trace log buffer
+trapdump os higher
+logs detailed error information
+umb embedded dos
+configures dos management use specific segment umb memory
+umbsrv ptsdos
+configures umb server used
+useram ptsdos
+specifies address ranges used umb ram
+verify drdos higher embedded dos
+enables disables disk write verification
+version freedos embedded dos edrdos
+specifies dos version optionally true dos version reported programs
+vgascreen ptsdos
+configures vga display status
+videomode ptsdos
+similar screen freedos specifies current video mode
+virtdma ptsdos
+specifies virtual dma used
+vme os
+specifies processors virtual mode extensions vme deactivated
+vxd ptsdos
+configures vxd driver windows
+windows ptsdos
+configures system support windows
+xbda edrdos drmk
+configures relocation extended bios data area xbda
+xt ptsdos
+conditional execution xtcompatible machines
+year drdos higher
+configures builtin year support
+yeschar palmdos dr dos updates novell dos higher
+specifies default yes y character yesnoresume queries
+zombiedrv ptsdos
+configures deletion tracking
+examples
+example configsys msdos higher
+first line causes dos use high memory area upper memory possible freeing conventional memory applications use
+second line loads himemsys driver enables dos use high memory area
+third line loads emm memory manager emulates expanded memory command line argument ram allows use upper memory area another argument given emmexe noems allows use upper memory area without emulating expanded memory noems switch also frees upper memory blocks
+fourth line loads ansisys device driver upper memory area
+fifth line sets maximum number files opened
+last line sets shell default shell commandcom starts cdos working directory environment size bytes p indicates primary process therefore cannot shut using exit command
+msdos version optional dos boot menu configurable user could configure number boot configurations choose one startup great use various dos applications preferred different settings optimal functionality
+example configsys msdos boot menu
+layout dos boot menu fairly selfexplanatory menu section defines menu entries option menudefault allows default choice countdown timer starts seconds common area holds lines start every menu choice later win xms areas specific configuration
+later boot file autoexecbat would receive chosen selection special config environment variable thereby could branch separately configured areas within batch file well
+features configsys menu described
+httpdosrsvsnetdospageconfmenuhtm
+general systype files loaded configsys exe programs version caching software smartdrv provided microsoft msdos x lbacache freedos loaded autoexecbat file however ways load device drivers dynamically command line devload dynaload well program files configsys processing install installhigh hiinstall directives
+issues
+system still boot files missing corrupted however two files essential complete bootup process occur dos operating system contain information used customize operating system personal use also contain requirements different software application packages dos system would require troubleshooting either files became damaged corrupted
+configsys contain shell directive file corrupt missing dos typically searches commandcom root directory boot drive found versions dos start msdos pc dos novell dos higher instead display prompt enter path filename command processor recovery prompt also displayed primary command processor aborted due faults exited deliberately case commandcom internal exit command disabled shell started p also provides limited means replace shell without reboot system since msdos higher commandcom executable incompatible drdos typically resides root drive c dualboot scenarios drdos drdos higher longer allow bypass shell directives ctrlfff skiptracestep modes later issues added ctrlf reinvoke former f skip behaviour order allow recovery problems invalid shell arguments well also shell directive could found skipping configsys processing via ctrlf also ctrlff default file extension changed sys drext user prompted enter valid shell file name trying load commandcom root pressing enter without specifying file assume former default
+depending version size configsys file limited kilobytes msdospc dos kb recent versions whereas files size unlimited drdos former operating systems compile file tokenized inmemory representation sort regroup directives processed specific order device drivers always loaded tsrs whereas drdos interprets file executes directives linebyline thereby giving full control load order drivers tsrs via device install example solve load order conflicts load program debugger device driver debugged allowing adapt user interaction change flow file based conditions like processor types installed type keys pressed load input errors occurring return codes given loaded software becomes particularly useful since install also used run nonresident software drdos temporary external programs integrated configsys control flow
+msdospc dos length shell line limited characters whereas characters possible later versions drdos even accepts characters configsys directives accept long filenames
+dual booting dos windows x
+installing windows preexisting doswindows install configsys autoexecbat renamed configdos autoexecdos intended ease dual booting windows x dos booting dos temporarily renamed configsys autoexecbat backups windows versions made configw autoexecw files
+caldera drdos installed system already containing windows windows configsys autoexecbat retain names drdos startup files installed dconfigsys name already used earlier versions dr dos autodosbat
+os nt
+os uses configsys file extensively setting configuration drivers environment graphical part system loads
+os subsystem windows nt appeared configsys os programs actually stored registry
+many undocumented poorly documented configsys directives used os
+see also
+autoexecbat
+commandcom
+dos
+ibmbiocom
+ibmdoscom
+iosys
+msdossys
+list dos commands
+references
+b c d e f g h j k matthias paul nwdostips tips tricks rund um novell dos mit blick auf undokumentierte details bugs und workarounds mpdostip ebook german edition release ed retrieved nwdostiptxt comprehensive work novell dos opendos including description many undocumented features internals part authors yet larger mpdostipzip collection maintained distributed many sites time provided link points htmlconverted older version nwdostiptxt file
+b caldera inc drdos user guide
+b c d e f g h j k l m n o p q r u v w x y z aa ab paul matthias caldera opendos update alpha ibmbiocom readmetxt retrieved
+b matthias paul nwdostips tips tricks rund um novell dos mit blick auf undokumentierte details bugs und workarounds mpdostip ebook german edition release ed
+poarch mad april booting multiple operating systems dr multiuser dos loader utility volume number novell archived original retrieved
+b c d e f g conn rex rawson tom paul matthias dye charles georgiev luchezar dos online help
+understanding settings windows millennium edition configsys file
+microsoft windows cdrom configtxt file article revision retrieved hard disk specifies whether record date files last accessed last access dates turned drives computer started safe mode maintained floppy disks default syntax accdatedrive drive
+configsys statements used os rexx tips tricks version retrieved january
+external links
+information autoexecbat configsys
+description windows msdos configsys directives
+description drdos configsys directives incomplete
+description freedos configsys directives
+ptsdos pro user manual including description ptsdos configsys directives incomplete
+inoffizielle deutschsprachige ptsdosfaq ptsfaqd inofficial german ptsdos faq including configsys directives

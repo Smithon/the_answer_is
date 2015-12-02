@@ -1,0 +1,51 @@
+halflife amount time required amount something fall half initial value term commonly used nuclear physics describe quickly unstable atoms undergo radioactive decay also used generally discussing type exponential decay
+original term dating ernest rutherfords discovery principle halflife period shortened halflife early rutherford applied principle radioactive elements halflife studies age determination rocks measuring decay period radium lead
+halflife used describe quantity undergoing exponential decay constant lifetime decaying quantity characteristic unit exponential decay equation term halflife may generically used refer period time quantity falls half even decay exponential table right shows reduction quantity number halflives elapsed general introduction description exponential decay see exponential decay general introduction description nonexponential decay see rate law converse halflife doubling time
+probabilistic nature halflifeedit
+halflife usually describes decay discrete entities radioactive atoms case work use definition halflife time required exactly half entities decay example radioactive atoms halflife one second atoms left one second
+instead halflife defined terms probability halflife time required exactly half entities decay average words probability radioactive atom decaying within halflife
+example image right simulation many identical atoms undergoing radioactive decay note one halflife exactly onehalf atoms remaining approximately random variation process nevertheless many identical atoms decaying right boxes law large numbers suggests good approximation say half atoms remain one halflife
+various simple exercises demonstrate probabilistic decay example involving flipping coins running statistical computer program
+formulas halflife exponential decayedit
+exponential decay process described following three equivalent formulas
+n initial quantity substance decay quantity may measured grams moles number atoms etc
+nt quantity still remains yet decayed time
+halflife decaying quantity
+positive number called mean lifetime decaying quantity
+positive number called decay constant decaying quantity
+three parameters directly related following way
+ln natural logarithm approximately
+plugging manipulating relationships get following equivalent descriptions exponential decay terms halflife
+regardless written plug formula get
+expected definition initial quantity
+expected definition halflife
+ie amount approaches zero approaches infinity expected longer wait less remains
+decay two processesedit
+quantities decay two exponentialdecay processes simultaneously case actual halflife related halflives quantity would decay processes acted isolation
+three processes analogous formula
+proof formulas see exponential decaydecay two processes
+examplesedit
+halflife describing exponentialdecay process example
+current flowing rc circuit rl circuit decays halflife respectively example term half time might used instead half life mean thing
+firstorder chemical reaction halflife reactant reaction rate constant
+radioactive decay halflife length time chance atom undergone nuclear decay varies depending atom type isotope usually determined experimentally see list nuclides
+half life species time takes concentration substance fall half initial value
+halflife nonexponential decayedit
+decay many physical quantities exponentialfor example evaporation water puddle often chemical reaction molecule cases halflife defined way time elapsed half original quantity decayed however unlike exponential decay halflife depends initial quantity prospective halflife change time quantity decays
+example radioactive decay carbon exponential halflife years quantity carbon decay half original amount average years regardless big small original quantity another years onequarter original remain hand time take puddle halfevaporate depends deep puddle perhaps puddle certain size evaporate half original volume one day second day reason expect onequarter puddle remain fact probably much less example halflife reduces time goes nonexponential decays increase instead
+decay mixture two materials decay exponentially different halflives exponential mathematically sum two exponential functions single exponential function common example situation waste nuclear power stations mix substances vastly different halflives consider sample containing rapidly decaying element halflife second slowly decaying element b halflife one year seconds almost atoms element decayed repeated halving initial total number atoms atoms element b decayed yet tiny fraction halflife elapsed thus mixture taken whole decay halves
+halflife biology pharmacologyedit
+biological halflife elimination halflife time takes substance drug radioactive nuclide lose onehalf pharmacologic physiologic radiological activity medical context halflife may also describe time takes concentration blood plasma substance reach onehalf steadystate value plasma halflife
+relationship biological plasma halflives substance complex due factors including accumulation tissues active metabolites receptor interactions
+radioactive isotope decays almost perfectly according socalled first order kinetics rate constant fixed number elimination substance living organism usually follows complex chemical kinetics
+example biological halflife water human days though altered behavior various conditions biological halflife cesium human beings one four months
+see alsoedit
+half time physics
+list isotopes halflife
+mean lifetime
+referencesedit
+external linksedit
+nucleonicanet nuclear science portal
+nucleonicanet wiki decay engine
+bucknelledu system dynamics time constants
+subotexcom halflife elimination drugs blood plasma simple charting tool

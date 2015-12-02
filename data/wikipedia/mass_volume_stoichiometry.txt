@@ -1,0 +1,164 @@
+stoichiometry /stkimtri/ is the calculation of relative quantities of reactants and products in chemical reactions
+stoichiometry is founded on the law of conservation of mass where the total mass of the reactants equals the total mass of the products leading to the insight that the relations among quantities of reactants and products typically form a ratio of positive integers this means that if the amounts of the separate reactants are known then the amount of the product can be calculated conversely if one reactant has a known quantity and the quantity of product can be empirically determined then the amount of the other reactants can also be calculated
+as seen in the image to the right where the balanced equation is:
+ch
+4 + 2 o
+2 co
+2 + 2 h
+2o
+here one molecule of methane reacts with two molecules of oxygen gas to yield one molecule of carbon dioxide and two molecules of water stoichiometry measures these quantitative relationships and is used to determine the amount of products/reactants that are produced/needed in a given reaction describing the quantitative relationships among substances as they participate in chemical reactions is known as reaction stoichiometry in the example above reaction stoichiometry measures the relationship between the methane and oxygen as they react to form carbon dioxide and water
+because of the well known relationship of moles to atomic weights the ratios that are arrived at by stoichiometry can be used to determine quantities by weight in a reaction described by a balanced equation this is called composition stoichiometry
+gas stoichiometry deals with reactions involving gases where the gases are at a known temperature pressure and volume and can be assumed to be ideal gases for gases the volume ratio is ideally the same by the ideal gas law but the mass ratio of a single reaction has to be calculated from the molecular masses of the reactants and products in practice due to the existence of isotopes molar masses are used instead when calculating the mass ratio
+== etymologyedit ==
+the term stoichiometry was first used by jeremias benjamin richter in 1792 when the first volume of richter's stoichiometry or the art of measuring the chemical elements was published the term is derived from the greek words stoicheion "element" and metron "measure" in patristic greek the word stoichiometria was used by nicephorus to refer to the number of line counts of the canonical new testament and some of the apocrypha
+== definitionedit ==
+a stoichiometric amount or stoichiometric ratio of a reagent is the optimum amount or ratio where assuming that the reaction proceeds to completion:
+all of the reagent is consumed
+there is no deficiency of the reagent
+there is no excess of the reagent
+stoichiometry rests upon the very basic laws that help to understand it better i.e. law of conservation of mass the law of definite proportions (i.e. the law of constant composition) the law of multiple proportions and the law of reciprocal proportions in general chemical reactions combine in definite ratios of chemicals since chemical reactions can neither create nor destroy matter nor transmute one element into another the amount of each element must be the same throughout the overall reaction for example the number of atoms of a given element x on the reactant side must equal the number of atoms of that element on the product side whether or not all of those atoms are actually involved in a reaction
+chemical reactions as macroscopic unit operations consist of simply a very large number of elementary reactions where a single molecule reacts with another molecule as the reacting molecules (or moieties) consist of a definite set of atoms in an integer ratio the ratio between reactants in a complete reaction is also in integer ratio a reaction may consume more than one molecule and the stoichiometric number counts this number defined as positive for products (added) and negative for reactants (removed)
+different elements have a different atomic mass and as collections of single atoms molecules have a definite molar mass measured with the unit mole (6.02 1023 individual molecules avogadro's constant) by definition carbon-12 has a molar mass of 12 g/mol thus to calculate the stoichiometry by mass the number of molecules required for each reactant is expressed in moles and multiplied by the molar mass of each to give the mass of each reactant per mole of reaction the mass ratios can be calculated by dividing each by the total in the whole reaction
+elements in their natural state are mixtures of isotopes of differing mass thus atomic masses and thus molar masses are not exactly integers for instance instead of an exact 14:3 proportion 17.04 kg of ammonia consists of 14.01 kg of nitrogen and 3 1.01 kg of hydrogen because natural nitrogen includes a small amount of nitrogen-15 and natural hydrogen includes hydrogen-2 (deuterium)
+a stoichiometric reactant is a reactant that is consumed in a reaction as opposed to a catalytic reactant which is not consumed in the overall reaction because it reacts in one step and is regenerated in another step
+== converting grams to molesedit ==
+stoichiometry is not only used to balance chemical equations but also used in conversions i.e. converting from grams to moles or from grams to milliliters for example to find the amount of nacl (sodium chloride) in 2.00 g one would do the following:
+in the above example when written out in fraction form the units of grams form a multiplicative identity which is equivalent to one (g/g=1) with the resulting amount in moles (the unit that was needed) as shown in the following equation
+== molar proportionedit ==
+stoichiometry is often used to balance chemical equations (reaction stoichiometry) for example the two diatomic gases hydrogen and oxygen can combine to form a liquid water in an exothermic reaction as described by the following equation:
+2 h
+2 + o
+2 2 h
+2o
+reaction stoichiometry describes the 2:1:2 ratio of hydrogen oxygen and water molecules in the above equation
+the molar ratio allows for conversion between moles of one substance and moles of another for example in the reaction
+2 ch
+3oh + 3 o
+2 2 co
+2 + 4 h
+2o
+the amount of water that will be produced by the combustion of 0.27 moles of ch
+3oh is obtained using the molar ratio between ch
+3oh and h
+2o of 2 to 4
+the term stoichiometry is also often used for the molar proportions of elements in stoichiometric compounds (composition stoichiometry) for example the stoichiometry of hydrogen and oxygen in h2o is 2:1 in stoichiometric compounds the molar proportions are whole numbers
+== determining amount of productedit ==
+stoichiometry can also be used to find the quantity of a product yielded by a reaction if a piece of solid copper (cu) were added to an aqueous solution of silver nitrate (agno3) the silver (ag) would be replaced in a single displacement reaction forming aqueous copper(ii) nitrate (cu(no3)2) and solid silver how much silver is produced if 16.00 grams of cu is added to the solution of excess silver nitrate
+the following steps would be used:
+write and balance the equation
+mass to mole: convert g cu to moles cu
+mole ratio: convert moles of cu to moles of ag produced
+mole to mass: convert moles ag to grams of ag produced
+the complete balanced equation would be:
+cu + 2 agno
+3 cu(no
+3)
+2 + 2 ag
+for the mass to mole step the mass of copper (16.00 g) would be converted to moles of copper by dividing the mass of copper by its molecular mass: 63.55 g/mol
+now that the amount of cu in moles (0.2518) is found we can set up the mole ratio this is found by looking at the coefficients in the balanced equation: cu and ag are in a 1:2 ratio
+now that the moles of ag produced is known to be 0.5036 mol we convert this amount to grams of ag produced to come to the final answer:
+this set of calculations can be further condensed into a single step:
+=== further examplesedit ===
+for propane (c3h8) reacting with oxygen gas (o2) the balanced chemical equation is:
+c
+3h
+8 + 5 o
+2 3 co
+2 + 4 h
+2o
+the mass of water formed if 120 g of propane (c3h8) is burned in excess oxygen is then
+== stoichiometric ratioedit ==
+stoichiometry is also used to find the right amount of one reactant to "completely" react with the other reactant in a chemical reaction - that is the stoichiometric amounts that would result in no leftover reactants when the reaction takes place an example is shown below using the thermite reaction
+fe
+2o
+3 + 2 al al
+2o
+3 + 2 fe
+this equation shows that 1 mole of iron(iii) oxide and 2 moles of aluminum will produce 1 mole of aluminium oxide and 2 moles of iron so to completely react with 85.0 g of iron(iii) oxide (0.532 mol) 28.7 g (1.06 mol) of aluminium are needed
+== limiting reagent and percent yieldedit ==
+the limiting reagent is the reagent that limits the amount of product that can be formed and is completely consumed when the reaction is complete an excess reactant is a reactant that is left over once the reaction has stopped due to the limiting reactant being exhausted
+consider the equation of roasting lead(ii) sulfide (pbs) in oxygen (o2) to produce lead(ii) oxide (pbo) and sulfur dioxide (so2):
+2 pbs + 3 o
+2 2 pbo + 2 so
+2
+to determine the theoretical yield of lead(ii) oxide if 200.0 g of lead(ii) sulfide and 200.0 grams of oxygen are heated in an open container:
+because a lesser amount of pbo is produced for the 200.0 g of pbs it is clear that pbs is the limiting reagent
+in reality the actual yield is not the same as the stoichiometrically-calculated theoretical yield percent yield then is expressed in the following equation:
+if 170.0 g of lead(ii) oxide is obtained then the percent yield would be calculated as follows:
+=== exampleedit ===
+consider the following reaction in which iron(iii) chloride reacts with hydrogen sulfide to produce iron(iii) sulfide and hydrogen chloride:
+2 fecl
+3 + 3 h
+2s fe
+2s
+3 + 6 hcl
+suppose 90.0 g of fecl3 reacts with 52.0 g of h2 s to find the limiting reagent and the mass of hcl produced by the reaction we could set up the following equations:
+thus the limiting reagent is fecl3 and the amount of hcl produced is 60.8 g
+to find what mass of excess reagent (h2s) remains after the reaction we would set up the calculation to find out how much h2s reacts completely with the 90.0 g fecl3:
+by subtracting this amount from the original amount of h2s we can come to the answer:
+== different stoichiometries in competing reactionsedit ==
+often more than one reaction is possible given the same starting materials the reactions may differ in their stoichiometry for example the methylation of benzene (c6h6) through a friedel-crafts reaction using alcl3 as a catalyst may produce singly methylated (c6h5ch3,) doubly methylated (c6h4(ch3)2) or still more highly methylated (c6h6-n(ch3)n) products as shown in the following example
+c6h6 + ch3cl c6h5ch3 + hcl
+c6h6 + 2 ch3cl c6h4(ch3)2 + 2 hcl
+c6h6 + n ch3cl c6h6-n(ch3)n + n hcl
+in this example which reaction takes place is controlled in part by the relative concentrations of the reactants
+== stoichiometric coefficientedit ==
+in lay terms the stoichiometric coefficient (or stoichiometric number in the iupac nomenclature) of any given component is the number of molecules that participate in the reaction as written
+for example in the reaction ch4 + 2 o2 co2 + 2 h2o the stoichiometric coefficient of ch4 is -1 the stoichiometric coefficient of o2 is -2 for co2 it would be +1 and for h2o it is +2
+in more technically precise terms the stoichiometric coefficient in a chemical reaction system of the ith component is defined as
+or
+where ni is the number of molecules of i and is the progress variable or extent of reaction
+the extent of reaction can be regarded as [the amount of] a real (or hypothetical) product one molecule of which produced each time the reaction event occurs it is the extensive quantity describing the progress of a chemical reaction equal to the number of chemical transformations as indicated by the reaction equation on a molecular scale divided by the avogadro constant (in essence it is the amount of chemical transformations) the change in the extent of reaction is given by d = dnb/b where b is the stoichiometric number of any reaction entity b (reactant or product) and nb is the corresponding amount
+the stoichiometric coefficient i represents the degree to which a chemical species participates in a reaction the convention is to assign negative coefficients to reactants (which are consumed) and positive ones to products however any reaction may be viewed as "going" in the reverse direction and all the coefficients then change sign (as does the free energy) whether a reaction actually will go in the arbitrarily selected forward direction or not depends on the amounts of the substances present at any given time which determines the kinetics and thermodynamics i.e. whether equilibrium lies to the right or the left
+in reaction mechanisms stoichiometric coefficients for each step are always integers since elementary reactions always involve whole molecules if one uses a composite representation of an "overall" reaction some may be rational fractions there are often chemical species present that do not participate in a reaction; their stoichiometric coefficients are therefore zero any chemical species that is regenerated such as a catalyst also has a stoichiometric coefficient of zero
+the simplest possible case is an isomerization
+in which b = 1 since one molecule of b is produced each time the reaction occurs while a = 1 since one molecule of a is necessarily consumed in any chemical reaction not only is the total mass conserved but also the numbers of atoms of each kind are conserved and this imposes corresponding constraints on possible values for the stoichiometric coefficients
+there are usually multiple reactions proceeding simultaneously in any natural reaction system including those in biology since any chemical component can participate in several reactions simultaneously the stoichiometric coefficient of the ith component in the kth reaction is defined as
+so that the total (differential) change in the amount of the ith component is
+extents of reaction provide the clearest and most explicit way of representing compositional change although they are not yet widely used
+with complex reaction systems it is often useful to consider both the representation of a reaction system in terms of the amounts of the chemicals present { ni } (state variables) and the representation in terms of the actual compositional degrees of freedom as expressed by the extents of reaction { k } the transformation from a vector expressing the extents to a vector expressing the amounts uses a rectangular matrix whose elements are the stoichiometric coefficients [ i k ]
+the maximum and minimum for any k occur whenever the first of the reactants is depleted for the forward reaction; or the first of the "products" is depleted if the reaction as viewed as being pushed in the reverse direction this is a purely kinematic restriction on the reaction simplex a hyperplane in composition space or nspace whose dimensionality equals the number of linearly-independent chemical reactions this is necessarily less than the number of chemical components since each reaction manifests a relation between at least two chemicals the accessible region of the hyperplane depends on the amounts of each chemical species actually present a contingent fact different such amounts can even generate different hyperplanes all sharing the same algebraic stoichiometry
+in accord with the principles of chemical kinetics and thermodynamic equilibrium every chemical reaction is reversible at least to some degree so that each equilibrium point must be an interior point of the simplex as a consequence extrema for the 's will not occur unless an experimental system is prepared with zero initial amounts of some products
+the number of physically-independent reactions can be even greater than the number of chemical components and depends on the various reaction mechanisms for example there may be two (or more) reaction paths for the isomerism above the reaction may occur by itself but faster and with different intermediates in the presence of a catalyst
+the (dimensionless) "units" may be taken to be molecules or moles moles are most commonly used but it is more suggestive to picture incremental chemical reactions in terms of molecules the n's and 's are reduced to molar units by dividing by avogadro's number while dimensional mass units may be used the comments about integers are then no longer applicable
+== stoichiometry matrixedit ==
+in complex reactions stoichiometries are often represented in a more compact form called the stoichiometry matrix the stoichiometry matrix is denoted by the symbol 
+if a reaction network has reactions and participating molecular species then the stoichiometry matrix will have corresponding rows and columns
+for example consider the system of reactions shown below:
+s1 s2
+5 s3 + s2 4 s3 + 2 s2
+s3 s4
+s4 s5
+this systems comprises four reactions and five different molecular species the stoichiometry matrix for this system can be written as:
+where the rows correspond to s1 s2 s3 s4 and s5 respectively note that the process of converting a reaction scheme into a stoichiometry matrix can be a lossy transformation for example the stoichiometries in the second reaction simplify when included in the matrix this means that it is not always possible to recover the original reaction scheme from a stoichiometry matrix
+often the stoichiometry matrix is combined with the rate vector  and the species vector to form a compact equation describing the rates of change of the molecular species:
+== gas stoichiometryedit ==
+gas stoichiometry is the quantitative relationship (ratio) between reactants and products in a chemical reaction with reactions that produce gases gas stoichiometry applies when the gases produced are assumed to be ideal and the temperature pressure and volume of the gases are all known the ideal gas law is used for these calculations often but not always the standard temperature and pressure (stp) are taken as 0 c and 1 bar and used as the conditions for gas stoichiometric calculations
+gas stoichiometry calculations solve for the unknown volume or mass of a gaseous product or reactant for example if we wanted to calculate the volume of gaseous no2 produced from the combustion of 100 g of nh3 by the reaction:
+4 nh3(g) + 7 o2(g) 4 no2(g) + 6 h2o(l)
+we would carry out the following calculations:
+there is a 1:1 molar ratio of nh3 to no2 in the above balanced combustion reaction so 5.871 mol of no2 will be formed we will employ the ideal gas law to solve for the volume at 0 c (273.15 k) and 1 atmosphere using the gas law constant of r = 0.08206 latmk1mol1 :
+gas stoichiometry often involves having to know the molar mass of a gas given the density of that gas the ideal gas law can be re-arranged to obtain a relation between the density and the molar mass of an ideal gas:
+and
+and thus:
+where:
+p = absolute gas pressure
+v = gas volume
+n = amount (measured in moles)
+r = universal ideal gas law constant
+t = absolute gas temperature
+= gas density at t and p
+m = mass of gas
+m = molar mass of gas
+== stoichiometric air-to-fuel ratios of common fuelsedit ==
+in the combustion reaction oxygen reacts with the fuel and the point where exactly all oxygen is consumed and all fuel burned is defined as the stoichiometric point with more oxygen (overstoichiometric combustion) some of it stays unreacted likewise if the combustion is incomplete due to lack of sufficient oxygen fuel remains unreacted (unreacted fuel may also remain because of slow combustion or insufficient mixing of fuel and oxygen - this is not due to stoichiometry different hydrocarbon fuels have different contents of carbon hydrogen and other elements thus their stoichiometry varies
+gasoline engines can run at stoichiometric air-to-fuel ratio because gasoline is quite volatile and is mixed (sprayed or carburetted) with the air prior to ignition diesel engines in contrast run lean with more air available than simple stoichiometry would require diesel fuel is less volatile and is effectively burned as it is injected leaving less time for evaporation and mixing thus it would form soot (black smoke) at stoichiometric ratio
+== referencesedit ==
+zumdahl steven s chemical principles houghton mifflin new york 2005 pp 148150
+internal combustion engine fundamentals john b heywood
+== external linksedit ==
+engine combustion primer from the university of plymouth
+free stoichiometry tutorials from carnegie mellon's chemcollective
+stoichiometry add-in for microsoft excel for calculation of molecular weights reaction cofficients and stoichiometry
+reaction stoichiometry calculator a comprehensive free online reaction stoichiometry calculator
+stoichiometry calculator a unit conversion calculator for individual compound stoichiometry

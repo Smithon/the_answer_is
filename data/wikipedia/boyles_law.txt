@@ -1,0 +1,39 @@
+boyle's law (sometimes referred to as the boylemariotte law or mariotte's law) is an experimental gas law which describes how the pressure of a gas tends to decrease as the volume of a gas increases a modern statement of boyle's law is
+the absolute pressure exerted by a given mass of an ideal gas is inversely proportional to the volume it occupies if the temperature and amount of gas remain unchanged within a closed system
+mathematically boyle's law can be stated as
+or
+where p is the pressure of the gas v is the volume of the gas and k is a constant
+the equation states that product of pressure and volume is a constant for a given mass of confined gas as long as the temperature is constant for comparing the same substance under two different sets of condition the law can be usefully expressed as
+the equation shows that as volume increases the pressure of the gas decreases in proportion similarly as volume decreases the pressure of the gas increases the law was named after chemist and physicist robert boyle who published the original law in 1662
+== historyedit ==
+this relationship between pressure and volume was first noted by richard towneley and henry power robert boyle confirmed their discovery through experiments and published the results according to robert gunther and other authorities it was boyle's assistant robert hooke who built the experimental apparatus boyle's law is based on experiments with air which he considered to be a fluid of particles at rest in between small invisible springs at that time air was still seen as one of the four elements but boyle disagreed boyle's interest was probably to understand air as an essential element of life; for example he published works on the growth of plants without air boyle used a closed j-shaped tube and after pouring mercury from one side he forced the air on the other side to contract under the pressure of mercury after repeating the experiment several times and using different amounts of mercury he found that under controlled conditions the pressure of a gas is inversely proportional to the volume occupied by it the french physicist edme mariotte (16201684) discovered the same law independent of boyle in 1679 but boyle had already published it in 1662 thus this law is sometimes referred to as mariotte's law or the boylemariotte law later in 1687 in the philosophi naturalis principia mathematica newton showed mathematically that if an elastic fluid consisting of particles at rest between which are repulsive forces inversely proportional to their distance the density would be directly proportional to the pressure but this mathematical treatise is not the physical explanation for the observed relationship instead of a static theory a kinetic theory is needed which was provided two centuries later by maxwell and boltzmann
+this law was the first physical law to be expressed in the form of an equation describing the dependence of two variable quantities
+== definitionedit ==
+the law itself can be stated as follows:
+or boyle's law is a gas law stating that the pressure and volume of a gas have an inverse relationship when temperature is held constant if volume increases then pressure decreases and vice versa when temperature is held constant
+therefore when the volume is halved the pressure is doubled; and if the volume is doubled the pressure is halved
+=== relation to kinetic theory and ideal gasesedit ===
+boyles law states that at constant temperature for a fixed mass the absolute pressure and the volume of a gas are inversely proportional the law can also be stated in a slightly different manner that the product of absolute pressure and volume is always constant
+most gases behave like ideal gases at moderate pressures and temperatures the technology of the 17th century could not produce high pressures or low temperatures hence the law was not likely to have deviations at the time of publication as improvements in technology permitted higher pressures and lower temperatures deviations from the ideal gas behavior became noticeable and the relationship between pressure and volume can only be accurately described employing real gas theory the deviation is expressed as the compressibility factor
+boyle (and mariotte) derived the law solely on experimental grounds the law can also be derived theoretically based on the presumed existence of atoms and molecules and assumptions about motion and perfectly elastic collisions (see kinetic theory of gases) these assumptions were met with enormous resistance in the positivist scientific community at the time however as they were seen as purely theoretical constructs for which there was not the slightest observational evidence
+daniel bernoulli in 1737-1738 derived boyle's law using newton's laws of motion with application on a molecular level it remained ignored until around 1845 when john waterston published a paper building the main precepts of kinetic theory; this was rejected by the royal society of england later works of james prescott joule rudolf clausius and in particular ludwig boltzmann firmly established the kinetic theory of gases and brought attention to both the theories of bernoulli and waterston
+the debate between proponents of energetics and atomism led boltzmann to write a book in 1898 which endured criticism up to his suicide in 1906 albert einstein in 1905 showed how kinetic theory applies to the brownian motion of a fluid-suspended particle which was confirmed in 1908 by jean perrin
+=== equationedit ===
+the mathematical equation for boyle's law is:
+where:
+p denotes the pressure of the system
+v denotes the volume of the gas
+k is a constant value representative of the pressure and volume of the system
+so long as temperature remains constant the same amount of energy given to the system persists throughout its operation and therefore theoretically the value of k will remain constant however due to the derivation of pressure as perpendicular applied force and the probabilistic likelihood of collisions with other particles through collision theory the application of force to a surface may not be infinitely constant for such values of v but will have a limit when differentiating such values over a given time forcing the volume v of the fixed quantity of gas to increase keeping the gas at the initially measured temperature the pressure p must decrease proportionally conversely reducing the volume of the gas increases the pressure boyle's law is used to predict the result of introducing a change in volume and pressure only to the initial state of a fixed quantity of gas
+the initial and final volumes and pressures of the fixed amount of gas where the initial and final temperatures are the same (heating or cooling will be required to meet this condition) are related by the equation:
+here p1 and v1 represent the original pressure and volume respectively and p2 and v2 represent the second pressure and volume
+boyle's law charles's law and gay-lussac's law form the combined gas law the three gas laws in combination with avogadro's law can be generalized by the ideal gas law
+== see alsoedit ==
+charles's law
+gay-lussac's law
+dalton's law
+combined gas law
+ideal gas law
+== citationsedit ==
+== sourcesedit ==
+britannica educational publishing (1 december 2012) scientists and inventors of the renaissance britannica educational publishing isbn 978-1-61530-884-2

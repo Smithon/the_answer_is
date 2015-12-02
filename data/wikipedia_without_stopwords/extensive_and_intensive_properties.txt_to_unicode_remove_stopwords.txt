@@ -1,0 +1,40 @@
+physical properties materials systems often described intensive extensive properties classification relates dependency properties upon size extent system object question
+distinction based concept smaller noninteracting identical subdivisions system may identified property interest change system divided combined
+intensive property bulk property meaning physical property system depend system size amount material system examples intensive properties include temperature refractive index density hardness object diamond cut pieces maintain intrinsic hardness size reaches atoms thick
+contrast extensive property additive independent noninteracting subsystems property proportional amount material system example mass volume diamond directly proportional amount left cutting raw mineral mass volume extensive properties hardness intensive
+ratio two extensive properties object system scaleinvariant therefore intensive property example ratio extensive properties mass volume density intensive property
+terminology intensive extensive properties introduced richard c tolman
+intensive propertiesedit
+intensive property physical quantity whose value depend amount substance measured example temperature system thermal equilibrium temperature part system divided temperature subsystem identical applies density homogeneous system system divided half mass volume change identical ratio density remains unchanged additionally boiling point substance another example intensive property example boiling point water c pressure one atmosphere remains true regardless quantity
+according state postulate sufficiently simple thermodynamic system requires two independent intensive variables fully specify systems entire state intensive properties derived two known values
+intensive properties viscosity empirical macroscopic quantities relevant extremely small systems
+combined intensive propertiesedit
+four properties thermodynamic system two intensive two extensive
+set parameters intensive properties another set extensive properties function intensive property
+follows example ratio two extensive properties intensive property density intensive equal mass extensive divided volume extensive
+examplesedit
+examples intensive properties include
+extensive propertiesedit
+iupac green book defines extensive property physical quantity sum properties separate noninteracting subsystems compose entire system value additive property proportional size system describes quantity matter system taking example melting ice amount heat required melt ice extensive property amount heat required melt one ice cube would much less amount heat required melt iceberg dependent quantity
+extensive properties counterparts intensive properties intrinsic particular subsystem dividing one type extensive property different type extensive property generally gives intensive valuefor example mass extensive divided volume extensive gives density intensive
+combined extensive propertiesedit
+set parameters intensive properties another set extensive properties function extensive property
+thus extensive properties homogeneous functions degree respect follows eulers homogeneous function theorem
+partial derivative taken parameters constant except converse also true function obeys relationship extensive
+examplesedit
+examples extensive properties include
+related extensive intensive propertiesedit
+although true physical properties properties corresponding extensive intensive analogs many thermodynamic properties examples extensive thermodynamic properties dependent size thermodynamic system question include volume internal energy enthalpy entropy gibbs free energy helmholtz free energy heat capacity sense thermal mass symbols extensive thermodynamic properties shown capital letters
+homogeneous substances extensive thermodynamic properties corresponding intensive thermodynamic properties expressed per mass volume basis name usually prefixed adjective specific indicate bulk properties valid location smaller subdivision thermodynamic system may dependent conditions point temperature pressure material composition considered dependent size thermodynamic system amount material system
+specific volume volume per massthe reciprocal density equals mass per volume
+l liter j joule
+specific properties expressed per mass basis
+specific volume reciprocal density
+molecular weight assigned substance amount substance moles determined thermodynamic properties may expressed molar basis name may qualified adjective molar yielding terms molar volume molar internal energy molar enthalpy molar entropy standards symbols molar quantities exist well known molar volume ideal gas standard conditions temperature pressure value litersmol molar gibbs free energy commonly referred chemical potential symbolized particularly discussing partial molar gibbs free energy component mixture
+generality classificationedit
+general validity division physical properties extensive intensive kinds addressed course science redlich noted physical properties especially thermodynamic properties conveniently defined either intensive extensive however two categories allinclusive welldefined physical properties conform neither definition redlich also provides examples mathematical functions alter strict additivity relationship extensive system square square root volume occur contexts albeit rarely used
+systems standard definitions provide simple answer systems subsystems interact combined redlich pointed assignment properties intensive extensive may depend way subsystems arranged example two identical galvanic cells connected parallel voltage system equal voltage cell electric charge transferred electric current extensive however cells connected series charge becomes intensive voltage extensive iupac definitions consider cases
+referencesedit
+callen herbert b thermodynamics introduction themostatistics nd ed new york john wiley sons isbn
+lewis gn randall m thermodynamics nd ed new york mcgrawhill book company
+linder bruno thermodynamics introductory statistical mechanics new york john wiley sons isbn

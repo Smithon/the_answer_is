@@ -1,0 +1,174 @@
+quantum mechanics uncertainty principle also known heisenbergs uncertainty principle variety mathematical inequalities asserting fundamental limit precision certain pairs physical properties particle known complementary variables position x momentum p known simultaneously
+introduced first german physicist werner heisenberg states precisely position particle determined less precisely momentum known vice versa formal inequality relating standard deviation position x standard deviation momentum p derived earle hesse kennard later year hermann weyl
+reduced planck constant h
+historically uncertainty principle confused somewhat similar effect physics called observer effect notes measurements certain systems cannot made without affecting systems heisenberg offered observer effect quantum level see physical explanation quantum uncertainty since become clear however uncertainty principle inherent properties wavelike systems arises quantum mechanics simply due matter wave nature quantum objects thus uncertainty principle actually states fundamental property quantum systems statement observational success current technology must emphasized measurement mean process physicistobserver takes part rather interaction classical quantum objects regardless observer
+since uncertainty principle basic result quantum mechanics typical experiments quantum mechanics routinely observe aspects certain experiments however may deliberately test particular form uncertainty principle part main research program include example tests numberphase uncertainty relations superconducting quantum optics systems applications dependent uncertainty principle operation include extremely low noise technology required gravitationalwave interferometers
+introduction
+fundamental constraint higher level descriptions universe must supervene quantum mechanical descriptions includes heisenbergs uncertainty relationship however humans form intuitive understanding uncertainty principle everyday life constraint readily apparent macroscopic scales everyday experience may helpful demonstrate integral easily understood physical situations two alternative conceptualizations quantum physics examined goal demonstrating key role uncertainty principle plays wave mechanics picture uncertainty principle provides visually intuitive demonstration somewhat abstract matrix mechanics picture provides demonstration uncertainty principle easily generalized cover multitude physical contexts
+mathematically wave mechanics uncertainty relation position momentum arises expressions wavefunction two corresponding orthonormal bases hilbert space fourier transforms one another ie position momentum conjugate variables nonzero function fourier transform cannot sharply localized similar tradeoff variances fourier conjugates arises systems underlain fourier analysis example sound waves pure tone sharp spike single frequency fourier transform gives shape sound wave time domain completely delocalized sine wave quantum mechanics two key points position particle takes form matter wave momentum fourier conjugate assured de broglie relation p k k wavenumber
+matrix mechanics mathematical formulation quantum mechanics pair noncommuting selfadjoint operators representing observables subject similar uncertainty limits eigenstate observable represents state wavefunction certain measurement value eigenvalue example measurement observable performed system particular eigenstate observable however particular eigenstate observable need eigenstate another observable b unique associated measurement system eigenstate observable
+wave mechanics interpretation
+ref
+according de broglie hypothesis every object universe wave situation gives rise phenomenon position particle described wave function timeindependent wave function singlemoded plane wave wavenumber k momentum p
+born rule states interpreted probability density function sense probability finding particle b
+case singlemoded plane wave uniform distribution words particle position extremely uncertain sense could essentially anywhere along wave packet consider wave function sum many waves however may write
+represents relative contribution mode pn overall total figures right show addition many plane waves wave packet become localized may take step continuum limit wave function integral possible modes
+representing amplitude modes called wave function momentum space mathematical terms say fourier transform x p conjugate variables adding together plane waves comes cost namely momentum become less precise become mixture waves many different momenta
+one way quantify precision position momentum standard deviation since probability density function position calculate standard deviation
+precision position improved ie reduced x using many plane waves thereby weakening precision momentum ie increased p another way stating x p inverse relationship least bounded uncertainty principle exact limit kennard bound click show button see semiformal derivation kennard inequality using wave mechanics
+matrix mechanics interpretation
+ref
+matrix mechanics observables position momentum represented selfadjoint operators considering pairs observables important quantity commutator pair operators b one defines commutator
+case position momentum commutator canonical commutation relation
+physical meaning noncommutativity understood considering effect commutator position momentum eigenstates let right eigenstate position constant eigenvalue x definition means applying commutator yields
+identity operator
+suppose sake proof contradiction also right eigenstate momentum constant eigenvalue p true one could write
+hand canonical commutation relation requires
+implies quantum state simultaneously position momentum eigenstate
+state measured projected onto eigenstate basis relevant observable example particles position measured state amounts position eigenstate means state momentum eigenstate however rather represented sum multiple momentum basis eigenstates words momentum must less precise precision may quantified standard deviations
+wave mechanics interpretation one sees tradeoff respective precisions two quantified uncertainty principle
+robertsonschrdinger uncertainty relations
+common general form uncertainty principle robertson uncertainty relation
+arbitrary hermitian operator associate standard deviation
+brackets indicate expectation value pair operators b may define commutator
+notation robertson uncertainty relation given
+robertson uncertainty relation immediately follows slightly stronger inequality schrdinger uncertainty relation
+introduced anticommutator
+since robertson schrdinger relations general operators relations applied two observables obtain specific uncertainty relations common relations found literature given
+position linear momentum canonical commutation relation implies kennard inequality
+two orthogonal components total angular momentum operator object
+j k distinct ji denotes angular momentum along xi axis relation implies unless three components vanish together single component systems angular momentum defined arbitrary precision normally component parallel external magnetic electric field moreover choice angular momentum multiplets j m bounds casimir invariant angular momentum squared thus yields useful constraints j j m m hence j m among others
+nonrelativistic mechanics time privileged independent variable nevertheless l mandelshtam e tamm derived nonrelativistic timeenergy uncertainty relation follows quantum system nonstationary state observable b represented selfadjoint operator following formula holds
+e standard deviation energy operator hamiltonian state b stands standard deviation b although second factor lefthand side dimension time different time parameter enters schrdinger equation lifetime state respect observable b words time interval expectation value changes appreciably
+informal heuristic meaning principle following state exists short time cannot definite energy definite energy frequency state must defined accurately requires state hang around many cycles reciprocal required accuracy example spectroscopy excited states finite lifetime timeenergy uncertainty principle definite energy time decay energy release slightly different average energy outgoing photon peak theoretical energy state distribution finite width called natural linewidth fastdecaying states broad linewidth slow decaying states narrow linewidth
+linewidth effect also makes difficult specify rest mass unstable fastdecaying particles particle physics faster particle decays shorter lifetime less certain mass larger particles width
+number electrons superconductor phase ginzburglandau order parameter
+examples
+refs
+quantum harmonic oscillator stationary states
+consider onedimensional quantum harmonic oscillator qho possible express position momentum operators terms creation annihilation operators
+using standard rules creation annihilation operators eigenstates qho
+variances may computed directly
+product standard deviations
+particular kennard bound saturated ground state n probability density normal distribution
+quantum harmonic oscillator gaussian initial condition
+quantum harmonic oscillator characteristic angular frequency place state offset bottom potential displacement x
+describes width initial state need integration propagator solve full timedependent solution many cancelations probability densities reduce
+used notation denote normal distribution mean variance copying variances applying trigonometric identities write product standard deviations
+relations
+conclude
+coherent states
+coherent state right eigenstate annihilation operator
+may represented terms fock states
+picture coherent state massive particle qho position momentum operators may expressed terms annihilation operators formulas used calculate variances
+therefore every coherent state saturates kennard bound
+position momentum contributing amount balanced way moreover every squeezed coherent state also saturates kennard bound although individual contributions position momentum need balanced general
+particle box
+consider particle onedimensional box length eigenfunctions position momentum space
+used de broglie relation variances calculated explicitly
+product standard deviations therefore
+quantity greater uncertainty principle never violated numerical concreteness smallest value occurs case
+constant momentum
+assume particle initially momentum space wave function described normal distribution around constant momentum p according
+introduced reference scale describing width distributioncf nondimensionalization state allowed evolve free space timedependent momentum position space wave functions
+since interpreted particle moving along constant momentum arbitrarily high precision hand standard deviation position
+uncertainty product increase time
+additional uncertainty relations
+mixed states
+robertsonschrdinger uncertainty relation may generalized straightforward way describe mixed states
+phase space
+phase space formulation quantum mechanics robertsonschrdinger relation follows positivity condition real starsquare function given wigner function star product function f following generally true
+choosing arrive
+since positivity condition true b c follows eigenvalues matrix positive positive eigenvalues imply corresponding positivity condition determinant
+explicitly algebraic manipulation
+systematic error
+inequalities focus statistical imprecision observables quantified standard deviation heisenbergs original version however interested systematic error incurred disturbance quantum system measuring apparatus ie observer effect let represent error ie accuracy measurement observable represent disturbance measurement process following inequality holds
+fact heisenbergs uncertainty principle originally described formulation mentions first term applying notation heisenbergs positionmomentum relation heisenbergs argument could rewritten
+heisenberg
+formulation mathematically incorrect experimentally refuted also possible derive similar uncertainty relation combining statistical systematic error components nevertheless sufficient care heisenbergs intuitive observation may formulated proven mathematically consistent manner
+entropic uncertainty principle
+many distributions standard deviation particularly natural way quantifying structure example uncertainty relations one observables angle little physical meaning fluctuations larger one period examples include highly bimodal distributions unimodal distributions divergent variance
+solution overcomes issues uncertainty based entropic uncertainty instead product variances formulating manyworlds interpretation quantum mechanics hugh everett iii conjectured stronger extension uncertainty principle based entropic certainty conjecture also studied hirschman proven beckner iwo bialynickibirula jerzy mycielski
+used shannon entropy quantum von neumann entropy
+arbitrary fixed length scale
+inverse logarithmic sobolev inequalities
+equivalently fact normal distributions maximize entropy given variance readily follows entropic uncertainty principle stronger one based standard deviations
+remarks inequalities first choice base e matter popular convention physics logarithm alternatively base provided consistent sides inequality second numerical value right hand side assumes unitary convention fourier transform used throughout physics elsewhere article third normal distribution saturates inequality distribution property maximum entropy probability distribution among fixed variance cf proof
+harmonic analysis
+context harmonic analysis branch mathematics uncertainty principle implies one cannot time localize value function fourier transform wit following inequality holds
+mathematical uncertainty inequalities including entropic uncertainty hold function f fourier transform
+signal processing
+context signal processing particular timefrequency analysis uncertainty principles referred gabor limit dennis gabor sometimes heisenberggabor limit basic result follows benedickss theorem function cannot time limited band limited function fourier transform cannot bounded domainsee bandlimited versus timelimited
+stated alternatively one cannot simultaneously sharply localize signal function f time domain frequency domain fourier transform
+applied filters result implies one cannot achieve high temporal resolution frequency resolution time concrete example resolution issues shorttime fourier transformif one uses wide window one achieves good frequency resolution cost temporal resolution narrow window opposite tradeoff
+alternate theorems give precise quantitative results timefrequency analysis rather interpreting dimensional time frequency domains separately one instead interprets limit lower limit support function dimensional timefrequency plane practice gabor limit limits simultaneous timefrequency resolution one achieve without interference possible achieve higher resolution cost different components signal interfering
+benedickss theorem
+amreinberthier benedickss theorem intuitively says set points f nonzero set points nonzero cannot small
+specifically impossible function f lr fourier transform supported sets finite lebesgue measure quantitative version
+one expects factor cecs may replaced cecsd known either convex
+hardys uncertainty principle
+mathematician g h hardy formulated following uncertainty principle possible f rapidly decreasing specifically f lr
+integer
+ab f ab polynomial p degree n
+later improved follows f lrd
+p polynomial degree n d real dd positive definite matrix
+result stated beurlings complete works without proof proved hrmander case bonami demange jaming general case note hrmanderbeurlings version implies case ab hardys theorem version bonamidemangejaming covers full strength hardys theorem different proof beurlings theorem based liouvilles theorem appeared ref
+full description case ab well following extension schwarz class distributions appears ref
+theorem tempered distribution
+convenient polynomial p real positive definite matrix type d d
+history
+werner heisenberg formulated uncertainty principle niels bohrs institute copenhagen working mathematical foundations quantum mechanics
+following pioneering work hendrik kramers heisenberg developed matrix mechanics replaced ad hoc old quantum theory modern quantum mechanics central premise classical concept motion fit quantum level electrons atom travel sharply defined orbits rather motion smeared strange way fourier transform time dependence involves frequencies could observed quantum jumps radiation
+heisenbergs paper admit unobservable quantities like exact position electron orbit time allowed theorist talk fourier components motion since fourier components defined classical frequencies could used construct exact trajectory formalism could answer certain overly precise questions electron fast going
+march working bohrs institute heisenberg realized noncommutativity implies uncertainty principle implication provided clear physical interpretation noncommutativity laid foundation became known copenhagen interpretation quantum mechanics heisenberg showed commutation relation implies uncertainty bohrs language complementarity two variables commute cannot measured simultaneouslythe precisely one known less precisely known heisenberg wrote
+expressed simplest form follows one never know perfect accuracy two important factors determine movement one smallest particlesits position velocity impossible determine accurately position direction speed particle instant
+celebrated paper ber den anschaulichen inhalt der quantentheoretischen kinematik und mechanik perceptual content quantum theoretical kinematics mechanics heisenberg established expression minimum amount unavoidable momentum disturbance caused position measurement give precise definition uncertainties x p instead gave plausible estimates case separately chicago lecture refined principle
+kennard first proved modern inequality
+h x p standard deviations position momentum heisenberg proved relation special case gaussian states
+terminology translation
+throughout main body original paper written german heisenberg used word ungenauigkeit indeterminacy describe basic theoretical principle endnote switch word unsicherheit uncertainty englishlanguage version heisenbergs textbook physical principles quantum theory published however translation uncertainty used became commonly used term english language thereafter
+heisenbergs microscope
+principle quite counterintuitive early students quantum theory reassured naive measurements violate bound always unworkable one way heisenberg originally illustrated intrinsic impossibility violating uncertainty principle using imaginary microscope measuring device
+imagines experimenter trying measure position momentum electron shooting photon
+problem photon short wavelength therefore large momentum position measured accurately photon scatters random direction transferring large uncertain amount momentum electron photon long wavelength low momentum collision disturb electrons momentum much scattering reveal position vaguely
+problem large aperture used microscope electrons location well resolved see rayleigh criterion principle conservation momentum transverse momentum incoming photon affects electrons beamline momentum hence new momentum electron resolves poorly small aperture used accuracy resolutions way around
+combination tradeoffs imply matter photon wavelength aperture size used product uncertainty measured position measured momentum greater equal lower limit small numerical factor equal plancks constant heisenberg care formulate uncertainty principle exact limit elaborated preferred use instead heuristic quantitative statement correct small numerical factors makes radically new noncommutativity quantum mechanics inevitable
+critical reactions
+copenhagen interpretation quantum mechanics heisenbergs uncertainty principle fact seen twin targets detractors believed underlying determinism realism according copenhagen interpretation quantum mechanics fundamental reality quantum state describes prescription calculating experimental results way say state system fundamentally result observations might
+albert einstein believed randomness reflection ignorance fundamental property reality niels bohr believed probability distributions fundamental irreducible depend measurements choose perform einstein bohr debated uncertainty principle many years experiments within first decade twentyfirst century cast doubt extensively uncertainty principle applies
+einsteins slit
+first einsteins thought experiments challenging uncertainty principle went follows
+consider particle passing slit width d slit introduces uncertainty momentum approximately hd particle passes wall let us determine momentum particle measuring recoil wall find momentum particle arbitrary accuracy conservation momentum
+bohrs response wall quantum mechanical well measure recoil accuracy p momentum wall must known accuracy particle passes introduces uncertainty position wall therefore position slit equal hp walls momentum known precisely enough measure recoil slits position uncertain enough disallow position measurement
+similar analysis particles diffracting multiple slits given richard feynman
+another thought experiment lawrence marq goldberg theorized one could example determine position particle travel back time point first reading measure velocity time travel back point second earlier reading taken deliver resulting measurements particle disturbed measurements need taken course would result temporal paradox support contention problems inherent uncertainly principle lay measuring uncertainty physics
+einsteins box
+bohr present einstein proposed thought experiment become known einsteins box einstein argued heisenbergs uncertainty equation implied uncertainty time related uncertainty energy product two related plancks constant consider said ideal box lined mirrors contain light indefinitely box could weighed clockwork mechanism opened ideal shutter chosen instant allow one single photon escape know explained einstein precisely time photon left box weigh box change mass tells energy emitted light manner said einstein one could measure energy emitted time released desired precision contradiction uncertainty principle
+bohr spent sleepless night considering argument eventually realized flawed pointed box weighed say spring pointer scale since box must move vertically change weight uncertainty vertical velocity therefore uncertainty height table furthermore uncertainty elevation earths surface result uncertainty rate clock einsteins theory gravitys effect time chain uncertainties bohr showed einsteins light box experiment could simultaneously measure exactly energy photon time escape
+epr paradox entangled particles
+bohr compelled modify understanding uncertainty principle another thought experiment einstein einstein podolsky rosen see epr paradox published analysis widely separated entangled particles measuring one particle einstein realized would alter probability distribution yet particle could possibly disturbed example led bohr revise understanding principle concluding uncertainty caused direct interaction
+einstein came much farreaching conclusions thought experiment believed natural basic assumption complete description reality would predict results experiments locally changing deterministic quantities therefore would include information maximum possible allowed uncertainty principle
+john bell showed assumption falsified since would imply certain inequality probabilities different experiments experimental results confirm predictions quantum mechanics ruling einsteins basic assumption led suggestion hidden variables ironically fact one best pieces evidence supporting karl poppers philosophy invalidation theory falsificationexperiments say einsteins basic assumption became falsified experiments based bells inequalities objections karl popper heisenberg inequality see
+possible assume quantum mechanical predictions due nonlocal hidden variables fact david bohm invented formulation resolution satisfactory vast majority physicists question whether random outcome predetermined nonlocal theory philosophical potentially intractable hidden variables constrained could list random digits used produce measurement outcomes make sensible assumption nonlocal hidden variables sometimes augmented second assumptionthat size observable universe puts limit computations variables nonlocal theory sort predicts quantum computer would encounter fundamental obstacles attempting factor numbers approximately digits potentially achievable task quantum mechanics
+poppers criticism
+karl popper approached problem indeterminacy logician metaphysical realist disagreed application uncertainty relations individual particles rather ensembles identically prepared particles referring statistical scatter relations statistical interpretation particular measurement may made arbitrary precision without invalidating quantum theory directly contrasts copenhagen interpretation quantum mechanics nondeterministic lacks local hidden variables
+popper published zur kritik der ungenauigkeitsrelationen critique uncertainty relations naturwissenschaften year logik der forschung translated updated author logic scientific discovery outlining arguments statistical interpretation developed theory quantum theory schism physics writing
+heisenbergs formulae beyond doubt derivable statistical formulae quantum theory habitually misinterpreted quantum theorists said formulae interpreted determining upper limit precision measurementsoriginal emphasis
+popper proposed experiment falsify uncertainty relations although later withdrew initial version discussions weizscker heisenberg einstein experiment may influenced formulation epr experiment
+manyworlds uncertainty
+manyworlds interpretation originally outlined hugh everett iii partly meant reconcile differences einstein bohrs views replacing bohrs wave function collapse ensemble deterministic independent universes whose distribution governed wave functions schrdinger equation thus uncertainty manyworlds interpretation follows observer within universe knowledge goes universes
+free
+scientists including arthur compton martin heisenberg suggested uncertainty principle least general probabilistic nature quantum mechanics could evidence twostage model free standard view however apart basic role quantum mechanics foundation chemistry nontrivial biological mechanisms requiring quantum mechanics unlikely due rapid decoherence time quantum systems room temperature
+see also
+notes
+external links
+hazewinkel michiel ed uncertainty principle encyclopedia mathematics springer isbn
+matter wave chapter online textbook
+quantum mechanics myths facts
+stanford encyclopedia philosophy entry
+fourier transforms uncertainty mathpages
+aiporg quantum mechanics uncertainty principle
+eric weissteins world physics uncertainty principle
+john baez timeenergy uncertainty relation
+certainty principle
+common interpretation heisenbergs uncertainty principle proved false

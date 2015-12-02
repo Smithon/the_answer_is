@@ -1,0 +1,15 @@
+an exergonic process is one in which there is a positive flow of energy from the system to the surroundings this is in contrast with an endergonic process constant pressure constant temperature reactions are exergonic if and only if the gibbs free energy change is negative (g < 0) "exergonic" (from the prefix exo- derived for the greek word ex "outside" and the suffix -ergonic derived from the greek word ergon "work") means "releasing energy in the form of work" in thermodynamics work is defined as the energy moving from the system (the internal region) to the surroundings (the external region) during a given process
+all physical and chemical systems in the universe follow the second law of thermodynamics and proceed in a downhill i.e. exergonic direction thus left to itself any physical or chemical system will proceed according to the second law of thermodynamics in a direction that tends to lower the free energy of the system and thus to expend energy in the form of work these reactions occur spontaneously
+a chemical reaction is also exergonic when spontaneous thus in this type of reactions the gibbs free energy decreases the entropy is included in any change of the gibbs free energy this differs from a exothermic reaction or a endothermic reaction where the entropy is not included the gibbs free energy is calculated with the gibbs-helmholtz equation:
+where:
+t = temperature in kelvin (k)
+g = change in the gibbs free energy
+s = change in entropy (at 298 k) as s = {s(product (chemistry))} - {s(reagent)}
+h = change in enthalpy (at 298 k) as h = {h(product (chemistry))} - {h(reagent)}
+a chemical reaction progresses only spontaneously when the gibbs free energy decreases in that case the g is negative in exergonic reactions the g is negative and in endergonic reactions the g is positive:
+exergon
+endergon
+where:
+equals the change in the gibbs free energy after completion of a chemical reaction
+== see alsoedit ==
+== referencesedit ==

@@ -1,0 +1,20 @@
+in chemistry and physics dalton's law (also called dalton's law of partial pressures) states that in a mixture of non-reacting gases the total pressure exerted is equal to the sum of the partial pressures of the individual gases this empirical law was observed by john dalton in 1801 and is related to the ideal gas laws
+== formulaedit ==
+mathematically the pressure of a mixture of non-reactive gases can be defined as the summation:
+or
+where represent the partial pressure of each component
+where is the mole fraction of the i-th component in the total mixture of n components 
+== volume-based concentrationedit ==
+the relationship below provides a way to determine the volume-based concentration of any individual gaseous component
+where is the concentration of the i-th component expressed in ppm
+dalton's law is not strictly followed by real gases with deviations being considerably large at high pressures under such conditions the volume occupied by the molecules can become significant compared to the free space between them in particular the short average distances between molecules raises the intensity of intermolecular forces between gas molecules enough to substantially change the pressure exerted by them neither of those effects are considered by the ideal gas model
+== referencesedit ==
+== see alsoedit ==
+henry's law
+amagat's law
+boyle's law
+combined gas law
+gay-lussac's law
+mole (unit)
+partial pressure
+vapour pressure

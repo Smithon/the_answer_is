@@ -1,0 +1,96 @@
+in simplest terms radiobiology (also known as radiation biology) is a field of clinical and basic medical sciences that involves the study of the action of ionizing radiation on living things
+== health effects ==
+ionizing radiation is generally harmful and potentially lethal to living things but can have health benefits in radiation therapy for the treatment of cancer and thyrotoxicosis its most common impact is the induction of cancer with a latent period of years or decades after exposure high doses can cause visually dramatic radiation burns and/or rapid fatality through acute radiation syndrome controlled doses are used for medical imaging and radiotherapy some scientists suspect that low doses may have a mild hormetic effect that can improve health
+some effects of ionizing radiation on human health are stochastic meaning that their probability of occurrence increases with dose while the severity is independent of dose radiation-induced cancer teratogenesis cognitive decline and heart disease are all examples of stochastic effects other conditions such as radiation burns acute radiation syndrome chronic radiation syndrome and radiation-induced thyroiditis are deterministic meaning they reliably occur above a threshold dose and their severity increases with dose deterministic effects are not necessarily more or less serious than stochastic effects; either can ultimately lead to a temporary nuisance or a fatality
+other effects include radiation-induced lung injury cataracts and infertility
+quantitative data on the effects of ionizing radiation on human health is relatively limited compared to other medical conditions because of the low number of cases to date and because of the stochastic nature of some of the effects stochastic effects can only be measured through large epidemiological studies where enough data has been collected to remove confounding factors such as smoking habits and other lifestyle factors the richest source of high-quality data comes from the study of japanese atomic bomb survivors in vitro and animal experiments are informative but radioresistance varies greatly across species
+the consensus of the nuclear industry regulators and governments regarding radiation health effects is expressed by the international commission on radiological protection (icrp) other important organizations studying the topic include
+international commission on radiation units and measurements (icru)
+united nations scientific committee on the effects of atomic radiation (unscear)
+us national council on radiation protection and measurements (ncrp)
+uk public health england
+us national academy of sciences (nas through the beir studies)
+french institut de radioprotection et de sret nuclaire (irsn)
+european committee on radiation risk (ecrr)
+== exposure pathways ==
+=== external ===
+external exposure is exposure which occurs when the radioactive source (or other radiation source) is outside (and remains outside) the organism which is exposed examples of external exposure include:
+a person who places a sealed radioactive source in his pocket
+a space traveller who is irradiated by cosmic rays
+a person who is treated for cancer by either teletherapy or brachytherapy while in brachytherapy the source is inside the person it is still considered external exposure because it does not result in a committed dose
+a nuclear worker whose hands have been dirtied with radioactive dust assuming that his hands are cleaned before any radioactive material can be absorbed inhaled or ingested skin contamination is considered external exposure
+external exposure is relatively easy to estimate and the irradiated organism does not become radioactive except for a case where the radiation is an intense neutron beam which causes activation
+=== internal ===
+internal exposure occurs when the radioactive material enters the organism and the radioactive atoms become incorporated into the organism this can occur through inhalation ingestion or injection below are a series of examples of internal exposure
+the exposure caused by potassium-40 present within a normal person
+the exposure to the ingestion of a soluble radioactive substance such as 89sr in cows' milk
+a person who is being treated for cancer by means of a radiopharmaceutical where a radioisotope is used as a drug (usually a liquid or pill) a review of this topic was published in 1999 because the radioactive material becomes intimately mixed with the affected object it is often difficult to decontaminate the object or person in a case where internal exposure is occurring while some very insoluble materials such as fission products within a uranium dioxide matrix might never be able to truly become part of an organism it is normal to consider such particles in the lungs and digestive tract as a form of internal contamination which results in internal exposure
+boron neutron capture therapy (bnct) involves injecting a boron-10 tagged chemical that preferentially binds to tumor cells neutrons from a nuclear reactor are shaped by a neutron moderator to the neutron energy spectrum suitable for bnct treatment the tumor is selectively bombarded with these neutrons the neutrons quickly slow down in the body to become low energy thermal neutrons these thermal neutrons are captured by the injected boron-10 forming excited (boron-11) which breaks down into lithium-7 and a helium-4 alpha particle both of these produce closely spaced ionizing radiation.this concept is described as a binary system using two separate components for the therapy of cancer each component in itself is relatively harmless to the cells but when combined together for treatment they produce a highly cytocidal (cytotoxic) effect which is lethal (within a limited range of 5-9 micrometers or approximately one cell diameter) clinical trials with promising results are currently carried out in finland and japan
+when radioactive compounds enter the human body the effects are different from those resulting from exposure to an external radiation source especially in the case of alpha radiation which normally does not penetrate the skin the exposure can be much more damaging after ingestion or inhalation the radiation exposure is normally expressed as a committed dose
+== history ==
+although radiation was discovered in late 19th century the dangers of radioactivity and of radiation were not immediately recognized acute effects of radiation were first observed in the use of x-rays when wilhelm rntgen intentionally subjected his fingers to x-rays in 1895 he published his observations concerning the burns that developed though he misattributed them to ozone a free radical produced in air by x-rays other free radicals produced within the body are now understood to be more important his injuries healed later
+as a field of medical sciences radiobiology originated from leopold freund's 1896 demonstration of the therapeutic treatment of a hairy mole using a new type of electromagnetic radiation called x-rays which was discovered 1 year previously by the german physicist wilhelm rntgen after irradiating frogs and insects with x-rays in early 1896 ivan romanovich tarkhanov concluded that these newly discovered rays not only photograph but also "affect the living function" at the same time pierre and marie curie discovered the radioactive polonium and radium later used to treat cancer
+the genetic effects of radiation including the effects on cancer risk were recognized much later in 1927 hermann joseph muller published research showing genetic effects and in 1946 was awarded the nobel prize for his findings
+before the biological effects of radiation were known many physicians and corporations had begun marketing radioactive substances as patent medicine and radioactive quackery examples were radium enema treatments and radium-containing waters to be drunk as tonics marie curie spoke out against this sort of treatment warning that the effects of radiation on the human body were not well understood curie later died of aplastic anemia caused by radiation poisoning eben byers a famous american socialite died of multiple cancers (but not acute radiation syndrome) in 1932 after consuming large quantities of radium over several years; his death drew public attention to dangers of radiation by the 1930s after a number of cases of bone necrosis and death in enthusiasts radium-containing medical products had nearly vanished from the market
+in the united states the experience of the so-called radium girls where thousands of radium-dial painters contracted oral cancers (but no cases of acute radiation syndrome) popularized the warnings of occupational health associated with radiation hazards robley d evans at mit developed the first standard for permissible body burden of radium a key step in the establishment of nuclear medicine as a field of study with the development of nuclear reactors and nuclear weapons in the 1940s heightened scientific attention was given to the study of all manner of radiation effects
+the atomic bombings of hiroshima and nagasaki resulted in a large number of incidents of radiation poisoning allowing for greater insight into its symptoms and dangers red cross hospital surgeon dr terufumi sasaki led intensive research into the syndrome in the weeks and months following the hiroshima bombings dr sasaki and his team were able to monitor the effects of radiation in patients of varying proximities to the blast itself leading to the establishment of three recorded stages of the syndrome within 25-30 days of the explosion the red cross surgeon noticed a sharp drop in white blood cell count and established this drop along with symptoms of fever as prognostic standards for acute radiation syndrome actress midori naka who was present during the atomic bombing of hiroshima was the first incident of radiation poisoning to be extensively studied her death on august 24 1945 was the first death ever to be officially certified as a result of radiation poisoning (or "atomic bomb disease")
+== areas of interest ==
+the interactions between organisms and electromagnetic fields (emf) and ionizing radiation can be studied in a number of ways:
+radiation physics
+radiation chemistry
+molecular and cell biology
+molecular genetics
+cell death and apoptosis
+dose modifying agents
+protection and repair mechanisms
+tissue responses to radiation
+radio-adaptation of living organisms
+high and low-level electromagnetic radiation and health
+specific absorption rates of organisms
+radiation poisoning
+radiation oncology (radiation therapy in cancer)
+bioelectromagnetics
+electric field and magnetic field - their general nature
+electrophysiology - the scientific study of the electrical properties of biological cells and tissues
+biomagnetism - the magnetic properties of living systems (see for example the research of david cohen using squid imaging) and magnetobiology - the study of effect of magnets upon living systems see also electromagnetic radiation and health
+bioelectromagnetism - the electromagnetic properties of living systems and bioelectromagnetics - the study of the effect of electromagnetic fields on living systems
+electrotherapy
+radiation therapy
+radiogenomics
+electroconvulsive therapy
+transcranial magnetic stimulation - a powerful electric current produces a transient spatially focussed magnetic field that can penetrate the scalp and skull of a subject and induce electrical activity in the neurons on the surface of the brain
+magnetic resonance imaging - a very powerful magnetic field is used to obtain a 3d image of the density of water molecules of the brain revealing different anatomical structures a related technique functional magnetic resonance imaging reveals the pattern of blood flow in the brain and can show which parts of the brain are involved in a particular task
+embryogenesis ontogeny and developmental biology - a discipline that has given rise to many scientific field theories
+bioenergetics - the study of energy exchange on the molecular level of living systems
+biological psychiatry neurology psychoneuroimmunology
+bioluminescence - a marked phosphoresecence found in fungi deep-sea creatures etc. as against biophoton - a much weaker electromagnetic radiation thought by alexander gurwitsch its discoverer to be a form of signalling
+the activity of biological and astronomical systems inevitably generates magnetic and electrical fields which can be measured with sensitive instruments and which have at times been suggested as a basis for "esoteric" ideas of energy
+== radiation sources for radiobiology ==
+radiobiology experiments typically make use of a radiation source which could be:
+an isotopic source typically 137cs or 60co
+a particle accelerator generating high energy protons electrons or charged ions biological samples can be irradiated using either a broad uniform beam or using a microbeam focused down to cellular or subcellular sizes
+a uv lamp
+== see also ==
+background radiation
+cell survival curve
+health threat from cosmic rays
+nasa space radiation laboratory
+nuclear medicine
+radioactivity in biology
+radiology
+radiophobia
+radiosensitivity
+relative biological effectiveness
+== references and further reading ==
+^ "radiation hormesis challenging lnt theory via ecological and evolutionary considerations" (pdf) publication date 2002 health physics society retrieved 2010-12-11
+^ a b c christensen dm iddins cj sugarman sl (february 2014) "ionizing radiation injuries and illnesses" emerg med clin north am 32 (1): 24565 doi:10.1016/j.emc.2013.10.002 pmid 24275177
+^ wynn volkert; hoffman timothy (1999) "therapeutic radiopharmaceuticals afrtin=2+3=9000" (pdf) chemical reviews 99 (9): 226992 doi:10.1021/cr9804386 pmid 11749482
+^ y b kudriashov radiation biophysics isbn 9781600212802 page xxi
+^ grady denise (october 6 1998) "a glow in the dark and a lesson in scientific peril" the new york times retrieved november 25 2009
+^ rowland r.e (1994) radium in humans: a review of u.s studies (pdf) argonne national laboratory retrieved 24 may 2012
+^ carmichael ann g (1991) medicine: a treasury of art and literature new york: harkavy publishing service p 376 isbn 0-88363-991-2
+^ pattison j e. hugtenburg r p. beddoe a h and charles m w (2001) experimental simulation of a-bomb gamma-ray spectra for radiobiology studies radiation protection dosimetry 95(2):125-136
+wikimindmap
+eric hall radiobiology for the radiologist 2006 lippincott
+g.gordon steel "basic clinical radiobiology" 2002 hodder arnold
+the institute for radiation biology at the helmholtz-center for environmental health [1]

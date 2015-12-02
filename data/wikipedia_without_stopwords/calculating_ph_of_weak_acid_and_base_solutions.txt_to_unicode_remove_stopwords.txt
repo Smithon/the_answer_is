@@ -1,0 +1,99 @@
+chemistry ph piet numeric scale used specify acidity basicity aqueous solution roughly negative logarithm base concentration measured units moles per liter hydrogen ions h precisely negative logarithm base activity hydrogen ion solutions ph less acidic solutions ph greater alkaline basic pure water neutral neither acid base contrary popular belief ph value less greater strong acids bases respectively
+ph measurements important medicine biology chemistry agriculture forestry food science environmental science oceanography civil engineering chemical engineering nutrition water treatment water purification many applications
+ph scale traceable set standard solutions whose ph established international agreement primary ph standard values determined using concentration cell transference measuring potential difference hydrogen electrode standard electrode silver chloride electrode ph aqueous solutions measured glass electrode ph meter indicator
+ph negative logarithm base activity solvated hydronium ion often albeit somewhat inaccurately expressed measure hydronium ion concentration
+rest article uses technically correct word base inflections place alkaline specifically refers base dissolved water inflections
+history
+concept ph first introduced danish chemist sren peder lauritz srensen carlsberg laboratory revised modern ph accommodate definitions measurements terms electrochemical cells first papers notation h subscript lowercase p ph
+exact meaning p ph disputed according carlsberg foundation ph stands power hydrogen also suggested p stands german potenz meaning power others refer french puissance also meaning power based fact carlsberg laboratory frenchspeaking another suggestion p stands latin terms pondus hydrogenii engl quantity hydrogen potentia hydrogenii engl capacity hydrogen potential hydrogen also suggested srensen used letters p q commonly paired letters mathematics simply label test solution p reference solution q current use chemistry p stands decimal cologarithm also term pka used acid dissociation constants
+definition measurement
+ph
+ph defined decimal logarithm reciprocal hydrogen ion activity ah solution
+definition adopted ionselective electrodes used measure ph respond activity ideally electrode potential e follows nernst equation hydrogen ion written
+e measured potential e standard electrode potential r gas constant temperature kelvin f faraday constant h number electrons transferred one follows electrode potential proportional ph ph defined terms activity precise measurement ph presented international standard iso follows galvanic cell set measure electromotive force emf reference electrode electrode sensitive hydrogen ion activity immersed aqueous solution reference electrode may silver chloride electrode calomel electrode hydrogenion selective electrode standard hydrogen electrode
+reference electrode concentrated solution kcl test solution h pt
+firstly cell filled solution known hydrogen ion activity emf es measured emf ex cell containing solution unknown ph measured
+difference two measured emf values proportional ph method calibration avoids need know standard electrode potential proportionality constant z ideally equal nernstian slope
+apply process practice glass electrode used rather cumbersome hydrogen electrode combined glass electrode inbuilt reference electrode calibrated buffer solutions known hydrogen ion activity iupac proposed use set buffer solutions known h activity two buffer solutions used order accommodate fact slope may differ slightly ideal implement approach calibration electrode first immersed standard solution reading ph meter adjusted equal standard buffers value reading second standard buffer solution adjusted using slope control equal ph solution details given iupac recommendations two buffer solutions used electrode calibrated fitting observed ph values straight line respect standard buffer values commercial standard buffer solutions usually come information value c correction factor applied temperatures
+ph scale logarithmic therefore ph dimensionless quantity
+ph
+original definition srensen superseded favor ph however possible measure concentration hydrogen ions directly electrode calibrated terms hydrogen ion concentrations one way used extensively titrate solution known concentration strong acid solution known concentration strong alkaline presence relatively high concentration background electrolyte since concentrations acid alkaline known easy calculate concentration hydrogen ions measured potential correlated concentrations calibration usually carried using gran plot calibration yields value standard electrode potential e slope factor f nernst equation form
+used derive hydrogen ion concentrations experimental measurements e slope factor f usually slightly less one slope factor less indicates electrode functioning correctly presence background electrolyte ensures hydrogen ion activity coefficient effectively constant titration constant value set one defining standard state solution containing background electrolyte thus effect using procedure make activity equal numerical value concentration
+glass electrode ion selective electrodes calibrated medium similar one investigated instance one wishes measure ph seawater sample electrode calibrated solution resembling seawater chemical composition detailed
+difference ph ph quite small stated ph ph common practice use term ph types measurement
+ph indicators
+indicators may used measure ph making use fact color changes ph visual comparison color test solution standard color chart provides means measure ph accurate nearest whole number precise measurements possible color measured spectrophotometrically using colorimeter spectrophotometer universal indicator consists mixture indicators continuous color change ph ph universal indicator paper made absorbent paper impregnated universal indicator
+poh
+poh sometimes used measure concentration hydroxide ions oh alkalinity poh values derived ph measurements concentration hydroxide ions water related concentration hydrogen ions
+kw selfionisation constant water taking logarithms
+room temperature poh ph however relationship strictly valid circumstances measurements soil alkalinity
+extremes ph
+measurement ph ca mol dm acid ca mol dm alkaline requires special procedures using glass electrode nernst law breaks conditions various factors contribute cannot assumed liquid junction potentials independent ph also extreme ph implies solution concentrated electrode potentials affected ionic strength variation high ph glass electrode may affected alkaline error electrode becomes sensitive concentration cations na k solution specially constructed electrodes available partly overcome problems
+runoff mines mine tailings produce low ph values
+nonaqueous solutions
+hydrogen ion concentrations activities measured nonaqueous solvents ph values based measurements belong different scale aqueous ph values activities relate different standard states hydrogen ion activity ah defined
+h chemical potential hydrogen ion oh chemical potential chosen standard state r gas constant thermodynamic temperature therefore ph values different scales cannot compared directly requiring intersolvent scale involves transfer activity coefficient hydrolyonium ion
+ph example acidity function acidity functions defined example hammett acidity function h developed connection superacids
+concept unified ph scale developed basis absolute chemical potential proton scale applies liquids gases even solids
+applications
+pure water neutral acid dissolved water ph less base alkaline dissolved water ph greater solution strong acid hydrochloric acid concentration mol dm ph solution strong alkaline sodium hydroxide concentration mol dm ph thus measured ph values lie mostly range though negative ph values values entirely possible since ph logarithmic scale difference one ph unit equivalent tenfold difference hydrogen ion concentration ph aqueous solution salt sodium chloride slightly different neutral solution even though salt neither acidic basic hydrogen hydroxide ions activity dependent ionic strength kw varies ionic strength
+pure water exposed air becomes mildly acidic water absorbs carbon dioxide air slowly converted bicarbonate hydrogen ions essentially creating carbonic acid
+ph nature
+phdependent plant pigments used ph indicators occur many plants including hibiscus red cabbage anthocyanin red wine juice citrus fruits acidic mainly contains citric acid carboxylic acids occur many living systems example lactic acid produced muscle activity state protonation phosphate derivatives atp phdependent functioning oxygentransport enzyme hemoglobin affected ph process known root effect
+seawater
+ph seawater plays important role oceans carbon cycle evidence ongoing ocean acidification caused carbon dioxide emissions however ph measurement complicated chemical properties seawater several distinct ph scales exist chemical oceanography
+part operational definition ph scale iupac defines series buffer solutions across range ph values often denoted nbs nist designation solutions relatively low ionic strength compared seawater consequence recommended use characterizing ph seawater since ionic strength differences cause changes electrode potential resolve problem alternative series buffers based artificial seawater developed new series resolves problem ionic strength differences samples buffers new ph scale referred total scale often denoted pht total scale defined using medium containing sulfate ions ions experience protonation h hso total scale includes effect protons free hydrogen ions hydrogen sulfate ions
+ht hf hso
+alternative scale free scale often denoted phf omits consideration focuses solely hf principle making simpler representation hydrogen ion concentration ht determined therefore hf must estimated using stability constant hso ks
+hf ht hso ht ks
+however difficult estimate ks seawater limiting utility otherwise straightforward free scale
+another scale known seawater scale often denoted phsws takes account protonation relationship hydrogen ions fluoride ions h f hf resulting following expression hsws
+hsws hf hso hf
+however advantage considering additional complexity dependent upon abundance fluoride medium seawater instance sulfate ions occur much greater concentrations times fluoride consequence practical purposes difference total seawater scales small
+following three equations summarise three scales ph
+phf log hf
+pht log hf hso log ht
+phsws log hf hso hf log hsws
+practical terms three seawater ph scales differ values ph units differences much larger accuracy ph measurements typically required particular relation oceans carbonate system since omits consideration sulfate fluoride ions free scale significantly different total seawater scales relative unimportance fluoride ion total seawater scales differ slightly
+living systems
+ph different cellular compartments body fluids organs usually tightly regulated process called acidbase homeostasis common disorder acidbase homeostasis acidosis means acid overload body generally defined ph falling alkalosis opposite condition blood ph excessively high
+ph blood usually slightly basic value ph value often referred physiological ph biology medicine plaque create local acidic environment result tooth decay demineralization enzymes proteins optimum ph range become inactivated denatured outside range
+calculations ph
+calculation ph solution containing acids andor bases example chemical speciation calculation mathematical procedure calculating concentrations chemical species present solution complexity procedure depends nature solution strong acids bases calculations necessary except extreme situations ph solution containing weak acid requires solution quadratic equation ph solution containing weak base may require solution cubic equation general case requires solution set nonlinear simultaneous equations
+complicating factor water weak acid weak base see amphoterism dissociates according equilibrium
+dissociation constant kw defined
+h stands concentration aqueous hydronium ion oh represents concentration hydroxide ion equilibrium needs taken account high ph solute concentration extremely low
+strong acids bases
+strong acids bases compounds practical purposes completely dissociated water normal circumstances means concentration hydrogen ions acidic solution taken equal concentration acid ph equal minus logarithm concentration value hydrochloric acid hcl example strong acid ph m solution hcl equal log ph sodium hydroxide naoh example strong base poh value m solution naoh equal log poh definition poh means ph equal solutions sodium hydroxide higher concentrations selfionization equilibrium must taken account
+selfionization must also considered concentrations extremely low consider example solution hydrochloric acid concentration m simple procedure given would suggest ph clearly wrong acid solution ph less treating system mixture hydrochloric acid amphoteric substance water ph results
+weak acids bases
+weak acid conjugate acid weak base treated using formalism
+acid
+base
+first acid dissociation constant defined follows electrical charges omitted subsequent equations sake generality
+value assumed determined experiment three unknown concentrations ha h determine calculation two additional equations needed one way provide apply law mass conservation terms two reagents h
+c stands analytical concentration texts one mass balance equation replaced equation charge balance satisfactory simple cases like one difficult apply complicated cases together equation defining ka three equations three unknowns acid dissolved water ca ch ca concentration acid h algebraic manipulation equation hydrogen ion concentration may obtained
+solution quadratic equation gives hydrogen ion concentration hence ph loosely ph procedure illustrated ice table also used calculate ph additional strong acid alkaline added system ca ch
+example ph m solution benzoic acid pka
+step
+step set quadratic equation
+step solve quadratic equation ph
+alkaline solutions additional term added massbalance equation hydrogen since addition hydroxide reduces hydrogen ion concentration hydroxide ion concentration constrained selfionization equilibrium equal
+case resulting equation h cubic equation
+general method
+systems polyprotic acids amenable spreadsheet calculations three reagents many complexes formed general formulae apbqhr following general method used calculate ph solution example three reagents equilibrium characterized equilibrium constant
+next write massbalance equations reagent
+note approximations involved equations except stability constant defined quotient concentrations activities much complicated expressions required activities used
+nonlinear simultaneous equations three unknowns b h equations nonlinear concentrations may range many powers solution equations straightforward however many computer programs available used perform calculations may three reagents calculation hydrogen ion concentrations using formalism key element determination equilibrium constants potentiometric titration
+see also
+arterial blood gas
+chemical equilibrium
+pco
+alkaline diet
+references
+external links
+ph scale
+chem virtual textbook acidbase equilibria calculations
+red cabbage ph indicator
+food foodstuff ph values
+online ph calculator inorganic acids bases salts

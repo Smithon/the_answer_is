@@ -1,0 +1,74 @@
+thermal radiation electromagnetic radiation generated thermal motion charged particles matter matter temperature greater absolute zero emits thermal radiation temperature body greater absolute zero interatomic collisions cause kinetic energy atoms molecules change results chargeacceleration andor dipole oscillation produces electromagnetic radiation wide spectrum radiation reflects wide spectrum energies accelerations occur even single temperature
+examples thermal radiation include visible light infrared light emitted incandescent light bulb infrared radiation emitted animals detectable infrared camera cosmic microwave background radiation thermal radiation different thermal convection thermal conductiona person near raging bonfire feels radiant heating fire even surrounding air cold
+sunlight part thermal radiation generated hot plasma sun earth also emits thermal radiation much lower intensity different spectral distribution infrared rather visible cooler earths absorption solar radiation followed outgoing thermal radiation two important processes determine temperature climate earth
+radiationemitting object meets physical characteristics black body thermodynamic equilibrium radiation called blackbody radiation plancks law describes spectrum blackbody radiation depends objects temperature wiens displacement law determines likely frequency emitted radiation stefanboltzmann law gives radiant intensity
+thermal radiation one fundamental mechanisms heat transfer
+overview
+thermal radiation emission electromagnetic waves matter temperature greater absolute zero represents conversion thermal energy electromagnetic energy thermal energy consists kinetic energy random movements atoms molecules matter matter temperature definition composed particles kinetic energy interact atoms molecules composed charged particles ie protons electrons kinetic interactions among matter particles result chargeacceleration dipoleoscillation results electrodynamic generation coupled electric magnetic fields resulting emission photons radiating energy away body surface boundary electromagnetic radiation including light require presence matter propagate travels vacuum space infinitely far unobstructed
+characteristics thermal radiation depend various properties surface emanating including temperature spectral absorptivity spectral emissive power expressed kirchhoffs law radiation monochromatic ie consist single frequency comprises continuous dispersion photon energies characteristic spectrum radiating body surface thermodynamic equilibrium surface perfect absorptivity wavelengths characterized black body black body also perfect emitter radiation perfect emitters called blackbody radiation ratio bodys emission relative black body bodys emissivity black body emissivity unity
+absorptivity reflectivity emissivity bodies dependent wavelength radiation temperature determines wavelength distribution electromagnetic radiation example fresh snow highly reflective visible light reflectivity appears white due reflecting sunlight peak wavelength micrometers emissivity temperature c f peak wavelength micrometers
+distribution power black body emits varying frequency described plancks law given temperature frequency fmax power emitted maximum wiens displacement law fact frequency light inversely proportional wavelength vacuum means peak frequency fmax proportional absolute temperature black body photosphere sun temperature approximately k emits radiation principally humanly visible portion electromagnetic spectrum earths atmosphere partly transparent visible light light reaching surface absorbed reflected earths surface emits absorbed radiation approximating behavior black body k spectral peak fmax lower frequencies atmosphere largely opaque radiation earths surface absorbed scattered atmosphere though radiation escapes space absorbed reemitted atmospheric gases spectral selectivity atmosphere responsible planetary greenhouse effect contributing global warming climate change general also critically contributing climate stability composition properties atmosphere changing
+incandescent light bulb spectrum overlapping black body spectra sun earth photons emitted tungsten light bulb filament k visible spectrum energy associated photons longer wavelengths help person see still transfer heat environment deduced empirically observing incandescent light bulb whenever em radiation emitted absorbed heat transferred principle used microwave ovens laser cutting rf hair removal
+unlike conductive convective forms heat transfer thermal radiation concentrated tiny spot using reflecting mirrors concentrating solar power takes advantage fact many systems mirrors employed concentrate sunlight smaller area instead mirrors fresnel lenses also used concentrate heat flux principle kind lens used fresnel lens design practical large lenses either method used quickly vaporize water steam using sunlight example sunlight reflected mirrors heats ps solar power plant day heat water c k f
+surface effects
+lighter colors also whites metallic substances absorb less illuminating light thus heat less otherwise color makes small difference regards heat transfer object everyday temperatures surroundings since dominant emitted wavelengths nowhere near visible spectrum rather far infrared emissivities wavelengths little visual emissivities visible colors far infrared objects high emissivities thus except sunlight color clothing makes little difference regards warmth likewise paint color houses makes little difference warmth except painted part sunlit
+main exception shiny metal surfaces low emissivities visible wavelengths far infrared surfaces used reduce heat transfer directions example multilayer insulation used insulate spacecraft
+lowemissivity windows houses complicated technology since must low emissivity thermal wavelengths remaining transparent visible light
+properties
+four main properties characterize thermal radiation limit far field
+thermal radiation emitted body temperature consists wide range frequencies frequency distribution given plancks law blackbody radiation idealized emitter shown diagram top
+dominant frequency color range emitted radiation shifts higher frequencies temperature emitter increases example red hot object radiates mainly long wavelengths red orange visible band heated also begins emit discernible amounts green blue light spread frequencies entire visible range cause appear white human eye white hot even whitehot temperature k energy radiation still infrared determined wiens displacement law diagram peak value curve moves left temperature increases
+total amount radiation frequencies increases steeply temperature rises grows absolute temperature body object temperature kitchen oven twice room temperature absolute temperature scale k vs k radiates times much power per unit area object temperature filament incandescent light bulbroughly k times room temperatureradiates times much energy per unit area total radiative intensity black body rises fourth power absolute temperature expressed stefanboltzmann law plot area curve grows rapidly temperature increases
+rate electromagnetic radiation emitted given frequency proportional amount absorption would experience source thus surface absorbs red light thermally radiates red light principle applies properties wave including wavelength color direction polarization even coherence quite possible thermal radiation polarized coherent directional though polarized coherent forms fairly rare nature far sources terms wavelength see section qualification
+nearfield farfield
+general properties apply distances considered much larger wavelengths contributing spectrum significant micrometres k indeed thermal radiation discussed takes radiating waves farfield electromagnetic radiation account sophisticated framework involving electromagnetic theory must used smaller distances thermal source surface nearfield thermal radiation example although farfield thermal radiation distances surfaces one wavelength generally coherent extent nearfield thermal radiation ie radiation distances fraction various radiation wavelengths may exhibit degree temporal spatial coherence
+subjective color eye black body thermal radiator
+selected radiant heat fluxes
+time damage exposure radiative heat function rate delivery heat radiative heat flux effects wcm kwm
+interchange energy
+thermal radiation one principal mechanisms heat transfer entails emission spectrum electromagnetic radiation due objects temperature mechanisms convection conduction interplay energy exchange thermal radiation characterized following equation
+represents spectral absorption component spectral reflection component spectral transmission component elements function wavelength electromagnetic radiation spectral absorption equal emissivity relation known kirchhoffs law thermal radiation object called black body frequencies following formula applies
+practical situation roomtemperature setting humans lose considerable energy due thermal radiation energy lost emitting infrared radiation partially regained absorbing heat flow due conduction surrounding objects remainder resulting generated heat metabolism human skin emissivity close using formulas shows human roughly square meter surface area temperature k continuously radiates approximately watts people indoors surrounded surfaces k receive back watts wall ceiling surroundings net loss watts heat transfer estimates highly dependent extrinsic variables wearing clothes ie decreasing total thermal circuit conductivity therefore reducing total output heat flux truly gray systems relative equivalent emissivityabsorptivity directional transmissivity dependence control volume bodies considered achieve reasonable steadystate heat flux estimates stefanboltzmann law encountering ideally calculable situation almost impossible although common engineering procedures surrender dependency unknown variables assume case optimistically gray approximations get close real solutions divergence stefanboltzmann solutions small especially stp lab controlled environments
+objects appear white reflective visual spectrum necessarily equally reflective thus nonemissive thermal infrared household radiators painted white sensible given hot enough radiate significant amount heat designed thermal radiators actually convectors painting matt black would make little difference efficacy acrylic urethane based white paints blackbody radiation efficiency room temperature meaning term black body always correspond visually perceived color object materials follow black color high emissivityabsorptivity caveat likely functional spectral emissivityabsorptivity dependence
+calculation radiative heat transfer groups object including cavity surroundings requires solution set simultaneous equations using radiosity method calculations geometrical configuration problem distilled set numbers called view factors give proportion radiation leaving given surface hits another specific surface calculations important fields solar thermal energy boiler furnace design raytraced computer graphics
+selective surface used energy extracted sun instance green house made roof walls made glass glass transparent visible approximately m m nearinfrared wavelengths opaque mid farwavelength infrared approximately m therefore glass lets radiation visible range allowing us able see let radiation emitted objects close room temperature traps feel heat known greenhouse effect observed getting car sitting sun selective surfaces also used solar collectors find much help selective surface coating looking equilibrium temperature plate heated solar radiation plate receiving solar irradiation wm minimum wm july maximum wm january sun temperature plate radiation leaving equal radiation received plate k f plate selective surface emissivity cut wavelength m equilibrium temperature approximately k f calculations made neglecting convective heat transfer neglecting solar irradiation absorbed cloudsatmosphere simplicity theory still actual problem
+reduce heat transfer surface glass window clear reflective film low emissivity coating placed interior surface lowemittance lowe coatings microscopically thin virtually invisible metal metallic oxide layers deposited window skylight glazing surface primarily reduce ufactor suppressing radiative heat flow adding coating limiting amount radiation leaves window thus increasing amount heat retained inside window
+radiative heat transfer
+radiative heat transfer one surface another equal radiation entering first surface minus radiation leaving first surface
+black body
+using reciprocity rule simplifies
+stefanboltzmann constant view factor surface surface
+grey body two surfaces heat transfer equal
+respective emissivities surface value easily change different circumstances different equations used case per case basis
+radiative power
+thermal radiation power black body per unit area radiating surface per unit solid angle per unit frequency given plancks law
+terms wavelength
+constant
+formula mathematically follows calculation spectral distribution energy quantized electromagnetic field complete thermal equilibrium radiating object equation derived infinite sum possible frequencies energy photon multiplied number states available frequency probability states occupied
+integrating equation power output given stefanboltzmann law obtained
+constant proportionality stefanboltzmann constant radiating surface area
+wavelength emission intensity highest given wiens displacement law
+surfaces black bodies one consider generally frequency dependent emissivity factor factor multiplied radiation spectrum formula integration taken constant resulting formula power output written way contains factor
+type theoretical model frequencyindependent emissivity lower perfect black body often known grey body frequencydependent emissivity solution integrated power depends functional form dependence though general simple expression practically speaking emissivity body roughly constant around peak emission wavelength gray body model tends work fairly well since weight curve around peak emission tends dominate integral
+figure shows power emitted black body plotted temperature based stefanboltzmann law
+constants
+definitions constants used equations
+variables
+definitions variables example values
+see also
+incandescence
+infrared photography
+interior radiation control coating
+planck radiation
+sakumahattori equation
+thermal dose unit
+view factor
+references
+reading
+siegel john r howell robert howell john r november thermal radiation heat transfer new york taylor francis inc pp xix xxvi list symbols thermal radiation formulas isbn retrieved
+em sparrow rd cess radiation heat transfer hemisphere publishing corporation
+external links
+black body emission calculator
+heat transfer
+atmospheric radiation
+infrared temperature calibration

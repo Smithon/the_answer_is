@@ -1,0 +1,47 @@
+collision theory is a theory proposed independently by max trautz in 1916 and william lewis in 1918 that qualitatively explains how chemical reactions occur and why reaction rates differ for different reactions the collision theory states that when suitable particles of the reactant hit each other only a certain percentage of the collisions cause any noticeable or significant chemical change; these successful changes are called successful collisions the successful collisions have enough energy also known as activation energy at the moment of impact to break the preexisting bonds and form all new bonds this results in the products of the reaction increasing the concentration of the reactant particles or raising the temperature thus bringing about more collisions and therefore many more successful collisions increases the rate of reaction
+when a catalyst is involved in the collision between the reactant molecules less energy is required for the chemical change to take place and hence more collisions have sufficient energy for reaction to occur the reaction rate therefore increases
+collision theory is closely related to chemical kinetics
+== rate constant ==
+the rate constant for a bimolecular gas phase reaction as predicted by collision theory is:
+where:
+z is the collision frequency
+is the steric factor
+ea is the activation energy of the reaction
+t is the temperature
+r is the gas constant
+the collision frequency is:
+where:
+na is the avogadro constant
+ab is the reaction cross section
+kb is the boltzmann's constant
+ab is the reduced mass of the reactants
+== quantitative insights ==
+=== derivation ===
+consider the reaction:
+a + b c
+in collision theory it is considered that two particles a and b will collide if their nuclei get closer than a certain distance the area around a molecule a in which it can collide with an approaching b molecule is called the cross section (ab) of the reaction and is in simplified terms the area corresponding to a circle whose radius () is the sum of the radii of both reacting molecules which are supposed to be spherical a moving molecule will therefore sweep a volume per second as it moves where is the average velocity of the particle (this solely represents the classical notion of a collision of solid balls as molecules are quantum-mechanical many-particle systems of electrons and nuclei based upon the coulomb and exchange interactions generally they neither obey rotational symmetry nor do they have a box potential therefore more generally the cross section is defined as the reaction probability of a ray of a particles per areal density of b targets which makes the definition independent from the nature of the interaction between a and b consequently the radius can only be interpreted as a rough estimate for the "size" of the molecule's wave function.)
+from kinetic theory it is known that a molecule of a has an average velocity (different from root mean square velocity) of  where is boltzmann constant and is the mass of the molecule
+the solution of the two body problem states that two different moving bodies can be treated as one body which has the reduced mass of both and moves with the velocity of the center of mass so in this system must be used instead of 
+therefore the total collision frequency of all a molecules with all b molecules is:
+from maxwell boltzmann distribution it can be deduced that the fraction of collisions with more energy than the activation energy is  therefore the rate of a bimolecular reaction for ideal gases will be:
+where:
+z is the collision frequency
+is the steric factor which will be discussed in detail in the next section
+ea is the activation energy of the reaction
+t is the absolute temperature
+r is the gas constant
+the product z is equivalent to the preexponential factor of the arrhenius equation
+=== validity of the theory and steric factor ===
+once a theory is formulated its validity must be tested that is compare its predictions with the results of the experiments
+when the expression form of the rate constant is compared with the rate equation for an elementary bimolecular reaction  it is noticed that 
+that expression is similar to the arrhenius equation and gives the first theoretical explanation for the arrhenius equation on a molecular basis the weak temperature dependence of the preexponential factor is so small compared to the exponential factor that it cannot be measured experimentally that is "it is not feasible to establish on the basis of temperature studies of the rate constant whether the predicted t dependence of the preexponential factor is observed experimentally"
+==== steric factor ====
+if the values of the predicted rate constants are compared with the values of known rate constants it is noticed that collision theory fails to estimate the constants correctly and the more complex the molecules are the more it fails the reason for this is that particles have been supposed to be spherical and able to react in all directions; that is not true as the orientation of the collisions is not always the right one for example in the hydrogenation reaction of ethylene the h2 molecule must approach the bonding zone between the atoms and only a few of all the possible collisions fulfill this requirement
+to alleviate this problem a new concept must be introduced: the steric factor  it is defined as the ratio between the experimental value and the predicted one (or the ratio between the frequency factor and the collision frequency and it is most often less than unity
+usually the more complex the reactant molecules the lower the steric factor nevertheless some reactions exhibit steric factors greater than unity: the harpoon reactions which involve atoms that exchange electrons producing ions the deviation from unity can have different causes: the molecules are not spherical so different geometries are possible; not all the kinetic energy is delivered into the right spot; the presence of a solvent (when applied to solutions) etc
+collision theory can be applied to reactions in solution; in that case the solvent cage has an effect on the reactant molecules and several collisions can take place in a single encounter which leads to predicted preexponential factors being too large values greater than unity can be attributed to favorable entropic contributions
+== see also ==
+two-dimensional gas
+== references ==
+== external links ==
+introduction to collision theory

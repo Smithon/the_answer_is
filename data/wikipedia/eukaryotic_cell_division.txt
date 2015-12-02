@@ -1,0 +1,33 @@
+the g1 phase or growth 1/gap 1 phase is the first of four phases of the cell cycle that takes place in eukaryotic cell division in this part of interphase the cell synthesizes mrna and proteins in preparation for subsequent steps leading to mitosis g1 phase ends when the cell moves into the s phase of interphase
+== overview ==
+g1 phase together with the s phase and g2 phase comprise the long growth period of the cell cycle called interphase that takes place before cell division in mitosis (m phase)
+during g1 phase the cell grows in size and synthesizes mrna and proteins that are required for dna synthesis once the required proteins and growth are complete the cell enters the next phase of the cell cycle s phase the duration of each phase including the g1 phase is different in many different types of cells in human somatic cells the cell cycle lasts about 18 hours and the g1 phase takes up about 1/3 of that time however in xenopus embryos sea urchin embryos and drosophila embryos the g1 phase is barely existent and is defined as the gap if one exists between the end of mitosis and the s phase
+g1 phase and the other subphases of the cell cycle may be affected by limiting growth factors such as nutrient supply temperature and room for growth sufficient nucleotides and amino acids must be present in order to synthesize mrna and proteins physiological temperatures are optimal for cell growth in humans the normal physiological temperature is around 37 c (98.6 f)
+g1 phase is particularly important in the cell cycle because it determines whether a cell commits to division or to leaving the cell cycle if a cell is signaled to remain undivided instead of moving onto the s phase it will leave the g1 phase and move into a state of dormancy called the g0 phase most nonproliferating vertebrate cells will enter the g0 phase
+while in the g1 phase of the cell cycle a cell is haploid or 1n this means that the cell contains one set of the organisms dna the genetic material exists as chromatin or loosely bundled strands of dna diploid eukaryotic organisms such as yeast are 2n and will have one set of dna until s phase is complete
+== regulation of g1 phase ==
+within the cell cycle there is a stringent set of regulations known as the cell cycle control system that controls the timing and coordination of the phases to ensure a correct order of events biochemical triggers known as cyclin-dependent kinases (cdks) switch on cell cycles events at the corrected time and in the correct order to prevent any mistakes
+there are three checkpoints in the cell cycle: the g1/s checkpoint or the start checkpoint in yeast; the g2/m checkpoint; and the spindle checkpoint
+=== biochemical regulators in g1 phase ===
+during g1 phase the g1/s cyclin activity rises significantly near the end of the g1 phase
+complexes of cyclin that are active during other phases of the cell cycle are kept inactivated to prevent any cell-cycle events from occurring out of order three methods of preventing cdk activity are found in g1 phase: inhibitory gene regulatory proteins suppress major cyclin genes from expression (*the way this is phrased it is unclear whether it is transcription of the gene or translation of the mrna gene product that is being regulated); anaphase-promoting complex (apc) is activated which targets and degrades s and m cyclins (but not g1/s cyclins); and a high concentration of cdk inhibitors is found during g1 phase
+=== the restriction point ===
+the restriction point (r) in the g1 phase is different from a checkpoint because it does not determine whether cell conditions are ideal to move on to the next phase but it changes the course of the cell after a vertebrate cell has been in the g1 phase for about three hours the cell enters a restriction point in which it is decided whether the cell will move forward with the g1 phase or move into the dormant g0 phase
+this point also separates two halves of the g1 phase; the post-mitotic and pre-mitotic phases between the beginning of the g1 phase (which is also after mitosis has occurred) and r the cell is known as being in the g1-pm subphase or the post-mitotic phase after r and before s the cell is known as being in g1-ps or the pre s phase interval of the g1 phase
+in order for the cell to continue through the g1-pm there must be a high amount of growth factors and a steady rate of protein synthesis otherwise the cell will move into g0 phase
+==== conflicting research ====
+some authors will say that the restriction point and the g1/s checkpoint are one and the same but more recent studies have argued that there are two different points in the g1 phase that check the progression of the cell the first restriction point is growth-factor dependent and determines whether the cell moves into the g0 phase while the second checkpoint is nutritionally-dependent and determines whether the cell moves into the s phase some of the confusion between researchers has been attributed to the study of mammalian vs yeast cells
+=== the g1/s checkpoint ===
+the g1/s checkpoint is the point between g1 phase and the s phase in which the cell is cleared for progression into the s phase reasons the cell would not move into the s phase include insufficient cell growth damaged dna or other preparations have not been completed
+at the g1/s checkpoint formation of the g1/s cyclin with cdk to form a complex commits the cell to a new division cycle these complexes then activate s-cdk complexes that move forward with dna replication in the s phase concurrently anaphase-promoting complex (apc) activity decreases significantly allowing s and m cyclins to become activated
+if a cell does not clear to pass through to the s phase it enters the dormant g0 phase in which there is no cellular growth or division
+== the g1 phase in cancer ==
+many sources have linked irregularities in the g1 phase or the g1/s checkpoint to uncontrolled growth of tumors in these cases where the g1 phase is affected it is generally because gene regulatory proteins of the e2f family have become unrestrained and increase g1/s cyclin gene expression leading to uncontrolled cell-cycle entry
+however the cure for some forms of cancer also lies in the g1 phase of the cell cycle many cancers including breast and skin cancers have been prevented from proliferating by causing the tumor cells to enter g1 cell cycle arrest preventing the cells from dividing and spreading
+== see also ==
+cell cycle
+interphase
+g1/s transition
+s phase
+restriction point
+== references ==

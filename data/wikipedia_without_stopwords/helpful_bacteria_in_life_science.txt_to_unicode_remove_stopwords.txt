@@ -1,0 +1,102 @@
+solubility equilibrium type dynamic equilibrium exists chemical compound solid state chemical equilibrium solution compound solid may dissolve unchanged dissociation chemical reaction another constituent solvent acid alkali type equilibrium characterized temperaturedependent equilibrium constant solubility equilibria important pharmaceutical environmental many scenarios
+definitions
+solubility equilibrium exists chemical compound solid state chemical equilibrium solution compound equilibrium example dynamic equilibrium individual molecules migrate solid solution phases rates dissolution precipitation equal one another equilibrium established solution said saturated concentration solute saturated solution known solubility units solubility may molar mol dm expressed mass per unit volume g ml solubility temperature dependent solution containing higher concentration solute solubility said supersaturated supersaturated solution may induced come equilibrium addition seed may tiny crystal solute tiny solid particle initiates precipitation
+three main types solubility equilibria
+simple dissolution
+dissolution dissociation characteristic salts equilibrium constant known case solubility product
+dissolution reaction characteristic dissolution weak acids weak bases aqueous media varying ph
+case equilibrium constant specified quotient activities equilibrium constant dimensionless activity dimensionless quantity however use activities inconvenient equilibrium constant usually divided quotient activity coefficients become quotient concentrations see equilibrium chemistryequilibrium constant details moreover concentration solvent usually taken constant also subsumed equilibrium constant reasons constant solubility equilibrium dimensions related scale concentrations measured solubility constants defined terms concentrations temperature dependent also may depend solvent composition solvent contains also species derived solute
+phase effect
+equilibria defined specific crystal phases therefore solubility product expected different depending phase solid example aragonite calcite different solubility products even though chemical identity calcium carbonate nevertheless given conditions likely one phase thermodynamically stable therefore phase enters true equilibrium
+particle size effect
+thermodynamic solubility constant defined large monocrystals solubility increase decreasing size solute particle droplet additional surface energy effect generally small unless particles become small typically smaller m effect particle size solubility constant quantified follows
+solubility constant solute particles molar surface area solubility constant substance molar surface area tending zero ie particles large surface tension solute particle solvent molar surface area solute mmol r universal gas constant absolute temperature
+salt effect
+salt effect refers fact presence salt ion common solute effect ionic strength solution hence activity coefficients equilibrium constant expressed concentration quotient changes
+temperature effect
+solubility sensitive changes temperature example sugar soluble hot water cool water occurs solubility constants like types equilibrium constants functions temperature accordance le chateliers principle dissolution process endothermic heat absorbed solubility increases rising temperature effect basis process recrystallization used purify chemical compound dissolution exothermic heat released solubility decreases rising temperature sodium sulfate shows increasing solubility temperature c decreasing solubility higher temperature solid phase decahydrate nasoho transition temperature different hydrate temperature
+pressure effect
+condensed phases solids liquids pressure dependence solubility typically weak usually neglected practice assuming ideal solution dependence quantified
+index iterates components ni mole fraction ith component solution p pressure index refers constant temperature viaq partial molar volume ith component solution vicr partial molar volume ith component dissolving solid r universal gas constant
+pressure dependence solubility occasionally practical significance example precipitation fouling oil fields wells calcium sulfate decreases solubility decreasing pressure result decreased productivity time
+simple dissolution
+dissolution organic solid described equilibrium substance solid dissolved forms example sucrose table sugar forms saturated solution
+equilibrium expression reaction written chemical reaction products reactants
+k called thermodynamic solubility constant braces indicate activity activity pure solid definition unity therefore
+activity substance solution expressed product concentration activity coefficient k divided solubility constant ks
+obtained equivalent defining standard state saturated solution activity coefficient equal one solubility constant true constant activity coefficient affected presence solutes may present unit solubility constant unit concentration solute sucrose k mol dm c shows solubility sucrose c nearly mol dm gl sucrose unusual easily form supersaturated solution higher concentrations carbohydrates
+dissolution dissociation
+ionic compounds normally dissociate constituent ions dissolve water example calcium sulfate
+previous example equilibrium expression
+k thermodynamic equilibrium constant braces indicate activity activity pure solid definition equal one
+solubility salt low activity coefficients ions solution nearly equal one setting actually equal one expression reduces solubility product expression
+solubility product general binary compound apbq given
+apbq paq qbp
+ksp apbq electrical charges omitted simplicity notation
+product dissociates concentration b equal qp times concentration
+b qp
+therefore
+ksp ap qpq aq
+qpq apq
+solubility p one may incorporate p insert root obtain
+examples
+caso p q
+naso p q
+also p q
+solubility products often expressed logarithmic form thus calcium sulfate ksp log ksp smaller value negative log value lower solubility
+salts fully dissociated solution examples include mgso famously discovered manfred eigen present seawater inner sphere complex outer sphere complex solubility salts calculated method outlined dissolution reaction
+hydroxides
+hydroxides solubility products often given modified form ksp using hydrogen ion concentration place hydroxide ion concentration two concentrations related selfionization constant water kw
+kwhoh
+example
+caoh ca oh
+ksp caoh cakwh
+ksp kspkw cah
+log ksp caoh ambient temperatures log ksp approximately
+common ion effect
+commonion effect effect decreasing solubility one salt another salt ion common also present example solubility silver chloride agcl lowered sodium chloride source common ion chloride added suspension agcl water
+agcls agaq claq ksp agcl
+solubility absence common ion calculated follows concentrations ag cl equal one mole agcl dissociates one mole ag one mole cl let concentration agaq denoted x
+ksp x x
+ksp agcl equal moldm c solubility mol dm
+suppose sodium chloride also present concentration mol dm solubility ignoring possible effect sodium ions calculated
+ksp x x
+quadratic equation x also equal solubility
+x x ksp
+case silver chloride x much smaller x term ignored therefore
+x ksp mol dm
+considerable reduction gravimetric analysis silver reduction solubility due common ion effect used ensure complete precipitation agcl
+dissolution reaction
+typical reaction dissolution involves weak base b dissolving acidic aqueous solution
+bs h aq bh aq
+reaction important pharmaceutical products dissolution weak acids alkaline media similarly important
+hnas ohaq hnaaq ho
+uncharged molecule usually lower solubility ionic form solubility depends ph acid dissociation constant solute term intrinsic solubility used describe solubility unionized form absence acid alkali
+leaching aluminium salts rocks soil acid rain another example dissolution reaction aluminosilicates bases react acid form soluble species alaq
+formation chemical complex may also change solubility wellknown example addition concentrated solution ammonia suspension silver chloride dissolution favoured formation ammine complex
+agcls nhaq agnh aq cl aq
+another example involves addition water softeners washing powders inhibit precipitation salts magnesium calcium ions present hard water forming complexes
+calculation solubility cases requires two simultaneous equilibria considered example
+experimental determination
+determination solubility fraught difficulties first foremost difficulty establishing system equilibrium chosen temperature precipitation dissolution reactions may extremely slow process slow solvent evaporation may issue supersaturation may occur insoluble substances concentrations solution low difficult determine methods used fall broadly two categories static dynamic
+static methods
+static methods mixture brought equilibrium concentration species solution phase determined chemical analysis usually requires separation solid solution phases order equilibration separation performed thermostatted room low concentrations measured radioactive tracer incorporated solid phase
+variation static method add solution substance nonaqueous solvent dimethyl sulfoxide aqueous buffer mixture immediate precipitation may occur giving cloudy mixture solubility measured mixture known kinetic solubility cloudiness due fact precipitate particles small resulting tyndall scattering fact particles small particle size effect comes play kinetic solubility often greater equilibrium solubility time cloudiness disappear size crystallites increases eventually equilibrium reached process known precipitate ageing
+dynamic methods
+solubility values organic acids bases ampholytes pharmaceutical interest may obtained proceess called chasing equilibrium solubility procedure quantity substance first dissolved ph exists predominantly ionized form precipitate neutral unionized species formed changing ph subsequently rate change ph due precipitation dissolution monitored strong acid base titrant added adjust ph discover equilibrium conditions two rates equal advantage method relatively fast quantity precipitate formed quite small however performance method may affected formation supersaturated solutions
+see also
+solubility table table solubilities mostly inorganic salts temperatures c
+molar solubility number moles substance solute dissolved per liter solution solution becomes saturated
+references
+external links
+housecroft c e sharpe g inorganic chemistry rd ed prentice hall isbn section solubilities ionic salts includes discussion thermodynamics dissolution
+iupacnist solubility database
+solubility products simple inorganic compounds
+solubility challenge predict solubilities data base molecules database mostly compounds pharmaceutical interest available one hundred molecules solubilities text file tab separated
+number computer programs available calculations include
+chemeql comprehensive computer program calculation thermodynamic equilibrium concentrations species homogeneous heterogeneous systems many geochemical applications
+jess types chemical equilibria modelled including protonation complex formation redox solubility adsorption interactions includes extensive database
+mineql chemical equilibrium modeling system aqueous systems handles wide range ph redox solubility sorption scenarios
+phreeqc usgs software designed perform wide variety lowtemperature aqueous geochemical calculations including reactive transport one dimension
+minteq chemical equilibrium model calculation metal speciation solubility equilibria etc natural waters
+winsgw windows version solgaswater computer program

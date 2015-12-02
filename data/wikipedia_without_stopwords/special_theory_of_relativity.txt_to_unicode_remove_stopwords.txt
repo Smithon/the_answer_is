@@ -1,0 +1,228 @@
+physics special relativity sr also known special theory relativity str generally accepted experimentally well confirmed physical theory regarding relationship space time einsteins original pedagogical treatment based two postulates laws physics invariant ie identical inertial systems nonaccelerating frames reference speed light vacuum observers regardless motion light source originally proposed albert einstein paper electrodynamics moving bodies inconsistency newtonian mechanics maxwells equations electromagnetism inability discover earths motion luminiferous aether led development special relativity corrects mechanics handle situations involving motions nearing speed light today special relativity accurate model motion speed even newtonian mechanics still useful due simplicity high accuracy approximation small velocities relative speed light
+special relativity implies wide range consequences experimentally verified including length contraction time dilation relativistic mass massenergy equivalence universal speed limit relativity simultaneity replaced conventional notion absolute universal time notion time dependent reference frame spatial position rather invariant time interval two events invariant spacetime interval combined laws physics two postulates special relativity predict equivalence mass energy expressed massenergy equivalence formula e mc c speed light vacuum
+defining feature special relativity replacement galilean transformations newtonian mechanics lorentz transformations time space cannot defined separately rather space time interwoven single continuum known spacetime events occur time one observer could occur different times another
+theory special applies special case curvature spacetime due gravity negligible order include gravity einstein formulated general relativity special relativity contrary outdated descriptions capable handling accelerated frames reference
+galilean relativity considered approximation special relativity valid low speeds special relativity considered approximation general relativity valid weak gravitational fields ie sufficiently small scale conditions free fall whereas general relativity incorporates noneuclidean geometry order represent gravitational effects geometric curvature spacetime special relativity restricted flat spacetime known minkowski space locally lorentzinvariant frame abides special relativity defined sufficiently small scales even curved spacetime
+galileo galilei already postulated absolute welldefined state rest privileged reference frames principle called galileos principle relativity einstein extended principle accounted constant speed light phenomenon recently observed michelsonmorley experiment also postulated holds laws physics including laws mechanics electrodynamics
+postulatesedit
+einstein discerned two fundamental propositions seemed assured regardless exact validity known laws either mechanics electrodynamics propositions constancy speed light independence physical laws especially constancy speed light choice inertial system initial presentation special relativity expressed postulates
+principle relativity laws states physical systems undergo change affected whether changes state referred one two systems uniform translatory motion relative
+principle invariant light speed light always propagated empty space definite velocity speed c independent state motion emitting body preface light vacuum propagates speed c fixed constant independent direction least one system inertial coordinates stationary system regardless state motion light source
+derivation special relativity depends two explicit postulates also several tacit assumptions made almost theories physics including isotropy homogeneity space independence measuring rods clocks past history
+following einsteins original presentation special relativity many different sets postulates proposed various alternative derivations however common set postulates remains employed einstein original paper mathematical statement principle relativity made later einstein introduces concept simplicity mentioned
+special principle relativity system coordinates k chosen relation physical laws hold good simplest form laws hold good relation system coordinates k moving uniform translation relatively k
+henri poincar provided mathematical framework relativity theory proving lorentz transformations subset poincar group symmetry transformations einstein later derived transformations axioms
+many einsteins papers present derivations lorentz transformation based upon two principles
+einstein consistently based derivation lorentz invariance essential core special relativity two basic principles relativity lightspeed invariance wrote
+insight fundamental special theory relativity assumptions relativity light speed invariance compatible relations new type lorentz transformation postulated conversion coordinates times events universal principle special theory relativity contained postulate laws physics invariant respect lorentz transformations transition one inertial system arbitrarily chosen inertial system restricting principle natural laws
+thus many modern treatments special relativity base single postulate universal lorentz covariance equivalently single postulate minkowski spacetime
+principle relativity alone without assuming constancy speed light ie using isotropy space symmetry implied principle special relativity one show spacetime transformations inertial frames either euclidean galilean lorentzian lorentzian case one obtain relativistic interval conservation certain finite limiting speed experiments suggest speed speed light vacuum
+constancy speed light motivated maxwells theory electromagnetism lack evidence luminiferous ether conflicting evidence extent einstein influenced null result michelsonmorley experiment case null result michelsonmorley experiment helped notion constancy speed light gain widespread rapid acceptance
+lack absolute reference frameedit
+principle relativity states preferred inertial reference frame dates back galileo incorporated newtonian physics however late th century existence electromagnetic waves led physicists suggest universe filled substance called aether would act medium waves vibrations travelled aether thought constitute absolute reference frame speeds could measured could considered fixed motionless aether supposedly possessed wonderful properties sufficiently elastic support electromagnetic waves waves could interact matter yet offered resistance bodies passing results various experiments including michelsonmorley experiment led theory special relativity showing aether einsteins solution discard notion aether absolute state rest relativity reference frame moving uniform motion observe laws physics particular speed light vacuum always measured c even measured multiple systems moving different constant velocities
+reference frames coordinates lorentz transformationedit
+reference frames play crucial role relativity theory term reference frame used observational perspective space undergoing change motion acceleration position measured along spatial axes addition reference frame ability determine measurements time events using clock reference device uniform periodicity
+event occurrence assigned single unique time location space relative reference frame point spacetime since speed light constant relativity every reference frame pulses light used unambiguously measure distances refer back times events occurred clock even though light takes time reach clock event transpired
+example explosion firecracker may considered event completely specify event four spacetime coordinates time occurrence dimensional spatial location define reference point lets call reference frame
+relativity theory often want calculate position point different reference point
+suppose second reference frame whose spatial axes clock exactly coincide time zero moving constant velocity v respect along xaxis
+since absolute reference frame relativity theory concept moving doesnt strictly exist everything always moving respect reference frame instead two frames move speed direction said comoving therefore comoving
+define event spacetime coordinates txyz system txyz lorentz transformation specifies coordinates related following way
+lorentz factor c speed light vacuum velocity v parallel xaxis y z coordinates unaffected x coordinates transformed lorentz transformations form oneparameter group linear mappings parameter called rapidity
+nothing special xaxis transformation apply y z axes indeed direction done directions parallel motion warped factor perpendicular see main article details
+quantity invariant lorentz transformations known lorentz scalar
+writing lorentz transformation inverse terms coordinate differences instance one event coordinates x x another event coordinates x x differences defined
+get
+effects merely appearances explicitly related way measuring time intervals events occur place given coordinate system called colocal events time intervals different another coordinate system moving respect first unless events also simultaneous similarly effects also relate measured distances separated simultaneous events given coordinate system choice events colocal separated distance space occur spatial distance seen another moving coordinate system however spacetime interval observers underlying reality remains perspective changes
+consequences derived lorentz transformationedit
+consequences special relativity derived lorentz transformation equations transformations hence special relativity lead different physical predictions newtonian mechanics relative velocities become comparable speed light speed light much larger anything humans encounter effects predicted relativity initially counterintuitive
+relativity simultaneityedit
+two events happening two different locations occur simultaneously reference frame one inertial observer may occur nonsimultaneously reference frame another inertial observer lack absolute simultaneity
+first equation lorentz transformation terms coordinate differences
+clear two events simultaneous frame satisfying necessarily simultaneous another inertial frame satisfying events additionally colocal frame satisfying x simultaneous another frame
+time dilationedit
+time lapse two events invariant one observer another dependent relative speeds observers reference frames eg twin paradox concerns twin flies spaceship traveling near speed light returns discover twin sibling aged much
+suppose clock rest unprimed system location clock two different ticks characterized x find relation times ticks measured systems first equation used find
+events satisfying
+shows time two ticks seen frame clock moving longer time ticks measured rest frame clock time dilation explains number physical phenomena example decay rate muons produced cosmic rays impinging earths atmosphere
+length contractionedit
+dimensions eg length object measured one observer may smaller results measurements object made another observer eg ladder paradox involves long ladder traveling near speed light contained within smaller garage
+similarly suppose measuring rod rest aligned along xaxis unprimed system system length rod written x measure length rod system clock moving distances x end points rod must measured simultaneously system words measurement characterized combined fourth equation find relation lengths x x
+events satisfying
+shows length x rod measured frame moving shorter length x rest frame
+composition velocitiesedit
+velocities speeds simply add observer measures object moving along x axis velocity u observer system frame reference moving velocity v x direction respect measure object moving velocity u lorentz transformations
+frame measure
+notice object moving speed light system ie u c would also moving speed light system also u v small respect speed light recover intuitive galilean transformation velocities
+usual example given train frame traveling due east velocity v respect tracks frame child inside train throws baseball due east velocity u respect train nonrelativistic physics observer rest tracks measure velocity baseball due east u u v special relativity longer true instead velocity baseball due east given second equation u u v uvc nothing special x east directions formalism applies direction considering parallel perpendicular motion direction relative velocity v see main article details
+consequencesedit
+thomas rotationedit
+orientation object ie alignment axes observers axes may different different observers unlike relativistic effects effect becomes quite significant fairly low velocities seen spin moving particles
+equivalence mass energyedit
+objects speed approaches speed light observers point view relativistic mass increases thereby making difficult accelerate within observers frame reference
+energy content object rest mass m equals mc conservation energy implies reaction decrease sum masses particles must accompanied increase kinetic energies particles reaction similarly mass object increased taking kinetic energies
+addition papers referenced abovewhich give derivations lorentz transformation describe foundations special relativityeinstein also wrote least four papers giving heuristic arguments equivalence transmutability mass energy e mc
+massenergy equivalence consequence special relativity energy momentum separate newtonian mechanics form fourvector relativity relates time component energy space components momentum nontrivial way object rest energymomentum fourvector e time component energy three space components zero changing frames lorentz transformation x direction small value velocity v energy momentum fourvector becomes e evc momentum equal energy multiplied velocity divided c newtonian mass object ratio momentum velocity slow velocities equal ec
+energy momentum properties matter radiation impossible deduce form fourvector two basic postulates special relativity dont talk matter radiation talk space time derivation therefore requires additional physical reasoning paper einstein used additional principles newtonian mechanics hold slow velocities one energy scalar one threevector momentum slow velocities conservation law energy momentum exactly true relativity furthermore assumed energy light transformed dopplershift factor frequency previously shown true based maxwells equations first einsteins papers subject inertia body depend upon energy content although einsteins argument paper nearly universally accepted physicists correct even selfevident many authors years suggested wrong authors suggest argument merely inconclusive relied implicit assumptions
+einstein acknowledged controversy derivation survey paper special relativity notes problematic rely maxwells equations heuristic massenergy argument argument paper carried emission massless particles maxwell equations implicitly used make obvious emission light particular achieved work emit electromagnetic waves shake charged particle clearly work emission energy
+far one travel earthedit
+since one travel faster light one might conclude human never travel farther earth light years traveler active age one would easily think traveler would never able reach solar systems exist within limit light years earth would mistaken conclusion time dilation hypothetical spaceship travel thousands light years pilots active years spaceship could built accelerates constant g little less year traveling almost speed light seen earth time dilation increase life span seen reference system earth lifespan measured clock traveling thereby change journey people earth experience time year round trip take earth years cover distance lightyears year round trip years accelerating decelerating twice land back earth traveled earth years distance light years full year trip g appear earth last years cover distance light years year trip g take earth years cover light years oneway year years accelerating decelerating measured cosmonauts clock trip g acceleration could reach lightyears andromeda galaxy time dilation muon traveling close c observed travel much c times halflife rest
+causality prohibition motion faster lightedit
+diagram interval ab timelike ie frame reference events b occur location space separated occurring different times precedes b frame precedes b frames hypothetically possible matter information travel b causal relationship cause b effect
+interval ac diagram spacelike ie frame reference events c occur simultaneously separated space also frames precedes c shown frames c precedes possible causeandeffect relationship exist events c paradoxes causality would result example cause c effect would frames reference effect preceded cause although wont give rise paradox one show faster light signals sent back ones past causal paradox constructed sending signal signal received previously
+therefore causality preserved one consequences special relativity information signal material object travel faster light vacuum however things still move faster light example location beam search light hits bottom cloud move faster light search light turned rapidly
+even without considerations causality strong reasons fasterthanlight travel forbidden special relativity example constant force applied object limitless amount time integrating f dpdt gives momentum grows without bound simply approaches infinity approaches c observer accelerating appears though objects inertia increasing produce smaller acceleration response force behavior observed particle accelerators charged particle accelerated electromagnetic force
+geometry spacetimeedit
+comparison flat euclidean space minkowski spaceedit
+special relativity uses flat dimensional minkowski space example spacetime minkowski spacetime appears similar standard dimensional euclidean space crucial difference respect time
+d space differential distance line element ds defined
+dx dx dx dx differentials three spatial dimensions minkowski geometry extra dimension coordinate x derived time distance differential fulfills
+dx dx dx dx dx differentials four spacetime dimensions suggests deep theoretical insight special relativity simply rotational symmetry spacetime analogous rotational symmetry euclidean space see image right euclidean space uses euclidean metric spacetime uses minkowski metric basically special relativity stated invariance spacetime interval d distance two events viewed inertial reference frame equations effects special relativity derived rotational symmetry poincar group minkowski spacetime
+actual form ds depends metric choices x coordinate make time coordinate look like space coordinates treated imaginary x ict called wick rotation according misner thorne wheeler ultimately deeper understanding special general relativity come study minkowski metric described take x ct rather disguised euclidean metric using ict time coordinate
+authors use x factors c elsewhere compensate instance spatial coordinates divided c factors c included metric tensor numerous conventions superseded using natural units c space time equivalent units factors c appear anywhere
+d spacetimeedit
+reduce spatial dimensions represent physics d space
+see null geodesics lie along dualcone see image right defined equation
+simply
+equation circle radius cdt
+d spacetimeedit
+extend three spatial dimensions null geodesics dimensional cone
+null dualcone represents line sight point space look stars say light star receiving x years old looking line sight null geodesic looking event distance away time dc past reason null dual cone also known light cone point lower left picture right represents star origin represents observer line represents null geodesic line sight
+cone region information point receiving cone section information point sending
+geometry minkowski space depicted using minkowski diagrams useful also understanding many thoughtexperiments special relativity
+note d spacetime concept center mass becomes complicated see center mass relativistic
+physics spacetimeedit
+transformations physical quantities reference framesedit
+lorentz transformation time coordinate three space coordinates illustrates intertwined true generally certain pairs timelike spacelike quantities naturally combine equal footing lorentz transformation
+lorentz transformation standard configuration ie boost x direction recast matrix form follows
+newtonian mechanics quantities magnitude direction mathematically described d vectors euclidean space general parametrized time special relativity notion extended adding appropriate timelike quantity spacelike vector quantity d vectors four vectors minkowski spacetime components vectors written using tensor index notation numerous advantages notation makes clear equations manifestly covariant poincar group thus bypassing tedious calculations check fact constructing equations often find equations previously thought unrelated fact closely connected part tensor equation recognizing physical quantities tensors simplifies transformation laws throughout upper indices superscripts contravariant indices rather exponents except indicate square clear context lower indices subscripts covariant indices simplicity consistency earlier equations cartesian coordinates used
+simplest example fourvector position event spacetime constitutes timelike component ct spacelike component x x y z contravariant position four vector components
+define x ct time coordinate dimension distance spatial dimensions space time treated equally transformation contravariant components position vector compactly written
+implied summation matrix
+generally contravariant components fourvector transform one frame another frame lorentz transformation
+examples vectors include fourvelocity u defined derivative position vector respect proper time
+lorentz factor
+relativistic energy relativistic momentum object respectively timelike spacelike components contravariant four momentum vector
+m invariant mass
+fouracceleration proper time derivative velocity
+transformation rules threedimensional velocities accelerations awkward even standard configuration velocity equations quite complicated owing nonlinearity hand transformation fourvelocity fouracceleration simpler means lorentz transformation matrix
+fourgradient scalar field transforms covariantly rather contravariantly
+cartesian coordinates covariant derivative transforms manifest covariance cartesian coordinates happens reduce partial derivatives coordinates
+generally covariant components vector transform according inverse lorentz transformation
+reciprocal matrix
+postulates special relativity constrain exact form lorentz transformation matrices take
+generally physical quantities best described components tensors transform one frame another use wellknown tensor transformation law
+reciprocal matrix tensors transform rule
+example four dimensional second order antisymmetric tensor relativistic angular momentum six components three classical angular momentum three related boost center mass system derivative relativistic angular momentum respect proper time relativistic torque also second order antisymmetric tensor
+electromagnetic field tensor another second order antisymmetric tensor field six components three electric field another three magnetic field also stressenergy tensor electromagnetic field namely electromagnetic stressenergy tensor
+metricedit
+metric tensor allows one define inner product two vectors turn allows one assign magnitude vector given fourdimensional nature spacetime minkowski metric components valid inertial reference frame arranged matrix
+equal reciprocal frames throughout use signs different authors use different conventions see minkowski metric alternative signs
+poincar group general group transformations preserves minkowski metric
+physical symmetry underlying special relativity
+metric used raising lowering indices vectors tensors invariants constructed using metric inner product vector another vector
+invariant means takes value inertial frames scalar rank tensor appears trivial transformation magnitude vector positive square root inner product
+one extend idea tensors higher order second order tensor form invariants
+similarly higher order tensors invariant expressions particularly inner products vectors provide equations useful calculations one doesnt need perform lorentz transformations determine invariants
+relativistic kinematics invarianceedit
+coordinate differentials transform also contravariantly
+squared length differential position fourvector dx constructed using
+invariant notice line element dx negative dx differential proper time dx positive dx differential proper distance
+velocity u invariant form
+means velocity fourvectors magnitude c expression fact thing coordinate rest relativity least always moving forward time differentiating equation produces
+special relativity acceleration fourvector velocity fourvector orthogonal
+relativistic dynamics invarianceedit
+invariant magnitude momentum vector generates energymomentum relation
+work invariant first arguing since scalar doesnt matter reference frame calculate transforming frame total momentum zero
+see rest energy independent invariant rest energy calculated even particles systems motion translating frame momentum zero
+rest energy related mass according celebrated equation discussed
+note mass systems measured center momentum frame total momentum zero given total energy system frame may equal sum individual system masses measured frames
+use newtons third law motion forces must defined rate change momentum respect time coordinate requires d force defined unfortunately tensor d contains components d force vector among components
+particle traveling c one transform d force particles comoving reference frame observers reference frame yields vector called fourforce rate change energy momentum fourvector respect proper time covariant version fourforce
+rest frame object time component four force zero unless invariant mass object changing requires nonclosed system energymass directly added removed object case negative rate change mass times c general though components four force equal components threeforce three force defined rate change momentum respect coordinate time ie dpdt four force defined rate change momentum respect proper time ie dpd
+continuous medium d density force combines density power form covariant vector spatial part result dividing force small cell space volume cell time component c times power transferred cell divided volume cell used section electromagnetism
+relativity unifying electromagnetismedit
+theoretical investigation classical electromagnetism led discovery wave propagation equations generalizing electromagnetic effects found finite propagation speed e b fields required certain behaviors charged particles general study moving charges forms linardwiechert potential step towards special relativity
+lorentz transformation electric field moving charge nonmoving observers reference frame results appearance mathematical term commonly called magnetic field conversely magnetic field generated moving charge disappears becomes purely electrostatic field comoving frame reference maxwells equations thus simply empirical fit special relativistic effects classical model universe electric magnetic fields reference frame dependent thus intertwined one speaks electromagnetic fields special relativity provides transformation rules electromagnetic field one inertial frame appears another inertial frame
+maxwells equations d form already consistent physical content special relativity although easier manipulate manifestly covariant form ie language tensor calculus see main links detail
+statusedit
+special relativity minkowski spacetime accurate absolute value gravitational potential much less c region interest strong gravitational field one must use general relativity general relativity becomes special relativity limit weak field small scales planck length quantum effects must taken consideration resulting quantum gravity however macroscopic scales absence strong gravitational fields special relativity experimentally tested extremely high degree accuracy thus accepted physics community experimental results appear contradict reproducible thus widely believed due experimental errors
+special relativity mathematically selfconsistent organic part modern physical theories notably quantum field theory string theory general relativity limiting case negligible gravitational fields
+newtonian mechanics mathematically follows special relativity small velocities compared speed light thus newtonian mechanics considered special relativity slow moving bodies see classical mechanics detailed discussion
+several experiments predating einsteins paper interpreted evidence relativity known einstein aware fizeau experiment historians concluded einstein least aware michelsonmorley experiment early despite claims made later years played role development theory
+fizeau experiment repeated michelson morley measured speed light moving media results consistent relativistic addition colinear velocities
+famous michelsonmorley experiment gave support postulate detecting absolute reference velocity achievable stated contrary many alternative claims said little invariance speed light respect source observers velocity source observer travelling together velocity times
+troutonnoble experiment showed torque capacitor independent position inertial reference frame
+experiments rayleigh brace showed length contraction doesnt lead birefringence comoving observer accordance relativity principle
+particle accelerators routinely accelerate measure properties particles moving near speed light behavior completely consistent relativity theory inconsistent earlier newtonian mechanics machines would simply work engineered according relativistic principles addition considerable number modern experiments conducted test special relativity examples
+tests relativistic energy momentum testing limiting speed particles
+ivesstilwell experiment testing relativistic doppler effect time dilation
+time dilation moving particles relativistic effects fastmoving particles halflife
+kennedythorndike experiment time dilation accordance lorentz transformations
+hughesdrever experiment testing isotropy space mass
+modern searches lorentz violation various modern tests
+experiments test emission theory demonstrated speed light independent speed emitter
+experiments test aether drag hypothesis aether flow obstruction
+theories relativity quantum mechanicsedit
+special relativity combined quantum mechanics form relativistic quantum mechanics unsolved problem physics general relativity quantum mechanics unified quantum gravity theory everything require unification active ongoing areas theoretical research
+early bohrsommerfeld atomic model explained fine structure alkali metal atoms using special relativity preliminary knowledge quantum mechanics time
+paul dirac constructed influential relativistic wave equation known dirac equation honour fully compatible special relativity final version quantum theory existing equation explained intrinsic angular momentum electrons called spin also led prediction antiparticle electron positron fine structure could fully explained special relativity first foundation relativistic quantum mechanics nonrelativistic quantum mechanics spin phenomenological cannot explained
+hand existence antiparticles leads conclusion relativistic quantum mechanics enough accurate complete theory particle interactions instead theory particles interpreted quantized fields called quantum field theory becomes necessary particles created destroyed throughout space time
+see alsoedit
+people hendrik lorentz henri poincar albert einstein max planck hermann minkowski max von laue arnold sommerfeld max born gustav herglotz richard c tolman
+relativity theory relativity history special relativity principle relativity general relativity frame reference inertial frame reference lorentz transformations bondi kcalculus einstein synchronisation rietdijkputnam argument special relativity alternative formulations criticism relativity theory relativity priority dispute
+physics newtonian mechanics spacetime speed light simultaneity center mass relativistic physical cosmology doppler effect relativistic euler equations aether drag hypothesis lorentz ether theory moving magnet conductor problem shape waves relativistic heat conduction relativistic disk thomas precession born rigidity born coordinates
+mathematics derivations lorentz transformations minkowski space fourvector world line light cone lorentz group poincar group geometry tensors splitcomplex number relativity aps formalism
+philosophy actualism conventionalism formalism
+paradoxes twin paradox ehrenfest paradox ladder paradox bells spaceship paradox velocity composition paradox
+referencesedit
+textbooksedit
+einstein albert relativity special general theory
+einstein albert meaning relativity fine communications isbn
+logunov anatoly henri poincar relativity theory transl russian g pontocorvo v o soleviev edited v petrov nauka moscow
+charles misner kip thorne john archibald wheeler gravitation w h freeman co isbn
+post ej formal structure electromagnetics general covariance electromagnetics dover publications
+wolfgang rindler introduction special relativity nd ed oxford university press isbn isbn
+harvey r brown physical relativity spacetime structure dynamical perspective oxford university press isbn isbn
+qadir asghar relativity introduction special theory singapore world scientific publications p isbn
+silberstein ludwik theory relativity
+lawrence sklar space time spacetime university california press isbn
+lawrence sklar philosophy physics westview press isbn
+taylor edwin john archibald wheeler spacetime physics nd ed wh freeman co isbn
+tipler paul llewellyn ralph modern physics th ed w h freeman co isbn
+journal articlesedit
+alvager farley f j m kjellman j wallin l et al test second postulate special relativity gev region physics letters bibcodephla doi cs maint explicit use et al link
+darrigol olivier mystery poincareinstein connection isis doi pmid
+wolf peter petit gerard satellite test special relativity using global positioning system physical review bibcodephrvaw doiphysreva
+special relativity scholarpedia
+external linksedit
+original worksedit
+zur elektrodynamik bewegter krper einsteins original work german annalen der physik bern
+electrodynamics moving bodies english translation published book principle relativity
+special relativity general audience mathematical knowledge requirededit
+einstein light awardwinning nontechnical introduction film clips demonstrations supported dozens pages explanations animations levels without mathematics
+einstein online introduction relativity theory max planck institute gravitational physics
+audio caingay astronomy cast einsteins theory special relativity
+special relativity explained using simple advanced mathematicsedit
+greg egans foundations
+hogg notes special relativity good introduction special relativity undergraduate level using calculus
+relativity calculator special relativity algebraic integral calculus derivation e mc
+mathpages reflections relativity complete online book relativity extensive bibliography
+relativity introduction special relativity undergraduate level without calculus
+relativity special general theory project gutenberg albert einstein
+special relativity lecture notes standard introduction special relativity containing illustrative explanations based drawings spacetime diagrams virginia polytechnic institute state university
+understanding special relativity theory special relativity easily understandable way
+introduction special theory relativity robert katz introduction accessible student introduction general physics slight acquaintance calculus pp pdf format
+lecture notes special relativity j d cresser department physics macquarie university
+specialrelativitynet overview visualizations minimal mathematics
+visualizationedit
+raytracing special relativity software visualizing several scenarios influence special relativity
+real time relativity australian national university relativistic visual effects experienced interactive program
+spacetime travel variety visualizations relativistic effects relativistic motion black holes
+einsteins eyes australian national university relativistic visual effects explained movies images
+warp special relativity simulator computer program show effects traveling close speed light
+animation clip youtube visualizing lorentz transformation
+original interactive flash animations john de pillis illustrating lorentz galilean frames train tunnel paradox twin paradox wave propagation clock synchronization etc
+relativistic optics anu
+lightspeed openglbased program developed illustrate effects special relativity appearance moving objects
+animation showing stars near earth seen spacecraft accelerating rapidly light speed

@@ -1,0 +1,81 @@
+science buoyancy pronunciation bnsi bujnsi also known upthrust upward force exerted fluid opposes weight immersed object column fluid pressure increases depth result weight overlying fluid thus pressure bottom column fluid greater top column similarly pressure bottom object submerged fluid greater top object pressure difference results net upwards force object magnitude force exerted proportional pressure difference explained archimedes principle equivalent weight fluid would otherwise occupy volume object ie displaced fluid
+reason object whose density greater fluid submerged tends sink object either less dense liquid shaped appropriately boat force keep object afloat occur reference frame either gravitational field accelerating due force gravity defining downward direction noninertial reference frame situation fluid statics net upward buoyancy force equal magnitude weight fluid displaced body
+center buoyancy object centroid displaced volume fluid
+archimedes principle
+archimedes principle named archimedes syracuse first discovered law bc objects floating sunken gases well liquids ie fluid archimedes principle may stated thus terms forces
+clarifications sunken object volume displaced fluid volume object floating object liquid weight displaced liquid weight object
+tersely buoyancy weight displaced fluid
+archimedes principle consider surface tension capillarity acting body additional force modifies amount fluid displaced principle buoyancy weight displaced fluid remains valid
+weight displaced fluid directly proportional volume displaced fluid surrounding fluid uniform density simple terms principle states buoyancy force object equal weight fluid displaced object density fluid multiplied submerged volume times gravitational acceleration g thus among completely submerged objects equal masses objects greater volume greater buoyancy also known upthrust
+suppose rocks weight measured newtons suspended string vacuum gravity acting upon suppose rock lowered water displaces water weight newtons force exerts string hangs would newtons minus newtons buoyancy force newtons buoyancy reduces apparent weight objects sunk completely sea floor generally easier lift object water pull water
+assuming archimedes principle reformulated follows
+inserted quotient weights expanded mutual volume
+yields formula density immersed object relative density fluid easily calculated without measuring volumes
+formula used example describing measuring principle dasymeter hydrostatic weighing
+example drop wood water buoyancy keep afloat
+example helium balloon moving car period increasing speed air mass inside car moves direction opposite cars acceleration ie towards rear balloon also pulled way however balloon buoyant relative air ends pushed way actually drift direction cars acceleration ie forward car slows balloon begin drift backward reason car goes round curve balloon drift towards inside curve
+forces equilibrium
+equation calculate pressure inside fluid equilibrium corresponding equilibrium equation
+f force density exerted outer field fluid cauchy stress tensor case stress tensor proportional identity tensor
+ij kronecker delta using equation becomes
+assuming outer force field conservative written negative gradient scalar valued function
+therefore shape open surface fluid equals equipotential plane applied outer conservative force field let zaxis point downward case field gravity fgz g gravitational acceleration f mass density fluid taking pressure zero surface z zero constant zero pressure inside fluid subject gravity
+pressure increases depth surface liquid z denotes distance surface liquid object nonzero vertical depth different pressures top bottom pressure bottom greater difference pressure causes upward buoyancy forces
+buoyancy force exerted body calculated easily since internal pressure fluid known force exerted body calculated integrating stress tensor surface body contact fluid
+surface integral transformed volume integral help gauss divergence theorem
+v measure volume contact fluid volume submerged part body since fluid doesnt exert force part body outside
+magnitude buoyancy force may appreciated bit following argument consider object arbitrary shape volume v surrounded liquid force liquid exerts object within liquid equal weight liquid volume equal object force applied direction opposite gravitational force magnitude
+f density fluid vdisp volume displaced body liquid g gravitational acceleration location question
+volume liquid replaced solid body exactly shape force liquid exerts must exactly words buoyancy force submerged body directed opposite direction gravity equal magnitude
+net force object must zero situation fluid statics archimedes principle applicable thus sum buoyancy force objects weight
+buoyancy unrestrained unpowered object exceeds weight tends rise object whose weight exceeds buoyancy tends sink calculation upwards force submerged object accelerating period cannot done archimedes principle alone necessary consider dynamics object involving buoyancy fully sinks floor fluid rises surface settles archimedes principle applied alone floating object submerged volume displaces water sunken object entire volume displaces water additional force reaction solid floor
+order archimedes principle used alone object question must equilibrium sum forces object must zero therefore
+therefore
+showing depth floating object sink volume fluid displace independent gravitational field regardless geographic location
+note fluid question seawater density every location reason ship may display plimsoll line
+case forces buoyancy gravity come play case object restrained object sinks solid floor object tends float requires tension restraint force order remain fully submerged object tends sink eventually normal force constraint n exerted upon solid floor constraint force tension spring scale measuring weight fluid apparent weight defined
+object would otherwise float tension restrain fully submerged
+sinking object settles solid floor experiences normal force
+another possible formula calculating buoyancy object finding apparent weight particular object air calculated newtons apparent weight object water newtons find force buoyancy acting object air using particular information formula applies
+buoyancy force weight object empty space weight object immersed fluid
+final result would measured newtons
+airs density small compared solids liquids reason weight object air approximately true weight vacuum buoyancy air neglected objects measurement air error usually insignificant typically less except objects low average density balloon light foam
+simplified model
+simplified explanation integration pressure contact area may stated follows
+consider cube immersed fluid upper surface horizontal
+sides identical area depth distribution therefore also pressure distribution consequently total force resulting hydrostatic pressure exerted perpendicular plane surface side
+two pairs opposing sides therefore resultant horizontal forces balance orthogonal directions resultant force zero
+upward force cube pressure bottom surface integrated area surface constant depth pressure constant therefore integral pressure area horizontal bottom surface cube hydrostatic pressure depth multiplied area bottom surface
+similarly downward force cube pressure top surface integrated area surface constant depth pressure constant therefore integral pressure area horizontal top surface cube hydrostatic pressure depth multiplied area top surface
+cube top bottom surfaces identical shape area pressure difference top bottom cube directly proportional depth difference resultant force difference exactly equal weight fluid would occupy volume cube absence
+means resultant upward force cube equal weight fluid would fit volume cube downward force cube weight absence external forces
+analogy valid variations size cube
+two cubes placed alongside face contact pressures resultant forces sides parts thereof contact balanced may disregarded contact surfaces equal shape size pressure distribution therefore buoyancy two cubes contact sum buoyancies cube analogy extended arbitrary number cubes
+object shape approximated group cubes contact size cube decreased precision approximation increases limiting case infinitely small cubes exact equivalence
+angled surfaces nullify analogy resultant force split orthogonal components dealt way
+stability
+floating object stable tends restore equilibrium position small displacement example floating objects generally vertical stability object pushed slightly create greater buoyancy force unbalanced weight force push object back
+rotational stability great importance floating vessels given small angular displacement vessel may return original position stable move away original position unstable remain neutral
+rotational stability depends relative lines action forces object upward buoyancy force object acts center buoyancy centroid displaced volume fluid weight force object acts center gravity buoyant object stable center gravity beneath center buoyancy angular displacement produce righting moment
+stability buoyant object surface complex may remain stable even centre gravity centre buoyancy provided disturbed equilibrium position centre buoyancy moves side centre gravity moves thus providing positive righting moment occurs floating object said positive metacentric height situation typically valid range heel angles beyond centre buoyancy move enough provide positive righting moment object becomes unstable possible shift positive negative vice versa heeling disturbance many shapes stable one position
+compressible fluids objects
+atmospheres density depends upon altitude airship rises atmosphere buoyancy decreases density surrounding air decreases contrast submarine expels water buoyancy tanks rises volume constant volume water displaces fully submerged mass decreased
+compressible objects
+floating object rises falls forces external change objects compressible extent another objects volume buoyancy depends volume objects buoyancy reduces compressed increases expands
+object equilibrium compressibility less surrounding fluid objects equilibrium stable remains rest however compressibility greater equilibrium unstable rises expands slightest upward perturbation falls compresses slightest downward perturbation
+submarines
+submarines rise dive filling large tanks seawater dive tanks opened allow air exhaust top tanks water flows bottom weight balanced overall density submarine equal water around neutral buoyancy remain depth military submarines operate slightly negative buoyancy maintain depth using lift stabilizers forward motion
+balloons
+height balloon rises tends stable balloon rises tends increase volume reducing atmospheric pressure balloon expand much air rides average density balloon decreases less surrounding air weight displaced air reduced rising balloon stops rising displaced air equal weight similarly sinking balloon tends stop sinking
+divers
+underwater divers common example problem unstable buoyancy due compressibility diver typically wears exposure suit relies gas filled spaces insulation may also wear buoyancy compensator variable volume buoyancy bag inflated increase buoyancy deflated decrease buoyancy desired condition usually neutral buoyancy diver swimming midwater condition unstable diver constantly making fine adjustments control lung volume adjust contents buoyancy compensator depth varies
+density
+weight object less weight displaced fluid fully submerged object average density less fluid fully submerged experience buoyancy force greater weight fluid surface water lake sea object float settle level displaces weight fluid weight object object immersed fluid submerged submarine air balloon tend rise object exactly density fluid buoyancy equals weight remain submerged fluid neither sink float although disturbance either direction cause drift away position object higher average density fluid never experience buoyancy weight sink ship float even though may made steel much denser water encloses volume air much less dense water resulting shape average density less water
+see also
+references
+external links
+falling water
+archimedes principle background experiment
+buoyancyquest website featuring buoyancy control videos
+w h besant elementary hydrostatics google books
+nasas definition buoyancy

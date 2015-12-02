@@ -1,0 +1,16 @@
+the shielding effect describes the attraction between an electron and the nucleus in any atom with more than one electron shell shielding effect can be defined as a reduction in the effective nuclear charge on the electron cloud due to a difference in the attraction forces of the electrons on the nucleus it is also referred to as the screening effect or atomic shielding
+== cause ==
+in hydrogen or any other atom in group 1a of the periodic table (those with only one valence electron) the force on the electron is just as large as the electromagnetic attraction from the nucleus however when more electrons are involved each electron (in the n-shell) experiences not only the electromagnetic attraction from the positive nucleus but also repulsion forces from other electrons in shells from 1 to n this causes the net force on electrons in outer shells to be significantly smaller in magnitude; therefore these electrons are not as strongly bonded to the nucleus as electrons closer to the nucleus this phenomenon is often referred to as the orbital penetration effect the shielding theory also contributes to the explanation of why valence-shell electrons are more easily removed from the atom
+the size of the shielding effect is difficult to calculate precisely due to effects from quantum mechanics as an approximation we can estimate the effective nuclear charge on each electron by the following:
+where z is the number of protons in the nucleus and is the average number of electrons between the nucleus and the electron in question can be found by using quantum chemistry and the schrdinger equation or by using slater's empirical formulas
+in rutherford backscattering spectroscopy the correction due to electron screening modifies the coulomb repulsion between the incident ion and the target nucleus at large distances
+== references ==
+l brown theodore; h eugene lemay jr. bruce e bursten julia r burdge (2003) chemistry: the central science (8th ed.) us: pearson education isbn 0-13-061142-5
+dan thomas shielding in atoms [1]
+peter atkins & loretta jones chemical principles: the quest for insight [variation in shielding effect]
+== see also ==
+atomic number
+core charge
+effective nuclear charge
+noble gas compound
+steric effects

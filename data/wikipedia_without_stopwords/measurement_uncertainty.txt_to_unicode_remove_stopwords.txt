@@ -1,0 +1,82 @@
+metrology measurement uncertainty nonnegative parameter characterizing dispersion values attributed measured quantity uncertainty probabilistic basis reflects incomplete knowledge quantity measurements subject uncertainty measured value complete accompanied statement associated uncertainty relative uncertainty measurement uncertainty divided measured value
+background
+purpose measurement provide information quantity interest measurand example measurand might size cylindrical feature per asme y volume vessel potential difference terminals battery mass concentration lead flask water
+measurement exact quantity measured outcome depends measuring system measurement procedure skill operator environment effects even quantity measured several times way circumstances different measured value would general obtained time assuming measuring system sufficient resolution distinguish values
+dispersion measured values would relate well measurement performed average would provide estimate true value quantity generally would reliable individual measured value dispersion number measured values would provide information relating average value estimate true value however information would generally adequate
+measuring system may provide measured values dispersed true value value offset take domestic bathroom scale suppose set show zero nobody scale show value offset zero matter many times persons mass remeasured effect offset would inherently present average values
+measurement uncertainty important economic consequences calibration measurement activities calibration reports magnitude uncertainty often taken indication quality laboratory smaller uncertainty values generally higher value higher cost american society mechanical engineers asme produced suite standards addressing various aspects measurement uncertainty asme b guidelines decision rules determining conformance specifications addresses role measurement uncertainty accepting rejecting products based measurement result product specification asme b guidelines evaluation dimensional measurement uncertainty provides simplified approach relative gum evaluation dimensional measurement uncertainty asme b guidelines assessing reliability dimensional measurement uncertainty statements examines resolve disagreements magnitude measurement uncertainty statement asme b measurement uncertainty conformance testing risk analysis provides guidance risks involved product acceptancerejection decision
+guide expression uncertainty measurement commonly known gum definitive document subject gum adopted major national measurement institutes nmis international laboratory accreditation standards iso required international laboratory accreditation employed modern national international documentary standards measurement methods technology see joint committee guides metrology
+indirect measurement
+discussion concerns direct measurement quantity incidentally occurs rarely example bathroom scale may convert measured extension spring estimate measurand mass person scale particular relationship extension mass determined calibration scale measurement model converts quantity value corresponding value measurand
+many types measurement practice therefore many models simple measurement model example scale mass proportional extension spring might sufficient everyday domestic use alternatively sophisticated model weighing involving additional effects air buoyancy capable delivering better results industrial scientific purposes general often several different quantities example temperature humidity displacement contribute definition measurand need measured
+correction terms included measurement model conditions measurement exactly stipulated terms correspond systematic errors given estimate correction term relevant quantity corrected estimate uncertainty associated estimate even estimate zero often case instances systematic errors arise height measurement alignment measuring instrument perfectly vertical ambient temperature different prescribed neither alignment instrument ambient temperature specified exactly information concerning effects available example lack alignment ambient temperature time measurement differs stipulated c
+well raw data representing measured values another form data frequently needed measurement model data relate quantities representing physical constants known imperfectly examples material constants modulus elasticity specific heat often relevant data given reference books calibration certificates etc regarded estimates quantities
+items required measurement model define measurand known input quantities measurement model model often referred functional relationship output quantity measurement model measurand
+formally output quantity denoted information required often related input quantities denoted information available measurement model form
+known measurement function general expression measurement model
+taken procedure exists calculating given uniquely defined equation
+propagation distributions
+true values input quantities unknown gum approach characterized probability distributions treated mathematically random variables distributions describe respective probabilities true values lying different intervals assigned based available knowledge concerning sometimes interrelated relevant distributions known joint apply quantities taken together
+consider estimates respectively input quantities obtained certificates reports manufacturers specifications analysis measurement data probability distributions characterizing chosen estimates respectively expectations moreover th input quantity consider socalled standard uncertainty given symbol defined standard deviation input quantity standard uncertainty said associated corresponding estimate
+use available knowledge establish probability distribution characterize quantity interest applies also latter case characterizing probability distribution determined measurement model together probability distributions determination probability distribution information known propagation distributions
+figure depicts measurement model case characterized different rectangular uniform probability distribution symmetric trapezoidal probability distribution case
+input quantities characterized appropriate probability distributions measurement model developed probability distribution measurand fully specified terms information particular expectation used estimate standard deviation standard uncertainty associated estimate
+often interval containing specified probability required interval coverage interval deduced probability distribution specified probability known coverage probability given coverage probability one coverage interval probabilistically symmetric coverage interval interval probabilities summing one minus coverage probability value left right interval equal shortest coverage interval interval length least coverage intervals coverage probability
+prior knowledge true value output quantity also considered domestic bathroom scale fact persons mass positive mass person rather motor car measured constitute prior knowledge possible values measurand example additional information used provide probability distribution give smaller standard deviation hence smaller standard uncertainty associated estimate
+type type b evaluation uncertainty
+knowledge input quantity inferred repeated measured values type evaluation uncertainty scientific judgement information concerning possible values quantity type b evaluation uncertainty
+type evaluations measurement uncertainty assumption often made distribution best describing input quantity given repeated measured values obtained independently gaussian distribution expectation equal average measured value standard deviation equal standard deviation average uncertainty evaluated small number measured values regarded instances quantity characterized gaussian distribution corresponding distribution taken distribution considerations apply measured values obtained independently
+type b evaluation uncertainty often available information lies specified interval case knowledge quantity characterized rectangular probability distribution limits different information available probability distribution consistent information would used
+sensitivity coefficients
+sensitivity coefficients describe estimate would influenced small changes estimates input quantities measurement model sensitivity coefficient equals partial derivative first order respect evaluated etc linear measurement model
+independent change equal would give change statement would generally approximate measurement models relative magnitudes terms useful assessing respective contributions input quantities standard uncertainty associated
+standard uncertainty associated estimate output quantity given sum terms combined quadrature namely expression generally approximate measurement models
+known law propagation uncertainty
+input quantities contain dependencies formula augmented terms containing covariances may increase decrease
+uncertainty evaluation
+main stages uncertainty evaluation constitute formulation calculation latter consisting propagation summarizing formulation stage constitutes
+defining output quantity measurand
+identifying input quantities depends
+developing measurement model relating input quantities
+basis available knowledge assigning probability distributions gaussian rectangular etc input quantities joint probability distribution input quantities independent
+calculation stage consists propagating probability distributions input quantities measurement model obtain probability distribution output quantity summarizing using distribution obtain
+expectation taken estimate
+standard deviation taken standard uncertainty associated
+coverage interval containing specified coverage probability
+propagation stage uncertainty evaluation known propagation distributions various approaches available including
+gum uncertainty framework constituting application law propagation uncertainty characterization output quantity gaussian distribution
+analytic methods mathematical analysis used derive algebraic form probability distribution
+monte carlo method approximation distribution function established numerically making random draws probability distributions input quantities evaluating model resulting values
+particular uncertainty evaluation problem approach approach used generally approximate exact providing solution numerical accuracy controlled
+models number output quantities
+measurement model multivariate number output quantities concepts extended output quantities described joint probability distribution coverage interval becomes coverage region law propagation uncertainty natural generalization calculation procedure implements multivariate monte carlo method available
+alternative perspective
+article represents common view measurement uncertainty assumes random variables proper mathematical models uncertain quantities simple probability distributions sufficient representing forms measurement uncertainties situations however mathematical interval rather probability distribution might better model uncertainty may include situations involving periodic measurements binned data values censoring detection limits plusminus ranges measurements particular probability distribution seems justified one cannot assume errors among individual measurements completely independent
+robust representation measurement uncertainty cases fashioned intervals interval ab different rectangular uniform probability distribution range latter suggests true value lies inside right half range b b probability one half within subinterval ab probability equal width subinterval divided b interval makes claims except simply measurement lies somewhere within interval distributions measurement intervals summarized probability boxes dempstershafer structures real numbers incorporate aleatoric epistemic uncertainties
+see also
+references
+reading
+jcgm international vocabulary metrology basic general concepts associated terms rd edition joint committee guides metrology
+iso statistics vocabulary symbols part general statistical terms terms used probability iso
+jcgm evaluation measurement data role measurement uncertainty conformity assessment joint committee guides metrology
+cox m g harris p m ssfm best practice guide uncertainty evaluation technical report demes national physical laboratory
+cox m g harris p m software specifications uncertainty evaluation technical report demes national physical laboratory
+grabe m measurement uncertainties science technology springer
+grabe m generalized gaussian error calculus springer
+dietrich c f uncertainty calibration probability adam hilger bristol uk
+nist uncertainty measurement results
+bich w cox m g harris p m evolution guide expression uncertainty measurement metrologia ss
+ea expression uncertainty measurement calibration technical report ea european cooperation accreditation
+elster c toman b bayesian uncertainty analysis prior ignorance measurand versus analysis using supplement guide comparison metrologia
+ferson kreinovich v hajagos j oberkampf w ginzburg l experimental uncertainty estimation statistics data interval uncertainty sand
+lira evaluating uncertainty measurement fundamentals practical guidance institute physics bristol uk
+majcen n taylor p editors practical examples traceability measurement uncertainty validation chemistry vol isbn
+ukas expression uncertainty emc testing technical report lab united kingdom accreditation service
+ukas m expression uncertainty confidence measurement edition november ukas
+nplunc
+estimate temperature uncertainty small systems
+asme ptc test uncertainty new york american society mechanical engineers
+introduction evaluating uncertainty measurement
+da silva rb bulska e godlewskazylkiewicz b hedrich m majcen n magnusson b marincic papadakis patriarca m vassileva e taylor p analytical measurement measurement uncertainty statisticsisbn
+arnaut l r measurement uncertainty reverberation chambers sample statistics technical report tqe nd ed national physical laboratory
+estimation measurement uncertainty chemical analysis analytical chemistry online course created leito l jalukse helm university tartu

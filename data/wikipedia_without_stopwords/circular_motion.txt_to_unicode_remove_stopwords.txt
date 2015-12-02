@@ -1,0 +1,90 @@
+physics circular motion movement object along circumference circle rotation along circular path uniform constant angular rate rotation constant speed nonuniform changing rate rotation rotation around fixed axis threedimensional body involves circular motion parts equations motion describe movement center mass body
+examples circular motion include artificial satellite orbiting earth constant height stone tied rope swung circles car turning curve race track electron moving perpendicular uniform magnetic field gear turning inside mechanism
+since objects velocity vector constantly changing direction moving object undergoing acceleration centripetal force direction center rotation without acceleration object would move straight line according newtons laws motion
+uniform circular motionedit
+physics uniform circular motion describes motion body traversing circular path constant speed since body describes circular motion distance axis rotation remains constant times though bodys speed constant velocity constant velocity vector quantity depends bodys speed direction travel changing velocity indicates presence acceleration centripetal acceleration constant magnitude directed times towards axis rotation acceleration turn produced centripetal force also constant magnitude directed towards axis rotation
+case rotation around fixed axis rigid body negligibly small compared radius path particle body describes uniform circular motion angular velocity velocity acceleration varying position respect axis
+formulasedit
+motion circle radius r circumference circle c r period one rotation angular rate rotation also known angular velocity
+units radianssecond
+speed object travelling circle
+angle swept time
+angular acceleration particle
+case uniform circular motion zero
+acceleration due change direction
+centripetal centrifugal force also found using acceleration
+vector relationships shown figure axis rotation shown vector perpendicular plane orbit magnitude d dt direction chosen using righthand rule convention depicting rotation velocity given vector cross product
+vector perpendicular r tangential orbit magnitude r likewise acceleration given
+vector perpendicular v magnitude v r directed exactly opposite r
+simplest case speed mass radius constant
+consider body one kilogram moving circle radius one metre angular velocity one radian per second
+speed one metre per second
+inward acceleration one metre per square secondvr
+subject centripetal force one kilogram metre per square second one newton
+momentum body one kgms
+moment inertia one kgm
+angular momentum one kgms
+kinetic energy joule
+circumference orbit metres
+period motion seconds per turn
+frequency hertz
+polar coordinatesedit
+circular motion body moves curve described polar coordinate system fixed distance r center orbit taken origin oriented angle reference direction see figure displacement vector radial vector origin particle location
+unit vector parallel radius vector time pointing away origin convenient introduce unit vector orthogonal well namely customary orient point direction travel along orbit
+velocity time derivative displacement
+radius circle constant radial component velocity zero unit vector timeinvariant magnitude unity time varies tip always lies circle unit radius angle angle particle displacement rotates angle d time dt describing arc unit circle magnitude d see unit circle left figure hence
+direction change must perpendicular words along change d direction would change size sign positive increase d implies object moved direction hence velocity becomes
+acceleration body also broken radial tangential components acceleration time derivative velocity
+time derivative found way unit vector tip traces unit circle angle hence increase angle d implies traces arc magnitude d orthogonal
+negative sign necessary keep orthogonal otherwise angle would decrease increase d see unit circle left figure consequently acceleration
+centripetal acceleration radial component directed radially inward
+tangential component changes magnitude velocity
+using complex numbersedit
+circular motion described using complex numbers let axis real axis axis imaginary axis position body given complex vector
+imaginary unit
+angle complex vector real axis function time since radius constant
+dot indicates time differentiation notation velocity becomes
+acceleration becomes
+first term opposite direction displacement vector second perpendicular like earlier results shown
+discussionedit
+velocityedit
+figure illustrates velocity acceleration vectors uniform motion four different points orbit velocity v tangent circular path two velocities point direction although object constant speed direction always changing change velocity caused acceleration whose magnitude like velocity held constant whose direction also always changing acceleration points radially inwards centripetally perpendicular velocity acceleration known centripetal acceleration
+path radius r angle swept distance travelled periphery orbit r therefore speed travel around orbit
+angular rate rotation rearrangement vr thus v constant velocity vector v also rotates constant magnitude v angular rate
+relativistic circular motionedit
+case threeacceleration vector perpendicular threevelocity vector
+square proper acceleration expressed scalar invariant reference frames
+becomes expression circular motion
+taking positive square root using threeacceleration arrive proper acceleration circular motion
+accelerationedit
+lefthand circle figure orbit showing velocity vectors two adjacent times right two velocities moved tails coincide speed constant velocity vectors right sweep circle time advances swept angle d dt change v vector right angles v magnitude v d turn means magnitude acceleration given
+nonuniformedit
+nonuniform circular motion object moving circular path varying speed since speed changing tangential acceleration addition normal acceleration
+nonuniform circular motion net acceleration along direction v directed inside circle pass center see figure net acceleration may resolved two components tangential acceleration normal acceleration also known centripetal radial acceleration unlike tangential acceleration centripetal acceleration present uniform nonuniform circular motion
+nonuniform circular motion normal force always point opposite direction weight example object traveling straight path loops loop back straight path
+diagram shows normal force pointing directions rather opposite weight force normal force actually sum radial tangential forces component weight force responsible tangential force neglected frictional force radial force centripetal force due change direction velocity discussed earlier
+nonuniform circular motion normal force weight may point direction forces point yet object remain circular path without falling straight first lets see normal force point first place first diagram lets say object person sitting inside plane two forces point reaches top circle reason normal force sum tangential force centripetal force tangential force zero top work performed motion perpendicular direction force applied weight force perpendicular direction motion object top circle centripetal force points downthus normal force point well logical standpoint person travelling plane upside top circle moment persons seat actually pushing person normal force
+reason object fall subjected downward forces simple one think keeps object thrown object thrown air downward force earths gravity acts object mean object thrown air fall instantly keeps object air velocity first newtons laws motion states objects inertia keeps motion since object air velocity tend keep moving direction
+applicationsedit
+solving applications dealing nonuniform circular motion involves force analysis uniform circular motion force acting upon object traveling circle centripetal force nonuniform circular motion additional forces acting object due nonzero tangential acceleration although additional forces acting upon object sum forces acting object equal centripetal force
+radial acceleration used calculating total force tangential acceleration used calculating total force responsible keeping object circular path acceleration responsible keeping object moving circle radial acceleration since sum forces centripetal force drawing centripetal force free body diagram necessary usually recommended
+using draw free body diagrams list forces acting object set equal afterwards solve ever unknown mass velocity radius curvature coefficient friction normal force etc example visual showing object top semicircle would expressed
+uniform circular motion total acceleration object circular path equal radial acceleration due presence tangential acceleration non uniform circular motion hold true find total acceleration object non uniform circular find vector sum tangential acceleration radial acceleration
+radial acceleration still equal tangential acceleration simply derivative velocity given point root sum squares separate radial tangential accelerations correct circular motion general motion within plane polar coordinates coriolis term added whereas radial acceleration becomes
+see alsoedit
+angular momentum
+equations motion circular motion
+example circular motion
+fictitious force
+geostationary orbit
+geosynchronous orbit
+pendulum mathematics
+reactive centrifugal force
+reciprocating motion
+simple harmonic motionuniform circular motion
+sling weapon
+referencesedit
+external linksedit
+physclips mechanics animations video clips university new south wales
+circular motion chapter online textbook
+circular motion lecture video lecture cm

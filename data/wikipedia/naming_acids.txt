@@ -1,0 +1,150 @@
+an acid (from the latin acidus/acre meaning sour) is a chemical substance whose aqueous solutions are characterized by a sour taste the ability to turn blue litmus red and the ability to react with bases and certain metals (like calcium) to form salts aqueous solutions of acids have a ph of less than 7 non-aqueous acids are usually formed when an anion (negative ion) reacts with one or more positively charged hydrogen cations a lower ph means a higher acidity and thus a higher concentration of positive hydrogen ions in the solution chemicals or substances having the property of an acid are said to be acidic
+there are three common definitions for acids: the arrhenius definition the brnsted-lowry definition and the lewis definition the arrhenius definition defines acids as substances which increase the concentration of hydrogen ions (h+) or more accurately hydronium ions (h3o+) when dissolved in water the brnsted-lowry definition is an expansion: an acid is a substance which can act as a proton donor by this definition any compound which can easily be deprotonated can be considered an acid examples include alcohols and amines which contain o-h or n-h fragments a lewis acid is a substance that can accept a pair of electrons to form a covalent bond examples of lewis acids include all metal cations and electron-deficient molecules such as boron trifluoride and aluminium trichloride
+common examples of acids include hydrochloric acid (a solution of hydrogen chloride which is found in gastric acid in the stomach and activates digestive enzymes) acetic acid (vinegar is a dilute solution of this liquid) sulfuric acid (used in car batteries) and tartaric acid (a solid used in baking) as these examples show acids can be solutions or pure substances and can be derived from solids liquids or gases strong acids and some concentrated weak acids are corrosive but there are exceptions such as carboranes and boric acid
+== definitions and concepts ==
+modern definitions are concerned with the fundamental chemical reactions common to all acids
+most acids encountered in everyday life are aqueous solutions or can be dissolved in water so the arrhenius and brnsted-lowry definitions are the most relevant
+the brnsted-lowry definition is the most widely used definition; unless otherwise specified acid-base reactions are assumed to involve the transfer of a proton (h+) from an acid to a base
+hydronium ions are acids according to all three definitions interestingly although alcohols and amines can be brnsted-lowry acids they can also function as lewis bases due to the lone pairs of electrons on their oxygen and nitrogen atoms
+=== arrhenius acids ===
+the swedish chemist svante arrhenius attributed the properties of acidity to hydrogen ions (h+) or protons in 1884 an arrhenius acid is a substance that when added to water increases the concentration of h+ ions in the water note that chemists often write h+(aq) and refer to the hydrogen ion when describing acid-base reactions but the free hydrogen nucleus a proton does not exist alone in water it exists as the hydronium ion h3o+ thus an arrhenius acid can also be described as a substance that increases the concentration of hydronium ions when added to water this definition stems from the equilibrium dissociation of water into hydronium and hydroxide (oh) ions:
+h2o(l) + h2o(l) h3o+(aq) + oh(aq)
+in pure water the majority of molecules are h2o but the molecules are constantly dissociating and re-associating and at any time a small number of the molecules are hydronium and an equal number are hydroxide because the numbers are equal pure water is neutral (not acidic or basic)
+an arrhenius base on the other hand is a substance which increases the concentration of hydroxide ions when dissolved in water hence decreasing the concentration of hydronium
+the constant association and disassociation of h2o molecules forms an equilibrium in which any increase in the concentration of hydronium is accompanied by a decrease in the concentration of hydroxide thus an arrhenius acid could also be said to be one that decreases hydroxide concentration with an arrhenius base increasing it
+in an acid the concentration of hydronium ions is greater than 107 moles per liter since ph is defined as the negative logarithm of the concentration of hydronium ions acids thus have a ph of less than 7
+=== brnsted-lowry acids ===
+while the arrhenius concept is useful for describing many reactions it is also quite limited in its scope in 1923 chemists johannes nicolaus brnsted and thomas martin lowry independently recognized that acid-base reactions involve the transfer of a proton a brnsted-lowry acid (or simply brnsted acid) is a species that donates a proton to a brnsted-lowry base brnsted-lowry acid-base theory has several advantages over arrhenius theory consider the following reactions of acetic acid (ch3cooh) the organic acid that gives vinegar its characteristic taste:
+ch
+3cooh + h
+2o ch
+3coo + h
+3o+
+ch
+3cooh + nh
+3 ch
+3coo + nh+
+4
+both theories easily describe the first reaction: ch3cooh acts as an arrhenius acid because it acts as a source of h3o+ when dissolved in water and it acts as a brnsted acid by donating a proton to water in the second example ch3cooh undergoes the same transformation in this case donating a proton to ammonia (nh3) but cannot be described using the arrhenius definition of an acid because the reaction does not produce hydronium
+brnsted-lowry theory can also be used to describe molecular compounds whereas arrhenius acids must be ionic compounds hydrogen chloride (hcl) and ammonia combine under several different conditions to form ammonium chloride nh4cl in aqueous solution hcl behaves as hydrochloric acid and exists as hydronium and chloride ions the following reactions illustrate the limitations of arrhenius's definition:
+h3o+(aq) + cl(aq) + nh3 cl(aq) + nh4+(aq) + h2o
+hcl(benzene) + nh3(benzene) nh4cl(s)
+hcl(g) + nh3(g) nh4cl(s)
+as with the acetic acid reactions both definitions work for the first example where water is the solvent and hydronium ion is formed by the hcl solute the next two reactions do not involve the formation of ions but are still proton transfer reactions in the second reaction hydrogen chloride and ammonia (dissolved in benzene) react to form solid ammonium chloride in a benzene solvent and in the third gaseous hcl and nh3 combine to form the solid
+=== lewis acids ===
+a third concept was proposed in 1923 by gilbert n lewis which includes reactions with acid-base characteristics that do not involve a proton transfer a lewis acid is a species that accepts a pair of electrons from another species; in other words it is an electron pair acceptor brnsted acid-base reactions are proton transfer reactions while lewis acid-base reactions are electron pair transfers all brnsted acids are also lewis acids but not all lewis acids are brnsted acids contrast how the following reactions are described in terms of acid-base chemistry
+in the first reaction a fluoride ion f gives up an electron pair to boron trifluoride to form the product tetrafluoroborate fluoride "loses" a pair of valence electrons because the electrons shared in the bf bond are located in the region of space between the two atomic nuclei and are therefore more distant from the fluoride nucleus than they are in the lone fluoride ion bf3 is a lewis acid because it accepts the electron pair from fluoride this reaction cannot be described in terms of brnsted theory because there is no proton transfer the second reaction can be described using either theory a proton is transferred from an unspecified brnsted acid to ammonia a brnsted base; alternatively ammonia acts as a lewis base and transfers a lone pair of electrons to form a bond with a hydrogen ion the species that gains the electron pair is the lewis acid; for example the oxygen atom in h3o+ gains a pair of electrons when one of the ho bonds is broken and the electrons shared in the bond become localized on oxygen depending on the context a lewis acid may also be described as an oxidizer or an electrophile
+== dissociation and equilibrium ==
+reactions of acids are often generalized in the form ha h+ + a where ha represents the acid and a is the conjugate base this reaction is the protolysis acid-base conjugate pairs differ by one proton and can be interconverted by the addition or removal of a proton (protonation and deprotonation respectively) note that the acid can be the charged species and the conjugate base can be neutral in which case the generalized reaction scheme could be written as ha+ h+ + a in solution there exists an equilibrium between the acid and its conjugate base the equilibrium constant k is an expression of the equilibrium concentrations of the molecules or the ions in solution brackets indicate concentration such that [h2o] means the concentration of h2o the acid dissociation constant ka is generally used in the context of acid-base reactions the numerical value of ka is equal to the product of the concentrations of the products divided by the concentration of the reactants where the reactant is the acid (ha) and the products are the conjugate base and h+
+the stronger of two acids will have a higher ka than the weaker acid; the ratio of hydrogen ions to acid will be higher for the stronger acid as the stronger acid has a greater tendency to lose its proton because the range of possible values for ka spans many orders of magnitude a more manageable constant pka is more frequently used where pka = -log10 ka stronger acids have a smaller pka than weaker acids experimentally determined pka at 25 c in aqueous solution are often quoted in textbooks and reference material
+== nomenclature ==
+in the classical naming system acids are named according to their anions that ionic suffix is dropped and replaced with a new suffix (and sometimes prefix) according to the table below for example hcl has chloride as its anion so the -ide suffix makes it take the form hydrochloric acid in the iupac naming system "aqueous" is simply added to the name of the ionic compound thus for hydrogen chloride the iupac name would be aqueous hydrogen chloride the prefix "hydro-" is added only if the acid is made up of just hydrogen and one other element
+classical naming system:
+== acid strength ==
+the strength of an acid refers to its ability or tendency to lose a proton a strong acid is one that completely dissociates in water; in other words one mole of a strong acid ha dissolves in water yielding one mole of h+ and one mole of the conjugate base a and none of the protonated acid ha in contrast a weak acid only partially dissociates and at equilibrium both the acid and the conjugate base are in solution examples of strong acids are hydrochloric acid (hcl) hydroiodic acid (hi) hydrobromic acid (hbr) perchloric acid (hclo4) nitric acid (hno3) and sulfuric acid (h2so4) in water each of these essentially ionizes 100% the stronger an acid is the more easily it loses a proton h+ two key factors that contribute to the ease of deprotonation are the polarity of the ha bond and the size of atom a which determines the strength of the ha bond acid strengths are also often discussed in terms of the stability of the conjugate base
+stronger acids have a larger ka and a more negative pka than weaker acids
+sulfonic acids which are organic oxyacids are a class of strong acids a common example is toluenesulfonic acid (tosylic acid) unlike sulfuric acid itself sulfonic acids can be solids in fact polystyrene functionalized into polystyrene sulfonate is a solid strongly acidic plastic that is filterable
+superacids are acids stronger than 100% sulfuric acid examples of superacids are fluoroantimonic acid magic acid and perchloric acid superacids can permanently protonate water to give ionic crystalline hydronium "salts" they can also quantitatively stabilize carbocations
+while ka measures the strength of an acid compound the strength of an aqueous acid solution is measured by ph which is an indication of the concentration of hydronium in the solution the ph of a simple solution of an acid compound in water is determined by the dilution of the compound and the compound's ka
+== chemical characteristics ==
+=== monoprotic acids ===
+monoprotic acids are those acids that are able to donate one proton per molecule during the process of dissociation (sometimes called ionization) as shown below (symbolized by ha):
+ha(aq) + h2o(l) h3o+(aq) + a(aq) ka
+common examples of monoprotic acids in mineral acids include hydrochloric acid (hcl) and nitric acid (hno3) on the other hand for organic acids the term mainly indicates the presence of one carboxylic acid group and sometimes these acids are known as monocarboxylic acid examples in organic acids include formic acid (hcooh) acetic acid (ch3cooh) and benzoic acid (c6h5cooh)
+=== polyprotic acids ===
+polyprotic acids also known as polybasic acids are able to donate more than one proton per acid molecule in contrast to monoprotic acids that only donate one proton per molecule specific types of polyprotic acids have more specific names such as diprotic acid (two potential protons to donate) and triprotic acid (three potential protons to donate)
+a diprotic acid (here symbolized by h2a) can undergo one or two dissociations depending on the ph each dissociation has its own dissociation constant ka1 and ka2
+h2a(aq) + h2o(l) h3o+(aq) + ha(aq) ka1
+ha(aq) + h2o(l) h3o+(aq) + a2(aq) ka2
+the first dissociation constant is typically greater than the second; i.e. ka1 > ka2 for example sulfuric acid (h2so4) can donate one proton to form the bisulfate anion (hso4) for which ka1 is very large; then it can donate a second proton to form the sulfate anion (so42) wherein the ka2 is intermediate strength the large ka1 for the first dissociation makes sulfuric a strong acid in a similar manner the weak unstable carbonic acid (h2co3) can lose one proton to form bicarbonate anion (hco3) and lose a second to form carbonate anion (co32) both ka values are small but ka1 > ka2 
+a triprotic acid (h3a) can undergo one two or three dissociations and has three dissociation constants where ka1 > ka2 > ka3
+h3a(aq) + h2o(l) h3o+(aq) + h2a(aq) ka1
+h2a(aq) + h2o(l) h3o+(aq) + ha2(aq) ka2
+ha2(aq) + h2o(l) h3o+(aq) + a3(aq) ka3
+an inorganic example of a triprotic acid is orthophosphoric acid (h3po4) usually just called phosphoric acid all three protons can be successively lost to yield h2po4 then hpo42 and finally po43 the orthophosphate ion usually just called phosphate even though the positions of the three protons on the original phosphoric acid molecule are equivalent the successive ka values differ since it is energetically less favorable to lose a proton if the conjugate base is more negatively charged an organic example of a triprotic acid is citric acid which can successively lose three protons to finally form the citrate ion
+although the subsequent loss of each hydrogen ion is less favorable all of the conjugate bases are present in solution the fractional concentration (alpha) for each species can be calculated for example a generic diprotic acid will generate 3 species in solution: h2a ha and a2 the fractional concentrations can be calculated as below when given either the ph (which can be converted to the [h+]) or the concentrations of the acid with all its conjugate bases:
+a plot of these fractional concentrations against ph for given k1 and k2 is known as a bjerrum plot a pattern is observed in the above equations and can be expanded to the general n -protic acid that has been deprotonated i -times:
+where k0 = 1 and the other k-terms are the dissociation constants for the acid
+=== neutralization ===
+neutralization is the reaction between an acid and a base producing a salt and neutralized base; for example hydrochloric acid and sodium hydroxide form sodium chloride and water:
+hcl(aq) + naoh(aq) h2o(l) + nacl(aq)
+neutralization is the basis of titration where a ph indicator shows equivalence point when the equivalent number of moles of a base have been added to an acid it is often wrongly assumed that neutralization should result in a solution with ph 7.0 which is only the case with similar acid and base strengths during a reaction
+neutralization with a base weaker than the acid results in a weakly acidic salt an example is the weakly acidic ammonium chloride which is produced from the strong acid hydrogen chloride and the weak base ammonia conversely neutralizing a weak acid with a strong base gives a weakly basic salt e.g sodium fluoride from hydrogen fluoride and sodium hydroxide
+=== weak acidweak base equilibrium ===
+in order for a protonated acid to lose a proton the ph of the system must rise above the pka of the acid the decreased concentration of h+ in that basic solution shifts the equilibrium towards the conjugate base form (the deprotonated form of the acid) in lower-ph (more acidic) solutions there is a high enough h+ concentration in the solution to cause the acid to remain in its protonated form
+solutions of weak acids and salts of their conjugate bases form buffer solutions
+== applications of acids ==
+there are numerous uses for acids acids are often used to remove rust and other corrosion from metals in a process known as pickling they may be used as an electrolyte in a wet cell battery such as sulfuric acid in a car battery
+strong acids sulfuric acid in particular are widely used in mineral processing for example phosphate minerals react with sulfuric acid to produce phosphoric acid for the production of phosphate fertilizers and zinc is produced by dissolving zinc oxide into sulfuric acid purifying the solution and electrowinning
+in the chemical industry acids react in neutralization reactions to produce salts for example nitric acid reacts with ammonia to produce ammonium nitrate a fertilizer additionally carboxylic acids can be esterified with alcohols to produce esters
+acids are used as additives to drinks and foods as they alter their taste and serve as preservatives phosphoric acid for example is a component of cola drinks acetic acid is used in day-to-day life as vinegar carbonic acid is an important part of some cola drinks and soda citric acid is used as a preservative in sauces and pickles
+tartaric acid is an important component of some commonly used foods like unripened mangoes and tamarind natural fruits and vegetables also contain acids citric acid is present in oranges lemon and other citrus fruits oxalic acid is present in tomatoes spinach and especially in carambola and rhubarb; rhubarb leaves and unripe carambolas are toxic because of high concentrations of oxalic acid
+ascorbic acid (vitamin c) is an essential vitamin for the human body and is present in such foods as amla (indian gooseberry) lemon citrus fruits and guava
+certain acids are used as drugs acetylsalicylic acid (aspirin) is used as a pain killer and for bringing down fevers
+acids play important roles in the human body the hydrochloric acid present in the stomach aids in digestion by breaking down large and complex food molecules amino acids are required for synthesis of proteins required for growth and repair of body tissues fatty acids are also required for growth and repair of body tissues nucleic acids are important for the manufacturing of dna and rna and transmitting of traits to offspring through genes carbonic acid is important for maintenance of ph equilibrium in the body
+=== acid catalysis ===
+acids are used as catalysts in industrial and organic chemistry; for example sulfuric acid is used in very large quantities in the alkylation process to produce gasoline strong acids such as sulfuric phosphoric and hydrochloric acids also effect dehydration and condensation reactions in biochemistry many enzymes employ acid catalysis
+== biological occurrence ==
+many biologically important molecules are acids nucleic acids which contain acidic phosphate groups include dna and rna nucleic acids contain the genetic code that determines many of an organism's characteristics and is passed from parents to offspring dna contains the chemical blueprint for the synthesis of proteins which are made up of amino acid subunits cell membranes contain fatty acid esters such as phospholipids
+an -amino acid has a central carbon (the or alpha carbon) which is covalently bonded to a carboxyl group (thus they are carboxylic acids) an amino group a hydrogen atom and a variable group the variable group also called the r group or side chain determines the identity and many of the properties of a specific amino acid in glycine the simplest amino acid the r group is a hydrogen atom but in all other amino acids it is contains one or more carbon atoms bonded to hydrogens and may contain other elements such as sulfur oxygen or nitrogen with the exception of glycine naturally occurring amino acids are chiral and almost invariably occur in the l-configuration peptidoglycan found in some bacterial cell walls contains some d-amino acids at physiological ph typically around 7 free amino acids exist in a charged form where the acidic carboxyl group (-cooh) loses a proton (-coo) and the basic amine group (-nh2) gains a proton (-nh3+) the entire molecule has a net neutral charge and is a zwitterion with the exception of amino acids with basic or acidic side chains aspartic acid for example possesses one protonated amine and two deprotonated carboxyl groups for a net charge of 1 at physiological ph
+fatty acids and fatty acid derivatives are another group of carboxylic acids that play a significant role in biology these contain long hydrocarbon chains and a carboxylic acid group on one end the cell membrane of nearly all organisms is primarily made up of a phospholipid bilayer a micelle of hydrophobic fatty acid esters with polar hydrophilic phosphate "head" groups membranes contain additional components some of which can participate in acid-base reactions
+in humans and many other animals hydrochloric acid is a part of the gastric acid secreted within the stomach to help hydrolyze proteins and polysaccharides as well as converting the inactive pro-enzyme pepsinogen into the enzyme pepsin some organisms produce acids for defense; for example ants produce formic acid
+acid-base equilibrium plays a critical role in regulating mammalian breathing oxygen gas (o2) drives cellular respiration the process by which animals release the chemical potential energy stored in food producing carbon dioxide (co2) as a byproduct oxygen and carbon dioxide are exchanged in the lungs and the body responds to changing energy demands by adjusting the rate of ventilation for example during periods of exertion the body rapidly breaks down stored carbohydrates and fat releasing co2 into the blood stream in aqueous solutions such as blood co2 exists in equilibrium with carbonic acid and bicarbonate ion
+co2 + h2o h2co3 h+ + hco3
+it is the decrease in ph that signals the brain to breathe faster and deeper expelling the excess co2 and resupplying the cells with o2
+cell membranes are generally impermeable to charged or large polar molecules because of the lipophilic fatty acyl chains comprising their interior many biologically important molecules including a number of pharmaceutical agents are organic weak acids which can cross the membrane in their protonated uncharged form but not in their charged form (i.e as the conjugate base) for this reason the activity of many drugs can be enhanced or inhibited by the use of antacids or acidic foods the charged form however is often more soluble in blood and cytosol both aqueous environments when the extracellular environment is more acidic than the neutral ph within the cell certain acids will exist in their neutral form and will be membrane soluble allowing them to cross the phospholipid bilayer acids that lose a proton at the intracellular ph will exist in their soluble charged form and are thus able to diffuse through the cytosol to their target ibuprofen aspirin and penicillin are examples of drugs that are weak acids
+== common acids ==
+=== mineral acids (inorganic acids) ===
+hydrogen halides and their solutions: hydrofluoric acid (hf) hydrochloric acid (hcl) hydrobromic acid (hbr) hydroiodic acid (hi)
+halogen oxoacids: hypochlorous acid (hclo) chlorous acid (hclo2) chloric acid (hclo3) perchloric acid (hclo4) and corresponding compounds for bromine and iodine
+sulfuric acid (h2so4)
+fluorosulfuric acid (hso3f)
+nitric acid (hno3)
+phosphoric acid (h3po4)
+fluoroantimonic acid (hsbf6)
+fluoroboric acid (hbf4)
+hexafluorophosphoric acid (hpf6)
+chromic acid (h2cro4)
+boric acid (h3bo3)
+=== sulfonic acids ===
+a sulfonic acid has the general formula rs(=o)2oh where r is an organic radical
+methanesulfonic acid (or mesylic acid ch3so3h)
+ethanesulfonic acid (or esylic acid ch3ch2so3h)
+benzenesulfonic acid (or besylic acid c6h5so3h)
+p-toluenesulfonic acid (or tosylic acid ch3c6h4so3h)
+trifluoromethanesulfonic acid (or triflic acid cf3so3h)
+polystyrene sulfonic acid (sulfonated polystyrene [ch2ch(c6h4)so3h]n)
+=== carboxylic acids ===
+a carboxylic acid has the general formula r-c(o)oh where r is an organic radical the carboxyl group -c(o)oh contains a carbonyl group c=o and a hydroxyl group o-h
+acetic acid (ch3cooh)
+citric acid (c6h8o7)
+formic acid (hcooh)
+gluconic acid hoch2-(choh)4-cooh
+lactic acid (ch3-choh-cooh)
+oxalic acid (hooc-cooh)
+tartaric acid (hooc-choh-choh-cooh)
+=== halogenated carboxylic acids ===
+halogenation at alpha position increases acid strength so that the following acids are all stronger than acetic acid
+fluoroacetic acid
+trifluoroacetic acid
+chloroacetic acid
+dichloroacetic acid
+trichloroacetic acid
+=== vinylogous carboxylic acids ===
+normal carboxylic acids are the direct union of a carbonyl group and a hydroxyl group in vinylogous carboxylic acids a carbon-carbon double bond separates the carbonyl and hydroxyl groups
+ascorbic acid
+=== nucleic acids ===
+deoxyribonucleic acid (dna)
+ribonucleic acid (rna)
+== references ==
+listing of strengths of common acids and bases
+iupac gold book - acid
+zumdahl chemistry 4th edition
+ebbing d.d. & gammon s d (2005) general chemistry (8th ed.) boston ma: houghton mifflin isbn 0-618-51177-6
+pavia d.l. lampman g.m. & kriz g.s (2004) organic chemistry volume 1: organic chemistry 351 mason oh: cenage learning isbn 0-7593-4727-1
+== external links ==
+science aid: acids and bases information for high school students
+curtipot: acid-base equilibria diagrams ph calculation and titration curves simulation and analysis freeware
+a summary of the properties of acids for the beginning chemistry student
+the un ece convention on long-range transboundary air pollution
+chem 106 acidity concepts

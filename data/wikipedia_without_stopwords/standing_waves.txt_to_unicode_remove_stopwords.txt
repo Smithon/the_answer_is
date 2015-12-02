@@ -1,0 +1,47 @@
+physics standing wave also known stationary wave wave medium point axis wave associated constant amplitude locations amplitude minimum called nodes locations amplitude maximum called antinodes
+phenomenon occur medium moving opposite direction wave arise stationary medium result interference two waves traveling opposite directions common cause standing waves phenomenon resonance standing waves occur inside resonator due interference waves reflected back forth resonators resonant frequency
+waves equal amplitude traveling opposing directions average net propagation energy
+moving mediumedit
+example first type certain meteorological conditions standing waves form atmosphere lee mountain ranges waves often exploited glider pilots
+standing waves hydraulic jumps also form fast flowing river rapids tidal currents saltstraumen maelstrom many standing river waves popular river surfing breaks
+opposing wavesedit
+example second type standing wave transmission line wave distribution current voltage field strength formed superposition two waves frequency propagating opposite directions effect series nodes zero displacement antinodes maximum displacement fixed points along transmission line standing wave may formed wave transmitted one end transmission line reflected end impedance mismatch ie discontinuity open circuit short failure line transfer power standing wave frequency usually result attenuation distortion
+practice losses transmission line components mean perfect reflection pure standing wave never achieved result partial standing wave superposition standing wave traveling wave degree wave resembles either pure standing wave pure traveling wave measured standing wave ratio swr
+another example standing waves open ocean formed waves wave period moving opposite directions may form near storm centres reflection swell shore source microbaroms microseisms
+mathematical descriptionedit
+one dimension two waves frequency wavelength amplitude traveling opposite directions interfere produce standing wave stationary wave example wave traveling right along taut string hitting end reflect back direction along string two waves superpose produce standing wave reflective wave amplitude frequency incoming wave
+string held ends forcing zero movement ends ends become zeroes nodes wave length string becomes measure waves string entertain longest wavelength called fundamental half wavelength fundamental fits string shorter wavelengths also supported long multiples half wavelength fit string frequencies waves multiples fundamental called harmonics overtones example guitar player select overtone putting finger string force node proper position ends string suppressing harmonics share node
+harmonic waves travelling opposite directions represented equations
+y amplitude wave
+called angular frequency measured radians per second times frequency hertz
+k called wave number measured radians per metre divided wavelength metres
+x variables longitudinal position time respectively
+resultant wave y equation sum y y
+using trigonometric sumtoproduct identity sinu sinv simplify
+describes wave oscillates time spatial dependence stationary sinkx locations x called nodes amplitude always zero whereas locations x called antinodes amplitude maximum distance two conjugative nodes antinodes
+standing waves also occur two threedimensional resonators standing waves twodimensional membranes drumheads illustrated animations nodes become nodal lines lines surface movement separate regions vibrating opposite phase nodal line patterns called chladni figures threedimensional resonators musical instrument sound boxes microwave cavity resonators nodal surfaces
+examplesedit
+one easy example understand standing waves two people shaking either end jump rope shake sync rope form regular pattern waves oscillating stationary points along rope rope almost still nodes points arc rope maximum antinodes
+sound wavesedit
+standing waves also observed physical media strings columns air waves traveling along medium reflect back reach end effect noticeable musical instruments various multiples vibrating string air columns natural frequency standing wave created allowing harmonics identified nodes occur fixed ends antinodes open ends fixed one end oddnumbered harmonics available open end pipe antinode exactly end altered contact air end correction used place exactly density string affect frequency harmonics produced greater density lower frequency needs produce standing wave harmonic
+lightedit
+standing waves also observed optical media optical wave guides optical cavities etc lasers use optical cavities form pair facing mirrors gain medium cavity crystal emits light coherently exciting standing waves light cavity wavelength light short range nanometers m standing waves microscopic size one use standing light waves measure small distances using optical flats
+mechanical wavesedit
+standing waves mechanically induced solid medium using resonance one easy understand example two people shaking either end jump rope shake sync rope form regular pattern nodes antinodes appear stationary hence name standing wave similarly cantilever beam standing wave imposed applying base excitation case free end moves greatest distance laterally compared location along beam device used sensor track changes frequency phase resonance fiber one application measurement device dimensional metrology
+seismic wavesedit
+standing surface waves earth observed free oscillations earth
+faraday wavesedit
+faraday wave nonlinear standing wave airliquid interface induced hydrodynamic instability used liquidbased template assemble microscale materials
+see alsoedit
+index wave articles
+amphidromic point clapotis longitudinal mode modelocking metachronal rhythm resonant room modes seiche trumpet voltage standing wave ratio wave kundts tube
+list electronics topics
+cavity resonator characteristic impedance cymatics impedance normal mode
+references notesedit
+external linksedit
+simulation standing waves room using webgl
+java applet standing waves vibrating string
+java applet transverse standing wave
+java applet showing production standing wave string adjusting frequency
+standing wave lessons includes helpful graphics flash animations youtube videos
+web application drawing standing wave diagrams including reflection coefficient input impedance swr etc

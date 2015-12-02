@@ -1,0 +1,93 @@
+in chemistry henry's law is one of the gas laws formulated by the english chemist william henry who studied the topic in the early 19th century in his publication about the quantity of gases absorbed by water he described the results of his experiments:
+"water takes up of gas condensed by one two or more additional atmospheres a quantity which ordinarily compressed would be equal to twice thrice &c the volume absorbed under the common pressure of the atmosphere."
+in other words the amount of dissolved gas is proportional to its partial pressure in the gas phase the proportionality factor is called the henry's law constant
+an everyday example of henry's law is given by a carbonated soft drink in a bottle before it is opened the gas above the drink is almost pure carbon dioxide at a pressure higher than atmospheric pressure the drink itself contains dissolved carbon dioxide when the bottle is opened this gas escapes giving the characteristic hiss because the partial pressure of carbon dioxide above the liquid is now much lower some of the dissolved carbon dioxide comes out of the solution as bubbles if the drink is left in the open the concentration of carbon dioxide in solution will come into equilibrium with the carbon dioxide in the air and the drink will go "flat" another example is the depth-dependent dissolution of oxygen and nitrogen in the blood of underwater divers (decompression and decompression sickness)
+== fundamental types and variants of henry's law constantsedit ==
+there are many ways to define the proportionality constant of henry's law which can be subdivided into two fundamental types: one possibility is to put the aqueous phase into the numerator and the gas phase into the denominator ("aq/gas") this results in the henry's law solubility constant  its value increases with increased solubility alternatively numerator and denominator can be switched ("gas/aq") which results in the henry's law volatility constant  the value of decreases with increased solubility there are several variants of both fundamental types this results from the multiplicity of quantities that can be chosen to describe the composition of the two phases typical choices for the aqueous phase are molar concentration () molality () and molar mixing ratio () for the gas phase molar concentration () and partial pressure () are often used it is not possible to use the gas-phase mixing ratio () because at a given gas-phase mixing ratio the aqueous-phase concentration depends on the total pressure and thus the ratio is not a constant to specify the exact variant of the henry's law constant two superscripts are used they refer to the numerator and the denominator of the definition for example refers to the henry solubility defined as 
+=== henry's law solubility constants edit ===
+==== henry solubility defined via concentration ()edit ====
+atmospheric chemists often define the henry solubility as:
+here is the concentration of a species in the aqueous phase and is the partial pressure of that species in the gas phase under equilibrium conditions
+the si unit for is mol (m3 pa)1 however often the unit m atm1 is used since is usually expressed in m (1 m = 1 mol dm3) and in atm (1 atm = 101325 pa)
+==== the dimensionless henry solubility edit ====
+the henry solubility can also be expressed as the dimensionless ratio between the aqueous-phase concentration of a species and its gas-phase concentration :
+for an ideal gas the conversion is:
+where = gas constant and = temperature
+sometimes this dimensionless constant is called the "water-air partitioning coefficient"  it is closely related to the various slightly different definitions of the "ostwald coefficient"  as discussed by battino (1984)
+==== henry solubility defined via aqueous-phase mixing ratio ()edit ====
+another henry's law solubility constant is:
+here is the molar mixing ratio in the aqueous phase for a dilute aqueous solution the conversion between and is:
+where = density of water and = molar mass of water thus:
+the si unit for is pa1 however atm1 is still frequently used
+==== henry solubility defined via molality ()edit ====
+it can be advantageous to describe the aqueous phase in terms of molality instead of concentration the molality of a solution does not change with since it refers to the mass of the solvent in contrast the concentration does change with  since the density of a solution and thus its volume are temperature-dependent defining the aqueous-phase composition via molality has the advantage that any temperature dependence of the henry's law constant is a true solubility phenomenon and not introduced indirectly via a density change of the solution using molality the henry solubility can be defined as:
+here is used as the symbol for molality (instead of ) to avoid confusion with the symbol for mass the si unit for is mol (kg pa)1 there is no simple way to calculate from since the conversion between concentration and molality involves all solutes of a solution for a solution with a total of solutes with indices  the conversion is:
+where = density of the solution and = molar mass here is identical to one of the in the denominator if there is only one solute the equation simplifies to:
+henry's law is only valid for dilute solutions where and  in this case the conversion reduces further to:
+and thus:
+==== the bunsen coefficient edit ====
+according to sazonov and shaw (2006) the dimensionless bunsen coefficient is defined as: "the volume of saturating gas reduced to 273.15 k and 1 bar which is absorbed by unit volume of pure solvent at the temperature of measurement and partial pressure of 1 bar" if the gas is ideal the pressure cancels out and the conversion to simply is:
+with = 273.15 k note that according to this definition the conversion factor is not temperature-dependent independent of the temperature that the bunsen coefficient refers to 273.15 k is always used for the conversion the bunsen coefficient which is named after robert bunsen has been used mainly in the older literature
+==== the kuenen coefficient edit ====
+according to sazonov and shaw (2006) the kuenen coefficient is defined as: "the volume of saturating gas reduced to 273.15 k and 1 bar which is dissolved by unit mass of pure solvent at the temperature of measurement and partial pressure 1 bar" if the gas is ideal the relation to is:
+where is the density of the solvent and = 273.15 k the si unit for is m3 kg1 the kuenen coefficient which is named after johannes kuenen has been used mainly in the older literature iupac considers it to be obsolete
+=== henry's law volatility constants edit ===
+==== the henry volatility defined via concentration ()edit ====
+a common way to define a henry volatility is dividing the partial pressure by the aqueous-phase concentration:
+the si unit for is pa m3 mol1
+==== the henry volatility defined via aqueous-phase mixing ratio ()edit ====
+another henry volatility is:
+the si unit for is pa however atm is still frequently used
+==== the dimensionless henry volatility edit ====
+the henry volatility can also be expressed as the dimensionless ratio between the gas-phase concentration of a species and its aqueous-phase concentration :
+in chemical engineering and environmental chemistry this dimensionless constant is often called the airwater partitioning coefficient 
+== values of henry's law constantsedit ==
+a large compilation of henry's law constants has been published by sander (2015) a few selected values are shown in the table below:
+== temperature dependenceedit ==
+when the temperature of a system changes the henry constant will also change the temperature dependence of equilibrium constants can generally be described with the van 't hoff equation which also applies to henry's law constants:
+where = enthalpy of dissolution note that the letter in the symbol refers to enthalpy and is not related to the letter for henry's law constants integrating the above equation and creating an expression based on at the reference temperature = 298.15 k yields:
+the van't hoff equation in this form is only valid for a limited temperature range in which does not change much with temperature
+the following table lists some temperature dependencies:
+solubility of permanent gases usually decreases with increasing temperature at around room temperature however for aqueous solutions the henry's law solubility constant for many species goes through a minimum for most permanent gases the minimum is below 120 c often the smaller the gas molecule (and the lower the gas solubility in water) the lower the temperature of the maximum of the henry's law constant thus the maximum is about 30 c for helium 92 to 93 c for argon nitrogen and oxygen and 114 c for xenon
+== effective henry's law constants edit ==
+the henry's law constants mentioned so far do not consider any chemical equilibria in the aqueous phase this type is called the "intrinsic" (or "physical") henry's law constant for example the intrinsic henry's law solubility constant of methanal can be defined as:
+in aqueous solution methanal is almost completely hydrated:
+the total concentration of dissolved methanal is:
+taking this equilibrium into account an effective henry's law constant can be defined:
+for acids and bases the effective henry's law constant is not a useful quantity because it depends on the ph of the solution in order to obtain a ph-independent constant the product of the intrinsic henry's law constant and the acidity constant is often used for strong acids like hydrochloric acid ():
+although is usually also called a henry's law constant it should be noted that it is a different quantity and it has different units than 
+== dependence on ionic strength (sechenov equation)edit ==
+values of henry's law constants for aqueous solutions depend on the composition of the solution i.e. on its ionic strength and on dissolved organics in general the solubility of a gas decreases with increasing salinity ("salting out") however a "salting in" effect has also been observed for example for the effective henry's law constant of glyoxal the effect can be described with the sechenov equation named after the russian physiologist ivan sechenov (sometimes the german transliteration "setschenow" of the cyrillic name is used) there are many alternative ways to define the sechenov equation depending on how the aqueous-phase composition is described (based on concentration molality or molar fraction) and which variant of the henry's law constant is used describing the solution in terms of molality is preferred because molality is invariant to temperature and to the addition of dry salt to the solution thus the sechenov equation can be written as:
+where = henry's law constant in pure water = henry's law constant in the salt solution = molality-based sechenov constant and = molality of the salt
+== miscellaneousedit ==
+=== in geochemistryedit ===
+in geochemistry a version of henry's law applies to the solubility of a noble gas in contact with silicate melt one equation used is
+where:
+c = the number concentrations of the solute gas in the melt and gas phases
+= 1/kbt an inverse temperature scale: kb = the boltzmann constant
+e = the excess chemical potentials of the solute gas in the two phases
+=== comparison to raoult's lawedit ===
+henry's law is a limiting law that only applies for 'sufficiently dilute' solutions the range of concentrations in which it applies becomes narrower the more the system diverges from ideal behavior roughly speaking that is the more chemically 'different' the solute is from the solvent
+for a dilute solution the concentration of the solute is approximately proportional to its mole fraction x and henry's law can be written as:
+this can be compared with raoult's law:
+where p* is the vapor pressure of the pure component
+at first sight raoult's law appears to be a special case of henry's law where kh = p* this is true for pairs of closely related substances such as benzene and toluene which obey raoult's law over the entire composition range: such mixtures are called "ideal mixtures"
+the general case is that both laws are limit laws and they apply at opposite ends of the composition range the vapor pressure of the component in large excess such as the solvent for a dilute solution is proportional to its mole fraction and the constant of proportionality is the vapor pressure of the pure substance (raoult's law) the vapor pressure of the solute is also proportional to the solute's mole fraction but the constant of proportionality is different and must be determined experimentally (henry's law) in mathematical terms:
+raoult's law:
+henry's law:
+raoult's law can also be related to non-gas solutes
+=== standard chemical potentialedit ===
+henry's law has been shown to apply to a wide range of solutes in the limit of "infinite dilution" (x0) including non-volatile substances such as sucrose in these cases it is necessary to state the law in terms of chemical potentials for a solute in an ideal dilute solution the chemical potential depends on the concentration:
+ where for a volatile solute; co = 1 mol/l
+for non-ideal solutions the activity coefficient c depends on the concentration and must be determined at the concentration of interest the activity coefficient can also be obtained for non-volatile solutes where the vapor pressure of the pure substance is negligible by using the gibbs-duhem relation:
+by measuring the change in vapor pressure (and hence chemical potential) of the solvent the chemical potential of the solute can be deduced
+the standard state for a dilute solution is also defined in terms of infinite-dilution behavior although the standard concentration co is taken to be 1 mol/l by convention the standard state is a hypothetical solution of 1 mol/l in which the solute has its limiting infinite-dilution properties this has the effect that all non-ideal behavior is described by the activity coefficient: the activity coefficient at 1 mol/l is not necessarily unity (and is frequently quite different from unity)
+all the relations above can also be expressed in terms of molalities b rather than concentrations e.g.:
+ where for a volatile solute; bo = 1 mol/kg
+the standard chemical potential mo the activity coefficient m and the henry's law constant kh,b all have different numerical values when molalities are used in place of concentrations
+== see alsoedit ==
+pervaporation
+partition coefficient
+sieverts' law
+henry adsorption constant
+== referencesedit ==

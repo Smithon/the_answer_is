@@ -1,0 +1,79 @@
+atomic physics quantum chemistry electron configuration distribution electrons atom molecule physical structure atomic molecular orbitals example electron configuration neon atom p
+electronic configurations describe electrons moving independently orbital average field created orbitals mathematically configurations described slater determinants configuration state functions
+according laws quantum mechanics systems one electron energy associated electron configuration upon certain conditions electrons able move one configuration another emission absorption quantum energy form photon
+knowledge electron configuration different atoms useful understanding structure periodic table elements concept also useful describing chemical bonds hold atoms together bulk materials idea helps explain peculiar properties lasers semiconductors
+shells subshellsedit
+electron configuration first conceived bohr model atom still common speak shells subshells despite advances understanding quantummechanical nature electrons
+electron shell set allowed states share principal quantum number n number letter orbital label electrons may occupy atoms nth electron shell accommodate n electrons eg first shell accommodate electrons second shell electrons third shell electrons factor two arises allowed states doubled due electron spineach atomic orbital admits two otherwise identical electrons opposite spin one spin usually denoted uparrow one spin downarrow
+subshell set states defined common azimuthal quantum number within shell values correspond p d f labels respectively maximum number electrons placed subshell given gives two electrons subshell six electrons p subshell ten electrons d subshell fourteen electrons f subshell
+numbers electrons occupy shell subshell arise equations quantum mechanics particular pauli exclusion principle states two electrons atom values four quantum numbers
+notationedit
+physicists chemists use standard notation indicate electron configurations atoms molecules atoms notation consists sequence atomic orbital labels eg phosphorus sequence p p number electrons assigned orbital set orbitals sharing label placed superscript example hydrogen one electron sorbital first shell configuration written lithium two electrons ssubshell one higherenergy ssubshell configuration written pronounced onestwo twosone phosphorus atomic number follows p p
+atoms many electrons notation become lengthy abbreviated notation used since last subshells identical one another noble gases phosphorus instance differs neon p presence third shell thus electron configuration neon pulled phosphorus written follows ne p convention useful electrons outermost shell determine chemistry element
+given configuration order writing orbitals completely fixed since orbital occupancies physical significance example electron configuration titanium ground state written either ar d ar d first notation follows order based madelung rule configurations neutral atoms filled d sequence ar k ca sc ti second notation groups orbitals value n together corresponding spectroscopic order orbital energies reverse order electrons removed given atom form positive ions d filled sequence ti ti ti ti ti
+superscript singly occupied orbital compulsory quite common see letters orbital labels p d f written italic slanting typeface although international union pure applied chemistry iupac recommends normal typeface used choice letters originates nowobsolete system categorizing spectral lines sharp principal diffuse fundamental fine based observed fine structure modern usage indicates orbitals azimuthal quantum number l respectively f sequence continues alphabetically g h l skipping j although orbitals types rarely required
+electron configurations molecules written similar way except molecular orbital labels used instead atomic orbital labels see
+energy ground state excited statesedit
+energy associated electron orbital energy configuration often approximated sum energy electron neglecting electronelectron interactions configuration corresponds lowest electronic energy called ground state configuration excited state
+example ground state configuration sodium atom ssps deduced aufbau principle see first excited state obtained promoting electron p orbital obtain sspp configuration abbreviated p level atoms move one configuration another absorbing emitting energy sodiumvapor lamp example sodium atoms excited p level electrical discharge return ground state emitting yellow light wavelength nm
+usually excitation valence electrons sodium involves energies corresponding photons visible ultraviolet light excitation core electrons possible requires much higher energies generally corresponding xray photons would case example excite p electron level form excited ssps configuration
+remainder article deals groundstate configuration often referred configuration atom molecule
+historyedit
+niels bohr first propose periodicity properties elements might explained electronic structure atom proposals based current bohr model atom electron shells orbits fixed distance nucleus bohrs original configurations would seem strange presentday chemist sulfur given instead p p
+following year e c stoner incorporated sommerfelds third quantum number description electron shells correctly predicted shell structure sulfur however neither bohrs system stoners could correctly describe changes atomic spectra magnetic field zeeman effect
+bohr well aware shortcoming others written friend wolfgang pauli ask help saving quantum theory system known old quantum theory pauli realized zeeman effect must due outermost electrons atom able reproduce stoners shell structure correct structure subshells inclusion fourth quantum number exclusion principle
+forbidden one electron value main quantum number n value three quantum numbers k l j ml m ms
+schrdinger equation published gave three four quantum numbers direct consequence solution hydrogen atom solution yields atomic orbitals shown today textbooks chemistry examination atomic spectra allowed electron configurations atoms determined experimentally led empirical rule known madelungs rule see order atomic orbitals filled electrons
+atoms aufbau principle madelung ruleedit
+aufbau principle german aufbau building construction important part bohrs original concept electron configuration may stated
+maximum two electrons put orbitals order increasing orbital energy lowestenergy orbitals filled electrons placed higherenergy orbitals
+principle works well ground states atoms first elements decreasingly well following elements modern form aufbau principle describes order orbital energies given madelungs rule klechkowskis rule rule first stated charles janet rediscovered erwin madelung later given theoretical justification vm klechkowski
+orbitals filled order increasing nl
+two orbitals value nl filled order increasing n
+gives following order filling orbitals
+p p d p d p f d p f d p g f d p
+list orbitals parentheses occupied ground state heaviest atom known uuo z
+aufbau principle applied modified form protons neutrons atomic nucleus shell model nuclear physics nuclear chemistry
+periodic tableedit
+form periodic table closely related electron configuration atoms elements example elements group electron configuration e ns e inert gas configuration notable similarities chemical properties general periodicity periodic table terms periodic table blocks clearly due number electrons needed fill p d f subshells
+outermost electron shell often referred valence shell first approximation determines chemical properties remembered similarities chemical properties remarked century idea electron configuration clear far madelungs rule explains rather simply describes periodic table although properties common oxidation state first row transition metals would obviously different different order orbital filling
+shortcomings aufbau principleedit
+aufbau principle rests fundamental postulate order orbital energies fixed given element different elements cases approximately true considers atomic orbitals boxes fixed energy placed two electrons however energy electron atomic orbital depends energies electrons atom ion molecule etc oneelectron solutions systems one electron set manyelectron solutions cannot calculated exactly although mathematical approximations available hartreefock method
+fact aufbau principle based approximation seen fact almostfixed filling order within given shell sorbital always filled porbitals hydrogenlike atom one electron sorbital porbitals shell exactly energy good approximation absence external electromagnetic fields however real hydrogen atom energy levels slightly split magnetic field nucleus quantum electrodynamic effects lamb shift
+ionization transition metalsedit
+nave application aufbau principle leads wellknown paradox apparent paradox basic chemistry transition metals potassium calcium appear periodic table transition metals electron configurations ar ar respectively ie sorbital filled dorbital line madelungs rule sorbital nl n l dorbital nl n l calcium neutral atoms first series transition metals sczn configurations two electrons two exceptions chromium copper electron configurations ar d ar d respectively ie one electron passed sorbital dorbital generate halffilled filled subshell case usual explanation halffilled completely filled subshells particularly stable arrangements electrons
+apparent paradox arises electrons removed transition metal atoms form ions first electrons ionized come dorbital one would expect higher energy sorbital interchange electrons d found atoms first series transition metals configurations neutral atoms k ca sc ti v cr usually follow order p p d however successive stages ionization given atom fe fe fe fe fe usually follow order p p d
+phenomenon paradoxical assumed energy order atomic orbitals fixed unaffected nuclear charge presence electrons orbitals case dorbital would energy porbital hydrogen yet clearly doesnt special reason fe ion electron configuration chromium atom given iron two protons nucleus chromium chemistry two species different melrose eric scerri analyzed changes orbital energy orbital occupations terms twoelectron repulsion integrals hartreefock method atomic structure calculation
+similar ionlike dxs configurations occur transition metal complexes described simple crystal field theory even metal oxidation state example chromium hexacarbonyl described chromium atom ion surrounded six carbon monoxide ligands electron configuration central chromium atom described d six electrons filling three lowerenergy d orbitals ligands two d orbitals higher energy due crystal field ligands picture consistent experimental fact complex diamagnetic meaning unpaired electrons however accurate description using molecular orbital theory dlike orbitals occupied six electrons longer identical d orbitals free atom
+exceptions madelungs ruleedit
+several exceptions madelungs rule among heavier elements difficult resort simple explanations stability halffilled subshells possible predict exceptions hartreefock calculations approximate method taking account effect electrons orbital energies heavier elements also necessary take account effects special relativity energies atomic orbitals innershell electrons moving speeds approaching speed light general relativistic effects tend decrease energy sorbitals relation atomic orbitals table shows ground state configuration terms orbital occupancy show ground state terms sequence orbital energies determined spectroscopically example transition metals orbital higher energy d orbitals lanthanides higher f d ground states seen electron configurations elements data page
+electronshell configuration elements beyond rutherfordium yet empirically verified expected follow madelungs rule without exceptions element
+electron configuration moleculesedit
+molecules situation becomes complex molecule different orbital structure molecular orbitals labelled according symmetry rather atomic orbital labels used atoms monatomic ions hence electron configuration dioxygen molecule o written g u g u g u g equivalently g u g u u g g term g represents two electrons two degenerate orbitals antibonding hunds rules electrons parallel spins ground state dioxygen net magnetic moment paramagnetic explanation paramagnetism dioxygen major success molecular orbital theory
+electronic configuration polyatomic molecules change without absorption emission photon vibronic couplings
+electron configuration solidsedit
+solid electron states become numerous cease discrete effectively blend continuous ranges possible states electron band notion electron configuration ceases relevant yields band theory
+applicationsedit
+widespread application electron configurations rationalization chemical properties inorganic organic chemistry effect electron configurations along simplified form molecular orbital theory become modern equivalent valence concept describing number type chemical bonds atom expected form
+approach taken computational chemistry typically attempts make quantitative estimates chemical properties many years calculations relied upon linear combination atomic orbitals lcao approximation using ever larger complex basis set atomic orbitals starting point last step calculation assignment electrons among molecular orbitals according aufbau principle methods calculational chemistry rely electron configuration density functional theory dft important example method discards model
+atoms molecules one electron motion electrons correlated picture longer exact large number electronic configurations needed exactly describe multielectron system energy associated one single configuration however electronic wave function usually dominated small number configurations therefore notion electronic configuration remains essential multielectron systems
+fundamental application electron configurations interpretation atomic spectra case necessary supplement electron configuration one term symbols describe different energy levels available atom term symbols calculated electron configuration groundstate configuration listed tables although energy levels observed practice analysis atomic spectra groundstate electron configurations elements experimentally determined
+see alsoedit
+bornoppenheimer approximation
+electron configurations elements data page
+periodic table electron configurations
+atomic orbital
+energy level
+term symbol
+molecular term symbol
+homolumo
+periodic table group
+d electron count
+extension periodic table beyond seventh period discusses limits periodic table
+notesedit
+referencesedit
+jolly william l modern inorganic chemistry nd ed new york mcgrawhill pp isbn
+scerri eric periodic system story significance new york oxford university press isbn
+external linksedit
+atom look like configuration d
+trouble aufbau principle eric scerri education chemistry november

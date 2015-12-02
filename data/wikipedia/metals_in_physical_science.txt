@@ -1,0 +1,68 @@
+in crystallography the terms crystal system crystal family and lattice system each refer to one of several classes of space groups lattices point groups or crystals informally two crystals tend to be in the same crystal system if they have similar symmetries though there are many exceptions to this
+crystal systems crystal families and lattice systems are similar but slightly different and there is widespread confusion between them: in particular the trigonal crystal system is often confused with the rhombohedral lattice system and the term "crystal system" is sometimes used to mean "lattice system" or "crystal family"
+space groups and crystals are divided into 7 crystal systems according to their point groups and into 7 lattice systems according to their bravais lattices five of the crystal systems are essentially the same as five of the lattice systems but the hexagonal and trigonal crystal systems differ from the hexagonal and rhombohedral lattice systems the six crystal families are formed by combining the hexagonal and trigonal crystal systems into one hexagonal family in order to eliminate this confusion
+== overviewedit ==
+a lattice system is generally identified as a set of lattices with the same shape according to the relative lengths of the cell edges (a b c) and the angles between them (  ) each lattice is assigned to one of the following classifications (lattice types) based on the positions of the lattice points within the cell: primitive (p) body-centered (i) face-centered (f) base-centered (a b or c) and rhombohedral (r) the 14 unique combinations of lattice systems and lattice types are collectively known as the bravais lattices associated with each lattice system is a set of point groups sometimes called lattice point groups which are subgroups of the arithmetic crystal classes in total there are seven lattice systems: triclinic monoclinic orthorhombic tetragonal rhombohedral hexagonal and cubic
+a crystal system is a set of point groups in which the point groups themselves and their corresponding space groups are assigned to the same lattice system of the 32 point groups that exist in three dimensions most are assigned to only one lattice system in which case the crystal system and lattice system both have the same name however five point groups are assigned to two lattice systems rhombohedral and hexagonal because both lattice systems exhibit threefold rotational symmetry these point groups are assigned to the trigonal crystal system in total there are seven crystal systems: triclinic monoclinic orthorhombic tetragonal trigonal hexagonal and cubic
+a crystal family is determined by lattices and point groups it is formed by combining crystal systems which have space groups assigned to the same lattice system in three dimensions the crystal families are identical to the crystal systems except the hexagonal and trigonal crystal systems are combined into one hexagonal crystal family in total there are six crystal families: triclinic monoclinic orthorhombic tetragonal hexagonal and cubic
+spaces with less than three dimensions have the same number of crystal systems crystal families and lattice systems in zero- and one-dimensional space there is one crystal system in two-dimensional space there are four crystal systems: oblique rectangular square and hexagonal
+the relation between three-dimensional crystal families crystal systems and lattice systems is shown in the following table:
+caution: there is no "trigonal" lattice system to avoid confusion of terminology don't use the term "trigonal lattice"; use the definition that "trigonal lattice" = "hexagonal lattice" "rhombohedral lattice"
+== crystal classesedit ==
+the 7 crystal systems consist of 32 crystal classes (corresponding to the 32 crystallographic point groups) as shown in the following table:
+point symmetry can be thought of in the following fashion: consider the coordinates which make up the structure and project them all through a single point so that (x,y,z) becomes (-x,-y,-z) this is the 'inverted structure' if the original structure and inverted structure are identical then the structure is centrosymmetric otherwise it is non-centrosymmetric still even for non-centrosymmetric case inverted structure in some cases can be rotated to align with the original structure this is the case of non-centrosymmetric achiral structure if the inverted structure cannot be rotated to align with the original structure then the structure is chiral (enantiomorphic) and its symmetry group is enantiomorphic
+a direction (meaning a line without an arrow) is called polar if its two directional senses are geometrically or physically different a polar symmetry direction of a crystal is called a polar axis groups containing a polar axis are called polar a polar crystal possess a "unique" axis (found in no other directions) such that some geometrical or physical property is different at the two ends of this axis it may develop a dielectric polarization e.g in pyroelectric crystals a polar axis can occur only in non-centrosymmetric structures there should also not be a mirror plane or 2-fold axis perpendicular to the polar axis because they will make both directions of the axis equivalent
+the crystal structures of chiral biological molecules (such as protein structures) can only occur in the 11 enantiomorphic point groups (biological molecules are usually chiral)
+== lattice systemsedit ==
+the distribution of the 14 bravais lattice types into 7 lattice systems is given in the following table
+in geometry and crystallography a bravais lattice is a category of symmetry groups for translational symmetry in three directions or correspondingly a category of translation lattices
+such symmetry groups consist of translations by vectors of the form
+where n1 n2 and n3 are integers and a1 a2 and a3 are three non-coplanar vectors called primitive vectors
+these lattices are classified by space group of the translation lattice itself; there are 14 bravais lattices in three dimensions; each can apply in one lattice system only they represent the maximum symmetry a structure with the translational symmetry concerned can have
+all crystalline materials must by definition fit in one of these arrangements (not including quasicrystals)
+for convenience a bravais lattice is depicted by a unit cell which is a factor 1 2 3 or 4 larger than the primitive cell depending on the symmetry of a crystal or other pattern the fundamental domain is again smaller up to a factor 48
+the bravais lattices were studied by moritz ludwig frankenheim (18011869) in 1842 who found that there were 15 bravais lattices this was corrected to 14 by a bravais in 1848
+== crystal systems in four-dimensional spaceedit ==
+the four-dimensional unit cell is defined by four edge lengths () and six interaxial angles () the following conditions for the lattice parameters define 23 crystal families:
+1 hexaclinic:
+2 triclinic:
+3 diclinic:
+4 monoclinic:
+5 orthogonal:
+6 tetragonal monoclinic:
+7 hexagonal monoclinic:
+8 ditetragonal diclinic:
+9 ditrigonal (dihexagonal) diclinic:
+10 tetragonal orthogonal:
+11 hexagonal orthogonal:
+12 ditetragonal monoclinic:
+13 ditrigonal (dihexagonal) monoclinic:
+14 ditetragonal orthogonal:
+15 hexagonal tetragonal:
+16 dihexagonal orthogonal:
+17 cubic orthogonal:
+18 octagonal:
+19 decagonal:
+20 dodecagonal:
+21 di-isohexagonal orthogonal:
+22 icosagonal (icosahedral):
+23 hypercubic:
+the names here are given according to whittaker they are almost the same as in brown et al with exception for names of the crystal families 9 13 and 22 the names for these three families according to brown et al are given in parenthesis
+the relation between four-dimensional crystal families crystal systems and lattice systems is shown in the following table enantiomorphic systems are marked with asterisk the number of enantiomorphic pairs are given in parentheses here the term "enantiomorphic" has different meaning than in table for three-dimensional crystal classes the latter means that enantiomorphic point groups describe chiral (enantiomorphic) structures in the current table "enantiomorphic" means that group itself (considered as geometric object) is enantiomorphic like enantiomorphic pairs of three-dimensional space groups p31 and p32 p4122 and p4322 starting from four-dimensional space point groups also can be enantiomorphic in this sense
+== see alsoedit ==
+crystal cluster
+crystal structure
+list of the 230 crystallographic 3d space groups
+polar point group
+== notesedit ==
+== referencesedit ==
+hahn theo ed (2002) international tables for crystallography volume a: space group symmetry a (5th ed.) berlin new york: springer-verlag doi:10.1107/97809553602060000100 isbn 978-0-7923-6590-7
+== external linksedit ==
+overview of the 32 groups
+mineral galleries symmetry
+all cubic crystal classes forms and stereographic projections (interactive java applet)
+crystal system at the online dictionary of crystallography
+crystal family at the online dictionary of crystallography
+lattice system at the online dictionary of crystallography
+conversion primitive to standard conventional for vasp input files
+learning crystallography

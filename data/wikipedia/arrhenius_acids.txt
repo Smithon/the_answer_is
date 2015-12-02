@@ -1,0 +1,204 @@
+an acidbase reaction is a chemical reaction that occurs between an acid and a base several theoretical frameworks provide alternative conceptions of the reaction mechanisms and their application in solving related problems their importance becomes apparent in analyzing acidbase reactions for gaseous or liquid species or when acid or base character may be somewhat less apparent the first of these concepts was provided by the french chemist antoine lavoisier circa 1776
+== acidbase definitions ==
+=== historic development ===
+==== lavoisier's oxygen theory of acids ====
+the first scientific concept of acids and bases was provided by lavoisier circa 1776 since lavoisier's knowledge of strong acids was mainly restricted to oxoacids such as hno
+3 (nitric acid) and h
+2so
+4 (sulfuric acid) which tend to contain central atoms in high oxidation states surrounded by oxygen and since he was not aware of the true composition of the hydrohalic acids (hf hcl hbr and hi) he defined acids in terms of their containing oxygen which in fact he named from greek words meaning "acid-former" (from the greek (oxys) meaning "acid" or "sharp" and (geinomai) meaning "engender") the lavoisier definition was held as absolute truth for over 30 years until the 1810 article and subsequent lectures by sir humphry davy in which he proved the lack of oxygen in h2s h2te and the hydrohalic acids however davy failed to develop a new theory concluding that "acidity does not depend upon any particular elementary substance but upon peculiar arrangement of various substances" one notable modification of oxygen theory was provided by berzelius who stated that acids are oxides of nonmetals while bases are oxides of metals
+==== liebig's hydrogen theory of acids ====
+circa 1838 justus von liebig proposed that an acid is a hydrogen-containing substance in which the hydrogen could be replaced by a metal this redefinition was based on his extensive work on the chemical composition of organic acids finishing the doctrinal shift from oxygen-based acids to hydrogen-based acids started by davy liebig's definition while completely empirical remained in use for almost 50 years until the adoption of the arrhenius definition
+==== arrhenius theory ====
+the first modern definition of acids and bases was devised by svante arrhenius a hydrogen theory of acids it followed from his 1884 work with friedrich wilhelm ostwald in establishing the presence of ions in aqueous solution and led to arrhenius receiving the nobel prize in chemistry in 1903
+as defined by arrhenius:
+an arrhenius acid is a substance that dissociates in water to form hydrogen ions (h+); that is an acid increases the concentration of h+ ions in an aqueous solution
+this causes the protonation of water or the creation of the hydronium (h3o+) ion thus in modern times the symbol h+ is interpreted as a shorthand for h3o+ because it is now known that a bare proton does not exist as a free species in aqueous solution
+an arrhenius base is a substance that dissociates in water to form hydroxide (oh) ions; that is a base increases the concentration of oh ions in an aqueous solution
+the arrhenius definitions of acidity and alkalinity are restricted to aqueous solutions and refer to the concentration of the solvent ions under this definition pure h2so4 and hcl dissolved in toluene are not acidic and molten naoh and solutions of calcium amide in liquid ammonia are not alkaline
+overall to qualify as an arrhenius acid upon the introduction to water the chemical must either cause directly or otherwise:
+an increase in the aqueous hydronium concentration or
+a decrease in the aqueous hydroxide concentration
+conversely to qualify as an arrhenius base upon the introduction to water the chemical must either cause directly or otherwise:
+a decrease in the aqueous hydronium concentration or
+an increase in the aqueous hydroxide concentration
+the reaction of an acid with a base is called a neutralization reaction.the products of this reaction are a salt and water
+acid + base salt + water
+in this traditional representation an acid-base neutralization reaction is formulated as a double-replacement reaction for example the reaction of hydrochloric acid hcl with sodium hydroxide naoh solutions produces a solution of sodium chloride nacl and some additional water molecules
+hcl(aq) + naoh(aq) nacl(aq) + h2o
+the modifier (aq) in this equation is important it was implied by arrhenius not included explicitly it indicates that the substances are dissolved in water in fact though all three substances hcl naoh and nacl are capable of existing as pure compounds in aqueous solutions they are fully dissociated into the (aquated) ions h+ cl- na+ and oh-
+=== brnstedlowry definition ===
+the brnstedlowry definition formulated in 1923 independently by johannes nicolaus brnsted in denmark and martin lowry in england is based upon the idea of protonation of bases through the de-protonation of acids that is the ability of acids to "donate" hydrogen ions (h+)otherwise known as protonsto bases which "accept" them
+an acidbase reaction is thus the removal of a hydrogen ion from the acid and its addition to the base the removal of a hydrogen ion from an acid produces its conjugate base which is the acid with a hydrogen ion removed the reception of a proton by a base produces its conjugate acid which is the base with a hydrogen ion added
+unlike the previous definitions the brnstedlowry definition does not refer to the formation of salt and solvent but instead to the formation of conjugate acids and conjugate bases produced by the transfer of a proton from the acid to the base in this approach acids and bases are fundamentally different in behavior from salts which are seen as electrolytes subject to the theories of debye onsager and others an acid and a base react not to produce a salt and a solvent but to form a new acid and a new base the concept of neutralization is thus absent brnstedlowry acidbase behavior is formally independent of any solvent making it more all-encompassing than the arrhenius model
+the general formula for acidbase reactions according to the brnstedlowry definition is:
+ha + b bh+ + a
+where ha represents the acid b represents the base bh+ represents the conjugate acid of b and a represents the conjugate base of ha
+for example a brnsted-lowry model for the dissociation of hydrochloric acid (hcl) in aqueous solution would be the following:
+hcl + h2o h3o+ + cl
+the removal of h+ from the hcl produces the chloride ion cl the conjugate base of the acid the addition of h+ to the h2o (acting as a base) forms the hydronium ion h3o+ the conjugate acid of the base
+water is amphotericthat is it can act as both an acid and a base the brnsted-lowry model explains this showing the dissociation of water into low concentrations of hydronium and hydroxide ions:
+h2o + h2o h3o+ + oh
+this equation is demonstrated in the image below:
+here one molecule of water acts as an acid donating an h+ and forming the conjugate base oh and a second molecule of water acts as a base accepting the h+ ion and forming the conjugate acid h3o+
+as an example of water acting as an acid consider an aqueous solution of pyridine c5h5n
+c5h5n + h2o [c5h5nh]+ + oh
+in this example a water molecule is split into a hydrogen ion which is donated to a pyridine molecule and an hydroxide ion
+in the brnsted-lowry model the solvent does not necessarily have to be water for example consider what happens when acetic acid ch3cooh dissolves in liquid ammonia
+ch
+3cooh + nh
+3 nh+
+4 + ch
+3coo
+an h+ ion is removed from acetic acid forming its conjugate base the acetate ion ch3coo the addition of an h+ ion to an ammonia molecule of the solvent creates its conjugate acid the ammonium ion nh4+
+the brnstedlowry model calls hydrogen-containing substances (like hcl) acids thus some substances which many chemists considered to be acids such as so3 or bcl3 are excluded from this classification due to lack of hydrogen gilbert n lewis wrote in 1938 "to restrict the group of acids to those substances that contain hydrogen interferes as seriously with the systematic understanding of chemistry as would the restriction of the term oxidizing agent to substances containing oxygen." furthermore koh and knh2 are not considered brnsted bases but rather salts containing the bases oh and nh2
+=== lewis definition ===
+the hydrogen requirement of arrhenius and brnstedlowry was removed by the lewis definition of acidbase reactions devised by gilbert n lewis in 1923 in the same year as brnstedlowry but it was not elaborated by him until 1938 instead of defining acidbase reactions in terms of protons or other bonded substances the lewis definition defines a base (referred to as a lewis base) to be a compound that can donate an electron pair and an acid (a lewis acid) to be a compound that can receive this electron pair
+for example boron trifluoride bf3 is a typical lewis acid it can accept a pair of electrons as it has a vacancy in its octet the fluoride ion has a full octet and can donate a pair of electrons thus
+bf3 + f bf4
+is a typical lewis acid lewis base reaction all compounds of group 13 elements with a formula ax3 can behave as lewis acids similarly compounds of group 15 elements with a formula dy3 such as amines nr3 and phosphines pr3 can behave as lewis bases adducts between them have the formula x3ady3 with a dative covalent bond shown symbolically as  between the atoms a (acceptor) and d (donor) compounds of group 16 with a formula dx2 may also act as lewis bases; in this way a compound like an ether r2o or a thioether r2s can act as a lewis base the lewis definition is not limited to these examples for instance carbon monoxide acts as a lewis base when it forms an adduct with boron trifluoride of formula f3bco
+adducts involving metal ions are referred to as co-ordination compounds; each ligand donates a pair of electrons to the metal ion the reaction
+[ag(h2o)4]+ + 2nh3 [ag(nh3)2]+ + 4h2o
+can be seen as an acid-base reaction in which a stronger base (ammonia) replaces a weaker one (water)
+the lewis and brnstedlowry definitions are consistent with each other since the reaction
+h+ + oh h2o
+is an acid-base reaction in both theories
+=== solvent system definition ===
+one of the limitations of the arrhenius definition is its reliance on water solutions edward curtis franklin studied the acidbase reactions in liquid ammonia in 1905 and pointed out the similarities to the water-based arrhenius theory albert f o germann working with liquid phosgene cocl
+2 formulated the solvent-based theory in 1925 thereby generalizing the arrhenius definition to cover aprotic solvents
+germann pointed out that in many solutions there are ions in equilibrium with the neutral solvent molecules:
+solvonium: a generic name for a positive ion
+solvate: a generic name for a negative ion
+for example water and ammonia undergo such dissociation into hydronium and hydroxide and ammonium and amide respectively:
+2 h
+2o h
+3o+ + oh
+2 nh
+3 nh+
+4 + nh
+2
+some aprotic systems also undergo such dissociation such as dinitrogen tetroxide into nitrosonium and nitrate antimony trichloride into dichloroantimonium and tetrachloroantimonate and phosgene into chlorocarboxonium and chloride:
+n
+2o
+4 no+ + no
+3
+2 sbcl
+3 sbcl+
+2 + sbcl
+4
+cocl
+2 cocl+ + cl
+a solute that causes an increase in the concentration of the solvonium ions and a decrease in the concentration of solvate ions is defined as an acid a solute that causes an increase in the concentration of the solvate ions and a decrease in the concentration of the solvonium ions is defined as a base
+thus in liquid ammonia knh
+2 (supplying nh
+2) is a strong base and nh
+4no
+3 (supplying nh+
+4) is a strong acid in liquid sulfur dioxide (so
+2) thionyl compounds (supplying so2+) behave as acids and sulfites (supplying so2
+3) behave as bases
+the non-aqueous acidbase reactions in liquid ammonia are similar to the reactions in water:
+2 nanh
+2 (base) + zn(nh
+2)
+2 (amphiphilic amide) na
+2[zn(nh
+2)
+4]
+2 nh
+4i (acid) + zn(nh
+2)
+2 (amphiphilic amide) [zn(nh
+3)
+4)]i
+2
+nitric acid can be a base in liquid sulfuric acid:
+hno
+3 (base) + 2 h
+2so
+4 no+
+2 + h
+3o+ + 2 hso
+4
+the unique strength of this definition shows in describing the reactions in aprotic solvents; for example in liquid n
+2o
+4:
+agno
+3 (base) + nocl (acid) n
+2o
+4 (solvent) + agcl (salt)
+because the solvent system definition depends on the solute as well as on the solvent itself a particular solute can be either an acid or a base depending on the choice of the solvent: hclo
+4 is a strong acid in water a weak acid in acetic acid and a weak base in fluorosulfonic acid; this characteristic of the theory has been seen as both a strength and a weakness because some substances (such as so
+3 and nh
+3) have been seen to be acidic or basic on their own right on the other hand solvent system theory has been criticized as being too general to be useful also it has been thought that there is something intrinsically acidic about hydrogen compounds a property not shared by non-hydrogenic solvonium salts
+=== luxflood definition ===
+this acidbase theory was a revival of oxygen theory of acids and bases proposed by german chemist hermann lux in 1939 further improved by hkon flood circa 1947 and is still used in modern geochemistry and electrochemistry of molten salts this definition describes an acid as an oxide ion (o2) acceptor and a base as an oxide ion donor for example:
+mgo (base) + co
+2 (acid) mgco
+3
+cao (base) + sio
+2 (acid) casio
+3
+no
+3 (base) + s
+2o2
+7 (acid) no+
+2 + 2 so2
+4
+=== usanovich definition ===
+mikhail usanovich developed a general theory that does not restrict acidity to hydrogen-containing compounds but his approach published in 1938 was even more general than lewis theory usanovich's theory can be summarized as defining an acid as anything that accepts negative species or donates positive ones and a base as the reverse this defined the concept of redox (oxidation-reduction) as a special case of acid-base reactions
+some examples of usanovich acid-base reactions include:
+na
+2o (base) + so
+3 (acid) 2 na+ + so2
+4 (species exchanged: anion o2)
+3 (nh
+4)
+2s (base) + sb
+2s
+5 (acid) 6 nh+
+4 + 2 sbs3
+4 (species exchanged: anion s2)
+2na (base) + cl
+2 (acid) 2na+ + 2cl (species exchanged: electron)
+=== pearson definition ===
+in 1963 ralph pearson proposed a qualitative concept known as hard soft acid base principle later made quantitative with help of robert parr in 1984 'hard' applies to species that are small have high charge states and are weakly polarizable 'soft' applies to species that are large have low charge states and are strongly polarizable acids and bases interact and the most stable interactions are hardhard and softsoft this theory has found use in organic and inorganic chemistry
+== acid-base equilibrium ==
+the reaction of a strong acid with a strong base is essentially a quantitative reaction for example
+hcl(aq) + na(oh)(aq) h2o + nacl(aq)
+in this reaction both the sodium and chloride ions are spectators as the neutralization reaction
+h+ + oh h2o
+does not involve them with weak bases addition of acid is not quantitative because a solution of a weak base is a buffer solution a solution of a weak acid is also a buffer solution when a weak acid reacts with a weak base an equilibrium mixture is produced for example adenine written as ah can react with a hydrogen phosphate ion hpo42
+ah + hpo42 a + h2po4
+the equilibrium constant for this reaction can be derived from the acid dissociation constants of adenine and the hydrogen phosphate ion
+[ah] = ka1[a][h+]
+[h2po4] = ka2[hpo42][h+]
+the notation [x] signifies "concentration of x" when these two equations are combined by eliminating the hydrogen ion concentration an expression for the equilibrium constant k is obtained
+[ah][hpo42] = k[a][h2po4] k=ka1/ka2
+== acidalkali reaction ==
+an acidalkali reaction is a special case of an acidbase reaction where the base used is also an alkali when an acid reacts with an alkali it forms a metal salt and water acidalkali reactions are also a type of neutralization reaction
+in general acidalkali reactions can be simplified to
+oh(aq) + h+(aq) h
+2o
+by omitting spectator ions
+acids are in general pure substances that contain hydrogen ions (h+) or cause them to be produced in solutions hydrochloric acid (hcl) and sulfuric acid (h
+2so
+4) are common examples in water these break apart into ions:
+hcl h+(aq) + cl(aq)
+h
+2so
+4 h+(aq) + hso
+4(aq)
+to produce hydroxide ions in water the alkali breaks apart into ions as below:
+naoh na+(aq) + oh(aq)
+== see also ==
+electron configuration
+lewis structure
+resonance structure
+protonation and deprotonation
+nucleophilic substitution and redox reactions
+acidbase titration
+== notes ==
+== references ==
+== external links ==
+acid-base physiology: an on-line text
+john w kimball's online biology book section of acid and bases

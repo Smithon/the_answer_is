@@ -1,0 +1,16 @@
+the hill system (or hill notation) is a system of writing chemical formulas such that the number of carbon atoms in a molecule is indicated first the number of hydrogen atoms next and then the number of all other chemical elements subsequently in alphabetical order of the chemical symbols when the formula contains no carbon all the elements including hydrogen are listed alphabetically
+by sorting formulas according to the number of atoms of each element present in the formula according to these rules with differences in earlier elements or numbers being treated as more significant than differences in any later element or number like sorting text strings into lexicographical order it is possible to collate chemical formulas into what is known as hill system order
+the hill system was first published by edwin a hill of the united states patent and trademark office in 1900 it is the most commonly used system in chemical databases and printed indexes to sort lists of compounds
+== exampleedit ==
+the following formulas are written using the hill system and listed in hill order:
+bri
+ccl4
+ch3i
+c2h5br
+h2o4s
+a list of formulas in hill system order is arranged alphabetically as above with single-letter elements coming before two-letter symbols when the symbols begin with the same letter (so b comes before be which comes before br)
+== referencesedit ==
+^ edwin a hill (1900) "on a system of indexing chemical literature; adopted by the classification division of the u.s patent office" j am chem soc 22 (8): 478494 doi:10.1021/ja02046a005
+^ a b wiggins gary (1991) chemical information sources new york: mcgraw hill p 120
+== external linksedit ==
+hill notation example from the university of massachusetts lowell libraries including how to sort into hill system order

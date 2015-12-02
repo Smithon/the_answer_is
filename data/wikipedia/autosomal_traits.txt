@@ -1,0 +1,67 @@
+hydrostatics is the branch of fluid mechanics that studies incompressible fluids at rest it encompasses the study of the conditions under which fluids are at rest in stable equilibrium as opposed to fluid dynamics the study of fluids in motion hydrostatics are categorized as a part of the fluid statics which is the study of all fluids incompressible or not at rest
+hydrostatics is fundamental to hydraulics the engineering of equipment for storing transporting and using fluids it is also relevant to geophysics and astrophysics (for example in understanding plate tectonics and the anomalies of the earth's gravitational field) to meteorology to medicine (in the context of blood pressure) and many other fields
+hydrostatics offers physical explanations for many phenomena of everyday life such as why atmospheric pressure changes with altitude why wood and oil float on water and why the surface of water is always flat and horizontal whatever the shape of its container
+== history ==
+some principles of hydrostatics have been known in an empirical and intuitive sense since antiquity by the builders of boats cisterns aqueducts and fountains archimedes is credited with the discovery of the mathematical law that bears his name that relates the buoyancy force to the volume and density of the displaced fluid the roman engineer vitruvius warned readers about lead pipes bursting under hydrostatic pressure
+the concept of pressure and the way it is transmitted by fluids were formulated by the french mathematician and philosopher blaise pascal in 1647
+== pressure in fluids at rest ==
+due to the fundamental nature of fluids a fluid cannot remain at rest under the presence of a shear stress however fluids can exert pressure normal to any contacting surface if a point in the fluid is thought of as an infinitesimally small cube then it follows from the principles of equilibrium that the pressure on every side of this unit of fluid must be equal if this were not the case the fluid would move in the direction of the resulting force thus the pressure on a fluid at rest is isotropic; i.e. it acts with equal magnitude in all directions this characteristic allows fluids to transmit force through the length of pipes or tubes; i.e. a force applied to a fluid in a pipe is transmitted via the fluid to the other end of the pipe this principle was first formulated in a slightly extended form by blaise pascal and is now called pascal's law
+=== hydrostatic pressure ===
+in a fluid at rest all frictional stresses vanish and the state of stress of the system is called hydrostatic when this condition of (v=0) is applied to the navier-stokes equation the gradient of pressure becomes a function of body forces only for a barotropic fluid in a conservative force field like a gravitational force field pressure exerted by a fluid at equilibrium becomes a function of force exerted by gravity
+the hydrostatic pressure can be determined from a control volume analysis of an infinitesimally small cube of fluid since pressure is defined as the force exerted on a test area (p = f/a with p: pressure f: force normal to area a a: area) and the only force acting on any such small cube of fluid is the weight of the fluid column above it hydrostatic pressure can be calculated according to the following formula:
+where:
+p is the hydrostatic pressure (pa)
+is the fluid density (kg/m3)
+g is gravitational acceleration (m/s2)
+a is the test area (m2)
+z is the height (parallel to the direction of gravity) of the test area (m)
+z0 is the height of the zero reference point of the pressure (m)
+for water and other liquids this integral can be simplified significantly for many practical applications based on the following two assumptions: since many liquids can be considered incompressible a reasonably good estimation can be made from assuming a constant density throughout the liquid (the same assumption cannot be made within a gaseous environment.) also since the height h of the fluid column between z and z0 is often reasonably small compared to the radius of the earth one can neglect the variation of g under these circumstances the integral boils down to the simple formula:
+where h is the height z z0 of the liquid column between the test volume and the zero reference point of the pressure note that this reference point should lie at or below the surface of the liquid otherwise one has to split the integral into two (or more) terms with the constant liquid and (z')above for example the absolute pressure compared to vacuum is:
+where h is the total height of the liquid column above the test area to the surface and patm is the atmospheric pressure i.e. the pressure calculated from the remaining integral over the air column from the liquid surface to infinity this can easily be visualized using a pressure prism
+hydrostatic pressure has been used in the preservation of foods in a process called pascalization
+==== medicine ====
+in medicine hydrostatic pressure in blood vessels is the pressure of the blood against the wall it is the opposing force to oncotic pressure
+=== atmospheric pressure ===
+statistical mechanics shows that for a gas of constant temperature t its pressure p will vary with height h as:
+where:
+g is the acceleration due to gravity
+t is the absolute temperature
+k is boltzmann constant
+m is the mass of a single molecule of gas
+p is the pressure
+h is the height
+this is known as the barometric formula and may be derived from assuming the pressure is hydrostatic
+if there are multiple types of molecules in the gas the partial pressure of each type will be given by this equation under most conditions the distribution of each species of gas is independent of the other species
+=== buoyancy ===
+any body of arbitrary shape which is immersed partly or fully in a fluid will experience the action of a net force in the opposite direction of the local pressure gradient if this pressure gradient arises from gravity the net force is in the vertical direction opposite that of the gravitational force this vertical force is termed buoyancy or buoyant force and is equal in magnitude but opposite in direction to the weight of the displaced fluid mathematically
+where is the density of the fluid g is the acceleration due to gravity and v is the volume of fluid directly above the curved surface in the case of a ship for instance its weight is balanced by pressure forces from the surrounding water allowing it to float if more cargo is loaded onto the ship it would sink more into the water displacing more water and thus receive a higher buoyant force to balance the increased weight
+discovery of the principle of buoyancy is attributed to archimedes
+=== hydrostatic force on submerged surfaces ===
+the horizontal and vertical components of the hydrostatic force acting on a submerged surface are given by the following:
+where:
+pc is the pressure at the center of the vertical projection of the submerged surface
+a is the area of the same vertical projection of the surface
+is the density of the fluid
+g is the acceleration due to gravity
+v the volume of fluid directly above the curved surface
+== liquids (fluids with free surfaces) ==
+liquids can have free surfaces at which they interface with gases or with a vacuum in general the lack of the ability to sustain a shear stress entails that free surfaces rapidly adjust towards an equilibrium however on small length scales there is an important balancing force from surface tension
+=== capillary action ===
+when liquids are constrained in vessels whose dimensions are small compared to the relevant length scales surface tension effects become important leading to the formation of a meniscus through capillary action this capillary action has profound consequences for biological systems as it is part of one of the two driving mechanisms of the flow of water in plant xylem the transpirational pull
+=== hanging drops ===
+without surface tension drops would not be able to form the dimensions and stability of drops are determined by surface tension.the drop's surface tension is directly proportional to the cohesion property of the fluid founded by sarode sir deore sir sapkal also by tajane sir
+== see also ==
+communicating vessels
+hydrostatic test
+d-dia
+== references ==
+== further reading ==
+batchelor george k (1967) an introduction to fluid dynamics cambridge university press isbn 0-521-66396-2
+falkovich gregory (2011) fluid mechanics (a short course for physicists) cambridge university press isbn 978-1-107-00575-4
+kundu pijush k.; cohen ira m (2008) fluid mechanics (4th revised ed.) academic press isbn 978-0-12-373735-9
+currie i g (1974) fundamental mechanics of fluids mcgraw-hill inc. isbn 0-07-015000-1
+massey b.; ward-smith j (2005) mechanics of fluids (8th ed.) taylor & francis isbn 978-0-415-36206-1
+white frank m (2003) fluid mechanics mcgrawhill isbn 0-07-240217-2
+== external links ==
+j.b calvert (2003) hydrostatics from university of denver accessed on 2013-05-22

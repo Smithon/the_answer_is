@@ -1,0 +1,67 @@
+ideal gas law equation state hypothetical ideal gas good approximation behavior many gases many conditions although several limitations first stated mile clapeyron combination boyles law charless law avogadros law ideal gas law often written
+letters denote pressure volume amount moles ideal gas constant temperature gas respectively
+also derived microscopically kinetic theory achieved apparently independently august krnig rudolf clausius
+equationedit
+state amount gas determined pressure volume temperature modern form equation relates simply two main forms temperature used equation state absolute temperature si system units kelvin
+common formedit
+frequently introduced form
+p pressure gas
+v volume gas
+n amount substance gas also known number moles
+r ideal universal gas constant equal product boltzmann constant avogadro constant
+temperature gas
+si units p measured pascals v measured cubic metres n measured moles kelvin kelvin scale shifted celsius scale kelvin degrees celsius lowest possible temperature r value jkmol latmmolkor calories using pressure standard atmospheres atm instead pascals volume litres instead cubic metres
+molar formedit
+much gas present could specified giving mass instead chemical amount gas therefore alternative form ideal gas law may useful chemical amount n moles equal mass m grams divided molar mass m grams per mole
+replacing n m m subsequently introducing density mv get
+defining specific gas constant rspecific ratio rm
+form ideal gas law useful links pressure density temperature unique formula independent quantity considered gas alternatively law may written terms specific volume v reciprocal density
+common especially engineering applications represent specific gas constant symbol r cases universal gas constant usually given different symbol r distinguish case context andor units gas constant make clear whether universal specific gas constant referred
+statistical mechanicsedit
+statistical mechanics following molecular equation derived first principles
+p absolute pressure gas measured pascals n number molecules given volume v number density given ratio nv kb boltzmann constant relating temperature energy absolute temperature
+number density contrasts formulation uses n number moles v volume relation implies rnakb na avogadros constant consistency result experiment good check principles statistical mechanics
+notice average particle mass times atomic mass constant mu ie mass u
+since mn find ideal gas law rewritten
+si units p measured pascals v cubic metres y dimensionless number kelvin k value jk si units
+applications thermodynamic processesedit
+table essentially simplifies ideal gas equation particular processes thus making equation easier solve using numerical methods
+thermodynamic process defined system moves state state state number denoted subscript shown first column table basic thermodynamic processes defined one gas properties p v constant throughout process
+given thermodynamics process order specify extent particular process one properties ratios listed column labeled known ratio must specified either directly indirectly also property ratio known must distinct property held constant previous column otherwise ratio would unity enough information would available simplify gas law equation
+final three columns properties p v state calculated properties state using equations listed
+isentropic process system entropy constant conditions p v p v defined heat capacity ratio constant calorifically perfect gas value used typically diatomic gases like nitrogen n oxygen o air diatomic also typically monatomic gases like noble gases helium argon ar internal combustion engines varies depending constitution gases temperature
+deviations ideal behavior real gasesedit
+equation state given applies ideal gas approximation real gas behaves sufficiently like ideal gas fact many different forms equation state since ideal gas law neglects molecular size intermolecular attractions accurate monatomic gases high temperatures low pressures neglect molecular size becomes less important lower densities ie larger volumes lower pressures average distance adjacent molecules becomes much larger molecular size relative importance intermolecular attractions diminishes increasing thermal kinetic energy ie increasing temperatures detailed equations state van der waals equation account deviations ideality caused molecular size intermolecular forces
+residual property defined difference real gas property ideal gas property considered pressure temperature composition
+derivationsedit
+empiricaledit
+ideal gas law derived combining two empirical gas laws combined gas law avogadros law combined gas law state
+c constant directly proportional amount gas n avogadros law proportionality factor universal gas constant r ie c nr
+hence ideal gas law
+theoreticaledit
+kinetic theoryedit
+ideal gas law also derived first principles using kinetic theory gases several simplifying assumptions made chief among molecules atoms gas point masses possessing mass significant volume undergo elastic collisions sides container linear momentum kinetic energy conserved
+statistical mechanicsedit
+let q qx qy qz p px py pz denote position vector momentum vector particle ideal gas respectively let f denote net force particle timeaveraged potential energy particle
+first equality newtons second law second line uses hamiltons equations equipartition theorem summing system n particles yields
+newtons third law ideal gas assumption net force system force applied walls container force given pressure p gas hence
+ds infinitesimal area element along walls container since divergence position vector q
+divergence theorem implies
+dv infinitesimal volume within container v total volume container
+putting equalities together yields
+immediately implies ideal gas law n particles
+n nna number moles gas r nakb gas constant
+see alsoedit
+combined gas law
+van der waals equation
+boltzmann constant
+configuration integral
+dynamic pressure
+internal energy
+referencesedit
+readingedit
+davis masten principles environmental engineering science mcgrawhill companies inc new york isbn
+website giving credit benot paul mile clapeyron
+external linksedit
+configuration integral statistical mechanics alternative statistical mechanics derivation idealgas law using relationship helmholtz free energy partition function without using equipartition theorem provided vuquoc l configuration integral statistical mechanics wiki site see article web archive april
+online ideal gas law calculator

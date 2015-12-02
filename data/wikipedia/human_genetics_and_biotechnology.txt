@@ -1,0 +1,81 @@
+humgen.org is the website of the centre for genomics and policy which is affiliated with mcgill university and the gnome qubec innovation centre in canada the centre was launched to respond to the urgent need for informed public policy and analyses on socio-ethical issues related to human genetics research at the international national and provincial levels the humgen website provides policy makers and the public access to policy statements concerning genetic research
+== mission statement ==
+designed with policy makers in mind humgen.org aims to inform professionals and the general public about the ethical legal and social issues raised by human genetics research
+its motto is "humgen.org: your resource concerning ethical legal and social issues in human genetics."
+== architecture ==
+humgen.org is a trilingual web resource available in english french and spanish specializing in the ethical legal and social issues of human genetics it comprises five sections: genbiblio geninfo genedit frequently asked questions and about us
+genbiblio is an international database of policy statements from 1990 to the present
+geninfo is a bimonthly newsletter offering an overview of current developments including recently adopted policy statements upcoming events and team publications
+genedit is an editorial written by a team member and a collaborating international expert that focuses on the ethical legal and social issues surrounding human genetics research
+the frequently asked questions section provides lay definitions for issues that arise in the context of human genetics research the information is presented in a format that is easy to navigate and explore it is also designed to allow researchers students and members of the general public alike to become more familiar with relevant policy issues in human genetics
+the about us section introduces the members of the humgen team with their photos biographies lists of publications and current research projects
+== history ==
+=== the centre for genomics and policy ===
+the development of the humgen.org website is part of a larger centre for genomics and policy project which was formerly affiliated with the centre de recherche en droit public (crdp) of the universit de montral under the name genetics and society project
+the project was launched to respond to the urgent need for informed public policy with the goal of analyzing international regional and national trends in the context of socio-ethical issues in human genetics research
+the genetics and society project began its first investigation "ethical evaluation of genomic research," in 1998 and has since completed 33 research projects currently 21 collaborative efforts are underway ranging from maternal-infant research to cardiovascular disease treatment to stem cell therapy the center for genomics and policy recently moved from universit de montrals faculty of law to mcgill universitys faculty of medicine
+=== humgen.org ===
+faced with rapid advances in human genetics research policy makers continue to struggle with a host of complex ethical legal and social questions the humgen website gives policy makers and the public access to legislation policy guidelines and recommendations from government and nongovernmental organizations worldwide
+the website is a unique source of international genetic policy information and has been cited as a critical resource for geneticists who are interested in examining the wider implications of their work
+== genbiblio ==
+=== definition ===
+genbiblio is an international database of legislation policy guidelines and recommendations from 1990 to the present it contains consensus (normative) documents from over 300 governmental and nongovernmental organizations published in english french and spanish it can be searched by jurisdiction organization or keyword for ease of use it is subdivided into four categories: pediagen (pediatrics) stemgen (stem cells) popgen (population genetics) and ipgen (intellectual property)
+=== purpose ===
+the goal of genbiblio is to provide policy makers from around the globe with up-to-date normative legislation and policies from reputable organizations such as the united nations as well as a reference list of recent (2000 or later) peer-reviewed literature in english french or spanish
+== modules ==
+=== pediagen ===
+==== description ====
+pediagen provides access to norms aimed at ensuring the protection of children and minors involved in genetic research in clinical contexts it presents a list of international regional and national laws norms guidelines and policies as well as a selective review of literature six themes are covered: bio-banking research gene therapy genetic testing genetic screening and pharmacogenetics
+==== guidelines ====
+the pediagen database can be searched by title organization (300+) keyword (40 topics) jurisdiction (68 regions and countries) year of publication (1985 to present) or language (english or french)
+==== selective literature ====
+the selective bibliography can be searched by author(s) title year (2002 to present) or by topic (40) the most recent results are listed first in descending chronological order most references include a link to the web resource
+=== stemgen ===
+==== description ====
+stemgen is a research database on stem cell research it contains international regional and national normative information available free of cost to anyone interested in the ethical legal and social issues surrounding this topic
+==== database of law and policy ====
+the database can be searched by title organization (600+) keyword (95) jurisdiction (241 regions and countries) year of publication (1985 to present) or language (english or french)
+==== stem cell world map ====
+a unique feature of stemgen is its point-and-click search map a color-coded legend identifies each countrys approach to stem cell issues: permissive intermediate restrictive or no specific legislation
+==== stem cell literature ====
+the selective review of literature in stem cell research covers peer-reviewed articles book chapters and monographs published since 2000 in english or french items are grouped into three categories: reproductive cloning stem cell and therapeutic cloning
+=== popgen ===
+==== description ====
+popgen consists of a database of international regional and national laws and policies about human genetic population research and the collection of data and biological samples as well as a bibliography of selected literature
+==== guidelines ====
+the popgen database can be searched by title organization (340) key words (95) jurisdiction (68 regions and countries) year of publication (1985 to present) or language (english or french) most references include a link to the web resource
+==== selective literature ====
+this bibliography can be searched by author title date (1990 to present) or keyword (29) results are listed in descending chronological order many references include a link to the web resource
+==== glossary ====
+key terms used in population genetics are defined for the layperson
+=== ipgen ===
+ipgen is a search engine of international regional and national documents it can be searched by title organization (140+) topic (8 research areas) jurisdiction (international regional national provincial) or date (1985 to present) direct links to documents are provided when available
+== geninfo ==
+geninfo is a bimonthly newsletter informing readers of recently adopted laws and policies upcoming events and publications by the humgen team
+== genedit ==
+=== description ===
+genedit is an editorial article focusing on the ethical legal and social issues surrounding human genetics research published approximately three times a year it is authored by a senior researcher a research associate and an international collaborator
+=== examples ===
+all editorials are archived on humgen.org topics include: direct to consumer genetic tests warning patients relatives of genetic risks and newborn screening
+== faqs ==
+=== description ===
+the frequently asked questions (faqs) section of humgen.org simplifies complex research topics for the general public
+==== examples ====
+some of the topics covered include:
+* property rights in data and biological samples
+* eugenics
+* stem cell regulation by country
+* pharmacogenetics
+* genetic discrimination
+== the centre for genomics and policy ==
+=== description ===
+the centre for genomics and policy affiliated with mcgill universitys faculty of medicine was launched on june 1 2009 part of the mcgill university and gnome qubec innovation centre the new centre is headed by genomics expert dr bartha maria knoppers an internationally renowned expert in ethics law and policy within the fields of human genetics reproduction and biotechnology
+=== ongoing research and collaborations ===
+==== international regulome consortium ====
+the consortiums mission is to map the genetic regulatory nodes and networks that control the activity of embryonic stem cells in particular those responsible for the formation of neural tissues and the blood system the consortium is funded by the ontario genomics institute
+==== micyrn ====
+the maternal infant children youth research network (micyrn) is a multidisciplinary network of canadian researchers clinicians and policy experts involved in maternal and child health it links perinatal neonatal and child and youth health researchers in universities across the country with the canadian institutes of health research its goal is to build key infrastructure to generate cross-disciplinary research programs increase the efficiency quality and standards of clinical research and dramatically improve knowledge transfer for mother-child healthcare
+==== graph-int ====
+the genome-based research and population health international network (graph-int) is an international community of population health experts graph-int promotes the use of genome-based research from the sciences humanities and social sciences to improve population health
+the website was launched in june 2006 in 2007 development began on the bioportal search engine aimed at optimizing searches on public health genome-based subjects (ethical legal and social issues research literature epidemiological data and news and events)
+== references ==

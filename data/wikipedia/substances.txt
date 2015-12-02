@@ -1,0 +1,98 @@
+amines (us: /minz/ or /minz/ uk: /minz/ /mnz/ or /eminz/) are organic compounds and functional groups that contain a basic nitrogen atom with a lone pair amines are derivatives of ammonia wherein one or more hydrogen atoms have been replaced by a substituent such as an alkyl or aryl group (these may respectively be called alkylamines and arylamines; amines in which both types of substituent are attached to one nitrogen atom may be called alkylarylamines.) important amines include amino acids biogenic amines trimethylamine and aniline; see category:amines for a list of amines inorganic derivatives of ammonia are also called amines such as chloramine (nclh2); see category:inorganic amines
+compounds with a nitrogen atom attached to a carbonyl group thus having the structure rconrr are called amides and have different chemical properties from amines
+== classes of amines ==
+an aliphatic amine has no aromatic ring attached directly to the nitrogen atom aromatic amines have the nitrogen atom connected to an aromatic ring as in the various anilines the aromatic ring decreases the alkalinity of the amine depending on its substituents the presence of an amine group strongly increases the reactivity of the aromatic ring due to an electron-donating effect
+amines are organized into four subcategories:
+primary amines - primary amines arise when one of three hydrogen atoms in ammonia is replaced by an alkyl or aromatic important primary alkyl amines include methylamine ethanolamine (2-aminoethanol) and the buffering agent tris while primary aromatic amines include aniline
+secondary amines - secondary amines have two organic substituents (alkyl aryl or both) bound to n together with one hydrogen (or no hydrogen if one of the substituent bonds is double) important representatives include dimethylamine and methylethanolamine while an example of an aromatic amine would be diphenylamine
+tertiary amines - in tertiary amines all three hydrogen atoms are replaced by organic substituents examples include trimethylamine which has a distinctively fishy smell or triphenylamine
+cyclic amines - cyclic amines are either secondary or tertiary amines examples of cyclic amines include the 3-member ring aziridine and the six-membered ring piperidine n-methylpiperidine and n-phenylpiperidine are examples of cyclic tertiary amines
+it is also possible to have four organic substituents on the nitrogen these species are not amines but are quaternary ammonium cations and have a charged nitrogen center quaternary ammonium salts exist with many kinds of anions
+== naming conventions ==
+amines are named in several ways typically the compound is given the prefix "amino-" or the suffix: "-amine" the prefix "n-" shows substitution on the nitrogen atom an organic compound with multiple amino groups is called a diamine triamine tetraamine and so forth
+systematic names for some common amines:
+== physical properties ==
+hydrogen bonding significantly influences the properties of primary and secondary amines thus the boiling point of amines is higher than those of the corresponding phosphines but generally lower than those of the corresponding alcohols for example methyl and ethyl amines are gases under standard conditions whereas the corresponding methyl and ethyl alcohols are liquids gaseous amines possess a characteristic ammonia smell liquid amines have a distinctive "fishy" smell
+also reflecting their ability to form hydrogen bonds most aliphatic amines display some solubility in water solubility decreases with the increase in the number of carbon atoms aliphatic amines display significant solubility in organic solvents especially polar organic solvents primary amines react with ketones such as acetone
+the aromatic amines such as aniline have their lone pair electrons conjugated into the benzene ring thus their tendency to engage in hydrogen bonding is diminished their boiling points are high and their solubility in water is low
+=== chirality ===
+amines of the type nhrr and nrrr are chiral: the nitrogen atom bears four substituents counting the lone pair the energy barrier for the inversion of the stereocenter is relatively low e.g. ~7 kcal/mol for a trialkylamine the interconversion of the stereoisomers has been compared to the inversion of an open umbrella into a strong wind because of this low barrier amines such as nhrr cannot be resolved optically and nrrr can only be resolved when the r r and r groups are constrained in cyclic structures such as aziridines quaternary ammonium salts with four distinct groups on the nitrogen are capable of exhibiting optical activity
+=== properties as bases ===
+like ammonia amines are bases compared to alkali metal hydroxides amines are weaker (see table for examples of conjugate acid ka values) the basicity of amines depends on:
+the electronic properties of the substituents (alkyl groups enhance the basicity aryl groups diminish it)
+steric hindrance offered by the groups on nitrogen
+the degree of solvation of the protonated amine
+the nitrogen atom features a lone electron pair that can bind h+ to form an ammonium ion r3nh+ the lone electron pair is represented in this article by a two dots above or next to the n the water solubility of simple amines is largely due to hydrogen bonding between protons in the water molecules and these lone electron pairs
+inductive effect of alkyl groups
++i effect of alkyl groups raises the energy of the lone pair of electrons thus elevating the basicity thus the basicity of an amine may be expected to increase with the number of alkyl groups on the amine however there is no strict trend in this regard as basicity is also governed by other factors mentioned above consider the kb values of the methyl amines given above the increase in kb from methylamine to dimethylamine may be attributed to +i effect; however there is a decrease from dimethylamine to trimethyl amine due to the predominance of steric hindrance offered by the three methyl groups to the approaching brnsted acid
+mesomeric effect of aromatic systems
+-m effect of aromatic ring delocalises the lone pair of electrons on nitrogen into the ring resulting in decreased basicity substituents on the aromatic ring and their positions relative to the amine group may also considerably alter basicity as seen above
+the solvation of protonated amines changes upon their conversion to ammonium compounds typically salts of ammonium compounds exhibit the following order of solubility in water: primary ammonium (rnh3+) > secondary ammonium (r2nh2+) > tertiary ammonium (r3nh+) quaternary ammonium salts usually exhibit the lowest solubility of the series
+in sterically hindered amines as in the case of trimethylamine the protonated form is not well-solvated for this reason the parent amine is less basic than expected in the case of aprotic polar solvents (like dmso and dmf) wherein the extent of solvation is not as high as in protic polar solvents (like water and methanol) the basicity of amines is almost solely governed by the electronic factors within the molecule
+== synthesis ==
+=== alkylation ===
+the most industrially significant amines are prepared from ammonia by alkylation with alcohols:
+roh + nh3 rnh2 + h2o
+these reactions require catalysts specialized apparatus and additional purification measures since the selectivity can be problematic the same amines can be prepared by treatment of haloalkanes with ammonia and amines:
+rx + 2 rnh2 rrnh + [rrnh2]x
+such reactions which are most useful for alkyl iodides and bromides are rarely employed because the degree of alkylation is difficult to control selectivity can be improved via the delepine reaction although this is rarely employed on a industrial scale
+=== reductive routes ===
+via the process of hydrogenation nitriles are reduced to amines using hydrogen in the presence of a nickel catalyst reactions are sensitive acidic or alkaline conditions which can cause hydrolysis of -cn group lialh4 is more commonly employed for the reduction of nitriles on the laboratory scale similarly lialh4 reduces amides to amines many amines are produced from aldehydes and ketones via reductive amination which can either proceed catalytically or stoichiometrically
+aniline (c6h5nh2) and its derivatives are prepared by reduction of the nitroaromatics in industry hydrogen is the preferred reductant whereas in the laboratory tin and iron are often employed
+=== specialized methods ===
+many laboratory methods exist for the preparation of amines many of these methods being rather specialized
+== reactions ==
+=== alkylation acylation and sulfonation ===
+aside from their basicity the dominant reactivity of amines is their nucleophilicity most primary amines are good ligands for metal ions to give coordination complexes amines are alkylated by alkyl halides acyl chlorides and acid anhydrides react with primary and secondary amines to form amides (the "schottenbaumann reaction")
+similarly with sulfonyl chlorides one obtains sulfonamides this transformation known as the hinsberg reaction is a chemical test for the presence of amines
+because amines are basic they neutralize acids to form the corresponding ammonium salts r3nh+ when formed from carboxylic acids and primary and secondary amines these salts thermally dehydrate to form the corresponding amides
+=== diazotization ===
+amines react with nitrous acid to give diazonium salts the alkyl diazonium salts are of little synthetic importance because they are too unstable the most important members are derivatives of aromatic amines such as aniline ("phenylamine") (a = aryl or naphthyl):
+anh2 + hno2 + hx an2+x + 2 h2o
+anilines and naphthylamines form more stable diazonium salts which can be isolated in the crystalline form diazonium salts undergo a variety of useful transformations involving replacement of the n2 group with anions for example cuprous cyanide gives the corresponding nitriles:
+an2+ + y ay + n2
+aryldiazonium couple with electron-rich aromatic compounds such as a phenol to form azo compounds such reactions are widely applied to the production of dyes
+=== conversion to imines ===
+imine formation is an important reaction primary amines react with ketones and aldehydes to form imines in the case of formaldehyde (r = h) these products typically exist as cyclic trimers
+rnh2 + r2c=o r2c=nr + h2o
+reduction of these imines gives secondary amines:
+r2c=nr + h2 r2chnhr
+similarly secondary amines react with ketones and aldehydes to form enamines:
+r2nh + r(rch2)c=o rch=c(nr2)r + h2o
+=== overview ===
+an overview of the reactions of amine is given below:
+== biological activity ==
+amines are ubiquitous in biology the breakdown of amino acids releases amines famously in the case of decaying fish which smell of trimethylamine many neurotransmitters are amines including epinephrine norepinephrine dopamine serotonin and histamine protonated amino groups (-nh3+) are the most common positively charged moieties in proteins specifically in the amino acid lysine the anionic polymer dna is typically bound to various amine-rich proteins additionally the terminal charged primary ammonium on lysine forms salt bridges with carboxylate groups of other amino acids in polypeptides which is one of the primary influences on the three-dimensional structures of proteins
+== application of amines ==
+=== dyes ===
+primary aromatic amines are used as a starting material for the manufacture of azo dyes it reacts with nitrous acid to form diazonium salt which can undergo coupling reaction to form azo compound as azo-compounds are highly coloured they are widely used in dyeing industries such as:
+methyl orange
+direct brown 138
+sunset yellow fcf
+ponceau
+=== drugs ===
+many drugs are designed to mimic or to interfere with the action of natural amine neurotransmitters exemplified by the amine drugs:
+chlorpheniramine is an antihistamine that helps to relieve allergic disorders due to cold hay fever itchy skin insect bites and stings
+chlorpromazine is a tranquillizer that sedates without inducing sleep it is used to relieve anxiety excitement restlessness or even mental disorder
+ephedrine and phenylephrine as amine hydrochlorides are used as decongestants
+amphetamine methamphetamine and methcathinone are psychostimulant amines that are listed as controlled substances by the us dea
+amitriptyline imipramine lofepramine and clomipramine are tricyclic antidepressants and tertiary amines
+nortriptyline desipramine and amoxapine are tricyclic antidepressants and secondary amines (the tricyclics are grouped by the nature of the final amine group on the side chain.)
+substituted tryptamines and phenethylamines are key basic structures for a large variety of psychedelic drugs
+opiate analgesics such as morphine codeine and heroin are tertiary amines
+=== gas treatment ===
+aqueous monoethanolamine (mea) diglycolamine (dga) diethanolamine (dea) diisopropanolamine (dipa) and methyldiethanolamine (mdea) are widely used industrially for removing carbon dioxide (co2) and hydrogen sulfide (h2s) from natural gas and refinery process streams they may also be used to remove co2 from combustion gases / flue gases and may have potential for abatement of greenhouse gases related processes are known as sweetening
+== safety ==
+low molecular weight amines such as ethylamine are toxic and some are easily absorbed through the skin many higher molecular weight amines are biologically highly active
+== external links ==
+primary amine synthesis: synthetic protocols from organic-reaction.com
+[1] amines have been implicated in migraine headaches; link contains citations and list of amine containing foods
+== see also ==
+iupac nomenclature for the official naming rules for amines
+ammine
+biogenic amine
+imine
+ligand isomerism
+acid-base extraction
+amine gas treating
+== references ==

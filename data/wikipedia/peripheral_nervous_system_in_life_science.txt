@@ -1,0 +1,56 @@
+electric power is the rate at which electrical energy is transferred by an electric circuit the si unit of power is the watt one joule per second
+electric power is usually produced by electric generators but can also be supplied by sources such as electric batteries it is generally supplied to businesses and homes by the electric power industry through an electric power grid electric power is usually sold by the kilowatt hour (3.6 mj) which is the product of power in kilowatts multiplied by running time in hours electric utilities measure power using an electricity meter which keeps a running total of the electric energy delivered to a customer
+== definitionedit ==
+electric power like mechanical power is the rate of doing work measured in watts and represented by the letter p the term wattage is used colloquially to mean "electric power in watts." the electric power in watts produced by an electric current i consisting of a charge of q coulombs every t seconds passing through an electric potential (voltage) difference of v is
+where
+q is electric charge in coulombs
+t is time in seconds
+i is electric current in amperes
+v is electric potential or voltage in volts
+== explanationedit ==
+electric power is transformed to other forms of energy when electric charges move through an electric potential (voltage) difference which occurs in electrical components in electric circuits from the standpoint of electric power components in an electric circuit can be divided into two categories:
+passive devices or loads: when electric charges move through a potential difference from a higher to a lower voltage that is when conventional current (positive charge) moves from the positive (+) terminal to the negative () terminal work is done by the charges on the device the potential energy of the charges due to the voltage between the terminals is converted to kinetic energy in the device these devices are called passive components or loads; they 'consume' electric power from the circuit converting it to other forms of energy such as mechanical work heat light etc examples are electrical appliances such as light bulbs electric motors and electric heaters in alternating current (ac) circuits the direction of the voltage periodically reverses but the current always flows from the higher potential to the lower potential side
+active devices or power sources: if the charges are moved by an 'exterior force' through the device in the direction from the lower electric potential to the higher (so positive charge moves from the negative to the positive terminal) work will be done on the charges and energy is being converted to electric potential energy from some other type of energy such as mechanical energy or chemical energy devices in which this occurs are called active devices or power sources; such as electric generators and batteries
+some devices can be either a source or a load depending on the voltage and current through them for example a rechargeable battery acts as a source when it provides power to a circuit but as a load when it is connected to a battery charger and is being recharged
+=== passive sign conventionedit ===
+since electric power can flow either into or out of a component a convention is needed for which direction represents positive power flow electric power flowing out of a circuit into a component is arbitrarily defined to have a positive sign while power flowing into a circuit from a component is defined to have a negative sign thus passive components have positive power consumption while power sources have negative power consumption this is called the passive sign convention
+=== resistive circuitsedit ===
+in the case of resistive (ohmic or linear) loads joule's law can be combined with ohm's law (v = ir) to produce alternative expressions for the amount of power that is dissipated:
+where r is the electrical resistance
+=== alternating currentedit ===
+in alternating current circuits energy storage elements such as inductance and capacitance may result in periodic reversals of the direction of energy flow the portion of power flow that averaged over a complete cycle of the ac waveform results in net transfer of energy in one direction is known as real power (also referred to as active power) that portion of power flow due to stored energy that returns to the source in each cycle is known as reactive power the real power p in watts consumed by a device is given by
+where
+vp is the peak voltage in volts
+ip is the peak current in amperes
+vrms is the root-mean-square voltage in volts
+irms is the root-mean-square current in amperes
+is the phase angle between the current and voltage sine waves
+the relationship between real power reactive power and apparent power can be expressed by representing the quantities as vectors real power is represented as a horizontal vector and reactive power is represented as a vertical vector the apparent power vector is the hypotenuse of a right triangle formed by connecting the real and reactive power vectors this representation is often called the power triangle using the pythagorean theorem the relationship among real reactive and apparent power is:
+real and reactive powers can also be calculated directly from the apparent power when the current and voltage are both sinusoids with a known phase angle between them:
+the ratio of real power to apparent power is called power factor and is a number always between 0 and 1 where the currents and voltages have non-sinusoidal forms power factor is generalized to include the effects of distortion
+=== electromagnetic fieldsedit ===
+electrical energy flows wherever electric and magnetic fields exist together and fluctuate in the same place the simplest example of this is in electrical circuits as the preceding section showed in the general case however the simple equation p = iv must be replaced by a more complex calculation the integral of the cross-product of the electrical and magnetic field vectors over a specified area thus:
+the result is a scalar since it is the surface integral of the poynting vector
+== electric power generationedit ==
+the fundamental principles of much electricity generation were discovered during the 1820s and early 1830s by the british scientist michael faraday his basic method is still used today: electricity is generated by the movement of a loop of wire or disc of copper between the poles of a magnet
+for electric utilities it is the first process in the delivery of electricity to consumers the other processes electricity transmission distribution and electrical power storage and recovery using pumped-storage methods are normally carried out by the electric power industry
+electricity is mostly generated at a power station by electromechanical generators driven by heat engines heated by combustion geothermal power or nuclear fission other generators are driven by the kinetic energy of flowing water and wind there are many other technologies that are used to generate electricity such as solar photovoltaics
+a battery is a device consisting of one or more electrochemical cells that convert stored chemical energy into electrical energy since the invention of the first battery (or "voltaic pile") in 1800 by alessandro volta and especially since the technically improved daniell cell in 1836 batteries have become a common power source for many household and industrial applications according to a 2005 estimate the worldwide battery industry generates us$48 billion in sales each year with 6% annual growth there are two types of batteries: primary batteries (disposable batteries) which are designed to be used once and discarded and secondary batteries (rechargeable batteries) which are designed to be recharged and used multiple times batteries come in many sizes from miniature cells used to power hearing aids and wristwatches to battery banks the size of rooms that provide standby power for telephone exchanges and computer data centers
+== electric power industryedit ==
+the electric power industry provides the production and delivery of power in sufficient quantities to areas that need electricity through a grid connection the grid distributes electrical energy to customers electric power is generated by central power stations or by distributed generation
+many households and businesses need access to electricity especially in developed nations the demand being scarcer in developing nations demand for electricity is derived from the requirement for electricity in order to operate domestic appliances office equipment industrial machinery and provide sufficient energy for both domestic and commercial lighting heating cooking and industrial processes because of this aspect the industry is viewed as part of the public utility infrastructure
+== see alsoedit ==
+electric power system
+power engineering
+egrid
+electric energy consumption
+high voltage cable
+rural electrification
+== notesedit ==
+== referencesedit ==
+reports on august 2003 blackout north american electric reliability council website
+croft terrell; summers wilford i (1987) american electricians' handbook (eleventh ed.) new york: mcgraw hill isbn 0-07-013932-6
+fink donald g.; beaty h wayne (1978) standard handbook for electrical engineers (eleventh ed.) new york: mcgraw hill isbn 0-07-020974-x
+== external linksedit ==
+u.s department of energy: electric power
+globtek inc glossary of electric power power supply terms

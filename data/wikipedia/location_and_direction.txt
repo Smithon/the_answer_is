@@ -1,0 +1,4 @@
+reciprocity in linear systems is the principle that a response rab measured at a location (and direction if applicable) a when the system has an excitation signal applied at a location (and direction if applicable) b is exactly equal to rba which is the response at location b when that same excitation is applied at a this applies for all frequencies of the excitation signal if hab is the transfer function between a and b then hab = hba if the system is linear
+in the special case of a modal analysis this is known as maxwell's reciprocity theorem
+the reciprocity principle is also used in the analysis of structures when combined with superposition symmetry and anti-symmetry it can be used to resolve complex load conditions
+== references ==

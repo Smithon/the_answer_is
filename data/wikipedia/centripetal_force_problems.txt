@@ -1,0 +1,139 @@
+a centripetal force (from latin centrum "center" and petere "to seek") is a force that makes a body follow a curved path its direction is always orthogonal to the motion of the body and towards the fixed point of the instantaneous center of curvature of the path isaac newton described it as "a force by which bodies are drawn or impelled or in any way tend towards a point as to a centre." in newtonian mechanics gravity provides the centripetal force responsible for astronomical orbits
+one common example involving centripetal force is the case in which a body moves with uniform speed along a circular path the centripetal force is directed at right angles to the motion and also along the radius towards the centre of the circular path the mathematical description was derived in 1659 by dutch physicist christiaan huygens
+== formula ==
+the magnitude of the centripetal force on an object of mass m moving at tangential speed v along a path with radius of curvature r is:
+where is the centripetal acceleration the direction of the force is toward the center of the circle in which the object is moving or the osculating circle (the circle that best fits the local path of the object if the path is not circular) the speed in the formula is squared so twice the speed needs four times the force the inverse relationship with the radius of curvature shows that half the radial distance requires twice the force this force is also sometimes written in terms of the angular velocity of the object about the center of the circle related to the tangential velocity by the formula
+so that
+expressed using the orbital period t for one revolution of the circle
+the equation becomes
+in particle accelerators velocity can be very high (close to the speed of light in vacuum) so the same rest mass now exerts greater inertia (relativistic mass) thereby requiring greater force for the same centripetal acceleration so the equation becomes:
+where
+is called the lorentz factor
+== sources of centripetal force ==
+in the case of an object that is swinging around on the end of a rope in a horizontal plane the centripetal force on the object is supplied by the tension of the rope the rope example is an example involving a 'pull' force the centripetal force can also be supplied as a 'push' force such as in the case where the normal reaction of a wall supplies the centripetal force for a wall of death rider
+newton's idea of a centripetal force corresponds to what is nowadays referred to as a central force when a satellite is in orbit around a planet gravity is considered to be a centripetal force even though in the case of eccentric orbits the gravitational force is directed towards the focus and not towards the instantaneous center of curvature
+another example of centripetal force arises in the helix which is traced out when a charged particle moves in a uniform magnetic field in the absence of other external forces in this case the magnetic force is the centripetal force which acts towards the helix axis
+== analysis of several cases ==
+below are three examples of increasing complexity with derivations of the formulas governing velocity and acceleration
+=== uniform circular motion ===
+uniform circular motion refers to the case of constant rate of rotation here are two approaches to describing this case
+=== calculus derivation ===
+in two dimensions the position vector which has magnitude (length) and directed at an angle above the x-axis can be expressed in cartesian coordinates using the unit vectors and :
+assume uniform circular motion which requires three things
+the object moves only on a circle
+the radius of the circle does not change in time
+the object moves with constant angular velocity around the circle therefore where is time
+now find the velocity and acceleration of the motion by taking derivatives of position with respect to time
+notice that the term in parenthesis is the original expression of in cartesian coordinates consequently
+negative shows that the acceleration is pointed towards the center of the circle (opposite the radius) hence it is called "centripetal" (i.e "center-seeking") while objects naturally follow a straight path (due to inertia) this centripetal acceleration describes the circular motion path caused by a centripetal force
+==== derivation using vectors ====
+the image at right shows the vector relationships for uniform circular motion the rotation itself is represented by the angular velocity vector  which is normal to the plane of the orbit (using the right-hand rule) and has magnitude given by:
+with the angular position at time t in this subsection d/dt is assumed constant independent of time the distance traveled d of the particle in time dt along the circular path is
+which by properties of the vector cross product has magnitude rd and is in the direction tangent to the circular path
+consequently
+in other words
+differentiating with respect to time
+lagrange's formula states:
+applying lagrange's formula with the observation that r(t) = 0 at all times
+in words the acceleration is pointing directly opposite to the radial displacement r at all times and has a magnitude:
+where vertical bars |...| denote the vector magnitude which in the case of r(t) is simply the radius r of the path this result agrees with the previous section though the notation is slightly different
+when the rate of rotation is made constant in the analysis of nonuniform circular motion that analysis agrees with this one
+a merit of the vector approach is that it is manifestly independent of any coordinate system
+==== example: the banked turn ====
+the upper panel in the image at right shows a ball in circular motion on a banked curve the curve is banked at an angle from the horizontal and the surface of the road is considered to be slippery the objective is to find what angle the bank must have so the ball does not slide off the road intuition tells us that on a flat curve with no banking at all the ball will simply slide off the road; while with a very steep banking the ball will slide to the center unless it travels the curve rapidly
+apart from any acceleration that might occur in the direction of the path the lower panel of the image above indicates the forces on the ball there are two forces; one is the force of gravity vertically downward through the center of mass of the ball mg where m is the mass of the ball and g is the gravitational acceleration; the second is the upward normal force exerted by the road perpendicular to the road surface man the centripetal force demanded by the curved motion also is shown above this centripetal force is not a third force applied to the ball but rather must be provided by the net force on the ball resulting from vector addition of the normal force and the force of gravity the resultant or net force on the ball found by vector addition of the normal force exerted by the road and vertical force due to gravity must equal the centripetal force dictated by the need to travel a circular path the curved motion is maintained so long as this net force provides the centripetal force requisite to the motion
+the horizontal net force on the ball is the horizontal component of the force from the road which has magnitude |fh| = m|an|sin the vertical component of the force from the road must counteract the gravitational force: |fv| = m|an|cos = m|g| which implies |an|=|g| / cos substituting into the above formula for |fh| yields a horizontal force to be:
+on the other hand at velocity |v| on a circular path of radius r kinematics says that the force needed to turn the ball continuously into the turn is the radially inward centripetal force fc of magnitude:
+consequently the ball is in a stable path when the angle of the road is set to satisfy the condition:
+or
+as the angle of bank approaches 90 the tangent function approaches infinity allowing larger values for |v|2/r in words this equation states that for faster speeds (bigger |v|) the road must be banked more steeply (a larger value for ) and for sharper turns (smaller r) the road also must be banked more steeply which accords with intuition when the angle does not satisfy the above condition the horizontal component of force exerted by the road does not provide the correct centripetal force and an additional frictional force tangential to the road surface is called upon to provide the difference if friction cannot do this (that is the coefficient of friction is exceeded) the ball slides to a different radius where the balance can be realized
+these ideas apply to air flight as well see the faa pilot's manual
+=== nonuniform circular motion ===
+as a generalization of the uniform circular motion case suppose the angular rate of rotation is not constant the acceleration now has a tangential component as shown the image at right this case is used to demonstrate a derivation strategy based upon a polar coordinate system
+let r(t) be a vector that describes the position of a point mass as a function of time since we are assuming circular motion let r(t) = rur where r is a constant (the radius of the circle) and ur is the unit vector pointing from the origin to the point mass the direction of ur is described by  the angle between the x-axis and the unit vector measured counterclockwise from the x-axis the other unit vector for polar coordinates u is perpendicular to ur and points in the direction of increasing  these polar unit vectors can be expressed in terms of cartesian unit vectors in the x and y directions denoted i and j respectively:
+ur = cos i + sin j
+and
+u = -sin i + cos j
+one can differentiate to find velocity:
+where is the angular velocity d/dt
+this result for the velocity matches expectations that the velocity should be directed tangential to the circle and that the magnitude of the velocity should be r differentiating again and noting that
+we find that the acceleration a is:
+thus the radial and tangential components of the acceleration are:
+and
+where |v| = r is the magnitude of the velocity (the speed)
+these equations express mathematically that in the case of an object that moves along a circular path with a changing speed the acceleration of the body may be decomposed into a perpendicular component that changes the direction of motion (the centripetal acceleration) and a parallel or tangential component that changes the speed
+=== general planar motion ===
+==== polar coordinates ====
+the above results can be derived perhaps more simply in polar coordinates and at the same time extended to general motion within a plane as shown next polar coordinates in the plane employ a radial unit vector u and an angular unit vector u as shown above a particle at position r is described by:
+where the notation is used to describe the distance of the path from the origin instead of r to emphasize that this distance is not fixed but varies with time the unit vector u travels with the particle and always points in the same direction as r(t) unit vector u also travels with the particle and stays orthogonal to u thus u and u form a local cartesian coordinate system attached to the particle and tied to the path traveled by the particle by moving the unit vectors so their tails coincide as seen in the circle at the left of the image above it is seen that u and u form a right-angled pair with tips on the unit circle that trace back and forth on the perimeter of this circle with the same angle (t) as r(t)
+when the particle moves its velocity is
+to evaluate the velocity the derivative of the unit vector u is needed because u is a unit vector its magnitude is fixed and it can change only in direction that is its change du has a component only perpendicular to u when the trajectory r(t) rotates an amount d u which points in the same direction as r(t) also rotates by d see image above therefore the change in u is
+or
+in a similar fashion the rate of change of u is found as with u u is a unit vector and can only rotate without changing size to remain orthogonal to u while the trajectory r(t) rotates an amount d u which is orthogonal to r(t) also rotates by d see image above therefore the change du is orthogonal to u and proportional to d (see image above):
+the image above shows the sign to be negative: to maintain orthogonality if du is positive with d then du must decrease
+substituting the derivative of u into the expression for velocity:
+to obtain the acceleration another time differentiation is done:
+substituting the derivatives of u and u the acceleration of the particle is:
+as a particular example if the particle moves in a circle of constant radius r then d/dt = 0 v = v and:
+where
+these results agree with those above for nonuniform circular motion see also the article on non-uniform circular motion if this acceleration is multiplied by the particle mass the leading term is the centripetal force and the negative of the second term related to angular acceleration is sometimes called the euler force
+for trajectories other than circular motion for example the more general trajectory envisioned in the image above the instantaneous center of rotation and radius of curvature of the trajectory are related only indirectly to the coordinate system defined by u and u and to the length |r(t)| =  consequently in the general case it is not straightforward to disentangle the centripetal and euler terms from the above general acceleration equation to deal directly with this issue local coordinates are preferable as discussed next
+==== local coordinates ====
+by local coordinates is meant a set of coordinates that travel with the particle and have orientation determined by the path of the particle unit vectors are formed as shown in the image at right both tangential and normal to the path this coordinate system sometimes is referred to as intrinsic or path coordinates or nt-coordinates for normal-tangential referring to these unit vectors these coordinates are a very special example of a more general concept of local coordinates from the theory of differential forms
+distance along the path of the particle is the arc length s considered to be a known function of time
+a center of curvature is defined at each position s located a distance (the radius of curvature) from the curve on a line along the normal un (s) the required distance (s) at arc length s is defined in terms of the rate of rotation of the tangent to the curve which in turn is determined by the path itself if the orientation of the tangent relative to some starting position is (s) then (s) is defined by the derivative d/ds:
+the radius of curvature usually is taken as positive (that is as an absolute value) while the curvature is a signed quantity
+a geometric approach to finding the center of curvature and the radius of curvature uses a limiting process leading to the osculating circle see image above
+using these coordinates the motion along the path is viewed as a succession of circular paths of ever-changing center and at each position s constitutes non-uniform circular motion at that position with radius  the local value of the angular rate of rotation then is given by:
+with the local speed v given by:
+as for the other examples above because unit vectors cannot change magnitude their rate of change is always perpendicular to their direction (see the left-hand insert in the image above):
+consequently the velocity and acceleration are:
+and using the chain-rule of differentiation:
+with the tangential acceleration
+in this local coordinate system the acceleration resembles the expression for nonuniform circular motion with the local radius (s) and the centripetal acceleration is identified as the second term
+extension of this approach to three dimensional space curves leads to the frenetserret formulas
+===== alternative approach =====
+looking at the image above one might wonder whether adequate account has been taken of the difference in curvature between (s) and (s + ds) in computing the arc length as ds = (s)d reassurance on this point can be found using a more formal approach outlined below this approach also makes connection with the article on curvature
+to introduce the unit vectors of the local coordinate system one approach is to begin in cartesian coordinates and describe the local coordinates in terms of these cartesian coordinates in terms of arc length s let the path be described as:
+then an incremental displacement along the path ds is described by:
+where primes are introduced to denote derivatives with respect to s the magnitude of this displacement is ds showing that:
+(eq 1)
+this displacement is necessarily tangent to the curve at s showing that the unit vector tangent to the curve is:
+while the outward unit vector normal to the curve is
+orthogonality can be verified by showing that the vector dot product is zero the unit magnitude of these vectors is a consequence of eq 1 using the tangent vector the angle of the tangent to the curve is given by:
+and
+the radius of curvature is introduced completely formally (without need for geometric interpretation) as:
+the derivative of can be found from that for sin:
+now:
+in which the denominator is unity with this formula for the derivative of the sine the radius of curvature becomes:
+where the equivalence of the forms stems from differentiation of eq 1:
+with these results the acceleration can be found:
+as can be verified by taking the dot product with the unit vectors ut(s) and un(s) this result for acceleration is the same as that for circular motion based on the radius  using this coordinate system in the inertial frame it is easy to identify the force normal to the trajectory as the centripetal force and that parallel to the trajectory as the tangential force from a qualitative standpoint the path can be approximated by an arc of a circle for a limited time and for the limited time a particular radius of curvature applies the centrifugal and euler forces can be analyzed on the basis of circular motion with that radius
+this result for acceleration agrees with that found earlier however in this approach the question of the change in radius of curvature with s is handled completely formally consistent with a geometric interpretation but not relying upon it thereby avoiding any questions the image above might suggest about neglecting the variation in 
+===== example: circular motion =====
+to illustrate the above formulas let x y be given as:
+then:
+which can be recognized as a circular path around the origin with radius  the position s = 0 corresponds to [ 0] or 3 o'clock to use the above formalism the derivatives are needed:
+with these results one can verify that:
+the unit vectors also can be found:
+which serve to show that s = 0 is located at position [ 0] and s = /2 at [0 ] which agrees with the original expressions for x and y in other words s is measured counterclockwise around the circle from 3 o'clock also the derivatives of these vectors can be found:
+to obtain velocity and acceleration a time-dependence for s is necessary for counterclockwise motion at variable speed v(t):
+where v(t) is the speed and t is time and s(t = 0) = 0 then:
+where it already is established that =  this acceleration is the standard result for non-uniform circular motion
+== see also ==
+== notes and references ==
+== further reading ==
+serway raymond a.; jewett john w (2004) physics for scientists and engineers (6th ed.) brooks/cole isbn 0-534-40842-7
+tipler paul (2004) physics for scientists and engineers: mechanics oscillations and waves thermodynamics (5th ed.) w h freeman isbn 0-7167-0809-4
+centripetal force vs centrifugal force from an online regents exam physics tutorial by the oswego city school district
+== external links ==
+notes from university of winnipeg
+notes from physics and astronomy hyperphysics at georgia state university; see also home page
+notes from britannica
+notes from physicsnet
+nasa notes by david p stern
+notes from u texas
+analysis of smart yo-yo
+the inuit yo-yo
+kinematic models for design digital library (kmoddl)
+movies and photos of hundreds of working mechanical-systems models at cornell university also includes an e-book library of classic texts on mechanical design and engineering

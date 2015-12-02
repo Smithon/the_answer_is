@@ -1,0 +1,60 @@
+electromagnetic induction production electromotive force across conductor exposed time varying magnetic fields michael faraday mathematically described faradays law induction generally credited discovery
+historyedit
+electromagnetic induction first discovered michael faraday made discovery public discovered independently joseph henry
+faradays first experimental demonstration august wrapped two wires around opposite sides iron ring torus arrangement similar modern toroidal transformer based assessment recently discovered properties electromagnets expected current started flow one wire sort wave would travel ring cause electrical effect opposite side plugged one wire galvanometer watched connected wire battery indeed saw transient current called wave electricity connected wire battery another disconnected induction due change magnetic flux occurred battery connected disconnected within two months faraday found several manifestations electromagnetic induction example saw transient currents quickly slid bar magnet coil wires generated steady dc current rotating copper disk near bar magnet sliding electrical lead faradays disk
+faraday explained electromagnetic induction using concept called lines force however scientists time widely rejected theoretical ideas mainly formulated mathematically exception james clerk maxwell used faradays ideas basis quantitative electromagnetic theory maxwells model time varying aspect electromagnetic induction expressed differential equation oliver heaviside referred faradays law even though slightly different faradays original formulation describe motional emf heavisides version see maxwellfaraday equation form recognized today group equations known maxwells equations
+heinrich lenz formulated law named describe flux circuit lenzs law gives direction induced emf current resulting electromagnetic induction elaborated upon examples
+following understanding brought laws many kinds device employing magnetic induction invented
+theoryedit
+law physics describing process electromagnetic induction known faradays law induction widespread version law states induced electromotive force closed circuit equal rate change magnetic flux enclosed circuit mathematically
+electromotive force emf b magnetic flux direction electromotive force given lenzs law version faradays law strictly holds closed circuit loop infinitely thin wire invalid circumstances different version maxwellfaraday equation discussed valid circumstances
+tightly wound coil wire composed n identical turns magnetic flux going resulting emf given
+faradays law induction makes use magnetic flux b hypothetical surface whose boundary wire loop since wire loop may moving write surface magnetic flux defined surface integral
+da element surface area moving surface b magnetic field bda vector dot product infinitesimal amount magnetic flux visual terms magnetic flux wire loop proportional number magnetic flux lines pass loop
+flux changesbecause b changes wire loop moved deformed bothfaradays law induction says wire loop acquires emf defined energy available unit charge travelled around wire loop equivalently voltage would measured cutting wire create open circuit attaching voltmeter leads
+according lorentz force law si units
+emf wire loop
+e electric field b magnetic field aka magnetic flux density magnetic induction d infinitesimal arc length along wire line integral evaluated along wire along curve coincident shape wire
+maxwellfaraday equationedit
+maxwellfaraday equation generalisation faradays law states timevarying magnetic field always accompanied spatiallyvarying nonconservative electric field vice versa maxwellfaraday equation
+si units curl operator er electric field br magnetic field fields generally functions position r time
+maxwellfaraday equation one four maxwells equations therefore plays fundamental role theory classical electromagnetism also written integral form kelvinstokes theorem
+indicated figure
+surface bounded closed contour
+e electric field b magnetic field
+d infinitesimal vector element contour
+da infinitesimal vector element surface direction orthogonal surface patch magnitude area infinitesimal patch surface
+d da sign ambiguity get correct sign righthand rule used explained article kelvinstokes theorem planar surface positive path element d curve defined righthand rule one points fingers right hand thumb points direction normal n surface
+integral around called path integral line integral
+applicationsedit
+principles electromagnetic induction applied many devices systems including
+electrical generatoredit
+emf generated faradays law induction due relative movement circuit magnetic field phenomenon underlying electrical generators permanent magnet moved relative conductor vice versa electromotive force created wire connected electrical load current flow thus electrical energy generated converting mechanical energy motion electrical energy example drum generator based upon figure right different implementation idea faradays disc shown simplified form right
+faradays disc example disc rotated uniform magnetic field perpendicular disc causing current flow radial arm due lorentz force interesting understand arises mechanical work necessary drive current generated current flows conducting rim magnetic field generated current ampres circuital law labeled induced b figure rim thus becomes electromagnet resists rotation disc example lenzs law far side figure return current flows rotating arm far side rim bottom brush bfield induced return current opposes applied bfield tending decrease flux side circuit opposing increase flux due rotation near side figure return current flows rotating arm near side rim bottom brush induced bfield increases flux side circuit opposing decrease flux due rotation thus sides circuit generate emf opposing rotation energy required keep disc moving despite reactive force exactly equal electrical energy generated plus energy wasted due friction joule heating inefficiencies behavior common generators converting mechanical energy electrical energy
+electrical transformeredit
+electric current loop wire changes changing current creates changing magnetic field second wire reach magnetic field experience change magnetic field change coupled magnetic flux d b d therefore electromotive force set second loop called induced emf transformer emf two ends loop connected electrical load current flow
+magnetic flow meteredit
+faradays law used measuring flow electrically conductive liquids slurries instruments called magnetic flow meters induced voltage generated magnetic field b due conductive liquid moving velocity v thus given
+distance electrodes magnetic flow meter
+eddy currentsedit
+conductors finite dimensions moving uniform magnetic field stationary within changing magnetic field currents induced within induced eddy currents undesirable since dissipate energy resistance conductor number methods employed control undesirable inductive effects
+electromagnets electric motors generators transformers use solid metal instead use thin sheets metal plate called laminations thin plates reduce parasitic eddy currents described
+inductive coils electronics typically use magnetic cores minimize parasitic current flow mixture metal powder plus resin binder hold shape binder prevents parasitic current flow powdered metal
+electromagnet laminationsedit
+eddy currents occur solid metallic mass rotated magnetic field outer portion metal cuts lines force inner portion hence induced electromotive force uniform tends set currents points greatest least potential eddy currents consume considerable amount energy often cause harmful rise temperature
+five laminations plates shown example show subdivision eddy currents practical use number laminations punchings ranges per inch brings eddy current loss one percent plates separated insulation voltage low natural rustoxide coating plates enough prevent current flow across laminations
+rotor approximately mm diameter dc motor used cd player note laminations electromagnet pole pieces used limit parasitic inductive losses
+parasitic induction within inductorsedit
+illustration solid copper bar inductor rotating armature passing tip pole piece n field magnet note uneven distribution lines force across bar inductor magnetic field concentrated thus stronger left edge copper bar ab field weaker right edge cd since two edges bar move velocity difference field strength across bar creates whorls current eddies within copper bar
+high current powerfrequency devices electric motors generators transformers use multiple small conductors parallel break eddy flows form within large solid conductors principle applied transformers used higher power frequency example used switchmode power supplies intermediate frequency coupling transformers radio receivers
+see alsoedit
+referencesedit
+readingedit
+maxwell james clerk treatise electricity magnetism vol ii chapter iii p oxford uk clarendon press isbn
+external linksedit
+magnet academy
+simple interactive java tutorial electromagnetic induction national high magnetic field laboratory
+r vega induction faradays law lenzs law highly animated lecture
+faradays law emc engineers
+tankersley mosca introducing faradays law
+free java simulation motional emf

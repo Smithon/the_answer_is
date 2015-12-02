@@ -1,0 +1,23 @@
+lipid ii is an amphipathic peptidoglycan precursor molecule involved in the synthesis of the cell wall of bacteria the molecule is named for its bactoprenol hydrocarbon chain that acts as a lipid anchor embedding itself in the bacterial cell membrane the translocation of lipid ii across the cell membrane is needed to incorporate its disaccharide-pentapeptide "building block" into peptidoglycan making lipid ii the target of several antibiotics
+== synthesis ==
+=== in peptidoglycan biosynthetic pathway ===
+lipid ii is the final intermediate in peptidoglycan biosynthesis it is formed when the transferase murg catalyzes addition of n-acetylglucosamine (glcnac) to lipid i resulting in a complete disaccharide-pentapeptide monomer with a bactoprenol-pyrophosphate anchor this occurs on the interior of the cytoplasmic membrane where the bactoprenol chain is embedded in the inner leaflet of the bilayer lipid ii is then flipped across the membrane to expose the disaccharide-pentapeptide monomer which is the pentapeptide stem consisting of l-ala--d-glu-m-dap-d-ala-d-ala between glcnac and n-acetylmuramic acid (murnac) for polymerization and cross-linking into peptidoglycan the remaining bactoprenol-pyrophosphate is then recycled to the interior of the membrane lipid ii has been referred to as the shuttle carrier of peptidoglycan building blocks the essential flippase that translocates lipid ii across the cytoplasmic membrane was only published in july 2014 after decades of searching
+=== artificial production ===
+a method for artificial production of lipid ii has been described for synthesis of lipidii from udp-murnac pentapeptide and undecaprenol the enzymes mray murg and undecaprenol kinase can be used
+== functions ==
+polymers of lipid ii form a linear glycan chain this reaction is catalyzed by the glycosyltransferases of family 51 (gt51) transpeptidases cross link the chains and form a net-like peptidoglycan macromolecule the resulting glycopeptide is essential part of the envelope of many bacteria lipidii was estimated to exist at a concentration of less than 2000 molecules per bacterial cell
+lipid ii biosynthesis is functional and essential even in cell wall less organisms like chlamydia and wolbachia it has been hypothesized that maintaining lipid ii biosynthesis reflects its role in prokaryotic cell division
+== antibiotics ==
+since lipid ii must be flipped outside the cytoplasmic membrane before incorporation of its disaccharide-peptide unit into peptidoglycan it is a relatively accessible target for antibiotics these antibiotics fight bacteria by either directly inhibiting the peptidoglycan synthesis or by binding to lipid ii to form destructive pores in the cytoplasmic membrane examples of antibiotics that target lipid ii include:
+vancomycin and its synthetic derivatives
+ramoplanin
+several lantibiotics including the common food preservative nisin
+teixobactin
+copsin
+human alpha defensins
+=== binding ===
+the d-ala-d-ala terminus is used by glycopeptide antibiotic vancomycin to inhibit lipid i- and lipid ii-consuming peptidoglycan synthesis; in vancomycin-resistant strains vancomycin cannot bind because a crucial hydrogen bond is lost oritavancin also uses the d-ala-d-ala terminus but in addition it uses the crossbridge and d-iso-glutamine in position 2 of the lipid ii stem peptide as present in a number of gram-positive pathogens like staphylococci and enterococci the increased binding of oritavancin through amidation of lipid ii can compensate for the loss of a crucial hydrogen bond in vancomycin-resistant strains
+lantibiotics recognize lipid-ii by its pyrophosphate
+lipid ii interacts with human alpha defensins a class of antimicrobial peptides such as defensin alpha 1 the latter has been used to describe and predict binding of synthetic low-molecular weight compounds created as possible therapeutic agents in treating of gram-positive infections
+penicillin-binding protein 4 exchanges d-amino acids into lipid ii (and lipid i) acting as a transpeptidase in vitro
+== references ==

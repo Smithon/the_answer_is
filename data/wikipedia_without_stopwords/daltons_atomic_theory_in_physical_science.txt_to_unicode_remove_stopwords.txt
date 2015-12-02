@@ -1,0 +1,160 @@
+chemical reaction chemical equilibrium state reactants products present concentrations tendency change time usually state results forward reaction proceeds rate reverse reaction reaction rates forward backward reactions generally zero equal thus net changes concentrations reactants products state known dynamic equilibrium
+historical introduction
+concept chemical equilibrium developed berthollet found chemical reactions reversible reaction mixture exist equilibrium rates forward backward reverse reactions equal following chemical equation arrows pointing ways indicate equilibrium b reactant chemical species product species stoichiometric coefficients respective reactants products
+equilibrium concentration position reaction said lie far right equilibrium nearly reactants consumed conversely equilibrium position said far left hardly product formed reactants
+guldberg waage building berthollets ideas proposed law mass action
+b active masses k k rate constants since equilibrium forward backward rates equal
+ratio rate constants also constant known equilibrium constant
+convention products form numerator however law mass action valid concerted onestep reactions proceed single transition state valid general rate equations general follow stoichiometry reaction guldberg waage proposed see example nucleophilic aliphatic substitution sn reaction hydrogen bromine form hydrogen bromide equality forward backward reaction rates however necessary condition chemical equilibrium though sufficient explain equilibrium occurs
+despite failure derivation equilibrium constant reaction indeed constant independent activities various species involved though depend temperature observed van hoff equation adding catalyst affect forward reaction reverse reaction way effect equilibrium constant catalyst speed reactions thereby increasing speed equilibrium reached
+although macroscopic equilibrium concentrations constant time reactions occur molecular level example case acetic acid dissolved water forming acetate hydronium ions
+chcoh ho chco ho
+proton may hop one molecule acetic acid water molecule acetate anion form another molecule acetic acid leaving number acetic acid molecules unchanged example dynamic equilibrium equilibria like rest thermodynamics statistical phenomena averages microscopic behavior
+le chateliers principle gives idea behavior equilibrium system changes reaction conditions occur dynamic equilibrium disturbed changing conditions position equilibrium moves partially reverse change example adding outside cause excess products system try counteract increasing reverse reaction pushing equilibrium point backward though equilibrium constant stay
+mineral acid added acetic acid mixture increasing concentration hydronium ion amount dissociation must decrease reaction driven left accordance principle also deduced equilibrium constant expression reaction
+ho increases chcoh must increase chco must decrease ho left solvent concentration remains high nearly constant
+quantitative version given reaction quotient
+j w gibbs suggested equilibrium attained gibbs free energy system minimum value assuming reaction carried constant temperature pressure means derivative gibbs energy respect reaction coordinate measure extent reaction occurred ranging zero reactants maximum products vanishes signalling stationary point derivative called reaction gibbs energy energy change corresponds difference chemical potentials reactants products composition reaction mixture criterion necessary sufficient mixture equilibrium liberation excess gibbs energy helmholtz energy constant volume reactions driving force composition mixture change equilibrium reached equilibrium constant related standard gibbs free energy change reaction equation
+r universal gas constant temperature
+reactants dissolved medium high ionic strength quotient activity coefficients may taken constant case concentration quotient kc
+concentration etc independent analytical concentration reactants reason equilibrium constants solutions usually determined media high ionic strength kc varies ionic strength temperature pressure volume likewise kp gases depends partial pressure constants easier measure encountered highschool chemistry courses
+thermodynamics
+constant temperature pressure one must consider gibbs free energy g constant temperature volume one must consider helmholtz free energy reaction constant internal energy volume one must consider entropy reaction
+constant volume case important geochemistry atmospheric chemistry pressure variations significant note reactants products standard state completely pure would reversibility equilibrium indeed would necessarily occupy disjoint volumes space mixing products reactants contributes large entropy known entropy mixing states containing equal mixture products reactants standard gibbs energy change together gibbs energy mixing determine equilibrium state
+article constant pressure case considered relation gibbs free energy equilibrium constant found considering chemical potentials
+constant temperature pressure gibbs free energy g reaction depends extent reaction greek letter xi decrease according second law thermodynamics means derivative g must negative reaction happens equilibrium derivative equal zero
+equilibrium
+general equilibrium system defined writing equilibrium equation reaction
+order meet thermodynamic condition equilibrium gibbs energy must stationary meaning derivative g respect extent reaction must zero shown case sum chemical potentials products equal sum corresponding reactants therefore sum gibbs energies reactants must equal sum gibbs energies products
+case partial molar gibbs energy chemical potential chemical potential reagent function activity reagent
+standard chemical potential
+definition gibbs energy equation interacts fundamental thermodynamic relation produce
+inserting equation gives stoichiometric coefficient differential denotes reaction occurring constant pressure temperature equations written
+gibbs free energy change reaction
+results
+substituting chemical potentials
+relationship becomes
+standard gibbs energy change reaction calculated using thermodynamical tables
+reaction quotient defined
+therefore
+equilibrium
+leading
+obtaining value standard gibbs energy change allows calculation equilibrium constant
+addition reactants products
+reactional system equilibrium
+modified activities constituents value reaction quotient changes becomes different equilibrium constant
+activity reagent increases
+reaction quotient decreases
+reaction shift right ie forward direction thus products form
+activity product increases
+reaction shift left ie reverse direction thus less products form
+note activities equilibrium constants dimensionless numbers
+treatment activity
+expression equilibrium constant rewritten product concentration quotient kc activity coefficient quotient
+concentration reagent etc possible principle obtain values activity coefficients solutions equations debyehckel equation extensions davies equation specific ion interaction theory pitzer equations may usedsoftware however always possible common practice assume constant use concentration quotient place thermodynamic equilibrium constant also general practice use term equilibrium constant instead accurate concentration quotient practice followed
+reactions gas phase partial pressure used place concentration fugacity coefficient place activity coefficient real world example making ammonia industry fugacity coefficients must taken account fugacity f product partial pressure fugacity coefficient chemical potential species gas phase given
+general expression defining equilibrium constant valid solution gas phases
+concentration quotients
+aqueous solution equilibrium constants usually determined presence inert electrolyte sodium nitrate nano potassium perchlorate kclo ionic strength solution given
+ci zi stands concentration ionic charge ion type sum taken n types charged species solution concentration dissolved salt much higher analytical concentrations reagents ions originating dissolved salt determine ionic strength ionic strength effectively constant since activity coefficients depend ionic strength activity coefficients species effectively independent concentration thus assumption constant justified concentration quotient simple multiple equilibrium constant
+however kc vary ionic strength measured series different ionic strengths value extrapolated zero ionic strength concentration quotient obtained manner known paradoxically thermodynamic equilibrium constant
+use published value equilibrium constant conditions ionic strength different conditions used determination value adjustedsoftware
+metastable mixtures
+mixture may appear tendency change though equilibrium example mixture o metastable kinetic barrier formation product
+o
+barrier overcome catalyst also present mixture contact process catalyst affect equilibrium concentrations
+likewise formation bicarbonate carbon dioxide water slow normal conditions
+co ho hco ho
+almost instantaneous presence catalytic enzyme carbonic anhydrase
+pure substances
+pure substances liquids solids involved equilibria activities appear equilibrium constant numerical values considered one
+applying general formula equilibrium constant specific case dilute solution acetic acid water one obtains
+chcoh ho chco ho
+concentrated solutions water considered pure liquid therefore activity one equilibrium constant expression therefore usually written
+particular case selfionization water
+water solvent activity one selfionization constant water defined
+perfectly legitimate write h hydronium ion concentration since state solvation proton constant dilute solutions affect equilibrium concentrations kw varies variation ionic strength andor temperature
+concentrations h oh independent quantities commonly oh replaced kwh equilibrium constant expressions would otherwise include hydroxide ion
+solids also appear equilibrium constant expression considered pure thus activities taken one example boudouard reaction
+equation without solid carbon written
+multiple equilibria
+consider case dibasic acid ha dissolved water mixture contain ha ha equilibrium split two steps one proton liberated
+k k examples stepwise equilibrium constants overall equilibrium constant product stepwise constants
+note constants dissociation constants products right hand side equilibrium expression dissociation products many systems preferable use association constants
+examples association constants clearly k d lg pk lg pk pk multiple equilibrium systems also see theory response reactions
+effect temperature
+effect changing temperature equilibrium constant given van hoff equation
+thus exothermic reactions h negative k decreases increase temperature endothermic reactions h positive k increases increase temperature alternative formulation
+first sight appears offer means obtaining standard molar enthalpy reaction studying variation k temperature practice however method unreliable error propagation almost always gives large errors values calculated way
+effect electric magnetic fields
+effect electric field equilibrium studied manfred eigen among others
+types equilibrium
+gas phase rocket engines
+industrial synthesis ammonia haberbosch process depicted right takes place succession equilibrium steps including adsorption processes
+atmospheric chemistry
+seawater natural waters chemical oceanography
+distribution two phases
+logddistribution coefficient important pharmaceuticals lipophilicity significant property drug
+liquidliquid extraction ion exchange chromatography
+solubility product
+uptake release oxygen haemoglobin blood
+acidbase equilibria acid dissociation constant hydrolysis buffer solutions indicators acidbase homeostasis
+metalligand complexation sequestering agents chelation therapy mri contrast reagents schlenk equilibrium
+adduct formation hostguest chemistry supramolecular chemistry molecular recognition dinitrogen tetroxide
+certain oscillating reactions approach equilibrium asymptotically form damped oscillation
+related nernst equation electrochemistry gives difference electrode potential function redox concentrations
+molecules side equilibrium able react irreversibly secondary reactions final product ratio determined according curtinhammett principle
+applications terms stability constant formation constant binding constant affinity constant associationdissociation constant used biochemistry common give units binding constants serve define concentration units used constants value determined
+composition mixture
+equilibrium formation adduct composition mixture number ways composition mixture calculated example see ice table traditional method calculating ph solution weak acid
+three approaches general calculation composition mixture equilibrium
+basic approach manipulate various equilibrium constants desired concentrations expressed terms measured equilibrium constants equivalent measuring chemical potentials initial conditions
+minimize gibbs energy system
+satisfy equation mass balance equations mass balance simply statements demonstrate total concentration reactant must constant law conservation mass
+massbalance equations
+general calculations rather complicated complex instance case dibasic acid ha dissolved water two reactants specified conjugate base proton h following equations massbalance could apply equally well base diaminoethane case base designated reactant
+ta total concentration species note customary omit ionic charges writing using equations
+equilibrium constants known total concentrations specified two equations two unknown free concentrations h follows fact ha ah ha ah oh kwh
+concentrations complexes calculated free concentrations equilibrium constants general expressions applicable systems two reagents b would
+easy see extended three reagents
+polybasic acids
+composition solutions containing reactants h easy calculate function ph h known free concentration calculated massbalance equation
+diagram alongside shows example hydrolysis aluminium lewis acid alaq shows species concentrations m solution aluminium salt function ph concentration shown percentage total aluminium
+solution precipitation
+diagram illustrates point precipitate one main species solution equilibrium may formed ph main species present m solution al aluminium hydroxides aloh aloh aloh raising ph aloh precipitates solution occurs aloh large lattice energy ph rises aloh comes solution example le chateliers principle action increasing concentration hydroxide ion causes aluminium hydroxide precipitate removes hydroxide solution hydroxide concentration becomes sufficiently high soluble aluminate aloh formed
+another common instance precipitation occurs metal cation interacts anionic ligand form electrically neutral complex complex hydrophobic precipitate water occurs nickel ion ni dimethylglyoxime dmgh case lattice energy solid particularly large greatly exceeds energy solvation molecule nidmgh
+minimization free energy
+equilibrium g minimum
+closed system particles may enter leave although may combine various ways total number atoms element remain constant means minimization must subjected constraints
+number atoms element molecule j bi total number atoms element constant since system closed total k types atoms system k equations
+standard problem optimisation known constrained minimisation common method solving using method lagrange multipliers also known undetermined multipliers though methods may used
+define
+lagrange multipliers one element allows treated independently shown using tools multivariate calculus equilibrium condition given
+proof see lagrange multipliers
+set mk equations mk unknowns may therefore solved equilibrium concentrations long chemical potentials known functions concentrations given temperature pressure see thermodynamic databases pure substances
+method calculating equilibrium chemical concentrations useful systems large number different molecules use k atomic element conservation equations mass constraint straightforward replaces use stoichiometric coefficient equations
+symbol
+unicode suitable symbol registered ucc rightwards harpoon leftwards harpoon typed microsoft windows alt c c numeric keypad linux distributions ctrl shift u c c enter
+see also
+acidosis
+alkalosis
+arterial blood gas
+autocatalytic reactions order creation
+benesihildebrand method
+determination equilibrium constants
+equilibrium constant
+hendersonhasselbalch equation
+isotope fractionation
+michaelismenten kinetics
+pco
+ph
+pka
+redox equilibria
+steady state chemistry
+thermodynamic databases pure substances
+references
+reading
+f van zeggeren sh storey computation chemical equilibria cambridge university press mainly concerned gasphase equilibria
+d j leggett editor computational methods determination formation constants plenum press
+ae martell rj motekaitis determination use stability constants wileyvch
+p gans stability constants determination uses interactive cd protonic software leeds

@@ -1,0 +1,103 @@
+physics interference phenomenon two waves superpose form resultant wave greater lower amplitude interference usually refers interaction waves correlated coherent either come source nearly frequency interference effects observed types waves example light radio acoustic surface water waves matter waves
+mechanism
+principle superposition waves states two propagating waves type incident point total displacement point equal pointwise sum displacements individual waves crest wave meets crest another wave frequency point magnitude displacement sum individual magnitudes constructive interference crest one wave meets trough another wave magnitude displacements equal difference individual magnitudes known destructive interference
+constructive interference occurs phase difference waves multiple whereas destructive interference occurs difference odd multiple difference phases intermediate two extremes magnitude displacement summed waves lies minimum maximum values
+consider example happens two identical stones dropped still pool water different locations stone generates circular wave propagating outwards point stone dropped two waves overlap net displacement particular point sum displacements individual waves points phase produce maximum displacement places waves antiphase net displacement points thus parts surface stationarythese seen figure right stationary bluegreen lines radiating center
+two plane waves
+simple form interference pattern obtained two plane waves frequency intersect angle interference essentially energy redistribution process energy lost destructive interference regained constructive interference one wave travelling horizontally travelling downwards angle first wave assuming two waves phase point b relative phase changes along xaxis phase difference point given
+seen two waves phase
+half cycle phase
+constructive interference occurs waves phase destructive interference half cycle phase thus interference fringe pattern produced separation maxima
+df known fringe spacing fringe spacing increases increase wavelength decreasing angle
+fringes observed wherever two waves overlap fringe spacing uniform throughout
+two spherical waves
+point source produces spherical wave light two point sources overlaps interference pattern maps way phase difference two waves varies space depends wavelength separation point sources figure right shows interference two spherical waves wavelength increases top bottom distance sources increases left right
+plane observation far enough away fringe pattern series almost straight lines since waves almost planar
+multiple beams
+interference occurs several waves added together provided phase differences remain constant observation time
+sometimes desirable several waves frequency amplitude sum zero interfere destructively cancel principle behind example phase power diffraction grating cases result achieved uniform spacing phases
+easy see set waves cancel amplitude phases spaced equally angle using phasors wave represented waves
+show
+one merely assumes converse multiplies sides
+fabryprot interferometer uses interference multiple reflections
+diffraction grating considered multiplebeam interferometer since peaks produces generated interference light transmitted elements grating see interference vs diffraction discussion
+optical interference
+frequency light waves hz high detected currently available detectors possible observe intensity optical interference pattern intensity light given point proportional square average amplitude wave expressed mathematically follows displacement two waves point r
+represents magnitude displacement represents phase represents angular frequency
+displacement summed waves
+intensity light r given
+expressed terms intensities individual waves
+thus interference pattern maps difference phase two waves maxima occurring phase difference multiple two beams equal intensity maxima four times bright individual beams minima zero intensity
+two waves must polarization give rise interference fringes since possible waves different polarizations cancel one another add together instead waves different polarization added together give rise wave different polarization state
+light source requirements
+discussion assumes waves interfere one another monochromatic ie single frequencythis requires infinite time however either practical necessary two identical waves finite duration whose frequency fixed period give rise interference pattern overlap two identical waves consist narrow spectrum frequency waves finite duration give series fringe patterns slightly differing spacings provided spread spacings significantly less average fringe spacing fringe pattern observed time two waves overlap
+conventional light sources emit waves differing frequencies different times different points source light split two waves recombined individual light wave may generate interference pattern half individual fringe patterns generated different phases spacings normally overall fringe pattern observable however singleelement light sources sodium mercuryvapor lamps emission lines quite narrow frequency spectra spatially colour filtered split two waves superimposed generate interference fringes interferometry prior invention laser done using sources wide range successful applications
+laser beam generally approximates much closely monochromatic source much straightforward generate interference fringes using laser ease interference fringes observed laser beam sometimes cause problems stray reflections may give spurious interference fringes result errors
+normally single laser beam used interferometry though interference observed using two independent lasers whose frequencies sufficiently matched satisfy phase requirements
+also possible observe interference fringes using white light white light fringe pattern considered made spectrum fringe patterns slightly different spacing fringe patterns phase centre fringes increase size wavelength decreases summed intensity show three four fringes varying colour young describes elegantly discussion two slit interference fine examples white light fringes seen since white light fringes obtained two waves travelled equal distances light source useful interferometry allow zero path difference fringe identified
+optical arrangements
+generate interference fringes light source divided two waves recombined traditionally interferometers classified either amplitudedivision wavefrontdivision systems
+amplitudedivision system beam splitter used divide light two beams travelling different directions superimposed produce interference pattern michelson interferometer machzehnder interferometer examples amplitudedivision systems
+wavefrontdivision systems wave divided spaceexamples youngs double slit interferometer lloyds mirror
+interference also seen everyday phenomena iridescence structural coloration example colours seen soap bubble arise interference light reflecting front back surfaces thin soap film depending thickness film different colours interfere constructively destructively
+applications
+optical interferometry
+interferometry played important role advancement physics also wide range applications physical engineering measurement
+thomas youngs double slit interferometer demonstrated interference fringes two small holes illuminated light another small hole illuminated sunlight young able estimate wavelength different colours spectrum spacing fringes experiment played major role general acceptance wave theory light quantum mechanics experiment considered demonstrate inseparability wave particle natures light quantum particles waveparticle duality richard feynman fond saying quantum mechanics gleaned carefully thinking implications single experiment
+results michelsonmorley experiment generally considered first strong evidence theory luminiferous aether favor special relativity
+interferometry used defining calibrating length standards metre defined distance two marks platinumiridium bar michelson benot used interferometry measure wavelength red cadmium line new standard also showed could used length standard sixty years later metre new si system defined equal wavelengths orangered emission line electromagnetic spectrum krypton atom vacuum definition replaced defining metre distance travelled light vacuum specific time interval interferometry still fundamental establishing calibration chain length measurement
+interferometry used calibration slip gauges called gauge blocks us coordinatemeasuring machines also used testing optical components
+radio interferometry
+technique called astronomical interferometry developed astronomical radio interferometers usually consist either arrays parabolic dishes twodimensional arrays omnidirectional antennas telescopes array widely separated usually connected together using coaxial cable waveguide optical fiber type transmission line interferometry increases total signal collected primary purpose vastly increase resolution process called aperture synthesis technique works superposing interfering signal waves different telescopes principle waves coincide phase add two waves opposite phases cancel creates combined telescope equivalent resolution though sensitivity single antenna whose diameter equal spacing antennas furthest apart array
+acoustic interferometry
+acoustic interferometer instrument measuring physical characteristics sound wave gas liquid may used measure velocity wavelength absorption impedance vibrating crystal creates ultrasonic waves radiated medium waves strike reflector placed parallel crystal waves reflected back source measured
+quantum interference
+system state wavefunction described dirac braket notation
+specify different quantum alternatives available technically form eigenvector basis probability amplitude coefficients complex numbers
+probability observing system making transition quantum leap state new state square modulus scalar inner product two states
+defined similarly coefficients final state system complex conjugate etc
+lets consider situation classically imagine system transited via intermediate state would classically expect probability twostep transition sum possible intermediate steps would
+classical quantum derivations transition probability differ presence quantum case extra terms extra quantum terms represent interference different intermediate alternatives consequently known quantum interference terms cross terms purely quantum effect consequence nonadditivity probabilities quantum alternatives
+interference terms vanish via mechanism quantum decoherence intermediate state measured coupled environment
+see also
+active noise control
+beat acoustics
+coherence physics
+diffraction
+doubleslit experiment
+youngs double slit interferometer
+haidinger fringes
+hongoumandel effect
+interference lithography
+interferometer
+list types interferometers
+lloyds mirror
+moir pattern
+newtons rings
+thinfilm interference
+optical feedback
+retroreflector
+upfade
+multipath interference
+interflow interference
+intraflow interference
+biolayer interferometry
+nslit interferometric equation
+references
+swimming pool interferometry eso picture week retrieved january
+wh steel interferometry cambridge university press cambridge
+r l pfleegor l mandel interference independent photon beams phys rev volume issue pp
+b max born emil wolf principles optics cambridge university press cambridge
+greene brian elegant universe superstrings hidden dimensions quest ultimate theory new york ww norton pp isbn
+rs longhurst geometrical physical optics longmans london
+wojciech h zurek decoherence transition quantum classical physics today pp
+wojciech h zurek decoherence einselection quantum origins classical reviews modern physics
+external links
+easy javascript simulation model one dimensional wave interference
+expressions position fringe spacing
+java demonstration interference
+java simulation interference water waves
+java simulation interference water waves
+flash animations demonstrating interference
+lissajous curves interactive simulation graphical representations musical intervals beats interference vibrating strings
+animations demonstrating optical interference qed

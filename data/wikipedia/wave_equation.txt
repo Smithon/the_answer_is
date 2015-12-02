@@ -1,0 +1,190 @@
+the wave equation is an important second-order linear partial differential equation for the description of wavesas they occur in physicssuch as sound waves light waves and water waves it arises in fields like acoustics electromagnetics and fluid dynamics
+historically the problem of a vibrating string such as that of a musical instrument was studied by jean le rond d'alembert leonhard euler daniel bernoulli and joseph-louis lagrange in 1746 dalembert discovered the one-dimensional wave equation and within ten years euler discovered the three-dimensional wave equation
+== introduction ==
+the wave equation is a hyperbolic partial differential equation it typically concerns a time variable t one or more spatial variables x1 x2  xn and a scalar function u = u (x1 x2  xn; t) whose values could model for example the mechanical displacement of a wave the wave equation for u is
+where 2 is the (spatial) laplacian and c is a fixed constant
+solutions of this equation describe propagation of disturbances out from the region at a fixed speed in one or in all spatial directions as do physical waves from plane or localized sources; the constant c is identified with the propagation speed of the wave this equation is linear therefore the sum of any two solutions is again a solution: in physics this property is called the superposition principle
+the wave equation alone does not specify a physical solution; a unique solution is usually obtained by setting a problem with further conditions such as initial conditions which prescribe the amplitude and phase of the wave another important class of problems occurs in enclosed spaces specified by boundary conditions for which the solutions represent standing waves or harmonics analogous to the harmonics of musical instruments
+the wave equation and modifications of it are also found in elasticity quantum mechanics plasma physics and general relativity
+== scalar wave equation in one space dimension ==
+the wave equation in one space dimension can be written as follows:
+this equation is typically described as having only one space dimension "x" because the only other independent variable is the time "t" nevertheless the dependent variable "u" may represent a second space dimension if for example the displacement "u" takes place in y-direction as in the case of a string that is located in the x-y plane
+=== derivation of the wave equation ===
+the wave equation in one space dimension can be derived in a variety of different physical settings most famously it can be derived for the case of a string that is vibrating in a two-dimensional plane with each of its elements being pulled in opposite directions by the force of tension
+another physical setting for derivation of the wave equation in one space dimension utilizes hooke's law in the theory of elasticity hooke's law is an approximation for certain materials stating that the amount by which a material body is deformed (the strain) is linearly related to the force causing the deformation (the stress)
+==== from hooke's law ====
+the wave equation in the one-dimensional case can be derived from hooke's law in the following way: imagine an array of little weights of mass m interconnected with massless springs of length h  the springs have a spring constant of k:
+here the dependent variable u(x) measures the distance from the equilibrium of the mass situated at x so that u(x) essentially measures the magnitude of a disturbance (i.e strain) that is traveling in an elastic material the forces exerted on the mass m at the location x+h are:
+the equation of motion for the weight at the location x+h is given by equating these two forces:
+where the time-dependence of u(x) has been made explicit
+if the array of weights consists of n weights spaced evenly over the length l = nh of total mass m = nm and the total spring constant of the array k = k/n we can write the above equation as:
+taking the limit n  h 0 and assuming smoothness one gets:
+(kl2)/m is the square of the propagation speed in this particular case
+==== stress pulse in a bar ====
+in the case of a stress pulse propagating through a beam the beam acts much like an infinite number of springs in series and can be taken as an extension of the equation derived for hooke's law a beam of constant cross section made from a linear elastic material has a stiffness k given by
+where a is the cross sectional area and e is the young's modulus of the material the wave equation becomes
+al is equal to the volume of the beam and therefore : where is the density of the material the wave equation reduces to
+the speed of a stress wave in a beam is therefore
+=== general solution ===
+==== algebraic approach ====
+the one-dimensional wave equation is unusual for a partial differential equation in that a relatively simple general solution may be found defining new variables:
+changes the wave equation into
+which leads to the general solution
+or equivalently:
+in other words solutions of the 1d wave equation are sums of a right traveling function f and a left traveling function g "traveling" means that the shape of these individual arbitrary functions with respect to x stays constant however the functions are translated left and right with time at the speed c this was derived by jean le rond d'alembert
+another way to arrive at this result is to note that the wave equation may be "factored":
+and therefore:
+these last two equations are advection equations one left traveling and one right both with constant speed c
+for an initial value problem the arbitrary functions f and g can be determined to satisfy initial conditions:
+the result is d'alembert's formula:
+in the classical sense if f(x) ck and g(x) ck1 then u(t x) ck however the waveforms f and g may also be generalized functions such as the delta-function in that case the solution may be interpreted as an impulse that travels to the right or the left
+the basic wave equation is a linear differential equation and so it will adhere to the superposition principle this means that the net displacement caused by two or more waves is the sum of the displacements which would have been caused by each wave individually in addition the behavior of a wave can be analyzed by breaking up the wave into components e.g the fourier transform breaks up a wave into sinusoidal components
+==== plane wave eigenmodes ====
+another way to solve for the solutions to the one-dimensional wave equation is to first analyze its frequency eigenmodes a so-called eigenmode is a solution that oscillates in time with a well-defined constant angular frequency  with which the temporal part of the wave function for such eigenmode takes a specific form  the rest of the wave function is then only dependent on the spatial variable  hence amounting to separation of variables now writing the wave function as
+we can obtain an ordinary differential equation for the spatial part
+therefore:
+which is precisely an eigenvalue equation for  hence the name eigenmode it has the well-known plane wave solutions
+with wave number 
+the total wave function for this eigenmode is then the linear combination
+where complex numbers depend in general on any initial and boundary conditions of the problem
+eigenmodes are useful in constructing a full solution to the wave equation because each of them evolves in time trivially with the phase factor  so that a full solution can be decomposed into an eigenmode expansion
+or in terms of the plane waves
+which is exactly in the same form as in the algebraic approach functions are known as the fourier component and are determined by initial and boundary conditions this is a so-called frequency-domain method alternative to direct time-domain propagations such as fdtd method of the wave packet  which is complete for representing waves in absence of time dilations completeness of the fourier expansion for representing waves in the presence of time dilations has been challenged by chirp wave solutions allowing for time variation of  the chirp wave solutions seem particularly implied by very large but previously inexplicable radar residuals in the flyby anomaly and differ from the sinusoidal solutions in being receivable at any distance only at proportionally shifted frequencies and time dilations corresponding to past chirp states of the source
+== scalar wave equation in three space dimensions ==
+a solution of the initial-value problem for the wave equation in three space dimensions can be obtained from the corresponding solution for a spherical wave the result can then be also used to obtain the same solution in two space dimensions
+=== spherical waves ===
+the wave equation can be solved using the technique of separation of variables to obtain a solution with constant frequencies let us first fourier transform the wave equation in time as
+so we get
+this is the helmholtz equation and can be solved using separation of variables the solution to the angular part of the helmholtz equation is given by spherical harmonics and the radial equation now becomes
+here and the complete solution is now given by
+where and are the spherical hankel functions to gain a better understanding of the nature of these spherical waves let us go back and look at the case when  in this case there is no angular dependence and the amplitude depends only on the radial distance i.e  in this case the wave equation reduces to
+this equation can be rewritten as
+where the quantity satisfies the one-dimensional wave equation therefore there are solutions in the form
+where f and g are general solutions to the one-dimensional wave equation and can be interpreted as respectively an outgoing or incoming spherical wave such waves are generated by a point source and they make possible sharp signals whose form is altered only by a decrease in amplitude as r increases (see an illustration of a spherical wave on the top right) such waves exist only in cases of space with odd dimensions
+for physical examples of non-spherical wave solutions to the 3d wave equation that do possess angular dependence see dipole radiation
+==== monochromatic spherical wave ====
+although the word "monochromatic" is not exactly accurate since it refers to light or electromagnetic radiation with well-defined frequency the spirit is to discover the eigenmode of the wave equation in three-dimensions following the derivation in the previous section on plane wave eigenmode if we again restrict our solutions to spherical waves that oscillate in time with well-defined constant angular frequency  then the transformed function has simply plane wave solutions
+or
+from this we can observe that the peak intensity of the spherical wave oscillation characterized as the squared wave amplitude
+drops at the rate proportional to  an example of the inverse-square law
+=== solution of a general initial-value problem ===
+the wave equation is linear in u and it is left unaltered by translations in space and time therefore we can generate a great variety of solutions by translating and summing spherical waves let (,,) be an arbitrary function of three independent variables and let the spherical wave form f be a delta-function: that is let f be a weak limit of continuous functions whose integral is unity but whose support (the region where the function is non-zero) shrinks to the origin let a family of spherical waves have center at (,,) and let r be the radial distance from that point thus
+if u is a superposition of such waves with weighting function  then
+the denominator 4c is a convenience
+from the definition of the delta-function u may also be written as
+where   and are coordinates on the unit sphere s and is the area element on s this result has the interpretation that u(t,x) is t times the mean value of on a sphere of radius ct centered at x:
+it follows that
+the mean value is an even function of t and hence if
+then
+these formulas provide the solution for the initial-value problem for the wave equation they show that the solution at a given point p given (t,x,y,z) depends only on the data on the sphere of radius ct that is intersected by the light cone drawn backwards from p it does not depend upon data on the interior of this sphere thus the interior of the sphere is a lacuna for the solution this phenomenon is called huygens' principle it is true for odd numbers of space dimension where for one dimension the integration is performed over the boundary of an interval with respect to the dirac measure it is not satisfied in even space dimensions the phenomenon of lacunas has been extensively investigated in atiyah bott and grding (1970 1973)
+== scalar wave equation in two space dimensions ==
+in two space dimensions the wave equation is
+we can use the three-dimensional theory to solve this problem if we regard u as a function in three dimensions that is independent of the third dimension if
+then the three-dimensional solution formula becomes
+where and are the first two coordinates on the unit sphere and d is the area element on the sphere this integral may be rewritten as an integral over the disc d with center (x,y) and radius ct:
+it is apparent that the solution at (t,x,y) depends not only on the data on the light cone where
+but also on data that are interior to that cone
+== scalar wave equation in general dimension and kirchhoff's formulae ==
+we want to find solutions to uttu = 0 for u : rn (0 ) r with u(x 0) = g(x) and ut(x 0) = h(x) see evans for more details
+=== odd dimensions ===
+assume n 3 is an odd integer and g cm+1(rn) h cm(rn) for m = (n+1)/2 let and let
+then
+u c2(rn [0 ))
+uttu = 0 in rn (0 )
+=== even dimensions ===
+assume n 2 is an even integer and g cm+1(rn) h cm(rn) for m = (n+2)/2 let and let
+then
+u c2(rn [0 ))
+uttu = 0 in rn (0 )
+== problems with boundaries ==
+=== one space dimension ===
+==== the sturm-liouville formulation ====
+a flexible string that is stretched between two points x = 0 and x = l satisfies the wave equation for t > 0 and 0 < x < l on the boundary points u may satisfy a variety of boundary conditions a general form that is appropriate for applications is
+where a and b are non-negative the case where u is required to vanish at an endpoint is the limit of this condition when the respective a or b approaches infinity the method of separation of variables consists in looking for solutions of this problem in the special form
+a consequence is that
+the eigenvalue must be determined so that there is a non-trivial solution of the boundary-value problem
+this is a special case of the general problem of sturmliouville theory if a and b are positive the eigenvalues are all positive and the solutions are trigonometric functions a solution that satisfies square-integrable initial conditions for u and ut can be obtained from expansion of these functions in the appropriate trigonometric series
+==== investigation by numerical methods ====
+approximating the continuous string with a finite number of equidistant mass points one gets the following physical model:
+if each mass point has the mass m the tension of the string is f the separation between the mass points is x and ui i = 1  n are the offset of these n points from their equilibrium points (i.e their position on a straight line between the two attachment points of the string) the vertical component of the force towards point i+1 is
+and the vertical component of the force towards point i1 is
+taking the sum of these two forces and dividing with the mass m one gets for the vertical motion:
+as the mass density is
+this can be written
+the wave equation is obtained by letting x 0 in which case ui(t) takes the form u(x t) where u(x t) is continuous function of two variables takes the form and
+but the discrete formulation (3) of the equation of state with a finite number of mass point is just the suitable one for a numerical propagation of the string motion the boundary condition
+where l is the length of the string takes in the discrete formulation the form that for the outermost points u1 and un the equation of motion are
+and
+while for 1 < i < n
+where
+if the string is approximated with 100 discrete mass points one gets the 100 coupled second order differential equations (5) (6) and (7) or equivalently 200 coupled first order differential equations
+propagating these up to the times
+using an 8th order multistep method the 6 states displayed in figure 2 are found:
+the red curve is the initial state at time zero at which the string is "let free" in a predefined shape with all  the blue curve is the state at time  i.e after a time that corresponds to the time a wave that is moving with the nominal wave velocity would need for one fourth of the length of the string
+figure 3 displays the shape of the string at the times  the wave travels in direction right with the speed without being actively constraint by the boundary conditions at the two extremes of the string the shape of the wave is constant i.e the curve is indeed of the form f(xct)
+figure 4 displays the shape of the string at the times  the constraint on the right extreme starts to interfere with the motion preventing the wave to raise the end of the string
+figure 5 displays the shape of the string at the times when the direction of motion is reversed the red green and blue curves are the states at the times while the 3 black curves correspond to the states at times with the wave starting to move back towards left
+figure 6 and figure 7 finally display the shape of the string at the times and  the wave now travels towards left and the constraints at the end points are not active any more when finally the other extreme of the string the direction will again be reversed in a way similar to what is displayed in figure 6
+=== several space dimensions ===
+the one-dimensional initial-boundary value theory may be extended to an arbitrary number of space dimensions consider a domain d in m-dimensional x space with boundary b then the wave equation is to be satisfied if x is in d and t > 0 on the boundary of d the solution u shall satisfy
+where n is the unit outward normal to b and a is a non-negative function defined on b the case where u vanishes on b is a limiting case for a approaching infinity the initial conditions are
+where f and g are defined in d this problem may be solved by expanding f and g in the eigenfunctions of the laplacian in d which satisfy the boundary conditions thus the eigenfunction v satisfies
+in d and
+on b
+in the case of two space dimensions the eigenfunctions may be interpreted as the modes of vibration of a drumhead stretched over the boundary b if b is a circle then these eigenfunctions have an angular component that is a trigonometric function of the polar angle  multiplied by a bessel function (of integer order) of the radial component further details are in helmholtz equation
+if the boundary is a sphere in three space dimensions the angular components of the eigenfunctions are spherical harmonics and the radial components are bessel functions of half-integer order
+== inhomogeneous wave equation in one dimension ==
+the inhomogeneous wave equation in one dimension is the following:
+with initial conditions given by
+the function s(x t) is often called the source function because in practice it describes the effects of the sources of waves on the medium carrying them physical examples of source functions include the force driving a wave on a string or the charge or current density in the lorenz gauge of electromagnetism
+one method to solve the initial value problem (with the initial values as posed above) is to take advantage of a special property of the wave equation in an odd number of space dimensions namely that its solutions respect causality that is for any point (xi ti) the value of u(xi ti) depends only on the values of f(xi+cti) and f(xicti) and the values of the function g(x) between (xicti) and (xi+cti) this can be seen in d'alembert's formula stated above where these quantities are the only ones that show up in it physically if the maximum propagation speed is c then no part of the wave that can't propagate to a given point by a given time can affect the amplitude at the same point and time
+in terms of finding a solution this causality property means that for any given point on the line being considered the only area that needs to be considered is the area encompassing all the points that could causally affect the point being considered denote the area that casually affects point (xi ti) as rc suppose we integrate the inhomogeneous wave equation over this region
+to simplify this greatly we can use green's theorem to simplify the left side to get the following:
+the left side is now the sum of three line integrals along the bounds of the causality region these turn out to be fairly easy to compute
+in the above the term to be integrated with respect to time disappears because the time interval involved is zero thus dt = 0
+for the other two sides of the region it is worth noting that xct is a constant namingly xicti where the sign is chosen appropriately using this we can get the relation dxcdt = 0 again choosing the right sign:
+and similarly for the final boundary segment:
+adding the three results together and putting them back in the original integral:
+solving for u(xi ti) we arrive at
+in the last equation of the sequence the bounds of the integral over the source function have been made explicit looking at this solution which is valid for all choices (xi ti) compatible with the wave equation it is clear that the first two terms are simply d'alembert's formula as stated above as the solution of the homogeneous wave equation in one dimension the difference is in the third term the integral over the source
+== other coordinate systems ==
+in three dimensions the wave equation when written in elliptic cylindrical coordinates may be solved by separation of variables leading to the mathieu differential equation
+== further generalizations ==
+=== elastic waves ===
+the elastic wave equation in three dimensions describes the propagation of waves in an isotropic homogeneous elastic medium most solid materials are elastic so this equation describes such phenomena as seismic waves in the earth and ultrasonic waves used to detect flaws in materials while linear this equation has a more complex form than the equations given above as it must account for both longitudinal and transverse motion:
+where:
+and are the so-called lam parameters describing the elastic properties of the medium
+is the density
+f is the source function (driving force)
+and u is the displacement vector
+note that in this equation both force and displacement are vector quantities thus this equation is sometimes known as the vector wave equation as an aid to understanding the reader will observe that if f and u are set to zero this becomes (effectively) maxwell's equation for the propagation of the electric field e which has only transverse waves
+=== nonlinear dispersion relation ===
+in dispersive wave phenomena the speed of wave propagation varies with the wavelength of the wave which is reflected by a dispersion relation
+where is the angular frequency and k is the wavevector describing plane wave solutions for light waves the dispersion relation is = c |k| but in general the constant speed c gets replaced by a variable phase velocity:
+== see also ==
+acoustic attenuation
+acoustic wave equation
+bateman transform
+electromagnetic wave equation
+helmholtz equation
+inhomogeneous electromagnetic wave equation
+laplace operator
+mathematics of oscillation
+maxwell's equations
+schrdinger equation
+standing wave
+vibrations of a circular membrane
+wheelerfeynman absorber theory
+== notes ==
+== references ==
+m f atiyah r bott l garding "lacunas for hyperbolic differential operators with constant coefficients i" acta math. 124 (1970) 109189
+m.f atiyah r bott and l garding "lacunas for hyperbolic differential operators with constant coefficients ii" acta math. 131 (1973) 145206
+r courant d hilbert methods of mathematical physics vol ii interscience (wiley) new york 1962
+l evans "partial differential equations" american mathematical society providence 1998
+"linear wave equations" eqworld: the world of mathematical equations
+"nonlinear wave equations" eqworld: the world of mathematical equations
+william c lane "misn-0-201 the wave equation and its solutions" project physnet
+== external links ==
+nonlinear wave equations by stephen wolfram and rob knapp nonlinear wave equation explorer by stephen wolfram and wolfram demonstrations project
+mathematical aspects of wave equations are discussed on the dispersive pde wiki
+graham w griffiths and william e schiesser (2009) linear and nonlinear waves scholarpedia 4(7):4308 doi:10.4249/scholarpedia.4308

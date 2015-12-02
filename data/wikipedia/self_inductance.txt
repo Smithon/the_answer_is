@@ -1,0 +1,130 @@
+in electromagnetism and electronics inductance is the property of an electrical conductor by which a change in current flowing through it induces an electromotive force in both the conductor itself and in any nearby conductors by mutual inductance
+these effects are derived from two fundamental observations of physics: a steady current creates a steady magnetic field described by oersted's law and a time-varying magnetic field induces an electromotive force in nearby conductors which is described by faraday's law of induction according to lenz's law a changing electric current through a circuit that contains inductance induces a proportional voltage which opposes the change in current (self-inductance) the varying field in this circuit may also induce an e.m.f in neighbouring circuits (mutual inductance)
+the term inductance was coined by oliver heaviside in 1886 it is customary to use the symbol l for inductance in honour of the physicist heinrich lenz in the si system the measurement unit for inductance is the henry with the unit symbol h named in honor of joseph henry who discovered inductance independently of but not before faraday
+== circuit analysisedit ==
+an electronic component that is intended to add inductance to a circuit is called an inductor inductors are typically manufactured from coils of wire this design delivers two desired properties a concentration of the magnetic field into a small physical space and a linking of the magnetic field into the circuit multiple times
+the relationship between the self-inductance l of an electrical circuit the voltage v(t) and the current i(t) through the circuit is
+a voltage is induced across an inductor (back emf) that is equal to the product of the inductor's inductance and the rate of change of current through the inductor
+all circuits have in practice some inductance which may have beneficial or detrimental effects for a tuned circuit inductance is used to provide a frequency-selective circuit practical inductors may be used to provide filtering or energy storage in a given network the inductance per unit length of a transmission line is one of the properties that determines its characteristic impedance; balancing the inductance and capacitance of cables is important for distortion-free telegraphy and telephony the inductance of long ac power transmission lines effects the power capacity of the line sensitive circuits such as microphone and computer network cables may utilize special cabling construction limiting the inductive coupling between circuits
+the generalization to the case of k electrical circuits with currents im and voltages vm reads
+here inductance l is a symmetric matrix the diagonal coefficients lm,m are called coefficients of self-inductance the off-diagonal elements are called coefficients of mutual inductance the coefficients of inductance are constant as long as no magnetizable material with nonlinear characteristics are involved this is a direct consequence of the linearity of maxwell's equations in the fields and the current density the coefficients of inductance become functions of the currents in the nonlinear case
+== derivation from faraday's law of inductanceedit ==
+the inductance equations above are a consequence of maxwell's equations there is a straightforward derivation in the important case of electrical circuits consisting of thin wires
+in a system of k wire loops each with one or several wire turns the flux linkage of loop m is given by
+here nm denotes the number of turns in loop m m the magnetic flux through this loop and lm,n are some constants this equation follows from ampere's law - magnetic fields and fluxes are linear functions of the currents by faraday's law of induction we have
+where vm denotes the voltage induced in circuit m this agrees with the definition of inductance above if the coefficients lm,n are identified with the coefficients of inductance because the total currents nnin contribute to m it also follows that lm,n is proportional to the product of turns nmnn
+== inductance and magnetic field energyedit ==
+multiplying the equation for vm above with imdt and summing over m gives the energy transferred to the system in the time interval dt
+this must agree with the change of the magnetic field energy w caused by the currents the integrability condition
+requires lm,n=ln,m the inductance matrix lm,n thus is symmetric the integral of the energy transfer is the magnetic field energy as a function of the currents
+this equation also is a direct consequence of the linearity of maxwell's equations it is helpful to associate changing electric currents with a build-up or decrease of magnetic field energy the corresponding energy transfer requires or generates a voltage a mechanical analogy in the k=1 case with magnetic field energy (1/2)li2 is a body with mass m velocity u and kinetic energy (1/2)mu2 the rate of change of velocity (current) multiplied with mass (inductance) requires or generates a force (an electrical voltage)
+== coupled inductors and mutual inductanceedit ==
+mutual inductance occurs when the change in current in one inductor induces a voltage in another nearby inductor it is important as the mechanism by which transformers work but it can also cause unwanted coupling between conductors in a circuit
+the mutual inductance m is also a measure of the coupling between two inductors the mutual inductance by circuit i on circuit j is given by the double integral neumann formula see calculation techniques
+the mutual inductance also has the relationship:
+where
+is the mutual inductance and the subscript specifies the relationship of the voltage induced in coil 2 due to the current in coil 1
+n1 is the number of turns in coil 1
+n2 is the number of turns in coil 2
+p21 is the permeance of the space occupied by the flux
+the mutual inductance also has a relationship with the coupling coefficient the coupling coefficient is always between 1 and 0 and is a convenient way to specify the relationship between a certain orientation of inductors with arbitrary inductance:
+where
+k is the coupling coefficient and 0 k 1
+l1 is the inductance of the first coil and
+l2 is the inductance of the second coil
+once the mutual inductance m is determined from this factor it can be used to predict the behavior of a circuit:
+where
+v1 is the voltage across the inductor of interest
+l1 is the inductance of the inductor of interest
+di1/dt is the derivative with respect to time of the current through the inductor of interest
+di2/dt is the derivative with respect to time of the current through the inductor that is coupled to the first inductor and
+m is the mutual inductance
+the minus sign arises because of the sense the current i2 has been defined in the diagram with both currents defined going into the dots the sign of m will be positive (the equation would read with a plus sign instead)
+=== matrix representationedit ===
+the circuit can be described by any of the two-port network parameter matrix representations the most direct is the z parameters which are given by
+where s is the complex frequency variable
+=== equivalent circuitedit ===
+mutually coupled inductors can equivalently be represented by a t-circuit of inductors as shown if the coupling is strong and the inductors are of unequal values then the series inductor on the step-down side may take on a negative value
+this can be analyzed as a two port network with the output terminated with some arbitrary impedance z the voltage gain av is given by
+for tightly coupled inductors where k = 1 this reduces to
+which is independent of the load impedance if the inductors are wound on the same core and with the same geometry then this expression is equal to the turns ratio of the two inductors because inductance is proportional to the square of turns ratio
+the input impedance of the network is given by
+for k = 1 this reduces to
+thus the current gain ai is not independent of load unless the further condition
+is met in which case
+and
+=== tuned transformeredit ===
+when either side of the transformer is a tuned circuit the amount of mutual inductance between the two windings together with the q factor of the circuit determine the shape of the frequency response curve the tuned circuit together with the transformer load form an rlc circuit with a definite peak in the frequency response when both sides of the transformer are tuned it is described as double-tuned the coupling of double-tuned circuits is described as loose- critical- or over-coupled depending on the value of k when two tuned circuits are loosely coupled through mutual inductance the bandwidth will be narrow as the amount of mutual inductance increases the bandwidth continues to grow when the mutual inductance is increased beyond a critical point the peak in the response curve begins to drop and the center frequency will be attenuated more strongly than its direct sidebands this is known as overcoupling
+=== ideal transformersedit ===
+when k = 1 the inductor is referred to as being closely coupled if in addition the self-inductances go to infinity the inductor becomes an ideal transformer in this case the voltages currents and number of turns can be related in the following way:
+where
+vs is the voltage across the secondary inductor
+vp is the voltage across the primary inductor (the one connected to a power source)
+ns is the number of turns in the secondary inductor and
+np is the number of turns in the primary inductor
+conversely the current:
+where
+is is the current through the secondary inductor
+ip is the current through the primary inductor (the one connected to a power source)
+ns is the number of turns in the secondary inductor and
+np is the number of turns in the primary inductor
+note that the power through one inductor is the same as the power through the other also note that these equations don't work if both inductors are forced (with power sources)
+== calculation techniquesedit ==
+in the most general case inductance can be calculated from maxwell's equations many important cases can be solved using simplifications where high frequency currents are considered with skin effect the surface current densities and magnetic field may be obtained by solving the laplace equation where the conductors are thin wires self-inductance still depends on the wire radius and the distribution of the current in the wire this current distribution is approximately constant (on the surface or in the volume of the wire) for a wire radius much smaller than other length scales
+=== mutual inductance of two wire loopsedit ===
+the mutual inductance by a filamentary circuit m on a filamentary circuit n is given by the double integral neumann formula
+the symbol 0 denotes the magnetic constant (4 107 h/m) cm and cn are the curves spanned by the wires see a derivation of this equation
+=== self-inductance of a wire loopedit ===
+formally the self-inductance of a wire loop would be given by the above equation with m = n the problem however is that 1/|x-x'| now becomes infinite making it necessary to take the finite wire radius a and the distribution of the current in the wire into account there remain the contribution from the integral over all points with |x-x'| > a/2 and a correction term
+here a and l denote radius and length of the wire and y is a constant that depends on the distribution of the current in the wire: y = 0 when the current flows in the surface of the wire (skin effect) y = 1/2 when the current is homogeneous across the wire this approximation is accurate when the wires are long compared to their cross-sectional dimensions
+=== method of imagesedit ===
+in some cases different current distributions generate the same magnetic field in some section of space this fact may be used to relate self inductances (method of images) as an example consider the two systems:
+a wire at distance d/2 in front of a perfectly conducting wall (which is the return)
+two parallel wires at distance d with opposite current
+the magnetic field of the two systems coincides (in a half space) the magnetic field energy and the inductance of the second system thus are twice as large as that of the first system
+=== relation between inductance and capacitanceedit ===
+inductance per length l' and capacitance per length c' are related to each other in the special case of transmission lines consisting of two parallel perfect conductors of arbitrary but constant cross section
+here and denote dielectric constant and magnetic permeability of the medium the conductors are embedded in there is no electric and no magnetic field inside the conductors (complete skin effect high frequency) current flows down on one line and returns on the other signals will propagate along the transmission line at the speed of electromagnetic radiation in the non-conductive medium enveloping the conductors
+== self-inductance of simple electrical circuits in airedit ==
+the self-inductance of many types of electrical circuits can be given in closed form examples are listed in the table
+the symbol 0 denotes the magnetic constant (4107 h/m) for high frequencies the electric current flows in the conductor surface (skin effect) and depending on the geometry it sometimes is necessary to distinguish low and high frequency inductances this is the purpose of the constant y: y = 0 when the current is uniformly distributed over the surface of the wire (skin effect) y = 1/2 when the current is uniformly distributed over the cross section of the wire in the high frequency case if conductors approach each other an additional screening current flows in their surface and expressions containing y become invalid
+== inductance with physical symmetryedit ==
+=== inductance of a solenoidedit ===
+a solenoid is a long thin coil i.e a coil whose length is much greater than the diameter under these conditions and without any magnetic material used the magnetic flux density within the coil is practically constant and is given by
+where is the magnetic constant the number of turns the current and the length of the coil ignoring end effects the total magnetic flux through the coil is obtained by multiplying the flux density by the cross-section area :
+when this is combined with the definition of inductance
+it follows that the inductance of a solenoid is given by:
+a table of inductance for short solenoids of various diameter to length ratios has been calculated by dellinger whittmore and ould
+this and the inductance of more complicated shapes can be derived from maxwell's equations for rigid air-core coils inductance is a function of coil geometry and number of turns and is independent of current
+similar analysis applies to a solenoid with a magnetic core but only if the length of the coil is much greater than the product of the relative permeability of the magnetic core and the diameter that limits the simple analysis to low-permeability cores or extremely long thin solenoids although rarely useful the equations are
+where the relative permeability of the material within the solenoid
+from which it follows that the inductance of a solenoid is given by:
+where n is squared because of the definition of inductance
+note that since the permeability of ferromagnetic materials changes with applied magnetic flux the inductance of a coil with a ferromagnetic core will generally vary with current
+=== inductance of a coaxial lineedit ===
+let the inner conductor have radius and permeability  let the dielectric between the inner and outer conductor have permeability  and let the outer conductor have inner radius  outer radius  and permeability  assume that a dc current flows in opposite directions in the two conductors with uniform current density the magnetic field generated by these currents points in the azimuthal direction and is a function of radius ; it can be computed using ampre's law:
+the flux per length in the region between the conductors can be computed by drawing a surface containing the axis:
+inside the conductors l can be computed by equating the energy stored in an inductor  with the energy stored in the magnetic field:
+for a cylindrical geometry with no dependence the energy per unit length is
+where is the inductance per unit length for the inner conductor the integral on the right-hand-side is ; for the outer conductor it is
+solving for and summing the terms for each region together gives a total inductance per unit length of:
+however for a typical coaxial line application we are interested in passing (non-dc) signals at frequencies for which the resistive skin effect cannot be neglected in most cases the inner and outer conductor terms are negligible in which case one may approximate
+== phasor circuit analysis and impedanceedit ==
+if signals of current and voltage are sine using phasors the equivalent impedance of an inductance is given by:
+where
+j is the imaginary unit
+l is the inductance
+= 2f is the angular frequency
+f is the frequency and
+l = xl is the inductive reactance
+== nonlinear inductanceedit ==
+many inductors make use of magnetic materials these materials over a large enough range exhibit a nonlinear permeability with such effects as saturation in turn the saturation makes the resulting inductance a function of the applied current faraday's law still holds but inductance is ambiguous and is different whether you are calculating circuit parameters or magnetic fluxes
+the secant or large-signal inductance is used in flux calculations it is defined as:
+the differential or small-signal inductance on the other hand is used in calculating voltage it is defined as:
+the circuit voltage for a nonlinear inductor is obtained via the differential inductance as shown by faraday's law and the chain rule of calculus
+there are similar definitions for nonlinear mutual inductances
+== see alsoedit ==
+== referencesedit ==
+== general referencesedit ==
+== external linksedit ==
+clemson vehicular electronics laboratory: inductance calculator

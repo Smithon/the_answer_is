@@ -1,0 +1,44 @@
+the enthalpy of fusion also known as (latent) heat of fusion is the change in enthalpy resulting from heating a given quantity of a substance to change its state from a solid to a liquid the temperature at which this occurs is the melting point
+the 'enthalpy' of fusion is a latent heat because during melting the introduction of heat cannot be observed as a temperature change as the temperature remains constant during the process the latent heat of fusion is the enthalpy change of any amount of substance when it melts when the heat of fusion is referenced to a unit of mass it is usually called the specific heat of fusion while the molar heat of fusion refers to the enthalpy change per amount of substance in moles
+the liquid phase has a higher internal energy than the solid phase this means energy must be supplied to a solid in order to melt it and energy is released from a liquid when it freezes because the molecules in the liquid experience weaker intermolecular forces and so have a higher potential energy (a kind of bond-dissociation energy for intermolecular forces)
+when liquid water is cooled its temperature falls steadily until it drops just below the line of freezing point at 0 c the temperature then remains constant at the freezing point while the water crystallizes once the water is completely frozen its temperature continues to fall
+the enthalpy of fusion is almost always a positive quantity; helium is the only known exception helium-3 has a negative enthalpy of fusion at temperatures below 0.3 k helium-4 also has a very slightly negative enthalpy of fusion below 0.8 k this means that at appropriate constant pressures these substances freeze with the addition of heat
+== reference values of common substancesedit ==
+these values are from the crc handbook of chemistry and physics 62nd edition the conversion between cal/g and j/g in the above table uses the thermochemical calorie (calth) = 4.184 joules rather than the international steam table calorie (calint) = 4.1868 joules
+== examplesedit ==
+1) to heat 1 kg (about 1 liter) of water from 283.15 k to 303.15 k (10 c to 30 c) requires 83.6 kj however to melt ice also requires energy to heat ice from 273.15 k to water at 293.15 k (0 c to 20 c) requires:
+(1) 333.55 j/g (heat of fusion of ice) = 333.55 kj/kg = 333.55 kj for 1 kg of ice to melt
+plus
+(2) 4.18 j/(gk) 20k = 4.18 kj/(kgk) 20k = 83.6 kj for 1 kg of water to increase in temperature by 20 k
+= 417.15 kj
+thus one part ice at 0 c will cool almost exactly 4 parts water from 20 c to 0 c
+2) silicon has a heat of fusion of 50.21 kj/mol 50 kw of power can supply the energy required to melt about 100 kg of silicon in one hour after it is brought to the melting point temperature:
+50 kw = 50kj/s = 180000kj/h
+180000kj/h * (1 mol si)/50.21kj * 28gsi/(mol si) * 1kgsi/1000gsi = 100.4kg/h
+== solubility predictionedit ==
+the heat of fusion can also be used to predict solubility for solids in liquids provided an ideal solution is obtained the mole fraction of solute at saturation is a function of the heat of fusion the melting point of the solid and the temperature (t) of the solution:
+here r is the gas constant for example the solubility of paracetamol in water at 298 k is predicted to be:
+this equals to a solubility in grams per liter of:
+which is a deviation from the real solubility (240 g/l) of 11% this error can be reduced when an additional heat capacity parameter is taken into account
+=== proofedit ===
+at equilibrium the chemical potentials for the pure solvent and pure solid are identical:
+or
+with the gas constant and the temperature
+rearranging gives:
+and since
+the heat of fusion being the difference in chemical potential between the pure liquid and the pure solid it follows that
+application of the gibbshelmholtz equation:
+ultimately gives:
+or:
+and with integration:
+the end result is obtained:
+== see alsoedit ==
+heat of vaporization
+heat capacity
+thermodynamic databases for pure substances
+joback method (estimation of the heat of fusion from molecular structure)
+latent heat
+== notesedit ==
+== referencesedit ==
+atkins peter; jones loretta (2008) chemical principles: the quest for insight (4th ed.) w h freeman and company p 236 isbn 0-7167-7355-4
+ott j bevan; boerio-goates juliana (2000) chemical thermodynamics: advanced applications academic press isbn 0-12-530985-6

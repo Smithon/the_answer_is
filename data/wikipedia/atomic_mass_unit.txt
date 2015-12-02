@@ -1,0 +1,40 @@
+the unified atomic mass unit (symbol: u) or dalton (symbol: da) is the standard unit that is used for indicating mass on an atomic or molecular scale (atomic mass) one unified atomic mass unit is approximately the mass of one nucleon (either a single proton or neutron) and is numerically equivalent to 1 g/mol it is defined as one twelfth of the mass of an unbound neutral atom of carbon-12 in its nuclear and electronic ground state and has a value of 69731660538920999991.660538921(73)1027 kg the cipm has categorised it as a non-si unit accepted for use with the si and whose value in si units must be obtained experimentally
+the amu without the "unified" prefix is technically an obsolete unit based on oxygen which was replaced in 1961 however some sources may still use the term "amu" but now define it in the same way as u (i.e. based on carbon-12) in this sense most uses of the terms "atomic mass units" and "amu" today actually refer to unified atomic mass unit for standardization a specific atomic nucleus (carbon-12 vs oxygen-16) had to be chosen because the average mass of a nucleon depends on the count of the nucleons in the atomic nucleus due to mass defect this is also why the mass of a proton (or neutron) by itself is more than (and not equal to) 1 u
+atomic mass unit does not stand for the unit of mass in the atomic units system which is rather me
+== history ==
+the relative atomic mass (atomic weight) scale has traditionally been a relative scale that is without an explicit unit with the first relative atomic mass basis suggested by john dalton in 1803 as 1h despite the initial mass of 1h being used as the natural unit for relative atomic mass it was suggested by wilhelm ostwald that relative atomic mass would be best expressed in terms of units of 1/16 mass of oxygen this evaluation was made prior to the discovery of the existence of elemental isotopes which occurred in 1912
+the discovery of isotopic oxygen in 1929 led to a divergence in relative atomic mass representation with isotopically weighted oxygen (i.e. naturally occurring oxygen relative atomic mass) given a value of exactly 16 atomic mass units (amu) in chemistry while pure 16o (oxygen-16) was given the mass value of exactly 16 amu in physics
+the divergence of these values could result in errors in computations and was unwieldy the chemistry amu based on the relative atomic mass (atomic weight) of natural oxygen (including the heavy naturally-occurring isotopes 17o and 18o) was about 70001000281999999991.000282 as massive as the physics amu based on pure isotopic 16o
+for these and other reasons the reference standard for both physics and chemistry was changed to carbon-12 in 1961 the choice of carbon-12 was made to minimise further divergence with prior literature the new and current unit was referred to as the "unified atomic mass unit" u and given a new symbol "u," which replaced the now deprecated "amu" that had been connected to the old oxygen-based system the dalton (da) is another name for the unified atomic mass unit
+despite this change modern sources often still use the old term "amu" but define it as u (1/12 of the mass of a carbon-12 atom) as mentioned in the article's introduction therefore in general "amu" likely does not refer to the old oxygen standard unit unless the source material originates from or before the 1960s
+the unified atomic mass unit u was defined as:
+== terminology ==
+the unified atomic mass unit and the dalton are different names for the same unit of measure as with other unit names such as watt and newton "dalton" is not capitalized in english but its symbol da is capitalized with the introduction of the name "dalton" there has been a gradual change towards using that name in preference to the name "unified atomic mass unit":
+in 1993 the international union of pure and applied chemistry approved the use of the dalton with the qualification that the cgpm had not given its approval
+in 2003 the consultative committee for units part of the cipm recommended a preference for the usage of the "dalton" over the "unified atomic mass unit" as it "is shorter and works better with prefixes"
+in 2005 the international union of pure and applied physics endorsed the use of the dalton as an alternative to the unified atomic mass unit
+in 2006 in the 8th edition of the formal definition of si the cipm cataloged the dalton alongside the unified atomic mass unit as a "non-si unit whose values in si units must be obtained experimentally: units accepted for use with the si" the definition also noted that "the dalton is often combined with si prefixes "
+in 2009 when the international organization for standardization published updated versions of iso 80000 it gave mixed messages as to whether or not the unified atomic mass unit had been deprecated: iso 80000-1:2009 (general) identified the dalton as having "earlier [been] called the unified atomic mass unit u" but iso 80000-10:2009 (atomic and nuclear physics) catalogued both as being alternatives for each other
+the 2010 version of the oxford university press style guide for authors in life sciences gave the following guidance: "use the systme international d'units (si) wherever possible  the dalton (da) or more conveniently the kda is a permitted non-si unit for molecular mass or mass of a particular band in a separating gel." at the same time the author guidelines for the journal "rapid communications in mass spectrometry" stated "the dalton (da) is a unit of mass normally used for the molecular weight  use of the da in place of the u has become commonplace in the mass spectrometry literature  the "atomic mass unit" abbreviated "amu" is an archaic unit"
+in 2012 in response to the proposed redefinition of the kilogram it was proposed that the dalton be redefined as being 0.001/na kg thereby breaking the link with 12c this would result in the dalton and the atomic mass unit having slightly different definitions but the suggestion is that the older unit should be superseded by the "new" dalton
+== relationship to si ==
+the definition of the mole an si base unit was accepted by the cgpm in 1971 as:
+the mole is the amount of substance of a system which contains as many elementary entities as there are atoms in 0.012 kilogram of carbon-12; its symbol is "mol"
+when the mole is used the elementary entities must be specified and may be atoms molecules ions electrons other particles or specified groups of such particles
+the definition of the mole also determines the value of the universal constant that relates the number of entities to amount of substance for any sample this constant is called the avogadro constant symbol na or l and has the value 70236022140857000006.022140857(74)1023 mol1 (entities per mole)
+given that the unified atomic mass unit is one twelfth the mass of one atom of carbon-12 meaning the mass of such an atom is 12 u it follows that there are na atoms of carbon-12 in 0.012 kg of carbon-12 this can be expressed mathematically as
+na (12 u) = 0.012 kg/mol or
+na u = 0.001 kg/mol
+masses of proteins are often expressed in daltons for example a protein with a molecular weight of 700464000000000000064000 gmol1 has a mass of 64 kda
+== examples ==
+a hydrogen-1 atom has a mass of 70001007825000000001.0078250 u (70001007825000000001.0078250 da)
+by definition a carbon-12 atom has a mass of 700112000000000000012 u (700112000000000000012 da)
+a molecule of acetylsalicylic acid (aspirin) has a mass of 7002180160000000000180.16 u (7002180160000000000180.16 da)
+titin the largest known protein has an atomic mass of 3-3.7 megadaltons (70063000000000000003000000 da)
+== see also ==
+kendrick mass
+mass-to-charge ratio
+atomic mass constant
+== notes and references ==
+== external links ==
+atomic mass unit at sizes.com

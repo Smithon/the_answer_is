@@ -1,0 +1,104 @@
+the oxidation state often called the oxidation number is an indicator of the degree of oxidation (loss of electrons) of an atom in a chemical compound conceptually the oxidation state which may be positive negative or zero is the hypothetical charge that an atom would have if all bonds to atoms of different elements were 100% ionic with no covalent component this is never exactly true for real bonds
+the term "oxidation" was first used by lavoisier to mean reaction of a substance with oxygen much later it was realized that the substance on being oxidized loses electrons and the use of the term "oxidation" was extended to include other reactions in which electrons are lost
+oxidation states are typically represented by integers in some cases the average oxidation state of an element is a fraction such as 8/3 for iron in magnetite (fe
+3o
+4) the highest known oxidation state is reported to be +9 in the iridium tetroxide cation (iro+
+4) while the lowest known oxidation state is 5 for boron gallium indium and thallium the possibility of +9 and +10 oxidation states in platinum group elements especially iridium(ix) and platinum(x) has been discussed by kiselev and tretiyakov
+the increase in oxidation state of an atom through a chemical reaction is known as an oxidation; a decrease in oxidation state is known as a reduction such reactions involve the formal transfer of electrons a net gain in electrons being a reduction and a net loss of electrons being an oxidation for pure elements the oxidation state is zero
+there are various methods for determining oxidation states/numbers
+in inorganic nomenclature the oxidation state is determined and expressed as an oxidation number represented by a roman numeral placed after the element name
+in coordination chemistry oxidation number is defined differently from oxidation state
+== iupac definitions of oxidation state and oxidation numberedit ==
+=== oxidation stateedit ===
+a iupac technical report toward a comprehensive definition of oxidation state has been published the current gold book definition of oxidation state listed by iupac is as follows:
+== determining the oxidation state or numberedit ==
+there are two different methods for determining the oxidation state of elements in chemical compounds first (and widely taught) a method based on the rules in the iupac definition (see above) second a method based on the relative electronegativity of the elements in the compound where the more electronegative element is assumed to take the negative charge
+=== simple examples using iupac definitionedit ===
+any pure elementeven if it forms diatomic molecules like chlorine (cl2)has an oxidation state of zero examples of this are cu or o2
+for monatomic ions the oxidation state is the same as the charge of the ion for example the sulfide anion (s2) has an oxidation state of 2 whereas the lithium cation (li+) has an oxidation state of +1
+the sum of oxidation states for all atoms in a molecule or polyatomic ion is equal to the charge of the molecule or ion thus the oxidation state of one element can be calculated from the oxidation states of the other elements
+an application of this rule is that the sum of the oxidation states of all atoms in a neutral molecule must be zero consider a neutral molecule of carbon dioxide co2 oxygen is assumed to have its usual oxidation state of 2 and so the sum of the oxidation states of all the atoms can be expressed as x + 2(2) = 0 or x 4 = 0 where x is the unknown oxidation state of carbon thus it can be seen that the oxidation state of carbon in the molecule is +4
+in polyatomic ions the sum of the oxidation states of the constituent atoms must be equal to the charge on the ion as an example consider the sulfate anion which has the formula so42 as indicated by the formula the total charge of this ion is 2 because all four oxygen atoms are assumed to have their usual oxidation state of 2 and the sum of the oxidation states of all the atoms is equal to the charge of the ion the sum of the oxidation states can be represented as y + 4(2) = 2 or y 8 = 2 where y is the unknown oxidation state of sulfur thus it can be computed that y = +6
+these facts combined with some elements almost always having certain oxidation states (due to their very high electropositivity or electronegativity) allows one to compute the oxidation states for the remaining atoms (such as transition metals) in simple compounds
+example for a complex salt: in cr(oh)
+3 oxygen has an oxidation state of 2 (no fluorine or oo bonds present) and hydrogen has a state of +1 (bonded to oxygen) so each of the three hydroxide groups has an oxidation state of 2 + 1 = 1 as the compound is neutral chromium has an oxidation state of +3
+=== using electronegativityedit ===
+the use of electronegativity in this way was introduced by pauling in 1947 this method of determining oxidation state is found in some recent text books this method allows the oxidation state of all atoms in a molecule to be determined whereas the iupac 1990/2005 definition does not in the 1970 rules iupac recommended that oxidation state was used in nomenclature and elsewhere in inorganic chemistry as the "charge that would be present on an atom if the electrons were assigned to the more electronegative atom" but with a convention that hydrogen is considered to be positive in combination with non-metals and a bond between like atoms makes no contribution to the oxidation number
+in practice the iupac 1990/2005 definition is usually extended by adding additional rules based on electronegativity
+fluorine has an oxidation state of 1 when bonded to any other element since it has the highest electronegativity of all reactive elements
+halogens other than fluorine have an oxidation state of 1 except when they are bonded to oxygen to nitrogen or to another halogen that is more electronegative for example the oxidation state of chlorine in chlorine monofluoride (clf) is +1 however in bromine monochloride (brcl) the oxidation state of cl is 1
+hydrogen has an oxidation state of +1 except when bonded to more electropositive elements such as sodium aluminium and boron as in nah nabh
+4 lialh
+4 where each h has an oxidation state of 1
+in compounds oxygen typically has an oxidation state of 2 though there are exceptions that are listed below such as peroxides (e.g hydrogen peroxide h2o2) where oxygen has an oxidation state of 1
+alkali metals have an oxidation state of +1 in virtually all of their compounds (exception see alkalide)
+alkaline earth metals have an oxidation state of +2 in virtually all of their compounds
+== ionic compoundsedit ==
+if an ionic compound has two ions with a common element such as ammonium nitrate nh
+4no
+3 it is usual to consider the oxidation states for each ion separately the overall empirical formula of ammonium nitrate is n
+2h
+4o
+3 which leads to an average nitrogen oxidation state of +1 but it is much more useful to consider separately the ions nh+
+4 and no
+3 with nitrogen oxidation states of -3 and +5 respectively
+== calculation of oxidation states with a lewis structureedit ==
+this method can be used for molecules when one has a lewis structure
+it should be remembered that the oxidation state of an atom does not represent the "real" charge on that atom: this is particularly true of high oxidation states where the ionization energy required to produce a multiply positive ion are far greater than the energies available in chemical reactions the assignment of electrons between atoms in calculating an oxidation state is purely a formalism but is a useful one for the understanding of many chemical reactions
+for more about issues with calculating atomic charges see partial charge
+=== the lewis structureedit ===
+when a lewis structure of a molecule is available the oxidation states may be assigned by computing the difference between the number of valence electrons that a neutral atom of that element would have and the number of electrons that "belong" to it in the lewis structure for purposes of computing oxidation states electrons in a bond between atoms of different elements belong to the more electronegative atom; electrons in a bond between atoms of the same element are split equally and electrons in a lone pair belong only to the atom with the lone pair
+for example consider acetic acid:
+the methyl group carbon atom has six valence electrons from its bonds to the hydrogen atoms because carbon is more electronegative than hydrogen also one electron is gained from its bond with the other carbon atom because the electron pair in the cc bond is split equally it therefore has a total of seven electrons whereas a neutral carbon atom would have four valence electrons because carbon is in group 14 of the periodic table the difference 4 7 = 3 is the oxidation state of that carbon atom that is if it is assumed that all the bonds were 100% ionic (which in fact they are not) the carbon would be described as c3
+following the same rules the carboxylic acid carbon atom gets the other one valence electron from the cc bond all of its other valence electrons are not counted here because they are involved in bonding to oxygen atoms which are more electronegative than carbon for a carbon with one electron the oxidation state is +3 again calculated against its neutral four-electron count the oxygen atoms each have an oxidation state of 2; they get 8 electrons each (4 from the lone pairs and 4 from the bonds) while a neutral oxygen atom would have 6 the hydrogen atoms each have oxidation state +1 because they surrender their electron to the more electronegative atoms to which they are bonded in structural diagrams for organic chemistry oxidation states are represented by roman numerals to distinguish them from formal charges (calculated with all bonds covalent)
+=== inequivalent atoms of an elementedit ===
+an example of a molecule with inequivalent atoms of the same element is the thiosulfate ion (s2o32) for which the algebraic sum rule yields the average value +2 for sulfur where the two ionizing electrons are assigned to the terminal sulfur atom however the use of a lewis structure and electron counting shows that the two sulfur atoms are different the central sulfur is assigned only one valence electron from the s-s bond and no valence electrons from the s-o bonds compared to six valence electrons for a free sulfur atom so the oxidation state of the central sulfur is +5 the terminal sulfur atom is assigned the other electron from the s-s bond plus three lone pairs for a total of seven valence electrons so its oxidation state is 1
+=== redox reactionsedit ===
+oxidation states can be useful for balancing chemical equations for oxidation-reduction (or redox) reactions because the changes in the oxidized atoms have to be balanced by the changes in the reduced atoms for example in the reaction of acetaldehyde with the tollens' reagent to acetic acid (shown below) the carbonyl carbon atom changes its oxidation state from +1 to +3 (oxidation) this oxidation is balanced by reducing two equivalents of silver from ag+ to ag0
+== elements with multiple oxidation statesedit ==
+most elements have more than one possible oxidation state for example carbon has nine integer oxidation states:
+== fractional oxidation statesedit ==
+fractional oxidation states are often used to represent the average oxidation states of several atoms of the same element in a structure for example the formula of magnetite is fe
+3o
+4 implying an oxidation state for iron of +83 however this average value may not be representative if the atoms are not equivalent in fe
+3o
+4 two-thirds of the iron ions are fe3+ and one-third fe2+ and the formula may be better represented as feofe
+2o
+3
+likewise propane c
+3h
+8 has been described as having a carbon oxidation state of 8/3 again this is an average value since the structure of the molecule is h3c-ch2-ch3 with the first and third carbons each having an oxidation state of 3 and the central one 2
+an example with fractional oxidation states for equivalent atoms is potassium superoxide ko
+2 the diatomic superoxide ion has an overall charge of 1 so each of its two oxygen atoms is assigned an oxidation state of  this ion can be described as a resonance hybrid of two lewis structures where each oxygen has oxidation state 0 in one structure and 1 in the other
+for the cyclopentadienyl ion c
+5h
+5 the oxidation state of c is (1) + (15) = 65 the 1 occurs because each c is bonded to one hydrogen (a less electronegative element) and the 15 because the total ionic charge is divided among five equivalent c
+== oxidation state and formal chargeedit ==
+the oxidation state of an atom is often different from the formal charge often included in lewis structures (when it is non-zero) the oxidation state is calculated by assuming that each chemical bond (except between identical atoms) is ionic so that both electrons are assigned to the more electronegative bonded atom in contrast the formal charge is calculated by assuming that each bonds is covalent so that one electron is assigned to each bonded atom for example in ammonium ion (nh4+) the oxidation state of nitrogen is -3 as all eight valence electrons are assigned to the nitrogen atom that is more electronegative than hydrogen however the formal charge is +1 calculated by assigning only four valence electrons (one per bond) to nitrogen for comparison the nitrogen in ammonia (nh3) has oxidation state -3 also but a formal charge of zero on protonation of ammonia to form ammonium the formal charge on nitrogen changes but its oxidation state does not
+== oxidation number in naming of inorganic compoundsedit ==
+in the nomenclature of inorganic compounds the oxidation number is represented by a roman numeral the oxidation number is equal to the oxidation state using the rules although they acknowledge other methods can be used oxidation numbers must be positive or negative integers fractional oxidation numbers should not be used and in the event of any uncertainty alternative naming conventions should be used
+== use in nomenclatureedit ==
+in older literature the term is referred to as stock number however the use of this term is no longer recommended by iupac the oxidation state in compound naming is placed either as a right superscript to the element symbol in chemical formula for example feiii or in parentheses after the name of the element iron(iii) in chemical names for example fe2(so4)3 is named iron(iii) sulfate and its formula can be shown as feiii2(so4)3 this is because a sulfate ion has a charge of -2 so each iron atom takes a charge of +3 note that fractional oxidation numbers should not be used in naming
+== oxidation number in coordination compoundsedit ==
+whilst oxidation state and oxidation number are often used interchangeably oxidation number is used in coordination chemistry with a slightly different meaning in coordination chemistry the rules used for counting electrons are different every electron in a metal-ligand bond belongs to the ligand regardless of electronegativity so that the oxidation number is the charge that would remain if all ligands were removed together with the electron pairs shared with the central atom
+the current iupac definition of the oxidation number in a coordination compound is as follows:
+for most coordination complexes the metal atom is the less electronegative end of each metal-ligand bond so that this rule gives the same result as the electronegativity-based rule there are exceptions however such as wilkinson's catalyst rhcl(pph3)3 (ph = phenyl) in which the rhodium atom is more electronegative than phosphorus nevertheless the oxidation number of rhodium in this molecule is considered to be +1 and the molecules systematic name is chlorotris(triphenylphosphine)rhodium(i) as the electrons of each rh-p bond are assigned to the p atom of the ligand the electronegativity rule would assign them instead to the rh with an oxidation state of 5
+== spectroscopic oxidation states vs oxidation numbersedit ==
+although oxidation numbers can be helpful for classifying compounds they are unmeasurable and their physical meaning can be ambiguous oxidation numbers require particular caution for molecules where the bonding is covalent since the oxidation numbers require the heterolytic removal of ligands which in essence denies covalency spectroscopic oxidation states as defined by jorgenson and reiterated by wieghardt are measurables that are bench-marked using spectroscopic and crystallographic data
+oxidation state can also have effect on spectroscopic studies of compounds in infrared spectroscopy of metal carbonyls this effect is illustrated by using spectroscopic studies on metals from oxidation states of 2 to +2
+== unusual oxidation statesedit ==
+unusual oxidation states of metals are important in biochemical processes the notable ones being fe(iv) and fe(v) in cytochrome p450-containing systems
+== history of the oxidation number conceptedit ==
+=== first studyedit ===
+oxidation itself was first studied by antoine lavoisier who believed that what we now call oxidation was always the result of reactions with oxygen thus the name although lavoisier's idea has been shown to be incorrect the name he proposed is still used albeit more generally
+oxidation states were one of the intellectual "stepping stones" that mendeleev used to derive the periodic table
+the stock nomenclature (named for alfred stock who suggested it in 1919) was intended to replace the naming that was prevalent at the time under the stock system fecl2 came to be called iron(ii) chloride rather than ferrous chloride
+=== current conceptedit ===
+the current concept of "oxidation state" was introduced by w m latimer in 1938 in 1940 iupac recommended that the term stock number should be replaced by the term oxidation number in 1947 pauling proposed that the oxidation number could be determined using the electronegativity of the atoms to determine the "ions" in the formal determination of oxidation number in 1970 iupac defined oxidation number in terms of electronegativity in 1990 iupac changed course and adopted a rule based determination for the "central atom" rather than using electronegativity this is the definition in the current gold book for "oxidation state" they also introduced the definition of oxidation number shown in the current gold book that appears to make oxidation number specific to coordination chemistry this may not have been their intention as in 2005 they issued new recommendations for inorganic nomenclature that define oxidation number in the same terms as the 1990 definition of oxidation state and that oxidation number is as in the earlier recommendations used in the naming of inorganic compounds
+=== oxidation number versus oxidation stateedit ===
+in general in the wider field of chemistry the iupac definitions have not been adhered to and both terms are used interchangeably as they were when latimer introduced the concept in 1938 for example two well-known textbooks use the term oxidation state and represent it in roman numerals in chemical formulae the point has been made that if there is any semantic difference between the terms then oxidation number refers to the specific numerical value assigned to the entity known as oxidation state much as iupac use the term charge number to refer to the numerical value assigned to the entity known as ionic charge the iupac gold book takes the definitions from 1990 iupac papers rather than the more recent current iupac 2005 recommendations an iupac project "towards a comprehensive definition of oxidation state" (project 2008-040-1-200) started in 2009 the technical report has been published in pure and applied chemistry the project was undertaken because the current definition in the iupac gold book was seen to be "narrow and circular" and "inapplicable to clusters zintl phases and some organometallic complexes"
+== see alsoedit ==
+list of oxidation states of the elements
+electrochemistry
+valence (chemistry)
+== referencesedit ==

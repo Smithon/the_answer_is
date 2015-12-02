@@ -1,0 +1,85 @@
+conversion units conversion different units measurement quantity typically multiplicative conversion factors
+techniques
+process
+process conversion depends specific situation intended purpose may governed regulation contract technical specifications published standards engineering judgment may include factors
+precision accuracy measurement associated uncertainty measurement
+statistical confidence interval tolerance interval initial measurement
+number significant figures measurement
+intended use measurement including engineering tolerances
+historical definitions units derivatives used old measurements eg international foot vs us survey foot
+conversions one system units another need exact without increasing decreasing precision first measurement sometimes called soft conversion involve changing physical configuration item measured
+contrast hard conversion adaptive conversion may exactly equivalent changes measurement convenient workable numbers units new system sometimes involves slightly different configuration size substitution item nominal values sometimes allowed used
+multiplication factors
+conversion units metric system discerned prefixes example kilogram grams milligram grams thus listed article exceptions made unit commonly known another name example micron metre
+table ordering
+within table units listed alphabetically si units base derived highlighted
+tables conversion factors
+article gives lists conversion factors number physical quantities listed index physical quantity number different units historical interest shown expressed terms corresponding si unit
+length
+area
+volume
+plane angle
+solid angle
+mass
+notes
+see weight detail massweight distinction conversion
+avoirdupois system mass based pound ounces troy weight system mass troy ounces equals one troy pound
+table unit gee used denote standard gravity order avoid confusion g symbol grams
+physics pound mass sometimes written lbm distinguish poundforce lbf read mongrel unit pound metre
+density
+time
+frequency
+speed velocity
+velocity consists speed combined direction speed part velocity takes units speed
+flow volume
+acceleration
+force
+see also conversion weight force mass
+pressure mechanical stress
+torque moment force
+energy
+power heat flow rate
+action
+dynamic viscosity
+kinematic viscosity
+electric current
+electric charge
+electric dipole
+electromotive force electric potential difference
+electrical resistance
+capacitance
+magnetic flux
+magnetic flux density
+inductance
+temperature
+information entropy
+often information entropy measured shannons whereas discrete storage space digital devices measured bits thus uncompressed redundant data occupy one bit storage per shannon information entropy multiples bit listed usually used meaning times bit used measure information entropy thus synonym shannon
+luminous intensity
+candela preferred nomenclature si unit
+luminance
+luminous flux
+illuminance
+radiation source activity
+please note although becquerel bq hertz hz ultimately refer si base unit hz used periodic phenomena bq used stochastic processes associated radioactivity
+radiation exposure
+roentgen si unit nist strongly discourages continued use
+radiation absorbed dose
+radiation equivalent dose
+although definitions sievert sv gray gy would seem indicate measure quantities case effect receiving certain dose radiation given gy variable depends many factors thus new unit needed denote biological effectiveness dose body known equivalent dose shown sv general relationship absorbed dose equivalent dose represented
+h q d
+h equivalent dose d absorbed dose q dimensionless quality factor thus quantity d measured gy numerical value h measured sv may different
+software tools
+many conversion tools found function libraries applications spreadsheets databases calculators macro packages plugins many applications mathematical scientific technical applications
+many standalone applications offer thousands various units conversions example free software movement offers command line utility gnu units linux windows
+see also
+notes references
+notes
+external links
+statutory instrument units measurement regulations legislationgovuk
+many dictionary units measurement
+nist fundamental physical constants nonsi units pdf kb
+nist guide si units many conversion factors listed
+unified code units measure
+units symbols conversions xml dictionary
+units measurement software dmoz
+units measurement online conversion dmoz

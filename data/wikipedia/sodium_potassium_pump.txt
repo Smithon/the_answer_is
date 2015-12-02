@@ -1,0 +1,51 @@
+na+/k+-atpase (sodium-potassium adenosine triphosphatase also known as the na+/k+ pump or sodium-potassium pump) is an enzyme (ec 3.6.3.9) (an electrogenic transmembrane atpase) found in the plasma membrane of all animal cells the na+/k+-atpase enzyme is a solute pump that pumps sodium out of cells while pumping potassium into cells both against their concentration gradients this pumping is active (it uses energy from atp) and is important for cell physiology an example application is nerve conduction
+it has antiporter-like activity but is not actually an antiporter since both molecules are moving against their concentration gradient
+== sodium-potassium pumps ==
+active transport is responsible for the fact that cells contain a relatively high concentrations of potassium ions but low concentrations of sodium ions the mechanism responsible for this is the sodium-potassium pump which moves these two ions in opposite directions across the plasma membrane this was investigated by following the passage of radioactively labeled ions across the plasma membrane of certain cells it was found that the concentrations of sodium and potassium ions on the two sides of the membrane are interdependent suggesting that the same carrier transports both ions it is now known that the carrier is an atp-ase and that it pumps three sodium ions out of the cell for every two potassium ions pumped in
+the sodium-potassium pump was discovered in the 1950s by a danish scientist jens christian skou who was awarded a nobel prize in 1997 it marked an important step forward in the understanding of how ions get into and out of cells and it has a particular significance for excitable cells such as nervous cells which depend on this pump for responding to stimuli and transmitting impulses
+== function ==
+the na+/k+-atpase helps maintain resting potential effect transport and regulate cellular volume it also functions as a signal transducer/integrator to regulate mapk pathway ros as well as intracellular calcium in most animal cells the na+/k+-atpase is responsible for about 1/5 of the cell's energy expenditure for neurons the na+/k+-atpase can be responsible for up to 2/3 of the cell's energy expenditure
+=== resting potential ===
+in order to maintain the cell membrane potential cells keep a low concentration of sodium ions and high levels of potassium ions within the cell (intracellular) the sodium-potassium pump moves 3 sodium ions out and moves 2 potassium ions in thus in total removing one positive charge carrier from the intracellular space (please see mechanism for details)
+the action of the sodium-potassium pump is not the only mechanism responsible for the generation of the resting membrane potential also the selective permeability of the cell's plasma membrane for the different ions plays an important role all mechanisms involved are explained in the main article on generation of the resting membrane potential
+=== transport ===
+export of sodium from the cell provides the driving force for several secondary active transporters membrane transport proteins which import glucose amino acids and other nutrients into the cell by use of the sodium gradient
+another important task of the na+-k+ pump is to provide a na+ gradient that is used by certain carrier processes in the gut for example sodium is transported out of the reabsorbing cell on the blood (interstitial fluid) side via the na+-k+ pump whereas on the reabsorbing (lumenal) side the na+-glucose symporter uses the created na+ gradient as a source of energy to import both na+ and glucose which is far more efficient than simple diffusion similar processes are located in the renal tubular system
+=== controlling cell volume ===
+failure of the na+-k+ pumps can result in swelling of the cell a cell's osmolarity is the sum of the concentrations of the various ion species and many proteins and other organic compounds inside the cell when this is higher than the osmolarity outside of the cell water flows into the cell through osmosis this can cause the cell to swell up and lyse the na+-k+ pump helps to maintain the right concentrations of ions furthermore when the cell begins to swell this automatically activates the na+-k+ pump
+=== functioning as signal transducer ===
+within the last decade [when?] many independent labs have demonstrated that in addition to the classical ion transporting this membrane protein can also relay extracellular ouabain-binding signalling into the cell through regulation of protein tyrosine phosphorylation the downstream signals through ouabain-triggered protein phosphorylation events include activation of the mitogen-activated protein kinase (mapk) signal cascades mitochondrial reactive oxygen species (ros) production as well as activation of phospholipase c (plc) and inositol triphosphate (ip3) receptor (ip3r) in different intracellular compartments
+protein-protein interactions play a very important role in na+-k+ pump-mediated signal transduction for example na+-k+ pump interacts directly with src a non-receptor tyrosine kinase to form a signaling receptor complex src kinase is inhibited by na+-k+ pump while upon ouabain binding the src kinase domain will be released and then activated based on this scenario naktide a peptide src inhibitor derived from na+-k+ pump was developed as a functional ouabain-na+-k+ pump-mediated signal transduction na+-k+ pump also interacts with ankyrin ip3r pi3k plc-gamma and cofilin
+=== controlling neuron activity states ===
+the na+-k+ pump has been shown to control and set the intrinsic activity mode of cerebellar purkinje neurons this suggests that the pump might not simply be a homeostatic "housekeeping" molecule for ionic gradients; but could be a computation element in the cerebellum and the brain indeed a mutation in the na+-k+ pump causes rapid onset dystonia parkinsonism which has symptoms to indicate that it is a pathology of cerebellar computation furthermore an ouabain block of na+-k+ pumps in the cerebellum of a live mouse results in it displaying ataxia and dystonia alcohol inhibits sodium-potassium pumps in the cerebellum and this is likely how it corrupts cerebellar computation and body co-ordination the distribution of the na+-k+ pump on myelinated axons in human brain was demonstrated to be along the internodal axolemma and not within the nodal axolemma as previously thought
+== mechanism ==
+the pump after binding atp binds 3 intracellular na+ ions
+atp is hydrolyzed leading to phosphorylation of the pump at a highly conserved aspartate residue and subsequent release of adp
+a conformational change in the pump exposes the na+ ions to the outside the phosphorylated form of the pump has a low affinity for na+ ions so they are released
+the pump binds 2 extracellular k+ ions this causes the dephosphorylation of the pump reverting it to its previous conformational state transporting the k+ ions into the cell
+the unphosphorylated form of the pump has a higher affinity for na+ ions than k+ ions so the two bound k+ ions are released atp binds and the process starts again
+== regulation ==
+=== endogenous ===
+the na+/k+-atpase is upregulated by camp thus substances causing an increase in camp upregulate the na+/k+-atpase these include the ligands of the gs-coupled gpcrs in contrast substances causing a decrease in camp downregulate the na+/k+-atpase these include the ligands of the gi-coupled gpcrs
+note: early studies indicated the opposite effect but these were later found to be inaccurate due to additional complicating factors
+=== exogenous ===
+the na+-k+-atpase can be pharmacologically modified by administrating drugs exogenously
+for instance na+-k+-atpase found in the membrane of heart cells is an important target of cardiac glycosides (for example digoxin and ouabain) inotropic drugs used to improve heart performance by increasing its force of contraction
+muscle contraction is dependent on a 100- to 10,000-times-higher-than-resting intracellular ca2+ concentration which is caused by ca2+ release from the muscle cells' sarcoplasmic reticulum immediately after muscle contraction intracellular ca2+ is quickly returned to its normal concentration by a carrier enzyme in the plasma membrane and a calcium pump in sarcoplasmic reticulum causing the muscle to relax
+since this carrier enzyme (na+-ca2+ translocator) uses the na gradient generated by the na+-k+ pump to remove ca2+ from the intracellular space slowing down the na+-k+ pump results in a permanently elevated ca2+ level in the muscle which may be the mechanism of the long-term inotropic effect of cardiac glycosides such as digoxin
+== discovery ==
+na+/k+-atpase was discovered by jens christian skou in 1957 while working as assistant professor at the department of physiology university of aarhus denmark he published his work that year
+in 1997 he received one-half of the nobel prize in chemistry "for the first discovery of an ion-transporting enzyme na+ k+ -atpase."
+== genes ==
+alpha: atp1a1[1] atp1a2[2] atp1a3[3] atp1a4[4] #1 predominates in kidney #2 is also known as "alpha(+)"
+beta: atp1b1[5] atp1b2 atp1b3[6] atp1b4
+== see also ==
+thyroid hormone
+v-atpase
+active transport
+== references ==
+== additional images ==
+== external links ==
+sodium potassium atpase at the us national library of medicine medical subject headings (mesh)
+rcsb protein data bank : sodium-potassium pump
+video khan academy

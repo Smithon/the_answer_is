@@ -1,0 +1,161 @@
+diffusion net movement molecules atoms region high concentration region low concentration also referred movement substance concentration gradient gradient change value quantity eg concentration pressure temperature change another variable usually distance example change concentration distance called concentration gradient change pressure distance called pressure gradient change temperature distance called temperature gradient
+word diffusion derived latin word diffundere means spread substance spreading moving area high concentration area low concentration distinguishing feature diffusion results mixing mass transport without requiring bulk motion bulk flow thus diffusion confused convection advection transport phenomena utilize bulk motion move particles one place another
+diffusion vs bulk flowedit
+example situation bulk flow diffusion differentiated mechanism oxygen enters body external respiration breathing lungs located thoracic cavity expanded first step external respiration expansion leads increase volume alveoli lungs causes decrease pressure alveoli creates pressure gradient air outside body relatively high pressure alveoli relatively low pressure air moves pressure gradient airways lungs alveoli pressure air alveoli equal ie movement air bulk flow stops longer pressure gradient
+air arriving alveoli higher concentration oxygen stale air alveoli increase oxygen concentration creates concentration gradient oxygen air alveoli blood capillaries surround alveoli oxygen moves diffusion concentration gradient blood consequence air arriving alveoli concentration carbon dioxide alveoli decreases air low concentration carbon dioxide compared blood body creates concentration gradient carbon dioxide diffuse blood alveoli
+blood transported around body pumping action heart left ventricle heart contracts volume decreases causes pressure ventricle increase creates pressure gradient heart capillaries blood moves blood vessels bulk flow pressure gradient thoracic cavity contracts expiration volume alveoli decreases creates pressure gradient alveoli air outside body air moves bulk flow pressure gradient
+diffusion context different disciplinesedit
+concept diffusion widely used physics particle diffusion chemistry biology sociology economics finance diffusion people ideas price values however case object eg atom idea etc undergoing diffusion spreading point location higher concentration object
+two ways introduce notion diffusion either phenomenological approach starting ficks laws diffusion mathematical consequences physical atomistic one considering random walk diffusing particles
+phenomenological approach diffusion movement substance region high concentration region low concentration without bulk motion according ficks laws diffusion flux proportional negative gradient concentrations goes regions higher concentration regions lower concentration time later various generalizations ficks laws developed frame thermodynamics nonequilibrium thermodynamics
+atomistic point view diffusion considered result random walk diffusing particles molecular diffusion moving molecules selfpropelled thermal energy random walk small particles suspension fluid discovered robert brown theory brownian motion atomistic backgrounds diffusion developed albert einstein concept diffusion typically applied subject matter involving random walks ensembles individuals
+biology terms net movement net diffusion often used considering movement ions molecules diffusion example oxygen diffuse cell membranes higher concentration oxygen outside cell inside oxygen molecules diffuse cell however movement molecules random occasionally oxygen molecules move cell concentration gradient oxygen molecules outside cell probability oxygen molecules enter cell higher probability oxygen molecules leave cell therefore net movement oxygen molecules difference number molecules either entering leaving cell cell words net movement oxygen molecules concentration gradient
+history diffusion physicsedit
+scope time diffusion solids used long theory diffusion created example pliny elder previously described cementation process produces steel element iron fe carbon diffusion another example well known many centuries diffusion colours stained glass earthenware chinese ceramics
+modern science first systematic experimental study diffusion performed thomas graham studied diffusion gases main phenomenon described
+gases different nature brought contact arrange according density heaviest undermost lighter uppermost spontaneously diffuse mutually equally remain intimate state mixture length time
+measurements graham contributed james clerk maxwell deriving coefficient diffusion co air error rate less
+adolf fick yearold anatomy demonstrator zrich proposed law diffusion used grahams research stating goal development fundamental law operation diffusion single element space asserted deep analogy diffusion conduction heat electricity creating formalism similar fouriers law heat conduction ohms law electric current
+robert boyle demonstrated diffusion solids th century penetration zinc copper coin nevertheless diffusion solids systematically studied second part th century william chandler robertsausten wellknown british metallurgist former assistant thomas graham studied systematically solid state diffusion example gold lead
+long connection grahams researches made almost duty attempt extend work liquid diffusion metals
+rudolf clausius introduced concept mean free path year james clerk maxwell developed first atomistic theory transport processes gases modern atomistic theory diffusion brownian motion developed albert einstein marian smoluchowski jeanbaptiste perrin ludwig boltzmann development atomistic backgrounds macroscopic transport processes introduced boltzmann equation served mathematics physics source transport process ideas concerns years
+george de hevesy measured selfdiffusion using radioisotopes studied selfdiffusion radioactive isotopes lead liquid solid lead
+yakov frenkel sometimes jakovjacov frenkel proposed elaborated idea diffusion crystals local defects vacancies interstitial atoms concluded diffusion process condensed matter ensemble elementary jumps quasichemical interactions particles defects introduced several mechanisms diffusion found rate constants experimental data
+time later carl wagner walter h schottky developed frenkels ideas mechanisms diffusion presently universally recognized atomic defects necessary mediate diffusion crystals
+henry eyring coauthors applied theory absolute reaction rates frenkels quasichemical model diffusion analogy reaction kinetics diffusion leads various nonlinear versions ficks law
+basic models diffusionedit
+diffusion fluxedit
+model diffusion expresses diffusion flux concentrations densities derivatives flux vector transfer physical quantity small area normal per time
+inner product littleo notation use notation vector area
+dimension diffusion flux fluxquantitytimearea diffusing physical quantity may number particles mass energy electric charge scalar extensive quantity density diffusion equation form
+intensity local source quantity rate chemical reaction example diffusion equation noflux boundary conditions formulated boundary normal boundary point
+ficks law equationsedit
+ficks first law diffusion flux proportional negative concentration gradient
+corresponding diffusion equation ficks second law
+laplace operator
+onsagers equations multicomponent diffusion thermodiffusionedit
+ficks law describes diffusion admixture medium concentration admixture small gradient concentration also small driving force diffusion ficks law antigradient concentration
+lars onsager included multicomponent transport processes general context linear nonequilibrium thermodynamics multicomponent transport
+flux ith physical quantity component jth thermodynamic force
+thermodynamic forces transport processes introduced onsager space gradients derivatives entropy density used term force quotation marks driving force
+thermodynamic coordinates heat mass transfer one take density internal energy concentration ith component corresponding driving forces space vectors
+absolute temperature chemical potential ith component stressed separate diffusion equations describe mixing mass transport without bulk motion therefore terms variation total pressure neglected possible diffusion small admixtures small gradients
+linear onsager equations must take thermodynamic forces linear approximation near equilibrium
+derivatives calculated equilibrium n matrix kinetic coefficients symmetric onsager reciprocal relations positive definite entropy growth
+transport equations
+indexes j k related internal energy various components expression square brackets matrix diffusion ik thermodiffusion k k thermal conductivity ik coefficients
+isothermal conditions tconst relevant thermodynamic potential free energy free entropy thermodynamic driving forces isothermal diffusion antigradients chemical potentials matrix diffusion coefficients
+ik
+intrinsic arbitrariness definition thermodynamic forces kinetic coefficients measurable separately combinations measured example original work onsager thermodynamic forces include additional multiplier whereas course theoretical physics multiplier omitted sign thermodynamic forces opposite changes supplemented corresponding changes coefficients effect measurable quantities
+nondiagonal diffusion must nonlinearedit
+formalism linear irreversible thermodynamics onsager generates systems linear diffusion equations form
+matrix diffusion coefficients diagonal system equations collection decoupled ficks equations various components assume diffusion nondiagonal example consider state state points becomes negative points short time therefore linear nondiagonal diffusion preserve positivity concentrations nondiagonal equations multicomponent diffusion must nonlinear
+einsteins mobility teorell formulaedit
+einstein relation kinetic theory connects diffusion coefficient mobility ratio particles terminal drift velocity applied force
+d diffusion constant mobility kb boltzmanns constant absolute temperature
+combine formula chemical potential mobility use mobility notation
+mobilitybased approach applied teorell studied diffusion ions membrane formulated essence approach formula
+flux equal mobilityconcentrationforce per gram ion
+socalled teorell formula
+force isothermal conditions consists two parts
+diffusion force caused concentration gradient
+electrostatic force caused electric potential gradient
+r gas constant absolute temperature n concentration equilibrium concentration marked superscript eq q charge electric potential
+simple crucial difference teorell formula onsager laws concentration factor teorell expression flux einstein teorell approach finite force concentration tends zero flux also tends zero whereas onsager equations violate simple physically obvious rule
+general formulation teorell formula nonperfect systems isothermal conditions
+chemical potential standard value chemical potential expression socalled activity measures effective concentration species nonideal mixture notation teorell formula flux simple form
+standard derivation activity includes normalization factor small concentrations standard concentration therefore formula flux describes flux normalized dimensionless quantity
+teorell formula multicomponent diffusionedit
+teorell formula combination onsagers definition diffusion force gives
+mobility ith component activity matrix coefficients thermodynamic diffusion force isothermal perfect systems therefore einsteinteorell approach gives following multicomponent generalization ficks law multicomponent diffusion
+matrix coefficients chapmanenskog formulas diffusion gases include exactly terms earlier terms introduced maxwellstefan diffusion equation
+jumps surface solidsedit
+diffusion reagents surface catalyst may play important role heterogeneous catalysis model diffusion ideal monolayer based jumps reagents nearest free places model used co pt oxidation low gas pressure
+system includes several reagents surface surface concentrations surface lattice adsorption places reagent molecule fills place surface places free concentration free paces sum including free places constant density adsorption places b
+jump model gives diffusion flux
+corresponding diffusion equation
+due conservation law system m diffusion equations one component get ficks law linear equations two components equations nonlinear
+particles exchange positions closest neighbours simple generalization gives
+symmetric matrix coefficients characterize intensities jumps free places vacancies considered special particles concentration
+various versions jump models also suitable simple diffusion mechanisms solids
+diffusion porous mediaedit
+diffusion porous media basic equations
+d diffusion coefficient n concentration m usually m case m corresponds ficks law
+diffusion gases porous media equation formalisation darcys law velocity gas porous media
+k permeability medium viscosity p pressure flux jnv darcys law gives equation diffusion porous media m
+underground water infiltration boussinesq approximation gives equation m
+plasma high level radiation zeldovichraizer equation gives m heat transfer
+diffusion physicsedit
+elementary theory diffusion coefficient gasesedit
+diffusion coefficient coefficient ficks first law j diffusion flux amount substance per unit area per unit time n ideal mixtures concentration x position length
+let us consider two gases molecules diameter d mass m selfdiffusion case elementary mean free path theory diffusion gives diffusion coefficient
+kb boltzmann constant temperature p pressure mean free path vt mean thermal speed
+see diffusion coefficient mean free path approximation grows decreases p p use p ideal gas law prnt total concentration n see given concentration n diffusion coefficient grows given temperature decreases total concentration n
+two different gases b molecular masses ma mb molecular diameters da db mean free path estimate diffusion coefficient b b
+theory diffusion gases based boltzmanns equationedit
+boltzmanns kinetics mixture gases gas distribution function time moment x position c velocity molecule ith component mixture component mean velocity velocities coincide exists diffusion
+chapmanenskog approximation distribution functions expressed densities conserved quantities
+individual concentrations particles particles per volume
+density moment mi ith particle mass
+density kinetic energy
+kinetic temperature pressure p defined d space
+total density
+two gases difference velocities given expression
+force applied molecules ith component thermodiffusion ratio
+coefficient d positive diffusion coefficient four terms formula cc describe four main effects diffusion gases
+describes flux first component areas high ratio nn areas lower values ratio analogously flux second component high nn low nn nnnn
+describes flux heavier molecules areas higher pressure lighter molecules areas lower pressure barodiffusion
+describes diffusion caused difference forces applied molecules different types example earths gravitational field heavier molecules go electric field charged molecules move effect equilibrated sum terms effect confused barodiffusion caused pressure gradient
+describes thermodiffusion diffusion flux caused temperature gradient
+effects called diffusion describe differences velocities different components mixture therefore effects cannot described bulk transport differ advection convection
+first approximation
+rigid spheres
+repulsing force
+number defined quadratures formulas ch classical chapman cowling book
+see dependence rigid spheres simple mean free path theory power repulsion laws exponent different dependence total concentration n given temperature always character n
+applications gas dynamics diffusion flux bulk flow joined one system transport equations bulk flow describes mass transfer velocity v mass average velocity defined momentum density mass concentrations
+mass concentration ith species mass density
+definition diffusion velocity ith component mass transfer ith component described continuity equation
+net mass production rate chemical reactions
+equations term describes advection ith component term represents diffusion component
+wendell h furry proposed use form diffusion rates found kinetic theory framework new phenomenological approach diffusion gases approach developed fa williams sh lam diffusion velocities multicomponent gases n components used
+diffusion coefficient matrix thermal diffusion coefficient body force per unite mass acting ith species partial pressure fraction ith species partial pressure mass fraction ith species
+random walk random motionedit
+one common misconception individual atoms ions molecules move randomly animation right ion left panel random motion motion random result collisions ions movement single atom ion molecule within mixture appears random viewed isolation movement substance within mixture random walk governed kinetic energy within system affected changes concentration pressure temperature
+separation diffusion convection gasesedit
+brownian motion multimolecular mesoscopic particles like pollen grains studied brown observable optical microscope molecular diffusion probed carefully controlled experimental conditions since graham experiments well known avoiding convection necessary may nontrivial task
+normal conditions molecular diffusion dominates length scales nanometer millimeter larger length scales transport liquids gases normally due another transport phenomenon convection study diffusion larger scale special efforts needed
+therefore often cited examples diffusion wrong cologne sprayed one place soon smelled entire room simple calculation shows cant due diffusion convective motion persists room temperature inhomogeneity ink dropped water one usually observes inhomogeneous evolution spatial distribution clearly indicates convection caused particular dropping
+contrast heat conduction solid media everyday occurrence eg metal spoon partly immersed hot liquid explains diffusion heat explained mathematically diffusion mass
+types diffusionedit
+anisotropic diffusion also known peronamalik equation enhances high gradients
+anomalous diffusion porous medium
+atomic diffusion solids
+eddy diffusion coarsegrained description turbulent flow
+effusion gas small holes
+electronic diffusion resulting electric current called diffusion current
+facilitated diffusion present organisms
+gaseous diffusion used isotope separation
+heat equation diffusion thermal energy
+diffusion mathematisation brownian motion continuous stochastic process
+knudsen diffusion gas long pores frequent wall collisions
+momentum diffusion ex diffusion hydrodynamic velocity field
+photon diffusion
+plasma diffusion
+random walk model diffusion
+reverse diffusion concentration gradient phase separation
+rotational diffusion random reorientations molecules
+surface diffusion diffusion adparticles surface
+turbulent diffusion transport mass heat momentum within turbulent fluid
+see alsoedit
+advection
+diffusionlimited aggregation
+ficks laws diffusion
+false diffusion
+isobaric counterdiffusion
+sorption
+referencesedit
+external linksedit
+diffusion bipolar junction transistor demo
+diffusion furnace doping semiconductor wafers pocl doping silicon
+java applet implementing diffusion

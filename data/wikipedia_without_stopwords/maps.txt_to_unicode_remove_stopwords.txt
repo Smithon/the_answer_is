@@ -1,0 +1,103 @@
+map symbolic depiction highlighting relationships elements space objects regions themes
+many maps static twodimensional geometrically accurate approximately accurate representations threedimensional space others dynamic interactive even threedimensional although commonly used depict geography maps may represent space real imagined without regard context scale eg brain mapping dna mapping extraterrestrial mapping
+although earliest maps known heavens geographic maps territory long tradition exist ancient times word map comes medieval latin mappa mundi wherein mappa meant napkin cloth mundi world thus map became shortened term referring twodimensional representation surface world
+geographic maps
+cartography mapmaking study practice crafting representations earth upon flat surface see history cartography one makes maps called cartographer
+road maps perhaps widely used maps today form subset navigational maps also include aeronautical nautical charts railroad network maps hiking bicycling maps terms quantity largest number drawn map sheets probably made local surveys carried municipalities utilities tax assessors emergency services providers local agencies many national surveying projects carried military british ordnance survey civilian government agency internationally renowned comprehensively detailed work
+addition location information maps may also used portray contour lines indicating constant values elevation temperature rainfall etc
+orientation maps
+orientation map relationship directions map corresponding compass directions reality word orient derived latin oriens meaning east middle ages many maps including o maps drawn east top meaning direction map corresponds east compass today common far universal cartographic convention north top map several kinds maps often traditionally oriented north top
+maps nonwestern traditions oriented variety ways old maps edo show japanese imperial palace top also centre map labels map oriented way cannot read properly unless put imperial palace head
+medieval european o maps hereford mappa mundi centred jerusalem east top indeed prior reintroduction ptolemys geography europe around single convention west portolan charts example oriented shores describe
+maps cities bordering sea often conventionally oriented sea top
+route channel maps traditionally oriented road waterway describe
+polar maps arctic antarctic regions conventionally centred pole direction north would towards away centre map respectively typical maps arctic meridian towards bottom page maps antarctic meridian towards top page
+reversed maps also known upsidedown maps southup maps reverse north convention south top
+buckminster fullers dymaxion maps based projection earths sphere onto icosahedron resulting triangular pieces may arranged order orientation
+modern digital gis maps arcmap typically project north top map use math degrees east degrees increase counterclockwise rather compass degrees north degrees increase clockwise orientation transects compass decimal degrees converted math degrees subtracting answer greater subtract
+scale accuracy
+many maps drawn scale expressed ratio meaning unit measurement map corresponds exactly unit ground scale statement may taken exact region mapped small enough curvature earth neglected example town planners city map larger regions curvature cannot ignored must use map projections curved surface earth sphere ellipsoid plane impossibility flattening sphere plane implies map projection constant scale projections best achieve accurate scale one two lines necessarily straight projection thus map projections must introduce concept point scale function position strive keep variation within narrow bounds although scale statement nominal usually accurate enough precise measurements
+large scale maps say cover relatively small regions great detail small scale maps say cover large regions nations continents whole globe largesmall terminology arose practice writing scales numerical fractions larger exact dividing line large small might well considered medium scale examples large scale maps maps produced hikers hand maps intended motorists small scale
+important recognize even accurate maps sacrifice certain amount accuracy scale deliver greater visual usefulness user example width roads small streams exaggerated narrow shown map true scale printed map would narrower could perceived naked eye applies computer maps smallest unit pixel narrow stream say must shown width pixel even map scale would small fraction pixel width
+maps called cartograms scale deliberately distorted reflect information land area distance example map right europe distorted show population distribution rough shape continent still discernible
+another example distorted scale famous london underground map basic geographical structure respected tube lines river thames smoothed clarify relationships stations near center map stations spaced near edges map
+inaccuracies may deliberate example cartographers may simply omit military installations remove features solely order enhance clarity map example road map may show railroads smaller waterways prominent nonroad objects even may show less clearly eg dashed dotted linesoutlines main roads known decluttering practice makes subject matter user interested easier read usually without sacrificing overall accuracy softwarebased maps often allow user toggle decluttering auto needed auto degree decluttering adjusted user changes scale displayed
+map types projections
+maps world large areas often either political physical important purpose political map show territorial borders purpose physical show features geography mountains soil type land use including infrastructure roads railroads buildings topographic maps show elevations relief contour lines shading geological maps show physical surface characteristics underlying rock fault lines subsurface structures maps depict surface earth also use projection way translating threedimensional real surface geoid twodimensional picture perhaps bestknown worldmap projection mercator projection originally designed form nautical chart aeroplane pilots use aeronautical charts based lambert conformal conic projection cone laid section earth mapped cone intersects sphere earth one two parallels chosen standard lines allows pilots plot greatcircle route approximation flat twodimensional chart
+azimuthal gnomonic map projections often used planning air routes due ability represent great circles straight lines
+richard edes harrison produced striking series maps world war ii fortune magazine used birds eye projections emphasise globally strategic fronts air age pointing proximities barriers apparent conventional rectangular projection world
+electronic maps
+last quarter th century indispensable tool cartographer computer much cartography especially datagathering survey level subsumed geographic information systems gis functionality maps greatly advanced technology simplifying superimposition spatially located variables onto existing geographical maps local information rainfall level distribution wildlife demographic data integrated within map allows efficient analysis better decision making preelectronic age superimposition data led dr john snow identify location outbreak cholera today used agencies human kind diverse wildlife conservationists militaries around world
+even gis involved cartographers use variety computer graphics programs generate new maps
+interactive computerised maps commercially available allowing users zoom zoom respectively meaning increase decrease scale sometimes replacing one map another different scale centered possible point incar global navigation satellite systems computerised maps routeplanning advice facilities monitor users position help satellites computer scientists point view zooming entails one combination
+replacing map detailed one
+enlarging map without enlarging pixels hence showing detail removing less information compared less detailed version
+enlarging map pixels enlarged replaced rectangles pixels additional detail shown depending quality ones vision possibly detail seen computer display show adjacent pixels really separate overlapping instead apply lcd may apply cathode ray tube replacing pixel rectangle pixels show detail variation method interpolation
+example
+typically applies portable document format pdf file format based vector graphics increase detail course limited information contained file enlargement curve may eventually result series standard geometric figures straight lines arcs circles splines
+may apply text outline map feature forest building
+may apply text needed displaying labels features applies rest image text necessarily enlarged zooming similarly road represented double line may may become wider one zooms
+map may also layers partly raster graphics partly vector graphics single raster graphics image applies pixels image file correspond pixels display thereafter applies
+see also webpage graphics pdf layers mapquest google maps google earth openstreetmap yahoo maps
+climatic maps
+maps reflect territorial distribution climatic conditions based results longterm observations climatic maps compiled individual climatic features temperature precipitation humidity combinations earths surface upper layers atmosphere climatic maps afford convenient overview climatic features large region permit values climatic features compared different parts region interpolation maps used determine values climatic features particular spot
+climatic maps generally apply individual months year whole sometimes four seasons growing period forth maps compiled observations ground meteorological stations atmospheric pressure converted sea level air temperature maps compiled actual values observed surface earth values converted sea level pressure field free atmosphere represented either maps distribution pressure different standard altitudesfor example every kilometer sea levelor maps baric topography altitudes precisely geopotentials main isobaric surfaces example millibars counted sea level plotted temperature humidity wind aeroclimatic maps may apply either standard altitudes main isobaric surfaces
+isolines drawn maps climatic features longterm mean values atmospheric pressure temperature humidity total precipitation forth connect points equal values feature questionfor example isobars pressure isotherms temperature isohyets precipitation isoamplitudes drawn maps amplitudes example annual amplitudes air temperaturethat differences mean temperatures warmest coldest month isanomals drawn maps anomalies example deviations mean temperature place mean temperature entire latitudinal zone isolines frequency drawn maps showing frequency particular phenomenon example annual number days thunderstorm snow cover isochrones drawn maps showing dates onset given phenomenon example first frost appearance disappearance snow cover date particular value meteorological element course year example passing mean daily air temperature zero isolines mean numerical value wind velocity isotachs drawn wind maps charts wind resultants directions prevailing winds indicated arrows different length arrows different plumes lines flow often drawn maps zonal meridional components wind frequently compiled free atmosphere atmospheric pressure wind usually combined climatic maps wind roses curves showing distribution meteorological elements diagrams annual course elements individual stations like also plotted climatic maps
+maps climatic regionalization division earths surface climatic zones regions according classification climates special kind climatic map
+climatic maps often incorporated climatic atlases varying geographic range globe hemispheres continents countries oceans included comprehensive atlases besides general climatic maps applied climatic maps atlases great practical value aeroclimatic maps aeroclimatic atlases agroclimatic maps numerous
+conventional signs
+various features shown map represented conventional signs symbols example colors used indicate classification roads signs usually explained margin map separately published characteristic sheet
+cartographers prefer make map cover practically entire screen sheet paper leaving room outside map information map whole cartographers typically place information otherwise blank region inside map cartouche map legend title compass rose bar scale etc particular maps contain smaller submaps otherwise blank regionsoften one much smaller scale showing whole globe whole map fits globe showing regions interest larger scale order show details wouldnt otherwise fit occasionally submaps use scale large mapa maps contiguous united states include submap scale two noncontiguous states
+labeling
+communicate spatial information effectively features rivers lakes cities need labeled centuries cartographers developed art placing names even densest maps text placement name placement get mathematically complex number labels map density increases therefore text placement timeconsuming laborintensive cartographers gis users developed automatic label placement ease process
+nongeographical spatial maps
+maps exist solar system cosmological features star maps addition maps bodies moon planets technically geographical maps
+non spatial maps
+diagrams schematic diagrams gantt charts treemaps display logical relationships items display spatial relationships
+maps example london underground map topological maps topological nature distances completely unimportant connectivity significant
+generalpurpose maps
+generalpurpose maps provide many types information one map atlas maps wall maps road maps fall category following features might shown generalpurpose maps bodies water roads railway lines parks elevations towns cities political boundaries latitude longitude national provincial parks maps give broad understanding location features area reader may gain understanding type landscape location urban places location major transportation routes
+types maps
+atlas
+climatic map
+physical map
+political map
+street map
+thematic map
+weather map
+relief map
+world map
+legal regulation
+countries required published maps represent national claims regarding border disputes example
+within russia google maps shows crimea part russia
+india peoples republic china require maps show areas subject sinoindian border dispute favor
+peoples republic china began requiring online maps served within china enforce compliance laws
+see also
+general
+map designing types
+modern maps
+map history
+related topics
+notes
+references
+bibliography
+david buisseret ed monarchs ministers maps emergence cartography tool government early modern europe chicago university chicago press isbn
+denis e cosgrove ed mappings reaktion books isbn
+freeman herbert automated cartographic text placement white paper
+ahn j freeman h program automatic name placement proc autocarto ottawa
+freeman h computer name placement ch geographical information systems dj maguire mf goodchild dw rhind john wiley new york
+mark monmonier lie maps isbn
+oconnor jj ef robertson history cartography scotland st andrews university
+external links
+international cartographic association ica world body mapping giscience professionals
+geography maps illustrated guide staff us library congress
+historical maps hargrett library collection university georgia browse maps early djvu format requires free plugin java
+history cartography project university wisconsin comprehensive research project history maps mapping
+mapping history project university oregon
+mapping world lionel pincus princess firyal map division new york public library
+online map collections library congress
+online map collections bibliothque nationale de france
+maps department british library
+john hw stuckenberg map digital collection gettysburg college
+terra library geography research assistant
+online map painting statistics

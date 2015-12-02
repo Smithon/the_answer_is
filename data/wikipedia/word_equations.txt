@@ -1,0 +1,125 @@
+thermal conduction is the transfer of internal energy by microscopic diffusion and collisions of particles or quasi-particles within a body or between contiguous bodies the microscopically diffusing and colliding objects include molecules atoms electrons and phonons they transfer disorganized microscopic kinetic and potential energy which are jointly known as internal energy conduction takes place in all phases of ponderable matter such as solids liquids gases and plasmas but it is distinctly recognizable only when the matter is undergoing neither chemical reaction nor differential local internal flows of distinct chemical constituents in the presence of such chemically defined contributory sub-processes only the flow of internal energy is recognizable as distinct from thermal conduction a net flow of energy solely because of a temperature gradient is recognized as a flow of heat
+heat spontaneously flows from a hotter to a colder body for example heat is conducted from the hotplate of an electric stove to the bottom of a saucepan in contact with it in the absence of external drivers within a body or between bodies temperature differences decay over time and thermal equilibrium is approached temperature becoming more uniform
+in conduction the heat flow is within and through the body itself in contrast in heat transfer by thermal radiation the transfer is often between bodies which may be separated spatially also possible is transfer of heat by a combination of conduction and thermal radiation in convection internal energy is carried between bodies by a moving material carrier in solids conduction is mediated by the combination of vibrations and collisions of molecules of propagation and collisions of phonons and of diffusion and collisions of free electrons in gases and liquids conduction is due to the collisions and diffusion of molecules during their random motion photons in this context do not collide with one another and so heat transport by electromagnetic radiation is conceptually distinct from heat conduction by microscopic diffusion and collisions of material particles and phonons but the distinction is often not easily observed unless the material is semi-transparent
+in the engineering sciences heat transfer includes the processes of thermal radiation convection and sometimes mass transfer usually more than one of these processes occurs in a given situation the conventional symbol for the material property thermal conductivity is 
+== overviewedit ==
+on a microscopic scale conduction occurs within a body considered as being stationary; this means that the kinetic and potential energies of the bulk motion of the body are separately accounted for internal energy diffuses as rapidly moving or vibrating atoms and molecules interact with neighboring particles transferring some of their microscopic kinetic and potential energies these quantities being defined relative to the bulk of the body considered as being stationary heat is transferred by conduction when adjacent atoms or molecules collide or as several electrons move backwards and forwards from atom to atom in a disorganized way so as not to form a macroscopic electric current or as phonons collide and scatter conduction is the most significant means of heat transfer within a solid or between solid objects in thermal contact conduction is greater in solids because the network of relatively close fixed spatial relationships between atoms helps to transfer energy between them by vibration
+fluids (and especially gases) are less conductive this is due to the large distance between atoms in a gas: fewer collisions between atoms means less conduction conductivity of gases increases with temperature conductivity increases with increasing pressure from vacuum up to a critical point that the density of the gas is such that molecules of the gas may be expected to collide with each other before they transfer heat from one surface to another after this point conductivity increases only slightly with increasing pressure and density
+thermal contact conductance is the study of heat conduction between solid bodies in contact a temperature drop is often observed at the interface between the two surfaces in contact this phenomenon is said to be a result of a thermal contact resistance existing between the contacting surfaces interfacial thermal resistance is a measure of an interface's resistance to thermal flow this thermal resistance differs from contact resistance as it exists even at atomically perfect interfaces understanding the thermal resistance at the interface between two materials is of primary significance in the study of its thermal properties interfaces often contribute significantly to the observed properties of the materials
+the inter-molecular transfer of energy could be primarily by elastic impact as in fluids or by free electron diffusion as in metals or phonon vibration as in insulators in insulators the heat flux is carried almost entirely by phonon vibrations
+metals (e.g. copper platinum gold,etc.) are usually good conductors of thermal energy this is due to the way that metals bond chemically: metallic bonds (as opposed to covalent or ionic bonds) have free-moving electrons that transfer thermal energy rapidly through the metal the electron fluid of a conductive metallic solid conducts most of the heat flux through the solid phonon flux is still present but carries less of the energy electrons also conduct electric current through conductive solids and the thermal and electrical conductivities of most metals have about the same ratio a good electrical conductor such as copper also conducts heat well thermoelectricity is caused by the interaction of heat flux and electric current heat conduction within a solid is directly analogous to diffusion of particles within a fluid in the situation where there are no fluid currents
+to quantify the ease with which a particular medium conducts engineers employ the thermal conductivity also known as the conductivity constant or conduction coefficient k in thermal conductivity k is defined as "the quantity of heat q transmitted in time (t) through a thickness (l) in a direction normal to a surface of area (a) due to a temperature difference (t) [...]." thermal conductivity is a material property that is primarily dependent on the medium's phase temperature density and molecular bonding thermal effusivity is a quantity derived from conductivity which is a measure of its ability to exchange thermal energy with its surroundings
+=== steady-state conductionedit ===
+steady state conduction is the form of conduction that happens when the temperature difference(s) driving the conduction are constant so that (after an equilibration time) the spatial distribution of temperatures (temperature field) in the conducting object does not change any further thus all partial derivatives of temperature with respect to space may either be zero or have nonzero values but all derivatives of temperature at any point with respect to time are uniformly zero in steady state conduction the amount of heat entering any region of an object is equal to amount of heat coming out (if this were not so the temperature would be rising or falling as thermal energy was tapped or trapped in a region)
+for example a bar may be cold at one end and hot at the other but after a state of steady state conduction is reached the spatial gradient of temperatures along the bar does not change any further as time proceeds instead the temperature at any given section of the rod remains constant and this temperature varies linearly in space along the direction of heat transfer
+in steady state conduction all the laws of direct current electrical conduction can be applied to "heat currents" in such cases it is possible to take "thermal resistances" as the analog to electrical resistances in such cases temperature plays the role of voltage and heat transferred per unit time (heat power) is the analog of electric current steady state systems can be modelled by networks of such thermal resistances in series and in parallel in exact analogy to electrical networks of resistors see purely resistive thermal circuits for an example of such a network
+=== transient conductionedit ===
+in general during any period in which temperatures change in time at any place within an object the mode of thermal energy flow is termed transient conduction another term is "non steady-state" conduction referring to time-dependence of temperature fields in an object non-steady-state situations appear after an imposed change in temperature at a boundary of an object they may also occur with temperature changes inside an object as a result of a new source or sink of heat suddenly introduced within an object causing temperatures near the source or sink to change in time
+when a new perturbation of temperature of this type happens temperatures within the system change in time toward a new equilibrium with the new conditions provided that these do not change after equilibrium heat flow into the system once again equals the heat flow out and temperatures at each point inside the system no longer change once this happens transient conduction is ended although steady-state conduction may continue if heat flow continues
+if changes in external temperatures or internal heat generation changes are too rapid for equilibrium of temperatures in space to take place then the system never reaches a state of unchanging temperature distribution in time and the system remains in a transient state
+an example of a new source of heat "turning on" within an object causing transient conduction is an engine starting in an automobile in this case the transient thermal conduction phase for the entire machine is over and the steady state phase appears as soon as the engine reaches steady-state operating temperature in this state of steady-state equilibrium temperatures vary greatly from the engine cylinders to other parts of the automobile but at no point in space within the automobile does temperature increase or decrease after establishing this state the transient conduction phase of heat transfer is over
+new external conditions also cause this process: for example the copper bar in the example steady-state conduction experiences transient conduction as soon as one end is subjected to a different temperature from the other over time the field of temperatures inside the bar reach a new steady-state in which a constant temperature gradient along the bar is finally set up and this gradient then stays constant in space typically such a new steady state gradient is approached exponentially with time after a new temperature-or-heat source or sink has been introduced when a "transient conduction" phase is over heat flow may still continue at high power so long as temperatures do not change
+an example of transient conduction that does not end with steady-state conduction but rather no conduction occurs when a hot copper ball is dropped into oil at a low temperature here the temperature field within the object begins to change as a function of time as the heat is removed from the metal and the interest lies in analyzing this spatial change of temperature within the object over time until all gradients disappear entirely (the ball has reached the same temperature as the oil) mathematically this condition is also approached exponentially; in theory it takes infinite time but in practice it is over for all intents and purposes in a much shorter period at the end of this process with no heat sink but the internal parts of the ball (which are finite) there is no steady state heat conduction to reach such a state never occurs in this situation but rather the end of the process is when there is no heat conduction at all
+analysis of non steady-state conduction systems is more complex than steady-state systems if the conducting body has a simple shape then exact analytical mathematical expressions and solutions may be possible (see heat equation for the analytical approach) however most often because of complicated shapes with varying thermal conductivities within the shape (i.e. most complex objects mechanisms or machines in engineering) often the application of approximate theories is required and/or numerical analysis by computer one popular graphical method involves the use of heisler charts
+occasionally transient conduction problems may be considerably simplified if regions of the object being heated or cooled can be identified for which thermal conductivity is very much greater than that for heat paths leading into the region in this case the region with high conductivity can often be treated in the lumped capacitance model as a "lump" of material with a simple thermal capacitance consisting of its aggregate heat capacity such regions warm or cool but in the process show no significant temperature variation across their extent during the process (as compared to the rest of the system) this is due to their far higher conductance during transient conduction therefore the temperature across their conductive regions changes uniformly in space and as a simple exponential in time an example of such systems are those that follow newton's law of cooling during transient cooling (or the reverse during heating) the equivalent thermal circuit consists of a simple capacitor in series with a resistor in such cases the remainder of the system with high thermal resistance (comparatively low conductivity) plays the role of the resistor in the circuit
+=== relativistic conductionedit ===
+the theory of relativistic heat conduction is a model that is compatible with the theory of special relativity for most of the last century it was recognized that fourier equation is in contradiction with the theory of relativity because it admits an infinite speed of propagation of heat signals for example according to fourier equation a pulse of heat at the origin would be felt at infinity instantaneously the speed of information propagation is faster than the speed of light in vacuum which is physically inadmissible within the framework of relativity alterations to the fourier model provided for a relativistic model of heat conduction avoiding this problem
+=== quantum conductionedit ===
+second sound is a quantum mechanical phenomenon in which heat transfer occurs by wave-like motion rather than by the more usual mechanism of diffusion heat takes the place of pressure in normal sound waves this leads to a very high thermal conductivity it is known as "second sound" because the wave motion of heat is similar to the propagation of sound in air
+== fourier's lawedit ==
+the law of heat conduction also known as fourier's law states that the time rate of heat transfer through a material is proportional to the negative gradient in the temperature and to the area at right angles to that gradient through which the heat flows we can state this law in two equivalent forms: the integral form in which we look at the amount of energy flowing into or out of a body as a whole and the differential form in which we look at the flow rates or fluxes of energy locally
+newton's law of cooling is a discrete analog of fourier's law while ohm's law is the electrical analogue of fourier's law
+=== differential formedit ===
+the differential form of fourier's law of thermal conduction shows that the local heat flux density  is equal to the product of thermal conductivity  and the negative local temperature gradient  the heat flux density is the amount of energy that flows through a unit area per unit time
+where (including the si units)
+is the local heat flux density wm2
+is the material's conductivity wm1k1
+is the temperature gradient km1
+the thermal conductivity  is often treated as a constant though this is not always true while the thermal conductivity of a material generally varies with temperature the variation can be small over a significant range of temperatures for some common materials in anisotropic materials the thermal conductivity typically varies with orientation; in this case is represented by a second-order tensor in non uniform materials varies with spatial location
+for many simple applications fourier's law is used in its one-dimensional form in the x-direction
+=== integral formedit ===
+by integrating the differential form over the material's total surface  we arrive at the integral form of fourier's law:
+where (including the si units):
+is the amount of heat transferred per unit time (in w) and
+is an oriented surface area element (in m2)
+the above differential equation when integrated for a homogeneous material of 1-d geometry between two endpoints at constant temperature gives the heat flow rate as:
+where
+a is the cross-sectional surface area
+is the temperature difference between the ends
+is the distance between the ends
+this law forms the basis for the derivation of the heat equation
+== conductanceedit ==
+writing
+where u is the conductance in w/(m2 k)
+fourier's law can also be stated as:
+the reciprocal of conductance is resistance r given by:
+resistance is additive when several conducting layers lie between the hot and cool regions because a and q are the same for all layers in a multilayer partition the total conductance is related to the conductance of its layers by:
+so when dealing with a multilayer partition the following formula is usually used:
+for heat conduction from one fluid to another through a barrier it is sometimes important to consider the conductance of the thin film of fluid that remains stationary next to the barrier this thin film of fluid is difficult to quantify because its characteristics depend upon complex conditions of turbulence and viscositybut when dealing with thin high-conductance barriers it can sometimes be quite significant
+=== intensive-property representationedit ===
+the previous conductance equations written in terms of extensive properties can be reformulated in terms of intensive properties
+ideally the formulae for conductance should produce a quantity with dimensions independent of distance like ohm's law for electrical resistance:  and conductance: 
+from the electrical formula:  where is resistivity x is length and a is cross-sectional area we have  where g is conductance k is conductivity x is length and a is cross-sectional area
+for heat
+where u is the conductance
+fourier's law can also be stated as:
+analogous to ohm's law: or
+the reciprocal of conductance is resistance r given by:
+analogous to ohm's law:
+the rules for combining resistances and conductances (in series and in parallel) are the same for both heat flow and electric current
+=== cylindrical shellsedit ===
+conduction through cylindrical shells (e.g pipes) can be calculated from the internal radius  the external radius  the length  and the temperature difference between the inner and outer wall 
+the surface area of the cylinder is
+when fourier's equation is applied:
+and rearranged:
+then the rate of heat transfer is:
+the thermal resistance is:
+and  where  it is important to note that this is the log-mean radius
+=== sphericaledit ===
+the conduction through a spherical shell with internal radius  and external radius  can be calculated in a similar manner as for a cylindrical shell
+the surface area of the sphere is:
+solving in a similar manner as for a cylindrical shell (see above) produces:
+== transient thermal conductionedit ==
+=== interface heat transferedit ===
+the heat transfer at an interface is considered a transient heat flow to analyze this problem the biot number is important to understand how the system behaves the biot number is determined by: the heat transfer coefficient h is introduced in this formula and is measured in  if the system has a biot number of less than 0.1 the material behaves according to newtonian cooling i.e with negligible temperature gradient within the body if the biot number is greater than 0.1 the system behaves as a series solution the temperature profile in terms of time can be determined by the function can be derived from the equation
+which becomes
+the heat transfer coefficient h is measured in  and represents the transfer of heat at an interface between two materials this value is different at every interface and is an important concept in understanding heat flow at an interface
+the series solution can be analyzed with a nomogram a nomogram has relative temperature as the y coordinate and the fourier number which is calculated by
+the biot number increases as the fourier number decreases there are five steps to determine a temperature profile in terms of time
+calculate the biot number
+determine which relative depth matters either x or l
+convert time to the fourier number
+convert to relative temperature with the boundary conditions
+compared required point to trace specified biot number on the nomogram
+== thermal conduction applicationsedit ==
+=== splat coolingedit ===
+splat cooling is a method for quenching small droplets of molten materials by rapid contact with a cold surface the particles undergo a characteristic cooling process with the heat profile at for initial temperature as the maximum at and at and  and the heat profile at for as the boundary conditions splat cooling rapidly ends in a steady state temperature and is similar in form to the gaussian diffusion equation the temperature profile with respect to the position and time of this type of cooling varies with:
+splat cooling is a fundamental concept that has been adapted for practical use in the form of thermal spraying the thermal diffusivity coefficient represented as  can be written as  this varies according to the material
+=== metal quenchingedit ===
+metal quenching is a transient heat transfer process in terms of the time temperature transformation (ttt) it is possible to manipulate the cooling process to adjust the phase of a suitable material for example appropriate quenching of steel can convert a desirable proportion of its content of austenite to martensite creating a very tough product to achieve this it is necessary to quench at the "nose" (or eutectic) of the ttt diagram since materials differ in their biot numbers the time it takes for the material to quench or the fourier number varies in practice in steel the quenching temperature range is generally from 600 c to 200 c to control the quenching time and to select suitable quenching media it is necessary to determine the fourier number from the desired quenching time the relative temperature drop and the relevant biot number usually the correct figures are read from a standard nomogram by calculating the heat transfer coefficient from this biot number one can find a liquid medium suitable for the application
+== zeroth law of thermodynamicsedit ==
+one statement of the so-called zeroth law of thermodynamics is directly focused on the idea of conduction of heat bailyn (1994) writes that " the zeroth law may be stated:
+all diathermal walls are equivalent."
+a diathermal wall is a physical connection between two bodies that allows the passage of heat between them bailyn is referring to diathermal walls that exclusively connect two bodies especially conductive walls
+this statement of the 'zeroth law' belongs to an idealized theoretical discourse and actual physical walls may have peculiarities that do not conform to its generality
+for example the material of the wall must not undergo a phase transition such as evaporation or fusion at the temperature at which it must conduct heat but when only thermal equilibrium is considered and time is not urgent so that the conductivity of the material does not matter too much one suitable heat conductor is as good as another conversely another aspect of the zeroth law is that subject again to suitable restrictions a given diathermal wall is indifferent to the nature of the heat bath to which it is connected for example the glass bulb of a thermometer acts as a diathermal wall whether exposed to a gas or to a liquid provided they do not corrode or melt it
+these indifferences are amongst the defining characteristics of heat transfer in a sense they are symmetries of heat transfer
+== see alsoedit ==
+list of thermal conductivities
+electrical conduction
+convection diffusion equation
+r-value (insulation)
+heat pipe
+fick's law of diffusion
+relativistic heat conduction
+thermomass theory
+churchillbernstein equation
+fourier number
+biot number
+false diffusion
+== referencesedit ==
+dehghani f 2007 chng2801 conservation and transport processes: course notes university of sydney sydney
+john h lienhard iv and john h lienhard v 'a heat transfer textbook' third edition phlogyston press cambridge massachusetts [1]
+== external linksedit ==
+heat conduction thermal-fluidspedia
+newton's law of cooling by jeff bryant based on a program by stephen wolfram wolfram demonstrations project

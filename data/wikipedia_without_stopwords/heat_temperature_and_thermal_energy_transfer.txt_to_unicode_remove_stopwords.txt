@@ -1,0 +1,151 @@
+heat transftutrutyufer exchange thermal energy physical systems depending temperature pressure dissipating heat fundamental modes heat transfer conduction diffusion convection radiation
+heat transfer always occurs froytkyuym region high temperature another region lower temperature heat transfer changes internal energy systems involved according first law thermodynamics second law thermodynamics defines concept thermodynamic entropy measurable heat transfer
+thermal equilibrium reached involved bodies surroundings reach temperature thermal expansion tendency matter change volume response change temperature
+overview
+heat defined physics transfer thermal energy across welldefined boundary around thermodynamic system thermodynamic free energy amount work thermodynamic system perform enthalpy thermodynamic potential designated letter h sum internal energy system u plus product pressure p volume v joule unit quantify energy work amount heat
+heat transfer process function path function opposed functions state therefore amount heat transferred thermodynamic process changes state system depends process occurs net difference initial final states process
+thermodynamic mechanical heat transfer calculated heat transfer coefficient proportionality heat flux thermodynamic driving force flow heat heat flux quantitative vectorial representation heat flow surface
+engineering contexts term heat taken synonymous thermal energy usage origin historical interpretation heat fluid caloric transferred various causes also common language laymen everyday life
+transport equations thermal energy fouriers law mechanical momentum newtons law fluids mass transfer ficks laws diffusion similar analogies among three transport processes developed facilitate prediction conversion one others
+thermal engineering concerns generation use conversion exchange heat transfer heat transfer involved almost every sector economy heat transfer classified various mechanisms thermal conduction thermal convection thermal radiation transfer energy phase changes
+mechanisms
+fundamental modes heat transfer
+advection
+advection transport mechanism fluid substance conserved property one location another depending motion momentum
+conduction diffusion
+transfer energy objects physical contact thermal conductivity property material conduct heat evaluated primarily terms fouriers law heat conduction
+convection
+transfer energy object environment due fluid motion average temperature reference evaluating properties related convective heat transfer
+radiation
+transfer energy movement charged particles within atoms converted electromagnetic radiation
+advection
+transferring matter energyincluding thermal energyis moved physical transfer hot cold object one place another simple placing hot water bottle heating bed movement iceberg changing ocean currents practical example thermal hydraulics described formula
+q heat flux wm density kgm heat capacity constant pressure jkgk change temperature k velocity ms
+conduction
+microscopic scale heat conduction occurs hot rapidly moving vibrating atoms molecules interact neighboring atoms molecules transferring energy heat neighboring particles words heat transferred conduction adjacent atoms vibrate one another electrons move one atom another conduction significant means heat transfer within solid solid objects thermal contact fluidsespecially gasesare less conductive thermal contact conductance study heat conduction solid bodies contact
+steady state conduction see fouriers law form conduction happens temperature difference driving conduction constant equilibration time spatial distribution temperatures conducting object change steady state conduction amount heat entering section equal amount heat coming
+transient conduction see heat equation occurs temperature within object changes function time analysis transient systems complex often calls application approximation theories numerical analysis computer
+convection
+flow fluid may forced external processes sometimes gravitational fields buoyancy forces caused thermal energy expands fluid example fire plume thus influencing transfer latter process often called natural convection convective processes also move heat partly diffusion well another form convection forced convection case fluid forced flow use pump fan mechanical means
+convective heat transfer convection transfer heat one place another movement fluids process essentially transfer heat via mass transfer bulk motion fluid enhances heat transfer many physical situations example solid surface fluid convection usually dominant form heat transfer liquids gases although sometimes discussed third method heat transfer convection usually used describe combined effects heat conduction within fluid diffusion heat transference bulk fluid flow streaming process transport fluid streaming known advection pure advection term generally associated mass transport fluids advection pebbles river case heat transfer fluids transport advection fluid always also accompanied transport via heat diffusion also known heat conduction process heat convection understood refer sum heat transport advection diffusionconduction
+free natural convection occurs bulk fluid motions streams currents caused buoyancy forces result density variations due variations temperature fluid forced convection term used streams currents fluid induced external meanssuch fans stirrers pumpscreating artificially induced convection current
+convectioncooling
+convective cooling sometimes described newtons law cooling
+however definition validity newtons law cooling requires rate heat loss convection linear function proportional temperature difference drives heat transfer convective cooling sometimes case general convection linearly dependent temperature gradients cases strongly nonlinear cases newtons law apply
+convection vs conduction
+body fluid heated underneath container conduction convection considered compete dominance heat conduction great fluid moving convection heated conduction fast downward movement stopped due buoyancy fluid moving convection cooled conduction fast driving buoyancy diminish hand heat conduction low large temperature gradient may formed convection might strong
+rayleigh number measure determining relative strength conduction convection
+g acceleration due gravity
+density density difference lower upper ends
+dynamic viscosity
+thermal diffusivity
+volume thermal expansivity sometimes denoted elsewhere
+temperature
+kinematic viscosity
+l characteristic length
+rayleigh number understood ratio rate heat transfer convection rate heat transfer conduction equivalently ratio corresponding timescales ie conduction timescale divided convection timescale numerical factor seen follows calculations numerical factors depending geometry system
+buoyancy force driving convection roughly corresponding pressure roughly steady state canceled shear stress due viscosity therefore roughly equals v typical fluid velocity due convection order timescale conduction timescale hand order
+convection occurs rayleigh number
+radiation
+thermal radiation occurs vacuum transparent medium solid fluid transfer energy means photons electromagnetic waves governed laws earths radiation balance depends incoming outgoing thermal radiation earths energy budget anthropogenic perturbations climate system responsible positive radiative forcing reduces net longwave radiation loss space
+thermal radiation energy emitted matter electromagnetic waves due pool thermal energy matter temperature absolute zero thermal radiation propagates without presence matter vacuum space
+thermal radiation direct result random movements atoms molecules matter since atoms molecules composed charged particles protons electrons movement results emission electromagnetic radiation carries energy away surface
+stefanboltzmann equation describes rate transfer radiant energy follows object vacuum
+radiative transfer two objects equation follows
+q heat flux emissivity unity black body stefanboltzmann constant absolute temperature kelvin rankine radiation typically important hot objects objects large temperature difference
+radiation sun solar radiation harvested heat power unlike conductive convective forms heat transfer thermal radiation concentrated small spot using reflecting mirrors exploited concentrating solar power generation example sunlight reflected mirrors heats ps solar power tower day heat water c f
+phase transition
+phase transition phase change takes place thermodynamic system one phase state matter another one heat transfer phase change examples melting ice boiling water mason equation explains growth water droplet based effects heat transport evaporation condensation
+types phase transition occurring four fundamental states matter include
+solid deposition freezing solid solid transformation
+gas boilingevaporation recombinationdeionization sublimation
+liquid condensation meltingfusion
+plasma ionization
+boiling
+boiling point substance temperature vapor pressure liquid equals pressure surrounding liquid liquid evaporates resulting abrupt change vapor volume
+saturation temperature means boiling point saturation temperature temperature corresponding saturation pressure liquid boils vapor phase liquid said saturated thermal energy addition thermal energy results phase transition
+standard atmospheric pressure low temperatures boiling occurs heat transfer rate controlled usual singlephase mechanisms surface temperature increased local boiling occurs vapor bubbles nucleate grow surrounding cooler fluid collapse subcooled nucleate boiling efficient heat transfer mechanism high bubble generation rates bubbles begin interfere heat flux longer increases rapidly surface temperature departure nucleate boiling dnb
+similar standard atmospheric pressure high temperatures hydrodynamicallyquieter regime film boiling reached heat fluxes across stable vapor layers low rise slowly temperature contact fluid surface may seen probably leads extremely rapid nucleation fresh vapor layer spontaneous nucleation higher temperatures still maximum heat flux reached critical heat flux chf
+leidenfrost effect demonstrates nucleate boiling slows heat transfer due gas bubbles heaters surface mentioned gasphase thermal conductivity much lower liquidphase thermal conductivity outcome kind gas thermal barrier
+condensation
+condensation occurs vapor cooled changes phase liquid condensation latent heat vaporization must released amount heat absorbed vaporization fluid pressure
+several types condensation
+homogeneous condensation formation fog
+condensation direct contact subcooled liquid
+condensation direct contact cooling wall heat exchanger common mode used industry
+filmwise condensation liquid film formed subcooled surface usually occurs liquid wets surface
+dropwise condensation liquid drops formed subcooled surface usually occurs liquid wet surface
+dropwise condensation difficult sustain reliably therefore industrial equipment normally designed operate filmwise condensation mode
+melting
+melting physical process results phase transition substance solid liquid internal energy substance increased typically application heat pressure resulting rise temperature melting point ordering ionic molecular entities solid breaks less ordered state solid liquefies object melted completely molten substances molten state generally reduced viscosity elevated temperature exception maxim element sulfur whose viscosity increases point due polymerization decreases higher temperatures molten state
+modeling approaches
+heat transfer modeled following ways
+climate models
+climate models study radiant heat transfer using quantitative methods simulate interactions atmosphere oceans land surface ice
+heat equation
+heat equation important partial differential equation describes distribution heat variation temperature given region time cases exact solutions equation available cases equation must solved numerically using computational methods
+lumped system analysis
+lumped system analysis often reduces complexity equations one firstorder linear differential equation case heating cooling described simple exponential solution often referred newtons law cooling
+system analysis lumped capacitance model common approximation transient conduction may used whenever heat conduction within object much faster heat conduction across boundary object method approximation reduces one aspect transient conduction systemthat within objectto equivalent steady state system method assumes temperature within object completely uniform although value may changing time
+method ratio conductive heat resistance within object convective heat transfer resistance across objects boundary known biot number calculated small biot numbers approximation spatially uniform temperature within object used presumed heat transferred object time uniformly distribute due lower resistance compared resistance heat entering object
+engineering
+heat transfer broad application functioning numerous devices systems heattransfer principles may used preserve increase decrease temperature wide variety circumstances heat transfer methods used numerous disciplines automotive engineering thermal management electronic devices systems climate control insulation materials processing power station engineering
+insulation radiance resistance
+thermal insulators materials specifically designed reduce flow heat limiting conduction convection thermal resistance heat property measurement object material resists heat flow heat per time unit thermal resistance temperature difference
+radiance spectral radiance measures quantity radiation passes emitted radiant barriers materials reflect radiation therefore reduce flow heat radiation sources good insulators necessarily good radiant barriers vice versa metal instance excellent reflector poor insulator
+effectiveness radiant barrier indicated reflectivity fraction radiation reflected material high reflectivity given wavelength low emissivity wavelength vice versa specific wavelength reflectivity emissivity ideal radiant barrier would reflectivity would therefore reflect percent incoming radiation vacuum flasks dewars silvered approach ideal vacuum space satellites use multilayer insulation consists many layers aluminized shiny mylar greatly reduce radiation heat transfer control satellite temperature
+devices
+heat engine system performs conversion heat thermal energy mechanical energy used mechanical work
+thermocouple temperaturemeasuring device widely used type temperature sensor measurement control also used convert heat electric power
+thermoelectric cooler solid state electronic device pumps transfers heat one side device electric current passed based peltier effect
+thermal diode thermal rectifier device causes heat flow preferentially one direction
+heat exchangers
+heat exchanger used efficient heat transfer dissipate heat heat exchangers widely used refrigeration air conditioning space heating power generation chemical processing one common example heat exchanger cars radiator hot coolant fluid cooled flow air radiators surface
+common types heat exchanger flows include parallel flow counter flow cross flow parallel flow fluids move direction transferring heat counter flow fluids move opposite directions cross flow fluids move right angles common constructions heat exchanger include shell tube double pipe extruded finned pipe spiral fin pipe utube stacked plate
+heat sink component transfers heat generated within solid material fluid medium air liquid examples heat sinks heat exchangers used refrigeration air conditioning systems radiator car heat pipe another heattransfer device combines thermal conductivity phase transition efficiently transfer heat two solid interfaces
+examples
+architecture
+efficient energy use goal reduce amount energy required heating cooling architecture condensation air currents cause cosmetic structural damage energy audit help assess implementation recommended corrective procedures instance insulation improvements air sealing structural leaks addition energyefficient windows doors
+smart meter device records electric energy consumption intervals
+thermal transmittance rate transfer heat structure divided difference temperature across structure expressed watts per square meter per kelvin wmk wellinsulated parts building low thermal transmittance whereas poorlyinsulated parts building high thermal transmittance
+thermostat device monitor control temperature
+climate engineering
+climate engineering consist carbon dioxide removal solar radiation management since amount carbon dioxide determines radiative balance earth atmosphere carbon dioxide removal techniques applied reduce radiative forcing solar radiation management attempt absorb less solar radiation offset effects greenhouse gases
+greenhouse effect
+greenhouse effect process thermal radiation planetary surface absorbed atmospheric greenhouse gases reradiated directions since part reradiation back towards surface lower atmosphere results elevation average surface temperature would absence gases
+heat transfer human body
+principles heat transfer engineering systems applied human body order determine body transfers heat heat produced body continuous metabolism nutrients provides energy systems body human body must maintain consistent internal temperature order maintain healthy bodily functions therefore excess heat must dissipated body keep overheating person engages elevated levels physical activity body requires additional fuel increases metabolic rate rate heat production body must use additional methods remove additional heat produced order keep internal temperature healthy level
+heat transfer convection driven movement fluids surface body convective fluid either liquid gas heat transfer outer surface body convection mechanism dependent surface area body velocity air temperature gradient surface skin ambient air normal temperature body approximately c heat transfer occurs readily temperature surroundings significantly less normal body temperature concept explains person feels cold enough covering worn exposed cold environment clothing considered insulator provides thermal resistance heat flow covered portion body thermal resistance causes temperature surface clothing less temperature surface skin smaller temperature gradient surface temperature ambient temperature cause lower rate heat transfer skin covered
+order ensure one portion body significantly hotter another portion heat must distributed evenly bodily tissues blood flowing blood vessels acts convective fluid helps prevent buildup excess heat inside tissues body flow blood vessels modeled pipe flow engineering system heat carried blood determined temperature surrounding tissue diameter blood vessel thickness fluid velocity flow heat transfer coefficient blood velocity blood vessel diameter fluid thickness related reynolds number dimensionless number used fluid mechanics characterize flow fluids
+latent heat loss also known evaporative heat loss accounts large fraction heat loss body core temperature body increases body triggers sweat glands skin bring additional moisture surface skin liquid transformed vapor removes heat surface body rate evaporation heat loss directly related vapor pressure skin surface amount moisture present skin therefore maximum heat transfer occur skin completely wet body continuously loses water evaporation significant amount heat loss occurs periods increased physical activity
+cooling techniques
+evaporative cooling
+evaporative cooling happens water vapor added surrounding air energy needed evaporate water taken air form sensible heat converted latent heat air remains constant enthalpy latent heat describes amount heat needed evaporate liquid heat comes liquid surrounding gas surfaces greater difference two temperatures greater evaporative cooling effect temperatures net evaporation water air occurs thus cooling effect
+laser cooling
+quantum physics laser cooling used achieve temperatures near absolute zero c f atomic molecular samples observe unique quantum effects occur heat level
+doppler cooling common method laser cooling
+sympathetic cooling process particles one type cool particles another type typically atomic ions directly lasercooled used cool nearby ions atoms technique allows cooling ions atoms cannot laser cooled directly
+magnetic cooling
+magnetic evaporative cooling process lowering temperature group atoms precooled methods laser cooling magnetic refrigeration cools k making use magnetocaloric effect
+radiative cooling
+radiative cooling process body loses heat radiation outgoing energy important effect earths energy budget case earthatmosphere system refers process longwave infrared radiation emitted balance absorption shortwave visible energy sun convective transport heat evaporative transport latent heat remove heat surface redistribute atmosphere
+thermal energy storage
+thermal energy storage refers technologies used collect store energy later use employed balance energy demand day nighttime thermal reservoir may maintained temperature hotter colder ambient environment applications include later use space heating domestic process hot water generate electricity
+see also
+combined forced natural convection
+heat capacity
+heat transfer physics
+stefanboltzmann law
+thermal contact conductance
+thermal physics
+thermal resistance electronics
+thermal science
+heat transfer enhancement
+references
+external links
+thermalfluidspedia online thermal fluids encyclopedia
+hyperphysics article heat transfer overview
+interseasonal heat transfer practical example heat transfer used heat buildings without burning fossil fuels
+aspects heat transfer cambridge university
+thermalfluids central
+energyd interactive heat transfer simulations everyone

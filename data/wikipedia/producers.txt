@@ -1,0 +1,101 @@
+a resistorcapacitor circuit (rc circuit) or rc filter or rc network is an electric circuit composed of resistors and capacitors driven by a voltage or current source a first order rc circuit is composed of one resistor and one capacitor and is the simplest type of rc circuit
+rc circuits can be used to filter a signal by blocking certain frequencies and passing others the two most common rc filters are the high-pass filters and low-pass filters; band-pass filters and band-stop filters usually require rlc filters though crude ones can be made with rc filters
+== introductionedit ==
+there are three basic linear passive lumped analog circuit components: the resistor (r) the capacitor (c) and the inductor (l) these may be combined in the rc circuit the rl circuit the lc circuit and the rlc circuit with the acronyms indicating which components are used these circuits among them exhibit a large number of important types of behaviour that are fundamental to much of analog electronics in particular they are able to act as passive filters this article considers the rc circuit in both series and parallel forms as shown in the diagrams below
+this article relies on knowledge of the complex impedance representation of capacitors and on knowledge of the frequency domain representation of signals
+== natural responseedit ==
+the simplest rc circuit is a capacitor and a resistor in parallel when a circuit consists of only a charged capacitor and a resistor the capacitor will discharge its stored energy through the resistor the voltage across the capacitor which is time dependent can be found by using kirchhoff's current law where the current charging the capacitor must equal the current through the resistor this results in the linear differential equation
+where c= capacitance of capacitor
+solving this equation for v yields the formula for exponential decay:
+where v0 is the capacitor voltage at time t = 0
+the time required for the voltage to fall to is called the rc time constant and is given by
+== complex impedanceedit ==
+the complex impedance zc (in ohms) of a capacitor with capacitance c (in farads) is
+the complex frequency s is in general a complex number
+where
+represents the imaginary unit:
+is the exponential decay constant (in radians per second) and
+is the sinusoidal angular frequency (also in radians per second)
+=== sinusoidal steady stateedit ===
+sinusoidal steady state is a special case in which the input voltage consists of a pure sinusoid (with no exponential decay) as a result
+and the evaluation of s becomes
+== series circuitedit ==
+by viewing the circuit as a voltage divider the voltage across the capacitor is:
+and the voltage across the resistor is:
+=== transfer functionsedit ===
+the transfer function from the input voltage to the voltage across the capacitor is
+similarly the transfer function from the input to the voltage across the resistor is
+==== poles and zerosedit ====
+both transfer functions have a single pole located at
+in addition the transfer function for the resistor has a zero located at the origin
+=== gain and phaseedit ===
+the magnitude of the gains across the two components are:
+and
+and the phase angles are:
+and
+these expressions together may be substituted into the usual expression for the phasor representing the output:
+=== currentedit ===
+the current in the circuit is the same everywhere since the circuit is in series:
+=== impulse responseedit ===
+the impulse response for each voltage is the inverse laplace transform of the corresponding transfer function it represents the response of the circuit to an input voltage consisting of an impulse or dirac delta function
+the impulse response for the capacitor voltage is
+where u(t) is the heaviside step function and
+is the time constant
+similarly the impulse response for the resistor voltage is
+where (t) is the dirac delta function
+=== frequency-domain considerationsedit ===
+these are frequency domain expressions analysis of them will show which frequencies the circuits (or filters) pass and reject this analysis rests on a consideration of what happens to these gains as the frequency becomes very large and very small
+as :
+as :
+this shows that if the output is taken across the capacitor high frequencies are attenuated (shorted to ground) and low frequencies are passed thus the circuit behaves as a low-pass filter if though the output is taken across the resistor high frequencies are passed and low frequencies are attenuated (since the capacitor blocks the signal as its frequency approaches 0) in this configuration the circuit behaves as a high-pass filter
+the range of frequencies that the filter passes is called its bandwidth the point at which the filter attenuates the signal to half its unfiltered power is termed its cutoff frequency this requires that the gain of the circuit be reduced to
+solving the above equation yields
+or
+which is the frequency that the filter will attenuate to half its original power
+clearly the phases also depend on frequency although this effect is less interesting generally than the gain variations
+as :
+as :
+so at dc (0 hz) the capacitor voltage is in phase with the signal voltage while the resistor voltage leads it by 90 as frequency increases the capacitor voltage comes to have a 90 lag relative to the signal and the resistor voltage comes to be in-phase with the signal
+=== time-domain considerationsedit ===
+this section relies on knowledge of e the natural logarithmic constant
+the most straightforward way to derive the time domain behaviour is to use the laplace transforms of the expressions for and given above this effectively transforms  assuming a step input (i.e before and then afterwards):
+and
+partial fractions expansions and the inverse laplace transform yield:
+these equations are for calculating the voltage across the capacitor and resistor respectively while the capacitor is charging; for discharging the equations are vice versa these equations can be rewritten in terms of charge and current using the relationships c=q/v and v=ir (see ohm's law)
+thus the voltage across the capacitor tends towards v as time passes while the voltage across the resistor tends towards 0 as shown in the figures this is in keeping with the intuitive point that the capacitor will be charging from the supply voltage as time passes and will eventually be fully charged
+these equations show that a series rc circuit has a time constant usually denoted being the time it takes the voltage across the component to either rise (across c) or fall (across r) to within of its final value that is is the time it takes to reach and to reach 
+the rate of change is a fractional per  thus in going from to  the voltage will have moved about 63.2% of the way from its level at toward its final value so c will be charged to about 63.2% after  and essentially fully charged (99.3%) after about  when the voltage source is replaced with a short-circuit with c fully charged the voltage across c drops exponentially with t from towards 0 c will be discharged to about 36.8% after  and essentially fully discharged (0.7%) after about  note that the current  in the circuit behaves as the voltage across r does via ohm's law
+these results may also be derived by solving the differential equations describing the circuit:
+and
+the first equation is solved by using an integrating factor and the second follows easily; the solutions are exactly the same as those obtained via laplace transforms
+==== integratoredit ====
+consider the output across the capacitor at high frequency i.e
+this means that the capacitor has insufficient time to charge up and so its voltage is very small thus the input voltage approximately equals the voltage across the resistor to see this consider the expression for given above:
+but note that the frequency condition described means that
+so
+which is just ohm's law
+now
+so
+which is an integrator across the capacitor
+==== differentiatoredit ====
+consider the output across the resistor at low frequency i.e.
+this means that the capacitor has time to charge up until its voltage is almost equal to the source's voltage considering the expression for again when
+so
+now
+which is a differentiator across the resistor
+more accurate integration and differentiation can be achieved by placing resistors and capacitors as appropriate on the input and feedback loop of operational amplifiers (see operational amplifier integrator and operational amplifier differentiator)
+== parallel circuitedit ==
+the parallel rc circuit is generally of less interest than the series circuit this is largely because the output voltage is equal to the input voltage as a result this circuit does not act as a filter on the input signal unless fed by a current source
+with complex impedances:
+and
+this shows that the capacitor current is 90 out of phase with the resistor (and source) current alternatively the governing differential equations may be used:
+and
+when fed by a current source the transfer function of a parallel rc circuit is:
+== see alsoedit ==
+rl circuit
+lc circuit
+rlc circuit
+electrical network
+list of electronics topics
+step response
+rc circuit and continuous-repayment mortgage

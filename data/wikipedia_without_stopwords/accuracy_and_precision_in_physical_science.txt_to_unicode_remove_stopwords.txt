@@ -1,0 +1,67 @@
+precision description level measurement yields consistent results repeated associated concept random error form observational error leads measurable values inconsistent repeated
+accuracy two definitions
+common definition accuracy level measurement inherent limitation ie free systematic error another form observational error
+iso definition accuracy level measurement yields true systematic errors consistent random errors results
+common definition
+fields science engineering statistics accuracy measurement system degree closeness measurements quantity quantitys true value precision measurement system related reproducibility repeatability degree repeated measurements unchanged conditions show results although two words precision accuracy synonymous colloquial use deliberately contrasted context scientific method
+measurement system accurate precise precise accurate neither example experiment contains systematic error increasing sample size generally increases precision improve accuracy result would consistent yet inaccurate string results flawed experiment eliminating systematic error improves accuracy change precision
+measurement system considered valid accurate precise related terms include bias nonrandom directed effects caused factor factors unrelated independent variable error random variability
+terminology also applied indirect measurementsthat values obtained computational procedure observed data
+addition accuracy precision measurements may also measurement resolution smallest change underlying physical quantity produces response measurement
+numerical analysis accuracy also nearness calculation true value precision resolution representation typically defined number decimal binary digits
+statistical literature prefers use terms bias variability instead accuracy precision bias amount inaccuracy variability amount imprecision
+quantification
+industrial instrumentation accuracy measurement tolerance transmission instrument defines limits errors made instrument used normal operating conditions
+ideally measurement device accurate precise measurements close tightly clustered around true value accuracy precision measurement process usually established repeatedly measuring traceable reference standard standards defined international system units abbreviated si french systme international dunits maintained national standards organizations national institute standards technology united states
+also applies measurements repeated averaged case term standard error properly applied precision average equal known standard deviation process divided square root number measurements averaged central limit theorem shows probability distribution averaged measurements closer normal distribution individual measurements
+regard accuracy distinguish
+difference mean measurements reference value bias establishing correcting bias necessary calibration
+combined effect precision
+common convention science engineering express accuracy andor precision implicitly means significant figures explicitly stated margin error understood onehalf value last significant place instance recording m m m would imply margin m last significant place tenths place recording m would imply margin error m last significant digits units
+reading m trailing zeroes decimal point ambiguous trailing zeroes may may intended significant figures avoid ambiguity number could represented scientific notation m indicates first zero significant hence margin m m indicates three zeroes significant giving margin m similarly possible use multiple basic measurement unit km equivalent m fact indicates margin km m however reliance convention lead false precision errors accepting data sources obey
+precision sometimes stratified
+repeatability variation arising efforts made keep conditions constant using instrument operator repeating short time period
+reproducibility variation arising using measurement process among different instruments operators longer time periods
+iso definition iso
+shift meaning terms appeared publication iso series standards also reflected issue bipm international vocabulary metrology vim items
+according iso general term accuracy used describe closeness measurement true value term applied sets measurements measurand involves component random error component systematic error case trueness closeness mean set measurement results actual true value precision closeness agreement among set results
+iso vim also avoid use term bias previously specified bs different connotations outside fields science engineering medicine law
+binary classification
+accuracy also used statistical measure well binary classification test correctly identifies excludes condition
+accuracy proportion true results true positives true negatives among total number cases examined make context clear semantics often referred rand accuracy rand index parameter test
+accuracy means measured values exactly given values
+hand precision positive predictive value defined proportion true positives positive results true positives false positives
+also see sensitivity specificity
+accuracy may determined sensitivity specificity provided prevalence known using equation
+accuracy paradox predictive analytics states predictive models given level accuracy may greater predictive power models higher accuracy may better avoid accuracy metric favor metrics precision recall situations minority class important fmeasure may appropriate especially situations skewed class imbalance
+another useful performance measure balanced accuracy avoids inflated performance estimates imbalanced datasets defined arithmetic mean sensitivity specificity average accuracy obtained either class
+classifier performs equally well either class term reduces conventional accuracy ie number correct predictions divided total number predictions contrast conventional accuracy chance classifier takes advantage imbalanced test set balanced accuracy appropriate drop chance closely related chance corrected measure
+direct approach debiasing renormalizing accuracy cohens kappa whilst informedness shown kappafamily debiased renormalization recall informedness kappa advantage chance level defined form probability informedness stronger property probability informed decision made rather guess positive negative still true absolutely value informedness information used force incorrect response
+psychometrics psychophysics
+psychometrics psychophysics term accuracy interchangeably used validity constant error precision synonym reliability variable error validity measurement instrument psychological test established experiment correlation behavior reliability established variety statistical techniques classically internal consistency test like cronbachs alpha ensure sets related questions related responses comparison related question reference target population
+logic simulation
+logic simulation common mistake evaluation accurate models compare logic simulation model transistor circuit simulation model comparison differences precision accuracy precision measured respect detail accuracy measured respect reality
+information systems
+concepts accuracy precision also studied context databases information systems sociotechnical context necessary extension two concepts basis theory science suggests well data quality information quality centered accuracy defined closeness true value seen degree agreement readings calculated values one conceived entity measured calculated different methods context maximum possible disagreement
+see also
+accepted experimental value
+engineering tolerance
+exactness
+experimental uncertainty analysis
+fscore
+measurement uncertainty
+precision statistics
+probability
+random systematic errors
+sensitivity specificity
+significant figures
+statistical significance
+references
+external links
+bipm guides metrology guide expression uncertainty measurement gum international vocabulary metrology vim
+beyond nist traceability really creates accuracy controlled environments magazine
+precision accuracy three psychophysical methods
+appendix d terminology guidelines evaluating expressing uncertainty nist measurement results
+accuracy precision
+accuracy vs precision brief video matt parker
+whats difference accuracy precision matt anticole teded

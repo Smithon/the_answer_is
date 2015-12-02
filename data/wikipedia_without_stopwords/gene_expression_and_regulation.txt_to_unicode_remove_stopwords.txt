@@ -1,0 +1,93 @@
+regulation gene expression includes wide range mechanisms used cells increase decrease production specific gene products protein rna informally termed gene regulation sophisticated programs gene expression widely observed biology example trigger developmental pathways respond environmental stimuli adapt new food sources virtually step gene expression modulated transcriptional initiation rna processing posttranslational modification protein
+gene regulation essential viruses prokaryotes eukaryotes increases versatility adaptability organism allowing cell express protein needed although early barbara mcclintock showed interaction two genetic loci activator ac dissociator ds color formation maize seeds first discovery gene regulation system widely considered identification lac operon discovered jacques monod enzymes involved lactose metabolism expressed e coli presence lactose absence glucose
+furthermore multicellular organisms gene regulation drives processes cellular differentiation morphogenesis leading creation different cell types possess different gene expression profiles hence produce different proteinshave different ultrastructures suit functions though possess genotype follows genome sequence
+initiating event leading change gene expression include activation deactivation receptors also evidence changes cells choice catabolism leads altered gene expressions
+regulated stages gene expressionedit
+step gene expression may modulated dnarna transcription step posttranslational modification protein following list stages gene expression regulated extensively utilised point transcription initiation
+chromatin domains
+transcription
+posttranscriptional modification
+rna transport
+translation
+mrna degradation
+modification dnaedit
+eukaryotes accessibility large regions dna depend chromatin structure altered result histone modifications directed dna methylation ncrna dnabinding protein hence modifications may regulate expression gene modifications regulate gene expression inheritable referred epigenetic regulation
+structuraledit
+transcription dna dictated structure general density packing indicative frequency transcription octameric protein complexes called nucleosomes responsible amount supercoiling dna complexes temporarily modified processes phosphorylation permanently modified processes methylation modifications considered responsible less permanent changes gene expression levels
+chemicaledit
+methylation dna common method gene silencing dna typically methylated methyltransferase enzymes cytosine nucleotides cpg dinucleotide sequence also called cpg islands densely clustered analysis pattern methylation given region dna promoter achieved method called bisulfite mapping methylated cytosine residues unchanged treatment whereas unmethylated ones changed uracil differences analyzed dna sequencing methods developed quantify snps pyrosequencing biotage massarray sequenom measuring relative amounts ct cg dinucleotide abnormal methylation patterns thought involved oncogenesis
+histone acetylation also important process transcription histone acetyltransferase enzymes hats crebbinding protein also dissociate dna histone complex allowing transcription proceed often dna methylation histone deacetylation work together gene silencing combination two seems signal dna packed densely lowering gene expression
+regulation transcriptionedit
+regulation transcription thus controls transcription occurs much rna created transcription gene rna polymerase regulated least five mechanisms
+specificity factors alter specificity rna polymerase given promoter set promoters making less likely bind ie sigma factors used prokaryotic transcription
+repressors bind operator coding sequences dna strand close overlapping promoter region impeding rna polymerases progress along strand thus impeding expression genethe image right demonstrates regulation repressor lac operon
+general transcription factors position rna polymerase start proteincoding sequence release polymerase transcribe mrna
+activators enhance interaction rna polymerase particular promoter encouraging expression gene activators increasing attraction rna polymerase promoter interactions subunits rna polymerase indirectly changing structure dna
+enhancers sites dna helix bound activators order loop dna bringing specific promoter initiation complex enhancers much common eukaryotes prokaryotes examples exist date
+silencers regions dna sequences bound particular transcription factors silence expression gene
+posttranscriptional regulationedit
+dna transcribed mrna formed must sort regulation much mrna translated proteins cells modulating capping splicing addition polya tail sequencespecific nuclear export rates several contexts sequestration rna transcript processes occur eukaryotes prokaryotes modulation result protein transcript turn regulated may affinity certain sequences
+three prime untranslated regions micrornasedit
+three prime untranslated regions utrs messenger rnas mrnas often contain regulatory sequences posttranscriptionally influence gene expression utrs often contain binding sites micrornas mirnas well regulatory proteins binding specific sites within utr mirnas decrease gene expression various mrnas either inhibiting translation directly causing degradation transcript utr also may silencer regions bind repressor proteins inhibit expression mrna
+utr often contains mirna response elements mres mres sequences mirnas bind prevalent motifs within utrs among regulatory motifs within utrs eg including silencer regions mres make half motifs
+mirbase web site archive mirna sequences annotations listed entries biologic species mirnas annotated human mirna loci mirnas predicted average four hundred target mrnas affecting expression several hundred genes freidman et al estimate mirna target sites within human mrna utrs conserved background levels human proteincoding genes selective pressure maintain pairing mirnas
+direct experiments show single mirna reduce stability hundreds unique mrnas experiments show single mirna may repress production hundreds proteins repression often relatively mild less fold
+effects mirna dysregulation gene expression seem important cancer instance gastrointestinal cancers paper identified nine mirnas epigenetically altered effective downregulating dna repair enzymes
+effects mirna dysregulation gene expression also seem important neuropsychiatric disorders schizophrenia bipolar disorder major depressive disorder parkinsons disease alzheimers disease autism spectrum disorders
+regulation translationedit
+translation mrna also controlled number mechanisms mostly level initiation recruitment small ribosomal subunit indeed modulated mrna secondary structure antisense rna binding protein binding prokaryotes eukaryotes large number rna binding proteins exist often directed target sequence secondary structure transcript may change depending certain conditions temperature presence ligand aptamer transcripts act ribozymes selfregulate expression
+examples gene regulationedit
+enzyme induction process molecule eg drug induces ie initiates enhances expression enzyme
+induction heat shock proteins fruit fly drosophila melanogaster
+lac operon interesting example gene expression regulated
+viruses despite genes possess mechanisms regulate gene expression typically early late phase using collinear systems regulated antiterminators lambda phage splicing modulators hiv
+gal transcriptional activator controls expression gal gal gal code metabolic galactose yeast galuas system used variety organisms across various phyla study gene expression
+developmental biologyedit
+large number studied regulatory systems come developmental biology examples include
+colinearity hox gene cluster nested anteroposterior patterning
+speculated pattern generation hand digits interdigits gradient sonic hedgehog secreted inducing factor zone polarizing activity limb creates gradient active gli activates gremlin inhibits bmps also secreted limb resulting formation alternating pattern activity result reactiondiffusion system
+somitogenesis creation segments somites uniform tissue presomitic mesoderm psm formed sequentially anterior posterior achieved amniotes possibly means two opposing gradients retinoic acid anterior wavefront wnt fgf posterior coupled oscillating pattern segmentation clock composed fgf notch wnt antiphase
+sex determination soma drosophila requires sensing ratio autosomal genes sex chromosomeencoded genes results production sexless splicing factor females resulting female isoform doublesex
+circuitryedit
+upregulation downregulationedit
+upregulation process occurs within cell triggered signal originating internal external cell results increased expression one genes result proteins encoded genes converse downregulation process resulting decreased gene corresponding protein expression
+upregulation occurs example cell deficient kind receptor case receptor protein synthesized transported membrane cell thus sensitivity cell brought back normal reestablishing homeostasis
+downregulation occurs example cell overstimulated neurotransmitter hormone drug prolonged period time expression receptor protein decreased order protect cell see also tachyphylaxis
+inducible vs repressible systemsedit
+gene regulation summarized response respective system
+inducible systems inducible system unless presence molecule called inducer allows gene expression molecule said induce expression manner happens dependent control mechanisms well differences prokaryotic eukaryotic cells
+repressible systems repressible system except presence molecule called corepressor suppresses gene expression molecule said repress expression manner happens dependent control mechanisms well differences prokaryotic eukaryotic cells
+galuas system example inducible repressible system gal binds upstream activation sequence uas activate transcription galgalgal cassette hand mig response presence glucose inhibit gal therefore stop expression galgalgal cassette
+theoretical circuitsedit
+repressorinducer activation sensor results change expression gene
+negative feedback gene product downregulates production directly indirectly result
+keeping transcript levels constantproportional factor
+inhibition runaway reactions coupled positive feedback loop
+creating oscillator taking advantage time delay transcription translation given mrna protein halflife shorter
+positive feedback gene product upregulates production directly indirectly result
+signal amplification
+bistable switches two genes inhibit positive feedback
+pattern generation
+study methodsedit
+general experiments investigating differential expression used whole cell extracts rna called steadystate levels determine genes changed much however informative regulation occurred may actually mask conflicting regulatory processes see posttranscriptional regulation still commonly analysed quantitative pcr dna microarray
+studying gene expression several methods look various stages eukaryotes include
+local chromatin environment region determined chipchip analysis pulling rna polymerase ii histone modifications trithoraxgroup protein polycombgroup protein dnabinding element good antibody available
+epistatic interactions investigated synthetic genetic array analysis
+due posttranscriptional regulation transcription rates total rna levels differ significantly measure transcription rates nuclear runon assays done newer highthroughput methods developed using thiol labelling instead radioactivity
+rna polymerised nucleus actually exits introns abortive products nonsense transcripts degradated therefore differences nuclear cytoplasmic levels see separating two fractions gentle lysis
+alternative splicing analysed splicing array tiling array see dna microarray
+vivo rna complexed rnps quantity transcripts bound specific protein also analysed ripchip example dcp give indication sequestered protein ribosomebound gives indication transcripts active transcription although noted dated method called polysome fractionation still popular labs
+protein levels analysed mass spectrometry compared quantitative pcr data microarray data relative absolute
+rna protein degradation rates measured means transcription inhibitors actinomycin d amanitin translation inhibitors cycloheximide respectively
+see alsoedit
+enhancer genetics
+artificial transcription factors small molecules mimic transcription factor protein
+cellular model
+conserved noncoding dna sequence
+spatiotemporal gene expression
+notes referencesedit
+bibliographyedit
+latchman david gene regulation eukaryotic perspective psychology press isbn
+external linksedit
+regulation gene expression us national library medicine medical subject headings mesh
+cellular darwinism

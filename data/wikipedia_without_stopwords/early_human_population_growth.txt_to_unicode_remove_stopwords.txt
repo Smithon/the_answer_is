@@ -1,0 +1,46 @@
+population dynamics branch life sciences studies size age composition populations dynamic systems biological environmental processes driving birth death rates immigration emigration example scenarios ageing populations population growth population decline
+history
+population dynamics traditionally dominant branch mathematical biology history years although recently scope mathematical biology greatly expanded first principle population dynamics widely regarded exponential law malthus modeled malthusian growth model early period dominated demographic studies work benjamin gompertz pierre franois verhulst early th century refined adjusted malthusian demographic model
+general model formulation proposed fj richards expanded simon hopkins models gompertz verhulst also ludwig von bertalanffy covered special cases general formulation lotkavolterra predatorprey equations another famous example well alternative arditiginzburg equations computer game simcity mmorpg ultima online among others tried simulate population dynamics
+past years population dynamics complemented evolutionary game theory developed first john maynard smith dynamics evolutionary biology concepts may take deterministic mathematical form population dynamics overlap another active area research mathematical biology mathematical epidemiology study infectious disease affecting populations various models viral spread proposed analyzed provide important results may applied health policy decisions
+intrinsic rate increase
+rate population increases size densitydependent forces regulating population known intrinsic rate increase
+rate increase population n population size r intrinsic rate increase therefore theoretical maximum rate increase population per individual concept commonly used insect population biology determine environmental factors affect rate pest populations increase see also exponential population growth logistic population growth
+common mathematical models
+exponential population growth
+exponential growth describes unregulated reproduction unusual see nature last years human population growth appeared exponential long run however likely paul ehrlich thomas malthus believed human population growth would lead overpopulation starvation due scarcity resources believed human population would grow rate exceed ability humans find food future humans would unable feed large populations biological assumptions exponential growth per capita growth rate constant growth limited resource scarcity predation
+simple discrete time exponential model
+discretetime per capita growth rate get linear line discretetime per capita growth rate zero get decrease per capita growth rate get increase per capita growth rate get extinction species
+continuous time version exponential growth
+species continuous reproduction
+rate population growth per unit time r maximum per capita growth rate n population size
+r increase per capita growth rate r per capita growth rate zero r decrease per capita growth rate
+logistic population growth
+logistics comes french word logistique means compute population regulation densitydependent process meaning population growth rates regulated density population think analogy thermostat temperature hot thermostat turns ac decrease temperature back homeostasis temperature cold thermostat turns heater increase temperature back homeostasis likewise density dependence whether population density high low population dynamics returns population density homeostasis homeostasis set point carrying capacity defined k
+continuoustime model logistic growth
+density dependence n number population k set point homeostasis carrying capacity logistic model population growth rate highest k population growth rate zero around k optimum harvesting rate close rate k population grow fastest k population growth rate negative logistic models also shows density dependence meaning per capita population growth rates decline population density increases wild cant get pattern emerge without simplification negative density dependence allows population overshoots carrying capacity decrease back carrying capacity k
+according rkselectiontheory organisms may specialised rapid growth stability closer carrying capacity
+discrete time logistical model
+equation uses r instead per capita growth rate zero r r gets high oscillations deterministic chaos deterministic chaos large changes population dynamics small r makes hard make predictions high r values small r error results massive error population dynamics
+population always density dependent even severe density independent event cannot regulate populate although may cause go extinct
+population models necessarily negative density dependent allee effect allows positive correlation population density per capita growth rate communities small populations example fish swimming likely eaten fish swimming among school fish pattern movement school fish likely confuse stun predator
+examples individualbased models
+fisheries wildlife management
+fisheries wildlife management population affected three dynamic rate functions
+natality birth rate often recruitment means reaching certain size reproductive stage usually refers age fish caught counted nets
+population growth rate measures growth individuals size length important fisheries population often measured biomass
+mortality includes harvest mortality natural mortality natural mortality includes nonhuman predation disease old age
+n number individuals time
+n number individuals time b number individuals born d number died number immigrated e number emigrated time time
+measure rates many time intervals determine populations density changes time immigration emigration present usually measured
+measured determine harvestable surplus number individuals harvested population without affecting longterm population stability average population size harvest within harvestable surplus termed compensatory mortality harvest deaths substituted deaths would occurred naturally harvest level termed additive mortality adds number deaths would occurred naturally terms necessarily judged good bad respectively population management example fish game agency might aim reduce size deer population additive mortality bucks might targeted increase buck competition might targeted reduce reproduction thus overall population size
+see also
+notes
+references
+introduction social macrodynamics compact macromodels world system growth andrey korotayev artemy malkov daria khaltourina isbn
+turchin p complex population dynamics theoreticalempirical synthesis princeton nj princeton university press
+weiss v population cycle drives human history eugenic phase dysgenic phase eventual collapse journal social political economic studies
+external links
+greenboxes code sharing network greenboxes beta repository opensource population modelling pva code greenboxes allows users easy way share code search others shared code
+virtual handbook population dynamics online compilation stateottheart basic tools analysis population dynamics emphasis benthic invertebrates
+creatures high school interactive simulation program implements agent based simulation grass rabbits foxes

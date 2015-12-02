@@ -1,0 +1,41 @@
+physics elasticity greek ductible ability body resist distorting influence stress return original size shape stress removed solid objects deform forces applied material elastic object return initial shape size forces removed
+physical reasons elastic behavior quite different different materials metals atomic lattice changes size shape forces applied energy added system forces removed lattice goes back original lower energy state rubbers polymers elasticity caused stretching polymer chains forces applied
+perfect elasticity approximation real world materials remain purely elastic even small deformations engineering amount elasticity material determined two types material parameter first type material parameter called modulus measures amount force per unit area stress needed achieve given amount deformation units modulus pascals pa pounds force per square inch psi also lbfin higher modulus typically indicates material harder deform second type parameter measures elastic limit limit stress beyond material longer behaves elastic deformation material take place stress released material elastically return permanent deformed shape instead original shape
+describing relative elasticities two materials modulus elastic limit considered rubbers typically low modulus tend stretch lot high elastic limit appear elastic metals high modulus low elastic limit everyday experience two rubber materials elastic limit one lower modulus appear elastic
+overview
+elastic material deformed due external force experiences internal resistance deformation restores original state external force longer applied various elastic moduli youngs modulus shear modulus bulk modulus measures inherent elastic properties material resistance deformation applied load various moduli apply different kinds deformation instance youngs modulus applies extensioncompression body whereas shear modulus applies shear
+elasticity materials described stressstrain curve shows relation stress average restorative internal force per unit area strain relative deformation metals crystalline materials curve linear small deformations stressstrain relationship adequately described hookes law higherorder terms ignored however larger stresses beyond elastic limit relation longer linear even higher stresses materials exhibit plastic behavior deform irreversibly return original shape stress longer applied rubberlike materials elastomers gradient stressstrain curve increases stress meaning rubbers progressively become difficult stretch metals gradient decreases high stresses meaning progressively become easier stretch elasticity exhibited solids nonnewtonian fluids viscoelastic fluids also exhibit elasticity certain conditions response small rapidly applied removed strain fluids may deform return original shape larger strains strains applied longer periods time fluids may start flow like viscous liquid
+elasticity material described terms stressstrain relation essential terms stress strain defined without ambiguity typically two types relation considered first type deals materials elastic small strains second deals materials limited small strains clearly second type relation general
+small strains measure stress used cauchy stress measure strain used infinitesimal strain tensor stress strain measures related linear relation known hookes law linear elasticity describes behavior materials cauchy elastic materials hypoelastic materials models extend hookes law allow possibility large rotations
+general situations number stress measures used provided work conjugate appropriate finite strain measure ie product stress measure strain measure equal internal energy depend stress strain measured hyperelasticity preferred approach dealing finite strains several material models analogous hookes law use
+linear elasticity
+noted small deformations elastic materials springs exhibit linear elasticity described linear relation stress strain relationship known hookes law geometrydependent version idea first formulated robert hooke latin anagram ceiiinosssttuv published answer ut tensio sic vis meaning extension force linear relationship commonly referred hookes law law stated relationship force f displacement x
+k constant known rate spring constant also stated relationship stress strain
+e known elastic modulus youngs modulus
+although general proportionality constant stress strain three dimensions th order tensor systems exhibit symmetry onedimensional rod often reduced applications hookes law
+finite elasticity
+elastic behavior objects undergo finite deformations described using number models cauchy elastic material models hypoelastic material models hyperelastic material models primary measure used quantity finite strains deformation gradient f convenient strain measures derived primary quantity
+cauchy elastic materials
+material said cauchyelastic cauchy stress tensor function strain tensor deformation gradient f alone
+even though stress cauchyelastic material depends state deformation work done stresses may depend path deformation therefore cauchy elastic material nonconservative structure stress cannot derived scalar elastic potential function
+hypoelastic materials
+hypoelastic materials described relation form
+model extension linear elasticity suffers form nonconservative behaviour cauchy elastic materials
+hyperelastic materials
+hyperelastic materials also called green elastic materials conservative models derived strain energy density function w stressstrain relation materials takes form
+applications
+linear elasticity used widely design analysis structures beams plates shells sandwich composites theory also basis much fracture mechanics
+hyperelasticity primarily used determine response elastomerbased objects gaskets biological materials soft tissues cell membranes
+factors affecting elasticity
+isotropic materials presence fractures affects young shear modulus perpendicular planes cracks decrease youngs modulus faster shear modulus fracture density increases indicating presence cracks makes bodies brittler microscopically stressstrain relationship materials general governed helmholtz free energy thermodynamic quantity molecules settle configuration minimizes free energy subject constraints derived structure depending whether energy entropy term dominates free energy materials broadly classified energyelastic entropyelastic microscopic factors affecting free energy equilibrium distance molecules affect elasticity materials instance inorganic materials equilibrium distance molecules k increases bulk modulus decreases effect temperature elasticity difficult isolate numerous factors affecting instance bulk modulus material dependent form lattice behavior expansion well vibrations molecules dependent temperature
+see also
+elastography
+tactile imaging
+elastic modulus
+linear elasticity
+pseudoelasticity
+resilience
+rubber elasticity
+stiffness
+ductility
+references

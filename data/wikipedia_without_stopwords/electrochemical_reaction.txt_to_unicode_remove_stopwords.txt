@@ -1,0 +1,238 @@
+electrochemistry branch physical chemistry studies chemical reactions take place interface electrode usually solid metal semiconductor ionic conductor electrolyte reactions involve electric charges moving electrodes electrolyte ionic species solution thus electrochemistry deals interaction electrical energy chemical change
+chemical reaction caused externally supplied current electrolysis electric current produced spontaneous chemical reaction battery called electrochemical reaction chemical reactions electrons transferred directly molecules andor atoms called oxidationreduction redox reactions general electrochemistry describes overall reactions individual redox reactions separate connected external electric circuit intervening electrolyte
+history
+th th century developments
+understanding electrical matters began sixteenth century century english scientist william gilbert spent years experimenting magnetism lesser extent electricity work magnets gilbert became known father magnetism discovered various methods producing strengthening magnets
+german physicist otto von guericke created first electric generator produced static electricity applying friction machine generator made large sulfur ball cast inside glass globe mounted shaft ball rotated means crank electric spark produced pad rubbed ball rotated globe could removed used source experiments electricity
+midth century french chemist charles franois de cisternay du fay discovered two types static electricity like charges repel whilst unlike charges attract du fay announced electricity consisted two fluids vitreous latin glass positive electricity resinous negative electricity twofluid theory electricity opposed benjamin franklins onefluid theory later century
+charlesaugustin de coulomb developed law electrostatic attraction outgrowth attempt investigate law electrical repulsions stated joseph priestley england
+late th century italian physician anatomist luigi galvani marked birth electrochemistry establishing bridge chemical reactions electricity essay de viribus electricitatis motu musculari commentarius latin commentary effect electricity muscular motion proposed nerveoelectrical substance biological life forms
+essay galvani concluded animal tissue contained heretofore neglected innate vital force termed animal electricity activated nerves muscles spanned metal probes believed new force form electricity addition natural form produced lightning electric eel torpedo ray well artificial form produced friction ie static electricity
+galvanis scientific colleagues generally accepted views alessandro volta rejected idea animal electric fluid replying frogs legs responded differences metal temper composition bulk galvani refuted obtaining muscular action two pieces material
+th century
+william nicholson johann wilhelm ritter succeeded decomposing water hydrogen oxygen electrolysis soon thereafter ritter discovered process electroplating also observed amount metal deposited amount oxygen produced electrolytic process depended distance electrodes ritter observed thermoelectric currents anticipated discovery thermoelectricity thomas johann seebeck
+william hyde wollaston made improvements galvanic cell sir humphry davys work electrolysis led conclusion production electricity simple electrolytic cells resulted chemical action chemical combination occurred substances opposite charge work led directly isolation sodium potassium compounds alkaline earth metals
+hans christian rsteds discovery magnetic effect electric currents immediately recognized epochmaking advance although left work electromagnetism others andrmarie ampre quickly repeated rsteds experiment formulated mathematically
+estoniangerman physicist thomas johann seebeck demonstrated electrical potential juncture points two dissimilar metals heat difference joints
+german scientist georg ohm expressed law famous book die galvanische kette mathematisch bearbeitet galvanic circuit investigated mathematically gave complete theory electricity
+michael faradays experiments led state two laws electrochemistry john daniell invented primary cell solved problem polarization eliminating hydrogen gas generation positive electrode later results revealed alloying amalgamated zinc mercury would produce higher voltage
+william grove produced first fuel cell wilhelm weber developed electrodynamometer georges leclanch patented new cell eventually became forerunner worlds first widely used battery zinc carbon cell
+svante arrhenius published thesis recherches sur la conductibilit galvanique des lectrolytes investigations galvanic conductivity electrolytes results author concluded electrolytes dissolved water become varying degrees split dissociated electrically opposite positive negative ions
+paul hroult charles m hall developed efficient method hallhroult process obtain aluminium using electrolysis molten alumina
+friedrich ostwald concluded important studies conductivity electrolytic dissociation organic acids
+walther hermann nernst developed theory electromotive force voltaic cell showed characteristics current produced could used calculate free energy change chemical reaction producing current constructed equation known nernst equation related voltage cell properties
+fritz haber showed definite reduction products result electrolytic processes potential cathode kept constant explained reduction nitrobenzene stages cathode became model similar reduction processes
+th century recent developments
+electrochemical society ecs founded
+robert andrews millikan began series experiments see oil drop experiment determine electric charge carried single electron
+johannes nicolaus brnsted martin lowry published essentially theory acids bases behave using electrochemical basis
+arne tiselius developed first sophisticated electrophoretic apparatus years later awarded nobel prize work protein electrophoresis
+year later international society electrochemistry ise founded
+ss quantum electrochemistry developed revaz dogonadze pupils
+principles
+oxidation reduction
+term redox stands reductionoxidation refers electrochemical processes involving electron transfer molecule ion changing oxidation state reaction occur application external voltage release chemical energy oxidation reduction describe change oxidation state takes place atoms ions molecules involved electrochemical reaction formally oxidation state hypothetical charge atom would bonds atoms different elements ionic atom ion gives electron another atom ion oxidation state increase recipient negatively charged electron oxidation state decrease
+example atomic sodium reacts atomic chlorine sodium donates one electron attains oxidation state chlorine accepts electron oxidation state reduced sign oxidation state positivenegative actually corresponds value ions electronic charge attraction differently charged sodium chlorine ions reason form ionic bond
+loss electrons atom molecule called oxidation gain electrons reduction easily remembered use mnemonic devices two popular oil rig oxidation loss reduction gain leo lion says ger lose electrons oxidation gain electrons reduction oxidation reduction always occur paired fashion one species oxidized another reduced cases electrons shared covalent bonds atoms large differences electronegativity electron assigned atom largest electronegativity determining oxidation state
+atom molecule loses electrons known reducing agent reductant substance accepts electrons called oxidizing agent oxidant thus oxidizing agent always reduced reaction reducing agent always oxidized oxygen common oxidizing agent one despite name oxidation reaction necessarily need involve oxygen fact fire fed oxidant oxygen fluorine fires often unquenchable fluorine even stronger oxidant higher electronegativity thus accepts electrons even better oxygen
+reactions involving oxygen gain oxygen implies oxidation atom molecule oxygen added oxygen reduced organic compounds butane ethanol loss hydrogen implies oxidation molecule lost hydrogen reduced follows hydrogen donates electron covalent bonds nonmetals takes electron along lost conversely loss oxygen gain hydrogen implies reduction
+balancing redox reactions
+electrochemical reactions water better understood balancing redox reactions using ionelectron method h oh ion ho electrons compensate oxidation changes added cells halfreactions oxidation reduction
+acidic medium
+acid medium h ions water added halfreactions balance overall reaction example manganese reacts sodium bismuthate
+unbalanced reaction mnaq nabios biaq mnoaq
+oxidation hol mnaq mnoaq haq e
+reduction e haq bios biaq hol
+finally reaction balanced multiplying number electrons reduction half reaction oxidation half reaction vice versa adding half reactions thus solving equation
+hol mnaq mnoaq haq e
+e haq bios biaq hol
+reaction balanced
+haq mnaq nabios hol mnoaq biaq naaq
+basic medium
+basic medium oh ions water added half reactions balance overall reaction example reaction potassium permanganate sodium sulfite
+unbalanced reaction kmno naso ho mno naso koh
+reduction e ho mno mno oh
+oxidation oh ho e
+procedure followed acid medium multiplying electrons opposite half reactions solve equation thus balancing overall reaction
+e ho mno mno oh
+oh ho e
+equation balanced
+kmno naso ho mno naso koh
+neutral medium
+procedure used acid medium applied example balancing using electron ion method complete combustion propane
+unbalanced reaction ch o co ho
+reduction h o e ho
+oxidation ho ch co e h
+acid basic medium electrons used compensate oxidation changes multiplied opposite half reactions thus solving equation
+h o e ho
+ho ch co e h
+equation balanced
+ch o co ho
+electrochemical cells
+electrochemical cell device produces electric current energy released spontaneous redox reaction kind cell includes galvanic cell voltaic cell named luigi galvani alessandro volta scientists conducted several experiments chemical reactions electric current late th century
+electrochemical cells two conductive electrodes anode cathode anode defined electrode oxidation occurs cathode electrode reduction takes place electrodes made sufficiently conductive materials metals semiconductors graphite even conductive polymers electrodes electrolyte contains ions freely move
+galvanic cell uses two different metal electrodes electrolyte positively charged ions oxidized form electrode metal one electrode undergo oxidation anode undergo reduction cathode metal anode oxidize going oxidation state solid form positive oxidation state become ion cathode metal ion solution accept one electrons cathode ions oxidation state reduced forms solid metal electrodeposits cathode two electrodes must electrically connected allowing flow electrons leave metal anode flow connection ions surface cathode flow electrons electric current used work turn motor power light
+galvanic cell whose electrodes zinc copper submerged zinc sulfate copper sulfate respectively known daniell cell
+half reactions daniell cell
+zinc electrode anode zns znaq e
+copper electrode cathode cuaq e cus
+example anode zinc metal oxidizes loses electrons form zinc ions solution copper ions accept electrons copper metal electrode ions deposit copper cathode electrodeposit cell forms simple battery spontaneously generate flow electric current anode cathode external connection reaction driven reverse applying voltage resulting deposition zinc metal anode formation copper ions cathode
+provide complete electric circuit must also ionic conduction path anode cathode electrolytes addition electron conduction path simplest ionic conduction path provide liquid junction avoid mixing two electrolytes liquid junction provided porous plug allows ion flow reducing electrolyte mixing minimize mixing electrolytes salt bridge used consists electrolyte saturated gel inverted utube negatively charged electrons flow one direction around circuit positively charged metal ions flow opposite direction electrolyte
+voltmeter capable measuring change electrical potential anode cathode
+electrochemical cell voltage also referred electromotive force emf
+cell diagram used trace path electrons electrochemical cell example cell diagram daniell cell
+zns zn m cu m cus
+first reduced form metal oxidized anode zn written separated oxidized form vertical line represents limit phases oxidation changes double vertical lines represent saline bridge cell finally oxidized form metal reduced cathode written separated reduced form vertical line electrolyte concentration given important variable determining cell potential
+standard electrode potential
+allow prediction cell potential tabulations standard electrode potential available tabulations referenced standard hydrogen electrode standard hydrogen electrode undergoes reaction
+haq e h
+shown reduction fact act either anode cathode depending relative oxidationreduction potential electrodeelectrolyte combination term standard requires supply hydrogen gas bubbled electrolyte pressure atm acidic electrolyte h activity equal usually assumed h molliter
+electrode connected electrode salt bridge form cell second electrode also standard conditions measured cell potential called standard electrode potential electrode standard electrode potential zero definition polarity standard electrode potential provides information relative reduction potential electrode compared electrode positive potential respect means strongly reducing electrode forces anode example cu aqueous cuso standard electrode potential v conversely measured potential negative electrode oxidizing zn znso standard electrode potential v
+standard electrode potentials usually tabulated reduction potentials however reactions reversible role particular electrode cell depends relative oxidationreduction potential electrodes oxidation potential particular electrode negative reduction potential standard cell potential determined looking standard electrode potentials electrodes sometimes called half cell potentials one smaller anode undergo oxidation cell potential calculated sum reduction potential cathode oxidation potential anode
+ecell ered cathode ered anode ered cathode eoxi anode
+example standard electrode potential copper electrode
+cell diagram
+pts h atm h m cu m cus
+ecell ered cathode ered anode
+standard temperature pressure concentration conditions cells emf measured multimeter v definition electrode potential zero thus cu cathode anode giving
+ecell ecucu ehh
+ecucu v
+changes stoichiometric coefficients balanced cell equation change ered value standard electrode potential intensive property
+spontaneity redox reaction
+operation electrochemical cells chemical energy transformed electrical energy expressed mathematically product cells emf electric charge transferred external circuit
+electrical energy ecellctrans
+ecell cell potential measured volts v ctrans cell current integrated time measured coulombs c ctrans also determined multiplying total number electrons transferred measured moles times faradays constant f
+emf cell zero current maximum possible emf used calculate maximum possible electrical energy could obtained chemical reaction energy referred electrical work expressed following equation
+work defined positive system
+since free energy maximum amount work extracted system one write
+positive cell potential gives negative change gibbs free energy consistent cell production electric current cathode anode external circuit current driven opposite direction imposing external potential work done cell drive electrolysis
+spontaneous electrochemical reaction change gibbs free energy less zero used generate electric current electrochemical cells basis batteries fuel cells example gaseous oxygen o hydrogen h combined fuel cell form water energy typically combination heat electrical energy
+conversely nonspontaneous electrochemical reactions driven forward application current sufficient voltage electrolysis water gaseous oxygen hydrogen typical example
+relation equilibrium constant k gibbs free energy electrochemical cell expressed follows
+rearranging express relation standard potential equilibrium constant yields
+previous equation use briggsian logarithm shown
+cell emf dependency changes concentration
+nernst equation
+standard potential electrochemical cell requires standard conditions g reactants reactant concentrations differ standard conditions cell potential deviate standard potential th century german chemist walther nernst proposed mathematical model determine effect reactant concentration electrochemical cell potential
+late th century josiah willard gibbs formulated theory predict whether chemical reaction spontaneous based free energy
+g change gibbs free energy g cell potential q equal absolute temperaturekelvin r gas constant q reaction quotient found dividing products reactants using products reactants aqueous gaseous
+gibbs key contribution formalize understanding effect reactant concentration spontaneity
+based gibbs work nernst extended theory include contribution electric potential charged species shown previous section change gibbs free energy electrochemical cell related cell potential thus gibbs theory becomes
+n number electronsmole product f faraday constant coulombsmole e cell potential
+finally nernst divided amount charge transferred arrive new equation bears name
+assuming standard conditions c r jkmol equation expressed base logarithm shown
+concentration cells
+concentration cell electrochemical cell two electrodes material electrolytes two halfcells involve ions electrolyte concentration differs two halfcells
+example electrochemical cell two copper electrodes submerged two copperii sulfate solutions whose concentrations m m connected salt bridge type cell generate potential predicted nernst equation undergo chemistry although reaction proceeds reverse anode
+cuaq e cus
+le chateliers principle indicates reaction favorable reduction concentration cu ions increases reduction take place cells compartment concentration higher oxidation occur dilute side
+following cell diagram describes cell mentioned
+cus cu m cu m cus
+half cell reactions oxidation reduction
+oxidation cus cu m e
+reduction cu m e cus
+overall reaction cu m cu m
+cells emf calculated nernst equation follows
+value e kind cell zero electrodes ions halfcells
+replacing values case mentioned possible calculate cells potential
+however value approximate reaction quotient defined terms ion activities approximated concentrations calculated
+nernst equation plays important role understanding electrical effects cells organelles effects include nerve synapses cardiac beat well resting potential somatic cell
+battery
+many types battery commercialized represent important practical application electrochemistry early wet cells powered first telegraph telephone systems source current electroplating zincmanganese dioxide dry cell first portable nonspillable battery type made flashlights portable devices practical mercury battery using zinc mercuric oxide provided higher levels power capacity original dry cell early electronic devices phased common use due danger mercury pollution discarded cells
+leadacid battery first practical secondary rechargeable battery could capacity replenished external source electrochemical reaction produced current useful degree reversible allowing electrical energy chemical energy interchanged needed common lead acid batteries contain mixture acid water well lead plates common mixture used today acid one problem however left uncharged acid crystallize within lead plates battery rendering useless batteries last average years daily use however unheard lead acid battery still functional years leadacid cells continue widely used automobiles
+preceding types waterbased electrolytes limits maximum voltage per cell freezing water limits low temperature performance lithium battery cannot use water electrolyte provides improved performance types rechargeable lithium ion battery essential part many mobile devices
+flow battery experimental type offers option vastly larger energy capacity reactants replenished external reservoirs fuel cell turn chemical energy bound hydrocarbon gases hydrogen directly electrical energy much higher efficiency combustion process devices powered many spacecraft applied grid energy storage public power system
+corrosion
+corrosion term applied steel rust caused electrochemical process people likely familiar corrosion iron form reddish rust examples include black tarnish silver red green corrosion may appear copper alloys brass cost replacing metals lost corrosion multibillions dollars per year
+iron corrosion
+iron rust occur metal contact oxygen water although chemical reactions process relatively complex completely understood believed causes following electron transferring reductionoxidation
+one area surface metal acts anode oxidation corrosion occurs anode metal gives electrons
+fes feaq e
+electrons transferred iron reducing oxygen atmosphere water cathode placed another region metal
+og haq e hol
+global reaction process
+fes og haq feaq hol
+standard emf iron rusting
+e e cathode e anode
+e v v v
+iron corrosion takes place acid medium h ions come reaction carbon dioxide atmosphere water forming carbonic acid fe ions oxides following equation
+feaq og x hol feox ho haq
+ironiii oxide hydrated known rust concentration water associated iron oxide varies thus chemical representation presented feox ho
+electric circuit works passage electrons ions occurs thus electrolyte present facilitate oxidation explains rusting quicker salt water
+corrosion common metals
+coinage metals copper silver slowly corrode use patina greenblue copper carbonate forms surface copper exposure water carbon dioxide air silver coins cutlery exposed high sulfur foods eggs low levels sulfur species air develop layer black silver sulfide
+gold platinum extremely difficult oxidize normal circumstances require exposure powerful chemical oxidizing agent aqua regia
+common metals oxidize extremely rapidly air titanium aluminium oxidize instantaneously contact oxygen air metals form extremely thin layer oxidized metal surface thin layer oxide protects underlying layers metal air preventing entire metal oxidizing metals used applications corrosion resistance important iron contrast oxide forms air water called rust stop oxidation iron thus iron left exposed air water continue rust iron oxided
+prevention corrosion
+attempts save metal becoming anodic two general types anodic regions dissolve destroy structural integrity metal
+almost impossible prevent anodecathode formation nonconducting material covers metal contact electrolyte possible corrosion occur
+coating
+metals coated paint less conductive metals passivation prevents metal surface exposed electrolytes scratches exposing metal substrate result corrosion region coating adjacent scratch acts anode reaction
+see anodizing
+sacrificial anodes
+method commonly used protect structural metal attach metal anodic metal protected forces structural metal cathodic thus spared corrosion called sacrificial anode dissolves replaced periodically
+zinc bars attached various locations steel ship hulls render ship hull cathodic zinc bars replaced periodically metals magnesium would work well zinc least expensive useful metal
+protect pipelines ingot buried exposed magnesium zinc buried beside pipeline connected electrically pipe ground pipeline forced cathode protected oxidized rusting magnesium anode sacrificed intervals new ingots buried replace lost
+electrolysis
+spontaneous redox reactions conventional battery produce electricity different chemical potentials cathode anode electrolyte however electrolysis requires external source electrical energy induce chemical reaction process takes place compartment called electrolytic cell
+electrolysis molten sodium chloride
+molten salt sodium chloride electrolyzed yield metallic sodium gaseous chlorine industrially process takes place special cell named downs cell cell connected electrical power supply allowing electrons migrate power supply electrolytic cell
+reactions take place downs cell following
+anode oxidation cl clg e
+cathode reduction nal e nal
+overall reaction na cll nal clg
+process yield large amounts metallic sodium gaseous chlorine widely used mineral dressing metallurgy industries
+emf process approximately v indicating nonspontaneous process order reaction occur power supply provide least potential v however larger voltages must used reaction occur high rate
+electrolysis water
+water converted component elemental gasses h o application external voltage water doesnt decompose hydrogen oxygen spontaneously gibbs free energy process standard conditions kj decomposition water hydrogen oxygen performed electrolytic cell pair inert electrodes usually made platinum immersed water act anode cathode electrolytic process electrolysis starts application external voltage electrodes process occur except extremely high voltages without electrolyte sodium chloride sulfuric acid used m
+bubbles gases seen near electrodes following half reactions describe process mentioned
+anode oxidation hol og haq e
+cathode reduction hog e hg ohaq
+overall reaction hol hg og
+although strong acids may used apparatus reaction net consume acid reaction work conductive electrode sufficiently large potential platinum catalyzes hydrogen oxygen formation allowing relatively mild voltages v depending ph
+electrolysis aqueous solutions
+electrolysis aqueous similar process mentioned electrolysis water however considered complex process contents solution analyzed half reactions whether reduced oxidized
+electrolysis solution sodium chloride
+presence water solution sodium chloride must examined respect reduction oxidation electrodes usually water electrolysed mentioned electrolysis water yielding gaseous oxygen anode gaseous hydrogen cathode hand sodium chloride water dissociates na cl ions cation positive ion attracted cathode thus reducing sodium ion anion attracted anode oxidizing chloride ion
+following half reactions describes process mentioned
+cathode naaq e nas ered v
+anode claq clg e ered v
+cathode hol e hg ohaq ered v
+anode hol og haq e ered v
+reaction discarded negative value standard reduction potential thus making less thermodynamically favorable process
+comparing reduction potentials reactions reduction chloride ion favored thus cl ion favored reduction water reaction favored oxidation producing gaseous oxygen however experiments show gaseous chlorine produced oxygen
+although initial analysis correct another effect happen known overvoltage effect additional voltage sometimes required beyond voltage predicted ecell may due kinetic rather thermodynamic considerations fact proven activation energy chloride ion low hence favorable kinetic terms words although voltage applied thermodynamically sufficient drive electrolysis rate slow make process proceed reasonable time frame voltage external source increased hence overvoltage
+finally reaction favorable describes proliferation oh ions thus letting probable reduction h ions less favorable option
+overall reaction process according analysis would following
+anode oxidation claq clg e
+cathode reduction hol e hg ohaq
+overall reaction ho claq hg clg ohaq
+overall reaction indicates concentration chloride ions reduced comparison oh ions whose concentration increases reaction also shows production gaseous hydrogen chlorine aqueous sodium hydroxide
+quantitative electrolysis faradays laws
+quantitative aspects electrolysis originally developed michael faraday faraday also credited coined terms electrolyte electrolysis among many others studied quantitative analysis electrochemical reactions also advocate law conservation energy
+first law
+faraday concluded several experiments electric current nonspontaneous process mass products yielded electrodes proportional value current supplied cell length time current existed molar mass substance analyzed words amount substance deposited electrode electrolytic cell directly proportional quantity electricity passed cell
+simplified equation faradays first law
+m mass substance produced electrode grams
+q total electric charge passed solution coulombs
+n valence number substance ion solution electrons per ion
+m molar mass substance grams per mole
+second law
+faraday devised laws chemical electrodeposition metals solutions formulated second law electrolysis stating amounts bodies equivalent ordinary chemical action equal quantities electricity naturally associated words quantities different elements deposited given amount electricity ratio chemical equivalent weights
+important aspect second law electrolysis electroplating together first law electrolysis significant number applications industry used protect metals avoid corrosion
+applications
+various extremely important electrochemical processes nature industry like coating objects metals metal oxides electrodeposition detection alcohol drunken drivers redox reaction ethanol generation chemical energy photosynthesis inherently electrochemical process production metals like aluminum titanium ores certain diabetes blood sugar meters measure amount glucose blood redox potential well established electrochemical technologies like deep cycle lead acid batteries also wide range new emerging technologies fuel cells large format lithium ion batteries electrochemical reactors supercapacitors becoming increasingly commercial
+action potentials travel neurons based electric current generated movement sodium potassium ions cells specialized cells certain animals like electric eel generate electric currents powerful enough disable much larger animals
+see also
+references
+bibliography
+ebbing darrell d gammon steven d general chemistry isbn
+nobel lectures chemistry volume world scientific isbn
+swaddle thomas wilson inorganic chemistry industrial environmental perspective academic press isbn
+wiberg egon wiberg nils holleman arnold frederick inorganic chemistry academic press isbn
+external links
+electrochemistry dmoz
+electrochemistry online reference text general chemistry
+electrochemical society
+electrochemical science technology information resource estir
+international society electrochemistry ise

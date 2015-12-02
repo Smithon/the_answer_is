@@ -1,0 +1,200 @@
+transformer electrical device transfers electrical energy two circuits electromagnetic induction electromagnetic induction produces electromotive force across conductor exposed time varying magnetic fields commonly transformers used increase decrease voltages alternating current electric power applications
+varying current transformers primary winding creates varying magnetic flux transformer core varying magnetic field impinging transformers secondary winding varying magnetic field secondary winding induces varying electromotive force emf voltage secondary winding due electromagnetic induction making use faradays law discovered conjunction high magnetic permeability core properties transformers thus designed efficiently change ac voltages one voltage level another within power networks
+since invention first constant potential transformer transformers become essential transmission distribution utilization alternating current electrical energy wide range transformer designs encountered electronic electric power applications transformers range size rf transformers less cubic centimeter volume units interconnecting power grid weighing hundreds tons
+basic principlesedit
+ideal transformeredit
+simplification approximation purposes common analyze transformer ideal transformer model presented two images ideal transformer theoretical linear transformer lossless perfectly coupled energy losses flux completely confined within magnetic core perfect coupling implies infinitely high core magnetic permeability winding inductances zero net magnetomotive force
+varying current transformers primary winding creates varying magnetic flux core varying magnetic field impinging secondary winding varying magnetic field secondary induces varying electromotive force emf voltage secondary winding primary secondary windings wrapped around core infinitely high magnetic permeability magnetic flux passes primary secondary windings voltage source connected primary winding load impedance connected secondary winding transformer currents flow indicated directions see also polarity
+according faradays law induction since magnetic flux passes primary secondary windings ideal transformer voltage induced winding according eq secondary winding case according eq primary winding case primary emf sometimes termed counter emf accordance lenzs law states induction emf always opposes development change magnetic field
+transformer winding voltage ratio thus shown directly proportional winding turns ratio according eq
+according law conservation energy load impedance connected ideal transformers secondary winding results conservation apparent real reactive power consistent eq
+ideal transformer identity shown eq reasonable approximation typical commercial transformer voltage ratio winding turns ratio inversely proportional corresponding current ratio
+ohms law ideal transformer identity
+secondary circuit load impedance expressed eq
+apparent load impedance referred primary circuit derived eq equal turns ratio squared times secondary circuit load impedance
+polarityedit
+dot convention often used transformer circuit diagrams nameplates terminal markings define relative polarity transformer windings positively increasing instantaneous current entering primary windings dot end induces positive polarity voltage secondary windings dot end
+real transformeredit
+deviations idealedit
+ideal transformer model neglects following basic linear aspects real transformers
+core losses collectively called magnetizing current losses consist
+hysteresis losses due nonlinear application voltage applied transformer core
+eddy current losses due joule heating core proportional square transformers applied voltage
+whereas windings ideal model resistances infinite inductances windings real transformer finite nonzero resistances inductances associated
+joule losses due resistance primary secondary windings
+leakage flux escapes core passes one winding resulting primary secondary reactive impedance
+leakage fluxedit
+ideal transformer model assumes flux generated primary winding links turns every winding including practice flux traverses paths take outside windings flux termed leakage flux results leakage inductance series mutually coupled transformer windings leakage flux results energy alternately stored discharged magnetic fields cycle power supply directly power loss results inferior voltage regulation causing secondary voltage directly proportional primary voltage particularly heavy load transformers therefore normally designed low leakage inductance
+applications increased leakage desired long magnetic paths air gaps magnetic bypass shunts may deliberately introduced transformer design limit shortcircuit current supply leaky transformers may used supply loads exhibit negative resistance electric arcs mercury vapor lamps neon signs safely handling loads become periodically shortcircuited electric arc welders
+air gaps also used keep transformer saturating especially audiofrequency transformers circuits dc component flowing windings
+knowledge leakage inductance also useful transformers operated parallel shown percent impedance associated winding leakage reactancetoresistance xr ratio two transformers hypothetically exactly transformers would share power proportion respective voltampere ratings eg kva unit parallel kva unit larger unit would carry twice current however impedance tolerances commercial transformers significant also z impedance xr ratio different capacity transformers tends vary corresponding kva kva units values illustrate respectively z xr z xr
+equivalent circuitedit
+referring diagram practical transformers physical behavior may represented equivalent circuit model incorporate ideal transformer
+winding joule losses leakage reactances represented following series loop impedances model
+primary winding rp xp
+secondary winding rs xs
+normal course circuit equivalence transformation rs xs practice usually referred primary side multiplying impedances turns ratio squared npns
+core loss reactance represented following shunt leg impedances model
+core iron losses rc
+magnetizing reactance xm
+rc xm collectively termed magnetizing branch model
+core losses caused mostly hysteresis eddy current effects core proportional square core flux operation given frequency finite permeability core requires magnetizing current im maintain mutual flux core magnetizing current phase flux relationship two nonlinear due saturation effects however impedances equivalent circuit shown definition linear nonlinearity effects typically reflected transformer equivalent circuits sinusoidal supply core flux lags induced emf opencircuited secondary winding magnetizing branch current equals transformer noload current
+resulting model though sometimes termed exact equivalent circuit based linearity assumptions retains number approximations analysis may simplified assuming magnetizing branch impedance relatively high relocating branch left primary impedances introduces error allows combination primary referred secondary resistances reactances simple summation two series impedances
+transformer equivalent circuit impedance transformer ratio parameters derived following tests opencircuit test shortcircuit test winding resistance test transformer ratio test
+basic transformer parameters constructionedit
+effect frequencyedit
+faradays law induction shown eq transformer emfs vary according derivative flux respect time ideal transformers core behaves linearly time nonzero frequency flux real transformers core behaves nonlinearly relation magnetization current instantaneous flux increases beyond finite linear range resulting magnetic saturation associated increasingly large magnetizing current eventually leads transformer overheating
+emf transformer given flux density increases frequency operating higher frequencies transformers physically compact given core able transfer power without reaching saturation fewer turns needed achieve impedance however properties core loss conductor skin effect also increase frequency aircraft military equipment employ hz power supplies reduce core winding weight conversely frequencies used railway electrification systems much lower eg hz hz normal utility frequencies hz historical reasons concerned mainly limitations early electric traction motors transformers used stepdown high overhead line voltages eg kv much heavier power rating designed higher frequencies
+operation transformer designed voltage higher frequency intended lead reduced magnetizing current lower frequency magnetizing current increase operation transformer design frequency may require assessment voltages losses cooling establish safe operation practical example transformers may need equipped volts per hertz overexcitation relays protect transformer overvoltage higher rated frequency
+one example traction transformers used electric multiple unit highspeed train service operating across regions different electrical standards converter equipment traction transformers accommodate different input frequencies voltage ranging high hz hz rated kv suitable multiple ac asynchronous motor dc converters motors varying harmonics mitigation filtering requirements
+large power transformers vulnerable insulation failure due transient voltages highfrequency components caused switching lightning
+energy lossesedit
+real transformer energy losses dominated winding resistance joule core losses transformers efficiency tends improve increasing transformer capacity efficiency typical distribution transformers percent
+transformer losses vary load often useful express losses terms noload loss fullload loss halfload loss hysteresis eddy current losses constant load levels dominate overwhelmingly without load variable winding joule losses dominating increasingly load increases noload loss significant even idle transformer constitutes drain electrical supply designing energy efficient transformers lower loss requires larger core goodquality silicon steel even amorphous steel core thicker wire increasing initial cost choice construction represents tradeoff initial cost operating cost
+transformer losses arise
+winding joule losses
+current flowing windings conductor causes joule heating frequency increases skin effect proximity effect causes windings resistance hence losses increase
+core losses
+hysteresis losses
+time magnetic field reversed small amount energy lost due hysteresis within core according steinmetzs formula heat energy due hysteresis given
+hysteresis loss thus given
+f frequency hysteresis coefficient max maximum flux density empirical exponent varies often given iron
+eddy current losses
+ferromagnetic materials also good conductors core made material also constitutes single shortcircuited turn throughout entire length eddy currents therefore circulate within core plane normal flux responsible resistive heating core material eddy current loss complex function square supply frequency inverse square material thickness eddy current losses reduced making core stack plates electrically insulated rather solid block transformers operating low frequencies use laminated similar cores
+magnetostriction related transformer hum
+magnetic flux ferromagnetic material core causes physically expand contract slightly cycle magnetic field effect known magnetostriction frictional energy produces audible noise known mains hum transformer hum transformer hum especially objectionable transformers supplied power frequencies highfrequency flyback transformers associated pal system crts
+stray losses
+leakage inductance largely lossless since energy supplied magnetic fields returned supply next halfcycle however leakage flux intercepts nearby conductive materials transformers support structure give rise eddy currents converted heat also radiative losses due oscillating magnetic field usually small
+mechanical vibration audible noise transmission
+addition magnetostriction alternating magnetic field causes fluctuating forces primary secondary windings energy incites vibration transmission interconnected metalwork thus amplifying audible transformer hum
+core form shell form transformersedit
+closedcore transformers constructed core form shell form windings surround core transformer core form windings surrounded core transformer shell form shell form design may prevalent core form design distribution transformer applications due relative ease stacking core around winding coils core form design tends general rule economical therefore prevalent shell form design high voltage power transformer applications lower end voltage power rating ranges less equal nominally kv mva higher voltage power ratings shell form transformers tend prevalent shell form design tends preferred extrahigh voltage higher mva applications though laborintensive manufacture shell form transformers characterized inherently better kvatoweight ratio better shortcircuit strength characteristics higher immunity transit damage
+constructionedit
+coresedit
+laminated steel coresedit
+transformers use power audio frequencies typically cores made high permeability silicon steel steel permeability many times free space core thus serves greatly reduce magnetizing current confine flux path closely couples windings early transformer developers soon realized cores constructed solid iron resulted prohibitive eddy current losses designs mitigated effect cores consisting bundles insulated iron wires later designs constructed core stacking layers thin steel laminations principle remained use lamination insulated neighbors thin nonconducting layer insulation universal transformer equation indicates minimum crosssectional area core avoid saturation
+effect laminations confine eddy currents highly elliptical paths enclose little flux reduce magnitude thinner laminations reduce losses laborious expensive construct thin laminations generally used highfrequency transformers thin steel laminations able operate khz
+one common design laminated core made interleaved stacks eshaped steel sheets capped ishaped pieces leading name ei transformer design tends exhibit losses economical manufacture cutcore ccore type made winding steel strip around rectangular form bonding layers together cut two forming two c shapes core assembled binding two c halves together steel strap advantage flux always oriented parallel metal grains reducing reluctance
+steel cores remanence means retains static magnetic field power removed power reapplied residual field cause high inrush current effect remaining magnetism reduced usually cycles applied ac waveform overcurrent protection devices fuses must selected allow harmless inrush pass transformers connected long overhead power transmission lines induced currents due geomagnetic disturbances solar storms cause saturation core operation transformer protection devices
+distribution transformers achieve low noload losses using cores made lowloss highpermeability silicon steel amorphous noncrystalline metal alloy higher initial cost core material offset life transformer lower losses light load
+solid coresedit
+powdered iron cores used circuits switchmode power supplies operate mains frequencies tens kilohertz materials combine high magnetic permeability high bulk electrical resistivity frequencies extending beyond vhf band cores made nonconductive magnetic ceramic materials called ferrites common radiofrequency transformers also movable cores sometimes called slugs allow adjustment coupling coefficient bandwidth tuned radiofrequency circuits
+toroidal coresedit
+toroidal transformers built around ringshaped core depending operating frequency made long strip silicon steel permalloy wound coil powdered iron ferrite strip construction ensures grain boundaries optimally aligned improving transformers efficiency reducing cores reluctance closed ring shape eliminates air gaps inherent construction ei core crosssection ring usually square rectangular expensive cores circular crosssections also available primary secondary coils often wound concentrically cover entire surface core minimizes length wire needed provides screening minimize cores magnetic field generating electromagnetic interference
+toroidal transformers efficient cheaper laminated ei types similar power level advantages compared ei types include smaller size half lower weight half less mechanical hum making superior audio amplifiers lower exterior magnetic field one tenth low offload losses making efficient standby circuits singlebolt mounting greater choice shapes main disadvantages higher cost limited power capacity see classification parameters lack residual gap magnetic path toroidal transformers also tend exhibit higher inrush current compared laminated ei types
+ferrite toroidal cores used higher frequencies typically tens kilohertz hundreds megahertz reduce losses physical size weight inductive components drawback toroidal transformer construction higher labor cost winding necessary pass entire length coil winding core aperture time single turn added coil consequence toroidal transformers rated kva uncommon small distribution transformers may achieve benefits toroidal core splitting forcing open inserting bobbin containing primary secondary windings
+air coresedit
+physical core absolute requisite functioning transformer produced simply placing windings near arrangement termed aircore transformer air comprises magnetic circuit essentially lossless aircore transformer eliminates loss due hysteresis core material leakage inductance inevitably high resulting poor regulation designs unsuitable use power distribution however high bandwidth frequently employed radiofrequency applications satisfactory coupling coefficient maintained carefully overlapping primary secondary windings theyre also used resonant transformers tesla coils achieve reasonably low loss spite high leakage inductance
+windingsedit
+conducting material used windings depends upon application cases individual turns must electrically insulated ensure current travels throughout every turn small power signal transformers currents low potential difference adjacent turns small coils often wound enamelled magnet wire formvar wire larger power transformers operating high voltages may wound copper rectangular strip conductors insulated oilimpregnated paper blocks pressboard
+highfrequency transformers operating tens hundreds kilohertz often windings made braided litz wire minimize skineffect proximity effect losses large power transformers use multiplestranded conductors well since even low power frequencies nonuniform distribution current would otherwise exist highcurrent windings strand individually insulated strands arranged certain points winding throughout whole winding portion occupies different relative positions complete conductor transposition equalizes current flowing strand conductor reduces eddy current losses winding stranded conductor also flexible solid conductor similar size aiding manufacture
+windings signal transformers minimize leakage inductance stray capacitance improve highfrequency response coils split sections sections interleaved sections winding
+powerfrequency transformers may taps intermediate points winding usually higher voltage winding side voltage adjustment taps may manually reconnected manual automatic switch may provided changing taps automatic onload tap changers used electric power transmission distribution equipment arc furnace transformers automatic voltage regulators sensitive loads audiofrequency transformers used distribution audio public address loudspeakers taps allow adjustment impedance speaker centertapped transformer often used output stage audio power amplifier pushpull circuit modulation transformers transmitters similar
+drytype transformer winding insulation systems either standard openwound dipandbake construction higher quality designs include vacuum pressure impregnation vpi vacuum pressure encapsulation vpe cast coil encapsulation processes vpi process combination heat vacuum pressure used thoroughly seal bind eliminate entrained air voids winding polyester resin insulation coat layer thus increasing resistance corona vpe windings similar vpi windings provide protection environmental effects water dirt corrosive ambients multiple dips including typically terms final epoxy coat
+coolingedit
+place cooling problem perspective accepted rule thumb life expectancy insulation electric machines including transformers halved every c c increase operating temperature life expectancy halving rule holding narrowly increase c c case transformer winding cellulose insulation
+small drytype liquidimmersed transformers often selfcooled natural convection radiation heat dissipation power ratings increase transformers often cooled forcedair cooling forcedoil cooling watercooling combinations large transformers filled transformer oil cools insulates windings transformer oil highly refined mineral oil cools windings insulation circulating within transformer tank mineral oil paper insulation system extensively studied used years estimated power transformers survive years use average age failure power transformers years power transformer failures due insulation overloading failures prolonged operation elevated temperature degrades insulating properties winding insulation dielectric coolant shortens transformer life ultimately lead catastrophic transformer failure great body empirical study guide transformer oil testing including dissolved gas analysis provides valuable maintenance information underlines need monitor model forecast manage oil winding conductor insulation temperature conditions varying possibly difficult power loading conditions
+building regulations many jurisdictions require indoor liquidfilled transformers either use dielectric fluids less flammable oil installed fireresistant rooms aircooled dry transformers economical eliminate cost fireresistant transformer room
+tank liquid filled transformers often radiators liquid coolant circulates natural convection fins large transformers employ electric fans forcedair cooling pumps forcedliquid cooling heat exchangers watercooling oilimmersed transformer may equipped buchholz relay depending severity gas accumulation due internal arcing used either alarm deenergize transformer oilimmersed transformer installations usually include fire protection measures walls oil containment firesuppression sprinkler systems
+polychlorinated biphenyls properties favored use dielectric coolant though concerns environmental persistence led widespread ban use today nontoxic stable siliconebased oils fluorinated hydrocarbons may used expense fireresistant liquid offsets additional building cost transformer vault pcbs new equipment banned use existing equipment united kingdom legislation enacted canada essentially bans pcb use transformers manufactured imported country maximum allowable level pcb contamination existing mineral oil transformers ppm
+transformers instead liquidfilled windings enclosed sealed pressurized tanks cooled nitrogen sulfur hexafluoride gas
+experimental power transformers kva range built liquid nitrogen helium cooled superconducting windings eliminates winding losses without affecting core losses
+insulation dryingedit
+construction oilfilled transformers requires insulation covering windings thoroughly dried residual moisture oil introduced drying carried factory may also required field service drying may done circulating hot air around core vaporphase drying vpd evaporated solvent transfers heat condensation coil core
+small transformers resistance heating injection current windings used heating controlled well energy efficient method called lowfrequency heating lfh since current used much lower frequency power grid normally hz lower frequency reduces effect inductance voltage required reduced lfh drying method also used service older transformers
+bushingsedit
+larger transformers provided highvoltage insulated bushings made polymers porcelain large bushing complex structure since must provide careful control electric field gradient without letting transformer leak oil
+classification parametersedit
+transformers classified many ways following
+power capacity fraction voltampere va thousand mva
+duty transformer continuous shorttime intermittent periodic varying
+frequency range powerfrequency audiofrequency radiofrequency
+voltage class volts hundreds kilovolts
+cooling type dry liquidimmersed selfcooled forced aircooled liquidimmersed forced oilcooled watercooled
+circuit application power supply impedance matching output voltage current stabilizer circuit isolation
+utilization pulse power distribution rectifier arc furnace amplifier output etc
+basic magnetic form core form shell form
+constantpotential transformer descriptor stepup stepdown isolation
+general winding configuration eic vector group various possible twowinding combinations phase designations delta wye star zigzag interconnected star autotransformer scottt zigzag grounding transformer winding
+rectifier phaseshift winding configuration winding pulse winding pulse nwinding npulse polygon etc
+typesedit
+various specific electrical application designs require variety transformer types although share basic characteristic transformer principles customize construction electrical properties certain installation requirements circuit conditions
+autotransformer transformer part winding common primary secondary circuits
+capacitor voltage transformer transformer capacitor divider used reduce high voltage application primary winding
+distribution transformer power transformer international standards make distinction terms distribution transformers used distribute energy transmission lines networks local consumption power transformers used transfer electric energy generator distribution primary circuits
+phase angle regulating transformer specialised transformer used control flow real power threephase electricity transmission networks
+scottt transformer transformer used phase transformation threephase twophase vice versa
+polyphase transformer transformer one phase
+grounding transformer transformer used grounding threephase circuits create neutral three wire system using wyedelta transformer commonly zigzag grounding winding
+leakage transformer transformer loosely coupled windings
+resonant transformer transformer uses resonance generate high secondary voltage
+audio transformer transformer used audio equipment
+output transformer transformer used match output valve amplifier load
+instrument transformer potential current transformer used accurately safely represent voltage current phase position high voltage high power circuits
+pulse transformer specialized smallsignal transformer used transmit digital signaling providing electrical isolation commonly used ethernet computer networks baset baset baset
+applicationsedit
+transformers used increase stepup voltage transmitting electrical energy long distances wires wires resistance loses energy joule heating rate corresponding square current transforming power higher voltage transformers enable economical transmission power distribution consequently transformers shaped electricity supply industry permitting generation located remotely points demand tiny fraction worlds electrical power passed series transformers time reaches consumer
+transformers also used extensively electronic products decrease stepdown supply voltage level suitable low voltage circuits contain transformer also electrically isolates end user contact supply voltage
+signal audio transformers used couple stages amplifiers match devices microphones record players input amplifiers audio transformers allowed telephone circuits carry twoway conversation single pair wires balun transformer converts signal referenced ground signal balanced voltages ground external cables internal circuits
+historyedit
+discovery inductionedit
+electromagnetic induction principle operation transformer discovered independently michael faraday joseph henry relationship emf magnetic flux equation known faradays law induction
+magnitude emf volts b magnetic flux circuit webers
+faraday performed first experiments induction coils wire including winding pair coils around iron ring thus creating first toroidal closedcore transformer however applied individual pulses current transformer never discovered relation turns ratio emf windings
+induction coilsedit
+first type transformer see wide use induction coil invented rev nicholas callan maynooth college ireland one first researchers realize turns secondary winding relation primary winding larger induced secondary emf induction coils evolved scientists inventors efforts get higher voltages batteries since batteries produce direct current dc rather ac induction coils relied upon vibrating electrical contacts regularly interrupted current primary create flux changes necessary induction efforts build better induction coils mostly trial error slowly revealed basic principles transformers
+first alternating current transformersedit
+efficient generators producing alternating current ac available found ac could power induction coil directly without interrupter
+russian engineer pavel yablochkov invented lighting system based set induction coils primary windings connected source ac secondary windings could connected several electric candles arc lamps design coils yablochkov employed functioned essentially transformers
+ganz factory budapest hungary began manufacturing equipment electric lighting installed fifty systems austriahungary ac systems used arc incandescent lamps generators equipment
+lucien gaulard john dixon gibbs first exhibited device open iron core called secondary generator london sold idea westinghouse company united states also exhibited invention turin italy adopted electric lighting system however efficiency opencore bipolar apparatus remained low
+early series circuit transformer distributionedit
+induction coils open magnetic circuits inefficient transferring power loads paradigm ac power transmission high voltage supply low voltage load series circuit opencore transformers ratio near connected primaries series allow use high voltage transmission presenting low voltage lamps inherent flaw method turning single lamp electric device affected voltage supplied others circuit many adjustable transformer designs introduced compensate problematic characteristic series circuit including employing methods adjusting core bypassing magnetic flux around part coil efficient practical transformer designs appear within decade transformer would instrumental war currents seeing ac distribution systems triumph dc counterparts position remained dominant ever since
+closedcore transformers parallel power distributionedit
+autumn kroly zipernowsky ott blthy miksa dri zbd three engineers associated ganz factory determined opencore devices impracticable incapable reliably regulating voltage joint patent applications novel transformers later called zbd transformers described two designs closed magnetic circuits copper windings either wound around iron wire ring core b surrounded iron wire core two designs first application two basic transformer constructions common use day class termed either core form shell form alternatively core type shell type b respectively see images ganz factory also autumn made delivery worlds first five highefficiency ac transformers first units shipped september first unit manufactured following specifications w hz v ratio onephase shell form
+designs magnetic flux linking primary secondary windings traveled almost entirely within confines iron core intentional path air see toroidal cores new transformers times efficient opencore bipolar devices gaulard gibbs zbd patents included two major interrelated innovations one concerning use parallel connected instead series connected utilization loads concerning ability high turns ratio transformers supply network voltage could much higher initially v voltage utilization loads v initially preferred employed parallel connected electric distribution systems closedcore transformers finally made technically economically feasible provide electric power lighting homes businesses public spaces blthy suggested use closed cores zipernowsky suggested use parallel shunt connections dri performed experiments
+transformers today designed principles discovered three engineers also popularized word transformer describe device altering emf electric current although term already use zbd engineers designed ganz factory supplied electrical equipment worlds first power station used ac generators power parallel connected common electrical network steampowered romecerchi power plant
+although george westinghouse bought gaulard gibbs patents edison electric light company held option us rights zbd transformers requiring westinghouse pursue alternative designs principles assigned william stanley task developing device commercial use united states stanleys first patented design induction coils single cores soft iron adjustable gaps regulate emf present secondary winding see image design first used commercially us westinghouse intent improving stanley design make unlike zbd type easy cheap produce
+westinghouse stanley associates soon developed easier manufacture core consisting stack thin eshaped iron plates insulated thin sheets paper insulating material prewound copper coils could slid place straight iron plates laid create closed magnetic circuit westinghouse applied patent new lowcost design december granted july
+early transformersedit
+russianborn engineer mikhail dolivodobrovolsky developed first threephase transformer allgemeine elektricittsgesellschaft general electricity company germany
+nikola tesla invented tesla coil aircored dualtuned resonant transformer generating high voltages high frequency
+see alsoedit
+compensation winding
+inductor
+load profile
+magnetic core
+magnetization
+paraformer
+polyphase system
+rectiformer
+switchedmode power supply
+notesedit
+referencesedit
+bibliographyedit
+central electricity generating board modern power station practice pergamon isbn
+daniels ar introduction electrical machines macmillan isbn
+flanagan william m handbook transformer design applications nd ed mcgrawhill isbn
+gottlieb irving practical transformer handbook electronics radio communications engineers elsevier isbn x
+hammond john winthrop men volts story general electric jb lippincott company pp see esp
+harlow james electric power transformer engineering crc press isbn
+heathcote martin j p transformer book th ed newnes isbn
+hindmarsh john electrical machines applications th ed exeter pergamon isbn
+kulkarni sv khaparde sa transformer engineering design practice crc press isbn
+mclaren peter elementary electric power machines ellis horwood isbn x
+mclyman colonel william transformer inductor design handbook crc isbn
+pansini anthony electrical transformers power equipment crc press isbn
+ryan hm high voltage engineering testing crc press isbn
+say mg alternating current machines th ed london pitman isbn
+winders jr john j power transformer principles applications crc isbn
+external linksedit
+inside transformers composed j b calvert denver university
+substation transmission dmoz
+introduction current transformers
+transformer interactive java applet physics fun chuiking ng
+hd video tutorial transformers
+video power transformer inrush current damping youtube
+video power transformer overexcitation damping youtube
+threephase transformer circuits circuits
+bibliography transformer books pm balma ieee transformer committee
+einschalten des transformators german wikipedia article transformer inrush current switch german

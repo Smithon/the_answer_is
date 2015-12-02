@@ -1,0 +1,30 @@
+ward leonard control also known as the ward leonard drive system was a widely used dc motor speed control system introduced by harry ward leonard in 1891 in early 1900s the control system of ward leonard was adopted by the u.s navy and also used in passenger lift of large mines it also provided a solution to a moving sidewalk at the paris exposition of 1900 where many others had failed to operate properly it was applied to railway locomotives used in world war i and was used in anti-aircraft radars in world war ii connected to automatic anti-aircraft gun directors the tracking motion in two dimensions had to be extremely smooth and precise the mit radiation laboratory selected ward-leonard to equip the famous radar scr-584 in 1942 the ward leonard control system was widely used for elevators until thyristor drives became available in the 1980s because it offered smooth speed control and consistent torque many ward leonard control systems and variations on them remain in use
+== basic concept ==
+the key feature of the ward leonard control system is the ability to smoothly vary the speed of a dc motor including reversing it by controlling the field windings and hence the output voltage of a dc generator as the speed of a dc motor is dictated by the supplied voltage this gives simple speed control the dc generator could be driven by any means provided that also supplied a voltage source for the field windings this 'prime mover' could be an ac motor or it could be an internal combustion engine (its application to vehicles was patented by h.w leonard in 1903)
+a ward leonard drive can be viewed as a high-power amplifier in the multi-kilowatt range built from rotating electrical machinery where the 'prime mover' is electrical a ward leonard drive unit consists of a motor and generator with shafts coupled together the prime mover which turns at a constant speed may be ac or dc powered the generator is a dc generator with field windings and armature windings the input to the amplifier is applied to the field windings and the higher power output comes from the armature windings (see excitation (magnetic)#amplifier principle for how a generator can act as an amplifier.) the amplifier output is usually connected to a second motor which moves the load such as an elevator with this arrangement small changes in current applied to the input and thus the generator field result in large changes in the output allowing smooth speed control
+a flywheel may be used to reduce voltage fluctuations during sudden load changes the ward leonard system with this modification is known as ward leonard ilgner control
+== a more technical description ==
+the speed of motor is controlled by varying the voltage fed to the generator field windings vgf which varies the output voltage of the generator the varied output voltage will change the voltage of the motor since they are connected directly through the armature consequently changing the vgf will control the speed of the motor the picture of the right shows the ward leonard control system with the vgf feeding the generator and vmf feeding the motor
+== transfer function ==
+the first subscripts 'g' and 'm' each represents generator and motor the superscripts 'f' 'r',and 'a' correspond to field rotor and armature
+= plant state vector
+= gain
+= time constant
+= polar moment of inertia
+= angular viscous friction
+= rotational inductance constant
+= laplace operator
+eq 1: the generator field equation
+eq 2: the equation of electrical equilibrium in the armature circuit
+eq 3: motor torque equation
+with total impedance  neglected the transfer function can be obtained by solving eq 3 
+eq 4: transfer function
+with the constants defined as below:
+== see also ==
+== references ==
+citations
+general references
+the editors (nov 1989) "technology for electrical components" power transmission design: 2527
+ward leonard h (1896) "volts versus ohms - the speed regulation of electric motors" aiee trans 13: 375384
+gottlieb i.m (1994) "electric motors & control techniques 2nd edition" tab books
+malcolm barnes (2003) practical variable speed drives and power electronics oxford: newnes pp 2021 isbn 978-0-7506-5808-9

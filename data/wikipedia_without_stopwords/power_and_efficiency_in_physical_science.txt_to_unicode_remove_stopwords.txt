@@ -1,0 +1,20 @@
+electromagnetic transmission systems particularly dealing telecommunications effective radiated power equivalent radiated power erp standardized theoretical measurement radio frequency rf power using si unit watt determined subtracting system losses adding system gains erp takes consideration transmitter power output tpo transmission line attenuation electrical resistance rf radiation rf connector insertion losses antenna gain combination antenna efficiency antenna directivity height average terrain haat erp typically applied antenna systems
+simplified case antenna system dbd gain db loss erp db equal double tpo use circular polarization otherwise splitting equally horizontal vertical linear polarization causes loss db cutting reported erp half fullwavelength spacing used antenna elements array erp increased approximately proportion number elements halfwavespaced elements used reduce rf radiation beneath radio tower purposes increase less null fill also detracts erp increasing power nulls form side lobes stations beam tilt often two erps listed one angle tilt main lobe another standard horizontal plane one erp listed usually referring power main lobe
+fm example
+example fm radio station advertises watts power actually watts erp actual watt transmitter tpo station typically may watts gain factor db antenna designs gain realized primarily concentrating power toward horizontal plane suppressing upward downward angles use phased arrays antenna elements distribution power versus elevation angle known vertical pattern antenna also directional horizontally gain erp vary azimuth compass direction rather average power directions apparent power direction antennas main lobe quoted stations erp statement another way stating definition erp particularly applicable huge erps reported shortwave broadcasting stations use narrow beam widths get signals across continents oceans
+united states regulatory usage
+erp fm radio united states always relative theoretical reference halfwave dipole antenna calculating erp direct approach work antenna gain dbd deal antenna polarization federal communications commission fcc lists erp horizontal vertical measurements fm tv horizontal standard vertical erp larger used instead
+maximum erp us fm broadcasting usually watts fm zone ii watts generally densely populated zones ia though exact restrictions vary depending class license stations grandfathered infrequently given waiver exceed normal restrictions
+microwave band issues
+microwave systems completely nondirectional isotropic antenna one radiates equally perfectly well every direction physical impossibility used reference antenna one speaks eirp effective isotropic radiated power rather erp includes satellite transponders radar systems use microwave dishes reflectors rather dipolestyle antennas
+lowerfrequency issues
+case mediumwave stations united states power limits set actual transmitter power output erp used normal calculations omnidirectional antennas used number stations radiate signal equally directions directional arrays used protect co adjacent channel stations usually night run directionally hours antenna efficiency ground conductivity taken account designing array fcc database shows stations transmitter power output erp
+related terms
+effective monopole radiated power emrp may used europe particularly relation mediumwave broadcasting antennas erp except short vertical antenna ie short monopole used reference antenna instead halfwave dipole
+equivalent isotropically radiated power eirp
+haat
+height average terrain vhf higher frequencies extremely important considering erp signal coverage broadcast range produced given erp dramatically increases antenna height possible station hundred watts erp cover area station thousand watts erp signal travels obstructions ground
+see also
+nominal power
+list broadcast station classes
+references

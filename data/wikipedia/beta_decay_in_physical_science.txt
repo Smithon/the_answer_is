@@ -1,0 +1,162 @@
+in nuclear physics beta decay (-decay) is a type of radioactive decay in which a proton is transformed into a neutron or vice versa inside an atomic nucleus this process allows the atom to move closer to the optimal ratio of protons and neutrons as a result of this transformation the nucleus emits a detectable beta particle which is an electron or positron
+beta decay is mediated by the weak force there are two types of beta decay known as beta minus and beta plus in beta minus () decay a neutron is lost and a proton appears and the process produces an electron and electron antineutrino while in beta plus (+) decay a proton is lost and a neutron appears and the process produces a positron and electron neutrino; + decay is thus also known as positron emission
+an example of electron emission ( decay) is the decay of carbon-14 into nitrogen-14:
+14
+6c 14
+7n + e +
+e
+in this form of decay the original element becomes a new chemical element in a process known as nuclear transmutation this new element has an unchanged mass number a but an atomic number z that is increased by one as in all nuclear decays the decaying element (in this case 14
+6c) is known as the parent nuclide while the resulting element (in this case 14
+7n) is known as the daughter nuclide the emitted electron or positron is known as a beta particle
+an example of positron emission (+ decay) is the decay of magnesium-23 into sodium-23:
+23
+12mg 23
+11na + e+ +
+e
+in contrast to decay + decay is accompanied by the emission of an electron neutrino and a positron + decay also results in nuclear transmutation with the resulting element having an atomic number that is decreased by one
+electron capture is sometimes included as a type of beta decay because the basic nuclear process mediated by the weak force is the same in electron capture an inner atomic electron is captured by a proton in the nucleus transforming it into a neutron and an electron neutrino is released an example of electron capture is the decay of krypton-81 into bromine-81:
+81
+36kr + e 81
+35br +
+e
+electron capture is a competing (simultaneous) decay process for all nuclei that can undergo + decay the converse however is not true: electron capture is the only type of decay that is allowed in proton-rich nuclides that do not have sufficient energy to emit a positron and neutrino
+== decay ==
+in decay the weak interaction converts an atomic nucleus into a nucleus with atomic number increased by one while emitting an electron (e) and an electron antineutrino (
+e)
+the generic equation is:
+azx az+1x' + e +
+e
+where a and z are the mass number and atomic number of the decaying nucleus and x and x' are the initial and final elements respectively
+another example is when the free neutron (1
+0n) decays by decay into a proton (p):
+n p + e +
+e
+at the fundamental level (as depicted in the feynman diagram on the left) this is caused by the conversion of the negatively charged (13 e) down quark to the positively charged (+23 e) up quark by emission of a w boson; the w boson subsequently decays into an electron and an electron antineutrino:
+d u + e +
+e
+the beta spectrum is a continuous spectrum: the total decay energy is divided between the electron and the antineutrino in the figure to the right this is shown by way of example for an electron of 0.4 mev energy in this example the antineutrino then gets the remainder: 0.76 mev since the total decay energy is assumed to be 1.16 mev
+decay generally occurs in neutron-rich nuclei
+== + decay ==
+in + decay or "positron emission" the weak interaction converts an atomic nucleus into a nucleus with atomic number decreased by one while emitting a positron (e+) and an electron neutrino (
+e) the generic equation is:
+azx az1x + e+ +
+e
+this may be considered as the decay of a proton inside the nucleus to a neutron
+p n + e+ +
+e
+however + decay cannot occur in an isolated proton because it requires energy due to the mass of the neutron being greater than the mass of the proton + decay can only happen inside nuclei when the daughter nucleus has a greater binding energy (and therefore a lower total energy) than the mother nucleus the difference between these energies goes into the reaction of converting a proton into a neutron a positron and a neutrino and into the kinetic energy of these particles in an opposite process to negative beta decay the weak interaction converts a proton into a neutron by converting an up quark into a down quark by having it emit a w+ or absorb a w
+== electron capture (k-capture) ==
+in all cases where + decay of a nucleus is allowed energetically so is electron capture the process in which the same nucleus captures an atomic electron with the emission of a neutrino:
+azx + e az1x +
+e
+the emitted neutrino is mono-energetic in proton-rich nuclei where the energy difference between initial and final states is less than 2mec2 + decay is not energetically possible and electron capture is the sole decay mode
+if the captured electron comes from the innermost shell of the atom the k-shell which has the highest probability to interact with the nucleus the process is called k-capture if it comes from the l-shell the process is called l-capture etc
+== competition of beta decay types ==
+three types of beta decay in competition are illustrated by the single isotope copper-64 (29 protons 35 neutrons) which has a half-life of about 12.7 hours this isotope has one unpaired proton and one unpaired neutron so either the proton or the neutron can decay this particular nuclide (though not all nuclides in this situation) is almost equally likely to decay through proton decay by positron emission (18%) or electron capture (43%) as through neutron decay by electron emission (39%)
+== helicity (polarization) of neutrinos electrons and positrons emitted in beta decay ==
+after the discovery of parity non-conservation (see history below) it was found that in beta decay electrons are emitted mostly with negative helicity i.e. they move naively speaking like left-handed screws driven into a material (they have negative longitudinal polarization) conversely positrons have mostly positive helicity i.e. they move like right-handed screws neutrinos (emitted in positron decay) have positive helicity while antineutrinos (emitted in electron decay) have negative helicity
+the higher the energy of the particles the higher their polarization
+== energy release ==
+the q value is defined as the total energy released in a given nuclear decay in beta decay q is therefore also the sum of the kinetic energies of the emitted beta particle neutrino and recoiling nucleus (because of the large mass of the nucleus compared to that of the beta particle and neutrino the kinetic energy of the recoiling nucleus can generally be neglected.) beta particles can therefore be emitted with any kinetic energy ranging from 0 to q a typical q is around 1 mev but can range from a few kev to a few tens of mev
+since the rest mass of the electron is 511 kev the most energetic beta particles are ultrarelativistic with speeds very close to the speed of light
+=== decay ===
+consider the generic equation for beta decay
+azx az+1x + e +
+e
+the q value for this decay is
+where is the mass of the nucleus of the azx atom is the mass of the electron and is the mass of the electron antineutrino in other words the total energy released is the mass energy of the initial nucleus minus the mass energy of the final nucleus electron and antineutrino the mass of the nucleus mn is related to the standard atomic mass m by
+that is the total atomic mass is the mass of the nucleus plus the mass of the electrons minus the binding energy bi of each electron substituting this into our original equation while neglecting the nearly-zero antineutrino mass and difference in electron binding energy which is very small for high-z atoms we have
+this energy is carried away as kinetic energy by the electron and neutrino
+because the reaction will proceed only when the q-value is positive decay can occur when the mass of atom azx is greater than the mass of atom az+1x
+=== + decay ===
+the equations for + decay are similar with the generic equation
+azx az1x + e+ +
+e
+giving
+however in this equation the electron masses do not cancel and we are left with
+because the reaction will proceed only when the q-value is positive + decay can occur when the mass of atom azx exceeds that of az-1x by at least twice the mass of the electron
+=== electron capture ===
+the analogous calculation for electron capture must take into account the binding energy of the electrons this is because the atom will be left in an excited state after capturing the electron and the binding energy of the captured innermost electron is significant using the generic equation for electron capture
+azx + e az1x +
+e
+we have
+which simplifies to
+where bn is the binding energy of the captured electron
+because the binding energy of the electron is much less than the mass of the electron nuclei that can undergo + decay can always also undergo electron capture but the reverse is not true
+== nuclear transmutation ==
+if the proton and neutron are part of an atomic nucleus these decay processes transmute one chemical element into another for example:
+beta decay does not change the number a of nucleons in the nucleus but changes only its charge z thus the set of all nuclides with the same a can be introduced; these isobaric nuclides may turn into each other via beta decay among them several nuclides (at least one for any given mass number a) are beta stable because they present local minima of the mass excess: if such a nucleus has (a z) numbers the neighbour nuclei (a z1) and (a z+1) have higher mass excess and can beta decay into (a z) but not vice versa for all odd mass numbers a there is only one known beta-stable isobar for even a there are up to three different beta-stable isobars experimentally known; for example 96
+40zr 96
+42mo and 96
+44ru are all beta-stable there are about 355 known beta-decay stable nuclides total
+usually unstable nuclides are clearly either "neutron rich" or "proton rich" with the former undergoing beta decay and the latter undergoing electron capture (or more rarely due to the higher energy requirements positron decay) however in a few cases of odd-proton odd-neutron radionuclides it may be energetically favorable for the radionuclide to decay to an even-proton even-neutron isobar either by undergoing beta-positive or beta-negative decay an often-cited example is 64
+29cu which decays by positron emission/electron capture 61% of the time to 64
+28ni and 39% of the time by (negative) beta decay to 64
+30zn
+most naturally occurring isotopes on earth are beta stable those that are not have half-lives ranging from under a second to periods of time significantly greater than the age of the universe one common example of a long-lived isotope is the odd-proton odd-neutron nuclide 40
+19k which undergoes all three types of beta decay ( + and electron capture) with a half-life of 70164029905520000001.277109 years
+== double beta decay ==
+some nuclei can undergo double beta decay ( decay) where the charge of the nucleus changes by two units double beta decay is difficult to study as the process has an extremely long half-life in nuclei for which both decay and decay are possible the rarer decay process is effectively impossible to observe however in nuclei where decay is forbidden but decay is allowed the process can be seen and a half-life measured thus decay is usually studied only for beta stable nuclei like single beta decay double beta decay does not change a; thus at least one of the nuclides with some given a has to be stable with regard to both single and double beta decay
+"ordinary" double beta decay results in the emission of two electrons and two antineutrinos if neutrinos are majorana particles (i.e. they are their own antiparticles) then a decay known as neutrinoless double beta decay will occur most neutrino physicists believe that neutrinoless double beta decay has never been observed
+== bound-state decay ==
+a very small minority of free neutron decays (about four per million) are so-called "two-body decays" in which the proton electron and antineutrino are produced but the electron fails to gain the 13.6 ev energy necessary to escape the proton and therefore simply remains bound to it as a neutral hydrogen atom in this type of beta decay in essence all of the neutron decay energy is carried off by the antineutrino
+for fully ionized atoms (bare nuclei) it is possible in likewise manner for electrons to fail to escape the atom and to be emitted from the nucleus into low-lying atomic bound states (orbitals) this can not occur for neutral atoms with low-lying bound states which already filled by electrons
+the phenomenon in fully ionized atoms was first observed for 163dy66+ in 1992 by jung et al of the darmstadt heavy-ion research group although neutral 163dy is a stable isotope the fully ionized 163dy66+ undergoes decay into the k and l shells with a half-life of 47 days
+another possibility is that a fully ionized atom undergoes greatly accelerated decay as observed for 187re by bosch et al. also at darmstadt neutral 187re does undergo decay with a half-life of 42 109 years but for fully ionized 187re75+ this is shortened by a factor of 109 to only 32.9 years for comparison the variation of decay rates of other nuclear processes due to chemical environment is less than 1%
+== forbidden transitions ==
+beta decays can be classified according to the l-value of the emitted radiation when l > 0 the decay is referred to as "forbidden" nuclear selection rules require high l-values to be accompanied by changes in nuclear spin (j) and parity () the selection rules for the lth forbidden transitions are:
+where = 1 or 1 corresponds to no parity change or parity change respectively the special case of a transition between isobaric analogue states where the structure of the final state is very similar to the structure of the initial state is referred to as "superallowed" for beta decay and proceeds very quickly the following table lists the j and values for the first few values of l:
+== fermi transitions ==
+a fermi transition is a beta decay in which the spins of the emitted electron (positron) and anti-neutrino (neutrino) couple to total spin  leading to an angular momentum change between the initial and final states of the nucleus (assuming an allowed transition ) in the non-relativistic limit the nuclear part of the operator for a fermi transition is given by
+with the weak vector coupling constant the isospin raising and lowering operators and running over all protons and neutrons in the nucleus
+== gamow-teller transitions ==
+a gamow-teller transition is a beta decay in which the spins of the emitted electron (positron) and anti-neutrino (neutrino) couple to total spin  leading to an angular momentum change between the initial and final states of the nucleus (assuming an allowed transition) in this case the nuclear part of the operator is given by
+with the weak axial-vector coupling constant and the spin pauli matrices which can produce a spin-flip in the decaying nucleon
+== beta emission spectrum ==
+beta decay can be considered as a perturbation as described in quantum mechanics and thus fermi's golden rule can be applied this leads to an expression for the kinetic energy spectrum n(t) of emitted betas as follows:
+where t is the kinetic energy cl is a shape function that depends on the forbiddenness of the decay (it is constant for allowed decays) f(z t) is the fermi function (see below) with z the charge of the final-state nucleus e = t + mc2 is the total energy p =(e/c)2 (mc)2 is the momentum and q is the q value of the decay the kinetic energy of the emitted neutrino is given approximately by q minus the kinetic energy of the beta
+as an example the beta decay spectrum of 210bi (originally called rae) is shown to the right
+=== fermi function ===
+the fermi function that appears in the beta spectrum formula accounts for the coulomb attraction / repulsion between the emitted beta and the final state nucleus approximating the associated wavefunctions to be spherically symmetric the fermi function can be analytically calculated to be:
+where s =1 2 z2 ( is the fine-structure constant) = ze/pc (+ for electrons for positrons) = rn/ (rn is the radius of the final state nucleus) and is the gamma function
+for non-relativistic betas (q mec2) this expression can be approximated by:
+other approximations can be found in the literature
+=== kurie plot ===
+a kurie plot (also known as a fermikurie plot) is a graph used in studying beta decay developed by franz n d kurie in which the square root of the number of beta particles whose momenta (or energy) lie within a certain narrow range divided by the fermi function is plotted against beta-particle energy it is a straight line for allowed transitions and some forbidden transitions in accord with the fermi beta-decay theory the energy-axis (x-axis) intercept of a kurie plot corresponds to the maximum energy imparted to the electron/positron (the decay's q-value) with a kurie plot one can find the limit on the effective mass of a neutrino
+== history ==
+=== discovery and characterization of decay ===
+radioactivity was discovered in 1896 by henri becquerel in uranium and subsequently observed by marie and pierre curie in thorium and in the new elements polonium and radium in 1899 ernest rutherford separated radioactive emissions into two types: alpha and beta (now beta minus) based on penetration of objects and ability to cause ionization alpha rays could be stopped by thin sheets of paper or aluminium whereas beta rays could penetrate several millimetres of aluminium (in 1900 paul villard identified a still more penetrating type of radiation which rutherford identified as a fundamentally new type in 1903 and termed gamma rays)
+in 1900 becquerel measured the mass-to-charge ratio (m/e) for beta particles by the method of j.j thomson used to study cathode rays and identify the electron he found that m/e for a beta particle is the same as for thomson's electron and therefore suggested that the beta particle is in fact an electron 
+in 1901 rutherford and frederick soddy showed that alpha and beta radioactivity involves the transmutation of atoms into atoms of other chemical elements in 1913 after the products of more radioactive decays were known soddy and kazimierz fajans independently proposed their radioactive displacement law which states that beta (i.e. ) emission from one element produces another element one place to the right in the periodic table while alpha emission produces an element two places to the left
+=== neutrinos in beta decay ===
+historically the study of beta decay provided the first physical evidence of the neutrino measurements of the beta particle (electron) kinetic energy spectrum in 1911 by lise meitner and otto hahn and in 1913 by jean danysz showed multiple lines on a diffuse background offering the first hint of a continuous spectrum in 1914 james chadwick used a magnetic spectrometer with one of hans geiger's new counters to make a more accurate measurement and showed that the spectrum was continuous this was in apparent contradiction to the law of conservation of energy since if beta decay were simply electron emission as assumed at the time then the energy of the emitted electron should equal the energy difference between the initial and final nuclear states and lead to a narrow energy distribution as observed for both alpha and gamma decay for beta decay however the observed broad continuous spectrum suggested that energy is lost in the beta decay process
+in 19201927 charles drummond ellis (along with james chadwick and colleagues) further established that the beta decay spectrum is continuous ending all controversies it also had an effective upper bound in energy which was a severe blow to bohr's suggestion that conservation of energy might be true only in a statistical sense and might be violated in any given decay now the problem of how to account for the variability of energy in known beta decay products as well as for conservation of momentum and angular momentum in the process became acute
+a second problem related to the conservation of angular momentum molecular band spectra showed that the nuclear spin of nitrogen-14 is 1 (i.e equal to the reduced planck constant) and more generally that the spin is integral for nuclei of even mass number and half-integral for nuclei of odd mass number as later explained by the proton-neutron model of the nucleus beta decay leaves the mass number unchanged so that the change of nuclear spin must be an integer however the electron spin is 1/2 so that angular momentum would not be conserved if beta decay were simply electron emission
+in a famous letter written in 1930 wolfgang pauli suggested that in addition to electrons and protons atomic nuclei also contained an extremely light neutral particle which he called the neutron he suggested that this "neutron" was also emitted during beta decay (thus accounting for the known missing energy momentum and angular momentum) and had simply not yet been observed in 1931 enrico fermi renamed pauli's "neutron" to neutrino and in 1934 he published a very successful model of beta decay in which neutrinos were produced the neutrino interaction with matter was so weak that detecting it proved a severe experimental challenge which was finally met in 1956 in the cowanreines neutrino experiment however the properties of neutrinos were (with a few minor modifications) as predicted by pauli and fermi
+=== discovery of other types of beta decay ===
+in 1934 frdric and irne joliot-curie bombarded aluminium with alpha particles to effect the nuclear reaction 4
+2he + 27
+13al 30
+15p + 1
+0n and observed that the product isotope 30
+15p emits a positron identical to those found in cosmic rays by carl david anderson in 1932 this was the first example of + decay (positron emission) which they termed artificial radioactivity since 30
+15p is a short-lived nuclide which does not exist in nature
+the theory of electron capture was first discussed by gian-carlo wick in a 1934 paper and then developed by hideki yukawa and others k-electron capture was first observed in 1937 by luis alvarez in the nuclide 48v alvarez went on to study electron capture in 67ga and other nuclides
+=== non-conservation of parity ===
+in 1956 chien-shiung wu and coworkers proved in the wu experiment that parity is not conserved in beta decay this surprising fact had been postulated shortly before in an article by tsung-dao lee and chen ning yang
+== see also ==
+electron capture
+neutrino
+alpha decay
+betavoltaics
+particle radiation
+radionuclide
+tritium illumination a form of fluorescent lighting powered by beta decay
+pandemonium effect
+total absorption spectroscopy
+== references ==
+== bibliography ==
+sin-itiro tomonaga (1997) the story of spin university of chicago press
+== external links ==
+the live chart of nuclides - iaea with filter on decay type
+definition of beta disintegration (decay) at science dictionary

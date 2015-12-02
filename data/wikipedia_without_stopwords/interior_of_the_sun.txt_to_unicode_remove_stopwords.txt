@@ -1,0 +1,63 @@
+helioseismology study propagation wave oscillations particularly acoustic pressure waves sun unlike seismic waves earth solar waves practically shear component swaves solar pressure waves believed generated turbulence convection zone near surface sun certain frequencies amplified constructive interference words turbulence rings sun like bell acoustic waves transmitted outer photosphere sun light generated absorption radiant energy nuclear fusion centre sun leaves surface oscillations detectable almost time series solar images best observed measuring doppler shift photospheric absorption lines changes propagation oscillation waves sun reveal inner structures allow astrophysicists develop extremely detailed profiles interior conditions sun
+helioseismology able rule possibility solar neutrino problem due incorrect models interior sun features revealed helioseismology include outer convective zone inner radiative zone rotate different speeds thought generate main magnetic field sun dynamo effect convective zone jet streams plasma precisely torsional oscillations thousands kilometers surface jet streams form broad fronts equator breaking smaller cyclonic storms high latitudes torsional oscillations time variation solar differential rotation alternating bands faster slower rotation far generally accepted theoretical explanation even though close relation solar cycle evident period eleven years known since first observed
+helioseismology also used image far side sun earth including sunspots simple terms sunspots absorb helioseismic waves sunspot absorption causes seismic deficit imaged antipode sunspot facilitate spaceweather forecasting seismic images central portion solar far side produced nearly continuously since late analysing data soho spacecraft since entire far side imaged data
+despite name helioseismology study solar waves solar seismic activity name derived similar practice studying terrestrial seismic waves determine composition earths interior science compared asteroseismology studies propagation sound waves stars
+types solar oscillations
+individual oscillations sun damped die within periods however interference localised waves produces global standing waves also known normal modes analysis overlapping modes constitutes discipline global helioseismology
+solar oscillation modes essentially divided three categories based restoring force drives acoustic gravity surfacegravity wave modes
+pmode acoustic waves pressure restoring force hence name pmode dynamics determined variation speed sound inside sun pmode oscillations frequencies mhz strong mhz range often referred minute oscillations note minutes per cycle cycles per second mhz pmodes solar surface amplitudes hundreds kilometers readily detectable doppler imaging sensitive spectral line intensity imaging thousands pmodes high intermediate degree l see wavenumber degree l detected michelson doppler imager mdi instrument aboard soho spacecraft degree l clearly separated higher degree modes ridged together pmodes mhz detected golf instrument aboard soho spacecraft
+gmode gravity waves density waves gravity negative buoyancy displaced material restoring force hence name gmode gmode oscillations low frequency waves mhz confined interior sun convection zone extends solar radius practically inobservable surface restoring force caused adiabatic expansion deep interior sun temperature gradient weak small packet gas moves example upward cooler denser surrounding gas therefore pulled back original position restoring force drives gmodes solar convection zone temperature gradient slightly greater adiabatic lapse rate antirestoring force drives convection gmodes cannot propagate g modes evanescent entire convection zone thought residual amplitudes millimeters photosphere though prominent temperature perturbations since several claims gmode detection none confirmed another gmode detection claimed using golf data gong soho xxi conference held boulder phoebus group reported could confirm findings putting upper limit gmode amplitude mms right detection limit golf instrument finally phoebus group published review current state knowledge solar g modes
+fmode surface gravity waves also gravity waves occur near photosphere temperature gradient drops adiabatic lapse rate fmodes moderate high degree l l see wavenumber degree l observed mdi
+analysis oscillation data
+data timeseries solar spectra show oscillations overlapping thousands modes detected true number perhaps millions mathematical technique fourier analysis used recover information individual modes mass data idea periodic function written sum multiples simplest periodic functions sines cosines different frequencies find much amplitude simple function goes one applies fourier transform point value transform obtained computing particular integral involving modified version
+simplest modes analyse radial ones however solar modes nonradial nonradial mode characterized three wavenumbers sphericalharmonic degree azimuthal order determine behaviour mode surface star radial order reflects properties radial direction see diagram top right example note sun spherically symmetric azimuthal order would exhibit degeneracy however rotation sun along perturbations leads equatorial bulge lifts degeneracy convention corresponds number nodes radial eigenfunction indicates total number nodal lines spheres tells many nodal lines cross equator
+general frequencies stellar oscillations depend three wave numbers convenient however separate frequency multiplet frequency obtained suitable average azimuthal order corresponding spherically symmetric structure star frequency splitting
+analyses oscillation data must attempt separate different frequency components case sun oscillations observed directly functions position solar disk well time thus possible analyze spatial properties done means generalized dimensional fourier transform position solar surface isolate particular values followed fourier transform time isolates frequencies modes type fact average stellar surface implicit observations stellar oscillations thought one example spatial fourier transform
+note oscillation data rather continuous function amount values constrained experimental error evaluated grid positions times computing transforms values function outside grid interpolated integrals approximated finite sums process inevitably introducing errors details numerical methods used included transformed data purposes comparison constraining errors
+discussion adapted jrgen christensendalsgaard lecture notes stellar oscillations
+inversion
+information helioseismic waves mode frequencies frequencysplitting collected transforming oscillation data used infer numerical details internal features sun internal sound speed internal differential rotation equations analytic relations integrals manipulated relate desired internal properties transformed data numerical methods used adapted particular internal features examined extract maximum amount information least error oscillations internal features process termed helioseismic inversion
+example slightly detail oscillation frequency splitting related via integral angular velocity within sun
+internal structure
+helioseismic observations reveal inner uniformly rotating zone differentially rotating envelope sun roughly corresponding radiation convection zones respectively see diagram right transition layer called tachocline
+helioseismic dating
+age sun inferred helioseismic studies propagation acoustic waves deep within sun depends composition sun particular relative abundance helium hydrogen core since sun fusing hydrogen helium throughout lifetime present day abundance helium core used infer age sun using numerical models stellar evolution applied sun standard solar model method provides verification age solar system gathered radiometric dating meteorites
+local helioseismology
+goal local helioseismology term first used interpret full wave field observed surface mode precisely eigenmode frequencies another way look global helioseismology studies standing waves entire sun local helioseismology studies propagating waves parts sun variety solar phenomena studied including sunspots plage supergranulation giant cell convection magnetically active region evolution meridional circulation solar rotation local helioseismology provides threedimensional view solar interior important understand largescale flows magnetic structures interactions solar interior
+many techniques used new expanding field include
+fourierhankel spectral method first introduced braun duvall originally used search wave absorption sunspots
+ringdiagram analysis first introduced f hill used infer speed direction horizontal flows solar surface observing doppler shifts ambient acoustic waves power spectra solar oscillations computed patches solar surface typically thus ring analysis generalization global helioseismology applied local areas sun opposed half sun example sound speed adiabatic index compared within magnetically active inactive quiet sun regions
+timedistance helioseismology introduced duvall et al aims measure interpret travel times solar waves two locations solar surface travel time anomaly contains seismic signature buried inhomogeneities within proximity ray path connects two surface locations inverse problem must solved infer local structure dynamics solar interior
+helioseismic holography introduced detail lindsey braun purpose farside magnetic imaging special case phasesensitive holography idea use wavefield visible disk learn active regions far side sun basic idea helioseismic holography wavefield eg lineofsight doppler velocity observed solar surface used make estimate wavefield location solar interior instant time sense holography much like seismic migration technique geophysics use since another example technique used give seismic image solar flare acoustic holography applied mdi data ideal detection sources sinks acoustic waves sun braun fan discovered region lower acoustic emission mhz frequency band extends far beyond sunspots acoustic moat acoustic moats extend beyond magnetic regions quiet sun addition braun lindsey discovered highfrequency emission acoustic glories surrounding active regions
+direct modelling woodard idea estimate subsurface flows direct inversion frequencywavenumber correlations seen wavefield fourier domain woodard gave practical demonstration ability technique recover nearsurface flows fmode part spectrum
+section adapted laurent gizon aaron c birch local helioseismology living rev solar phys online article cited november
+jet stream movement may affect solar cycle
+internal jet stream moving behind schedule may explain delayed start solar cycle
+see also
+minute solar cycle
+asteroseismology
+differential rotation stars
+diskoseismology
+magnetogravity
+moreton wave
+solar neutrino problem
+solar tower astronomy
+stellar rotation
+references
+external links
+nontechnical description helio asteroseismology retrieved november
+laurent gizon aaron c birch local helioseismology living rev solar phys online article
+scientists issue unprecedented forecast next sunspot cycle national science foundation press release march
+largescale dynamics convection zone tachocline mark miesch
+european helio asteroseismology network helas
+farside earthside images sun
+living reviews solar physics
+satellite instruments
+virgo
+soimdi
+trace
+groundbased instruments
+bison
+mark
+gong
+hidhn

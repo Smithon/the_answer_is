@@ -1,0 +1,47 @@
+for the use of this term in mathematics and physics see phase space
+a phase diagram in physical chemistry engineering mineralogy and materials science is a type of chart used to show conditions at which thermodynamically distinct phases can occur at equilibrium
+== overviewedit ==
+common components of a phase diagram are lines of equilibrium or phase boundaries which refer to lines that mark conditions under which multiple phases can coexist at equilibrium phase transitions occur along lines of equilibrium
+triple points are points on phase diagrams where lines of equilibrium intersect triple points mark conditions at which three different phases can coexist for example the water phase diagram has a triple point corresponding to the single temperature and pressure at which solid liquid and gaseous water can coexist in a stable equilibrium
+the solidus is the temperature below which the substance is stable in the solid state the liquidus is the temperature above which the substance is stable in a liquid state there may be a gap between the solidus and liquidus; within the gap the substance consists of a mixture of crystals and liquid (like a "slurry")
+== types of phase diagramsedit ==
+=== 2d phase diagramsedit ===
+the simplest phase diagrams are pressuretemperature diagrams of a single simple substance such as water the axes correspond to the pressure and temperature the phase diagram shows in pressuretemperature space the lines of equilibrium or phase boundaries between the three phases of solid liquid and gas
+the curves on the phase diagram show the points where the free energy (and other derived properties) becomes non-analytic: their derivatives with respect to the coordinates (temperature and pressure in this example) change discontinuously (abruptly) for example the heat capacity of a container filled with ice will change abruptly as the container is heated past the melting point the open spaces where the free energy is analytic correspond to single phase regions single phase regions are separated by lines of non-analytical behavior where phase transitions occur which are called phase boundaries
+in the diagram on the left the phase boundary between liquid and gas does not continue indefinitely instead it terminates at a point on the phase diagram called the critical point this reflects the fact that at extremely high temperatures and pressures the liquid and gaseous phases become indistinguishable in what is known as a supercritical fluid in water the critical point occurs at around tc = 647.096 k (373.946 c) pc = 22.064 mpa (217.75 atm) and c = 356 kg/m
+the existence of the liquidgas critical point reveals a slight ambiguity in labelling the single phase regions when going from the liquid to the gaseous phase one usually crosses the phase boundary but it is possible to choose a path that never crosses the boundary by going to the right of the critical point thus the liquid and gaseous phases can blend continuously into each other the solidliquid phase boundary can only end in a critical point if the solid and liquid phases have the same symmetry group
+the solidliquid phase boundary in the phase diagram of most substances has a positive slope; the greater the pressure on a given substance the closer together the molecules of the substance are brought to each other which increases the effect of the substance's intermolecular forces thus the substance requires a higher temperature for its molecules to have enough energy to break out of the fixed pattern of the solid phase and enter the liquid phase a similar concept applies to liquidgas phase changes water because of its particular properties is one of the several exceptions to the rule
+==== other thermodynamic propertiesedit ====
+in addition to just temperature or pressure other thermodynamic properties may be graphed in phase diagrams examples of such thermodynamic properties include specific volume specific enthalpy or specific entropy for example single-component graphs of temperature vs specific entropy (t vs s) for water/steam or for a refrigerant are commonly used to illustrate thermodynamic cycles such as a carnot cycle rankine cycle or vapor-compression refrigeration cycle
+in a two-dimensional graph two of the thermodynamic quantities may be shown on the horizontal and vertical axes additional thermodynamic quantities may each be illustrated in increments as a series of lines - curved straight or a combination of curved and straight each of these iso-lines represents the thermodynamic quantity at a certain constant value
+=== 3d phase diagramsedit ===
+it is possible to envision three-dimensional (3d) graphs showing three thermodynamic quantities for example for a single component a 3d cartesian coordinate type graph can show temperature (t) on one axis pressure (p) on a second axis and specific volume (v) on a third such a 3d graph is sometimes called a pvt diagram the equilibrium conditions are shown as curves on a curved surface in 3d with areas for solid liquid and vapor phases and areas where solid and liquid solid and vapor or liquid and vapor coexist in equilibrium a line on the surface called a triple line is where solid liquid and vapor can all coexist in equilibrium the critical point remains a point on the surface even on a 3d phase diagram
+an orthographic projection of the 3d pvt graph showing pressure and temperature as the vertical and horizontal axes collapses the 3d plot into the standard 2d pressuretemperature diagram when this is done the solidvapor solidliquid and liquidvapor surfaces collapse into three corresponding curved lines meeting at the triple point which is the collapsed orthographic projection of the triple line
+=== binary phase diagramsedit ===
+other much more complex types of phase diagrams can be constructed particularly when more than one pure component is present in that case concentration becomes an important variable phase diagrams with more than two dimensions can be constructed that show the effect of more than two variables on the phase of a substance phase diagrams can use other variables in addition to or in place of temperature pressure and composition for example the strength of an applied electrical or magnetic field and they can also involve substances that take on more than just three states of matter
+one type of phase diagram plots temperature against the relative concentrations of two substances in a binary mixture called a binary phase diagram as shown at right such a mixture can be either a solid solution eutectic or peritectic among others these two types of mixtures result in very different graphs another type of binary phase diagram is a boiling-point diagram for a mixture of two components i e chemical compounds for two particular volatile components at a certain pressure such as atmospheric pressure a boiling-point diagram shows what vapor (gas) compositions are in equilibrium with given liquid compositions depending on temperature in a typical binary boiling-point diagram temperature is plotted on a vertical axis and mixture composition on a horizontal axis
+a simple example diagram with hypothetical components 1 and 2 in a non-azeotropic mixture is shown at right the fact that there are two separate curved lines joining the boiling points of the pure components means that the vapor composition is usually not the same as the liquid composition the vapor is in equilibrium with see vaporliquid equilibrium for more information
+in addition to the above-mentioned types of phase diagrams there are thousands of other possible combinations some of the major features of phase diagrams include congruent points where a solid phase transforms directly into a liquid there is also the peritectoid a point where two solid phases combine into one solid phase during cooling the inverse of this when one solid phase transforms into two solid phases during heating is called the eutectoid
+a complex phase diagram of great technological importance is that of the ironcarbon system for less than 7% carbon (see steel)
+the x-axis of such a diagram represents the concentration variable of the mixture as the mixtures are typically far from dilute and their density as a function of temperature is usually unknown the preferred concentration measure is mole fraction a volume-based measure like molarity would be inadvisable
+=== crystal phase diagramsedit ===
+polymorphic and polyamorphic substances have multiple crystal or amorphous phases which can be graphed in a similar fashion to solid liquid and gas phases
+=== mesophase diagramsedit ===
+some organic materials pass through intermediate states between solid and liquid; these states are called mesophases attention has been directed to mesophases because they enable display devices and have become commercially important through the so-called liquid-crystal technology phase diagrams are used to describe the occurrence of mesophases
+== see alsoedit ==
+calphad (method)
+congruent melting and incongruent melting
+gibbs phase rule
+glass databases
+hamiltonian mechanics
+phase separation
+schreinemaker's analysis
+== referencesedit ==
+== external linksedit ==
+iron-iron carbide phase diagram example
+how to build a phase diagram
+phase changes: phase diagrams: part 1
+equilibrium fe-c phase diagram
+phase diagrams for lead free solders
+doitpoms phase diagram library
+doitpoms teaching and learning package- "phase diagrams and solidification"

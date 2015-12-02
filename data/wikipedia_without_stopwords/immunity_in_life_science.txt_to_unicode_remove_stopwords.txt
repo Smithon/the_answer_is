@@ -1,0 +1,53 @@
+total internal reflection phenomenon occurs propagating wave strikes medium boundary angle larger particular critical angle respect normal surface refractive index lower side boundary incident angle greater critical angle wave cannot pass entirely reflected critical angle angle incidence total internal reflection occurs particularly common optical phenomenon light waves involved occurs many types waves electromagnetic waves general sound waves
+wave reaches boundary different materials different refractive indices wave general partially refracted boundary surface partially reflected however angle incidence greater ie direction propagation closer parallel boundary critical angle angle incidence light refracted travels along boundary wave cross boundary instead totally reflected back internally occur wave medium higher refractive index n reaches boundary medium lower refractive index n example occur light reaching air glass reaching glass air
+optical descriptionedit
+total internal reflection light demonstrated using semicircular block glass plastic ray box shines narrow beam light ray onto glass medium semicircular shape ensures ray pointing towards centre flat face hit curved surface right angle prevent refraction airglass boundary curved surface glassair boundary flat surface happens depend angle c critical angle measurement caused sun light source measured normal surface
+c ray split ray reflect boundary refract passes total internal reflection
+c entire ray reflects boundary none passes called total internal reflection
+physical property makes optical fibers useful prismatic binoculars possible also gives diamonds distinctive sparkle diamond unusually high refractive index
+critical angleedit
+critical angle angle incidence total internal reflection occurs angle incidence measured respect normal refractive boundary see diagram illustrating snells law consider light ray passing glass air light emanating interface bent towards glass incident angle increased sufficiently transmitted angle air reaches degrees point light transmitted air critical angle given snells law
+rearranging snells law get incidence
+find critical angle find value thus resulting value equal critical angle
+solve get equation critical angle
+incident ray precisely critical angle refracted ray tangent boundary point incidence example visible light traveling acrylic glass index refraction approximately air index refraction calculation would give critical angle light acrylic air
+light incident border angle less would partially transmitted light incident border larger angles respect normal would totally internally reflected
+fraction greater arcsine definedmeaning total internal reflection occur even shallow grazing incident angles
+critical angle defined less equal
+derivation evanescent waveedit
+important side effect total internal reflection appearance evanescent wave beyond boundary surface essentially even though entire incident wave reflected back originating medium penetration second medium boundary evanescent wave appears travel along boundary two materials leading gooshnchen shift
+plane wave confined xz plane incident dielectric angle wavevector transmitted ray created corresponding angle transmittance shown figure transmitted wavevector given
+since relation obtained snells law greater one
+result becomes complex
+electric field transmitted plane wave given evaluating one obtains
+using fact snells law one finally obtains
+wave optically less dense medium known evanescent wave characterized propagation x direction exponential attenuation z direction although field second medium shown energy flows across boundary component poynting vector direction normal boundary finite time average vanishes whereas two components poynting vector xcomponent time averaged values general found finite ie nonzero
+frustrated total internal reflectionedit
+ordinary conditions evanescent wave transmits zero net energy across interface however third medium higher refractive index lowindex second medium placed within less several wavelengths distance interface first medium second medium evanescent wave different usual one pass energy across second third medium see evanescent wave coupling process called frustrated total internal reflection ftir similar quantum tunneling quantum tunneling model mathematically analogous one thinks electromagnetic field wave function photon low index medium thought potential barrier photons tunnel
+transmission coefficient ftir highly sensitive spacing third medium second medium function approximately exponential gap almost closed effect often used modulate optical transmission reflection large dynamic range
+phase shift upon total internal reflectionedit
+lesserknown aspect total internal reflection reflected light angle dependent phase shift reflected incident light mathematically means fresnel reflection coefficient becomes complex rather real number phase shift polarization dependent grows incidence angle deviates critical angle toward grazing incidence
+polarization dependent phase shift long known used fresnel design fresnel rhomb allows one transform circular polarization linear polarization vice versa wide range wavelengths colors contrast quarter wave plate polarization dependent phase shift also reason te tm guided modes different dispersion relations
+applicationsedit
+total internal reflection operating principle optical fibers used endoscopes telecommunications
+total internal reflection operating principle automotive rain sensors control automatic windscreenwindshield wipers
+another application total internal reflection spatial filtering light
+prisms binoculars use total internal reflection rather reflective coatings fold optical paths show erect images
+multitouch screens use frustrated total internal reflection combination camera appropriate software pick multiple targets
+gonioscopy employs total internal reflection view anatomical angle formed eyes cornea iris
+gait analysis instrument catwalk xt uses frustrated total internal reflection combination high speed camera capture analyze footprints laboratory rodents
+optical fingerprinting devices use frustrated total internal reflection order record image persons fingerprint without use ink
+total internal reflection fluorescence microscope uses evanescent wave produced tir excite fluorophores close surface useful study surface properties biological samples
+total internal reflection operating principle led light panels technology utilizes lgps light guide plates vehicle transmitting light large areas etching grid pattern second surface lgp frustrated total internal reflection occurs allowing light escape lgp visible illumination
+examples everyday lifeedit
+total internal reflection observed swimming one opens ones eyes waters surface water calm surface appears mirrorlike diamonds used jewelry normally shaped way maximize amount light totally internally reflected back side diamond high refractive index diamond gives small critical angle allowing almost light entering diamond reflected back optimized diamond cuts brilliant
+referencesedit
+article incorporates public domain material general services administration document federal standard c support milstd
+external linksedit
+ftir touch sensing
+multitouch interaction research
+georgia state university
+total internal reflection michael schreiber wolfram demonstrations project
+total internal reflection st marys physics online notes
+bowley roger total internal reflection sixty symbols brady haran university nottingham
+tetm reflection coefficients interactive phase magnitude plots

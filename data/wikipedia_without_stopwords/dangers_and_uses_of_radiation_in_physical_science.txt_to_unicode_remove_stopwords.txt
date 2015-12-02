@@ -1,0 +1,102 @@
+radiation protection sometimes known radiological protection science practice protecting people environment harmful effects ionizing radiation
+ionizing radiation widely used industry medicine present significant health hazard causes microscopic damage living tissue result skin burns radiation sickness high exposures known tissue effects statistically elevated risks cancer low exposures stochastic effects
+fundamental radiation protection reduction expected dose measurement human dose uptake radiation protection dosimetry assessment international committee radiation protection icrp international commission radiation units measurements icru published recommendations data used calculate biological effects human body set regulatory guidance limits
+principles radiation protectionedit
+icrp recommends develops maintains international system radiological protection based evaluation body scientific studies available recommendations makes flow national regulators opportunity incorporate law shown accompanying diagram
+protection groupsedit
+radiation protection divided occupational radiation protection protection workers medical radiation protection protection patients public radiation protection protection individual members public population whole types exposure well government regulations legal exposure limits different groups must considered separately
+factors dose uptakeedit
+three factors control amount dose radiation received source radiation exposure managed combination factors
+time reducing time exposure reduces effective dose proportionally example reducing radiation doses reducing time exposures might improving operator training reduce time take handle source
+distance increasing distance reduces dose due inverse square law distance simple handling source forceps rather fingers
+shielding term biological shield refers mass absorbing material placed around reactor radioactive source reduce radiation level safe humans effectiveness material biological shield related crosssection scattering absorption first approximation proportional total mass material per unit area interposed along line sight radiation source region protected hence shielding strength thickness conventionally measured units gcm radiation manages get falls exponentially thickness shield xray facilities walls surrounding room xray generator may contain lead sheets plaster may contain barium sulfate operators view target leaded glass screen must remain room target wear lead aprons almost material act shield gamma xrays used sufficient amounts
+practical radiation protection tends job juggling three factors identify cost effective solution
+regulation dose uptakeedit
+countries national regulatory authority works towards ensuring secure radiation environment society setting dose limitation requirements generally based recommendations international commission radiological protection icrp use following overall principles
+justification unnecessary use radiation permitted means advantages must outweigh disadvantages
+limitation individual must protected risks far large individual radiation dose limits
+optimization radiation doses kept low reasonably achievable means enough remain radiation dose limits permit holder responsible ensuring radiation doses low reasonably achievable means actual radiation doses often much lower permitted limit
+alarpedit
+alarp acronym important principle exposure radiation occupational health risks stands low reasonably practicable aim minimize risk radioactive exposure hazard keeping mind exposure may acceptable order task hand equivalent term alara low reasonably achievable commonly used outside uk
+compromise well illustrated radiology application radiation aid patient providing doctors health care professionals medical diagnosis exposure reasonably low enough keep statistical probability cancers sarcomas stochastic effects acceptable level eliminate deterministic effects eg skin reddening cataracts acceptable level incidence stochastic effects considered equal worker risk another work generally considered safe
+policy based principle amount radiation exposure matter small increase chance negative biological effects cancer also based principle probability occurrence negative effects radiation exposure increases cumulative lifetime dose ideas combined form linear nothreshold model time radiology practices involve use radiations bring benefits population reducing radiation exposure reduce efficacy medical practice economic cost example adding barrier radiation must also considered applying alarp principle
+interaction radiation shieldingedit
+different types ionizing radiation interact different ways shielding material effectiveness shielding dependent stopping power radiation particles varies type energy radiation shielding material used different shielding techniques therefore used dependent application type energy radiation
+particle radiationedit
+particle radiation consists stream charged neutral particles charged ions subatomic elementary particles includes solar wind cosmic radiation neutron flux nuclear reactors
+alpha particles helium nuclei least penetrating even energetic alpha particles stopped single sheet paper
+beta particles electrons penetrating still absorbed millimeters aluminum however cases high energy beta particles emitted shielding must accomplished low density materials eg plastic wood water acrylic glass plexiglas lucite reduce generation bremsstrahlung xrays case beta radiation positrons gamma radiation electronpositron annihilation reaction poses additional concern
+neutron radiation readily absorbed charged particle radiation makes type highly penetrating neutrons absorbed nuclei atoms nuclear reaction mostoften creates secondary radiation hazard absorbing nuclei transmute nextheavier isotope many unstable
+cosmic radiation common concern earths atmosphere absorbs magnetosphere acts shield poses problem satellites astronauts frequent fliers also slight risk cosmic radiation extremely high energy penetrating
+electromagnetic radiationedit
+electromagnetic radiation consists emissions electromagnetic waves properties depend wavelength
+xray gamma radiation best absorbed atoms heavy nuclei heavier nucleus better absorption special applications depleted uranium thorium used lead much common several centimeters often required barium sulfate used applications however cost important almost material used must far thicker nuclear reactors use thick concrete shields create bioshield thin water cooled layer lead inside protect porous concrete coolant inside concrete also made heavy aggregates baryte magnadense magnetite aid shielding properties concrete gamma rays better absorbed materials high atomic numbers high density although neither effect important compared total mass per area path gamma ray
+ultraviolet uv radiation ionizing shortest wavelengths penetrating shielded thin opaque layers sunscreen clothing protective eyewear protection uv simpler forms radiation often considered separately
+cases improper shielding actually make situation worse radiation interacts shielding material creates secondary radiation absorbs organisms readily example although high atomic number materials effective shielding photons using shield beta particles may cause higher radiation exposure due production bremsstrahlung xrays hence low atomic number materials recommended also using material high neutron activation cross section shield neutrons result shielding material becoming radioactive hence dangerous present
+shieldingedit
+shielding reduces intensity radiation depending thickness exponential relationship gradually diminishing effect equal slices shielding material added quantity known halvingthicknesses used calculate example practical shield fallout shelter ten halvingthicknesses packed dirt roughly cm ft reduces gamma rays original intensity multiplied ten times halving thicknesses materials reduce gamma ray intensity include
+effectiveness shielding material general increases atomic number called z except neutron shielding readily shielded likes neutron absorbers moderators compounds boron eg boric acid cadmium carbon hydrogen respectively
+gradedz shielding laminate several materials different z values atomic numbers designed protect ionizing radiation compared singlematerial shielding mass gradedz shielding shown reduce electron penetration commonly used satellitebased particle detectors offering several benefits
+protection radiation damage
+reduction background noise detectors
+lower mass compared singlematerial shielding
+designs vary typically involve gradient highz usually tantalum successively lowerz elements tin steel copper usually ending aluminium sometimes even lighter materials polypropylene boron carbide used
+typical gradedz shield highz layer effectively scatters protons electrons also absorbs gamma rays produces xray fluorescence subsequent layers absorbs xray fluorescence previous material eventually reducing energy suitable level decrease energy produces bremsstrahlung auger electrons detectors energy threshold designs also include outer layer aluminium may simply skin satellite
+radiation protection instrumentsedit
+practical radiation measurement using calibrated radiation protection instruments essential evaluating effectiveness protection measures assessing radiation dose likely received individuals measuring instruments radiation protection installed fixed position portable handheld transportable
+installed instrumentsedit
+installed instruments fixed positions known important assessing general radiation hazard area examples installed area radiation monitors gamma interlock monitors personnel exit monitors airborne particulate monitors
+area radiation monitor measure ambient radiation usually xray gamma neutrons radiations significant radiation levels range excess tens metres source thereby cover wide area
+gamma radiation interlock monitors used applications prevent inadvertent exposure workers excess dose preventing personnel access area high radiation level present interlock process access directly
+airborne contamination monitors measure concentration radioactive particles ambient air guard radioactive particles ingested deposited lungs personnel instruments normally give local alarm often connected integrated safety system areas plant evacuated personnel prevented entering air high airborne contamination
+personnel exit monitors pem used monitor workers exiting contamination controlled potentially contaminated area form hand monitors clothing frisk probes whole body monitors monitor surface workers body clothing check radioactive contamination deposited generally measure alpha beta gamma combinations
+uk national physical laboratory publishes good practice guide ionising radiation metrology forum concerning provision equipment methodology calculating alarm levels used
+portable instrumentsedit
+portable instruments handheld transportable handheld instrument generally used survey meter check object person detail assess area installed instrumentation exists also used personnel exit monitoring personnel contamination checks field generally measure alpha beta gamma combinations
+transportable instruments generally instruments would permanently installed temporarily placed area provide continuous monitoring likely hazard instruments often installed trolleys allow easy deployment associated temporary operational situations
+united kingdom hse issued user guidance note selecting correct radiation measurement instrument application concerned covers radiation instrument technologies useful comparative guide
+instrument typesedit
+number commonly used detection instruments listed
+ionization chambers
+proportional counters
+geiger counters
+semiconductor detectors
+scintillation detectors
+airborne particulate radioactivity monitoring
+links followed fuller description
+radiation dosimetersedit
+dosimeters devices worn user patient measure absorbed dose person receives common types wearable dosimeters ionizing radiation include
+quartz fiber dosimeter
+film badge dosimeter
+thermoluminescent dosimeter
+solid state mosfet silicon diode dosimeter
+spacecraft radiation protectionedit
+spacecraft manned unmanned must cope high radiation environment outerspace space radiation produced sun galactic sources trapped radiation belts dangerous hundreds times intense radiation sources medical xrays normal cosmic radiation usually experienced earth intensely ionizing particles found space strike human tissue result cell damage may eventually lead cancer
+usual method radiation protection material shielding spacecraft equipment structures usually aluminium possibly augmented polyethylene human spaceflight main concern high energy protons cosmic ray ions unmanned spacecraft high electron dose environments jupiter missions medium earth orbit meo additional shielding materials high atomic number effective long duration manned missions advantage taken good shielding characteristics liquid hydrogen fuel water
+nasa space radiation laboratory makes use particle accelerator produces beams protons heavy ions ions typical accelerated cosmic sources sun beams ions move meter foot transport tunnel squaremeter squarefoot shielded target hall hit target may biological sample shielding material nasa study determined materials high hydrogen contents polyethylene reduce primary secondary radiation greater extent metals aluminum problem passive shielding method radiation interactions material generate secondary radiation
+active shielding using magnets high voltages artificial magnetospheres slow defect radiation considered potentially combat radiation feasible way far cost equipment power weight active shielding equipment outweigh benefits example active radiation equipment would need habitable volume size house magnetic electrostatic configurations often homogenous intensity allowing highenergy particles penetrate magnetic electric fields lowintensity parts like cusps dipolar magnetic field earth nasa undergoing research superconducting magnetic architecture potential active shielding applications
+early dangersedit
+dangers radioactivity radiation immediately recognized discovery xrays led widespread experimentation scientists physicians inventors many people began recounting stories burns hair loss worse technical journals early february year professor daniel dr dudley vanderbilt university performed experiment involving xraying dudleys head resulted hair loss report dr hd hawks graduate columbia college suffering severe hand chest burns xray demonstration first many reports electrical review
+many experimenters including elihu thomson thomas edisons lab william j morton nikola tesla also reported burns elihu thomson deliberately exposed finger xray tube period time suffered pain swelling blistering effects including ultraviolet rays ozone sometimes blamed damage many physicians claimed effects xray exposure
+early william herbert rollins wrote almost despairingly warnings dangers involved careless use xrays heeded either industry colleagues time rollins proved xrays could kill experimental animals could cause pregnant guinea pig abort could kill fetus also stressed animals vary susceptibility external action xlight warned differences considered patients treated means xrays
+biological effects radiation known many physicians corporations began marketing radioactive substances patent medicine form glowinthedark pigments examples radium enema treatments radiumcontaining waters drunk tonics marie curie protested sort treatment warning effects radiation human body well understood curie later died aplastic anaemia likely caused exposure ionizing radiation number cases bone necrosis death radium treatment enthusiasts radiumcontaining medicinal products largely removed market radioactive quackery
+see alsoedit
+exrad united states department defense radioprotectant drug development
+cblb protectan radioprotectant drug development ability protect cells radiotherapy
+potassium iodide
+radioresistance
+health physics
+radiological protection patients
+health threat cosmic rays
+international radiation protection association irpa international body concerned promoting science practice radiation protection
+radiation monitoring
+radiobiology
+radiation protection convention
+society radiological protection principal uk body concerned promoting science practice radiation protection uk national affiliated body irpa
+nuclear safety
+notesedit
+referencesedit
+harvard university radiation protection office providing radiation guidance harvard university affiliated institutions
+journal solid state phenomena tara ahmadi use semidipole magnetic field spacecraft radiation protection
+external linksedit
+confusing world radiation dosimetry ma boyd us environmental protection agency account chronological differences usa icrp dosimetry systems

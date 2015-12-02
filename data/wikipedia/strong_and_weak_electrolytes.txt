@@ -1,0 +1,26 @@
+molar conductivity is defined as the conductivity of an electrolyte solution divided by the molar concentration of the electrolyte and so measures the efficiency with which a given electrolyte conducts electricity in solution its units are siemens per meter per molarity or siemens meter-squared per mole the usual symbol is a capital lambda  or m or molar conductivity of a solution at a given concentration is the conductance of the volume (v) of the solution containing one mole of electrolyte kept between two electrodes with area of cross section (a) and at a distance of unit length
+== history ==
+friedrich kohlrausch established that to a high accuracy in dilute solutions molar conductivity is composed of individual contributions of ions this is known as the law of independent migration of ions
+== description ==
+from its definition the molar conductivity is given by:
+where:
+is the measured conductivity
+c is the electrolyte concentration
+two cases should be distinguished: strong electrolytes and weak electrolytes
+for strong electrolytes such as salts strong acids and strong bases the molar conductivity depends only weakly on concentration based on experimental data friedrich kohlrausch (around the year 1900) proposed the non-linear law for strong electrolytes:
+where
+is the molar conductivity at infinite dilution (or limiting molar conductivity)
+k is the kohlrausch coefficient which depends mainly on the stoichiometry of the specific salt in solution
+this law is valid for low electrolyte concentrations only; it fits into the debye-hckel-onsager equation :
+for weak electrolytes (i.e incompletely dissociated electrolytes) however the molar conductivity strongly depends on concentration: the more dilute a solution the greater its molar conductivity due to increased ionic dissociation (this for example is the case of sds-coated proteins in the stacking gel of an sds-page.)
+the limiting molar conductivity can be decomposed into contributions from the different ions (kohlrausch's law of independent migration of ions):
+where:
+is the molar ionic conductivity of ion i
+is the number of ions i in the formula unit of the electrolyte (e.g 2 and 1 for na+ and so42 in na2so4)
+== applications ==
+ostwald's law of dilution which gives the dissociation constant of a weak electrolyte as a function of concentration can be written in terms of molar conductivity thus the pka values of acids can be calculated by measuring the molar conductivity and extrapolating into zero concentration namely pka = p(k/(1 mol dm3)) at the zero-concentration limit where k is the dissociation constant from ostwald's law
+== references ==
+^ castellan g.w physical chemistry benjamin/cummings 1983
+^ the best test preparation for the gre graduate record examination chemistry test published by the research and education association 2000 isbn 0-87891-600-8 p 149
+^ atkins p w (2001) the elements of physical chemistry oxford university press isbn 0-19-879290-5
+[1]

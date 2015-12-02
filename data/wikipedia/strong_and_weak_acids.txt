@@ -1,0 +1,31 @@
+acid-base extraction is a procedure using sequential liquidliquid extractions to purify acids and bases from mixtures based on their chemical properties
+acid-base extraction is routinely performed during the work-up after chemical syntheses and for the isolation of compounds and natural products like alkaloids from crude extracts the product is largely free of neutral and acidic or basic impurities it is not possible to separate chemically similar acids or bases using this simple method
+== theory ==
+the fundamental theory behind this technique is that salts which are ionic tend to be water-soluble while neutral molecules tend not to be
+the addition of an acid to a mixture of an organic base and acid will result in the acid remaining uncharged while the base will be protonated to form a salt if the organic acid such as a carboxylic acid is sufficiently strong its self-ionization can be suppressed by the added acid
+conversely the addition of a base to a mixture of an organic acid and base will result in the base remaining uncharged while the acid is deprotonated to give the corresponding salt once again the self-ionization of a strong base is suppressed by the added base
+the acid-base extraction procedure can also be used to separate very weak acids from stronger acids and very weak bases from stronger bases as long as the difference of their pka (or pkb) constants is large enough for example:
+very weak acids with phenolic oh groups like phenol 2-naphthol or 4-hydroxyindole (pka around 10) from stronger acids like benzoic acid or sorbic acid (pka around 45)
+very weak bases like caffeine or 4-nitroaniline (pkb around 1314) from stronger bases like mescaline or dimethyltryptamine (pkb around 34)
+usually the ph is adjusted to a value roughly between the pka (or pkb) constants of the compounds to be separated weak acids like citric acid phosphoric acid or diluted sulfuric acid are used for moderately acidic ph values and hydrochloric acid or more concentrated sulfuric acid is used for strongly acidic ph values similarly weak bases like ammonia or sodium bicarbonate (nahco3) are used for moderately basic ph values while stronger bases like potassium carbonate (k2co3) or sodium hydroxide (naoh) are used for strongly alkaline conditions
+== technique ==
+usually the mixture is dissolved in a suitable solvent such as dichloromethane or diethyl ether (ether) and poured into a separating funnel an aqueous solution of the acid or base is added and the ph of the aqueous phase is adjusted to bring the compound of interest into its required form after shaking and allowing for phase separation the phase containing the compound of interest is collected the procedure is then repeated with this phase at the opposite ph range the order of the step is not important and the process can be repeated to increase the separation however it is often convenient to have the compound dissolved in the organic phase after the last step so that the evaporation of the solvent yields the product
+== limitations ==
+the procedure works only for acids and bases with a large difference in solubility between their charged and their uncharged form the procedure does not work for:
+zwitterions with acidic and basic functional groups in the same molecule e.g glycine which tend to be water-soluble at most ph
+very lipophilic amines that do not easily dissolve in the aqueous phase in their charged form e.g triphenylamine and trihexylamine
+very lipophilic acids that do not easily dissolve in the aqueous phase in their charged form e.g fatty acids
+lower amines like ammonia methylamine or triethanolamine which are miscible or significantly soluble in water at most ph
+hydrophilic acids like acetic acid citric acid and most inorganic acids like sulfuric acid or phosphoric acid
+== alternatives ==
+alternatives to acid-base extraction including:
+filtering the mixture through a plug of silica gel or alumina charged salts tend to remain strongly adsorbed to the silica gel or alumina
+ion exchange chromatography can separate acids bases or mixtures of strong and weak acids and bases by their varying affinities to the column medium at different ph
+== see also ==
+chromatography a more powerful but more complex procedure to separate compounds
+extraction
+multiphasic liquid
+separating funnel
+== references ==
+== external links ==
+acid base extraction

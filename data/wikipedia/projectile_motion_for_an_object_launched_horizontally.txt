@@ -1,0 +1,53 @@
+projectile motion is a form of motion in which an object or particle (called a projectile) is thrown near the earth's surface and it moves along a curved path under the action of gravity only the only force of significance that acts on the object is gravity which acts downward to cause a downward acceleration there are no horizontal forces needed to maintain the horizontal motion consistent with the concept of inertia
+== the initial velocity ==
+if the projectile is launched with an initial velocity  then it can be written as
+the components and can be found if the angle is known:
+if the projectile's range launch angle and drop height are known launch velocity can be found using newton's formula
+the launch angle is usually expressed by the symbol theta but often the symbol alpha is used
+== kinematic quantities of projectile motion ==
+in projectile motion the horizontal motion and the vertical motion are independent of each other; that is neither motion affects the other
+=== acceleration ===
+since there is only acceleration in the vertical direction the velocity in the horizontal direction is constant being equal to  the vertical motion of the projectile is the motion of a particle during its free fall here the acceleration is constant being equal to  the components of the acceleration are:
+=== velocity ===
+the horizontal component of the velocity of the object remains unchanged throughout the motion the vertical component of the velocity increases linearly because the acceleration due to gravity is constant the accelerations in the and directions can be integrated to solve for the components of velocity at any time  as follows:
+the magnitude of the velocity (under the pythagorean theorem as the triangle law):
+=== displacement ===
+at any time  the projectile's horizontal and vertical displacement:
+the magnitude of the displacement:
+== parabolic equation ==
+consider the equations
+if t is eliminated between these two equations the following equation is obtained:
+this equation is the equation of a parabola since   and are constants the above equation is of the form
+in which and are constants this is the equation of a parabola so the path is parabolic the axis of the parabola is vertical
+== time of flight or total time of the whole journey ==
+the total time for which the projectile remains in the air is called the time of flight
+after the flight the projectile returns to the horizontal axis so y=0
+note that we have neglected air resistance on the projectile
+== the maximum height of projectile ==
+the highest height which the object will reach is known as the peak of the object's motion the increase of the height will last until  that is
+time to reach the maximum height:
+from the vertical displacement of the maximum height of projectile:
+== relation during horizontal range and maximum height ==
+the relation between the range on the horizontal plane and the maximum height reached at is:
+== the maximum distance of projectile ==
+it is important to note that the range and the maximum height of the projectile does not depend upon mass of the trajected body hence range and maximum height are equal for all those bodies which are thrown by same velocity and direction air resistance does not affect displacement of projectile
+the horizontal range d of the projectile is the horizontal distance the projectile has travelled when it returns to its initial height (y = 0)
+reach ground:
+from the horizontal displacement the maximum distance of projectile:
+so
+note that has its maximum value when
+which necessarily corresponds to
+or
+== application of the work energy theorem ==
+according to the work-energy theorem the vertical component of velocity are listed below:
+== projectile motion in art ==
+the sixth panel of hwaseonghaenghaengdo byeongpun ( ) describes king shooting arrows at deukjung pavilion 1795-02-14 according to palace records lady hyegyeong the king's mother was so pleased to be presented with this 8-panels screen of such magnificent scale and stunning precision that she rewarded each of the seven artists who participated in its production the artists were choe deuk-hyeon kim deuk-sin yi myeong-gyu jang han-jong (1768 - 1815) yun seok-keun heo sik (1762 - ) and yi in-mun
+== references ==
+bud goston: ksrleti fizika i.,budapest tanknyvkiad 1986 isbn 963 17 8772 9 (hungarian)
+ifj ztonyi sndor: fizika 9.,budapest nemzeti tanknyvkiad 2009 isbn 978-963-19-6082-2 (hungarian)
+hack frigyes: ngyjegy fggvnytblzatok sszefggsek s adatok budapest nemzeti tanknyvkiad 2004 isbn 963-19-3506-x (hungarian)
+== notes ==
+since the value of g is not specific the body with high velocity over g limit cannot be measured using the concept of the projectile motion
+== external links ==
+open source physics computer model
+a java simulation of projectile motion including first-order air resistance

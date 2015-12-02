@@ -1,0 +1,54 @@
+raoult's law is a law of thermodynamics established by french chemist franois-marie raoult in 1882 it states that the partial vapor pressure of each component of an ideal mixture of liquids is equal to the vapor pressure of the pure component multiplied by its mole fraction in the mixture
+mathematically raoult's law for a single component in an ideal solution is stated as
+where is the partial vapor pressure of the component in the gaseous mixture (above the solution) is the vapor pressure of the pure component  and is the mole fraction of the component in the mixture (in the solution)
+once the components in the solution have reached equilibrium the total vapor pressure of the solution can be determined by combining raoult's law with dalton's law of partial pressures to give
+if a non-volatile solute (zero vapor pressure does not evaporate) is dissolved into a solvent to form an ideal solution the vapor pressure of the final solution will be lower than that of the pure solvent
+== principleedit ==
+raoult's law is a phenomenological law that assumes ideal behavior based on the simple microscopic assumption that intermolecular forces between unlike molecules are equal to those between similar molecules: the conditions of an ideal solution this is analogous to the ideal gas law which is a limiting law valid when the interactive forces between molecules approach zero for example as the concentration approaches zero raoult's law is instead valid if the physical properties of the components are identical the more similar the components are the more their behavior approaches that described by raoult's law for example if the two components differ only in isotopic content then raoult's law is essentially exact
+comparing measured vapor pressures to predicted values from raoult's law provides information about the true relative strength of intermolecular forces if the vapor pressure is less than predicted (a negative deviation) fewer molecules of each component than expected have left the solution in the presence of the other component indicating that the forces between unlike molecules are stronger the converse is true for positive deviations
+for a solution of two liquids a and b raoult's law predicts that if no other gases are present then the total vapor pressure above the solution is equal to the weighted sum of the "pure" vapor pressures of the two components and  thus the total pressure above the solution of a and b would be
+since the sum of the mole fractions is equal to one
+this is a linear function of the mole fraction  as shown in the graph
+== thermodynamic considerationsedit ==
+raoult's law was originally discovered as an idealised experimental law using raoult's law as the definition of an ideal solution it is possible to deduce that the chemical potential of each component of the liquid is given by
+where is the chemical potential of component i in the pure state this equation for the chemical potential may then be used to derive other thermodynamic properties of an ideal solution (see ideal solution)
+however a more fundamental thermodynamic definition of an ideal solution is one in which the chemical potential of each component is given by the above formula assuming also that the vapor mixture acts as an ideal gas it is then possible to re-derive raoult's law as follows
+if the system is at equilibrium then the chemical potential of the component i must be the same in the liquid solution and in the vapor above it that is
+assuming the liquid is an ideal solution and using the formula for the chemical potential of a gas gives:
+where is the fugacity of the vapor of and indicates the reference state
+the corresponding equation for pure in equilibrium with its (pure) vapor is:
+where * indicates the pure component
+subtracting the equations gives us
+which re-arranges to
+the fugacities can be replaced by simple pressures if the vapor of the solution behaves ideally i.e
+which is raoult's law
+=== ideal mixingedit ===
+an ideal solution would follow raoult's law but ideal solutions do not exist the fact that the vapor above the liquid is taken to be ideal is the least of our worries interactions between gas molecules are typically quite small especially if the vapor pressures are low the interactions in a liquid however are very strong for a solution to be ideal we must assume that it does not matter whether a molecule a has another a as neighbor or a b molecule this is approximately true only if the two species are almost identical chemically one can see that from considering the gibbs free energy change of mixing:
+this is always negative so mixing is spontaneous however the expression is apart from a factor t equal to the entropy of mixing this leaves no room at all for an enthalpy effect and implies that must be equal to zero and this can only be true if the interactions u between the molecules are indifferent
+it can be shown using the gibbsduhem equation that if raoult's law holds over the entire concentration range x = 01 in a binary solution then for the second component the same must also hold
+if deviations from the ideal are not too large raoult's law is still valid in a narrow concentration range when approaching x = 1 for the majority phase (the solvent) the solute also shows a linear limiting law but with a different coefficient this law is known as henry's law
+the presence of these limited linear regimes has been experimentally verified in a great number of cases in a perfectly ideal system where ideal liquid and ideal vapor are assumed a very useful equation emerges if raoult's law is combined with dalton's law
+where is the mole fraction of component in the solution and is its mole fraction in the gas phase this equation shows that for an ideal solution where each pure component has a different vapor pressure the gas phase is enriched in the component with the higher pure vapor pressure and the solution is enriched in the component with the lower pure vapor pressure this phenomenon is the basis for distillation
+=== non-ideal mixingedit ===
+raoult's law may be adapted to non-ideal solutions by incorporating two factors that account for the interactions between molecules of different substances the first factor is a correction for gas non-ideality or deviations from the ideal-gas law it is called the fugacity coefficient () the second the activity coefficient () is a correction for interactions in the liquid phase between the different molecules
+this modified or extended raoult's law is then written:
+== real solutionsedit ==
+many pairs of liquids are present in which there is no uniformity of attractive forces i.e. the adhesive and cohesive forces of attraction are not uniform between the two liquids so that they deviate from the raoult's law applied only to ideal solutions
+=== negative deviationedit ===
+if the vapor pressure of a mixture is lower than expected from raoult's law there is said to be a negative deviation this is evidence that the adhesive forces between different components are stronger than the average cohesive forces between like components in consequence each component is retained in the liquid phase by attractive forces that are stronger than in the pure liquid so that its partial vapor pressure is lower
+for example the system of chloroform (chcl3) and acetone (ch3coch3) has a negative deviation from raoult's law indicating an attractive interaction between the two components that has been described as a hydrogen bond the system hydrochloric acid - water has a large enough negative deviation to form a minimum in the vapor pressure curve known as a (negative) azeotrope corresponding to a mixture that evaporates without change of composition
+=== positive deviationedit ===
+when the cohesive forces between like molecules are greater than the adhesive forces between dissimilar molecules the dissimilarities of polarity leads both components to escape solution more easily therefore the vapor pressure is greater than expected from the raoult's law showing positive deviation if the deviation is large then the vapor pressure curve shows a maximum at a particular composition and form a positive azeotrope some mixtures in which this happens are (1) benzene and methanol (2) carbon disulfide and acetone and (3) chloroform and ethanol
+== electrolytes solutionsedit ==
+the expression of the law for this case includes the van 't hoff factor
+== see alsoedit ==
+atomic theory
+azeotrope
+dechema model
+dhring's rule
+henry's law
+khler theory
+solubility
+== referencesedit ==
+chapter 24 d a mcquarrie j d simon physical chemistry: a molecular approach university science books (1997)
+e b smith basic chemical thermodynamics clarendon press oxford (1993)

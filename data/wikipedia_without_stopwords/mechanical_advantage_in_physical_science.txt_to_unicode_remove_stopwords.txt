@@ -1,0 +1,87 @@
+mechanical advantage measure force amplification achieved using tool mechanical device machine system ideally device preserves input power simply trades forces movement obtain desired amplification output force model law lever machine components designed manage forces movement way called mechanisms ideal mechanism transmits power without adding subtracting means ideal mechanism include power source frictionless constructed rigid bodies deflect wear performance real system relative ideal expressed terms efficiency factors take account friction deformation wear
+law leveredit
+lever movable bar pivots fulcrum attached positioned across fixed point lever operates applying forces different distances fulcrum pivot
+lever pivots fulcrum points farther pivot move faster points closer pivot power lever must power product force velocity forces applied points farther pivot must less applied points closer
+b distances fulcrum points b force fa applied input force fb exerted b output ratio velocities points b given ab ratio output force input force mechanical advantage given
+law lever proven archimedes using geometric reasoning shows distance fulcrum input force applied point greater distance b fulcrum output force applied point b lever amplifies input force distance fulcrum input force less fulcrum output force lever reduces input force recognizing profound implications practicalities law lever archimedes famously attributed quotation give place stand lever move whole world
+use velocity static analysis lever application principle virtual work
+speed ratioedit
+requirement power input ideal mechanism equal power output provides simple way compute mechanical advantage inputoutput speed ratio system
+power input gear train torque ta applied drive pulley rotates angular velocity ptaa
+power flow constant torque tb angular velocity b output gear must satisfy relation
+yields
+shows ideal mechanism inputoutput speed ratio equals mechanical advantage system applies mechanical systems ranging robots linkages
+gear trainsedit
+gear teeth designed number teeth gear proportional radius pitch circle pitch circles meshing gears roll without slipping speed ratio pair meshing gears computed ratio radii pitch circles ratio number teeth gear gear ratio
+velocity v point contact pitch circles gears given
+input gear radius ra meshes output gear b radius rb therefore
+na number teeth input gear nb number teeth output gear
+mechanical advantage pair meshing gears input gear na teeth output gear nb teeth given
+shows output gear gb teeth input gear ga gear train amplifies input torque output gear fewer teeth input gear gear train reduces input torque
+output gear gear train rotates slowly input gear gear train called speed reducer case output gear must teeth input gear speed reducer amplify input torque
+chain belt drivesedit
+mechanisms consisting two sprockets connected chain two pulleys connected belt designed provide specific mechanical advantage power transmission systems
+velocity v chain belt contact two sprockets pulleys
+input sprocket pulley meshes chain belt along pitch radius ra output sprocket pulley b meshes chain belt along pitch radius rb
+therefore
+na number teeth input sprocket nb number teeth output sprocket toothed belt drive number teeth sprocket used friction belt drives pitch radius input output pulleys must used
+mechanical advantage pair chain drive toothed belt drive input sprocket na teeth output sprocket nb teeth given
+mechanical advantage friction belt drives given
+chains belts dissipate power friction stretch wear means power output actually less power input means mechanical advantage real system less calculated ideal mechanism chain belt drive lose much power system friction heat deformation wear case efficiency drive
+example bicycle chain driveedit
+consider speed bicycle radius cranks diameter wheels sprockets crank rear drive wheel size ratio output force tire input force pedal calculated law lever
+consider small large front sprockets teeth respectively consider small large rear sprockets teeth using numbers compute following speed ratios front rear sprockets
+ratio force driving bicycle force pedal total mechanical advantage bicycle product speed ratio crankwheel lever ratio
+notice every case force pedals greater force driving bicycle forward illustration corresponding backwarddirected reaction force ground indicated low mechanical advantage keeps pedal crank speed low relative speed drive wheel even low gears
+block tackleedit
+block tackle assembly rope pulleys used lift loads number pulleys assembled together form blocks one fixed one moves load rope threaded pulleys provide mechanical advantage amplifies force applied rope
+order determine mechanical advantage block tackle system consider simple case gun tackle single mounted fixed pulley single movable pulley rope threaded around fixed block falls moving block threaded around pulley brought back knotted fixed block
+let distance axle fixed block end rope input force applied let r distance axle fixed block axle moving block b load applied
+total length rope l written
+k constant length rope passes pulleys change block tackle moves
+velocities va vb points b related constant length rope
+negative sign shows velocity load opposite velocity applied force means pull rope load moves
+let va positive downwards vb positive upwards relationship written speed ratio
+number rope sections supporting moving block
+let fa input force applied end rope let fb force b moving block like velocities fa directed downwards fb directed upwards
+ideal block tackle system friction pulleys deflection wear rope means power input applied force fava must equal power acting load fbvb
+ratio output force input force mechanical advantage ideal gun tackle system
+analysis generalizes ideal block tackle moving block supported n rope sections
+shows force exerted ideal block tackle n times input force n number sections rope support moving block
+efficiencyedit
+mechanical advantage computed using assumption power lost deflection friction wear machine maximum performance achieved reason often called ideal mechanical advantage ima operation deflection friction wear reduce mechanical advantage amount reduction ideal actual mechanical advantage ama defined factor called efficiency quantity determined experimentation
+ideal example using block tackle six ropes pound load operator would required pull rope six feet exert pounds force lift load one foot ratios fout fin vin vout show ima six first ratio pounds force results pounds force real world force would less pounds second ratio also yields ma ideal case fails real world calculations properly account energy losses subtracting losses ima using first ratio yields ama ratio ama ima mechanical efficiency system
+ideal mechanical advantageedit
+ideal mechanical advantage ima theoretical mechanical advantage mechanical advantage device assumption components flex friction wear calculated using physical dimensions device defines maximum performance device achieve
+assumptions ideal machine equivalent requirement machine store dissipate energy power machine thus equals power therefore power p constant machine force times velocity machine equals force times velocity outthat
+ideal mechanical advantage ratio force effort machine relative force effort machine
+applying constant power relationship yields formula ideal mechanical advantage terms speed ratio
+speed ratio machine calculated physical dimensions assumption constant power thus allows use speed ratio determine maximum value mechanical advantage
+actual mechanical advantageedit
+actual mechanical advantage ama mechanical advantage determined physical measurement input output forces actual mechanical advantage takes account energy loss due deflection friction wear
+ama machine calculated ratio measured force output measured force input
+input output forces determined experimentally
+ratio experimentally determined mechanical advantage ideal mechanical advantage efficiency machine
+see alsoedit
+outline machines
+lever
+compound lever
+simple machine
+mechanical advantage device
+gear ratio
+chain drive
+belt mechanical
+roller chain
+bicycle chain
+bicycle gearing
+transmission mechanics
+equilibrium planes
+velocity ratio
+mechanical efficiency
+referencesedit
+fisher len dunk doughnut science everyday life arcade publishing isbn
+united states bureau naval personnel basic machines work revised ed courier dover publications isbn
+external linksedit
+gears pulleys
+mechanical engineering pulleys
+mechanical advantage video

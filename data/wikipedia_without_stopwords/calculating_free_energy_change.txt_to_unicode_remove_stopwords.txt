@@ -1,0 +1,23 @@
+free energy perturbation fep method based statistical mechanics used computational chemistry computing free energy differences molecular dynamics metropolis monte carlo simulations fep method introduced robert w zwanzig according freeenergy perturbation method free energy difference going state state b obtained following equation known zwanzig equation
+temperature kb boltzmanns constant triangular brackets denote average simulation run state practice one runs normal simulation state time new configuration accepted energy state b also computed difference states b may atom types involved case f obtained mutating one molecule onto another may difference geometry case one obtains free energy map along one reaction coordinates free energy map also known potential mean force pmf free energy perturbation calculations converge properly difference two states small enough therefore usually necessary divide perturbation series smaller windows computed independently since need constant communication simulation one window next process trivially parallelized running window different cpu known embarrassingly parallel setup
+fep calculations used studying hostguest binding energetics pka predictions solvent effects reactions enzymatic reactions study reactions often necessary involve quantummechanical representation reaction center molecular mechanics force fields used fep simulations cant handle breaking bonds hybrid method advantages qm mm calculations called qmmm
+umbrella sampling another freeenergy calculation technique typically used calculating freeenergy change associated change position coordinates opposed chemical coordinates although umbrella sampling also used chemical transformation chemical coordinate treated dynamic variable case lambda dynamics approach kong brooks alternative free energy perturbation computing potentials mean force chemical space thermodynamic integration another alternative probably efficient bennett acceptance ratio method
+software
+several software packages developed help perform fep calculations short list common programs
+amber
+boss
+charmm
+desmond
+gromacs
+macromodel
+molaris
+namd
+tinker
+q
+see also
+thermodynamic integration
+umbrella sampling
+references
+zwanzig r w j chem phys doi
+httpwwwambermdorg
+httplaetrouscedusoftwarehtml

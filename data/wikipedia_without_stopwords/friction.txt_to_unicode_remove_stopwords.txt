@@ -1,0 +1,127 @@
+friction force resisting relative motion solid surfaces fluid layers material elements sliding several types friction
+dry friction resists relative lateral motion two solid surfaces contact dry friction subdivided static friction stiction nonmoving surfaces kinetic friction moving surfaces
+fluid friction describes friction layers viscous fluid moving relative
+lubricated friction case fluid friction lubricant fluid separates two solid surfaces
+skin friction component drag force resisting motion fluid across surface body
+internal friction force resisting motion elements making solid material undergoes deformation
+surfaces contact move relative friction two surfaces converts kinetic energy thermal energy converts work heat property dramatic consequences illustrated use friction created rubbing pieces wood together start fire kinetic energy converted thermal energy whenever motion friction occurs example viscous fluid stirred another important consequence many types friction wear may lead performance degradation andor damage components friction component science tribology
+friction fundamental force dry friction arises combination intersurface adhesion surface roughness surface deformation surface contamination complexity interactions makes calculation friction first principles impractical necessitates use empirical methods analysis development theory
+historyedit
+classic rules sliding friction discovered leonardo da vinci remained unpublished notebooks rediscovered guillaume amontons amontons presented nature friction terms surface irregularities force required raise weight pressing surfaces together view elaborated belidor representation rough surfaces spherical asperities leonhard euler derived angle repose weight inclined plane first distinguished static kinetic friction different explanation provided desaguliers demonstrated strong cohesion forces lead spheres small cap cut brought contact
+understanding friction developed charlesaugustin de coulomb coulomb investigated influence four main factors friction nature materials contact surface coatings extent surface area normal pressure load length time surfaces remained contact time repose coulomb considered influence sliding velocity temperature humidity order decide different explanations nature friction proposed distinction static dynamic friction made coulombs friction law see although distinction already drawn johann andreas von segner effect time repose explained musschenbroek considering surfaces fibrous materials fibers meshing together takes finite time friction increases
+john leslie noted weakness views amontons coulomb friction arises weight drawn inclined plane successive asperities isnt balanced descending opposite slope leslie equally skeptical role adhesion proposed desaguliers whole tendency accelerate retard motion view friction seen timedependent process flattening pressing asperities creates new obstacles cavities
+arthur morrin developed concept sliding versus rolling friction osborne reynolds derived equation viscous flow completed classic empirical model friction static kinetic fluid commonly used today engineering fleeming jenkin j ewing investigated continuity static kinetic friction paper friction surfaces moving low speeds
+focus research last century understand physical mechanisms behind friction f phillip bowden david tabor showed microscopic level actual area contact surfaces small fraction apparent area actual area contact caused asperities roughness increases pressure development atomic force microscope recently enabled scientists study friction atomic scale showing atomic scale dry friction product intersurface shear stress contact area two discoveries explain macroscopic proportionality normal force static frictional force dry surfaces
+laws dry frictionedit
+elementary property sliding kinetic friction discovered experiment th th centuries expressed three empirical laws
+amontons first law force friction directly proportional applied load
+amontons second law force friction independent apparent area contact
+coulombs law friction kinetic friction independent sliding velocity
+dry frictionedit
+dry friction resists relative lateral motion two solid surfaces contact two regimes dry friction static friction stiction nonmoving surfaces kinetic friction sometimes called sliding friction dynamic friction moving surfaces
+coulomb friction named charlesaugustin de coulomb approximate model used calculate force dry friction governed model
+force friction exerted surface parallel surface direction opposite net applied force
+coefficient friction empirical property contacting materials
+normal force exerted surface directed perpendicular normal surface
+coulomb friction may take value zero direction frictional force surface opposite motion surface would experience absence friction thus static case frictional force exactly must order prevent motion surfaces balances net force tending cause motion case rather providing estimate actual frictional force coulomb approximation provides threshold value force motion would commence maximum force known traction
+force friction always exerted direction opposes movement kinetic friction potential movement static friction two surfaces example curling stone sliding along ice experiences kinetic force slowing example potential movement drive wheels accelerating car experience frictional force pointing forward wheels would spin rubber would slide backwards along pavement note direction movement vehicle oppose direction potential sliding tire road
+normal forceedit
+normal force defined net force compressing two parallel surfaces together direction perpendicular surfaces simple case mass resting horizontal surface component normal force force due gravity case magnitude friction force product mass object acceleration due gravity coefficient friction however coefficient friction function mass volume depends material instance large aluminum block coefficient friction small aluminum block however magnitude friction force depends normal force hence mass block
+object level surface force tending cause slide horizontal normal force object surface weight equal mass multiplied acceleration due earths gravity g object tilted surface inclined plane normal force less less force gravity perpendicular face plane therefore normal force ultimately frictional force determined using vector analysis usually via free body diagram depending situation calculation normal force may include forces gravity
+coefficient frictionedit
+coefficient friction cof often symbolized greek letter dimensionless scalar value describes ratio force friction two bodies force pressing together coefficient friction depends materials used example ice steel low coefficient friction rubber pavement high coefficient friction coefficients friction range near zero greater one
+surfaces rest relative coefficient static friction usually larger kinetic counterpart
+surfaces relative motion coefficient kinetic friction coulomb friction equal frictional force surface exerted direction opposite motion relative surface
+arthur morin introduced term demonstrated utility coefficient friction coefficient friction empirical measurement measured experimentally cannot found calculations rougher surfaces tend higher effective values static kinetic coefficients friction depend pair surfaces contact given pair surfaces coefficient static friction usually larger kinetic friction sets two coefficients equal teflononteflon
+dry materials combination friction coefficient values values outside range rarer teflon example coefficient low value zero would mean friction elusive property rubber contact surfaces yield friction coefficients occasionally maintained always true relevant applications value merely implies force required slide object along surface greater normal force surface object example silicone rubber acrylic rubbercoated surfaces coefficient friction substantially larger
+often stated cof material property better categorized system property unlike true material properties conductivity dielectric constant yield strength cof two materials depends system variables like temperature velocity atmosphere also popularly described aging deaging times well geometric properties interface materials example copper pin sliding thick copper plate cof varies low speeds metal sliding metal high speeds copper surface begins melt due frictional heating latter speed course determine cof uniquely pin diameter increased frictional heating removed rapidly temperature drops pin remains solid cof rises low speed test
+approximate coefficients frictionedit
+certain conditions materials low friction coefficients example highly ordered pyrolytic graphite friction coefficient ultralowfriction regime called superlubricity
+negative coefficient frictionedit
+single study demonstrated potential effectively negative coefficient friction lowload regime meaning decrease normal force leads increase friction contradicts everyday experience increase normal force leads increase friction reported journal nature october involved friction encountered atomic force microscope stylus dragged across graphene sheet presence grapheneadsorbed oxygen
+static frictionedit
+static friction friction two solid objects moving relative example static friction prevent object sliding sloped surface coefficient static friction typically denoted usually higher coefficient kinetic friction
+static friction force must overcome applied force object move maximum possible friction force two surfaces sliding begins product coefficient static friction normal force sliding occurring friction force value zero force smaller attempting slide one surface opposed frictional force equal magnitude opposite direction force larger overcomes force static friction causes sliding occur instant sliding occurs static friction longer applicablethe friction two surfaces called kinetic friction
+example static friction force prevents car wheel slipping rolls ground even though wheel motion patch tire contact ground stationary relative ground static rather kinetic friction
+maximum value static friction motion impending sometimes referred limiting friction although term used universally also known traction
+kinetic frictionedit
+kinetic dynamic friction occurs two objects moving relative rub together like sled ground coefficient kinetic friction typically denoted k usually less coefficient static friction materials however richard feynman comments dry metals hard show difference friction force two surfaces sliding begins product coefficient kinetic friction normal force
+new models beginning show kinetic friction greater static friction kinetic friction understood many cases primarily caused chemical bonding surfaces rather interlocking asperities however many cases roughness effects dominant example rubber road friction surface roughness contact area however affect kinetic friction micro nanoscale objects surface area forces dominate inertial forces
+origin kinetic friction nanoscale explained thermodynamics upon sliding new surface forms back sliding true contact existing surface disappears front since surfaces involve thermodynamic surface energy work must spent creating new surface energy released heat removing surface thus force required move back contact frictional heat released front
+angle frictionedit
+certain applications useful define static friction terms maximum angle one items begin sliding called angle friction friction angle defined
+angle horizontal static coefficient friction objects formula also used calculate empirical measurements friction angle
+friction atomic leveledit
+determining forces required move atoms past challenge designing nanomachines scientists first time able move single atom across surface measure forces required using ultrahigh vacuum nearly zero temperature k modified atomic force microscope used drag cobalt atom carbon monoxide molecule across surfaces copper platinum
+limitations coulomb modeledit
+coulomb approximation mathematically follows assumptions surfaces atomically close contact small fraction overall area contact area proportional normal force saturation takes place area atomic contact frictional force proportional applied normal force independently contact area see experiments friction leonardo da vinci reasoning aside however approximation fundamentally empirical construct rule thumb describing approximate outcome extremely complicated physical interaction strength approximation simplicity versatility though general relationship normal force frictional force exactly linear frictional force entirely independent contact area surfaces coulomb approximation adequate representation friction analysis many physical systems
+surfaces conjoined coulomb friction becomes poor approximation example adhesive tape resists sliding even normal force negative normal force case frictional force may depend strongly area contact drag racing tires adhesive reason however despite complexity fundamental physics behind friction relationships accurate enough useful many applications
+numerical simulation coulomb modeledit
+despite simplified model friction coulomb model useful many numerical simulation applications multibody systems granular material even simple expression encapsulates fundamental effects sticking sliding required many applied cases although specific algorithms designed order efficiently numerically integrate mechanical systems coulomb friction bilateral andor unilateral contact quite nonlinear effects socalled painlev paradoxes may encountered coulomb friction
+dry friction instabilitiesedit
+dry friction induce several types instabilities mechanical systems display stable behaviour absence friction instabilities may caused decrease friction force increasing velocity sliding material expansion due heat generation friction thermoelastic instabilities pure dynamic effects sliding two elastic materials adamsmartins instabilities latter originally discovered george g adams joo armnio correia martins smooth surfaces later found periodic rough surfaces particular frictionrelated dynamical instabilities thought responsible brake squeal song glass harp phenomena involve stick slip modelled drop friction coefficient velocity
+practically important case selfoscillation strings bowed instruments violin cello hurdygurdy erhu etc
+connection dry friction flutter instability simple mechanical system discovered
+frictional instabilities lead formation new selforganized patterns secondary structures sliding interface insitu formed tribofilms utilized reduction friction wear socalled selflubricating materials
+fluid frictionedit
+fluid friction occurs layers within fluid moving relative internal resistance flow described viscosity everyday terms viscosity fluid said thickness thus water thin lower viscosity honey thick higher viscosity less viscous fluid greater ease movement
+real fluids except superfluids resistance stress therefore viscous fluid resistance shear stress known ideal fluid inviscid fluid
+lubricated frictionedit
+lubricated friction case fluid friction fluid separates two solid surfaces lubrication technique employed reduce wear one surfaces close proximity moving relative another interposing substance called lubricant surfaces
+cases applied load carried pressure generated within fluid due frictional viscous resistance motion lubricating fluid surfaces adequate lubrication allows smooth continuous operation equipment mild wear without excessive stresses seizures bearings lubrication breaks metal components rub destructively causing heat possibly damage failure
+skin frictionedit
+skin friction arises friction fluid skin object moving skin friction arises interaction fluid skin body directly related area surface body contact fluid skin friction follows drag equation rises square velocity
+skin friction caused viscous drag boundary layer around object two ways decrease skin friction first shape moving body smooth flow possible like airfoil second method decrease length crosssection moving object much practicable
+internal frictionedit
+internal friction force resisting motion elements making solid material undergoes deformation
+plastic deformation solids irreversible change internal molecular structure object change may due either applied force change temperature change objects shape called strain force causing called stress
+elastic deformation solids reversible change internal molecular structure object stress necessarily cause permanent change deformation occurs internal forces oppose applied force applied stress large opposing forces may completely resist applied force allowing object assume new equilibrium state return original shape force removed known elastic deformation elasticity
+types frictionedit
+rolling resistanceedit
+rolling resistance force resists rolling wheel circular object along surface caused deformations object andor surface generally force rolling resistance less associated kinetic friction typical values coefficient rolling resistance one common examples rolling resistance movement motor vehicle tires road process generates heat sound byproducts
+triboelectric effectedit
+rubbing dissimilar materials one another cause buildup electrostatic charge hazardous flammable gases vapours present static buildup discharges explosions caused ignition flammable mixture
+belt frictionedit
+belt friction physical property observed forces acting belt wrapped around pulley one end pulled resulting tension acts ends belt modeled belt friction equation
+practice theoretical tension acting belt rope calculated belt friction equation compared maximum tension belt support helps designer rig know many times belt rope must wrapped around pulley prevent slipping mountain climbers sailing crews demonstrate standard knowledge belt friction accomplishing basic tasks
+reducing frictionedit
+devicesedit
+devices wheels ball bearings roller bearings air cushion types fluid bearings change sliding friction much smaller type rolling friction
+many thermoplastic materials nylon hdpe ptfe commonly used low friction bearings especially useful coefficient friction falls increasing imposed load improved wear resistance high molecular weight grades usually specified heavy duty critical bearings
+lubricantsedit
+common way reduce friction using lubricant oil water grease placed two surfaces often dramatically lessening coefficient friction science friction lubrication called tribology lubricant technology lubricants mixed application science especially industrial commercial objectives
+superlubricity recently discovered effect observed graphite substantial decrease friction two sliding objects approaching zero levels small amount frictional energy would still dissipated
+lubricants overcome friction need always thin turbulent fluids powdery solids graphite talc acoustic lubrication actually uses sound lubricant
+another way reduce friction two parts superimpose microscale vibration one parts sinusoidal vibration used ultrasoundassisted cutting vibration noise known dither
+energy frictionedit
+according law conservation energy energy destroyed due friction though may lost system concern energy transformed forms thermal energy sliding hockey puck comes rest friction converts kinetic energy heat raises thermal energy puck ice surface since heat quickly dissipates many early philosophers including aristotle wrongly concluded moving objects lose energy without driving force
+object pushed along surface along path c energy converted heat given line integral accordance definition work
+friction force
+vector obtained multiplying magnitude normal force unit vector pointing objects motion
+coefficient kinetic friction inside integral may vary location location eg material changes along path
+position object
+energy lost system result friction classic example thermodynamic irreversibility
+work frictionedit
+reference frame interface two surfaces static friction work never displacement surfaces reference frame kinetic friction always direction opposite motion negative work however friction positive work certain frames reference one see placing heavy box rug pulling rug quickly case box slides backwards relative rug moves forward relative frame reference floor stationary thus kinetic friction box rug accelerates box direction box moves positive work
+work done friction translate deformation wear heat affect contact surface properties even coefficient friction surfaces beneficial polishing work friction used mix join materials process friction welding excessive erosion wear mating sliding surfaces occurs work due frictional forces rise unacceptable levels harder corrosion particles caught mating surfaces relative motion fretting exacerbates wear frictional forces bearing seizure failure may result excessive wear due work friction surfaces worn work due friction fit surface finish object may degrade longer functions properly
+applicationsedit
+friction important factor many engineering disciplines
+transportationedit
+automobile brakes inherently rely friction slowing vehicle converting kinetic energy heat incidentally dispersing large amount heat safely one technical challenge designing brake systems
+rail adhesion refers grip wheels train rails see frictional contact mechanics
+road slipperiness important design safety factor automobiles
+split friction particularly dangerous condition arising due varying friction either side car
+road texture affects interaction tires driving surface
+measurementedit
+tribometer instrument measures friction surface
+profilograph device used measure pavement surface roughness
+household usageedit
+friction used heat ignite matchsticks friction head matchstick rubbing surface match box
+see alsoedit
+referencesedit
+external linksedit
+coefficients friction tables coefficients plus many links
+physclips mechanics animations video clips university new south wales
+crc handbook chemistry physics values coefficient friction
+characteristic phenomena conveyor chain
+atomicscale friction research education synergy hub afresh engineering virtual organization atomicscale friction community share archive link discuss data knowledge tools related atomicscale friction

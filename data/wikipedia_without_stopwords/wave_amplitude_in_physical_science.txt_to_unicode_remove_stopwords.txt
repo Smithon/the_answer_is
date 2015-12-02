@@ -1,0 +1,44 @@
+amplitude periodic variable measure change single period time spatial period various definitions amplitude see functions magnitude difference variables extreme values older texts phase sometimes called amplitude
+definitions term
+peaktopeak amplitude
+peaktopeak amplitude change peak highest amplitude value trough lowest amplitude value negative appropriate circuitry peaktopeak amplitudes electric oscillations measured meters viewing waveform oscilloscope peaktopeak straightforward measurement oscilloscope peaks waveform easily identified measured graticule remains common way specifying amplitude sometimes measures amplitude appropriate
+peak amplitude
+audio system measurements telecommunications areas measurand signal swings zero value sinusoidal peak amplitude often used maximum absolute value signal
+semiamplitude
+semiamplitude means half peaktopeak amplitude widely used measure orbital amplitude astronomy measurement small semiamplitudes nearby stars important search exoplanets
+scientists use amplitude peak amplitude mean semiamplitude half peaktopeak amplitude
+root mean square amplitude
+root mean square rms amplitude used especially electrical engineering rms defined square root mean time square vertical distance graph rest state
+complicated waveforms especially nonrepeating signals like noise rms amplitude usually used unambiguous physical significance example average power transmitted acoustic electromagnetic wave electrical signal proportional square rms amplitude general square peak amplitude
+alternating current electric power universal practice specify rms values sinusoidal waveform one property root mean square voltages currents produce heating effect direct current given resistance
+peaktopeak voltage sine wave times rms value peaktopeak value used example choosing rectifiers power supplies estimating maximum voltage insulation must withstand common voltmeters calibrated rms amplitude respond average value rectified waveform many digital voltmeters moving coil meters category rms calibration correct sine wave input since ratio peak average rms values dependent waveform wave shape measured greatly different sine wave relationship rms average value changes true rmsresponding meters used radio frequency measurements instruments measured heating effect resistor measure current advent microprocessor controlled meters capable calculating rms sampling waveform made true rms measurement commonplace
+ambiguity
+general use peak amplitude simple unambiguous symmetric periodic waves like sine wave square wave triangular wave asymmetric wave periodic pulses one direction example peak amplitude becomes ambiguous value different depending whether maximum positive signal measured relative mean maximum negative signal measured relative mean maximum positive signal measured relative maximum negative signal peaktopeak amplitude divided two electrical engineering usual solution ambiguity measure amplitude defined reference potential ground v strictly speaking longer amplitude since possibility constant dc component included measurement
+pulse amplitude
+telecommunication pulse amplitude magnitude pulse parameter voltage level current level field intensity power level
+pulse amplitude measured respect specified reference therefore modified qualifiers average instantaneous peak rootmeansquare
+pulse amplitude also applies amplitude frequency phasemodulated waveform envelopes
+formal representation
+simple wave equation
+peak amplitude wavex oscillating variable
+angular frequencyt timek b arbitrary constants representing time displacement offsets respectively
+units
+units amplitude depend type wave always units oscillating variable general representation wave equation complex role amplitude remains analogous simple case
+waves string medium water amplitude displacement
+amplitude sound waves audio signals relates volume conventionally refers amplitude air pressure wave sometimes amplitude displacement movements air diaphragm speaker described logarithm amplitude squared usually quoted db null amplitude corresponds db loudness related amplitude intensity one salient qualities sound although general sounds recognized independently amplitude square amplitude proportional intensity wave
+electromagnetic radiation amplitude photon corresponds changes electric field wave however radio signals may carried electromagnetic radiation intensity radiation amplitude modulation frequency radiation frequency modulation oscillated individual oscillations varied modulated produce signal
+waveform envelope
+amplitude defined constant wave said wave length continuous condition hold amplitude alike variations time andor position may quantified terms envelope wave
+sinusoids
+waveform pure sine wave relationships peaktopeak peak mean rms amplitudes fixed known continuous periodic wave however true arbitrary waveform may may periodic continuous
+sine wave relationship rms peaktopeak amplitude
+see root mean squarerms common waveforms
+waveforms relationships necessarily arithmetically sine waves
+see also
+complex amplitude
+waves properties
+frequency
+wavelength
+crest factor
+amplitude modulation
+notes

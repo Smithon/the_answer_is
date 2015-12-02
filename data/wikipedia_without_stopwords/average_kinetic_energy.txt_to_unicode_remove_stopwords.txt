@@ -1,0 +1,81 @@
+mechanics virial theorem provides general equation relates average time total kinetic energy stable system consisting n particles bound potential forces total potential energy angle brackets represent average time enclosed quantity mathematically theorem states
+fk represents force kth particle located position rk word virial righthand side equation derives vis latin word force energy given technical definition rudolf clausius
+significance virial theorem allows average total kinetic energy calculated even complicated systems defy exact solution considered statistical mechanics average total kinetic energy related temperature system equipartition theorem however virial theorem depend notion temperature holds even systems thermal equilibrium virial theorem generalized various ways notably tensor form
+force two particles system results potential energy vr r n proportional power n interparticle distance r virial theorem takes simple form
+thus twice average total kinetic energy equals n times average total potential energy whereas vr represents potential energy two particles vtot represents total potential energy system ie sum potential energy vr pairs particles system common example system star held together gravity n equals
+although virial theorem depends averaging total kinetic potential energies presentation postpones averaging last step
+history
+rudolf clausius delivered lecture mechanical theorem applicable heat association natural medical sciences lower rhine following year study thermodynamics lecture stated mean vis viva system equal virial average kinetic energy equal average potential energy virial theorem obtained directly lagranges identity applied classical gravitational dynamics original form included lagranges essay problem three bodies published karl jacobis generalization identity n bodies present form laplaces identity closely resembles classical virial theorem however interpretations leading development equations different since time development statistical dynamics yet unified separate studies thermodynamics classical dynamics theorem later utilized popularized generalized developed james clerk maxwell lord rayleigh henri poincar subrahmanyan chandrasekhar enrico fermi paul ledoux eugene parker fritz zwicky first use virial theorem deduce existence unseen matter called dark matter another example many applications virial theorem used derive chandrasekhar limit stability white dwarf stars
+statement derivation
+collection n point particles scalar moment inertia origin defined equation
+mk rk represent mass position kth particle rkrk position vector magnitude scalar g defined equation
+pk momentum vector kth particle assuming masses constant g onehalf time derivative moment inertia
+turn time derivative g written
+mk mass kth particle net force particle total kinetic energy system
+connection potential energy particles
+total force particle k sum forces particles j system
+force applied particle j particle k hence virial written
+since particle acts ie whenever
+assumed newtons third law motion holds ie equal opposite reaction
+often happens forces derived potential energy v function distance rjk point particles j k since force negative gradient potential energy case
+clearly equal opposite force applied particle particle j may confirmed explicit calculation hence
+thus
+special case powerlaw forces
+common special case potential energy v two particles proportional power n distance r
+coefficient exponent n constants cases virial given equation
+vtot total potential energy system
+thus
+gravitating systems exponent n equals giving lagranges identity
+derived lagrange extended jacobi
+time averaging
+average derivative time defined
+obtain exact equation
+virial theorem states
+many reasons average time derivative might vanish ie one oftencited reason applies stably bound systems ie systems hang together forever whose parameters finite case velocities coordinates particles system upper lower limits gbound bounded two extremes gmin gmax average goes zero limit long times
+even average time derivative g approximately zero virial theorem holds degree approximation
+powerlaw forces exponent n general equation holds
+gravitational attraction n equals average kinetic energy equals half average negative potential energy
+general result useful complex gravitating systems solar systems galaxies
+simple application virial theorem concerns galaxy clusters region space unusually full galaxies safe assume together long time virial theorem applied doppler measurements give lower bounds relative velocities virial theorem gives lower bound total mass cluster including dark matter
+averaging need taken time ensemble average also taken equivalent results
+quantum mechanics
+although originally derived classical mechanics virial theorem also holds quantum mechanics first shown fock
+evaluate commutator hamiltonian product position operator momentum operator particle
+summing particles one finds commutator
+kinetic energy lefthand side equation according heisenberg equation motion expectation value time derivative vanishes stationary state hence obtain quantum virial theorem
+special relativity
+single particle special relativity case instead true
+last expression simplified either
+thus conditions described earlier sections including newtons third law motion despite relativity time average particles power law potential
+particular ratio kinetic energy potential energy longer fixed necessarily falls interval
+relativistic systems exhibit larger ratios
+generalizations
+lord rayleigh published generalization virial theorem henri poincar applied form virial theorem problem determining cosmological stability variational form virial theorem developed ledoux tensor form virial theorem developed parker chandrasekhar fermi following generalization virial theorem established pollard case inverse square law statement true boundary term otherwise must added ref
+inclusion electromagnetic fields
+virial theorem extended include electric magnetic fields result
+moment inertia g momentum density electromagnetic field kinetic energy fluid u random thermal energy particles wm electric magnetic energy content volume considered finally pik fluidpressure tensor expressed local moving coordinate system
+tik electromagnetic stress tensor
+plasmoid finite configuration magnetic fields plasma virial theorem easy see configuration expand contained external forces finite configuration without pressurebearing walls magnetic coils surface integral vanish since terms right hand side positive acceleration moment inertia also positive also easy estimate expansion time total mass m confined within radius r moment inertia roughly mr left hand side virial theorem mr terms right hand side add pr p larger plasma pressure magnetic pressure equating two terms solving find
+cs speed ion acoustic wave alfvn wave magnetic pressure higher plasma pressure thus lifetime plasmoid expected order acoustic alfvn transit time
+astrophysics
+virial theorem frequently applied astrophysics especially relating gravitational potential energy system kinetic thermal energy common virial relations
+mass radius velocity temperature constants newtons constant boltzmann constant proton mass note relations approximate often leading numerical factors eg neglected entirely
+galaxies cosmology virial mass radius
+astronomy mass size galaxy general overdensity often defined terms virial radius virial mass respectively galaxies overdensities continuous fluids highly extended even infinity modelseg isothermal sphere hard define specific finite measures mass size virial theorem related concepts provide often convenient means quantify properties
+galaxy dynamics mass galaxy often inferred measuring rotation velocity gas stars assuming circular keplerian orbits using virial theorem dispersion velocity used similar way taking kinetic energy per particle system potential energy per particle u gmr write
+radius velocity dispersion measured mass within radius virial mass radius generally defined radius velocity dispersion maximum ie
+numerous approximations made addition approximate nature definitions orderunity proportionality constants often omitted equations relations thus accurate order magnitude sense used selfconsistently
+alternate definition virial mass radius often used cosmology used refer radius sphere centered galaxy galaxy cluster within virial equilibrium holds since radius difficult determine observationally often approximated radius within average density greater specified factor critical density hubble parameter gravitational constant common although mostly arbitrary choice factor case virial radius approximated virial mass defined relative radius
+see also
+virial coefficient
+virial stress
+virial mass
+derricks theorem pohozaevs identity
+equipartition theorem
+references
+reading
+goldstein h classical mechanics nd ed addisonwesley isbn
+collins g w virial theorem stellar astrophysics pachart press
+external links
+virial theorem mathpages
+gravitational contraction star formation georgia state university

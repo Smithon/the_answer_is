@@ -1,0 +1,54 @@
+in chemistry colligative properties are properties of solutions that depend upon the ratio of the number of solute particles to the number of solvent molecules in a solution and not on the type of chemical species present the number ratio can be related to the various units for concentration of solutions the independence of the nature of solute particles is exact for ideal solutions and approximate for dilute real solutions
+here we shall only consider those properties which result because of the dissolution of nonvolatile solute in a volatile liquid solvent they are independent of the nature of the solute because they are due essentially to the dilution of the solvent by the solute the word colligative is derived from the latin colligatus meaning bound together
+colligative properties include:
+relative lowering of vapor pressure
+elevation of boiling point
+depression of freezing point
+osmotic pressure
+for a given solute-solvent mass ratio all colligative properties are inversely proportional to solute molar mass
+measurement of colligative properties for a dilute solution of a non-ionized solute such as urea or glucose in water or another solvent can lead to determinations of relative molar masses both for small molecules and for polymers which cannot be studied by other means alternatively measurements for ionized solutes can lead to an estimation of the percentage of ionization taking place
+colligative properties are mostly studied for dilute solutions whose behavior may often be approximated as that of an ideal solution
+== relative lowering of vapour pressure ==
+the vapor pressure of a liquid is the pressure of a vapor in equilibrium with the liquid phase the vapor pressure of a solvent is lowered by addition of a non-volatile solute to form a solution
+for an ideal solution the equilibrium vapor pressure is given by raoult's law as
+ where
+is the vapor pressure of the pure component (i= a b ) and is the mole fraction of the component in the solution
+for a solution with a solvent (a) and one non-volatile solute (b) and
+the vapor pressure lowering relative to pure solvent is  which is proportional to the mole fraction of solute
+if the solute dissociates in solution then the vapor pressure lowering is increased by the van 't hoff factor  which represents the true number of solute particles for each formula unit for example the strong electrolyte mgcl2 dissociates into one mg2+ ion and two cl ions so that if ionization is complete i = 3 and  the measured colligative properties show that i is somewhat less than 3 due to ion association
+== boiling point and freezing point ==
+addition of solute to form a solution stabilizes the solvent in the liquid phase and lowers the solvent chemical potential so that solvent molecules have less tendency to move to the gas or solid phases as a result liquid solutions slightly above the solvent boiling point at a given pressure become stable which means that the boiling point increases similarly liquid solutions slightly below the solvent freezing point become stable meaning that the freezing point decreases both the boiling point elevation and the freezing point depression are proportional to the lowering of vapor pressure in a dilute solution
+these properties are colligative in systems where the solute is essentially confined to the liquid phase boiling point elevation (like vapor pressure lowering) is colligative for non-volatile solutes where the solute presence in the gas phase is negligible freezing point depression is colligative for most solutes since very few solutes dissolve appreciably in solid solvents
+=== boiling point elevation (ebullioscopy) ===
+the boiling point of a liquid is the temperature () at which its vapor pressure is equal to the external pressure the normal boiling point is the boiling point at a pressure equal to 1 atmosphere
+the boiling point of a pure solvent is increased by the addition of a non-volatile solute and the elevation can be measured by ebullioscopy it is found that
+here i is the van 't hoff factor as above kb is the ebullioscopic constant of the solvent (equal to 0.512 c kg/mol for water) and m is the molality of the solution
+the boiling point is the temperature at which there is equilibrium between liquid and gas phases at the boiling point the number of gas molecules condensing to liquid equals the number of liquid molecules evaporating to gas adding a solute dilutes the concentration of the liquid molecules and reduces the rate of evaporation to compensate for this and re-attain equilibrium the boiling point occurs at a higher temperature
+if the solution is assumed to be an ideal solution kb can be evaluated from the thermodynamic condition for liquid-vapor equilibrium at the boiling point the chemical potential a of the solvent in the solution phase equals the chemical potential in the pure vapor phase above the solution
+where the asterisks indicate pure phases this leads to the result  where r is the molar gas constant m is the solvent molar mass and hvap is the solvent molar enthalpy of vaporization
+=== freezing point depression (cryoscopy) ===
+the freezing point () of a pure solvent is lowered by the addition of a solute which is insoluble in the solid solvent and the measurement of this difference is called cryoscopy it is found that
+here kf is the cryoscopic constant equal to 1.86 c kg/mol for the freezing point of water again "i" is the van 't hoff factor and m the molality
+in the liquid solution the solvent is diluted by the addition of a solute so that fewer molecules are available to freeze re-establishment of equilibrium is achieved at a lower temperature at which the rate of freezing becomes equal to the rate of liquefying at the lower freezing point the vapor pressure of the liquid is equal to the vapor pressure of the corresponding solid and the chemical potentials of the two phases are equal as well the equality of chemical potentials permits the evaluation of the cryoscopic constant as  where hfus is the solvent molar enthalpy of fusion
+== osmotic pressure ==
+the osmotic pressure of a solution is the difference in pressure between the solution and the pure liquid solvent when the two are in equilibrium across a semipermeable membrane which allows the passage of solvent molecules but not of solute particles if the two phases are at the same initial pressure there is a net transfer of solvent across the membrane into the solution known as osmosis the process stops and equilibrium is attained when the pressure difference equals the osmotic pressure
+two laws governing the osmotic pressure of a dilute solution were discovered by the german botanist w f p pfeffer and the dutch chemist j h vant hoff:
+the osmotic pressure of a dilute solution at constant temperature is directly proportional to its concentration
+the osmotic pressure of a solution is directly proportional to its absolute temperature
+these are analogous to boyle's law and charles's law for gases similarly the combined ideal gas law  has as analog for ideal solutions  where is osmotic pressure; v is the volume; n is the number of moles of solute; r is the molar gas constant 8.314 j k1 mol1; t is absolute temperature; and i is the van 't hoff factor
+the osmotic pressure is then proportional to the molar concentration  since
+the osmotic pressure is proportional to the concentration of solute particles ci and is therefore a colligative property
+as with the other colligative properties this equation is a consequence of the equality of solvent chemical potentials of the two phases in equilibrium in this case the phases are the pure solvent at pressure p and the solution at total pressure p + 
+== history ==
+the word colligative (latin: co,ligare) was introduced in 1891 by wilhelm ostwald ostwald classified solute properties in three categories:
+colligative properties which depend only on solute concentration and temperature and are independent of the nature of the solute particles
+additive properties such as mass which are the sums of properties of the constituent particles and therefore depend also on the composition (or molecular formula) of the solute and
+constitutional properties which depend further on the molecular structure of the solute
+== references ==
+^ mcquarrie donald et al colligative properties of solutions" general chemistry mill valley: library of congress 2011
+^ kl kapoor applications of thermodynamics volume 3
+^ k.j laidler and j.l meiser physical chemistry (benjamin/cummings 1982) p.196
+^ a b t engel and p reid physical chemistry (pearson benjamin cummings 2006) p.204-5
+^ engel and reid p.207
+^ w.b jensen j chem educ 75 679 (1998) logic history and the chemistry textbook i does chemistry have a logical structure
+^ h.w smith circulation 21 808 (1960) theory of solutions : a knowledge of the laws of solutions 

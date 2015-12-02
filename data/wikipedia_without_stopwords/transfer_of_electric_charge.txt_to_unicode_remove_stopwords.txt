@@ -1,0 +1,60 @@
+engineering physics chemistry study transport phenomena concerns exchange mass energy momentum observed studied systems draws fields diverse continuum mechanics thermodynamics places heavy emphasis commonalities topics covered mass momentum heat transport share similar mathematical framework parallels exploited study transport phenomena draw deep mathematical connections often provide useful tools analysis one field directly derived others
+draws theoretical foundation principles number fields fundamental transport theory restatement basic conservation laws
+fundamental analyses three subfields mass heat momentum transfer often grounded simple principle sum total quantities studied must conserved system environment thus different phenomena lead transport considered individually knowledge sum contributions must equal zero principle useful calculating many relevant quantities example fluid mechanics common use transport analysis determine velocity profile fluid flowing rigid volume
+transport phenomena ubiquitous throughout engineering disciplines common examples transport analysis engineering seen fields process chemical biological mechanical engineering subject fundamental component curriculum disciplines involved way fluid mechanics heat transfer mass transfer considered part engineering discipline much thermodynamics mechanics electromagnetism
+transport phenomena encompass agents physical change universe moreover considered fundamental building blocks developed universe responsible success life earth however scope limited relationship transport phenomena artificial engineered systems
+overviewedit
+physics transport phenomena irreversible processes statistical nature stemming random continuous motion molecules mostly observed fluids every aspect transport phenomena grounded two primary concepts conservation laws constitutive equations conservation laws context transport phenomena formulated continuity equations describe quantity studied must conserved constitutive equations describe quantity question responds various stimuli via transport prominent examples include fouriers law heat conduction navierstokes equations describe respectively response heat flux temperature gradients relationship fluid flux forces applied fluid equations also demonstrate deep connection transport phenomena thermodynamics connection explains transport phenomena irreversible almost physical phenomena ultimately involve systems seeking lowest energy state keeping principle minimum energy approach state tend achieve true thermodynamic equilibrium point longer driving forces system transport ceases various aspects equilibrium directly connected specific transport heat transfer systems attempt achieve thermal equilibrium environment mass momentum transport move system towards chemical mechanical equilibrium
+examples transport processes include heat conduction energy transfer fluid flow momentum transfer molecular diffusion mass transfer radiation electric charge transfer semiconductors
+transport phenomena wide application example solid state physics motion interaction electrons holes phonons studied transport phenomena another example biomedical engineering transport phenomena interest thermoregulation perfusion microfluidics chemical engineering transport phenomena studied reactor design analysis molecular diffusive transport mechanisms metallurgy
+transport mass energy momentum affected presence external sources
+odor dissipates slowly may intensify source odor remains present
+rate cooling solid conducting heat depends whether heat source applied
+gravitational force acting rain drop counteracts resistance drag imparted surrounding air
+commonalities among phenomenaedit
+important principle study transport phenomena analogy phenomena
+diffusionedit
+notable similarities equations momentum energy mass transfer transported diffusion illustrated following examples
+mass spreading dissipation odors air example mass diffusion
+energy conduction heat solid material example heat diffusion
+momentum drag experienced rain drop falls atmosphere example momentum diffusion rain drop loses momentum surrounding air viscous stresses decelerates
+molecular transfer equations newtons law fluid momentum fouriers law heat ficks law mass similar one convert one transfer coefficient another order compare three different transport phenomena
+definitions formulas given
+great deal effort devoted literature developing analogies among three transport processes turbulent transfer allow prediction one others reynolds analogy assumes turbulent diffusivities equal molecular diffusivities momentum mass dab negligible compared turbulent diffusivities liquids present andor drag present analogy valid analogies von karmans prandtls usually result poor relations
+successful widely used analogy chilton colburn jfactor analogy analogy based experimental data gases liquids laminar turbulent regimes although based experimental data shown satisfy exact solution derived laminar flow flat plate information used predict transfer mass
+onsager reciprocal relationsedit
+fluid systems described terms temperature matter density pressure known temperature differences lead heat flows warmer colder parts system similarly pressure differences lead matter flow highpressure lowpressure regions reciprocal relation remarkable observation pressure temperature vary temperature differences constant pressure cause matter flow convection pressure differences constant temperature cause heat flow perhaps surprisingly heat flow per unit pressure difference density matter flow per unit temperature difference equal
+equality shown necessary lars onsager using statistical mechanics consequence time reversibility microscopic dynamics theory developed onsager much general example capable treating two thermodynamic forces
+momentum transferedit
+momentum transfer fluid treated continuous distribution matter study momentum transfer fluid mechanics divided two branches fluid statics fluids rest fluid dynamics fluids motion fluid flowing x direction parallel solid surface fluid xdirected momentum concentration x random diffusion molecules exchange molecules z direction hence xdirected momentum transferred zdirection faster slowermoving layer equation momentum transport newtons law viscosity written follows
+zx flux xdirected momentum z direction momentum diffusivity z distance transport diffusion density viscosity newtons law simplest relationship flux momentum velocity gradient
+mass transferedit
+system contains two components whose concentration vary point point natural tendency mass transferred minimizing concentration difference within system mass transfer system governed ficks first law diffusion flux higher concentration lower concentration proportional gradient concentration substance diffusivity substance medium mass transfer take place due different driving forces
+mass transferred action pressure gradientpressure diffusion
+forced diffusion occurs action external force
+diffusion caused temperature gradients thermal diffusion
+diffusion caused differences chemical potential
+compared fouriers law conduction heat
+d diffusivity constant
+energy transferedit
+process engineering involve transfer energy examples heating cooling process streams phase changes distillations etc basic principle first law thermodynamics expressed follows static system
+net flux energy system equals conductivity times rate change temperature respect position
+systems involve either turbulent flow complex geometries difficult boundary conditions another equation would easier use
+surface area temperature driving force q heat flow per unit time h heat transfer coefficient
+within heat transfer two types convection occur
+forced convection occur laminar turbulent flow situation laminar flow circular tubes several dimensionless numbers used nusselt number reynolds number prandtl commonly used equation
+natural free convection function grashof prandtl numbers complexities free convection heat transfer make necessary mainly use empirical relations experimental data
+heat transfer analyzed packed beds reactors heat exchangers
+see alsoedit
+constitutive equation
+continuity equation
+wave propagation
+pulse
+action potential
+bioheat transfer
+referencesedit
+external linksedit
+transport phenomena archive teaching archives materials digital library pathway
+classical transport phenomena problems solutions fluid mechanics
+classical transport phenomena problems solutions heat transfer
+classical transport phenomena problems solutions mass transfer

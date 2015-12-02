@@ -1,0 +1,93 @@
+electromotive force also called emf denoted measured volt voltage developed source electrical energy battery dynamo generally defined electrical potential source circuit device supplies electrical energy called seat electromotive force emf emfs convert chemical mechanical forms energy electrical energy product device also known emf
+word force case used mean mechanical force measured newtons potential energy per unit charge measured volts
+electromagnetic induction emf defined around closed loop electromagnetic work would done charge travels around loop charge travels around loop simultaneously lose energy gained via resistance thermal energy timevarying magnetic flux linking loop electric potential scalar field defined due circulating electric vector field nevertheless emf work measured virtual electric potential around loop
+case twoterminal device electrochemical cell electromagnetic generator modeled thvenins equivalent circuit equivalent emf measured opencircuit potential voltage difference two terminals potential difference drive current external circuit attached terminals
+devices provide emf include electrochemical cells thermoelectric devices solar cells photodiodes electrical generators transformer even van de graaff generators nature emf generated whenever magnetic field fluctuations occur surface shifting earths magnetic field geomagnetic storm induces currents electrical grid lines magnetic field shifted cut across conductors
+case battery charge separation gives rise voltage difference terminals accomplished chemical reactions electrodes convert chemical potential energy electromagnetic potential energy voltaic cell thought charge pump atomic dimensions electrode
+source emf thought kind charge pump acts move positive charge point low potential interior point high potential chemical mechanical means source emf performs work dw charge move high potential terminal emf source defined work dw done per charge dq dwdq
+around michael faraday established reactions two electrodeelectrolyte interfaces provide seat emf voltaic cell reactions drive current endless source energy initially thought opencircuit case charge separation continues electrical field separated charges sufficient arrest reactions years earlier alessandro volta measured contact potential difference metalmetal electrodeelectrode interface cells held incorrect opinion contact alone without taking account chemical reaction origin emf
+case electrical generator timevarying magnetic field inside generator creates electric field via electromagnetic induction turn creates voltage difference generator terminals charge separation takes place within generator electrons flowing away one terminal toward opencircuit case sufficient electric field builds make charge separation impossible emf countered electrical voltage due charge separation load attached voltage drive current general principle governing emf electrical machines faradays law induction
+notation units measurementedit
+electromotive force often denoted script capital e unicode u
+device without internal resistance electric charge q passes device gains energy w net emf device energy gained per unit charge wq like measures energy per charge emf si units volts equivalent joules per coulomb
+electromotive force electrostatic units statvolt centimeter gram second system units equal amount erg per electrostatic unit charge
+formal definitions electromotive forceedit
+inside source emf opencircuited conservative electrostatic field created separation charge exactly cancels forces producing emf thus emf value opposite sign integral electric field aligned internal path two terminals b source emf opencircuit condition path taken negative terminal positive terminal yield positive emf indicating work done electrons moving circuit mathematically
+ecs conservative electrostatic field created charge separation associated emf d element path terminal terminal b denotes vector dot product equation applies locations b terminals apply paths points b portions outside source emf equation involves electrostatic electric field due charge separation ecs involve example nonconservative component electric field due faradays law induction
+case closed path presence varying magnetic field integral electric field around closed loop may nonzero one common application concept emf known induced emf voltage induced loop induced emf around stationary closed path c
+e entire electric field conservative nonconservative integral around arbitrary stationary closed curve c varying magnetic field electrostatic field contribute net emf around circuit electrostatic portion electric field conservative work done field around closed path zero
+definition extended arbitrary sources emf moving paths c
+conceptual equation mainly determination effective forces difficult
+electromotive force thermodynamicsedit
+multiplied amount charge dz emf yields thermodynamic work term dz used formalism change gibbs energy charge passed battery
+g gibbs free energy entropy v system volume p pressure absolute temperature
+combination z example conjugate pair variables constant pressure relationship produces maxwell relation links change open cell voltage temperature measurable quantity change entropy charge passed isothermally isobarically latter closely related reaction entropy electrochemical reaction lends battery power maxwell relation
+mole ions goes solution example daniell cell discussed charge external circuit
+n number electronsion f faraday constant minus sign indicates discharge cell assuming constant pressure volume thermodynamic properties cell related strictly behavior emf
+h heat reaction quantities right directly measurable
+electromotive force voltage differenceedit
+electrical voltage difference sometimes called emf points illustrate formal usage terms distinction emf voltage generates
+circuit whole one containing resistor series voltaic cell electrical voltage contribute overall emf voltage difference going around circuit zero ohmic ir voltage drop plus applied electrical voltage sum zero see kirchhoffs law emf due solely chemistry battery causes charge separation turn creates electrical voltage drives current
+circuit consisting electrical generator drives current resistor emf due solely timevarying magnetic field within generator generates electrical voltage turn drives current ohmic ir drop plus applied electrical voltage zero see kirchhoffs law
+transformer coupling two circuits may considered source emf one circuits caused electrical generator example illustrates origin term transformer emf
+photodiode solar cell may considered source emf similar battery resulting electrical voltage generated charge separation driven light rather chemical reaction
+devices produce emf fuel cells thermocouples thermopiles
+case open circuit electric charge separated mechanism generating emf creates electric field opposing separation mechanism example chemical reaction voltaic cell stops opposing electric field electrode strong enough arrest reactions larger opposing field reverse reactions called reversible cells
+electric charge separated creates electric potential difference measured voltmeter terminals device magnitude emf battery source value open circuit voltage battery charging discharging emf cannot measured directly using external voltage voltage lost inside source however inferred measurement current voltage difference v provided internal resistance r already measured v ir
+electromotive force generationedit
+chemical sourcesedit
+question batteries galvanic cells generate emf one occupied scientists th century seat electromotive force eventually determined walther nernst primarily interfaces electrodes electrolyte
+molecules groups atoms held together chemical bonds bonds consist electrical forces electrons negative protons positive molecule isolation stable entity different molecules brought together types molecules able steal electrons others resulting charge separation redistribution charge accompanied change energy system reconfiguration atoms molecules gain electron termed reduction loss electron termed oxidation reactions electron exchange occurs basis batteries called reductionoxidation reactions redox reactions battery one electrode composed material gains electrons solute electrode loses electrons fundamental molecular attributes behavior seen atoms ability steal electrons referred electronegativity
+example daniell cell consists zinc anode electron collector oxidized dissolves zinc sulfate solution dissolving zinc leaving behind electrons electrode according oxidation reaction solid electrode aq aqueous solution
+zinc sulfate electrolyte half cell solution contains zinc cations sulfate anions charges balance zero
+half cell copper cations copper sulfate electrolyte drawn copper cathode attach adopt electrons copper electrode reduction reaction
+effect leaving deficit electrons copper cathode difference excess electrons anode deficit electrons cathode creates electrical potential two electrodes detailed discussion microscopic process electron transfer electrode ions electrolyte may found conway
+cathode anode connected external conductor electrons would pass external circuit light bulb figure ions pass salt bridge maintain charge balance time anode cathode reach electrical equilibrium zero volts chemical equilibrium reached cell process zinc anode dissolved copper electrode plated copper socalled salt bridge made salt could made material able wick cations anions salts solutions flow positively charged cations along bridge amounts number negative charges flowing opposite direction
+light bulb removed open circuit emf electrodes opposed electric field due charge separation reactions stop
+particular cell chemistry k room temperature emf v temperature coefficient ddt vk
+voltaic cellsedit
+volta developed voltaic cell presented work march volta correctly identified role dissimilar electrodes producing voltage incorrectly dismissed role electrolyte volta ordered metals tension series say order one list becomes positive contact one succeeds negative contact one precedes typical symbolic convention schematic circuit would long electrode short electrode indicate electrode dominates voltas law opposing electrode emfs implies given ten electrodes example zinc nine materials unique combinations voltaic cells created
+electromotive force cellsedit
+electromotive force produced primary singleuse secondary rechargeable cells usually order volts figures quoted nominal emf varies according size load state exhaustion cell
+electromagnetic inductionedit
+principle electromagnetic induction noted states timedependent magnetic field produces circulating electric field timedependent magnetic field produced either motion magnet relative circuit motion circuit relative another circuit least one must carrying current changing current fixed circuit effect circuit changing current known selfinduction effect another circuit known mutual induction
+given circuit electromagnetically induced emf determined purely rate change magnetic flux circuit according faradays law induction
+emf induced coil conductor whenever change flux linkages depending way changes brought two types conductor moved stationary magnetic field procure change flux linkage emf statically induced electromotive force generated motion often referred motional emf change flux linkage arises change magnetic field around stationary conductor emf dynamically induced electromotive force generated timevarying magnetic field often referred transformer emf
+contact potentialsedit
+solids two different materials contact thermodynamic equilibrium requires one solids assume higher electrical potential called contact potential dissimilar metals contact produce known also contact electromotive force galvani potential magnitude potential difference often expressed difference fermi levels two solids charge neutrality fermi level name chemical potential electron system describes energy necessary remove electron body common point ground energy advantage taking electron one body transfer occur transfer causes charge separation one body gaining electrons losing electrons charge transfer causes potential difference bodies partly cancels potential originating contact eventually equilibrium reached thermodynamic equilibrium fermi levels equal electron removal energy identical builtin electrostatic potential bodies original difference fermi levels contact referred emf contact potential cannot drive steady current load attached terminals current would involve charge transfer mechanism exists continue transfer hence maintain current equilibrium attained
+one might inquire contact potential appear kirchhoffs law voltages one contribution sum potential drops customary answer circuit involves particular diode junction also contact potentials due wiring forth around entire circuit sum contact potentials zero may ignored kirchhoffs law
+solar celledit
+operation solar cell understood equivalent circuit right light sufficient energy greater bandgap material creates mobile electronhole pairs semiconductor charge separation occurs preexisting electric field associated pn junction thermal equilibrium contact potential creates field charge separation positive holes negative electrons across pn junction diode yields forward voltage photo voltage illuminated diode terminals noted earlier terminology section photo voltage sometimes referred photo emf rather distinguishing effect cause charge separation causes photo voltage drives current attached load
+current available external circuit limited internal losses iish id
+losses limit current available external circuit lightinduced charge separation eventually creates current called forward current ish cells junction direction opposite light driving current addition induced voltage tends forward bias junction high enough levels forward bias junction cause forward current id diode opposite induced light consequently greatest current obtained shortcircuit conditions denoted il lightinduced current equivalent circuit approximately current obtained forward voltages point diode conduction becomes significant
+current delivered illuminated diode external circuit
+reverse saturation current two parameters depend solar cell construction degree upon voltage m ideality factor ktq thermal voltage v room temperature relation plotted figure using fixed value m opencircuit conditions opencircuit voltage voltage forward bias junction enough forward current completely balances photocurrent solving voltage v designating opencircuit voltage iv equation
+useful indicating logarithmic dependence voc upon lightinduced current typically opencircuit voltage v
+driving load photo voltage variable shown figure load resistance rl cell develops voltage shortcircuit value v il opencircuit value voc value given ohms law v rl current difference shortcircuit current current due forward bias junction indicated equivalent circuit neglecting parasitic resistances
+contrast battery current levels delivered external circuit near il solar cell acts like current source rather voltage source near vertical part two illustrated curves current drawn nearly fixed range load voltages one electron per converted photon quantum efficiency probability getting electron photocurrent per incident photon depends upon solar cell upon spectrum light
+diode possesses builtin potential due contact potential difference two different materials either side junction builtin potential established junction manufactured voltage byproduct thermodynamic equilibrium within cell established potential difference cannot drive current however connecting load upset equilibrium contrast accumulation excess electrons one region excess holes another due illumination results photo voltage drive current load attached illuminated diode noted photo voltage also forward biases junction reduces preexisting field depletion region
+see alsoedit
+counterelectromotive force
+electric battery
+electrochemical cell
+electrolytic cell
+galvanic cell
+voltaic pile
+referencesedit
+readingedit
+andrew gray absolute measurements electricity magnetism electromotive force macmillan co
+john om bockris amulya k n reddy electrodics modern electrochemistry introduction interdisciplinary area ed springer isbn
+roberts dana batteries work gravitational analog j phys bibcodeamjphr doi
+charles albert perkins outlines electricity magnetism measurement electromotive force henry holt co
+john livingston rutgers morgan elements physical chemistry electromotive force j wiley
+george f barker measurement electromotive force proceedings american philosophical society held philadelphia promoting useful knowledge american philosophical society january
+abhandlungen zur thermodynamik von h helmholtz hrsg von max planck tr papers thermodynamics h helmholtz hrsg max planck leipzig w engelmann ostwald classical author accurate sciences series new consequence
+nabendu choudhury electromotive force measurements cells involving betaalumina solid electrolyte nasa technical note d
+henry carhart thermoelectromotive force electric cells thermoelectromotive force metal solution one salts new york d van nostrand company lccn
+hazel rossotti chemical applications potentiometry london princeton nj van nostrand isbn lccn r
+theodore william richards gustavus edward behr jr electromotive force iron varying conditions effect occluded hydrogen carnegie institution washington publication series lccn r
+g w burns et al temperatureelectromotive force reference functions tables letterdesignated thermocouple types based gaithersburg md us dept commerce national institute standards technology washington supt docs us gpo
+norio sato semiconductor photoelectrodes electrochemistry metal semiconductor electrodes nd ed elsevier p ff isbn
+external linksedit
+electromotive force inductors interactive tutorial national high magnetic field laboratory
+hai pham nam ohya shinobu tanaka masaaki barnes stewart e maekawa sadamichi electromotive force huge magnetoresistance magnetic tunnel junctions nature bibcodenaturh doinature pmid retrieved

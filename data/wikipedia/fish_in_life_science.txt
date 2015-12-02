@@ -1,0 +1,125 @@
+a differential equation is a mathematical equation that relates some function with its derivatives in applications the functions usually represent physical quantities the derivatives represent their rates of change and the equation defines a relationship between the two because such relations are extremely common differential equations play a prominent role in many disciplines including engineering physics economics and biology
+in pure mathematics differential equations are studied from several different perspectives mostly concerned with their solutionsthe set of functions that satisfy the equation only the simplest differential equations are solvable by explicit formulas; however some properties of solutions of a given differential equation may be determined without finding their exact form
+if a self-contained formula for the solution is not available the solution may be numerically approximated using computers the theory of dynamical systems puts emphasis on qualitative analysis of systems described by differential equations while many numerical methods have been developed to determine solutions with a given degree of accuracy
+== history ==
+differential equations first came into existence with the invention of calculus by newton and leibniz in chapter 2 of his 1671 work "methodus fluxionum et serierum infinitarum" isaac newton listed three kinds of differential equations:
+he solves these examples and others using infinite series and discusses the non-uniqueness of solutions
+jacob bernoulli proposed the bernoulli differential equation in 1695 this is an ordinary differential equation of the form
+for which the following year leibniz obtained solutions by simplifying it
+historically the problem of a vibrating string such as that of a musical instrument was studied by jean le rond d'alembert leonhard euler daniel bernoulli and joseph-louis lagrange in 1746 dalembert discovered the one-dimensional wave equation and within ten years euler discovered the three-dimensional wave equation
+the eulerlagrange equation was developed in the 1750s by euler and lagrange in connection with their studies of the tautochrone problem this is the problem of determining a curve on which a weighted particle will fall to a fixed point in a fixed amount of time independent of the starting point
+lagrange solved this problem in 1755 and sent the solution to euler both further developed lagrange's method and applied it to mechanics which led to the formulation of lagrangian mechanics
+fourier published his work on heat flow in thorie analytique de la chaleur (the analytic theory of heat) in which he based his reasoning on newton's law of cooling namely that the flow of heat between two adjacent molecules is proportional to the extremely small difference of their temperatures contained in this book was fourier's proposal of his heat equation for conductive diffusion of heat this partial differential equation is now taught to every student of mathematical physics
+== example ==
+for example in classical mechanics the motion of a body is described by its position and velocity as the time value varies newton's laws allow (given the position velocity acceleration and various forces acting on the body) one to express these variables dynamically as a differential equation for the unknown position of the body as a function of time
+in some cases this differential equation (called an equation of motion) may be solved explicitly
+an example of modelling a real world problem using differential equations is the determination of the velocity of a ball falling through the air considering only gravity and air resistance the ball's acceleration towards the ground is the acceleration due to gravity minus the acceleration due to air resistance
+gravity is considered constant and air resistance may be modeled as proportional to the ball's velocity this means that the ball's acceleration which is a derivative of its velocity depends on the velocity (and the velocity depends on time) finding the velocity as a function of time involves solving a differential equation and verifying its validity
+== main topics ==
+=== ordinary differential equations ===
+an ordinary differential equation (ode) is an equation containing a function of one independent variable and its derivatives the term "ordinary" is used in contrast with the term partial differential equation which may be with respect to more than one independent variable
+linear differential equations which have solutions that can be added and multiplied by coefficients are well-defined and understood and exact closed-form solutions are obtained by contrast odes that lack additive solutions are nonlinear and solving them is far more intricate as one can rarely represent them by elementary functions in closed form: instead exact and analytic solutions of odes are in series or integral form graphical and numerical methods applied by hand or by computer may approximate solutions of odes and perhaps yield useful information often sufficing in the absence of exact analytic solutions
+=== partial differential equations ===
+a partial differential equation (pde) is a differential equation that contains unknown multivariable functions and their partial derivatives (this is in contrast to ordinary differential equations which deal with functions of a single variable and their derivatives.) pdes are used to formulate problems involving functions of several variables and are either solved by hand or used to create a relevant computer model
+pdes can be used to describe a wide variety of phenomena such as sound heat electrostatics electrodynamics fluid flow elasticity or quantum mechanics these seemingly distinct physical phenomena can be formalised similarly in terms of pdes just as ordinary differential equations often model one-dimensional dynamical systems partial differential equations often model multidimensional systems pdes find their generalisation in stochastic partial differential equations
+== linear and non-linear ==
+both ordinary and partial differential equations are broadly classified as linear and nonlinear
+a differential equation is linear if the unknown function and its derivatives appear to the power 1 (products of the unknown function and its derivatives are not allowed) and nonlinear otherwise the characteristic property of linear equations is that their solutions form an affine subspace of an appropriate function space which results in much more developed theory of linear differential equations homogeneous linear differential equations are a further subclass for which the space of solutions is a linear subspace i.e the sum of any set of solutions or multiples of solutions is also a solution the coefficients of the unknown function and its derivatives in a linear differential equation are allowed to be (known) functions of the independent variable or variables; if these coefficients are constants then one speaks of a constant coefficient linear differential equation
+there are very few methods of solving nonlinear differential equations exactly; those that are known typically depend on the equation having particular symmetries nonlinear differential equations can exhibit very complicated behavior over extended time intervals characteristic of chaos even the fundamental questions of existence uniqueness and extendability of solutions for nonlinear differential equations and well-posedness of initial and boundary value problems for nonlinear pdes are hard problems and their resolution in special cases is considered to be a significant advance in the mathematical theory (cf navierstokes existence and smoothness) however if the differential equation is a correctly formulated representation of a meaningful physical process then one expects it to have a solution
+linear differential equations frequently appear as approximations to nonlinear equations these approximations are only valid under restricted conditions for example the harmonic oscillator equation is an approximation to the nonlinear pendulum equation that is valid for small amplitude oscillations (see below)
+=== examples ===
+in the first group of examples let u be an unknown function of x and c and are known constants
+inhomogeneous first-order linear constant coefficient ordinary differential equation:
+homogeneous second-order linear ordinary differential equation:
+homogeneous second-order linear constant coefficient ordinary differential equation describing the harmonic oscillator:
+inhomogeneous first-order nonlinear ordinary differential equation:
+second-order nonlinear (due to sine function) ordinary differential equation describing the motion of a pendulum of length l:
+in the next group of examples the unknown function u depends on two variables x and t or x and y
+homogeneous first-order linear partial differential equation:
+homogeneous second-order linear constant coefficient partial differential equation of elliptic type the laplace equation:
+third-order nonlinear partial differential equation the kortewegde vries equation:
+== existence of solutions ==
+solving differential equations is not like solving algebraic equations not only are their solutions oftentimes unclear but whether solutions are unique or exist at all are also notable subjects of interest
+for first order initial value problems the peano existence theorem gives one set of circumstances in which a solution exists given any point in the xy-plane define some rectangular region  such that and is in the interior of  if we are given a differential equation and the condition that when  then there is locally a solution to this problem if and are both continuous on  this solution exists on some interval with its center at  the solution may not be unique (see ordinary differential equation for other results.)
+however this only helps us with first order initial value problems suppose we had a linear initial value problem of the nth order:
+such that
+for any nonzero  if and are continuous on some interval containing  is unique and exists
+== related concepts ==
+a delay differential equation (dde) is an equation for a function of a single variable usually called time in which the derivative of the function at a certain time is given in terms of the values of the function at earlier times
+a stochastic differential equation (sde) is an equation in which the unknown quantity is a stochastic process and the equation involves some known stochastic processes for example the wiener process in the case of diffusion equations
+a differential algebraic equation (dae) is a differential equation comprising differential and algebraic terms given in implicit form
+== connection to difference equations ==
+the theory of differential equations is closely related to the theory of difference equations in which the coordinates assume only discrete values and the relationship involves values of the unknown function or functions and values at nearby coordinates many methods to compute numerical solutions of differential equations or study the properties of differential equations involve approximation of the solution of a differential equation by the solution of a corresponding difference equation
+== applications ==
+the study of differential equations is a wide field in pure and applied mathematics physics and engineering all of these disciplines are concerned with the properties of differential equations of various types pure mathematics focuses on the existence and uniqueness of solutions while applied mathematics emphasizes the rigorous justification of the methods for approximating solutions differential equations play an important role in modelling virtually every physical technical or biological process from celestial motion to bridge design to interactions between neurons differential equations such as those used to solve real-life problems may not necessarily be directly solvable i.e do not have closed form solutions instead solutions can be approximated using numerical methods
+many fundamental laws of physics and chemistry can be formulated as differential equations in biology and economics differential equations are used to model the behavior of complex systems the mathematical theory of differential equations first developed together with the sciences where the equations had originated and where the results found application however diverse problems sometimes originating in quite distinct scientific fields may give rise to identical differential equations whenever this happens mathematical theory behind the equations can be viewed as a unifying principle behind diverse phenomena as an example consider propagation of light and sound in the atmosphere and of waves on the surface of a pond all of them may be described by the same second-order partial differential equation the wave equation which allows us to think of light and sound as forms of waves much like familiar waves in the water conduction of heat the theory of which was developed by joseph fourier is governed by another second-order partial differential equation the heat equation it turns out that many diffusion processes while seemingly different are described by the same equation; the blackscholes equation in finance is for instance related to the heat equation
+=== physics ===
+eulerlagrange equation in classical mechanics
+hamilton's equations in classical mechanics
+radioactive decay in nuclear physics
+newton's law of cooling in thermodynamics
+the wave equation
+the heat equation in thermodynamics
+laplace's equation which defines harmonic functions
+poisson's equation
+the geodesic equation
+the navierstokes equations in fluid dynamics
+the diffusion equation in stochastic processes
+the convectiondiffusion equation in fluid dynamics
+the cauchyriemann equations in complex analysis
+the poissonboltzmann equation in molecular dynamics
+the shallow water equations
+universal differential equation
+the lorenz equations whose solutions exhibit chaotic flow
+==== classical mechanics ====
+so long as the force acting on a particle is known newton's second law is sufficient to describe the motion of a particle once independent relations for each force acting on a particle are available they can be substituted into newton's second law to obtain an ordinary differential equation which is called the equation of motion
+==== electrodynamics ====
+maxwell's equations are a set of partial differential equations that together with the lorentz force law form the foundation of classical electrodynamics classical optics and electric circuits these fields in turn underlie modern electrical and communications technologies maxwell's equations describe how electric and magnetic fields are generated and altered by each other and by charges and currents they are named after the scottish physicist and mathematician james clerk maxwell who published an early form of those equations between 1861 and 1862
+==== general relativity ====
+the einstein field equations (efe; also known as "einstein's equations") are a set of ten partial differential equations in albert einstein's general theory of relativity which describe the fundamental interaction of gravitation as a result of spacetime being curved by matter and energy first published by einstein in 1915 as a tensor equation the efe equate local spacetime curvature (expressed by the einstein tensor) with the local energy and momentum within that spacetime (expressed by the stressenergy tensor)
+==== quantum mechanics ====
+in quantum mechanics the analogue of newton's law is schrdinger's equation (a partial differential equation) for a quantum system (usually atoms molecules and subatomic particles whether free bound or localized) it is not a simple algebraic equation but in general a linear partial differential equation describing the time-evolution of the system's wave function (also called a "state function")
+=== biology ===
+verhulst equation biological population growth
+von bertalanffy model biological individual growth
+replicator dynamics found in theoretical biology
+hodgkinhuxley model neural action potentials
+==== predator-prey equations ====
+the lotkavolterra equations also known as the predatorprey equations are a pair of first-order non-linear differential equations frequently used to describe the dynamics of biological systems in which two species interact one as a predator and the other as prey
+=== chemistry ===
+the rate law or rate equation for a chemical reaction is a differential equation that links the reaction rate with concentrations or pressures of reactants and constant parameters (normally rate coefficients and partial reaction orders) to determine the rate equation for a particular system one combines the reaction rate with a mass balance for the system
+=== economics ===
+the key equation of the solowswan model is
+the blackscholes pde
+malthusian growth model
+the vidalewolfe advertising model
+== see also ==
+complex differential equation
+exact differential equation
+initial condition
+integral equations
+numerical methods
+picardlindelf theorem on existence and uniqueness of solutions
+recurrence relation also known as 'difference equation'
+== references ==
+== further reading ==
+p abbott and h neill teach yourself calculus 2003 pages 266-277
+p blanchard r l devaney g r hall differential equations thompson 2006
+e a coddington and n levinson theory of ordinary differential equations mcgraw-hill 1955
+e l ince ordinary differential equations dover publications 1956
+w johnson a treatise on ordinary and partial differential equations john wiley and sons 1913 in university of michigan historical math collection
+a d polyanin and v f zaitsev handbook of exact solutions for ordinary differential equations (2nd edition) chapman & hall/crc press boca raton 2003 isbn 1-58488-297-2
+r i porter further elementary analysis 1978 chapter xix differential equations
+teschl gerald (2012) ordinary differential equations and dynamical systems providence: american mathematical society isbn 978-0-8218-8328-0
+d zwillinger handbook of differential equations (3rd edition) academic press boston 1997
+== external links ==
+lectures on differential equations mit open courseware videos
+online notes / differential equations paul dawkins lamar university
+differential equations s.o.s mathematics
+introduction to modeling via differential equations introduction to modeling by means of differential equations with critical remarks
+mathematical assistant on web symbolic ode tool using maxima
+exact solutions of ordinary differential equations
+collection of ode and dae models of physical systems matlab models
+notes on diffy qs: differential equations for engineers an introductory textbook on differential equations by jiri lebl of uiuc
+khan academy video playlist on differential equations topics covered in a first year course in differential equations
+mathdiscuss video playlist on differential equations

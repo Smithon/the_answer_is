@@ -1,0 +1,117 @@
+in thermodynamics the gibbs free energy (iupac recommended name: gibbs energy or gibbs function; also known as free enthalpy to distinguish it from helmholtz free energy) is a thermodynamic potential that measures the "usefulness" or process-initiating work obtainable from a thermodynamic system at a constant temperature and pressure (isothermal isobaric) just as in mechanics where potential energy is defined as capacity to do work similarly different potentials have different meanings the gibbs free energy (kj/mol in si units) is the maximum amount of non-expansion work that can be extracted from a thermodynamically closed system (one that can exchange heat and work with its surroundings but not matter); this maximum can be attained only in a completely reversible process when a system changes from a well-defined initial state to a well-defined final state the gibbs free energy change g equals the work exchanged by the system with its surroundings minus the work of the pressure forces during a reversible transformation of the system from the initial state to the final state
+gibbs energy (also referred to as g) is also the chemical potential that is minimized when a system reaches equilibrium at constant pressure and temperature its derivative with respect to the reaction coordinate of the system vanishes at the equilibrium point as such it is a convenient criterion for the spontaneity of processes with constant pressure and temperature
+the gibbs free energy originally called available energy was developed in the 1870s by the american mathematician josiah willard gibbs in 1873 gibbs described this "available energy" as
+the greatest amount of mechanical work which can be obtained from a given quantity of a certain substance in a given initial state without increasing its total volume or allowing heat to pass to or from external bodies except such as at the close of the processes are left in their initial condition
+the initial state of the body according to gibbs is supposed to be such that "the body can be made to pass from it to states of dissipated energy by reversible processes." in his 1876 magnum opus on the equilibrium of heterogeneous substances a graphical analysis of multi-phase chemical systems he engaged his thoughts on chemical free energy in full
+== overview ==
+for systems reacting at stp (or any other fixed temperature and pressure) there is a general natural tendency to achieve a minimum of the free energy
+a quantitative measure of the favorability of a given reaction is the difference g in gibbs free energy that is (or would be) effected by proceeding with the reaction when the calculated energetics of the process indicate that g is negative it means that the reaction will be favoured and will release energy the energy released equals the maximum amount of work that can be performed as a result of the chemical reaction in contrast if conditions indicated a positive g then energyin the form of workwould have to be added to the reacting system for the reaction to occur
+the equation can be also seen from the perspective of the system taken together with its surroundings (the rest of the universe) first assume that the given reaction is the only one that is occurring then the entropy released or absorbed by the system equals the entropy that the environment must absorb or release respectively the reaction will only be allowed if the total entropy change of the universe is zero or positive this is reflected in a negative g and the reaction is called exergonic
+if we allow other reactions to occur on the side then an otherwise endergonic chemical reaction (one with positive g) can be made to happen the input of heat into an inherently endergonic reaction such as the elimination of cyclohexanol to cyclohexene can be seen as coupling an unfavourable reaction (elimination) to a favourable one (burning of coal or other provision of heat) such that the total entropy change of the universe is greater than or equal to zero making the total gibbs free energy difference of the coupled reactions negative
+in traditional use the term "free" was included in "gibbs free energy" to mean "available in the form of useful work." the characterization becomes more precise if we add the qualification that it is the energy available for non-volume work (an analogous but slightly different meaning of "free" applies in conjunction with the helmholtz free energy for systems at constant temperature) however an increasing number of books and journal articles do not include the attachment "free" referring to g as simply "gibbs energy" this is the result of a 1988 iupac meeting to set unified terminologies for the international scientific community in which the adjective free was supposedly banished this standard however has not yet been universally adopted
+== history ==
+the quantity called "free energy" is a more advanced and accurate replacement for the outdated term affinity which was used by chemists in previous years to describe the force that caused chemical reactions
+in 1873 willard gibbs published a method of geometrical representation of the thermodynamic properties of substances by means of surfaces in which he sketched the principles of his new equation that was able to predict or estimate the tendencies of various natural processes to ensue when bodies or systems are brought into contact by studying the interactions of homogeneous substances in contact i.e. bodies composed of part solid part liquid and part vapor and by using a three-dimensional volume-entropy-internal energy graph gibbs was able to determine three states of equilibrium i.e. "necessarily stable" "neutral" and "unstable" and whether or not changes would ensue
+thereafter in 1882 the german scientist hermann von helmholtz characterized the affinity as the largest quantity of work which can be gained when the reaction is carried out in a reversible manner e.g. electrical work in a reversible cell the maximum work is thus regarded as the diminution of the free or available energy of the system (gibbs free energy g at t = constant p = constant or helmholtz free energy f at t = constant v = constant) whilst the heat given out is usually a measure of the diminution of the total energy of the system (internal energy) thus g or f is the amount of energy "free" for work under the given conditions
+until this point the general view had been such that: "all chemical reactions drive the system to a state of equilibrium in which the affinities of the reactions vanish" over the next 60 years the term affinity came to be replaced with the term free energy according to chemistry historian henry leicester the influential 1923 textbook thermodynamics and the free energy of chemical substances by gilbert n lewis and merle randall led to the replacement of the term "affinity" by the term "free energy" in much of the english-speaking world
+== graphical interpretation ==
+gibbs free energy was originally defined graphically in 1873 american engineer willard gibbs published his first thermodynamics paper "graphical methods in the thermodynamics of fluids" in which gibbs used the two coordinates of the entropy and volume to represent the state of the body in his second follow-up paper "a method of geometrical representation of the thermodynamic properties of substances by means of surfaces" published later that year gibbs added in the third coordinate of the energy of the body defined on three figures in 1874 scottish physicist james clerk maxwell used gibbs' figures to make a 3d energy-entropy-volume thermodynamic surface of a fictitious water-like substance thus in order to understand the very difficult concept of gibbs free energy one must be able to understand its interpretation as gibbs defined originally by section ab on his figure 3 and as maxwell sculpted that section on his 3d surface figure
+== definitions ==
+the gibbs free energy is defined as:
+which is the same as:
+where:
+u is the internal energy (si unit: joule)
+p is pressure (si unit: pascal)
+v is volume (si unit: m3)
+t is the temperature (si unit: kelvin)
+s is the entropy (si unit: joule per kelvin)
+h is the enthalpy (si unit: joule)
+the expression for the infinitesimal reversible change in the gibbs free energy as a function of its 'natural variables' p and t for an open system subjected to the operation of external forces (for instance electrical or magnetical) xi which cause the external parameters of the system ai to change by an amount dai can be derived as follows from the first law for reversible processes:
+where:
+i is the chemical potential of the ith chemical component (si unit: joules per particle or joules per mole)
+ni is the number of particles (or number of moles) composing the ith chemical component
+this is one form of gibbs fundamental equation in the infinitesimal expression the term involving the chemical potential accounts for changes in gibbs free energy resulting from an influx or outflux of particles in other words it holds for an open system for a closed system this term may be dropped
+any number of extra terms may be added depending on the particular system being considered aside from mechanical work a system may in addition perform numerous other types of work for example in the infinitesimal expression the contractile work energy associated with a thermodynamic system that is a contractile fiber that shortens by an amount dl under a force f would result in a term f dl being added if a quantity of charge de is acquired by a system at an electrical potential  the electrical work associated with this is de which would be included in the infinitesimal expression other work terms are added on per system requirements
+each quantity in the equations above can be divided by the amount of substance measured in moles to form molar gibbs free energy the gibbs free energy is one of the most important thermodynamic functions for the characterization of a system it is a factor in determining outcomes such as the voltage of an electrochemical cell and the equilibrium constant for a reversible reaction in isothermal isobaric systems gibbs free energy can be thought of as a "dynamic" quantity in that it is a representative measure of the competing effects of the enthalpic and entropic driving forces involved in a thermodynamic process
+the temperature dependence of the gibbs energy for an ideal gas is given by the gibbshelmholtz equation and its pressure dependence is given by:
+if the volume is known rather than pressure then it becomes:
+or more conveniently as its chemical potential:
+in non-ideal systems fugacity comes into play
+== derivation ==
+the gibbs free energy total differential natural variables may be derived via legendre transforms of the internal energy
+because s v and ni are extensive variables euler's homogeneous function theorem allows easy integration of du:
+the definition of g from above is
+taking the total differential we have
+replacing du with the result from the first law gives
+the natural variables of g are then p t and {ni}
+=== homogeneous systems ===
+because some of the natural variables are intensive dg may not be integrated using euler integrals as is the case with internal energy however simply substituting the gibbs-duhem relation result for u into the definition of g gives a standard expression for g:
+this result applies to homogeneous macroscopic systems but not to all thermodynamic systems
+== gibbs free energy of reactions ==
+to derive the gibbs free energy equation for an isolated system let stot be the total entropy of the isolated system that is a system that cannot exchange energy(heat and work) or mass with its surroundings according to the second law of thermodynamics:
+and if stot = 0 then the process is reversible the heat transfer q vanishes for an adiabatic system any adiabatic process that is also reversible is called an isentropic process
+now consider a subsystem having internal entropy sint such a system is thermally connected to its surroundings which have entropy sext the entropy form of the second law applies only to the closed system formed by both the system and its surroundings therefore a process is possible only if
+if q is the heat transferred to the system from the surroundings then q is the heat lost by the surroundings so that corresponds to the entropy change of the surroundings
+we now have:
+multiplying both sides by t:
+q is the heat transferred to the system; if the process is now assumed to be isobaric then q = h:
+h is the enthalpy change of reaction (for a chemical reaction at constant pressure) then:
+for a possible process let the change g in gibbs free energy be defined as
+(eq.1)
+notice that it is not defined in terms of any external state functions such as sext or stot then the second law which also tells us about the spontaneity of the reaction becomes:
+favoured reaction (spontaneous)
+neither the forward nor the reverse reaction prevails (equilibrium)
+disfavoured reaction (nonspontaneous)
+gibbs free energy g itself is defined as
+(eq.2)
+but notice that to obtain equation (1) from equation (2) we must assume that t is constant thus gibbs free energy is most useful for thermochemical processes at constant temperature and pressure: both isothermal and isobaric such processes don't move on a p-v diagram such as phase change of a pure substance which takes place at the saturation pressure and temperature chemical reactions however do undergo changes in chemical potential which is a state function thus thermodynamic processes are not confined to the two dimensional p-v diagram there is a third dimension for n the quantity of gas for the study of explosive chemicals the processes are not necessarily isothermal and isobaric for these studies helmholtz free energy is used
+if an isolated system (q = 0) is at constant pressure (q = h) then
+therefore the gibbs free energy of an isolated system is
+and if g 0 then this implies that s 0 back to where we started the derivation of g
+== useful identities ==
+(for constant temperature)
+(for a system at equilibrium)
+(see chemical equilibrium)
+and rearranging gives
+which relates the electrical potential of a reaction to the equilibrium coefficient for that reaction (nernst equation)
+where
+g = change in gibbs free energy
+h = change in enthalpy
+t = absolute temperature
+s = change in entropy
+r = gas constant
+ln = natural logarithm
+rg = change of reaction in gibbs free energy
+rg = standard change of reaction in gibbs free energy
+k = equilibrium constant
+qr = reaction quotient
+n = number of electrons per mole product
+f = faraday constant (coulombs per mole)
+e = electrode potential of the reaction
+moreover we also have:
+which relates the equilibrium constant with gibbs free energy
+== gibbs free energy the second law of thermodynamics and metabolism ==
+a chemical reaction will (or can) proceed spontaneously if the change in the total entropy of the universe that would be caused by the reaction is nonnegative as discussed in the overview if the temperature and pressure are held constant the gibbs free energy is a (negative) proxy for the change in total entropy of the universe it's "negative" because s appears with a negative coefficient in the expression for g so the gibbs free energy moves in the opposite direction from the total entropy thus a reaction with a positive gibbs free energy will not proceed spontaneously however in biological systems (among others) energy inputs from other energy sources (including the sun and exothermic chemical reactions) are "coupled" with reactions that are not entropically favored (i.e have a gibbs free energy above zero) taking into account the coupled reactions the total entropy in the universe increases this coupling allows endergonic reactions such as photosynthesis and dna synthesis to proceed without decreasing the total entropy of the universe thus biological systems do not violate the second law of thermodynamics
+== standard energy change of formation ==
+the standard gibbs free energy of formation of a compound is the change of gibbs free energy that accompanies the formation of 1 mole of that substance from its component elements at their standard states (the most stable form of the element at 25 degrees celsius and 100 kilopascals) its symbol is fg
+all elements in their standard states (diatomic oxygen gas graphite etc.) have standard gibbs free energy change of formation equal to zero as there is no change involved
+fg = fg + rt ln qf ; qf is the reaction quotient
+at equilibrium fg = 0 and qf = k so the equation becomes fg = rt ln k; k is the equilibrium constant
+=== table of selected substances ===
+== see also ==
+calphad
+electron equivalent
+enthalpy-entropy compensation
+free entropy
+grand potential
+thermodynamic free energy
+== notes and references ==
+== external links ==
+iupac definition (gibbs energy)
+gibbs free energy calculator
+gibbs energy - florida state university
+gibbs free energy - eric weissteins world of physics
+entropy and gibbs free energy - www.2ndlaw.oxy.edu
+gibbs free energy - georgia state university
+gibbs free energy java applet - university of california berkeley
+using gibbs free energy for prediction of chemical driven material ageing

@@ -1,0 +1,162 @@
+classical mechanics laplacerungelenz vector simply lrl vector vector used chiefly describe shape orientation orbit one astronomical body around another planet revolving around star two bodies interacting newtonian gravity lrl vector constant motion meaning matter calculated orbit equivalently lrl vector said conserved generally lrl vector conserved problems two bodies interact central force varies inverse square distance problems called kepler problems
+hydrogen atom kepler problem since comprises two charged particles interacting coulombs law electrostatics another inverse square central force lrl vector essential first quantum mechanical derivation spectrum hydrogen atom development schrdinger equation however approach rarely used today
+classical quantum mechanics conserved quantities generally correspond symmetry system conservation lrl vector corresponds unusual symmetry kepler problem mathematically equivalent particle moving freely surface fourdimensional hypersphere whole problem symmetric certain rotations fourdimensional space higher symmetry results two properties kepler problem velocity vector always moves perfect circle given total energy velocity circles intersect two points
+laplacerungelenz vector named pierresimon de laplace carl runge wilhelm lenz also known laplace vector rungelenz vector lenz vector ironically none scientists discovered lrl vector rediscovered several times also equivalent dimensionless eccentricity vector celestial mechanics various generalizations lrl vector defined incorporate effects special relativity electromagnetic fields even different types central forces
+context
+single particle moving conservative central force least four constants motion total energy e three cartesian components angular momentum vector l respect origin particles orbit confined plane defined particles initial momentum p equivalently velocity v vector r particle center force see figure
+defined see mathematical definition laplacerungelenz vector lrl vector always lies plane motion central force however constant inversesquare central force central forces however vector constant changes length direction central force approximately inversesquare law vector approximately constant length slowly rotates direction generalized conserved lrl vector defined central forces generalized vector complicated function position usually expressible closed form
+plane motion perpendicular angular momentum vector l constant may expressed mathematically vector dot product equation rl likewise since lies plane al
+lrl vector differs conserved quantities following property whereas typical conserved quantities corresponding cyclic coordinate threedimensional lagrangian system exist coordinate lrl vector thus conservation lrl vector must derived directly eg method poisson brackets described conserved quantities kind called dynamic contrast usual geometric conservation laws eg angular momentum
+history rediscovery
+lrl vector constant motion important kepler problem useful describing astronomical orbits motion planets nevertheless never well known among physicists possibly less intuitive momentum angular momentum consequently rediscovered independently several times last three centuries
+jakob hermann first show conserved special case inversesquare central force worked connection eccentricity orbital ellipse hermanns work generalized modern form johann bernoulli end century pierresimon de laplace rediscovered conservation deriving analytically rather geometrically middle nineteenth century william rowan hamilton derived equivalent eccentricity vector defined using show momentum vector p moves circle motion inversesquare central force figure
+beginning twentieth century josiah willard gibbs derived vector vector analysis gibbs derivation used example carle runge popular german textbook vectors referenced wilhelm lenz paper old quantum mechanical treatment hydrogen atom vector used wolfgang pauli derive spectrum hydrogen using modern quantum mechanics schrdinger equation paulis publication became known mainly rungelenz vector
+mathematical definition
+single particle acted inversesquare central force described equation lrl vector defined mathematically formula
+m mass point particle moving central force
+p momentum vector
+l r p angular momentum vector
+k parameter describes strength central force
+r position vector particle figure
+corresponding unit vector ie r magnitude r
+since assumed force conservative total energy e constant motion
+furthermore assumed force central force thus angular momentum vector l also conserved defines plane particle travels lrl vector perpendicular angular momentum vector l p l r perpendicular l follows lies plane orbit
+definition lrl vector pertains single point particle mass m moving action fixed force however definition may extended twobody problems keplers problem taking m reduced mass two bodies r vector two bodies
+variety alternative formulations constant motion may also used common scale mk define eccentricity vector
+derivation kepler orbits
+shape orientation kepler problem orbits determined lrl vector follows taking dot product position vector r gives equation
+angle r figure permuting scalar triple product
+rearranging yields defining formula conic section provided constant case inverse square force law
+eccentricity e
+latus rectum
+major semiaxis conic section may defined using latus rectum eccentricity
+minus sign pertains ellipses plus sign hyperbolae
+taking dot product yields equation involving energy e
+may rewritten terms eccentricity
+thus energy e negative bound orbits eccentricity less one orbit ellipse conversely energy positive unbound orbits also called scattered orbits eccentricity greater one orbit hyperbola finally energy exactly zero eccentricity one orbit parabola cases direction lies along symmetry axis conic section points center force toward periapsis point closest approach
+circular momentum hodographs
+conservation lrl vector angular momentum vector l useful showing momentum vector p moves circle inversesquare central force
+taking dot product
+yields
+choosing l along zaxis major semiaxis xaxis yields locus equation p
+words momentum vector p confined circle radius mkl l centered al eccentricity e corresponds cosine angle shown figure
+degenerate limit circular orbits thus vanishing circle centers origin brevity also useful introduce variable circular hodograph useful illustrating symmetry kepler problem
+constants motion superintegrability
+seven scalar quantities e l vectors latter two contribute three conserved quantities related two equations l mk mel giving five independent constants motion since magnitude hence eccentricity e orbit determined total angular momentum l energy e direction conserved independently moreover since must perpendicular l contributes one additional conserved quantity
+consistent six initial conditions particles initial position velocity vectors three components specify orbit particle since initial time determined constant motion resulting dimensional orbit dimensional phase space thus completely specified
+mechanical system d degrees freedom d constants motion since d initial conditions initial time cannot determined constant motion system d constants motion called superintegrable system d constants called maximally superintegrable since solution hamiltonjacobi equation one coordinate system yield d constants motion superintegrable systems must separable one coordinate system kepler problem maximally superintegrable since three degrees freedom d five independent constant motion hamiltonjacobi equation separable spherical coordinates parabolic coordinates described
+maximally superintegrable systems follow closed onedimensional orbits phase space since orbit intersection phasespace isosurfaces constants motion consequently orbits perpendicular gradients independent isosurfaces five specific problem hence determined generalized cross products gradients result superintegrable systems automatically describable nambu mechanics alternatively equivalently hamiltonian mechanics
+maximally superintegrable systems quantized using commutation relations illustrated nevertheless equivalently also quantized nambu framework classical kepler problem quantum hydrogen atom
+evolution perturbed potentials
+laplacerungelenz vector conserved perfect inversesquare central force practical problems planetary motion however interaction potential energy two bodies exactly inverse square law may include additional central force socalled perturbation described potential energy hr cases lrl vector rotates slowly plane orbit corresponding slow apsidal precession orbit
+assumption perturbing potential hr conservative central force implies total energy e angular momentum vector l conserved thus motion still lies plane perpendicular l magnitude conserved equation mk mel perturbation potential hr may sort function significantly weaker main inversesquare force two bodies
+rate lrl vector rotates provides information perturbing potential hr using canonical perturbation theory actionangle coordinates straightforward show rotates rate
+orbital period identity l dt m r d used convert time integral angular integral figure expression angular brackets hr represents perturbing potential averaged one full period averaged one full passage body around orbit mathematically time average corresponds following quantity curly braces averaging helps suppress fluctuations rate rotation
+approach used help verify einsteins theory general relativity adds small effective inversecubic perturbation normal newtonian gravitational potential
+inserting function integral using equation
+express r terms precession rate periapsis caused nonnewtonian perturbation calculated
+closely matches observed anomalous precession mercury binary pulsars agreement experiment strong evidence general relativity
+poisson brackets
+algebraic structure problem explained later sections three components li angular momentum vector l poisson brackets
+ijs fully antisymmetric tensor ie levicivita symbol summation index used avoid confusion force parameter k defined poisson brackets extended quantum mechanical commutation relations next section lie brackets following section
+noted scaled laplacerungelenz vector d may defined units angular momentum dividing poisson brackets d angular momentum vector l written similar form
+poisson brackets d depend sign e ie whether total energy e negative producing closed elliptical orbits inversesquare central force positive producing open hyperbolic orbits inversesquare central force negative energies ie bound systems poisson brackets
+whereas positive energy poisson brackets opposite sign
+casimir invariants negative energies
+vanishing poisson brackets components d l
+c trivially zero since two vectors always perpendicular
+however invariant c nontrivial depends m k e upon canonical quantization invariant allows energy levels hydrogenlike atoms derived using quantum mechanical canonical commutation relations instead conventional solution schrdinger equation
+quantum mechanics hydrogen atom
+poisson brackets provide simple guide quantizing classical systems commutation relation two quantum mechanical operators specified poisson bracket corresponding classical variables multiplied
+carrying quantization calculating eigenvalues c casimir operator kepler problem wolfgang pauli able derive energy levels hydrogenlike atoms figure thus atomic emission spectrum elegant derivation obtained development schrdinger equation
+subtlety quantum mechanical operator lrl vector momentum angular momentum operators commute hence quantum operator cross product p l must defined carefully typically operators cartesian components defined using symmetrized hermitian product
+corresponding additional ladder operators l defined
+connect different eigenstates l different spin multiplets among
+normalized first casimir invariant operator quantum analog likewise defined
+h inverse hamiltonian energy operator identity operator
+applying ladder operators eigenstates mn total angular momentum azimuthal angular momentum energy operators eigenvalues first casimir operator c seen quantized n importantly dint vanishing c independent m quantum numbers making energy levels degenerate
+hence energy levels given
+coincides rydberg formula hydrogenlike atoms figure additional symmetry operators connected different multiplets among given energy c dictating n states level effect enlarged angular momentum group
+conservation symmetry
+conservation lrl vector corresponds subtle symmetry system classical mechanics symmetries continuous operations map one orbit onto another without changing energy system quantum mechanics symmetries continuous operations mix electronic orbitals energy ie degenerate energy levels conserved quantity usually associated symmetries example every central force symmetric rotation group leading conservation angular momentum l classically overall rotation system affect energy orbit quantum mechanically rotations mix spherical harmonics quantum number l without changing energy
+symmetry inversesquare central force higher subtle peculiar symmetry kepler problem results conservation angular momentum vector l lrl vector defined quantum mechanically ensures energy levels hydrogen depend angular momentum quantum numbers l m symmetry subtle however symmetry operation must take place higherdimensional space symmetries often called hidden symmetries
+classically higher symmetry kepler problem allows continuous alterations orbits preserve energy angular momentum expressed another way orbits energy different angular momentum eccentricity transformed continuously one another quantum mechanically corresponds mixing orbitals differ l m quantum numbers l p l atomic orbitals mixing cannot done ordinary threedimensional translations rotations equivalent rotation higher dimension
+negative energies ie bound systems higher symmetry group preserves length fourdimensional vectors
+vladimir fock showed quantum mechanical bound kepler problem equivalent problem free particle confined threedimensional unit sphere fourdimensional space specifically fock showed schrdinger wavefunction momentum space kepler problem stereographic projection spherical harmonics sphere rotation sphere reprojection results continuous mapping elliptical orbits without changing energy quantum mechanically corresponds mixing orbitals energy quantum number n valentine bargmann noted subsequently poisson brackets angular momentum vector l scaled lrl vector d formed lie algebra simply put six quantities d l correspond six conserved angular momenta four dimensions associated six possible simple rotations space six ways choosing two axes four conclusion imply universe threedimensional sphere merely means particular physics problem twobody problem inversesquare central forces mathematically equivalent free particle threedimensional sphere
+positive energies ie unbound scattered systems higher symmetry group preserves minkowski length vectors
+negative positiveenergy cases considered fock bargmann reviewed encyclopedically bander itzykson
+orbits centralforce systems kepler problem particular also symmetric reflection therefore groups cited full symmetry groups orbits full groups o o o respectively nevertheless connected subgroups needed demonstrate conservation angular momentum lrl vectors reflection symmetry irrelevant conservation may derived lie algebra group
+rotational symmetry four dimensions
+connection kepler problem fourdimensional rotational symmetry readily visualized let fourdimensional cartesian coordinates denoted w x y z x y z represent cartesian coordinates normal position vector r threedimensional momentum vector p associated fourdimensional vector threedimensional unit sphere
+unit vector along new waxis transformation mapping p uniquely inverted example xcomponent momentum equals
+similarly py pz words threedimensional vector p stereographic projection fourdimensional vector scaled p figure
+without loss generality may eliminate normal rotational symmetry choosing cartesian coordinates zaxis aligned angular momentum vector l momentum hodographs aligned figure centers circles yaxis since motion planar p l perpendicular pz z attention may restricted threedimensional vector w x y family apollonian circles momentum hodographs figure correspond family great circles threedimensional sphere intersect xaxis two foci x corresponding momentum hodograph foci px p great circles related simple rotation xaxis figure rotational symmetry transforms orbits energy one another however rotation orthogonal usual threedimensional rotations since transforms fourth dimension w higher symmetry characteristic kepler problem corresponds conservation lrl vector
+elegant actionangle variables solution kepler problem obtained eliminating redundant fourdimensional coordinates favor elliptic cylindrical coordinates
+sn cn dn jacobis elliptic functions
+generalizations potentials relativity
+laplacerungelenz vector also generalized identify conserved quantities apply situations
+presence uniform electric field e generalized laplacerungelenz vector
+q charge orbiting particle although conserved gives rise conserved quantity namely
+generalizing laplacerungelenz vector potentials special relativity general form written
+u r cf bertrands theorem cos angle defined
+lorentz factor may obtain conserved binormal vector b taking cross product conserved angular momentum vector
+two vectors may likewise combined conserved dyadic tensor w
+illustration lrl vector nonrelativistic isotropic harmonic oscillator calculated since force central
+angular momentum vector conserved motion lies plane
+conserved dyadic tensor written simple form
+although noted p r necessarily perpendicular
+corresponding rungelenz vector complicated
+natural oscillation frequency
+proofs laplacerungelenz vector conserved kepler problems
+following arguments showing lrl vector conserved central forces obey inversesquare law
+direct proof conservation
+central force acting particle
+function radius since angular momentum conserved central forces
+momentum triple cross product simplified using lagranges formula
+identity
+yields equation
+special case inversesquare central force equals
+therefore conserved inversesquare central forces
+shorter proof obtained using relation angular momentum angular velocity holds particle traveling plane perpendicular specifying inversesquare central forces time derivative
+last equality holds unit vector change rotation orbital velocity rotating vector thus seen difference two vectors equal time derivatives
+described lrl vector special case general conserved vector defined central forces however since central forces produce closed orbits see bertrands theorem analogous vector rarely simple definition generally multivalued function angle r
+hamiltonjacobi equation parabolic coordinates
+constancy lrl vector also derived hamiltonjacobi equation parabolic coordinates defined equations
+r represents radius plane orbit
+inversion coordinates
+separation hamiltonjacobi equation coordinates yields two equivalent equations
+constant motion subtraction reexpression terms cartesian momenta px py shows equivalent lrl vector
+noethers theorem
+connection rotational symmetry described conservation lrl vector made quantitative way noethers theorem theorem used finding constants motion states infinitesimal variation generalized coordinates physical system
+causes lagrangian vary first order total time derivative
+corresponds conserved quantity
+particular conserved lrl vector component corresponds variation coordinates
+equals xi pi ith components position momentum vectors r p respectively usual represents kronecker delta resulting firstorder change lagrangian
+substitution general formula conserved quantity yields conserved component lrl vector
+lie transformation
+noether theorem derivation conservation lrl vector elegant one drawback coordinate variation xi involves position r also momentum p equivalently velocity v drawback may eliminated instead deriving conservation using approach pioneered sophus lie specifically one may define lie transformation coordinates r time scaled different powers parameter figure
+transformation changes total angular momentum l energy e
+preserves product el therefore eccentricity e magnitude preserved may seen equation
+direction preserved well since semiaxes altered global scaling transformation also preserves keplers third law namely semiaxis period form constant ta
+alternative scalings symbols formulations
+unlike momentum angular momentum vectors p l universally accepted definition laplacerungelenz vector several different scaling factors symbols used scientific literature common definition given another common alternative divide constant mk obtain dimensionless conserved eccentricity vector
+v velocity vector scaled vector e direction magnitude equals eccentricity orbit scaled versions also possible eg dividing m alone
+p
+units angular momentum vector l rare cases sign lrl vector may reversed ie scaled common symbols lrl vector include r f j v however choice scaling symbol lrl vector affect conservation
+alternative conserved vector binormal vector b studied william rowan hamilton
+conserved points along minor semiaxis ellipse lrl vector b l cross product b l figure
+vector b denoted binormal since perpendicular l similar lrl vector binormal vector defined different scalings symbols
+two conserved vectors b combined form conserved dyadic tensor w
+arbitrary scaling constants represents tensor product related vector cross product despite similar symbol written explicit components equation reads
+perpendicular another vectors b viewed principal axes conserved tensor w ie scaled eigenvectors w perpendicular l
+since b perpendicular l well l l b clarification equation reads explicit components
+see also
+astrodynamics orbit eccentricity vector orbital elements
+bertrands theorem
+binet equation
+twobody problem
+references
+reading
+baez john mysteries gravitational body problem
+deliseo mm firstorder orbital equation american journal physics bibcodeamjphd doi
+leach pgl gp flessas generalisations laplacerungelenz vector j nonlinear math phys arxivmathph bibcodejnmpl doijnmp

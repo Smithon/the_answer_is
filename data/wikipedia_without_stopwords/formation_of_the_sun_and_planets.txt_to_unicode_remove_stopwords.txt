@@ -1,0 +1,86 @@
+magnetohydrodynamics mhd magneto fluid dynamics hydromagnetics study magnetic properties electrically conducting fluids examples magnetofluids include plasmas liquid metals salt water electrolytes word magnetohydrodynamics mhd derived magneto meaning magnetic field hydro meaning water dynamics meaning movement field mhd initiated hannes alfvn received nobel prize physics
+fundamental concept behind mhd magnetic fields induce currents moving conductive fluid turn polarizes fluid reciprocally changes magnetic field set equations describe mhd combination navierstokes equations fluid dynamics maxwells equations electromagnetism differential equations must solved simultaneously either analytically numerically
+history
+first recorded use word magnetohydrodynamics hannes alfvn
+last remarks made transfer momentum sun planets fundamental theory importance magnetohydrodynamic waves respect pointed
+ebbing salty water flowing past londons waterloo bridge interacts earths magnetic field produce potential difference two riverbanks michael faraday tried experiment current small measure equipment time river bed contributed shortcircuit signal however similar process voltage induced tide english channel measured
+ideal resistive mhd
+simplest form mhd ideal mhd assumes fluid little resistivity treated perfect conductor limit infinite magnetic reynolds number ideal mhd lenzs law dictates fluid sense tied magnetic field lines explain ideal mhd small ropelike volume fluid surrounding field line continue lie along magnetic field line even twisted distorted fluid flows system sometimes referred magnetic field lines frozen fluid connection magnetic field lines fluid ideal mhd fixes topology magnetic field fluidfor example set magnetic field lines tied knot remain long fluidplasma negligible resistivity difficulty reconnecting magnetic field lines makes possible store energy moving fluid source magnetic field energy become available conditions ideal mhd break allowing magnetic reconnection releases stored energy magnetic field
+ideal mhd equations
+ideal mhd equations consist continuity equation cauchy momentum equation amperes law neglecting displacement current temperature evolution equation fluid description kinetic system closure approximation must applied highest moment particle distribution equation often accomplished approximations heat flux condition adiabaticity isothermality
+following magnetic field electric field bulk plasma velocity current density mass density plasma pressure time continuity equation
+cauchy momentum equation
+lorentz force term expanded using amperes law identity give
+first term right hand side magnetic tension force second term magnetic pressure force ideal ohms law plasma given
+faradays law
+lowfrequency amperes law neglects displacement current given
+magnetic divergence constraint
+energy equation given
+ratio specific heats adiabatic equation state energy equation course applicable absence shocks heat conduction assumes entropy fluid element change
+applicability ideal mhd plasmas
+ideal mhd strictly applicable
+plasma strongly collisional time scale collisions shorter characteristic times system particle distributions therefore close maxwellian
+resistivity due collisions small particular typical magnetic diffusion times scale length present system must longer time scale interest
+interest length scales much longer ion skin depth larmor radius perpendicular field long enough along field ignore landau damping time scales much longer ion gyration time system smooth slowly evolving
+importance resistivity
+imperfectly conducting fluid magnetic field generally move fluid following diffusion law resistivity plasma serving diffusion constant means solutions ideal mhd equations applicable limited time region given size diffusion becomes important ignore one estimate diffusion time across solar active region collisional resistivity hundreds thousands years much longer actual lifetime sunspotso would seem reasonable ignore resistivity contrast metersized volume seawater magnetic diffusion time measured milliseconds
+even physical systems large conductive enough simple estimates lundquist number suggest resistivity ignored resistivity may still important many instabilities exist increase effective resistivity plasma factors billion enhanced resistivity usually result formation small scale structure like current sheets fine scale magnetic turbulence introducing small spatial scales system ideal mhd broken magnetic diffusion occur quickly happens magnetic reconnection may occur plasma release stored magnetic energy waves bulk mechanical acceleration material particle acceleration heat
+magnetic reconnection highly conductive systems important concentrates energy time space gentle forces applied plasma long periods time cause violent explosions bursts radiation
+fluid cannot considered completely conductive conditions ideal mhd satisfied possible use extended model called resistive mhd includes extra term ohms law models collisional resistivity generally mhd computer simulations least somewhat resistive computational grid introduces numerical resistivity
+importance kinetic effects
+another limitation mhd fluid theories general depend assumption plasma strongly collisional first criterion listed time scale collisions shorter characteristic times system particle distributions maxwellian usually case fusion space astrophysical plasmas case interest smaller spatial scales may necessary use kinetic model properly accounts nonmaxwellian shape distribution function however mhd relatively simple captures many important properties plasma dynamics often qualitatively accurate therefore often first model tried
+effects essentially kinetic captured fluid models include double layers landau damping wide range instabilities chemical separation space plasmas electron runaway case ultrahigh intensity laser interactions incredibly short timescales energy deposition mean hydrodynamic codes fail capture essential physics
+structures mhd systems
+many mhd systems electric current compressed thin nearlytwodimensional ribbons termed current sheets divide fluid magnetic domains inside currents relatively weak current sheets solar corona thought meters kilometers thickness quite thin compared magnetic domains thousands hundreds thousands kilometers across another example earths magnetosphere current sheets separate topologically distinct domains isolating earths ionosphere solar wind
+waves
+wave modes derived using mhd plasma theory called magnetohydrodynamic waves mhd waves general three mhd wave modes
+pure oblique alfvn wave
+slow mhd wave
+fast mhd wave
+waves constant phase velocities frequencies hence dispersion limits angle wave propagation vector k magnetic field b either degrees wave modes called
+phase velocity depends angle wave vector k magnetic field b mhd wave propagating arbitrary angle respect time independent bulk field satisfy dispersion relation
+alfvn speed branch corresponds shear alfvn mode additionally dispersion equation giveswhereis ideal gas sound speed plus branch corresponds fastmhd wave mode minus branch corresponds slowmhd wave mode
+mhd oscillations damped fluid perfectly conducting finite conductivity viscous effects present
+mhd waves oscillations popular tool remote diagnostics laboratory astrophysical plasmas eg corona sun coronal seismology
+extensions
+resistive
+resistive mhd describes magnetized fluids finite electron diffusivity diffusivity leads breaking magnetic topology magnetic field lines reconnect collide usually term small reconnections handled thinking dissimilar shocks process shown important earthsolar magnetic interactions
+extended
+extended mhd describes class phenomena plasmas higher order resistive mhd adequately treated single fluid description include effects hall physics electron pressure gradients finite larmor radii particle gyromotion electron inertia
+twofluid
+twofluid mhd describes plasmas include nonnegligible hall electric field result electron ion momenta must treated separately description closely tied maxwells equations evolution equation electric field exists
+hall
+m j lighthill criticized applicability ideal resistive mhd theory plasmas concerned neglect hall current term frequent simplification made magnetic fusion theory hallmagnetohydrodynamics hmhd takes account electric field description magnetohydrodynamics important difference absence field line breaking magnetic field tied electrons bulk fluid
+collisionless
+mhd also often used collisionless plasmas case mhd equations derived vlasov equation
+reduced
+using multiscale analysis resistive mhd equations reduced set four closed scalar equations allows eg efficient numerical calculations
+applications
+geophysics
+beneath earths mantle lies core made two parts solid inner core liquid outer core significant quantities iron liquid outer core moves presence magnetic field eddies set due coriolis effect eddies develop magnetic field boosts earths original magnetic fielda process selfsustaining called geomagnetic dynamo
+based mhd equations glatzmaier paul roberts made supercomputer model earths interior running simulations thousands years virtual time changes earths magnetic field studied simulation results good agreement observations simulations correctly predicted earths magnetic field flips every hundred thousands years flips magnetic field vanish altogetherit gets complicated
+earthquakes
+monitoring stations reported earthquakes sometimes preceded spike ulf activity remarkable example occurred loma prieta earthquake california although subsequent study indicates little sensor malfunction december geoscientists announced demeter satellite observed dramatic increase ulf radio waves haiti month magnitude mw earthquake researchers attempting learn correlation find whether method used part early warning system earthquakes
+astrophysics cosmology
+mhd applies quite well astrophysics cosmology since baryonic matter content universe made plasma including stars interplanetary medium space planets interstellar medium space stars intergalactic medium nebulae jets many astrophysical systems local thermal equilibrium therefore require additional kinematic treatment describe phenomena within system see astrophysical plasma
+sunspots caused suns magnetic fields joseph larmor theorized solar wind also governed mhd differential solar rotation may longterm effect magnetic drag poles sun mhd phenomenon due parker spiral shape assumed extended magnetic field sun
+previously theories describing formation sun planets could explain sun mass yet angular momentum solar system closed system cloud gas dust sun formed mass angular momentum conserved conservation would imply mass concentrated center cloud form sun would spin faster much like skater pulling arms high speed rotation predicted early theories would flung protosun apart could formed however magnetohydrodynamic effects transfer suns angular momentum outer solar system slowing rotation
+breakdown ideal mhd form magnetic reconnection known cause solar flares largest explosions solar system magnetic field solar active region sunspot become quite stressed time storing energy released suddenly burst motion xrays radiation main current sheet collapses reconnecting field
+paper kohli haslam includes detailed summary work done studying primordial magnetic fields cosmological context part summary displayed
+magnetic fields thought play major role early universe well known inflation early universe good conductor even though number density free electrons dropped dramatically recombination residual value enough maintain high conductivity baryonic matter result cosmic magnetic fields remained frozen expanding baryonic fluid evolution one analyze magnetic effects dynamics early universe ideal magnetohydrodynamics hereafter referred mhd magnetic field source considered perfect conductor energy momentum tensor ordinary magnetic field
+hughston jacobs showed case pure magnetic field bianchi types ii vi type iii vii admit field components whereas types iv v vi vii viii ix admit field components results led number papers bianchi models perfectfluid magnetic field source
+respect dynamical systems approach applied latter leblanc studied bianchi type ii magnetic cosmologies provided analysis future past asymptotic states resulting dynamical system leblanc also studied asymptotic states magnetic perfectfluid bianchi type cosmologies paper new solution einstein field equations discovered using phase plane analysis techniques c b collins studied behaviour class perfectfluid anisotropic cosmological models established correspondence magnetic models bianchi type perfect fluid models bianchi type ii addition leblanc kerr wainwright studied asymptotic states magnetic bianchi type vi cosmologies work showed finite probability arbitrarily selected model close isotropy time interval evolution note barrow maartens tsagas significant work reformulation covariant description magnetohydrodynamic equations provided understanding clarity role largevale electromagnetic fields perturbed friedmannlemaitrerobertsonwalker models
+viscous mhd bianchi models special interest regards earlyuniverse cosmologies presented literature number occasions van leeuwen salvati studied dynamics general bianchi class models containing magnetoviscous fluid largescale magnetic field banerjee sanyal presented exact solutions bianchi types iii cosmological models consisting viscous fluid axial magnetic field benton tupper studied bianchi type models powersoft metric influence viscous fluid magnetic field salvati schelling van leeuwen numerically analyzed evolution bianchi type universe viscous fluid largescale magnetic field ribeiro sanyal studied bianchi type viscous fluid cosmology axial magnetic field obtained exact solutions einstein field equations assuming linear relations among square root matter density shear expansion scalars work kohli haslam also gives detailed analysis based dynamical systems theory evolution bianchi type model presence viscous fluid also discovered new solution einstein field equations
+sensors
+magnetohydrodynamic sensors used precision measurements angular velocities inertial navigation systems aerospace engineering accuracy improves size sensor sensor capable surviving harsh environments
+engineering
+mhd related engineering problems plasma confinement liquidmetal cooling nuclear reactors electromagnetic casting among others
+magnetohydrodynamic drive mhd propulsor method propelling seagoing vessels using electric magnetic fields moving parts using magnetohydrodynamics working principle involves electrification propellant gas water directed magnetic field pushing vehicle opposite direction although working prototypes exist mhd drives remain impractical
+first prototype kind propulsion built tested steward way professor mechanical engineering university california santa barbara way leave job westinghouse electric assigned senioryear undergraduate students develop submarine new propulsion system early mitsubishi built boat yamato used magnetohydrodynamic drive incorporating superconductor cooled liquid helium could travel kmh
+mhd power generation fueled potassiumseeded coal combustion gas showed potential efficient energy conversion absence solid moving parts allows operation higher temperatures failed due costprohibitive technical difficulties one major engineering problem failure wall primarycoal combustion chamber due abrasion
+microfluidics mhd studied fluid pump producing continuous nonpulsating flow complex microchannel design
+magnetic drug targeting
+important task cancer research developing precise methods delivery medicine affected areas one method involves binding medicine biologically compatible magnetic particles eg ferrofluids guided target via careful placement permanent magnets external body magnetohydrodynamic equations finite element analysis used study interaction magnetic fluid particles bloodstream external magnetic field
+see also
+notes
+references

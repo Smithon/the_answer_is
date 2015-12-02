@@ -1,0 +1,198 @@
+moment inertia otherwise known angular mass rotational inertia rigid body determines torque needed desired angular acceleration rotational axis depends bodys mass distribution axis chosen larger moments requiring torque change bodys rotation extensive additive property moment inertia composite system sum moments inertia component subsystems taken axis one definitions second moment mass respect distance axis r integrating entire mass
+bodies constrained rotate plane sufficient consider moment inertia axis perpendicular plane bodies free rotate three dimensions moments described symmetric matrix body set mutually perpendicular principal axes matrix diagonal torques around axes act independently
+introductionedit
+body rotating free rotate around axis torque must applied change angular momentum amount torque needed given rate change angular momentum proportional moment inertia body moment inertia may expressed terms kilogramsquare metres kgm si units poundsquare feet lbmft imperial us units
+moment inertia plays role rotational kinetics mass inertia plays linear kinetics characterize resistance body changes motion moment inertia depends mass distributed around axis rotation vary depending chosen axis pointlike mass moment inertia axis given dm d distance axis m mass extended body moment inertia sum small pieces mass multiplied square distances axis question extended body regular shape uniform density summation sometimes produces simple expression depends dimensions shape total mass object
+christiaan huygens introduced parameter study oscillation body hanging pivot known compound pendulum term moment inertia introduced leonhard euler book theoria motus corporum solidorum seu rigidorum incorporated eulers second law
+natural frequency oscillation compound pendulum obtained ratio torque imposed gravity mass pendulum resistance acceleration defined moment inertia comparison natural frequency simple pendulum consisting single point mass provides mathematical formulation moment inertia extended body
+moment inertia also appears momentum kinetic energy newtons laws motion rigid body physical parameter combines shape mass interesting difference way moment inertia appears planar spatial movement planar movement single scalar defines moment inertia spatial movement calculations yield matrix moments inertia called inertia matrix inertia tensor
+moment inertia rotating flywheel used machine resist variations applied torque smooth rotational output moment inertia airplane longitudinal horizontal vertical axes determines steering forces control surfaces wings elevators tail affect plane roll pitch yaw
+definitionedit
+moment inertia defined ratio angular momentum l system angular velocity around principal axis
+angular momentum system constant moment inertia gets smaller angular velocity must increase occurs spinning figure skaters pull outstretched arms divers move straight position tuck position dive
+shape body change moment inertia appears newtons law motion ratio applied torque body angular acceleration around principal axis
+simple pendulum definition yields formula moment inertia terms mass m pendulum distance r pivot point
+thus moment inertia depends mass m body geometry shape defined distance r axis rotation
+simple formula generalizes define moment inertia arbitrarily shaped body sum elemental point masses dm multiplied square perpendicular distance r axis
+general given object mass m effective radius k defined axis center mass value moment inertia
+k known radius gyration
+simple pendulumedit
+moment inertia measured using simple pendulum resistance rotation caused gravity mathematically moment inertia pendulum ratio torque due gravity pivot pendulum angular acceleration pivot point simple pendulum found product mass particle m square distance r pivot
+shown follows force gravity mass simple pendulum generates torque around axis perpendicular plane pendulum movement r distance vector perpendicular force torque axis f tangential component net force mass associated torque angular acceleration string mass around axis since mass constrained circle tangential acceleration mass since torque equation becomes
+e unit vector perpendicular plane pendulum second last step occurs baccab rule using fact always perpendicular r quantity mr moment inertia single mass around pivot point
+quantity mr also appears angular momentum simple pendulum calculated velocity v r pendulum mass around pivot angular velocity mass pivot point angular momentum given
+using math similar used derive previous equation
+similarly kinetic energy pendulum mass defined velocity pendulum around pivot yield
+shows quantity mr mass combines shape body define rotational inertia moment inertia arbitrarily shaped body sum values mr elements mass body
+compound pendulumedit
+compound pendulum body formed assembly particles continuous shape rotates rigidly around pivot moment inertia sum moments inertia particles composed natural frequency compound pendulum depends moment inertia
+mass object local acceleration gravity distance pivot point centre mass object measuring frequency oscillation small angular displacements provides effective way measuring moment inertia body
+thus determine moment inertia body simply suspend convenient pivot point swings freely plane perpendicular direction desired moment inertia measure natural frequency period oscillation obtain
+period duration oscillation usually averaged multiple periods
+moment inertia body centre mass calculated using parallel axis theorem
+mass body distance pivot point centre mass
+moment inertia body often defined terms radius gyration radius ring equal mass around centre mass body moment inertia radius gyration calculated bodys moment inertia mass length
+center oscillationedit
+simple pendulum natural frequency compound pendulum defines length pivot point called centre oscillation compound pendulum point also corresponds centre percussion length determined formula
+seconds pendulum provides tick tock grandfather clock takes one second swing sidetoside period two seconds natural frequency radianssecond pendulum case distance center oscillation computed
+notice distance center oscillation seconds pendulum must adjusted accommodate different values local acceleration gravity katers pendulum compound pendulum uses property measure local acceleration gravity called gravimeter
+measuring moment inertiaedit
+moment inertia complex systems vehicle airplane around vertical axis measured suspending system three points form trifilar pendulum trifilar pendulum platform supported three wires designed oscillate torsion around vertical centroidal axis period oscillation trifilar pendulum yields moment inertia system
+calculating moment inertia axisedit
+moment inertia axis body calculated summing mr every particle body r perpendicular distance specified axis see moment inertia arises study movement extended body convenient consider rigid assembly point masses equation used axes principal axes provided understood fully describe moment inertia
+consider kinetic energy assembly n masses mi lie distances ri pivot point p nearest point axis rotation sum kinetic energy individual masses
+shows moment inertia body sum mr terms
+thus moment inertia physical property combines mass distribution particles around rotation axis notice rotation different axes body yield different moments inertia
+moment inertia continuous body rotating specified axis calculated way summation replaced integral
+r radius vector point body specified axis pivot p r mass density point r integration evaluated volume v body moment inertia flat surface similar mass density replaced areal mass density integral evaluated area
+note second moment area moment inertia body moving plane second moment area beams crosssection often confused moment inertia body shape crosssection second moment area zaxis perpendicular crosssection weighted density also called polar moment area sum second moments x y axes stresses beam calculated using second moment crosssectional area around either xaxis yaxis depending load
+example calculation moment inertiaedit
+moment inertia compound pendulum constructed thin disc mounted end thin rod oscillates around pivot end rod begins calculation moment inertia thin rod thin disc respective centres mass
+moment inertia thin rod constant crosssection density length l perpendicular axis centre mass determined integration align xaxis rod locate origin centre mass centre rod
+m mass rod
+moment inertia thin disc constant thickness radius r density axis centre perpendicular face parallel axis rotational symmetry determined integration align zaxis axis disc define volume element dv sr drd
+m rs mass
+moment inertia compound pendulum obtained adding moment inertia rod disc around pivot point p
+l length pendulum notice parallel axis theorem used shift moment inertia centre mass pivot point pendulum
+list moments inertia formulas standard body shapes provides way obtain moment inertial complex body assembly simpler shaped bodies parallel axis theorem used shift reference point individual bodies reference point assembly
+one example consider moment inertia solid sphere constant density axis centre mass determined summing moments inertia thin discs form sphere surface ball defined equation
+radius r disc crosssection z along zaxis
+therefore moment inertia ball sum moments inertia discs along zaxis
+m r mass ball
+moment inertia planar movement rigid bodyedit
+mechanical system constrained move parallel fixed plane rotation body system occurs around axis k perpendicular plane case moment inertia mass system scalar known polar moment inertia definition polar moment inertia obtained considering momentum kinetic energy newtons laws planar movement rigid system particles
+system n particles pi n assembled rigid body momentum system written terms positions relative reference point r absolute velocities vi
+angular velocity system v velocity r
+planar movement angular velocity vector directed along unit vector k perpendicular plane movement introduce unit vectors ei reference point r point ri unit vector ti k ei
+defines relative position vector velocity vector rigid system particles moving plane
+note cross product body moves parallel ground plane trajectories points body lie planes parallel ground plane means rotation body undergoes must around axis perpendicular plane planar movement often presented projected onto ground plane axis rotation appears point case angular velocity angular acceleration body scalars fact vectors along rotation axis ignored usually preferred introductions topic case moment inertia combination mass geometry benefits geometric properties cross product reason section planar movement angular velocity accelerations body vectors perpendicular ground plane cross product operations used study spatial rigid body movement
+angular momentum planar movementedit
+angular momentum vector planar movement rigid system particles given
+use centre mass c reference point
+define moment inertia relative centre mass ic
+equation angular momentum simplifies
+moment inertia ic axis perpendicular movement rigid system centre mass known polar moment inertia
+given amount angular momentum decrease moment inertia results increase angular velocity figure skaters change moment inertia pulling arms thus angular velocity achieved skater outstretched arms results greater angular velocity arms pulled reduced moment inertia
+kinetic energy planar movementedit
+kinetic energy rigid system particles moving plane given
+equation expands yield three terms
+let reference point centre mass c system second term becomes zero introduce moment inertia ic kinetic energy given
+moment inertia ic polar moment inertia body
+newtons laws planar movementedit
+newtons laws rigid system n particles pi n written terms resultant force torque reference point r yield
+ri denotes trajectory particle
+kinematics rigid body yields formula acceleration particle pi terms position r acceleration reference particle well angular velocity vector angular acceleration vector rigid system particles
+systems constrained planar movement angular velocity angular acceleration vectors directed along k perpendicular plane movement simplifies acceleration equation case acceleration vectors simplified introducing unit vectors ei reference point r point ri unit vectors ti k ei
+yields resultant torque system
+ei ei ei ti k unit vector perpendicular plane particles pi
+use centre mass c reference point define moment inertia relative centre mass ic equation resultant torque simplifies
+parameter ic polar moment inertia moving body
+inertia matrix spatial movement rigid bodyedit
+scalar moments inertia appear elements matrix system particles assembled rigid body moves threedimensional space inertia matrix appears calculation angular momentum kinetic energy resultant torque rigid system particles
+important application inertia matrix newtons laws motion analysis spinning top discussed article gyroscopic precession detailed presentation found article eulers equations motion
+let system particles pi n located coordinates ri velocities vi relative fixed reference frame possibly moving reference point r relative positions
+absolute velocities
+angular velocity system vr velocity r
+angular momentumedit
+reference point r assembly body chosen centre mass c angular momentum takes form
+terms containing vr sum zero definition centre mass
+define inertia matrix let us first note skewsymmetric matrix b could constructed vector b performs cross product operation
+matrix b components b bx bybz elements form
+construct skewsymmetric matrix ri ric obtained relative position vector riri c use skewsymmetric matrix define
+ic defined
+symmetric inertia matrix rigid system particles measured relative centre mass c
+kinetic energyedit
+kinetic energy rigid system particles formulated terms centre mass matrix mass moments inertia system let system particles pi n located coordinates ri velocities vi kinetic energy
+ri ric position vector particle relative centre mass
+equation expands yield three terms
+second term equation zero c centre mass introduce skewsymmetric matrix ri kinetic energy becomes
+thus kinetic energy rigid system particles given
+ic inertia matrix relative centre mass m total mass
+resultant torqueedit
+inertia matrix appears application newtons second law rigid assembly particles resultant torque system
+ai acceleration particle pi kinematics rigid body yields formula acceleration particle pi terms position r acceleration reference point well angular velocity vector angular acceleration vector rigid system
+use centre mass c reference point introduce skewsymmetric matrix riric represent cross product ri cx obtain
+calculation uses identity
+obtained jacobi identity triple cross product shown proof
+thus resultant torque rigid system particles given
+ic inertia matrix relative centre mass
+parallel axis theoremedit
+inertia matrix body depends choice reference point useful relationship inertia matrix relative centre mass c inertia matrix relative another point r relationship called parallel axis theorem
+consider inertia matrix ir obtained rigid system particles measured relative reference point r given
+let c centre mass rigid system
+d vector centre mass c reference point r use equation compute inertia matrix
+expand equation obtain
+first term inertia matrix ic relative centre mass second third terms zero definition centre mass c last term total mass system multiplied square skewsymmetric matrix d constructed d
+result parallel axis theorem
+d vector centre mass c reference point r
+note minus sign using skew symmetric matrix position vectors relative reference point inertia matrix particle form mr similar mr appears planar movement however make work correctly minus sign needed minus sign absorbed term mrtr desired using skewsymmetry property r
+inertia matrix scalar moment inertia around arbitrary axisedit
+scalar moment inertia il body specified axis whose direction specified unit vector passes body point r follows
+ir moment inertia matrix system relative reference point r
+derived follows let rigid assembly n particles pi n coordinates ri choose r reference point compute moment inertia around axis l defined unit vector reference point r moment inertia system around line lrts computed determining perpendicular vector axis particle pi given
+identity matrix st outer product matrix formed unit vector along line l
+relate scalar moment inertia inertia matrix body introduce skewsymmetric matrix sys x y identity
+relies fact unit vector
+magnitude squared perpendicular vector
+simplification equation uses identity
+dot cross products interchanged expand cross products compute
+ri skew symmetric matrix obtained vector rrir
+thus moment inertia around line l r direction obtained calculation
+ir moment inertia matrix system relative reference point r
+shows inertia matrix used calculate moment inertia body around specified rotation axis body
+inertia tensoredit
+inertia matrix often described inertia tensor consists moments inertia products inertia three coordinate axes inertia tensor constructed nine component tensors symbol tensor product
+ei three orthogonal unit vectors defining inertial frame body moves using basis inertia tensor given
+tensor degree two component tensors constructed two basis vectors form inertia tensor also called inertia binor
+rigid system particles pk k n mass mk position coordinates rkxk yk zk inertia tensor given
+e identity tensor
+inertia tensor continuous body given
+r defines coordinates point body r mass density point integral taken volume v body inertia tensor symmetric iij iji
+alternatively also written terms hat operator
+inertia tensor used way inertia matrix compute scalar moment inertia arbitrary axis direction n
+dot product taken corresponding elements component tensors product inertia term obtained computation
+interpreted moment inertia around xaxis object rotates around yaxis
+components tensors degree two assembled matrix inertia tensor matrix given
+common rigid body mechanics use notation explicitly identifies x y z axes ixx ixy components inertia tensor
+identities skewsymmetric matrixedit
+compute moment inertia mass around axis perpendicular vector mass axis needed axis l defined unit vector reference point r perpendicular vector line l point r given
+identity matrix st outer product matrix formed unit vector along line l recall skewsymmetric matrix constructed sys x y matrix isst equation subtracts component rrr parallel
+previous sections show computing moment inertia matrix operator yields similar operator using components vector r
+helpful keep following identities mind compare equations define inertia tensor inertia matrix
+let r skew symmetric matrix associated position vector rx y z product inertia matrix becomes
+viewed another way computing perpendicular distance axis point matrix formed outer product r rt yields identify
+x identity matrix
+also notice
+tr denotes sum diagonal elements outer product matrix known trace
+inertia matrix different reference framesedit
+use inertia matrix newtons second law assumes components computed relative axes parallel inertial frame relative bodyfixed reference frame means body moves components inertia matrix change time contrast components inertia matrix measured bodyfixed frame constant
+body frame inertia matrixedit
+let body frame inertia matrix relative centre mass denoted icb define orientation body frame relative inertial frame rotation matrix
+vectors y body fixed coordinate frame coordinates x inertial frame inertia matrix body measured inertial frame given
+notice changes body moves icb remains constant
+principal axesedit
+measured body frame inertia matrix constant real symmetric matrix real symmetric matrix eigendecomposition product rotation matrix q diagonal matrix given
+columns rotation matrix q define directions principal axes body constants called principal moments inertia result first shown j j sylvester form sylvesters law inertia
+bodies constant density axis rotational symmetry principal axis
+inertia ellipsoidedit
+moment inertia matrix bodyframe coordinates quadratic form defines surface body called poinsots ellipsoid let inertia matrix relative centre mass aligned principal axes surface
+defines ellipsoid body frame write equation form
+see semiprincipal diameters ellipsoid given
+let point x ellipsoid defined terms magnitude direction xxn n unit vector relationship presented inertia matrix scalar moment inertia around axis direction n yields
+thus magnitude point x direction n inertia ellipsoid
+see alsoedit
+central moment
+instant centre rotation
+list moments inertia
+list moment inertia tensors
+rotational energy
+stretch rule
+tire balance
+referencesedit
+external linksedit
+angular momentum rigidbody rotation two three dimensions
+lecture notes rigidbody rotation moments inertia
+moment inertia tensor
+introductory lesson moment inertia keeping vertical pole falling java simulation
+tutorial finding moments inertia problems solutions various basic shapes
+notes mechanics manipulation angular inertia tensor

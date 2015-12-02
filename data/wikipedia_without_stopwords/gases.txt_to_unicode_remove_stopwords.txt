@@ -1,0 +1,110 @@
+gas one four fundamental states matter others solid liquid plasma pure gas may made individual atoms eg noble gas like neon elemental molecules made one type atom eg oxygen compound molecules made variety atoms eg carbon dioxide gas mixture would contain variety pure gases much like air distinguishes gas liquids solids vast separation individual gas particles separation usually makes colorless gas invisible human observer interaction gas particles presence electric gravitational fields considered negligible indicated constant velocity vectors image one type commonly known gas steam
+gaseous state matter found liquid plasma states latter provides upper temperature boundary gases bounding lower end temperature scale lie degenerative quantum gases gaining increasing attention highdensity atomic gases super cooled incredibly low temperatures classified statistical behavior either bose gas fermi gas comprehensive listing exotic states matter see list states matter
+elemental gasesedit
+chemical elements stable multi atom homonuclear molecules standard temperature pressure stp hydrogen h nitrogen n oxygen o plus two halogens fluorine f chlorine cl gases grouped together monatomic noble gases helium neon ne argon ar krypton kr xenon xe radon rn called elemental gases alternatively sometimes known molecular gases distinguish molecules also chemical compounds
+etymologyedit
+word gas neologism first used early thcentury flemish chemist jb van helmont van helmonts word appears simply phonetic transcription greek word chaos g dutch pronounced like ch loch case van helmont simply following established alchemical usage first attested works paracelsus according paracelsuss terminology chaos meant something like ultrararefied water
+alternative story van helmonts word corrupted gahst geist signifying ghost spirit certain gases suggested supernatural origin ability cause death extinguish flames occur mines bottom wells churchyards lonely places
+physical characteristicsedit
+gases difficult observe directly described use four physical properties macroscopic characteristics pressure volume number particles chemists group moles temperature four characteristics repeatedly observed scientists robert boyle jacques charles john dalton joseph gaylussac amedeo avogadro variety gases various settings detailed studies ultimately led mathematical relationship among properties expressed ideal gas law see simplified models section
+gas particles widely separated one another consequently weaker intermolecular bonds liquids solids intermolecular forces result electrostatic interactions gas particles likecharged areas different gas particles repel oppositely charged regions different gas particles attract one another gases contain permanently charged ions known plasmas gaseous compounds polar covalent bonds contain permanent charge imbalances experience relatively strong intermolecular forces although molecule compounds net charge remains neutral transient randomly induced charges exist across nonpolar covalent bonds molecules electrostatic interactions caused referred van der waals forces interaction intermolecular forces varies within substance determines many physical properties unique gas comparison boiling points compounds formed ionic covalent bonds leads us conclusion drifting smoke particles image provides insight low pressure gas behavior
+compared states matter gases low density viscosity pressure temperature influence particles within certain volume variation particle separation speed referred compressibility particle separation size influences optical properties gases found following list refractive indices finally gas particles spread apart diffuse order homogeneously distribute throughout container
+macroscopicedit
+observing gas typical specify frame reference length scale larger length scale corresponds macroscopic global point view gas region referred volume must sufficient size contain large sampling gas particles resulting statistical analysis sample size produces average behavior ie velocity temperature pressure gas particles within region contrast smaller length scale corresponds microscopic particle point view
+macroscopically gas characteristics measured either terms gas particles velocity pressure temperature surroundings volume example robert boyle studied pneumatic chemistry small portion career one experiments related macroscopic properties pressure volume gas experiment used jtube manometer looks like test tube shape letter j boyle trapped inert gas closed end test tube column mercury thereby making number particles temperature constant observed pressure increased gas adding mercury column trapped gas volume decreased known inverse relationship furthermore boyle multiplied pressure volume observation product constant relationship held every gas boyle observed leading law pvk named honor work field
+many mathematical tools available analyzing gas properties gases subjected extreme conditions tools become bit complex euler equations inviscid flow navierstokes equations fully account viscous effects equations adapted conditions gas system question boyles lab equipment allowed use algebra obtain analytical results results possible studying gases relatively low pressure situations behaved ideal manner ideal relationships apply safety calculations variety flight conditions materials use high technology equipment use today designed help us safely explore exotic operating environments gases longer behave ideal manner advanced math including statistics multivariable calculus makes possible solution complex dynamic situations space vehicle reentry example analysis space shuttle reentry pictured ensure material properties loading condition appropriate flight regime gas longer behaving ideally
+pressureedit
+symbol used represent pressure equations p p si units pascals
+describing container gas term pressure absolute pressure refers average force per unit area gas exerts surface container within volume sometimes easier visualize gas particles moving straight lines collide container see diagram top article force imparted gas particle container collision change momentum particle collision normal component velocity changes particle traveling parallel wall change momentum therefore average force surface must average change linear momentum gas particle collisions
+pressure sum normal components force exerted particles impacting walls container divided surface area wall
+temperatureedit
+symbol used represent temperature equations si units kelvins
+speed gas particle proportional absolute temperature volume balloon video shrinks trapped gas particles slow addition extremely cold nitrogen temperature physical system related motions particles molecules atoms make gas system statistical mechanics temperature measure average kinetic energy stored particle methods storing energy dictated degrees freedom particle energy modes kinetic energy added endothermic process gas particles way collisions produces linear rotational vibrational motion contrast molecule solid increase vibrational modes addition heat lattice crystal structure prevents linear rotational motions heated gas molecules greater speed range constantly varies due constant collisions particles speed range described maxwellboltzmann distribution use distribution implies ideal gases near thermodynamic equilibrium system particles considered
+specific volumeedit
+symbol used represent specific volume equations v si units cubic meters per kilogram
+symbol used represent volume equations v si units cubic meters
+performing thermodynamic analysis typical speak intensive extensive properties properties depend amount gas either mass volume called extensive properties properties depend amount gas called intensive properties specific volume example intensive property ratio volume occupied unit mass gas identical throughout system equilibrium atoms gas occupy space atoms given temperature pressure concept easier visualize solids iron incompressible compared gases since gas fills container placed volume extensive property
+densityedit
+symbol used represent density equations rho si units kilograms per cubic meter term reciprocal specific volume
+since gas molecules move freely within container mass normally characterized density density amount mass per unit volume substance inverse specific volume gases density vary wide range particles free move closer together constrained pressure volume variation density referred compressibility like pressure temperature density state variable gas change density process governed laws thermodynamics static gas density throughout entire container density therefore scalar quantity shown kinetic theory density inversely proportional size container fixed mass gas confined case fixed mass density decreases volume increases
+microscopicedit
+one could observe gas powerful microscope one would see collection particles molecules atoms ions electrons etc without definite shape volume less random motion neutral gas particles change direction collide another particle sides container ideal gas collisions perfectly elastic particle microscopic view gas described kineticmolecular theory assumptions behind theory found postulates section kinetic theory
+kinetic theoryedit
+kinetic theory provides insight macroscopic properties gases considering molecular composition motion starting definitions momentum kinetic energy one use conservation momentum geometric relationships cube relate macroscopic system properties temperature pressure microscopic property kinetic energy per molecule theory provides averaged values two properties
+theory also explains gas system responds change example gas heated absolute zero theory perfectly still internal energy temperature increased gas heated particles speed temperature rises results greater numbers collisions container per unit time due higher particle speeds associated elevated temperatures pressure increases proportion number collisions per unit time
+brownian motionedit
+brownian motion mathematical model used describe random movement particles suspended fluid gas particle animation using pink green particles illustrates behavior results spreading gases entropy events also described particle theory
+since limit beyond current technology observe individual gas particles atoms molecules theoretical calculations give suggestions move motion different brownian motion brownian motion involves smooth drag due frictional force many gas molecules punctuated violent collisions individual several gas molecules particle particle generally consisting millions billions atoms thus moves jagged course yet jagged would expected individual gas molecule examined
+intermolecular forcesedit
+discussed earlier momentary attractions repulsions particles effect gas dynamics physical chemistry name given intermolecular forces van der waals force forces play key role determining physical properties gas viscosity flow rate see physical characteristics section ignoring forces certain conditions see kineticmolecular theory allows real gas treated like ideal gas assumption allows use ideal gas laws greatly simplifies calculations
+proper use gas relationships requires kineticmolecular theory kmt gas particles possess magnetic charge intermolecular force gradually influence one another spacing reduced hydrogen bond model illustrates one example absence charge point spacing gas particles greatly reduced longer avoid collisions normal gas temperatures another case increased collisions among gas particles would include fixed volume gas upon heating would contain fast particles means ideal equations provide reasonable results except extremely high pressure compressible high temperature ionized conditions notice excepted conditions allow energy transfer take place within gas system absence internal transfers referred ideal conditions energy exchange occurs boundaries system real gases experience collisions intermolecular forces collisions statistically negligible incompressible results ideal equations still meaningful gas particles compressed close proximity behave like liquid see fluid dynamics
+simplified modelsedit
+equation state gases mathematical model used roughly describe predict state properties gas present single equation state accurately predicts properties gases conditions therefore number much accurate equations state developed gases specific temperature pressure ranges gas models widely discussed perfect gas ideal gas real gas models set assumptions facilitate analysis given thermodynamic system successive model expands temperature range coverage applies
+ideal perfect gas modelsedit
+equation state ideal perfect gas ideal gas law reads
+p pressure v volume n amount gas mol units r universal gas constant jmol k temperature written way sometimes called chemists version since emphasizes number molecules n also written
+specific gas constant particular gas units jkg k mv density notation gas dynamicists version practical modeling gas flows involving acceleration without chemical reactions
+ideal gas law make assumption specific heat gas general case specific heat function temperature pressure pressuredependence neglected possibly temperaturedependence well particular application sometimes gas said perfect gas although exact assumptions may vary depending author andor field science
+ideal gas ideal gas law applies without restrictions specific heat ideal gas simplified real gas assumption compressibility factor z set meaning pneumatic ratio remains constant compressibility factor one also requires four state variables follow ideal gas law
+approximation suitable applications engineering although simpler models used produce ballpark range real solution lie example ideal gas approximation would suitable would inside combustion chamber jet engine may also useful keep elementary reactions chemical dissociations calculating emissions
+real gasedit
+one assumptions listed adds complexity problems solution density gas increases rising pressure intermolecular forces play substantial role gas behavior results ideal gas law longer providing reasonable results upper end engine temperature ranges eg combustor sections k complex fuel particles absorb internal energy means rotations vibrations cause specific heats vary diatomic molecules noble gases double temperature electronic excitation dissociation gas particles begins occur causing pressure adjust greater number particles transition gas plasma finally thermodynamic processes presumed describe uniform gases whose velocities varied according fixed distribution using nonequilibrium situation implies flow field must characterized manner enable solution one first attempts expand boundaries ideal gas law include coverage different thermodynamic processes adjusting equation read pvn constant varying n different values specific heat ratio
+real gas effects include adjustments made account greater range gas behavior
+compressibility effects z allowed vary
+variable heat capacity specific heats vary temperature
+van der waals forces related compressibility substitute equations state
+nonequilibrium thermodynamic effects
+issues molecular dissociation elementary reactions variable composition
+applications detailed analysis excessive examples real gas effects would significant impact would space shuttle reentry extremely high temperatures pressures present gases produced geological events image eruption mount redoubt
+historical synthesisedit
+boyles lawedit
+boyles law perhaps first expression equation state robert boyle performed series experiments employing jshaped glass tube sealed one end mercury added tube trapping fixed quantity air short sealed end tube volume gas carefully measured additional mercury added tube pressure gas could determined difference mercury level short end tube long open end image boyles equipment shows exotic tools used boyle study gases
+experiments boyle noted pressure exerted gas held constant temperature varies inversely volume gas example volume halved pressure doubled volume doubled pressure halved given inverse relationship pressure volume product pressure p volume v constant k given mass confined gas long temperature constant stated formula thus
+volumes pressures fixed amount gas temperatures equal constant k related equation
+charless lawedit
+french physicist balloon pioneer jacques charles found oxygen nitrogen hydrogen carbon dioxide air expand extent kelvin interval noted ideal gas constant pressure volume directly proportional temperature
+gaylussacs lawedit
+joseph louis gaylussac published results similar though extensive experiments gaylussac credited charles earlier work naming law honor gaylussac credited law describing pressure found states pressure exerted containers sides ideal gas proportional temperature
+avogadros lawedit
+amedeo avogadro verified equal volumes pure gases contain number particles theory generally accepted another italian chemist stanislao cannizzaro able explain nonideal exceptions work gases century prior number bears name avogadros constant represents number atoms found grams elemental carbon mol specific number gas particles standard temperature pressure ideal gas law occupies liters referred molar volume
+avogadros law states volume occupied ideal gas proportional number moles molecules present container gives rise molar volume gas stp dm litres relation given
+n equal number moles gas number molecules divided avogadros number
+daltons lawedit
+john dalton published law partial pressures work ideal gas law relationship pressure mixture non reactive gases equal sum pressures constituent gases alone mathematically represented n species
+pressuretotal pressure pressure pressuren
+image daltons journal depicts symbology used shorthand record path followed among key journal observations upon mixing unreactive elastic fluids gases following
+unlike liquids heavier gases drift bottom upon mixing
+gas particle identity played role determining final pressure behaved size negligible
+special topicsedit
+compressibilityedit
+thermodynamicists use factor z alter ideal gas equation account compressibility effects real gases factor represents ratio actual ideal specific volumes sometimes referred fudgefactor correction expand useful range ideal gas law design purposes usually z value close unity compressibility factor image illustrates z varies range cold temperatures
+reynolds numberedit
+fluid mechanics reynolds number ratio inertial forces vs viscous forces l one important dimensionless numbers fluid dynamics used usually along dimensionless numbers provide criterion determining dynamic similitude reynolds number provides link modeling results design fullscale actual conditions also used characterize flow
+viscosityedit
+viscosity physical property measure well adjacent molecules stick one another solid withstand shearing force due strength sticky intermolecular forces fluid continuously deform subjected similar load gas lower value viscosity liquid still observable property gases viscosity would stick surface wing form boundary layer study delta wing schlieren image reveals gas particles stick one another see boundary layer section
+turbulenceedit
+fluid dynamics turbulence turbulent flow flow regime characterized chaotic stochastic property changes includes low momentum diffusion high momentum convection rapid variation pressure velocity space time satellite view weather around robinson crusoe islands illustrates one example
+boundary layeredit
+particles effect stick surface object moving layer particles called boundary layer surface object essentially static due friction surface object boundary layer effectively new shape object rest molecules see object approaches boundary layer separate surface essentially creating new surface completely changing flow path classical example stalling airfoil delta wing image clearly shows boundary layer thickening gas flows right left along leading edge
+maximum entropy principleedit
+total number degrees freedom approaches infinity system found macrostate corresponds highest multiplicity order illustrate principle observe skin temperature frozen metal bar using thermal image skin temperature note temperature distribution surface initial observation temperature represents microstate future time second observation skin temperature produces second microstate continuing observation process possible produce series microstates illustrate thermal history bars surface characterization historical series microstates possible choosing macrostate successfully classifies single grouping
+thermodynamic equilibriumedit
+energy transfer ceases system condition referred thermodynamic equilibrium usually condition implies system surroundings temperature heat longer transfers also implies external forces balanced volume change chemical reactions within system complete timeline varies events depending system question container ice allowed melt room temperature takes hours semiconductors heat transfer occurs device transition state could order nanoseconds
+see alsoedit
+quasisolid
+greenhouse gas
+natural gas
+volcanic gas
+breathing
+wind
+notesedit
+referencesedit
+anderson john d fundamentals aerodynamics mcgrawhill higher education isbn
+john james gas dynamics allyn bacon isbn
+mcpherson william henderson william elementary study chemistry
+readingedit
+philip hill carl peterson mechanics thermodynamics propulsion second edition addisonwesley isbn
+national aeronautics space administration nasa animated gas lab accessed february
+georgia state university hyperphysics accessed february
+antony lewis wordweb accessed february
+northwestern michigan college gaseous state accessed february

@@ -1,0 +1,34 @@
+in thermal physics and thermodynamics the heat capacity ratio or adiabatic index or ratio of specific heats or poisson constant is the ratio of the heat capacity at constant pressure () to heat capacity at constant volume () it is sometimes also known as the isentropic expansion factor and is denoted by (gamma)(for ideal gas) or (kappa)(isentropic exponent for real gas) the former symbol gamma is primarily used by chemical engineers mechanical engineers use the roman letter 
+where is the heat capacity and the specific heat capacity (heat capacity per unit mass) of a gas suffix and refer to constant pressure and constant volume conditions respectively
+to understand this relation consider the following thought experiment a closed pneumatic cylinder contains air the piston is locked the pressure inside is equal to atmospheric pressure this cylinder is heated to a certain target temperature since the piston cannot move the volume is constant the temperature and pressure will rise when the target temperature is reached the heating is stopped the amount of energy added equals:  with representing the change in temperature the piston is now freed and moves outwards stopping as the pressure inside the chamber equilibrates to atmospheric pressure we are free to assume the expansion happens fast enough to occur without exchange of heat (adiabatic expansion) doing this work air inside the cylinder will cool to below the target temperature to return to the target temperature (still with a free piston) the air must be heated but is no longer under constant pressure since the piston is free to move as the gas is reheated this extra heat amounts to about 40% more than the previous amount added in this example the amount of heat added with a locked piston is proportional to  whereas the total amount of heat added is proportional to  therefore the heat capacity ratio in this example is 1.4
+another way of understanding the difference between and is that applies if work is done to the system which causes a change in volume (e.g by moving a piston so as to compress the contents of a cylinder) or if work is done by the system which changes its temperature (e.g heating the gas in a cylinder to cause a piston to move) applies only if - that is the work done - is zero consider the difference between adding heat to the gas with a locked piston and adding heat with a piston free to move so that pressure remains constant in the second case the gas will both heat and expand causing the piston to do mechanical work on the atmosphere the heat that is added to the gas goes only partly into heating the gas while the rest is transformed into the mechanical work performed by the piston in the first constant-volume case (locked piston) there is no external motion and thus no mechanical work is done on the atmosphere; is used in the second case additional work is done as the volume changes so the amount of heat required to raise the gas temperature (the specific heat capacity) is higher for this constant pressure case
+== ideal gas relations ==
+for an ideal gas the heat capacity is constant with temperature accordingly we can express the enthalpy as and the internal energy as  thus it can also be said that the heat capacity ratio is the ratio between the enthalpy to the internal energy:
+furthermore the heat capacities can be expressed in terms of heat capacity ratio ( ) and the gas constant ( ):
+where is the amount of substance in moles
+it can be rather difficult to find tabulated information for  since is more commonly tabulated the following relation can be used to determine :
+=== relation with degrees of freedom ===
+the heat capacity ratio ( ) for an ideal gas can be related to the degrees of freedom ( ) of a molecule by:
+thus we observe that for a monatomic gas with three degrees of freedom:
+while for a diatomic gas with five degrees of freedom (at room temperature: three translational and two rotational degrees of freedom; the vibrational degree of freedom is not involved except at high temperatures):
+e.g.: the terrestrial air is primarily made up of diatomic gases (~78% nitrogen (n2) and ~21% oxygen (o2)) and at standard conditions it can be considered to be an ideal gas the above value of 1.4 is highly consistent with the measured adiabatic indices for dry air within a temperature range of 0 to 200 c exhibiting a deviation of only 0.2% (see tablation above)
+== real gas relations ==
+as temperature increases higher energy rotational and vibrational states become accessible to molecular gases thus increasing the number of degrees of freedom and lowering  for a real gas both and increase with increasing temperature while continuing to differ from each other by a fixed constant (as above = ) which reflects the relatively constant difference in work done during expansion for constant pressure vs constant volume conditions thus the ratio of the two values  decreases with increasing temperature for more information on mechanisms for storing heat in gases see the gas section of specific heat capacity
+== thermodynamic expressions ==
+values based on approximations (particularly ) are in many cases not sufficiently accurate for practical engineering calculations such as flow rates through pipes and valves an experimental value should be used rather than one based on this approximation where possible a rigorous value for the ratio can also be calculated by determining from the residual properties expressed as:
+values for are readily available and recorded but values for need to be determined via relations such as these see here for the derivation of the thermodynamic relations between the heat capacities
+the above definition is the approach used to develop rigorous expressions from equations of state (such as pengrobinson) which match experimental values so closely that there is little need to develop a database of ratios or values values can also be determined through finite difference approximation
+== adiabatic process ==
+this ratio gives the important relation for an isentropic (quasistatic reversible adiabatic process) process of a simple compressible calorically perfect ideal gas:
+where is the pressure and is the volume
+== see also ==
+heat capacity
+specific heat capacity
+speed of sound
+thermodynamic equations
+thermodynamics
+volumetric heat capacity
+== references ==
+^ white frank m.: fluid mechanics 4th ed mcgraw hill
+^ lange's handbook of chemistry 10th ed page 1524
+^ fox r. a mcdonald p pritchard: introduction to fluid mechanics 6th ed wiley

@@ -1,0 +1,49 @@
+d computer graphics d modeling modelling process developing mathematical representation threedimensional surface object either inanimate living via specialized software product called d model displayed twodimensional image process called d rendering used computer simulation physical phenomena model also physically created using d printing devices
+models may created automatically manually manual modeling process preparing geometric data d computer graphics similar plastic arts sculpting
+d modeling software class d computer graphics software used produce d models individual programs class called modeling applications modelers
+models
+d models represent physical body using collection points d space connected various geometric entities triangles lines curved surfaces etc collection data points information d models created hand algorithmically procedural modeling scanned
+d models widely used anywhere d graphics actually use predates widespread use d graphics personal computers many computer games used prerendered images d models sprites computers could render realtime
+today d models used wide variety fields medical industry uses detailed models organs may created multiple d image slices mri ct scan movie industry uses characters objects animated reallife motion pictures video game industry uses assets computer video games science sector uses highly detailed models chemical compounds architecture industry uses demonstrate proposed buildings landscapes software architectural models engineering community uses designs new devices vehicles structures well host uses recent decades earth science community started construct d geological models standard practice d models also basis physical devices built d printers cnc machines
+representation
+almost d models divided two categories
+solid models define volume object represent like rock realistic difficult build solid models mostly used nonvisual simulations medical engineering simulations cad specialized visual applications ray tracing constructive solid geometry
+shellboundary models represent surface eg boundary object volume like infinitesimally thin eggshell easier work solid models almost visual models used games film shell models
+appearance object depends largely exterior object boundary representations common computer graphics two dimensional surfaces good analogy objects used graphics though quite often objects nonmanifold since surfaces finite discrete digital approximation required polygonal meshes lesser extent subdivision surfaces far common representation although pointbased representations gaining popularity recent years level sets useful representation deforming surfaces undergo many topological changes fluids
+process transforming representations objects middle point coordinate sphere point circumference polygon representation sphere called tessellation step used polygonbased rendering objects broken abstract representations primitives spheres cones etc socalled meshes nets interconnected triangles meshes triangles instead eg squares popular proven easy render using scanline rendering polygon representations used rendering techniques cases tessellation step included transition abstract representation rendered scene
+modeling process
+three popular ways represent model
+polygonal modeling points d space called vertices connected line segments form polygon mesh vast majority d models today built textured polygonal models flexible computers render quickly however polygons planar approximate curved surfaces using many polygons
+curve modeling surfaces defined curves influenced weighted control points curve follows necessarily interpolate points increasing weight point pull curve closer point curve types include nonuniform rational bspline nurbs splines patches geometric primitives
+digital sculpting still fairly new method modeling d sculpting become popular years around currently types digital sculpting displacement widely used among applications moment volumetric dynamic tessellation displacement uses dense model often generated subdivision surfaces polygon control mesh stores new locations vertex positions use bit image map stores adjusted locations volumetric based loosely voxels similar capabilities displacement suffer polygon stretching enough polygons region achieve deformation dynamic tesselation similar voxel divides surface using triangulation maintain smooth surface allow finer details methods allow artistic exploration model new topology created models form possibly details sculpted new mesh usually original high resolution mesh information transferred displacement data normal map data game engine
+modeling stage consists shaping individual objects later used scene number modeling techniques including
+constructive solid geometry
+implicit surfaces
+subdivision surfaces
+modeling performed means dedicated program eg cinema d formz maya ds max blender lightwave modo solidthinking application component shaper lofter ds max scene description language povray cases strict distinction phases cases modeling part scene creation process case example caligari truespace realsoft d
+complex materials blowing sand clouds liquid sprays modeled particle systems mass d coordinates either points polygons texture splats sprites assigned
+compared d methods
+d photorealistic effects often achieved without wireframe modeling sometimes indistinguishable final form graphic art software includes filters applied d vector graphics d raster graphics transparent layers
+advantages wireframe d modeling exclusively d methods include
+flexibility ability change angles animate images quicker rendering changes
+ease rendering automatic calculation rendering photorealistic effects rather mentally visualizing estimating
+accurate photorealism less chance human error misplacing overdoing forgetting include visual effect
+disadvantages compare d photorealistic rendering may include software learning curve difficulty achieving certain photorealistic effects photorealistic effects may achieved special rendering filters included d modeling software best worlds artists use combination d modeling followed editing d computerrendered images d model
+d model market
+large market d models well drelated content textures scripts etc still exists either individual models large collections online marketplaces d content turbosquid thedstudio dexport creativecrash cgtrader flatpyramid nonecg cgpeoplenetwork design connected daz d allow individual artists sell content created often artists goal get additional value assets previously created projects artists earn money old content companies save money buying premade models instead paying employee create one scratch marketplaces typically split sale artist created asset artists get sales according marketplace cases artist retains ownership d model customer buys right use present model artists sell products directly stores offering products lower price using intermediaries
+last several years numerous marketplaces specialized d printing models emerged d printing marketplaces combination models sharing sites without built ecom capability platforms also offer d printing services demand software model rendering dynamic viewing items etc among popular d printing file sharing platforms shapeways pinshape thingiverse dexport cgtrader threeding myminifactory grabcad
+d printing
+d printing form additive manufacturing technology three dimensional object created laying successive layers material
+recent years upsurge number companies offering personalised d printed models objects scanned rendered three dimensions computer software printed customers requirements previously mentioned d models purchased online marketplaces printed individuals companies using commercially available d printers enabling homeproduction objects spare parts even medical equipment
+human models
+first widely available commercial application human virtual models appeared lands end web site human virtual models created company virtual mode inc enabled users create model try d clothing several modern programs allow creation virtual human models poser one example
+uses
+d modeling used various industries like films animation gaming interior designing architecture also used medical industry interactive representations anatomy wide number d software also used constructing digital representation mechanical models parts actually manufactured cadcam related software used fields software construct parts also assemble observe functionality
+d modelling also used field industrial design wherein products d modeled representing clients media event industries d modelling used stageset design
+see also
+references
+external links
+d works explains d modeling illuminated manuscript
+build first d object tutorial explains model objects print
+manuscripts lichfield cathedral includes interactive d renderings pages st chad gospels high resolution
+stark john experience development use cadcam system elsevier doi

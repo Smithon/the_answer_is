@@ -1,0 +1,23 @@
+mutation genetic operator used maintain genetic diversity one generation population genetic algorithm chromosomes next analogous biological mutation mutation alters one gene values chromosome initial state mutation solution may change entirely previous solution hence ga come better solution using mutation mutation occurs evolution according userdefinable mutation probability probability set low set high search turn primitive random search
+classic example mutation operator involves probability arbitrary bit genetic sequence changed original state common method implementing mutation operator involves generating random variable bit sequence random variable tells whether particular bit modified mutation procedure based biological point mutation called single point mutation types inversion floating point mutation gene encoding restrictive permutation problems mutations swaps inversions scrambles
+purpose mutation gas preserving introducing diversity mutation allow algorithm avoid local minima preventing population chromosomes becoming similar thus slowing even stopping evolution reasoning also explains fact ga systems avoid taking fittest population generating next rather random semirandom selection weighting toward fitter
+different genome types different mutation types suitable
+bit string mutation
+mutation bit strings ensue bit flips random positions
+example
+probability mutation bit length binary vector thus mutation rate per mutation individual selected mutation reached
+flip bit
+mutation operator takes chosen genome inverts bits ie genome bit changed vice versa
+boundary
+mutation operator replaces genome either lower upper bound randomly used integer float genes
+nonuniform
+probability amount mutation go next generation increased using nonuniform mutation operator keeps population stagnating early stages evolution tunes solution later stages evolution mutation operator used integer float genes
+uniform
+operator replaces value chosen gene uniform random value selected userspecified upper lower bounds gene mutation operator used integer float genes
+gaussian
+operator adds unit gaussian distributed random value chosen gene falls outside userspecified lower upper bounds gene new gene value clipped mutation operator used integer float genes
+see also
+genetic algorithms
+references
+bibliography
+john holland adaptation natural artificial systems university michigan press ann arbor michigan isbn

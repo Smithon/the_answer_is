@@ -1,0 +1,122 @@
+electrical impedance measure opposition circuit presents current voltage applied
+quantitative terms complex ratio voltage current alternating current ac circuit impedance extends concept resistance ac circuits possesses magnitude phase unlike resistance magnitude circuit driven direct current dc distinction impedance resistance latter thought impedance zero phase angle
+necessary introduce concept impedance ac circuits two additional impeding mechanisms taken account besides normal resistance dc circuits induction voltages conductors selfinduced magnetic fields currents inductance electrostatic storage charge induced voltages conductors capacitance impedance caused two effects collectively referred reactance forms imaginary part complex impedance whereas resistance forms real part
+symbol impedance usually z may represented writing magnitude phase form z however cartesian complex number representation often powerful circuit analysis purposes
+term impedance coined oliver heaviside july arthur kennelly first represent impedance complex numbers
+impedance defined frequency domain ratio voltage current words voltagecurrent ratio single complex exponential particular frequency general impedance complex number units resistance si unit ohm sinusoidal current voltage input polar form complex impedance relates amplitude phase voltage current particular
+magnitude complex impedance ratio voltage amplitude current amplitude
+phase complex impedance phase shift current lags voltage
+reciprocal impedance admittance ie admittance currenttovoltage ratio conventionally carries units siemens formerly called mhos
+complex impedanceedit
+impedance represented complex quantity term complex impedance may used interchangeably
+polar form conveniently captures magnitude phase characteristics
+magnitude represents ratio voltage difference amplitude current amplitude argument commonly given symbol gives phase difference voltage current imaginary unit used instead context avoid confusion symbol electric current
+cartesian form impedance defined
+real part impedance resistance imaginary part reactance
+needed add subtract impedances cartesian form convenient quantities multiplied divided calculation becomes simpler polar form used circuit calculation finding total impedance two impedances parallel may require conversion forms several times calculation conversion forms follows normal conversion rules complex numbers
+ohms lawedit
+meaning electrical impedance understood substituting ohms law
+magnitude impedance acts like resistance giving drop voltage amplitude across impedance given current phase factor tells us current lags voltage phase ie time domain current signal shifted later respect voltage signal
+impedance extends ohms law cover ac circuits results dc circuit analysis voltage division current division thvenins theorem nortons theorem also extended ac circuits replacing resistance impedance
+complex voltage currentedit
+order simplify calculations sinusoidal voltage current waves commonly represented complexvalued functions time denoted
+impedance defined ratio quantities
+substituting ohms law
+noting must hold may equate magnitudes phases obtain
+magnitude equation familiar ohms law applied voltage current amplitudes second equation defines phase relationship
+validity complex representationedit
+representation using complex exponentials may justified noting eulers formula
+realvalued sinusoidal function representing either voltage current may broken two complexvalued functions principle superposition may analyse behaviour sinusoid lefthand side analysing behaviour two complex terms righthand side given symmetry need perform analysis one righthand term results identical end calculation may return realvalued sinusoids noting
+phasorsedit
+phasor constant complex number usually expressed exponential form representing complex amplitude magnitude phase sinusoidal function time phasors used electrical engineers simplify computations involving sinusoids often reduce differential equation problem algebraic one
+impedance circuit element defined ratio phasor voltage across element phasor current element determined relative amplitudes phases voltage current identical definition ohms law given recognising factors cancel
+device examplesedit
+impedance ideal resistor purely real referred resistive impedance
+case voltage current waveforms proportional phase
+ideal inductors capacitors purely imaginary reactive impedance
+impedance inductors increases frequency increases
+impedance capacitors decreases frequency increases
+cases applied sinusoidal voltage resulting current also sinusoidal quadrature degrees phase voltage however phases opposite signs inductor current lagging capacitor current leading
+note following identities imaginary unit reciprocal
+thus inductor capacitor impedance equations rewritten polar form
+magnitude gives change voltage amplitude given current amplitude impedance exponential factors give phase relationship
+deriving devicespecific impedancesedit
+follows derivation impedance three basic circuit elements resistor capacitor inductor although idea extended define relationship voltage current arbitrary signal derivations assume sinusoidal signals since arbitrary signal approximated sum sinusoids fourier analysis
+resistoredit
+resistor relation
+ohms law
+considering voltage signal
+follows
+says ratio ac voltage amplitude alternating current ac amplitude across resistor ac voltage leads current across resistor degrees
+result commonly expressed
+capacitoredit
+capacitor relation
+considering voltage signal
+follows
+thus
+says ratio ac voltage amplitude ac current amplitude across capacitor ac voltage lags ac current across capacitor degrees ac current leads ac voltage across capacitor degrees
+result commonly expressed polar form
+applying eulers formula
+inductoredit
+inductor relation
+time considering current signal
+follows
+thus
+says ratio ac voltage amplitude ac current amplitude across inductor ac voltage leads ac current across inductor degrees
+result commonly expressed polar form
+using eulers formula
+generalised splane impedanceedit
+impedance defined terms j strictly applied circuits driven steadystate ac signal concept impedance extended circuit energised arbitrary signal using complex frequency instead j complex frequency given symbol general complex number signals expressed terms complex frequency taking laplace transform time domain expression signal impedance basic circuit elements general notation follows
+dc circuit simplifies steadystate sinusoidal ac signal j
+resistance vs reactanceedit
+resistance reactance together determine magnitude phase impedance following relations
+many applications relative phase voltage current critical magnitude impedance significant
+resistanceedit
+resistance real part impedance device purely resistive impedance exhibits phase shift voltage current
+reactanceedit
+reactance imaginary part impedance component finite reactance induces phase shift voltage across current
+purely reactive component distinguished sinusoidal voltage across component quadrature sinusoidal current component implies component alternately absorbs energy circuit returns energy circuit pure reactance dissipate power
+capacitive reactanceedit
+capacitor purely reactive impedance inversely proportional signal frequency capacitor consists two conductors separated insulator also known dielectric
+low frequencies capacitor open circuit charge flows dielectric
+dc voltage applied across capacitor causes charge accumulate one side electric field due accumulated charge source opposition current potential associated charge exactly balances applied voltage current goes zero
+driven ac supply capacitor accumulate limited amount charge potential difference changes sign charge dissipates higher frequency less charge accumulate smaller opposition current
+inductive reactanceedit
+inductive reactance proportional signal frequency inductance
+inductor consists coiled conductor faradays law electromagnetic induction gives back emf voltage opposing current due rateofchange magnetic flux density current loop
+inductor consisting coil loops gives
+backemf source opposition current flow constant direct current zero rateofchange sees inductor shortcircuit typically made material low resistivity alternating current timeaveraged rateofchange proportional frequency causes increase inductive reactance frequency
+total reactanceedit
+total reactance given
+total impedance
+combining impedancesedit
+total impedance many simple networks components calculated using rules combining impedances series parallel rules identical used combining resistances except numbers general complex numbers general case however equivalent impedance transforms addition series parallel required
+series combinationedit
+components connected series current circuit element total impedance sum component impedances
+explicitly real imaginary terms
+parallel combinationedit
+components connected parallel voltage across circuit element ratio currents two elements inverse ratio impedances
+hence inverse total impedance sum inverses component impedances
+n
+equivalent impedance calculated terms equivalent series resistance reactance
+measurementedit
+estimating frequency response dynamic system impedance requires measuring impedance response input signal excitation form impulse function sweeping frequency sine wave excitation bandwidth interest applying spreadspectrum signal generated particular bandwidth many measurement methods choose measuring impedance advantages disadvantages
+timevarying impedanceedit
+using system identification methods possible identify impedance uncertainty bounds measurement input output signals particular linear timeinvariant lti system theory permits user identify subset systems linear timeinvariant behavior measurement window applications impedance exhibits nonlinear timevarying behavior measurement window eg cardiac impedance corrosion studies cumbersome deal require use timevariant system identification theory tools
+see alsoedit
+bioelectrical impedance analysis
+characteristic impedance
+electrical characteristics dynamic loudspeakers
+high impedance
+immittance
+impedance bridging
+impedance cardiography
+impedance matching
+negative impedance converter
+resistance distance
+impedance control
+referencesedit
+external linksedit
+explaining impedance
+antenna impedance
+ece review circuits lti systems brief explanation laplacedomain circuit analysis includes definition impedance

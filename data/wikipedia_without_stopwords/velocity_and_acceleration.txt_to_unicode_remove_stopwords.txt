@@ -1,0 +1,20 @@
+angular displacement body angle radians degrees revolutions point line rotated specified sense specified axis object rotates axis motion cannot simply analyzed particle since circular motion undergoes changing velocity acceleration time dealing rotation object becomes simpler consider body rigid body generally considered rigid separations particles remains constant throughout objects motion example parts mass flying realistic sense things deformable however impact minimal negligible thus rotation rigid body fixed axis referred rotational motion
+exampleedit
+example illustrated right mobile versions particle object p fixed distance r origin o rotating counterclockwise becomes important represent position particle p terms polar coordinates r particular example value changing value radius remains rectangular coordinates x y x y vary time particle moves along circle travels arc length becomes related angular position relationship
+measurements angular displacementedit
+angular displacement may measured radians degrees using radians provides simple relationship distance traveled around circle distance r centre
+example object rotates degrees around circle radius r angular displacement given distance traveled around circumference r divided radius easily simplifies therefore revolution radians
+object travels point p point q illustration left radius circle goes around change angle equals angular displacement
+three dimensionsedit
+three dimensions angular displacement entity direction magnitude direction specifies axis rotation always exists virtue eulers rotation theorem magnitude specifies rotation radians axis using righthand rule determine direction
+despite direction magnitude angular displacement vector obey commutative law addition
+matrix notationedit
+given frame space described rotation matrix displacement among also described rotation matrix two matrices angular displacement matrix obtained
+referencesedit
+kleppner daniel kolenkow robert introduction mechanics mcgrawhill pp
+see alsoedit
+second moment area
+linear elasticity
+infinitesimal rotation
+angular distance
+angular velocity

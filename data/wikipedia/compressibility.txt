@@ -1,0 +1,42 @@
+in thermodynamics and fluid mechanics compressibility is a measure of the relative volume change of a fluid or solid as a response to a pressure (or mean stress) change
+where v is volume and p is pressure
+== definitionedit ==
+the specification above is incomplete because for any object or system the magnitude of the compressibility depends strongly on whether the process is adiabatic or isothermal accordingly isothermal compressibility is defined:
+where the subscript t indicates that the partial differential is to be taken at constant temperature
+isentropic compressibility is defined:
+where s is entropy for a solid the distinction between the two is usually negligible
+the minus sign makes the compressibility positive in the (usual) case that an increase in pressure induces a reduction in volume
+=== relation to speed of soundedit ===
+the speed of sound is defined in classical mechanics as:
+where is the density of the material it follows by replacing partial derivatives that the isentropic compressibility can be expressed as:
+=== relation to bulk modulusedit ===
+the inverse of the compressibility is called the bulk modulus often denoted k (sometimes b) that page also contains some examples for different materials
+the compressibility equation relates the isothermal compressibility (and indirectly the pressure) to the structure of the liquid
+== thermodynamicsedit ==
+the term "compressibility" is also used in thermodynamics to describe the deviance in the thermodynamic properties of a real gas from those expected from an ideal gas the compressibility factor is defined as
+where p is the pressure of the gas t is its temperature and is its molar volume in the case of an ideal gas the compressibility factor z is equal to unity and the familiar ideal gas law is recovered:
+z can in general be either greater or less than unity for a real gas
+the deviation from ideal gas behavior tends to become particularly significant (or equivalently the compressibility factor strays far from unity) near the critical point or in the case of high pressure or low temperature in these cases a generalized compressibility chart or an alternative equation of state better suited to the problem must be utilized to produce accurate results
+a related situation occurs in hypersonic aerodynamics where dissociation causes an increase in the notational molar volume because a mole of oxygen as o2 becomes 2 moles of monatomic oxygen and n2 similarly dissociates to 2n since this occurs dynamically as air flows over the aerospace object it is convenient to alter z defined for an initial 30 gram mole of air rather than track the varying mean molecular weight millisecond by millisecond this pressure dependent transition occurs for atmospheric oxygen in the 2500 k to 4000 k temperature range and in the 5000 k to 10,000 k range for nitrogen
+in transition regions where this pressure dependent dissociation is incomplete both beta (the volume/pressure differential ratio) and the differential constant pressure heat capacity will greatly increase
+for moderate pressures above 10,000 k the gas further dissociates into free electrons and ions z for the resulting plasma can similarly be computed for a mole of initial air producing values between 2 and 4 for partially or singly ionized gas each dissociation absorbs a great deal of energy in a reversible process and this greatly reduces the thermodynamic temperature of hypersonic gas decelerated near the aerospace object ions or free radicals transported to the object surface by diffusion may release this extra (non-thermal) energy if the surface catalyzes the slower recombination process
+the isothermal compressibility is related to the isentropic (or adiabatic) compressibility by the relation
+via maxwell's relations more simply stated
+where
+is the heat capacity ratio see here for a derivation
+== earth scienceedit ==
+compressibility is used in the earth sciences to quantify the ability of a soil or rock to reduce in volume with applied pressure this concept is important for specific storage when estimating groundwater reserves in confined aquifers geologic materials are made up of two portions: solids and voids (or same as porosity) the void space can be full of liquid or gas geologic materials reduces in volume only when the void spaces are reduced which expel the liquid or gas from the voids this can happen over a period of time resulting in settlement
+it is an important concept in geotechnical engineering in the design of certain structural foundations for example the construction of high-rise structures over underlying layers of highly compressible bay mud poses a considerable design constraint and often leads to use of driven piles or other innovative techniques
+== fluid dynamicsedit ==
+the degree of compressibility of a fluid has strong implications for its dynamics most notably the propagation of sound is dependent on the compressibility of the medium
+=== aeronautical dynamicsedit ===
+compressibility is an important factor in aerodynamics at low speeds the compressibility of air is not significant in relation to aircraft design but as the airflow nears and exceeds the speed of sound a host of new aerodynamic effects become important in the design of aircraft these effects often several of them at a time made it very difficult for world war ii era aircraft to reach speeds much beyond 800 km/h (500 mph)
+many effects are often mentioned in conjunction with the term "compressibility" but regularly have little to do with the compressible nature of air from a strictly aerodynamic point of view the term should refer only to those side-effects arising as a result of the changes in airflow from an incompressible fluid (similar in effect to water) to a compressible fluid (acting as a gas) as the speed of sound is approached there are two effects in particular wave drag and critical mach
+== negative compressibilityedit ==
+in general the bulk compressibility (sum of the linear compressibilities on the three axes) is positive i.e an increase in pressure squeezes the material to a smaller volume this condition is required for mechanical stability however under very specific conditions the compressibility can be negative
+== see alsoedit ==
+poisson ratio
+mach number
+prandtl-glauert singularity associated with supersonic flight
+shear strength
+== referencesedit ==

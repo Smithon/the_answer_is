@@ -1,0 +1,132 @@
+the hardyweinberg principle also known as the hardyweinberg equilibrium model theorem or law states that allele and genotype frequencies in a population will remain constant from generation to generation in the absence of other evolutionary influences these influences include mate choice mutation selection genetic drift gene flow and meiotic drive because one or more of these influences are typically present in real populations the hardyweinberg principle describes an ideal condition against which the effects of these influences can be analyzed
+in the simplest case of a single locus with two alleles denoted a and a with frequencies f(a) = p and f(a) = q respectively the expected genotype frequencies are f(aa) = p2 for the aa homozygotes f(aa) = q2 for the aa homozygotes and f(aa) = 2pq for the heterozygotes the genotype proportions p2 2pq and q2 are called the hardyweinberg proportions note that the sum of all genotype frequencies of this case is the binomial expansion of the square of the sum of p and q and such a sum as it represents the total of all possibilities must be equal to 1 therefore (p + q)2 = p2 + 2pq + q2 = 1 a solution of this equation is q = 1 p
+if union of gametes to produce the next generation is random it can be shown that the new frequency f satisfies and  that is allele frequencies are constant between generations
+this principle was named after g h hardy and wilhelm weinberg who first demonstrated it mathematically
+== derivation ==
+consider a population of monoecious diploids where each organism produces male and female gametes at equal frequency and has two alleles at each gene locus organisms reproduce by random union of gametes (the gene pool population model) a locus in this population has two alleles a and a that occur with initial frequencies f0(a) = p and f0(a) = q respectively the allele frequencies at each generation are obtained by pooling together the alleles from each genotype of the same generation according to the expected contribution from the homozygote and heterozygote genotypes which are 1 and 1/2 respectively:
+the different ways to form genotypes for the next generation can be shown in a punnett square where the proportion of each genotype is equal to the product of the row and column allele frequencies from the current generation
+the sum of the entries is p2 + 2pq + q2 = 1 as the genotype frequencies must sum to one
+note again that as p + q = 1 the binomial expansion of (p + q)2 = p2 + 2pq + q2 = 1 gives the same relationships
+summing the elements of the punnett square or the binomial expansion we obtain the expected genotype proportions among the offspring after a single generation:
+these frequencies define the hardyweinberg equilibrium it should be mentioned that the genotype frequencies after the first generation need not equal the genotype frequencies from the initial generation e.g f1(aa) f0(aa) however the genotype frequencies for all future times will equal the hardyweinberg frequencies e.g ft(aa) = f1(aa) for t > 1 this follows since the genotype frequencies of the next generation depend only on the allele frequencies of the current generation which as calculated by equations (1) and (2) are preserved from the initial generation:
+for the more general case of dioecious diploids [organisms are either male or female] that reproduce by random mating of individuals it is necessary to calculate the genotype frequencies from the nine possible matings between each parental genotype (aa aa and aa) in either sex weighted by the expected genotype contributions of each such mating equivalently one considers the six unique diploid-diploid combinations:
+and constructs a punnett square for each so as to calculate its contribution to the next generation's genotypes these contributions are weighted according to the probability of each diploid-diploid combination which follows a multinomial distribution with k = 3 for example the probability of the mating combination (aa,aa) is 2 ft(aa)ft(aa) and it can only result in the aa genotype: [0,1,0] overall the resulting genotype frequencies are calculated as:
+as before one can show that the allele frequencies at time t+1 equal those at time t and so are constant in time similarly the genotype frequencies depend only on the allele frequencies and so after time t=1 are also constant in time
+if in either monoecious or dioecious organisms either the allele or genotype proportions are initially unequal in either sex it can be shown that constant proportions are obtained after one generation of random mating if dioecious organisms are heterogametic and the gene locus is located on the x chromosome it can be shown that if the allele frequencies are initially unequal in the two sexes [e.g. xx females and xy males as in humans] f(a) in the heterogametic sex chases f(a) in the homogametic sex of the previous generation until an equilibrium is reached at the weighted average of the two initial frequencies
+== deviations from hardyweinberg equilibrium ==
+the seven assumptions underlying hardyweinberg equilibrium are as follows:
+organisms are diploid
+only sexual reproduction occurs
+generations are non overlapping
+mating is random
+population size is infinitely large
+allele frequencies are equal in the sexes
+there is no migration mutation or selection
+violations of the hardyweinberg assumptions can cause deviations from expectation how this affects the population depends on the assumptions that are violated
+random mating the hwp states the population will have the given genotypic frequencies (called hardyweinberg proportions) after a single generation of random mating within the population when the random mating assumption is violated the population will not have hardyweinberg proportions a common cause of non-random mating is inbreeding which causes an increase in homozygosity for all genes
+if a population violates one of the following four assumptions the population may continue to have hardyweinberg proportions each generation but the allele frequencies will change over time
+selection in general causes allele frequencies to change often quite rapidly while directional selection eventually leads to the loss of all alleles except the favored one some forms of selection such as balancing selection lead to equilibrium without loss of alleles
+mutation will have a very subtle effect on allele frequencies mutation rates are of the order 104 to 108 and the change in allele frequency will be at most the same order recurrent mutation will maintain alleles in the population even if there is strong selection against them
+migration genetically links two or more populations together in general allele frequencies will become more homogeneous among the populations some models for migration inherently include nonrandom mating (wahlund effect for example) for those models the hardyweinberg proportions will normally not be valid
+small population size can cause a random change in allele frequencies this is due to a sampling effect and is called genetic drift sampling effects are most important when the allele is present in a small number of copies
+== sex linkage ==
+where the a gene is sex linked the heterogametic sex (e.g. mammalian males; avian females) have only one copy of the gene (and are termed hemizygous) while the homogametic sex (e.g. human females) have two copies the genotype frequencies at equilibrium are p and q for the heterogametic sex but p2 2pq and q2 for the homogametic sex
+for example in humans redgreen colorblindness is an x-linked recessive trait in western european males the trait affects about 1 in 12 (q = 0.083) whereas it affects about 1 in 200 females (0.005 compared to q2 = 0.007) very close to hardyweinberg proportions
+if a population is brought together with males and females with a different allele frequency in each subpopulation (males or females) the allele frequency of the male population in the next generation will follow that of the female population because each son receives its x chromosome from its mother the population converges on equilibrium very quickly
+== generalizations ==
+the simple derivation above can be generalized for more than two alleles and polyploidy
+=== generalization for more than two alleles ===
+consider an extra allele frequency r the two-allele case is the binomial expansion of (p + q)2 and thus the three-allele case is the trinomial expansion of (p + q+ r)2
+more generally consider the alleles a1  an given by the allele frequencies p1 to pn;
+giving for all homozygotes:
+and for all heterozygotes:
+=== generalization for polyploidy ===
+the hardyweinberg principle may also be generalized to polyploid systems that is for organisms that have more than two copies of each chromosome consider again only two alleles the diploid case is the binomial expansion of:
+and therefore the polyploid case is the polynomial expansion of:
+where c is the ploidy for example with tetraploid (c = 4):
+depending on whether the organism is a 'true' tetraploid or an amphidiploid will determine how long it will take for the population to reach hardyweinberg equilibrium
+=== complete generalization ===
+for distinct alleles in -ploids the genotype frequencies in the hardyweinberg equilibrium are given by individual terms in the multinomial expansion of :
+== applications ==
+the hardyweinberg principle may be applied in two ways either a population is assumed to be in hardyweinberg proportions in which the genotype frequencies can be calculated or if the genotype frequencies of all three genotypes are known they can be tested for deviations that are statistically significant
+=== application to cases of complete dominance ===
+suppose that the phenotypes of aa and aa are indistinguishable i.e. there is complete dominance assuming that the hardyweinberg principle applies to the population then can still be calculated from f(aa):
+and can be calculated from  and thus an estimate of f(aa) and f(aa) derived from and respectively note however such a population cannot be tested for equilibrium using the significance tests below because it is assumed a priori
+== significance tests for deviation ==
+testing deviation from the hwp is generally performed using pearson's chi-squared test using the observed genotype frequencies obtained from the data and the expected genotype frequencies obtained using the hwp for systems where there are large numbers of alleles this may result in data with many empty possible genotypes and low genotype counts because there are often not enough individuals present in the sample to adequately represent all genotype classes if this is the case then the asymptotic assumption of the chi-squared distribution will no longer hold and it may be necessary to use a form of fisher's exact test which requires a computer to solve more recently a number of mcmc methods of testing for deviations from hwp have been proposed (guo & thompson 1992; wigginton et al 2005)
+=== example 2 test for deviation ===
+this data is from e.b ford (1971) on the scarlet tiger moth for which the phenotypes of a sample of the population were recorded genotype-phenotype distinction is assumed to be negligibly small the null hypothesis is that the population is in hardyweinberg proportions and the alternative hypothesis is that the population is not in hardyweinberg proportions
+from this allele frequencies can be calculated:
+and
+so the hardyweinberg expectation is:
+pearson's chi-squared test states:
+there is 1 degree of freedom (degrees of freedom for test for hardyweinberg proportions are # genotypes # alleles) the 5% significance level for 1 degree of freedom is 3.84 and since the 2 value is less than this the null hypothesis that the population is in hardyweinberg frequencies is not rejected
+=== fisher's exact test (probability test) ===
+fisher's exact test can be applied to testing for hardyweinberg proportions since the test is conditional on the allele frequencies p and q the problem can be viewed as testing for the proper number of heterozygotes in this way the hypothesis of hardyweinberg proportions is rejected if the number of heterozygotes is too large or too small the conditional probabilities for the heterozygote given the allele frequencies are given in emigh (1980) as
+where n11 n12 n22 are the observed numbers of the three genotypes aa aa and aa respectively and n1 is the number of a alleles where 
+an example using one of the examples from emigh (1980) we can consider the case where n = 100 and p = 0.34 the possible observed heterozygotes and their exact significance level is given in table 4
+using this table one must look up the significance level of the test based on the observed number of heterozygotes for example if one observed 20 heterozygotes the significance level for the test is 0.007 as is typical for fisher's exact test for small samples the gradation of significance levels is quite coarse
+however a table like this has to be created for every experiment since the tables are dependent on both n and p
+== inbreeding coefficient ==
+the inbreeding coefficient f (see also f-statistics) is one minus the observed frequency of heterozygotes over that expected from hardyweinberg equilibrium
+where the expected value from hardyweinberg equilibrium is given by
+for example for ford's data above;
+for two alleles the chi-squared goodness of fit test for hardyweinberg proportions is equivalent to the test for inbreeding f = 0
+the inbreeding coefficient is unstable as the expected value approaches zero and thus not useful for rare and very common alleles for: e = 0 o > 0 f = and e = 0 o = 0 f is undefined
+== history ==
+mendelian genetics were rediscovered in 1900 however it remained somewhat controversial for several years as it was not then known how it could cause continuous characteristics udny yule (1902) argued against mendelism because he thought that dominant alleles would increase in the population the american william e castle (1903) showed that without selection the genotype frequencies would remain stable karl pearson (1903) found one equilibrium position with values of p = q = 0.5 reginald punnett unable to counter yule's point introduced the problem to g h hardy a british mathematician with whom he played cricket hardy was a pure mathematician and held applied mathematics in some contempt; his view of biologists' use of mathematics comes across in his 1908 paper where he describes this as "very simple"
+to the editor of science: i am reluctant to intrude in a discussion concerning matters of which i have no expert knowledge and i should have expected the very simple point which i wish to make to have been familiar to biologists however some remarks of mr udny yule to which mr r c punnett has called my attention suggest that it may still be worth making
+suppose that aa is a pair of mendelian characters a being dominant and that in any given generation the number of pure dominants (aa) heterozygotes (aa) and pure recessives (aa) are as p:2q:r finally suppose that the numbers are fairly large so that mating may be regarded as random that the sexes are evenly distributed among the three varieties and that all are equally fertile a little mathematics of the multiplication-table type is enough to show that in the next generation the numbers will be as (p + q)2:2(p + q)(q + r):(q + r)2 or as p1:2q1:r1 say
+the interesting question is: in what circumstances will this distribution be the same as that in the generation before it is easy to see that the condition for this is q2 = pr and since q12 = p1r1 whatever the values of p q and r may be the distribution will in any case continue unchanged after the second generation
+the principle was thus known as hardy's law in the english-speaking world until 1943 when curt stern pointed out that it had first been formulated independently in 1908 by the german physician wilhelm weinberg william castle in 1903 also derived the ratios for the special case of equal allele frequencies and it is sometimes (but rarely) called the hardyweinbergcastle law
+=== derivation of hardy's equations ===
+the derivation of hardy's equations is illustrative he begins with a population of genotypes consisting of pure dominants (aa) heterozygotes (aa) and pure recessives (aa) in the relative proportions p:2q:r with the conditions noted above that is
+rewriting this as (p + q) + (q + r) = 1 and squaring both sides yields hardys result:
+hardys equivalence condition is
+for generations after the first
+now to prove hardy's statement: the successor generation's proportions equal  if and only if the equivalence condition holds if  then
+so the equivalence condition holds this shows equal proportions imply the equivalence condition now suppose the equivalence condition holds
+by symmetry  finally
+this shows   and  thus proportions equal this shows the equivalence condition implies the proportions equal therefore the proportions equal if and only if the equivalence condition holds as was claimed
+since the equivalence condition always holds for the second generation all succeeding generations have the same proportions
+=== numerical example ===
+an example computation of the genotype distribution given by hardy's original equations is instructive the phenotype distribution from table 3 above will be used to compute hardy's initial genotype distribution note that the p and q values used by hardy are not the same as those used above
+as checks on the distribution compute
+and
+for the next generation hardy's equations give
+again as checks on the distribution compute
+and
+which are the expected values the reader may demonstrate that subsequent use of the second-generation values for a third generation will yield identical results
+== graphical representation ==
+it is possible to represent the distribution of genotype frequencies for a bi-allelic locus within a population graphically using a de finetti diagram this uses a triangular plot (also known as trilinear triaxial or ternary plot) to represent the distribution of the three genotype frequencies in relation to each other although it differs from many other such plots in that the direction of one of the axes has been reversed
+the curved line in the above diagram is the hardyweinberg parabola and represents the state where alleles are in hardyweinberg equilibrium
+it is possible to represent the effects of natural selection and its effect on allele frequency on such graphs (e.g ineichen & batschelet 1975)
+the de finetti diagram has been developed and used extensively by a w f edwards in his book foundations of mathematical genetics
+== see also ==
+regression toward the mean
+multinomial distribution (hardyweinberg is a trinomial distribution with probabilities )
+== references ==
+== bibliography ==
+castle w e (1903) "the laws of galton and mendel and some laws governing race improvement by selection" proc amer acad arts sci 35: 233242
+crow jf (jul 1999) "hardy weinberg and language impediments" genetics 152 (3): 8215 issn 0016-6731 pmc 1460671 pmid 10388804
+edwards a.w.f 1977 foundations of mathematical genetics cambridge university press cambridge (2nd ed. 2000) isbn 0-521-77544-2
+emigh t.h (1980) "a comparison of tests for hardyweinberg equilibrium" biometrics 36 (4): 627642 doi:10.2307/2556115 jstor 2556115
+ford e.b (1971) ecological genetics london
+guo sw; thompson ea (jun 1992) "performing the exact test of hardyweinberg proportion for multiple alleles" biometrics (biometrics vol 48 no 2) 48 (2): 36172 doi:10.2307/2532296 issn 0006-341x jstor 2532296 pmid 1637966
+hardy g h (jul 1908) "mendelian proportions in a mixed population" (pdf) science 28 (706): 4950 doi:10.1126/science.28.706.49 issn 0036-8075 pmid 17779291
+ineichen robert; batschelet eduard (1975) "genetic selection and de finetti diagrams" journal of mathematical biology 2: 33 doi:10.1007/bf00276014
+masel joanna (2012) "rethinking hardyweinberg and genetic drift in undergraduate biology" bioessays 34 (8): 70110 doi:10.1002/bies.201100178 pmid 22576789
+pearson k (1903) "mathematical contributions to the theory of evolution xi on the influence of natural selection on the variability and correlation of organs" philosophical transactions of the royal society a 200 (321330): 166 doi:10.1098/rsta.1903.0001
+stern c (1943) "the hardyweinberg law" science 97 (2510): 137138 doi:10.1126/science.97.2510.137 jstor 1670409 pmid 17788516
+weinberg w (1908) "ber den nachweis der vererbung beim menschen" jahreshefte des vereins fr vaterlndische naturkunde in wrttemberg 64: 368382
+wigginton je; cutler dj; abecasis gr (may 2005) "a note on exact tests of hardyweinberg equilibrium" american journal of human genetics 76 (5): 88793 doi:10.1086/429864 issn 0002-9297 pmc 1199378 pmid 15789306
+yule g u (1902) "mendel's laws and their probable relation to intra-racial heredity" new phytol 1 (193207): 222238 doi:10.1111/j.1469-8137.1902.tb07336.x
+== external links ==
+evolutionsolution (at bottom of page)
+hardyweinberg equilibrium calculator
+genetics population genetics simulator
+hardy c implementation of guo & thompson 1992
+source code (c/c++/fortran/r) for wigginton et al 2005
+online de finetti diagram generator and hardyweinberg equilibrium tests
+online hardyweinberg equilibrium tests and drawing of de finetti diagrams
+hardyweinberg equilibrium calculator

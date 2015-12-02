@@ -1,0 +1,69 @@
+a telescope is an instrument that aids in the observation of remote objects by collecting electromagnetic radiation (such as visible light) the first known practical telescopes were invented in the netherlands at the beginning of the 17th century using glass lenses they found use in terrestrial applications and astronomy
+within a few decades the reflecting telescope was invented which used mirrors in the 20th century many new types of telescopes were invented including radio telescopes in the 1930s and infrared telescopes in the 1960s the word telescope now refers to a wide range of instruments detecting different regions of the electromagnetic spectrum and in some cases other types of detectors
+the word "telescope" (from the ancient greek  tele "far" and  skopein "to look or see";  teleskopos "far-seeing") was coined in 1611 by the greek mathematician giovanni demisiani for one of galileo galilei's instruments presented at a banquet at the accademia dei lincei in the starry messenger galileo had used the term "perspicillum"
+== history ==
+the earliest recorded working telescopes were the refracting telescopes that appeared in the netherlands in 1608 their development is credited to three individuals: hans lippershey and zacharias janssen who were spectacle makers in middelburg and jacob metius of alkmaar galileo heard about the dutch telescope in june 1609 built his own within a month and improved upon the design in the following year in the same year galileo became the first person to point a telescope skyward in order to make telescopic observations of a celestial object
+the idea that the objective or light-gathering element could be a mirror instead of a lens was being investigated soon after the invention of the refracting telescope the potential advantages of using parabolic mirrorsreduction of spherical aberration and no chromatic aberrationled to many proposed designs and several attempts to build reflecting telescopes in 1668 isaac newton built the first practical reflecting telescope of a design which now bears his name the newtonian reflector
+the invention of the achromatic lens in 1733 partially corrected color aberrations present in the simple lens and enabled the construction of shorter more functional refracting telescopes reflecting telescopes though not limited by the color problems seen in refractors were hampered by the use of fast tarnishing speculum metal mirrors employed during the 18th and early 19th centurya problem alleviated by the introduction of silver coated glass mirrors in 1857 and aluminized mirrors in 1932 the maximum physical size limit for refracting telescopes is about 1 meter (40 inches) dictating that the vast majority of large optical researching telescopes built since the turn of the 20th century have been reflectors the largest reflecting telescopes currently have objectives larger than 10 m (33 feet) and work is underway on several 30-40m designs
+the 20th century also saw the development of telescopes that worked in a wide range of wavelengths from radio to gamma-rays the first purpose built radio telescope went into operation in 1937 since then a tremendous variety of complex astronomical instruments have been developed
+== types ==
+the name "telescope" covers a wide range of instruments most detect electromagnetic radiation but there are major differences in how astronomers must go about collecting light (electromagnetic radiation) in different frequency bands
+telescopes may be classified by the wavelengths of light they detect:
+x-ray telescopes using shorter wavelengths than ultraviolet light
+ultraviolet telescopes using shorter wavelengths than visible light
+optical telescopes using visible light
+infrared telescopes using longer wavelengths than visible light
+submillimetre telescopes using longer wavelengths than infrared light
+fresnel imager an optical lens technology
+x-ray optics optics for certain x-ray wavelengths
+as wavelengths become longer it becomes easier to use antenna technology to interact with electromagnetic radiation (although it is possible to make very tiny antenna) the near-infrared can be handled much like visible light however in the far-infrared and submillimetre range telescopes can operate more like a radio telescope for example the james clerk maxwell telescope observes from wavelengths from 3 m (0.003 mm) to 2000 m (2 mm) but uses a parabolic aluminum antenna on the other hand the spitzer space telescope observing from about 3 m (0.003 mm) to 180 m (0.18 mm) uses a mirror (reflecting optics) also using reflecting optics the hubble space telescope with wide field camera 3 can observe from about 0.2 m (0.0002 mm) to 1.7 m (0.0017 mm) (from ultra-violet to infrared light)
+at the photon energy of shorter wavelengths and higher frequency fully reflecting optics rather than glancing-incident optics are used telescopes such as trace and soho use special mirrors to reflect extreme ultraviolet producing higher resolution and brighter images than otherwise possible a larger aperture does not just mean that more light is collected it also enables a finer angular resolution
+telescopes may also be classified by location: ground telescope space telescope or flying telescope they may also be classified by whether they are operated by professional astronomers or amateur astronomers a vehicle or permanent campus containing one or more telescopes or other instruments is called an observatory
+=== optical telescopes ===
+an optical telescope gathers and focuses light mainly from the visible part of the electromagnetic spectrum (although some work in the infrared and ultraviolet) optical telescopes increase the apparent angular size of distant objects as well as their apparent brightness in order for the image to be observed photographed studied and sent to a computer telescopes work by employing one or more curved optical elements usually made from glass lenses and/or mirrors to gather light and other electromagnetic radiation to bring that light or radiation to a focal point optical telescopes are used for astronomy and in many non-astronomical instruments including: theodolites (including transits) spotting scopes monoculars binoculars camera lenses and spyglasses there are three main optical types:
+the refracting telescope which uses lenses to form an image
+the reflecting telescope which uses an arrangement of mirrors to form an image
+the catadioptric telescope which uses mirrors combined with lenses to form an image
+beyond these basic optical types there are many sub-types of varying optical design classified by the task they perform such as astrographs comet seekers solar telescope etc
+=== radio telescopes ===
+radio telescopes are directional radio antennas used for radio astronomy the dishes are sometimes constructed of a conductive wire mesh whose openings are smaller than the wavelength being observed multi-element radio telescopes are constructed from pairs or larger groups of these dishes to synthesize large 'virtual' apertures that are similar in size to the separation between the telescopes; this process is known as aperture synthesis as of 2005 the current record array size is many times the width of the earthutilizing space-based very long baseline interferometry (vlbi) telescopes such as the japanese halca (highly advanced laboratory for communications and astronomy) vsop (vlbi space observatory program) satellite aperture synthesis is now also being applied to optical telescopes using optical interferometers (arrays of optical telescopes) and aperture masking interferometry at single reflecting telescopes radio telescopes are also used to collect microwave radiation which is used to collect radiation when any visible light is obstructed or faint such as from quasars some radio telescopes are used by programs such as seti and the arecibo observatory to search for extraterrestrial life
+=== x-ray telescopes ===
+x-ray telescopes can use x-ray optics such as a wolter telescopes composed of ring-shaped 'glancing' mirrors made of heavy metals that are able to reflect the rays just a few degrees the mirrors are usually a section of a rotated parabola and a hyperbola or ellipse in 1952 hans wolter outlined 3 ways a telescope could be built using only this kind of mirror examples of an observatory using this type of telescope are the einstein observatory rosat and the chandra x-ray observatory by 2010 wolter focusing x-ray telescopes are possible up to 79 kev
+=== gamma-ray telescopes ===
+higher energy x-ray and gamma-ray telescopes refrain from focusing completely and use coded aperture masks: the patterns of the shadow the mask creates can be reconstructed to form an image
+x-ray and gamma-ray telescopes are usually on earth-orbiting satellites or high-flying balloons since the earth's atmosphere is opaque to this part of the electromagnetic spectrum however high energy x-rays and gamma-rays do not form an image in the same way as telescopes at visible wavelengths an example of this type of telescope is the fermi gamma-ray space telescope
+the detection of very high energy gamma rays with shorter wavelength and higher frequency than regular gamma rays requires further specialization an example of this type of observatory is veritas very high energy gamma-rays are still photons like visible light whereas cosmic rays includes particles like electrons protons and heavier nuclei
+a discovery in 2012 may allow focusing gamma-ray telescopes at photon energies greater than 700 kev the index of refraction starts to increase again
+=== high-energy particle telescopes ===
+high-energy astronomy requires specialized telescopes to make observations since most of these particles go through most metals and glasses
+in other types of high energy particle telescopes there is no image-forming optical system cosmic-ray telescopes usually consist of an array of different detector types spread out over a large area a neutrino telescope consists of a large mass of water or ice surrounded by an array of sensitive light detectors known as photomultiplier tubes energetic neutral atom observatories like interstellar boundary explorer detect particles traveling at certain energies
+=== other types of telescopes ===
+astronomy is not limited to using electromagnetic radiation additional information can be obtained using other media the detectors used to observe the universe are analogous to telescopes these are:
+gravitational-wave detector the equivalent of a gravitational wave telescope used for gravitational-wave astronomy
+neutrino detector the equivalent of a neutrino telescope used for neutrino astronomy
+== types of mount ==
+a telescope mount is a mechanical structure which supports a telescope telescope mounts are designed to support the mass of the telescope and allow for accurate pointing of the instrument many sorts of mounts have been developed over the years with the majority of effort being put into systems that can track the motion of the stars as the earth rotates the two main types of tracking mount are:
+altazimuth mount
+equatorial mount
+== atmospheric electromagnetic opacity ==
+since the atmosphere is opaque for most of the electromagnetic spectrum only a few bands can be observed from the earth's surface these bands are visible near-infrared and a portion of the radio-wave part of the spectrum for this reason there are no x-ray or far-infrared ground-based telescopes as these have to be observed from orbit even if a wavelength is observable from the ground it might still be advantageous to place a telescope on a satellite due to astronomical seeing
+== telescopic image from different telescope types ==
+different types of telescope operating in different wavelength bands provide different information about the same object together they provide a more comprehensive understanding
+== by spectrum ==
+telescopes that operate in the electromagnetic spectrum:
+*links to categories
+== lists of telescopes ==
+== see also ==
+== references ==
+== sources ==
+contemporary astronomy second edition jay m pasachoff saunders colleges publishing 1981 isbn 0-03-057861-2
+elliott robert s (1966) electromagnetics mcgraw-hill
+rashed roshdi; morelon rgis (1996) encyclopedia of the history of arabic science 1 & 3 routledge isbn 0-415-12410-7
+wade nicholas j.; finger stanley (2001) "the eye as an optical instrument: from camera obscura to helmholtz's perspective" perception 30 (10): 11571177 doi:10.1068/p3210 pmid 11721819
+sabra a i.; hogendijk j p (2003) the enterprise of science in islam: new perspectives mit press pp 85118 isbn 0-262-19482-1
+== external links ==
+galileo to gamma cephei the history of the telescope
+the galileo project the telescope by al van helden
+"the first telescopes" part of an exhibit from cosmic journey: a history of scientific cosmology by the american institute of physics
+outside the optical: other kinds of telescopes
+gray meghan; merrifield michael (2009) "telescope diameter" sixty symbols brady haran for the university of nottingham

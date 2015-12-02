@@ -1,0 +1,29 @@
+genomatix software gmbh is a computational biology company headquartered in munich germany with a seat of business in ann arbor michigan u.s.a
+== history ==
+genomatix was founded in 1997 by dr thomas werner as a spin-off from the helmholtz zentrum mnchen (formerly "gsf - national german research institute for environment and health") helmholtz zentrum munich is part of the helmholtz association of german research centres genomatix pioneered the analysis and understanding of eukaryotic gene regulation
+== genomatix software tools ==
+genomatix offers integrated solutions and databases for genome annotation and regulation analysis
+genomatix product portfolio contains solutions for:
+literature and pathway mining
+transcription factor analysis
+genome annotation integrating a wide variety of transcript sources and a special focus on regulatory regions
+analysis technology for high throughput genomic technologies (microarrays and next generation sequencing)
+literature mining
+litinspector is a literature search tool providing gene and signal transduction pathway mining within ncbi's pubmed database
+pathway mining
+geps
+bibliosphere
+== current research ==
+personalized medicine developed to a major field for genomatix genomatix is involved in several projects and international conferences e.g 5th santorini conference - "functional genomics towards personalized health care"
+since 2008 genomatix has strongly focused on next generation sequencing data analysis because of the large amount of data and the need for high-end computing power genomatix deploys its solutions as in-house installations (hardware software bundle)
+two systems are available:
+1 the genomatix mining station (gms) is based on a proprietary genomic pattern recognition paradigm or genomethesaurus which allows for input of raw sequence reads plus optional quality files from any deep sequencing hardware it provides ultra fast mapping of sequences of any length (starting from 8bp) with no practical limits on the number of point mutations and/or insertions and deletions that can be taken into account during the mapping process depending on the nature of the experiment the gms can provide snp detection and genotyping copy number analysis and small rna analysis for chipseq data the gms delivers clustering and peak finding and performs automated binding pattern identification for rnaseq experiments normalized expression values are calculated at the exon and transcript level a special genomethesaurus is also provided for potential splice junctions which allows for splice junction analysis and identification of new transcriptional units
+for genomic re-sequencing and newly sequenced genomes a de-novo assembly will be provided
+2 the genomatix genome analyzer (gga) delivers downstream software tools and databases for the deep biological analysis of data coming from the gms it allows for easy integration and visualization in the terabytes of background annotation of the eldorado genome database gga extensively annotates genomic coordinates and surrounding areas derived by the gms or any other mapping procedure clustering and peak finding analysis for phylogenetic conservation large scale correlation analysis with annotated genomic elements meta-analysis of data correlation between different experiments pathway mining for groups of identified genes transcription factor binding site (tfbs) analysis ( identification over-representation binding partner analysis framework identification phylogenetic conservation regulatory snp effects) and much more are all processes carried out on the gga
+with the gga and gms genomatix delivers the worldwide first integrative data analysis platform for next generation sequencing analysis with custom workflows tailored towards specific needs
+further developments will be the link-up of data from clinical sources and medical applications pilot projects were already started within genomatix consulting platform linking genotype and phenotype information
+== controversies ==
+== alternative analysis tools ==
+== external links ==
+genomatix homepage
+== references ==

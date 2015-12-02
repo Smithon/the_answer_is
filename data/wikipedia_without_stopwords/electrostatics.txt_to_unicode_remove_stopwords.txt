@@ -1,0 +1,96 @@
+electrostatics branch physics deals phenomena properties stationary slowmoving electric charges acceleration
+since classical physics known materials amber attract lightweight particles rubbing greek word amber electron source word electricity electrostatic phenomena arise forces electric charges exert forces described coulombs law even though electrostatically induced forces seem rather weak electrostatic force eg electron proton together make hydrogen atom orders magnitude stronger gravitational force acting
+many examples electrostatic phenomena simple attraction plastic wrap hand remove package attraction paper charged scale apparently spontaneous explosion grain silos damage electronic components manufacturing operation photocopiers electrostatics involves buildup charge surface objects due contact surfaces although charge exchange happens whenever two surfaces contact separate effects charge exchange usually noticed least one surfaces high resistance electrical flow charges transfer highly resistive surface less trapped long enough time effects observed charges remain object either bleed ground quickly neutralized discharge eg familiar phenomenon static shock caused neutralization charge built body contact insulated surfaces
+coulombs lawedit
+begin magnitude electrostatic force newtons two point charges coulombs convenient label one charges test charge call source charge develop theory source charges added distance meters two charges force
+vacuum permittivity permittivity free space
+si units equivalently kgm cnm f m coulombs constant
+use instead k expressing coulombs law related fact force inversely proportional surface area sphere radius equal separation two charges
+single proton charge e electron charge e
+physical constants k e currently defined k exactly defined e measured quantity
+electric fieldedit
+electric field lines useful visualizing electric field field lines begin positive charge terminate negative charge electric field lines parallel direction electric field density field lines measure magnitude electric field given point electric field units volts per meter vector field defined everywhere except location point charges diverges infinity convenient place hypothetical test charge point charges present coulombs law test charge experience force used define electric field follow
+see lorentz equation charge stationary
+consider collection particles charge located points called source points electric field called field point
+displacement vector source point field point unit vector indicates direction field single point charge origin magnitude electric field points away charge positive fact force hence field calculated summing contributions due individual source particles example superposition principle electric field produced distribution charges given volume charge density obtained converting sum triple integral
+gausss lawedit
+gausss law states total electric flux closed surface free space shape drawn electric field proportional total electric charge enclosed surface mathematically gausss law takes form integral equation
+volume element charge distributed surface along line replace divergence theorem allows gausss law written differential form
+divergence operator
+poisson laplace equationsedit
+definition electrostatic potential combined differential form gausss law provides relationship potential charge density
+relationship form poissons equation absence unpaired electric charge equation becomes laplaces equation
+electrostatic approximationedit
+validity electrostatic approximation rests assumption electric field irrotational
+faradays law assumption implies absence nearabsence timevarying magnetic fields
+words electrostatics require absence magnetic fields electric currents rather magnetic fields electric currents exist must change time worstcase must change time slowly problems electrostatics magnetostatics may required accurate predictions coupling two still ignored
+electrostatic potentialedit
+electric field irrotational possible express electric field gradient scalar function called electrostatic potential also known voltage electric field points regions high electric potential regions low electric potential expressed mathematically
+gradient theorem used establish electrostatic potential amount work per unit charge required move charge point point following line integral
+equations see electric potential constant region electric field vanishes occurs inside conducting object
+electrostatic energyedit
+single test particles potential energy calculated line integral work integrate point infinity assume collection particles charge already situated points potential energy joules
+distance charge test charge situated point electric potential would test charge present two charges present potential energy total electric potential energy due collection n charges calculating assembling particles one time
+following sum j n excludes j
+electric potential would measured charge missing formula obviously excludes infinite energy would required assemble point charge disperse cloud charge sum charges converted integral charge density using prescription
+second expression electrostatic energy uses fact electric field negative gradient electric potential well vector calculus identities way resembles integration parts two integrals electric field energy seem indicate two mutually exclusive formulas electrostatic energy density namely yield equal values total electrostatic energy integrated space
+electrostatic pressureedit
+conductor surface charge experience force presence electric field force average discontinuous electric field surface charge average terms field outside surface amounts
+pressure tends draw conductor field regardless sign surface charge
+triboelectric seriesedit
+triboelectric effect type contact electrification certain materials become electrically charged brought contact different material separated one materials acquires positive charge acquires equal negative charge polarity strength charges produced differ according materials surface roughness temperature strain properties amber example acquire electric charge friction material like wool property first recorded thales miletus first electrical phenomenon investigated man examples materials acquire significant charge rubbed together include glass rubbed silk hard rubber rubbed fur
+electrostatic generatorsedit
+presence surface charge imbalance means objects exhibit attractive repulsive forces surface charge imbalance yields static electricity generated touching two differing surfaces together separating due phenomena contact electrification triboelectric effect rubbing two nonconductive objects generates great amount static electricity result friction two nonconductive surfaces become charged placed one top since surfaces rough texture takes longer achieve charging contact rubbing rubbing objects together increases amount adhesive contact two surfaces usually insulators eg substances conduct electricity good generating holding surface charge examples substances rubber plastic glass pith conductive objects rarely generate charge imbalance except example metal surface impacted solid liquid nonconductors charge transferred contact electrification stored surface object static electric generators devices produce high voltage low current used classroom physics demonstrations rely effect
+note presence electric current detract electrostatic forces sparking corona discharge phenomena phenomena exist simultaneously system
+see also friction machines wimshurst machines van de graaff generators
+charge neutralizationedit
+natural electrostatic phenomena familiar occasional annoyance seasons low humidity destructive harmful situations eg electronics manufacturing working direct contact integrated circuit electronics especially delicate mosfets presence flammable gas care must taken avoid accumulating suddenly discharging static charge see electrostatic discharge
+charge inductionedit
+charge induction occurs negatively charged object repels negatively charged electrons surface second object creates region second object positively charged attractive force exerted objects example balloon rubbed balloon stick wall attractive force exerted two oppositely charged surfaces surface wall gains electric charge due charge induction free electrons surface wall repelled negative balloon creating positive wall surface subsequently attracted surface balloon explore effect simulation balloon static electricity
+static electricityedit
+year michael faraday published results experiment identity electricities physicists thought static electricity somehow different electrical charges michael faraday proved electricity induced magnet voltaic electricity produced battery static electricity
+static electricity usually caused certain materials rubbed like wool plastic soles shoes carpet process causes electrons pulled surface one material relocated surface material
+static shock occurs surface second material negatively charged electrons touches positively charged conductor vice versa
+static electricity commonly used xerography air filters automotive paints static electricity buildup electric charges two objects become separated small electrical components easily damaged static electricity component manufacturers use number antistatic devices avoid
+static electricity chemical industryedit
+different materials brought together separated accumulation electric charge occur leaves one material positively charged becomes negatively charged mild shock receive touching grounded object walking carpet example excess electrical charge accumulating body frictional charging shoes carpet resulting charge buildup upon body generate strong electrical discharge although experimenting static electricity may fun similar sparks create severe hazards industries dealing flammable substances small electrical spark may ignite explosive mixtures devastating consequences
+similar charging mechanism occur within low conductivity fluids flowing pipelinesa process called flow electrification fluids low electrical conductivity picosiemens per meter called accumulators fluids conductivities psm called nonaccumulators nonaccumulators charges recombine fast separated hence electrostatic charge generation significant petrochemical industry psm recommended minimum value electrical conductivity adequate removal charge fluid
+important concept insulating fluids static relaxation time similar time constant tau within rc circuit insulating materials ratio static dielectric constant divided electrical conductivity material hydrocarbon fluids sometimes approximated dividing number electrical conductivity fluid thus fluid electrical conductivity pscm psm estimated relaxation time seconds excess charge within fluid almost completely dissipated times relaxation time seconds fluid example
+charge generation increases higher fluid velocities larger pipe diameters becoming quite significant pipes inches mm larger static charge generation systems best controlled limiting fluid velocity british standard bs pd clctr formerly bspart code practice control undesirable static electricity prescribes velocity limits large impact dielectric constant recommended velocity hydrocarbon fluids containing water limited ms
+bonding earthing usual ways charge buildup prevented fluids electrical conductivity psm bonding earthing adequate charge dissipation antistatic additives may required
+applicable standardsedit
+bs pd clctr code practice control undesirable static electricity
+nfpa recommended practice static electricity
+api rp protection ignitions arising static lightning stray currents
+electrostatic induction commercial applicationsedit
+principle electrostatic induction harnessed beneficial effect industry many years beginning introduction electrostatic industrial painting systems economical even application enamel polyurethane paints consumer goods including automobiles bicycles products
+see alsoedit
+electromagnetism
+permittivity relative permittivity
+ionic bond
+electronegativity
+electrostatic discharge
+electrostatic separator
+electrostatic voltmeter
+referencesedit
+faraday michael experimental researches electricity london royal inst
+ebook project gutenberg
+halliday david robert resnick kenneth krane physics new york john wiley sons isbn
+griffiths david j introduction electrodynamics upper saddle river nj prentice hall isbn x
+hermann haus james r melcher electromagnetic fields energy englewood cliffs nj prenticehall isbn x
+readingedit
+essays
+william j beaty humans sparks cause stopping pain electric people
+books
+william cecil dampier theory experimental electricity cambridge eng university press cambridge physical series xi p illus diagrs cm lccn r
+william thomson kelvin reprint papers electrostatics magnetism william thomson kelvin macmillan
+alexander macaulay utility quaternions physics electrostaticsgeneral problem macmillan
+alexander russell treatise theory alternating currents electrostatics university press
+external linksedit
+mans static jacket sparks alert bbc news september
+static electricity plastics
+shocks static electricity damage health wolfson electrostatics news pages
+invisible wall static
+downloadable electrostatic bem modules matlab simple capacitance problems
+introduction electrostatics point charges treated distribution using dirac delta function
+learning materials related electrostatics wikiversity

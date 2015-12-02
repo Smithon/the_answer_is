@@ -1,0 +1,191 @@
+thermodynamics entropy usual symbol measure number specific ways thermodynamic system may arranged commonly understood measure disorder according second law thermodynamics entropy isolated system never decreases system spontaneously proceed towards thermodynamic equilibrium configuration maximum entropy systems isolated may decrease entropy provided increase entropy environment least amount since entropy state function change entropy system process goes given initial state given final state whether process reversible irreversible however irreversible processes increase combined entropy system environment
+change entropy system originally defined thermodynamically reversible process
+absolute temperature system dividing incremental reversible transfer heat system dq heat transferred sign would reversed giving decrease entropy system definition sometimes called macroscopic definition entropy used without regard microscopic description contents system concept entropy found generally useful several formulations entropy discovered noticed quantity behaves function state consequence second law thermodynamics
+entropy extensive property dimension energy divided temperature unit joules per kelvin j k international system units kg m k terms base units entropy pure substance usually given intensive property either entropy per unit mass si unit j k kg entropy per unit amount substance si unit j k mol
+absolute entropy rather defined later using either statistical mechanics third law thermodynamics
+modern microscopic interpretation entropy statistical mechanics entropy amount additional information needed specify exact physical state system given thermodynamic specification understanding role thermodynamic entropy various processes requires understanding information changes system evolves initial final condition often said entropy expression disorder randomness system lack information second law often seen expression fundamental postulate statistical mechanics modern definition entropy
+historyedit
+analysis led concept entropy began work french mathematician lazare carnot paper fundamental principles equilibrium movement proposed machine accelerations shocks moving parts represent losses moment activity words natural process exists inherent tendency towards dissipation useful energy building work lazares son sadi carnot published reflections motive power fire posited heatengines whenever caloric known heat falls temperature difference work motive power produced actions fall hot cold body made analogy water falls water wheel early insight second law thermodynamics carnot based views heat partially early th century newtonian hypothesis heat light types indestructible forms matter attracted repelled matter partially contemporary views count rumford showed heat could created friction cannon bores machined carnot reasoned body working substance body steam returned original state end complete engine cycle change occurs condition working body
+first law thermodynamics deduced heatfriction experiments james joule expresses concept energy conservation processes first law however unable quantify effects friction dissipation
+german physicist rudolf clausius objected supposition change occurs working body gave change mathematical interpretation questioning nature inherent loss usable heat work done eg heat produced friction clausius described entropy transformationcontent ie dissipative energy use thermodynamic system working body chemical species change state contrast earlier views based theories isaac newton heat indestructible particle mass
+later scientists ludwig boltzmann josiah willard gibbs james clerk maxwell gave entropy statistical basis boltzmann visualized probabilistic way measure entropy ensemble ideal gas particles defined entropy proportional logarithm number microstates gas could occupy henceforth essential problem statistical thermodynamics ie according erwin schrdinger determine distribution given amount energy e n identical systems carathodory linked entropy mathematical definition irreversibility terms trajectories integrability
+definitions descriptionsedit
+two related definitions entropy thermodynamic definition statistical mechanics definition historically classical thermodynamics definition developed first classical thermodynamics viewpoint system composed large numbers constituents atoms molecules state system described average thermodynamic properties constituents details systems constituents directly considered behavior described macroscopically averaged properties eg temperature pressure entropy heat capacity early classical definition properties system assumed equilibrium classical thermodynamic definition entropy recently extended area nonequilibrium thermodynamics later thermodynamic properties including entropy given alternative definition terms statistics motions microscopic constituents system modeled first classically eg newtonian particles constituting gas later quantummechanically photons phonons spins etc statistical mechanics description behavior system necessary definition properties system using classical thermodynamics become increasingly unreliable method predicting final state system subject process
+function stateedit
+many thermodynamic properties functions state means particular thermodynamic state confused microscopic state system properties certain value often two properties system determined state determined properties values also determined instance gas particular temperature pressure state fixed values particular volume determined values another instance system composed pure substance single phase particular uniform temperature pressure determined thus particular state particular volume also particular entropy fact entropy function state one reason useful carnot cycle working fluid returns state start cycle hence line integral state function entropy cycle zero
+reversible processedit
+entropy defined reversible process system times treated uniform state thus uniform temperature reversibility ideal real processes approximate often presented study exercises reversible process entropy behaves conserved quantity change occurs total entropy specifically total entropy conserved reversible process conserved irreversible process one careful system boundaries example carnot cycle heat flow hot reservoir cold reservoir represents increase entropy work output reversibly perfectly stored energy storage mechanism represents decrease entropy could used operate heat engine reverse return previous state thus total entropy change still zero times entire process reversible process meet requirements reversible process must treated irreversible process usually complex task irreversible process increases entropy
+heat transfer situations require two nonisolated systems thermal contact irreversible heat transfer heat energy irreversibly transferred higher temperature system lower temperature system combined entropy systems increases system definition must absolute temperature applicable within areas respective system order calculate entropy transfer thus system higher temperature th transfers heat dq system lower temperature tc former loses entropy dqth latter gains entropy dqtc since th tc follows dqth dqtc whence net gain combined entropy
+carnot cycleedit
+concept entropy arose rudolf clausiuss study carnot cycle carnot cycle heat absorbed temperature hot reservoir isothermal process given heat cold reservoir isothermal process according carnots principle work produced system temperature difference work function difference temperature heat absorbed carnot distinguish since using incorrect hypothesis caloric theory valid hence heat conserved incorrect assumption equal fact efforts clausius kelvin known maximum work system produce product carnot efficiency heat hot reservoir
+equation
+order derive carnot efficiency number less one kelvin evaluate ratio work output heat absorbed isothermal expansion help carnotclapeyron equation contained unknown function known carnot function possibility carnot function could temperature measured zero temperature suggested joule letter kelvin allowed kelvin establish absolute temperature scale also known work produced system difference heat hot reservoir heat cold reservoir
+equation
+since latter valid entire cycle gave clausius hint stage cycle work heat would equal rather difference would state function would vanish upon completion cycle state function called internal energy became first law thermodynamics
+equating two expressions gives
+implies function state conserved complete cycle carnot cycle clausius called state function entropy one see entropy discovered mathematics rather laboratory results mathematical construct easy physical analogy makes concept somewhat obscure abstract akin concept energy arose
+clausius asked would happen less work produced system predicted carnots principle righthand side first equation would upper bound work output system would converted inequality second equation used express work difference heats get heat given cold reservoir carnot cycle denote entropies two states inequality written decrease entropy
+words entropy leaves system greater entropy entered system implying irreversible process prevented cycle outputting maximum amount work predicted carnot equation
+carnot cycle efficiency invaluable define upper bound possible work output efficiency classical thermodynamic system cycles otto cycle diesel cycle brayton cycle etcetera analyzed standpoint carnot cycle machine process claimed produce efficiency greater carnot efficiency viable would violate second law thermodynamics small numbers particles system statistical thermodynamics must used efficiency devices photovoltaic cells require analysis standpoint quantum mechanics
+classical thermodynamicsedit
+thermodynamic definition entropy developed early rudolf clausius essentially describes measure entropy isolated system thermodynamic equilibrium parts clausius created term entropy extensive thermodynamic variable shown useful characterizing carnot cycle heat transfer along isotherm steps carnot cycle found proportional temperature system known absolute temperature relationship expressed increments entropy equal ratio incremental heat transfer divided temperature found vary thermodynamic cycle eventually return value end every cycle thus found function state specifically thermodynamic state system clausius wrote intentionally formed word entropy similar possible word energy basing term greek trop transformation
+clausius based definition reversible process also irreversible processes change entropy following second law thermodynamics entropy isolated system always increases difference isolated system closed system heat may flow isolated system heat flow closed system possible nevertheless closed isolated systems indeed also open systems irreversible thermodynamics processes may occur
+according clausius equality reversible cyclic process means line integral pathindependent
+define state function called entropy satisfies
+find entropy difference two states system integral must evaluated reversible path initial final states since entropy state function entropy change system irreversible path reversible path two states however entropy change surroundings different
+obtain change entropy integrating formula obtain absolute value entropy need third law thermodynamics states absolute zero perfect crystals
+macroscopic perspective classical thermodynamics entropy interpreted state function thermodynamic system property depending current state system independent state came achieved process system gives energy e entropy falls quantity least tr energy must given systems surroundings unusable heat tr temperature systems external surroundings otherwise process go forward classical thermodynamics entropy system defined thermodynamic equilibrium
+statistical mechanicsedit
+statistical definition developed ludwig boltzmann analyzing statistical behavior microscopic components system boltzmann showed definition entropy equivalent thermodynamic entropy within constant number since known boltzmanns constant summary thermodynamic definition entropy provides experimental definition entropy statistical definition entropy extends concept providing explanation deeper understanding nature
+interpretation entropy statistical mechanics measure uncertainty mixedupness phrase gibbs remains system observable macroscopic properties temperature pressure volume taken account given set macroscopic variables entropy measures degree probability system spread different possible microstates contrast macrostate characterizes plainly observable average quantities microstate specifies molecular details system including position velocity every molecule states available system appreciable probability greater entropy statistical mechanics entropy measure number ways system may arranged often taken measure disorder higher entropy higher disorder definition describes entropy proportional natural logarithm number possible microscopic configurations individual atoms molecules system microstates could give rise observed macroscopic state macrostate system constant proportionality boltzmann constant
+specifically entropy logarithmic measure number states significant probability occupied
+kb boltzmann constant equal jk summation possible microstates system pi probability system ith microstate definition assumes basis set states picked information relative phases different basis set general expression
+density matrix trace linear algebra matrix logarithm density matrix formulation needed cases thermal equilibrium long basis states chosen energy eigenstates practical purposes taken fundamental definition entropy since formulas mathematically derived vice versa
+called fundamental assumption statistical thermodynamics fundamental postulate statistical mechanics occupation microstate assumed equally probable ie pi number microstates assumption usually justified isolated system equilibrium previous equation reduces
+thermodynamics system one volume number molecules internal energy fixed microcanonical ensemble
+general interpretation entropy measure uncertainty system equilibrium state system maximizes entropy lost information initial conditions except conserved variables maximizing entropy maximizes ignorance details system uncertainty everyday subjective kind rather uncertainty inherent experimental method interpretative model
+interpretative model central role determining entropy qualifier given set macroscopic variables deep implications two observers use different sets macroscopic variables observe different entropies example observer uses variables u v w observer b uses u v w x changing x observer b cause effect looks like violation second law thermodynamics observer words set macroscopic variables one chooses must include everything may change experiment otherwise one might see decreasing entropy
+entropy defined markov processes reversible dynamics detailed balance property
+boltzmanns lectures gas theory showed expression gives measure entropy systems atoms molecules gas phase thus providing measure entropy classical thermodynamics
+entropy systemedit
+entropy abovementioned unexpected obscure integral arises directly carnot cycle reversible heat divided temperature remarkably function state fundamental useful
+thermodynamic system pressure density temperature tend become uniform time equilibrium state higher probability possible combinations microstates see statistical mechanics example glass ice water air room temperature difference temperature warm room surroundings cold glass ice water system part room begins equalized portions thermal energy warm surroundings spread cooler system ice water time temperature glass contents temperature room become equal entropy room decreased energy dispersed ice water however calculated example entropy system ice water increased entropy surrounding room decreased isolated system room ice water taken together dispersal energy warmer cooler always results net increase entropy thus universe room ice water system reached temperature equilibrium entropy change initial state maximum entropy thermodynamic system measure far equalization progressed
+thermodynamic entropy nonconserved state function great importance sciences physics chemistry historically concept entropy evolved order explain processes permitted conservation laws occur spontaneously time reversals also permitted conservation laws systems tend progress direction increasing entropy isolated systems entropy never decreases fact several important consequences science first prohibits perpetual motion machines second implies arrow entropy direction arrow time increases entropy correspond irreversible changes system energy expended waste heat limiting amount work system
+unlike many functions state entropy cannot directly observed must calculated entropy calculated substance standard molar entropy absolute zero also known absolute entropy difference entropy reference state defined zero entropy entropy dimension energy divided temperature unit joules per kelvin jk international system units units heat capacity two concepts distinct entropy conserved quantity example isolated system nonuniform temperature heat might irreversibly flow temperature become uniform entropy increases second law thermodynamics states closed system entropy may increase otherwise remain constant chemical reactions cause changes entropy entropy plays important role determining direction chemical reaction spontaneously proceeds
+one dictionary definition entropy measure thermal energy per unit temperature available useful work instance substance uniform temperature maximum entropy cannot drive heat engine substance nonuniform temperature lower entropy heat distribution allowed even thermal energy drive heat engine
+special case entropy increase entropy mixing occurs two different substances mixed substances temperature pressure net exchange heat work entropy change entirely due mixing different substances statistical mechanical level results due change available volume per particle mixing
+second law thermodynamicsedit
+second law thermodynamics requires general total entropy system decrease increasing entropy system hence system isolated environment entropy system tend decrease follows heat flow colder body hotter body without application work imposition order colder body secondly impossible device operating cycle produce net work single temperature reservoir production net work requires flow heat hotter reservoir colder reservoir single expanding reservoir undergoing adiabatic cooling performs adiabatic work result possibility perpetual motion system follows reduction increase entropy specified process chemical reaction means energetically efficient
+follows second law thermodynamics entropy system isolated may decrease air conditioner example may cool air room thus reducing entropy air system heat expelled room system air conditioner transports discharges outside air always make bigger contribution entropy environment decrease entropy air system thus total entropy room plus entropy environment increases agreement second law thermodynamics
+mechanics second law conjunction fundamental thermodynamic relation places limits systems ability useful work entropy change system temperature absorbing infinitesimal amount heat q reversible way given qt explicitly energy trs available useful work tr temperature coldest accessible reservoir heat sink external system discussion see exergy
+statistical mechanics demonstrates entropy governed probability thus allowing decrease disorder even isolated system although possible event small probability occurring making unlikely
+applicationsedit
+fundamental thermodynamic relationedit
+entropy system depends internal energy external parameters volume thermodynamic limit fact leads equation relating change internal energy changes entropy external parameters relation known fundamental thermodynamic relation volume external parameter relation
+since internal energy fixed one specifies entropy volume relation valid even change one state thermal equilibrium another infinitesimally larger entropy volume happens nonquasistatic way change system may far thermal equilibrium entropy pressure temperature may exist
+fundamental thermodynamic relation implies many thermodynamic identities valid general independent microscopic details system important examples maxwell relations relations heat capacities
+entropy chemical thermodynamicsedit
+thermodynamic entropy central chemical thermodynamics enabling changes quantified outcome reactions predicted second law thermodynamics states entropy isolated system combination subsystem study surroundings increases spontaneous chemical physical processes clausius equation qrevt introduces measurement entropy change entropy change describes direction quantifies magnitude simple changes heat transfer systems always hotter cooler spontaneously
+thermodynamic entropy therefore dimension energy divided temperature unit joule per kelvin jk international system units si
+thermodynamic entropy extensive property meaning scales size extent system many processes useful specify entropy intensive property independent size specific entropy characteristic type system studied specific entropy may expressed relative unit mass typically kilogram unit jkgk alternatively chemistry also referred one mole substance case called molar entropy unit jmolk
+thus one mole substance k warmed surroundings k sum incremental values qrevt constitute elements compounds standard molar entropy indicator amount energy stored substance k entropy change also measures mixing substances summation relative quantities final mixture
+entropy equally essential predicting extent direction complex chemical reactions applications must incorporated expression includes system surroundings suniverse ssurroundings system expression becomes via steps gibbs free energy equation reactants products system g gibbs free energy change system h enthalpy change entropy change
+entropy balance equation open systemsedit
+chemical engineering principles thermodynamics commonly applied open systems ie heat work mass flow across system boundary flows heat work ie shaft work pdvdt pressurevolume work across system boundaries general cause changes entropy system transfer heat entails entropy transfer absolute thermodynamic temperature system point heat flow mass flows across system boundaries also influence total entropy system account terms heat work valid cases work heat transfers paths physically distinct paths entry exit matter system
+derive generalized entropy balanced equation start general balance equation change extensive quantity thermodynamic system quantity may either conserved energy nonconserved entropy basic generic balance expression states ddt ie rate change system equals rate enters system boundaries minus rate leaves system across system boundaries plus rate generated within system open thermodynamic system heat work transferred paths separate paths transfer matter using generic balance equation respect rate change time extensive quantity entropy entropy balance equation
+net rate entropy flow due flows mass system entropy per unit mass
+rate entropy flow due flow heat across system boundary
+rate entropy production within system entropy production arises processes within system including chemical reactions internal matter diffusion internal heat transfer frictional effects viscosity occurring within system mechanical work transfer system
+note also multiple heat flows term replaced heat flow temperature jth heat flow port system
+entropy change formulas simple processesedit
+certain simple transformations systems constant composition entropy changes given simple formulas
+isothermal expansion compression ideal gasedit
+expansion compression ideal gas initial volume pressure final volume pressure constant temperature change entropy given
+number moles gas ideal gas constant equations also apply expansion finite vacuum throttling process temperature internal energy enthalpy ideal gas remain constant
+cooling heatingedit
+heating cooling system gas liquid solid constant pressure initial temperature final temperature entropy change
+provided constantpressure molar heat capacity specific heat cp constant phase transition occurs temperature interval
+similarly constant volume entropy change
+constantvolume heat capacity cv constant phase change
+low temperatures near absolute zero heat capacities solids quickly drop near zero assumption constant heat capacity apply
+since entropy state function entropy change process temperature volume vary path divided two steps heating constant volume expansion constant temperature ideal gas total entropy change
+similarly temperature pressure ideal gas vary
+phase transitionsedit
+reversible phase transitions occur constant temperature pressure reversible heat enthalpy change transition entropy change enthalpy change divided thermodynamic temperature fusion melting solid liquid melting point tm entropy fusion
+similarly vaporization liquid gas boiling point tb entropy vaporization
+approaches understanding entropyedit
+fundamental aspect thermodynamics physics several different approaches entropy beyond clausius boltzmann valid
+standard textbook definitionsedit
+following list additional definitions entropy collection textbooks
+measure energy dispersal specific temperature
+measure disorder universe availability energy system work
+measure systems thermal energy per unit temperature unavailable useful work
+boltzmanns definition entropy measure number possible microscopic states microstates system thermodynamic equilibrium consistent boltzmann definition second law thermodynamics needs reworded entropy increases time though underlying principle remains
+order disorderedit
+entropy often loosely associated amount order disorder chaos thermodynamic system traditional qualitative description entropy refers changes status quo system measure molecular disorder amount wasted energy dynamical energy transformation one state form another direction several recent authors derived exact entropy formulas account measure disorder order atomic molecular assemblies one simpler entropy orderdisorder formulas derived thermodynamic physicist peter landsberg based combination thermodynamics information theory arguments argues constraints operate system prevented entering one possible permitted states contrasted forbidden states measure total amount disorder system given
+similarly total amount order system given
+cd disorder capacity system entropy parts contained permitted ensemble ci information capacity system expression similar shannons channel capacity co order capacity system
+energy dispersaledit
+concept entropy described qualitatively measure energy dispersal specific temperature similar terms use early history classical thermodynamics development statistical thermodynamics quantum theory entropy changes described terms mixing spreading total energy constituent system particular quantized energy levels
+ambiguities terms disorder chaos usually meanings directly opposed equilibrium contribute widespread confusion hamper comprehension entropy students second law thermodynamics shows isolated system internal portions different temperatures tend adjust single uniform temperature thus produce equilibrium recently developed educational approach avoids ambiguous terms describes spreading energy dispersal leads loss differentials required work even though total energy remains constant accordance first law thermodynamics compare discussion next section physical chemist peter atkins example previously wrote dispersal leading disordered state writes spontaneous changes always accompanied dispersal energy
+relating entropy energy usefulnessedit
+following possible thermal context regard entropy indicator measure effectiveness usefulness particular quantity energy energy supplied high temperature ie low entropy tends useful amount energy available room temperature mixing hot parcel fluid cold one produces parcel intermediate temperature overall increase entropy represents loss never replaced
+thus fact entropy universe steadily increasing means total energy becoming less useful eventually lead heat death universe
+entropy adiabatic accessibilityedit
+definition entropy based entirely relation adiabatic accessibility equilibrium states given ehlieb j yngvason approach several predecessors including pioneering work constantin carathodory monograph r giles setting lieb yngvason one starts picking unit amount substance consideration two reference states latter adiabatically accessible former vice versa defining entropies reference states respectively entropy state defined largest number adiabatically accessible composite state consisting amount state complementary amount state simple important result within setting entropy uniquely determined apart choice unit additive constant chemical element following properties monotonic respect relation adiabatic accessibility additive composite systems extensive scaling
+entropy quantum mechanicsedit
+quantum statistical mechanics concept entropy developed john von neumann generally referred von neumann entropy
+density matrix tr trace operator
+upholds correspondence principle classical limit phases basis states used classical probabilities purely random expression equivalent familiar classical definition entropy
+ie basis density matrix diagonal
+von neumann established rigorous mathematical framework quantum mechanics work mathematische grundlagen der quantenmechanik provided work theory measurement usual notion wave function collapse described irreversible process socalled von neumann projective measurement using concept conjunction density matrix extended classical concept entropy quantum domain
+information theoryedit
+viewed terms information theory entropy state function simply amount information shannon sense would needed specify full microstate system left unspecified macroscopic description
+information theory entropy measure amount information missing reception sometimes referred shannon entropy shannon entropy broad general concept finds applications information theory well thermodynamics originally devised claude shannon study amount information transmitted message definition information entropy however quite general expressed terms discrete set probabilities pi
+case transmitted messages probabilities probabilities particular message actually transmitted entropy message system measure average amount information message case equal probabilities ie message equally probable shannon entropy bits number yesno questions needed determine content message
+question link information entropy thermodynamic entropy debated topic authors argue link two argue nothing
+expressions two entropies similar w number microstates yield given macrostate microstate priori probability probability pw shannon entropy nats
+entropy measured units k per nat entropy given
+famous boltzmann entropy formula k boltzmanns constant may interpreted thermodynamic entropy per nat many ways demonstrating equivalence information entropy physics entropy equivalence shannon entropy boltzmann entropy nevertheless authors argue dropping word entropy h function information theory using shannons term uncertainty instead
+interdisciplinary applications entropyedit
+although concept entropy originally thermodynamic construct adapted fields study including information theory psychodynamics thermoeconomicsecological economics evolution instance entropic argument recently proposed explaining preference cave spiders choosing suitable area laying eggs
+thermodynamic statistical mechanics conceptsedit
+entropy unit nonsi unit thermodynamic entropy usually denoted eu equal one calorie per kelvin per mole joules per kelvin per mole
+gibbs entropy usual statistical mechanical entropy thermodynamic system
+boltzmann entropy type gibbs entropy neglects internal statistical correlations overall particle distribution
+tsallis entropy generalization standard boltzmanngibbs entropy
+standard molar entropy entropy content one mole substance conditions standard temperature pressure
+residual entropy entropy present substance cooled arbitrarily close absolute zero
+entropy mixing change entropy two different chemical substances components mixed
+loop entropy entropy lost upon bringing together two residues polymer within prescribed distance
+conformational entropy entropy associated physical arrangement polymer chain assumes compact globular state solution
+entropic force microscopic force reaction tendency related system organization changes molecular frictional considerations statistical variations
+free entropy entropic thermodynamic potential analogous free energy
+entropic explosion explosion reactants undergo large change volume without releasing large amount heat
+entropy change change entropy ds two equilibrium states given heat transferred dqrev divided absolute temperature system interval
+sackurtetrode entropy entropy monatomic classical ideal gas determined via quantum considerations
+arrow timeedit
+entropy quantity physical sciences seems imply particular direction progress sometimes called arrow time time progresses second law thermodynamics states entropy isolated system never decreases hence perspective entropy measurement thought kind clock
+cosmologyedit
+since finite universe isolated system second law thermodynamics states total entropy constantly increasing speculated since th century universe fated heat death energy ends homogeneous distribution thermal energy work extracted source
+universe considered generally increasing entropy sir roger penrose pointed gravity plays important role increase gravity causes dispersed matter accumulate stars collapse eventually black holes entropy black hole proportional surface area black holes event horizon jacob bekenstein stephen hawking shown black holes maximum possible entropy object equal size makes likely end points entropyincreasing processes totally effective matter energy traps however escape energy black holes might possible due quantum activity see hawking radiation hawking recently changed stance details paper largely redefined event horizons black holes
+role entropy cosmology remains controversial subject since time ludwig boltzmann recent work cast doubt heat death hypothesis applicability simple thermodynamic model universe general although entropy increase model expanding universe maximum possible entropy rises much rapidly moving universe heat death time closer results entropy gap pushing system away posited heat death equilibrium complicating factors energy density vacuum macroscopic quantum effects difficult reconcile thermodynamical models making predictions largescale thermodynamics extremely difficult
+entropy gap widely believed originally opened early rapid exponential expansion universe
+see alsoedit
+notesedit
+referencesedit
+readingedit
+atkins peter julio de paula physical chemistry th ed oxford university press isbn
+baierlein ralph thermal physics cambridge university press isbn
+bennaim arieh entropy demystified world scientific isbn
+callen herbert b thermodynamics introduction thermostatistics nd ed john wiley sons isbn
+chang raymond chemistry th ed new york mcgraw hill isbn
+cutnell john d johnson kenneth j physics th ed john wiley sons inc isbn
+dugdale j entropy physical meaning nd ed taylor francis uk crc us isbn
+fermi enrico thermodynamics prentice hall isbn x
+goldstein martin inge f refrigerator universe harvard university press isbn
+gyftopoulos ep gp beretta thermodynamics foundations applications dover isbn
+haddad wassim m chellaboina vijaysekhar nersesov sergey g thermodynamics dynamical systems approach princeton university press isbn
+kroemer herbert charles kittel thermal physics nd ed w h freeman company isbn
+lambert frank l entropysiteoxyedu
+penrose roger road reality complete guide laws universe new york knopf isbn
+reif f fundamentals statistical thermal physics mcgrawhill isbn
+schroeder daniel v introduction thermal physics new york addison wesley longman isbn
+serway raymond physics scientists engineers saunders golden subburst series isbn
+spiraxsarco limited entropy basic understanding primer entropy tables steam engineering
+vonbaeyer hans christian maxwells demon warmth disperses time passes random house isbn
+entropy beginners wikibook
+intuitive guide concept entropy arising various sectors science wikibook
+external linksedit
+entropy second law thermodynamics alevel physics lecture detailed derivation entropy based carnot cycle
+khan academy entropy lectures part chemistry playlist
+proof entropy valid state variable
+thermodynamic entropy definition clarification
+reconciling thermodynamic state definitions entropy
+entropy intuition
+entropy
+second law thermodynamics entropy yale oyc lecture part fundamentals physics phys
+entropy clausius inequality mit ocw lecture part thermodynamics kinetics spring
+discovery entropy adam shulman hourlong video january
+moriarty philip merrifield michael entropy sixty symbols brady haran university nottingham
+entropy scholarpedia

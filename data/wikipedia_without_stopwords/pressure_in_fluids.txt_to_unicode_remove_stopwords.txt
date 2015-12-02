@@ -1,0 +1,64 @@
+hydrostatics branch fluid mechanics studies incompressible fluids rest encompasses study conditions fluids rest stable equilibrium opposed fluid dynamics study fluids motion hydrostatics categorized part fluid statics study fluids incompressible rest
+hydrostatics fundamental hydraulics engineering equipment storing transporting using fluids also relevant geophysics astrophysics example understanding plate tectonics anomalies earths gravitational field meteorology medicine context blood pressure many fields
+hydrostatics offers physical explanations many phenomena everyday life atmospheric pressure changes altitude wood oil float water surface water always flat horizontal whatever shape container
+history
+principles hydrostatics known empirical intuitive sense since antiquity builders boats cisterns aqueducts fountains archimedes credited discovery mathematical law bears name relates buoyancy force volume density displaced fluid roman engineer vitruvius warned readers lead pipes bursting hydrostatic pressure
+concept pressure way transmitted fluids formulated french mathematician philosopher blaise pascal
+pressure fluids rest
+due fundamental nature fluids fluid cannot remain rest presence shear stress however fluids exert pressure normal contacting surface point fluid thought infinitesimally small cube follows principles equilibrium pressure every side unit fluid must equal case fluid would move direction resulting force thus pressure fluid rest isotropic ie acts equal magnitude directions characteristic allows fluids transmit force length pipes tubes ie force applied fluid pipe transmitted via fluid end pipe principle first formulated slightly extended form blaise pascal called pascals law
+hydrostatic pressure
+fluid rest frictional stresses vanish state stress system called hydrostatic condition v applied navierstokes equation gradient pressure becomes function body forces barotropic fluid conservative force field like gravitational force field pressure exerted fluid equilibrium becomes function force exerted gravity
+hydrostatic pressure determined control volume analysis infinitesimally small cube fluid since pressure defined force exerted test area p fa p pressure f force normal area area force acting small cube fluid weight fluid column hydrostatic pressure calculated according following formula
+p hydrostatic pressure pa
+fluid density kgm
+g gravitational acceleration ms
+test area m
+z height parallel direction gravity test area m
+z height zero reference point pressure m
+water liquids integral simplified significantly many practical applications based following two assumptions since many liquids considered incompressible reasonably good estimation made assuming constant density throughout liquid assumption cannot made within gaseous environment also since height h fluid column z z often reasonably small compared radius earth one neglect variation g circumstances integral boils simple formula
+h height z z liquid column test volume zero reference point pressure note reference point lie surface liquid otherwise one split integral two terms constant liquid zabove example absolute pressure compared vacuum
+h total height liquid column test area surface patm atmospheric pressure ie pressure calculated remaining integral air column liquid surface infinity easily visualized using pressure prism
+hydrostatic pressure used preservation foods process called pascalization
+medicine
+medicine hydrostatic pressure blood vessels pressure blood wall opposing force oncotic pressure
+atmospheric pressure
+statistical mechanics shows gas constant temperature pressure p vary height h
+g acceleration due gravity
+absolute temperature
+k boltzmann constant
+m mass single molecule gas
+p pressure
+h height
+known barometric formula may derived assuming pressure hydrostatic
+multiple types molecules gas partial pressure type given equation conditions distribution species gas independent species
+buoyancy
+body arbitrary shape immersed partly fully fluid experience action net force opposite direction local pressure gradient pressure gradient arises gravity net force vertical direction opposite gravitational force vertical force termed buoyancy buoyant force equal magnitude opposite direction weight displaced fluid mathematically
+density fluid g acceleration due gravity v volume fluid directly curved surface case ship instance weight balanced pressure forces surrounding water allowing float cargo loaded onto ship would sink water displacing water thus receive higher buoyant force balance increased weight
+discovery principle buoyancy attributed archimedes
+hydrostatic force submerged surfaces
+horizontal vertical components hydrostatic force acting submerged surface given following
+pc pressure center vertical projection submerged surface
+area vertical projection surface
+density fluid
+g acceleration due gravity
+v volume fluid directly curved surface
+liquids fluids free surfaces
+liquids free surfaces interface gases vacuum general lack ability sustain shear stress entails free surfaces rapidly adjust towards equilibrium however small length scales important balancing force surface tension
+capillary action
+liquids constrained vessels whose dimensions small compared relevant length scales surface tension effects become important leading formation meniscus capillary action capillary action profound consequences biological systems part one two driving mechanisms flow water plant xylem transpirational pull
+hanging drops
+without surface tension drops would able form dimensions stability drops determined surface tensionthe drops surface tension directly proportional cohesion property fluid founded sarode sir deore sir sapkal also tajane sir
+see also
+communicating vessels
+hydrostatic test
+ddia
+references
+reading
+batchelor george k introduction fluid dynamics cambridge university press isbn
+falkovich gregory fluid mechanics short course physicists cambridge university press isbn
+kundu pijush k cohen ira m fluid mechanics th revised ed academic press isbn
+currie g fundamental mechanics fluids mcgrawhill inc isbn
+massey b wardsmith j mechanics fluids th ed taylor francis isbn
+white frank m fluid mechanics mcgrawhill isbn
+external links
+jb calvert hydrostatics university denver accessed

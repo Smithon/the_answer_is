@@ -1,0 +1,124 @@
+photoelectric effect observation many metals emit electrons light shines upon electrons emitted manner called photoelectrons phenomenon commonly studied electronic physics well fields chemistry quantum chemistry electrochemistry
+according classical electromagnetic theory effect attributed transfer energy light electron metal perspective alteration either intensity wavelength light would induce changes rate emission electrons metal furthermore according theory sufficiently dim light would expected show time lag initial shining light subsequent emission electron however experimental results correlate either two predictions made classical theory
+instead electrons dislodged impingement photons photons reach exceed threshold frequency threshold electrons emitted metal regardless light intensity length time exposure light make sense fact light eject electrons even intensity low albert einstein proposed beam light wave propagating space rather collection discrete wave packets photons energy hf shed light max plancks previous discovery planck relation e hf linking energy e frequency f arising quantization energy factor h known planck constant
+heinrich hertz discovered electrodes illuminated ultraviolet light create electric sparks easily albert einstein published paper explained experimental data photoelectric effect result light energy carried discrete quantized packets discovery led quantum revolution robert millikans experiment confirmed einsteins law photoelectric effect einstein awarded nobel prize discovery law photoelectric effect millikan awarded nobel prize work elementary charge electricity photoelectric effect
+photoelectric effect requires photons energies electronvolts mev elements high atomic number study photoelectric effect led important steps understanding quantum nature light electrons influenced formation concept waveparticle duality phenomena light affects movement electric charges include photoconductive effect also known photoconductivity photoresistivity photovoltaic effect photoelectrochemical effect
+emission mechanismedit
+photons light beam characteristic energy proportional frequency light photoemission process electron within material absorbs energy one photon acquires energy work function electron binding energy material ejected photon energy low electron unable escape material since increase intensity lowfrequency light increase number lowenergy photons sent given interval time change intensity create single photon enough energy dislodge electron thus energy emitted electrons depend intensity incoming light energy equivalently frequency individual photons interaction incident photon outermost electrons
+electrons absorb energy photons irradiated usually follow nothing principle energy one photon must absorbed used liberate one electron atomic binding else energy reemitted photon energy absorbed energy liberates electron atom rest contributes electrons kinetic energy free particle
+experimental observations photoelectric emissionedit
+theory photoelectric effect must explain experimental observations emission electrons illuminated metal surface
+given metal exists certain minimum frequency incident radiation photoelectrons emitted frequency called threshold frequency increasing frequency incident beam keeping number incident photons fixed would result proportionate increase energy increases maximum kinetic energy photoelectrons emitted thus stopping voltage increases number electrons also changes probability photon results emitted electron function photon energy intensity incident radiation given frequency increased effect kinetic energy photoelectron
+threshold frequency maximum kinetic energy emitted photoelectron depends frequency incident light independent intensity incident light long latter high
+given metal frequency incident radiation rate photoelectrons ejected directly proportional intensity incident light increase intensity incident beam keeping frequency fixed increases magnitude photoelectric current although stopping voltage remains
+time lag incidence radiation emission photoelectron small less second
+direction distribution emitted electrons peaks direction polarization direction electric field incident light linearly polarized
+mathematical descriptionedit
+maximum kinetic energy ejected electron given
+planck constant frequency incident photon term work function sometimes denoted gives minimum energy required remove delocalised electron surface metal work function satisfies
+threshold frequency metal maximum kinetic energy ejected electron
+kinetic energy positive must photoelectric effect occur
+stopping potentialedit
+relation current applied voltage illustrates nature photoelectric effect discussion light source illuminates plate p another plate electrode q collects emitted electrons vary potential p q measure current flowing external circuit two plates
+frequency intensity incident radiation fixed photoelectric current increases gradually increase positive potential collector electrode photoelectrons emitted collected photoelectric current attains saturation value increase increase positive potential saturation current increases increase light intensity also increases greater frequencies due greater probability electron emission collisions happen higher energy photons
+apply negative potential collector plate q respect plate p gradually increase photoelectric current decreases becoming zero certain negative potential negative potential collector photoelectric current becomes zero called stopping potential cut potential
+given frequency incident radiation stopping potential independent intensity
+ii given frequency incident radiation stopping potential determined maximum kinetic energy photoelectrons emitted qe charge electron stopping potential work done retarding potential stopping electron
+recalling
+see stopping voltage varies linearly frequency light depends type material particular material threshold frequency must exceeded independent light intensity observe electron emission
+threestep modeledit
+xray regime photoelectric effect crystalline material often decomposed three steps
+inner photoelectric effect see photodiode hole left behind give rise auger effect visible even electron leave material molecular solids phonons excited step may visible lines final electron energy inner photoeffect dipole allowed transition rules atoms translate via tightbinding model onto crystal similar geometry plasma oscillations transversal
+ballistic transport half electrons surface electrons scattered
+electrons escape material surface
+threestep model electron take multiple paths three steps paths interfere sense path integral formulation surface states molecules threestep model still make sense even atoms multiple electrons scatter one electron leaving
+historyedit
+surface exposed electromagnetic radiation certain threshold frequency typically visible light alkali metals near ultraviolet metals extreme ultraviolet nonmetals radiation absorbed electrons emitted light especially ultraviolet light discharges negatively electrified bodies production rays nature cathode rays certain circumstances directly ionize gases first phenomena discovered hertz hallwachs second announced first philipp lenard
+ultraviolet light produce effects may obtained arc lamp burning magnesium sparking induction coil zinc cadmium terminals light rich ultraviolet rays sunlight rich ultraviolet rays absorbed atmosphere produce nearly large effect arclight many substances besides metals discharge negative electricity action ultraviolet light lists substances found papers g c schmidt o knoblauch
+th centuryedit
+alexandre edmond becquerel discovered photovoltaic effect studying effect light electrolytic cells though equivalent photoelectric effect work photovoltaics instrumental showing strong relationship light electronic properties materials willoughby smith discovered photoconductivity selenium testing metal high resistance properties conjunction work involving submarine telegraph cables
+johann elster hans geitel students heidelberg developed first practical photoelectric cells could used measure intensity light elster geitel investigated great success effects produced light electrified bodies
+heinrich hertz observed photoelectric effect production reception electromagnetic waves published observations journal annalen der physik receiver consisted coil spark gap spark would seen upon detection electromagnetic waves placed apparatus darkened box see spark better however noticed maximum spark length reduced box glass panel placed source electromagnetic waves receiver absorbed ultraviolet radiation assisted electrons jumping across gap removed spark length would increase observed decrease spark length replaced glass quartz quartz absorb uv radiation hertz concluded months investigation reported results obtained pursue investigation effect
+discovery hertz incidence ultraviolet light spark gap facilitated passage spark led immediately series investigations hallwachs hoor righi stoletow effect light especially ultraviolet light charged bodies proved investigations newly cleaned surface zinc charged negative electricity rapidly loses charge however small may ultraviolet light falls upon surface surface uncharged begin acquires positive charge exposed light negative electrification going gas metal surrounded positive electrification much increased directing strong airblast surface however zinc surface positively electrified suffers loss charge exposed light result questioned careful examination phenomenon elster geitel shown loss observed certain circumstances due discharge light reflected zinc surface negative electrification neighbouring conductors induced positive charge negative electricity influence electric field moving positively electrified surface
+regard hertz effect researches start showed great complexity phenomenon photoelectric fatigue progressive diminution effect observed upon fresh metallic surfaces according important research wilhelm hallwachs ozone played important part phenomenon however elements enter oxidation humidity mode polish surface etc time even sure fatigue absent vacuum
+period february detailed analysis photoeffect performed aleksandr stoletov results published works four comptes rendus one review physikalische revue translated russian last work journal de physique first works stoletov invented new experimental setup suitable quantitative analysis photoeffect using setup discovered direct proportionality intensity light induced photo electric current first law photoeffect stoletovs law one findings resulted measurements dependence intensity electric photo current gas pressure found existence optimal gas pressure pm corresponding maximum photocurrent property used creation solar cells
+j j thomson investigated ultraviolet light crookes tubes thomson deduced ejected particles previously found cathode ray later called electrons called corpuscles research thomson enclosed metal plate cathode vacuum tube exposed high frequency radiation thought oscillating electromagnetic fields caused atoms field resonate reaching certain amplitude caused subatomic corpuscle emitted current detected amount current varied intensity colour radiation larger radiation intensity frequency would produce current
+th centuryedit
+discovery ionization gases ultraviolet light made philipp lenard effect produced across several centimeters air made great positive small negative ions natural interpret phenomenon j j thomson hertz effect upon solid liquid particles present gas
+lenard observed energy individual emitted electrons increased frequency related color light
+appeared odds maxwells wave theory light predicted electron energy would proportional intensity radiation
+lenard observed variation electron energy light frequency using powerful electric arc lamp enabled investigate large changes intensity sufficient power enable investigate variation potential light frequency experiment directly measured potentials electron kinetic energy found electron energy relating maximum stopping potential voltage phototube found calculated maximum electron kinetic energy determined frequency light example increase frequency results increase maximum kinetic energy calculated electron upon liberation ultraviolet radiation would require higher applied stopping potential stop current phototube blue light however lenards results qualitative rather quantitative difficulty performing experiments experiments needed done freshly cut metal pure metal observed oxidised matter minutes even partial vacuums used current emitted surface determined lights intensity brightness doubling intensity light doubled number electrons emitted surface
+researches langevin eugene bloch shown greater part lenard effect certainly due hertz effect lenard effect upon gas nevertheless exist refound j j thomson decisively frederic palmer jr studied showed different characteristics first attributed lenard
+albert einstein solved apparent paradox describing light composed discrete quanta called photons rather continuous waves based upon max plancks theory blackbody radiation einstein theorized energy quantum light equal frequency multiplied constant later called plancks constant photon threshold frequency required energy eject single electron creating observed effect discovery led quantum revolution physics earned einstein nobel prize physics waveparticle duality effect analyzed purely terms waves though conveniently
+albert einsteins mathematical description photoelectric effect caused absorption quanta light one papers named heuristic viewpoint concerning production transformation light paper proposed simple description light quanta photons showed explained phenomena photoelectric effect simple explanation terms absorption discrete quanta light explained features phenomenon characteristic frequency
+idea light quanta began max plancks published law blackbody radiation law distribution energy normal spectrum assuming hertzian oscillators could exist energies e proportional frequency f oscillator e hf h plancks constant assuming light actually consisted discrete energy packets einstein wrote equation photoelectric effect agreed experimental results explained energy photoelectrons dependent frequency incident light intensity lowintensity highfrequency source could supply high energy photons whereas highintensity lowfrequency source would supply photons sufficient individual energy dislodge electrons enormous theoretical leap concept strongly resisted first contradicted wave theory light followed naturally james clerk maxwells equations electromagnetic behavior generally assumption infinite divisibility energy physical systems even experiments showed einsteins equations photoelectric effect accurate resistance idea photons continued since appeared contradict maxwells equations wellunderstood verified
+einsteins work predicted energy individual ejected electrons increases linearly frequency light perhaps surprisingly precise relationship time tested known energy photoelectrons increases increasing frequency incident light independent intensity light however manner increase experimentally determined robert andrews millikan showed einsteins prediction correct
+photoelectric effect helped propel thenemerging concept waveparticle duality nature light light simultaneously possesses characteristics waves particles manifested according circumstances effect impossible understand terms classical wave description light energy emitted electrons depend intensity incident radiation classical theory predicted electrons would gather energy period time emitted
+uses effectsedit
+photomultipliersedit
+extremely lightsensitive vacuum tubes photocathode coated onto part end side inside envelope photocathode contains combinations materials caesium rubidium antimony specially selected provide low work function illuminated even low levels light photocathode readily releases electrons means series electrodes dynodes everhigher potentials electrons accelerated substantially increased number secondary emission provide readily detectable output current photomultipliers still commonly used wherever low levels light must detected
+image sensorsedit
+video camera tubes early days television used photoelectric effect example philo farnsworths image dissector used screen charged photoelectric effect transform optical image scanned electronic signal
+goldleaf electroscopeedit
+goldleaf electroscopes designed detect static electricity charge placed metal cap spreads stem gold leaf electroscope charge stem leaf repel cause leaf bend away stem
+electroscope important tool illustrating photoelectric effect example electroscope negatively charged throughout excess electrons leaf separated stem highfrequency light shines cap electroscope discharges leaf fall limp frequency light shining cap caps threshold frequency photons light enough energy liberate electrons cap reducing negative charge discharge negatively charged electroscope charge positive electroscope however electromagnetic radiation hitting metal cap high enough frequency frequency threshold value cap leaf never discharge matter long one shines lowfrequency light cap
+photoelectron spectroscopyedit
+since energy photoelectrons emitted exactly energy incident photon minus materials work function binding energy work function sample determined bombarding monochromatic xray source uv source measuring kinetic energy distribution electrons emitted
+photoelectron spectroscopy usually done highvacuum environment since electrons would scattered gas molecules present however companies selling products allow photoemission air light source laser discharge tube synchrotron radiation source
+concentric hemispherical analyser cha typical electron energy analyzer uses electric field change directions incident electrons depending kinetic energies every element core atomic orbital different binding energy many electrons created combinations show spikes analyzer output used determine elemental composition sample
+spacecraftedit
+photoelectric effect cause spacecraft exposed sunlight develop positive charge major problem parts spacecraft shadow develop negative charge nearby plasma imbalance discharge delicate electrical components static charge created photoelectric effect selflimiting though highly charged object gives electrons less easily
+moon dustedit
+light sun hitting lunar dust causes become charged photoelectric effect charged dust repels lifts surface moon electrostatic levitation manifests almost like atmosphere dust visible thin haze blurring distant features visible dim glow sun set first photographed surveyor program probes thought smallest particles repelled kilometers high particles move fountains charge discharge
+night vision devicesedit
+photons hitting thin film alkali metal semiconductor material gallium arsenide image intensifier tube cause ejection photoelectrons due photoelectric effect accelerated electrostatic field strike phosphor coated screen converting electrons back photons intensification signal achieved either acceleration electrons increasing number electrons secondary emissions microchannel plate sometimes combination methods used additional kinetic energy required move electron conduction band vacuum level known electron affinity photocathode another barrier photoemission forbidden band explained band gap model materials gallium arsenide effective electron affinity level conduction band materials electrons move conduction band sufficient energy emitted material film absorbs photons quite thick materials known negative electron affinity materials
+cross sectionedit
+photoelectric effect one interaction mechanism photons atoms one theoretically possible interactions
+high photon energies comparable electron rest energy kev compton scattering another process may take place twice mev pair production may take place compton scattering pair production examples two competing mechanisms
+indeed even photoelectric effect favoured reaction particular singlephoton boundelectron interaction result also subject statistical processes guaranteed albeit photon certainly disappeared bound electron excited usually k l shell electrons gamma ray energies probability photoelectric effect occurring measured cross section interaction found function atomic number target atom photon energy crude approximation photon energies highest atomic binding energy given
+z atomic number n number varies lower photon energies characteristic structure edges appears k edge l edges m edges etc obvious interpretation follows photoelectric effect rapidly decreases significance gamma ray region spectrum increasing photon energy photoelectric effect increases steeply atomic number corollary highz materials make good gammaray shields principal reason lead z preferred ubiquitous gamma radiation shield
+see alsoedit
+electronics
+photocurrent
+photomultiplier
+solar cell
+solar energy
+physics
+anomalous photovoltaic effect
+dember effect
+photodember
+photomagnetic effect
+corona discharge
+photoelectron spectroscopy
+plancks law black body radiation
+quantum mechanics
+chemistry
+photochemistry
+electrochemistry
+quantum chemistry
+silicon
+boron
+phosphorus
+semiconductor
+metalloid
+nonmetal
+ionization
+crystallized atoms
+lists
+timeline mechanics physics
+referencesedit
+external linksedit
+astronomycast httpwwwastronomycastcomepphotoelectriceffect astronomycast
+nave r waveparticle duality hyperphysics
+photoelectric effect physics university colorado boulder colorado
+acept w group photoelectric effect department physics astronomy arizona state university tempe az
+haberkern thomas n deepak grains mystique quantum physics layman einstein demystifies photoelectric effect chapter
+department physics photoelectric effect physics laboratory davidson college davidson
+fowler michael photoelectric effect physics university virginia
+go concerning heuristic point view toward emission transformation light read english translation einsteins paper retrieved apr
+httpwwwchemistryexplainedcomruspsolarcellshtml
+photoelectric transducers httpsensorsecompageenhtml
+applets
+photoelectric effect physics education technology phet project java
+fendt walter photoelectric effect java
+applet photo effect open source distributed learning content management assessment system java

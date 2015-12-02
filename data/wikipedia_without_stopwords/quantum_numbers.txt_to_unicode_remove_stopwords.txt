@@ -1,0 +1,42 @@
+quantum numbers describe values conserved quantities dynamics quantum system case quantum numbers electrons defined sets numerical values give acceptable solutions schrdinger wave equation hydrogen atom perhaps important aspect quantum mechanics quantization observable quantities since quantum numbers discrete sets integers halfintegers although could approach infinity cases distinguished classical mechanics values range continuously quantum numbers often describe specifically energy levels electrons atoms possibilities include angular momentum spin etc quantum system one quantum numbers thus difficult list possible quantum numbers
+many quantum numbersedit
+question many quantum numbers needed describe given system universal answer hence system one must find answer full analysis system quantized system requires least one quantum number dynamics quantum system described quantum hamiltonian h one quantum number system corresponding energy ie eigenvalue hamiltonian also one quantum number operator o commutes hamiltonian quantum numbers system note operators o defining quantum numbers independent often one way choose set independent operators consequently different situations different sets quantum numbers may used description system
+spatial angular momentum numbersedit
+four quantum numbers describe electron atom completely
+principal quantum number n
+azimuthal quantum number
+magnetic quantum number m
+spin quantum number
+traditional nomenclaturesedit
+many different models proposed throughout history quantum mechanics prominent system nomenclature spawned hundmulliken molecular orbital theory friedrich hund robert mulliken contributions schrdinger slater john lennardjones system nomenclature incorporated bohr energy levels hundmulliken orbital theory observations electron spin based spectroscopy hunds rules
+model describes electrons using four quantum numbers n m ms given also common nomenclature classical description nuclear particle states eg protons neutrons molecular orbitals require different quantum numbers hamiltonian symmetries quite different
+note universal fixed value m ms values rather m ms values random requirement naming schematic used within particular set calculations descriptions must consistent eg orbital occupied first electron p orbital could described m m m m value electron orbital must different yet m assigned electrons orbitals m m m
+rules summarized follows
+example quantum numbers used refer outermost valence electrons carbon c atom located p atomic orbital n nd electron shell p orbital subshell m ms parallel spins
+results spectroscopy indicated two electrons occupy single orbital however two electrons never exact quantum state set quantum numbers according hunds rules addresses pauli exclusion principle fourth quantum number two possible values added ad hoc assumption resolve conflict supposition could later explained detail relativistic quantum mechanics results renowned sterngerlach experiment
+total angular momenta numbersedit
+total momentum particleedit
+one takes spinorbit interaction consideration l operators longer commute hamiltonian eigenvalues therefore change time thus another set quantum numbers used set includes
+example consider following eight states defined quantum numbers
+quantum states system described linear combination eight states however presence spinorbit interaction one wants describe system eight states eigenvectors hamiltonian ie represents state mix others time consider following eight states
+nuclear angular momentum quantum numbersedit
+nuclei entire assembly protons neutrons nucleons resultant angular momentum due angular momenta nucleon usually denoted total angular momentum neutron jn proton jp protons neutrons happens nuclear angular momentum quantum numbers given
+jn jp jn jp jn jp jn jp jn jp jn jp
+parity number used label nuclear angular momentum states examples isotopes hydrogen h carbon c sodium na
+reason unusual fluctuations even differences one nucleon due oddeven numbers protons neutrons pairs nucleons total angular momentum zero like electrons orbitals leaving oddeven numbers unpaired nucleons property nuclear spin important factor operation nmr spectroscopy organic chemistry mri nuclear medicine due nuclear magnetic moment interacting external magnetic field
+elementary particlesedit
+elementary particles contain many quantum numbers usually said intrinsic however understood elementary particles quantum states standard model particle physics hence quantum numbers particles bear relation hamiltonian model quantum numbers bohr atom hamiltonian words quantum number denotes symmetry problem useful quantum field theory distinguish spacetime internal symmetries
+typical quantum numbers related spacetime symmetries spin related rotational symmetry parity cparity tparity related poincar symmetry spacetime typical internal symmetries lepton number baryon number electric charge full list quantum numbers kind see article flavour
+minor often confusing point follows conserved quantum numbers additive elementary particle reaction sum quantum numbers reaction however usually called parity multiplicative ie product conserved multiplicative quantum numbers belong symmetry like parity applying symmetry transformation twice equivalent nothing involution examples abstract group called z
+see alsoedit
+electron configuration
+references external linksedit
+general principlesedit
+dirac paul principles quantum mechanics oxford university press isbn
+atomic physicsedit
+quantum numbers hydrogen atom
+lecture notes quantum numbers
+particle physicsedit
+griffiths david j introduction quantum mechanics nd ed prentice hall isbn x
+halzen francis martin alan d quarks leptons introductory course modern particle physics john wiley sons isbn
+particle data group

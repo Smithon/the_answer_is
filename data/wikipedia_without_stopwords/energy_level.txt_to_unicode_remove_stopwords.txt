@@ -1,0 +1,62 @@
+quantum mechanical system particle boundthat confined spatiallycan take certain discrete values energy contrasts classical particles energy discrete values called energy levels term commonly used energy levels electrons atoms ions molecules bound electric field nucleus also refer energy levels nuclei vibrational rotational energy levels molecules energy spectrum system discrete energy levels said quantized
+potential energy set zero infinite distance atomic nucleus molecule usual convention bound electron states negative potential energy
+atom ion molecule lowest possible energy level electrons said ground state higher energy level said excited electrons higher energy ground state excited one quantum mechanical state energy energy levels degenerate called degenerate energy levels
+explanation
+quantized energy levels result relation particles energy wavelength confined particle electron atom wave function form standing waves stationary states energies corresponding integral numbers wavelengths exist states waves interfere destructively resulting zero probability density elementary examples show mathematically energy levels come particle box quantum harmonic oscillator electron fundamental subatomic particle carries negative electric charge
+history
+first evidence quantization atoms observation spectral lines light sun early joseph von fraunhofer william hyde wollaston notion energy levels proposed danish physicist niels bohr bohr theory atom modern quantum mechanical theory giving explanation energy levels terms schrdinger equation advanced erwin schrdinger werner heisenberg
+atoms
+intrinsic energy levels
+formulas energy electrons various levels given atom zero point energy set electron question completely left atom ie electrons principal quantum number n electron bound atom closer value n electrons energy lower considered negative
+orbital state energy level atomion nucleus one electron
+assume one electron given atomic orbital hydrogenlike atom ion energy state mainly determined electrostatic interaction negative electron positive nucleus energy levels electron around nucleus given
+typically ev ev r rydberg constant z atomic number n principal quantum number h plancks constant c speed light hydrogenlike atoms ions rydberg levels depend principal quantum number n
+equation obtained combining rydberg formula hydrogenlike element shown e h hc assuming principal quantum number n n rydberg formula n principal quantum number energy level electron descends emitting photon rydberg formula derived empirical spectroscopic emission data
+equivalent formula derived quantum mechanically timeindependent schrdinger equation kinetic energy hamiltonian operator using wave function eigenfunction obtain energy levels eigenvalues rydberg constant would replaced fundamental physics constants
+multielectron atoms include electrostatic interaction electron electrons
+one electron around atom electronelectroninteractions raise energy level interactions often neglected spatial overlap electron wavefunctions low
+multielectron atoms interactions electrons cause preceding equation longer accurate stated simply z atomic number simple though complete way understand shielding effect outer electrons see effective nucleus reduced charge since inner electrons bound tightly nucleus partially cancel charge leads approximate correction z substituted effective nuclear charge symbolized zeff depends strongly principal quantum number
+cases orbital types determined azimuthal quantum number well levels within molecule affect zeff therefore also affect various atomic electron energy levels aufbau principle filling atom electrons electron configuration takes differing energy levels account filling atom electrons ground state lowest energy levels filled first consistent pauli exclusion principle aufbau principle hunds rule
+fine structure splitting
+fine structure arises relativistic kinetic energy corrections spinorbit coupling electrodynamic interaction electrons spin motion nucleuss electric field darwin term contact term interaction shell electrons inside nucleus affect levels typical order magnitude ev
+hyperfine structure
+even finer structure due electronnucleus spinspin interaction resulting typical change energy levels typical order magnitude ev
+energy levels due external fields
+zeeman effect
+interaction energy associated magnetic dipole moment l arising electronic orbital angular momentum l given
+additionally taking account magnetic momentum arising electron spin
+due relativistic effects dirac equation magnetic momentum arising electron spin
+gs electronspin gfactor resulting total magnetic moment
+interaction energy therefore becomes
+stark effect
+molecules
+chemical bonds atoms molecule form make situation stable involved atoms generally means sum energy level involved atoms molecule lower atoms bonded separate atoms approach covalently bond orbitals affect others energy levels form bonding antibonding molecular orbitals energy level bonding orbitals lower energy level antibonding orbitals higher bond molecule stable covalent bonding electrons occupy lower energy bonding orbital may signified symbols depending situation corresponding antibonding orbitals signified adding asterisk get orbitals nonbonding orbital molecule orbital electrons outer shells participate bonding energy level constituent atom orbitals designated n orbitals electrons n orbital typically lone pairs polyatomic molecules different vibrational rotational energy levels also involved
+roughly speaking molecular energy state ie eigenstate molecular hamiltonian sum electronic vibrational rotational nuclear translational components
+eelectronic eigenvalue electronic molecular hamiltonian value potential energy surface equilibrium geometry molecule
+molecular energy levels labelled molecular term symbols
+specific energies components vary specific energy state substance
+molecular physics quantum chemistry energy level quantized energy bound quantum mechanical state
+energy level diagrams
+various types energy level diagrams bonds atoms molecule
+examples
+molecular orbital diagrams jablonski diagrams franckcondon diagrams
+energy level transitions
+electrons atoms molecules change make transitions energy levels emitting absorbing photon electromagnetic radiation whose energy must exactly equal energy difference two levels electrons also completely removed chemical species atom molecule ion complete removal electron atom form ionization effectively moving electron orbital infinite principal quantum number effect far away practically effect remaining atom ion various types atoms st nd rd etc ionization energies removing st nd rd etc highest energy electrons respectively atom originally ground state energy corresponding opposite quantities also released sometimes form photon energy electrons added positively charged ions sometimes atoms molecules also undergo transitions vibrational rotational energy levels energy level transitions also nonradiative meaning emission absorption photon involved
+atom ion molecule lowest possible energy level electrons said ground state higher energy level said excited electrons higher energy ground state excited species excited higher energy level absorbing photon whose energy equal energy difference levels conversely excited species go lower energy level spontaneously emitting photon equal energy difference photons energy equal plancks constant h times frequency thus proportional frequency inversely wavelength
+e h hc
+since c speed light equals
+correspondingly many kinds spectroscopy based detecting frequency wavelength emitted absorbed photons provide information material analyzed including information energy levels electronic structure materials obtained analyzing spectrum
+asterisk commonly used designate excited state electron transition molecules bond ground state excited state may designation n meaning excitation electron bonding antibonding orbital bonding antibonding orbital n nonbonding antibonding orbital reverse electron transitions types excited molecules also possible return ground states designated n
+transition energy level electron molecule may combined vibrational transition called vibronic transition vibrational rotational transition may combined rovibrational coupling rovibronic coupling electron transitions simultaneously combined vibrational rotational transitions photons involved transitions may energy various ranges electromagnetic spectrum xray ultraviolet visible light infrared microwave radiation depending type transition general way energy level differences electronic states larger differences vibrational levels intermediate differences rotational levels smaller although overlap translational energy levels practically continuous calculated kinetic energy using classical mechanics
+higher temperature causes fluid atoms molecules move faster increasing translational energy thermally excites molecules higher average amplitudes vibrational rotational modes excites molecules higher internal energy levels means temperature rises translational vibrational rotational contributions molecular heat capacity let molecules absorb heat hold internal energy conduction heat typically occurs molecules atoms collide transferring heat even higher temperatures electrons thermally excited higher energy orbitals atoms molecules subsequent drop electron lower energy level release photon causing possibly colored glow
+electron farther nucleus higher potential energy electron closer nucleus thus becomes less bound nucleus since potential energy negative inversely dependent distance nucleus
+crystalline materials
+crystalline solids found energy bands instead addition energy levels electrons take energy within unfilled band first appears exception requirement energy levels however shown band theory energy bands actually made many discrete energy levels close together resolve within band number levels order number atoms crystal although electrons actually restricted energies appear able take continuum values important energy levels crystal top valence band bottom conduction band fermi level vacuum level energy levels defect states crystal
+see also
+perturbation theory quantum mechanics
+computational chemistry
+spectroscopy
+references
+b c d uvvisible absorption spectra
+theory ultravioletvisible uvvis spectroscopy
+httpchemedchemwisceduchempathsgenchemtextbookelectrondensityandpotentialenergyhtml

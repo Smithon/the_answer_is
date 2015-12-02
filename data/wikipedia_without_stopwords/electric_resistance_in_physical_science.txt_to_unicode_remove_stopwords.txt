@@ -1,0 +1,76 @@
+reaction rate rate reaction speed reaction reactant product particular reaction intuitively defined fast slow reaction takes place example oxidative rusting iron earths atmosphere slow reaction take many years combustion cellulose fire reaction takes place fractions second
+chemical kinetics part physical chemistry studies reaction rates concepts chemical kinetics applied many disciplines chemical engineering enzymology environmental engineering
+formal definition reaction rate
+consider typical chemical reaction
+aa bb pp qq
+lowercase letters b p q represent stoichiometric coefficients capital letters represent reactants b products p q
+according iupacs gold book definition reaction rate r chemical reaction occurring closed system isochoric conditions without buildup reaction intermediates defined
+x denotes concentration substance x note rate reaction always positive negative sign present indicate reactant concentration decreasing iupac recommends unit time always second case rate reaction differs rate increase concentration product p constant factor reciprocal stoichiometric number reactant minus reciprocal stoichiometric number reaction rate usually units mol l important bear mind previous definition valid single reaction closed system constant volume usually implicit assumption must stated explicitly otherwise definition incorrect water added pot containing salty water concentration salt decreases although chemical reaction
+open system full mass balance must taken account generation consumption accumulation
+inflow rate molecules per second outflow instantaneous reaction rate number concentration rather molar given differential volume integrated entire system volume given moment applied closed system constant volume considered previously equation reduces concentration related number molecules avogadro constant
+single reaction closed system varying volume socalled rate conversion used order avoid handling concentrations defined derivative extent reaction respect time
+stoichiometric coefficient substance equal b p q typical reaction also volume reaction concentration substance
+side products reaction intermediates formed iupac recommends use terms rate appearance rate disappearance products reactants properly
+reaction rates may also defined basis volume reactor catalyst used reaction rate may stated catalyst weight mol g surface area mol m basis basis specific catalyst site may rigorously counted specified method rate given units called turnover frequency
+factors influencing rate reaction
+nature reaction reactions naturally faster others number reacting species physical state particles form solids move much slowly gases solution complexity reaction factors greatly influence rate reaction
+concentration reaction rate increases concentration described rate law explained collision theory reactant concentration increases frequency collision increases
+pressure rate gaseous reactions increases pressure fact equivalent increase concentration gasthe reaction rate increases direction fewer moles gas decreases reverse direction condensedphase reactions pressure dependence weak
+order order reaction controls reactant concentration pressure affects reaction rate
+temperature usually conducting reaction higher temperature delivers energy system increases reaction rate causing collisions particles explained collision theory however main reason temperature increases rate reaction colliding particles necessary activation energy resulting successful collisions bonds formed reactants influence temperature described arrhenius equation rule thumb reaction rates many reactions double every degrees celsius increase temperature though effect temperature may much greater lesser depending reaction
+example coal burns fireplace presence oxygen stored room temperature reaction spontaneous low high temperatures room temperature rate slow negligible increase temperature created match allows reaction start heats exothermic valid many fuels methane butane hydrogen
+reaction rates independent temperature nonarrhenius decrease increasing temperature antiarrhenius reactions without activation barrier eg radical reactions tend anti arrhenius temperature dependence rate constant decreases increasing temperature
+solvent many reactions take place solution properties solvent affect reaction rate ionic strength also effect reaction rate
+electromagnetic radiation intensity light electromagnetic radiation form energy may speed rate even make reaction spontaneous provides particles reactants energy energy one way another stored reacting particles may break bonds promote molecules electronically vibrationally excited states creating intermediate species react easily intensity light increases particles absorb energy hence rate reaction increases
+example methane reacts chlorine dark reaction rate slow sped mixture put diffused light bright sunlight reaction explosive
+catalyst presence catalyst increases reaction rate forward reverse reactions providing alternative pathway lower activation energy
+example platinum catalyzes combustion hydrogen oxygen room temperature
+isotopes kinetic isotope effect consists different reaction rate molecule different isotopes usually hydrogen isotopes mass difference hydrogen deuterium
+surface area reactions surfaces take place example heterogeneous catalysis rate reaction increases surface area particles solid exposed hit reactant molecules
+stirring stirring strong effect rate reaction heterogeneous reactions
+factors affect reaction rate except concentration reaction order taken account reaction rate coefficient coefficient rate equation reaction
+rate equation
+chemical reaction b b p p q q rate equation rate law mathematical expression used chemical kinetics link rate reaction concentration reactant kind
+gas phase reaction rate often alternatively expressed partial pressures
+equations reaction rate coefficient rate constant although really constant includes parameters affect reaction rate except concentration explicitly taken account parameters influencing reaction rates temperature normally important one accounted arrhenius equation
+exponents called reaction orders depend reaction mechanism elementary singlestep reactions order respect reactant equal stoichiometric coefficient complex multistep reactions however often true rate equation determined detailed mechanism illustrated reaction h
+elementary reactions reaction steps order stoichiometric coefficient equal molecularity number molecules participating unimolecular reaction step rate proportional concentration molecules reactant rate law first order bimolecular reaction step number collisions proportional product two reactant concentrations second order termolecular step predicted third order also slow simultaneous collisions three molecules rare
+using mass balance system reaction occurs expression rate change concentration derived closed system constant volume expression look like
+example complex reaction reaction hydrogen nitric oxide
+reaction
+observed rate equation rate expression
+many reactions rate equation simply reflect stoichiometric coefficients overall reaction third order overall first order h second order although stoichiometric coefficients reactants equal
+chemical kinetics overall reaction rate often explained using mechanism consisting number elementary steps steps affect rate reaction normally slowest elementary step controls reaction rate example possible mechanism
+fast equilibrium
+slow
+fast
+reactions rapid compared second slow reaction rate determining step bimolecular elementary reaction whose rate given second order equation k rate constant second step
+however unstable intermediate whose concentration determined fact first step equilibrium k equilibrium constant first step substitution equation previous equation leads rate equation expressed terms original reactants
+agrees form observed rate equation assumed practice rate equation used suggest possible mechanisms predict rate equation agreement experiment
+second molecule h appear rate equation reacts third step rapid step ratedetermining step affect overall reaction rate
+temperature dependence
+reaction rate coefficient k temperature dependency usually given arrhenius equation
+ea activation energy r gas constant since temperature molecules energies given boltzmann distribution one expect number collisions energy greater ea proportional preexponential factor frequency factor
+values ea dependent reaction also complex equations possible describe temperature dependence rate constants follow pattern
+chemical reaction takes place reacting particles collide however collisions effective causing reaction products formed colliding particles possess certain minimum energy called threshold energy basically number activated particles nearly doubles temperature kelvin given reaction ratio rate constant higher temperature rate constant lower temperature known temperature coefficient q q commonly used ratio rate constants c apart see q temperature coefficient
+pressure dependence
+pressure dependence rate constant condensedphase reactions ie reactants products solids liquid usually sufficiently weak range pressures normally encountered industry neglected practice
+pressure dependence rate constant associated activation volume reaction proceeding activationstate complex
+activation volume
+denote partial molar volumes reactants products indicates activationstate complex
+reaction one expect change reaction rate constant based either molefraction molarconcentration pressure constant temperature
+practice matter complicated partial molar volumes activation volume function pressure
+reactions increase decrease rates pressure depending value example possible magnitude pressure effect organic reactions shown double reaction rate pressure increased atmospheric mpa mpa gives lmol
+see also
+rate solution
+dilution equation
+diffusioncontrolled reaction
+steady state approximation
+collision theory transition state chemical theories attempt predict explain reaction rates
+isothermal microcalorimetry
+notes
+external links
+chemical kinetics reaction rate order needs flash player
+reaction kinetics examples important rate laws lecture audio
+rates reaction
+overview bimolecular reactions reactions involving two reactants

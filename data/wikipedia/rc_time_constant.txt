@@ -1,0 +1,37 @@
+the rc time constant also called tau is the time constant (in seconds) of an rc circuit is equal to the product of the circuit resistance (in ohms) and the circuit capacitance (in farads) i.e
+it is the time required to charge the capacitor through the resistor by 63.2 percent of the difference between the initial value and final value or discharge the capacitor to 36.8 percent this value is derived from the mathematical constant e specifically  more specifically as voltage to charge the capacitor versus time
+charging
+discharging
+== cutoff frequency ==
+the time constant is related to the cutoff frequency fc an alternative parameter of the rc circuit by
+or equivalently
+where resistance in ohms and capacitance in farads yields the time constant in seconds or the frequency in hz
+short conditional equations:
+fc in hz = 159155 / in s
+in s = 159155 / fc in hz
+other useful equations are:
+rise time (20% to 80%)
+rise time (10% to 90%)
+standard time constants and cutoff frequenciesfor pre-emphasis/de-emphasis rc filters:
+in more complicated circuits consisting of more than one resistor and/or capacitor the open-circuit time constant method provides a way of approximating the cutoff frequency by computing a sum of several rc time constants
+== delay ==
+the signal delay of a wire or other circuit measured as group delay or phase delay or the effective propagation delay of a digital transition may be dominated by resistive-capacitive effects depending on the distance and other parameters or may alternatively be dominated by inductive wave and speed of light effects in other realms
+resistive-capacitive delay or rc delay hinders the further increasing of speed in microelectronic integrated circuits when the feature size becomes smaller and smaller to increase the clock speed the rc delay plays an increasingly important role this delay can be reduced by replacing the aluminum conducting wire by copper thus reducing the resistance; it can also be reduced by changing the interlayer dielectric (typically silicon dioxide) to low-dielectric-constant materials thus reducing the capacitance
+the typical digital propagation delay of a resistive wire is about half of r times c; since both r and c are proportional to wire length the delay scales as the square of wire length charge spreads by diffusion in such a wire as explained by lord kelvin in the mid nineteenth century until heaviside discovered that maxwell's equations imply wave propagation when sufficient inductance is in the circuit this square diffusion relationship was thought to provide a fundamental limit to the improvement of long-distance telegraph cables that old analysis was superseded in the telegraph domain but remains relevant for long on-chip interconnects
+== see also ==
+cutoff frequency and frequency response
+emphasis preemphasis deemphasis
+exponential decay
+filter (signal processing) and transfer function
+high-pass filter low-pass filter band-pass filter
+rl circuit and rlc circuit
+== references ==
+^ http://hyperphysics.phy-astr.gsu.edu/hbase/electric/capdis.html
+^ andrew gray (1908) lord kelvin dent
+^ ido yavetz (1995) from obscurity to enigma birkhuser isbn 3-7643-5180-2
+^ jari nurmi hannu tenhunen jouni isoaho and axel jantsch (2004) interconnect-centric design for advanced soc and noc springer isbn 1-4020-7835-8
+^ scott hamilton (2007) an analog electronics companion cambridge university press isbn 0-521-68780-2
+== external links ==
+rc time constant calculator
+conversion time constant to cutoff frequency fc and back
+rc time constant

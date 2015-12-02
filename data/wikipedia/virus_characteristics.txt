@@ -1,0 +1,15 @@
+ada is a computer virus that can affect any of the dos operating systems ada was first discovered in 1991
+== history ==
+ada virus was first discovered in argentina in october 1991
+== virus characteristics ==
+ada is a memory resident (stays in the memory of the computer it infects after the program it infect executes) virus that infects files the ada virus mainly targets com files specifically command.com
+infected programs will have 2,600 bytes additional data inserted at the beginning of the file and the file itself will contain the text strings:
+command.com
+pccillin.com
+pccillin.img
+hati-hati  ada virus disini delete
+computers infected with the ada virus will often have a slow clicking sound emitting from their speakers; this clicking may sometimes change in pitch computers infected also may show a "disk full" error even if the disk still has space on it
+while infected with the ada virus system memory measured by the dos chkdsk decreases by 21,296 bytes to 21,312 bytes the virus will reside in the memory after an infected file is run and will infect any other com files executed on the computer it will also hijack interrupts 08 13 and 21
+== infection route ==
+there is only one way to infect a computer with the ada virus; by executing an infected file the infected file may come from a variety of sources: floppy disks files downloaded from the internet and infected networks
+== references ==

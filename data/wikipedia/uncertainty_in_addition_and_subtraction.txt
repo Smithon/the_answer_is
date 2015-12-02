@@ -1,0 +1,112 @@
+in mathematics a binary operation is commutative if changing the order of the operands does not change the result it is a fundamental property of many binary operations and many mathematical proofs depend on it most familiar as the name of the property that says "3 + 4 = 4 + 3" or "2 5 = 5 2" the property can also be used in more advanced settings the name is needed because there are operations such as division and subtraction that do not have it (for example "3 5 5 3") such operations are not commutative or noncommutative operations the idea that simple operations such as multiplication and addition of numbers are commutative was for many years implicitly assumed and the property was not named until the 19th century when mathematics started to become formalized
+== common uses ==
+the commutative property (or commutative law) is a property generally associated with binary operations and functions if the commutative property holds for a pair of elements under a certain binary operation then the two elements are said to commute under that operation
+== mathematical definitions ==
+the term "commutative" is used in several related senses
+== examples ==
+=== commutative operations in everyday life ===
+putting on socks resembles a commutative operation since which sock is put on first is unimportant either way the result (having both socks on) is the same in contrast putting on underwear and trousers is not commutative
+the commutativity of addition is observed when paying for an item with cash regardless of the order the bills are handed over in they always give the same total
+=== commutative operations in mathematics ===
+two well-known examples of commutative binary operations:
+the addition of real numbers is commutative since
+for example 4 + 5 = 5 + 4 since both expressions equal 9
+the multiplication of real numbers is commutative since
+for example 3 5 = 5 3 since both expressions equal 15
+some binary truth functions are also commutative since the truth tables for the functions are the same when one changes the order of the operands
+for example the logical biconditional function p q is equivalent to q p this function is also written as p iff q or as p q or as epq
+the last form is an example of the most concise notation in the article on truth functions which lists the sixteen possible binary truth functions of which eight are commutative: vpq = vqp; apq (or) = aqp; dpq (nand) = dqp; epq (iff) = eqp; jpq = jqp; kpq (and) = kqp; xpq (nor) = xqp; opq = oqp
+further examples of commutative binary operations include addition and multiplication of complex numbers addition and scalar multiplication of vectors and intersection and union of sets
+=== noncommutative operations in everyday life ===
+concatenation the act of joining character strings together is a noncommutative operation for example
+washing and drying clothes resembles a noncommutative operation; washing and then drying produces a markedly different result to drying and then washing
+rotating a book 90 around a vertical axis then 90 around a horizontal axis produces a different orientation than when the rotations are performed in the opposite order
+the twists of the rubik's cube are noncommutative this can be studied using group theory
+also thought processes are noncommutative: a person asked a question (a) and then a question (b) may give different answers to each question than a person asked first (b) and then (a) because asking a question may change the person's state of mind
+=== noncommutative operations in mathematics ===
+some noncommutative binary operations:
+subtraction is noncommutative since
+division is noncommutative since
+some truth functions are noncommutative since the truth tables for the functions are different when one changes the order of the operands
+for example the truth tables for f (a,b) = a b (a and not b) and f (b,a) = b a are
+matrix multiplication is noncommutative since
+the vector product (or cross product) of two vectors in three dimensions is anti-commutative i.e. b a = (a b)
+== history and etymology ==
+records of the implicit use of the commutative property go back to ancient times the egyptians used the commutative property of multiplication to simplify computing products euclid is known to have assumed the commutative property of multiplication in his book elements formal uses of the commutative property arose in the late 18th and early 19th centuries when mathematicians began to work on a theory of functions today the commutative property is a well known and basic property used in most branches of mathematics
+the first recorded use of the term commutative was in a memoir by franois servois in 1814 which used the word commutatives when describing functions that have what is now called the commutative property the word is a combination of the french word commuter meaning "to substitute or switch" and the suffix -ative meaning "tending to" so the word literally means "tending to substitute or switch." the term then appeared in english in philosophical transactions of the royal society in 1844
+== propositional logic ==
+=== rule of replacement ===
+in truth-functional propositional logic commutation or commutativity refer to two valid rules of replacement the rules allow one to transpose propositional variables within logical expressions in logical proofs the rules are:
+and
+where "" is a metalogical symbol representing "can be replaced in a proof with."
+=== truth functional connectives ===
+commutativity is a property of some logical connectives of truth functional propositional logic the following logical equivalences demonstrate that commutativity is a property of particular connectives the following are truth-functional tautologies
+commutativity of conjunction
+commutativity of disjunction
+commutativity of implication (also called the law of permutation)
+commutativity of equivalence (also called the complete commutative law of equivalence)
+== set theory ==
+in group and set theory many algebraic structures are called commutative when certain operands satisfy the commutative property in higher branches of mathematics such as analysis and linear algebra the commutativity of well-known operations (such as addition and multiplication on real and complex numbers) is often used (or implicitly assumed) in proofs
+== mathematical structures and commutativity ==
+a commutative semigroup is a set endowed with a total associative and commutative operation
+if the operation additionally has an identity element we have a commutative monoid
+an abelian group or commutative group is a group whose group operation is commutative
+a commutative ring is a ring whose multiplication is commutative (addition in a ring is always commutative.)
+in a field both addition and multiplication are commutative
+== related properties ==
+=== associativity ===
+the associative property is closely related to the commutative property the associative property of an expression containing two or more occurrences of the same operator states that the order operations are performed in does not affect the final result as long as the order of terms doesn't change in contrast the commutative property states that the order of the terms does not affect the final result
+most commutative operations encountered in practice are also associative however commutativity does not imply associativity a counterexample is the function
+which is clearly commutative (interchanging x and y does not affect the result) but it is not associative (since for example but ) more such examples may be found in commutative non-associative magmas
+=== symmetry ===
+some forms of symmetry can be directly linked to commutativity when a commutative operator is written as a binary function then the resulting function is symmetric across the line y = x as an example if we let a function f represent addition (a commutative operation) so that f(x,y) = x + y then f is a symmetric function which can be seen in the image on the right
+for relations a symmetric relation is analogous to a commutative operation in that if a relation r is symmetric then 
+== non-commuting operators in quantum mechanics ==
+in quantum mechanics as formulated by schrdinger physical variables are represented by linear operators such as x (meaning multiply by x) and  these two operators do not commute as may be seen by considering the effect of their compositions and (also called products of operators) on a one-dimensional wave function :
+according to the uncertainty principle of heisenberg if the two operators representing a pair of variables do not commute then that pair of variables are mutually complementary which means they cannot be simultaneously measured or known precisely for example the position and the linear momentum in the x-direction of a particle are represented respectively by the operators and (where is the reduced planck constant) this is the same example except for the constant  so again the operators do not commute and the physical meaning is that the position and linear momentum in a given direction are complementary
+== see also ==
+anticommutativity
+associative property
+binary operation
+centralizer or commutant
+commutative diagram
+commutative (neurophysiology)
+commutator
+distributivity
+parallelogram law
+particle statistics (for commutativity in physics)
+quasi-commutative property
+symmetric relation
+trace monoid
+truth function
+truth table
+== notes ==
+== references ==
+=== books ===
+axler sheldon (1997) linear algebra done right 2e springer isbn 0-387-98258-2
+abstract algebra theory covers commutativity in that context uses property throughout book
+copi irving m.; cohen carl (2005) introduction to logic prentice hall
+gallian joseph (2006) contemporary abstract algebra 6e boston mass.: houghton mifflin isbn 0-618-51471-6
+linear algebra theory explains commutativity in chapter 1 uses it throughout
+goodman frederick (2003) algebra: abstract and concrete stressing symmetry 2e prentice hall isbn 0-13-067342-0
+abstract algebra theory uses commutativity property throughout book
+hurley patrick (1991) a concise introduction to logic 4th edition wadsworth publishing
+=== articles ===
+http://www.ethnomath.org/resources/lumpkin1997.pdf lumpkin b (1997) the mathematical legacy of ancient egypt - a response to robert palter unpublished manuscript
+article describing the mathematical ability of ancient civilizations
+robins r gay and charles c d shute 1987 the rhind mathematical papyrus: an ancient egyptian text london: british museum publications limited isbn 0-7141-0944-4
+translation and interpretation of the rhind mathematical papyrus
+=== online resources ===
+hazewinkel michiel ed (2001) "commutativity" encyclopedia of mathematics springer isbn 978-1-55608-010-4
+krowne aaron commutative at planetmath.org. accessed 8 august 2007
+definition of commutativity and examples of commutative operations
+weisstein eric w. "commute" mathworld. accessed 8 august 2007
+explanation of the term commute
+yark examples of non-commutative operations at planetmath.org. accessed 8 august 2007
+examples proving some noncommutative operations
+o'conner j j and robertson e f mactutor history of real numbers accessed 8 august 2007
+article giving the history of the real numbers
+cabilln julio and miller jeff earliest known uses of mathematical terms accessed 22 november 2008
+page covering the earliest uses of mathematical terms
+o'conner j j and robertson e f mactutor biography of franois servois accessed 8 august 2007
+biography of francois servois who first used the term

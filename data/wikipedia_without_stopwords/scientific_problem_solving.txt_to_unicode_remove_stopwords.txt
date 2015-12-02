@@ -1,0 +1,51 @@
+scientific computing imaging institute sci research institute located university utah campus salt lake city utah objective create new scientific computing techniques tools systems applications various fields including high performance computing scientific visualization image analysis computational biology data science graphics
+history
+sci institute began research group started drs chris johnson rob macleod cohort graduate students became center scientific computing imaging name changed scientific computing imaging institute sci institute one eight permanent research institutes university utah home faculty students staff faculty drawn primarily school computing department bioengineering department mathematics department electrical computer engineering virtually faculty adjunct appointments largely medical departments recent growth sci institute come part award state utah ustar cluster imaging technology allowed sci institute recruit new faculty image analysis scientific visualization july sci chosen one three nvidia centers excellence us university illinois harvard university two nvidia centers ustar funding allowed recruitment faculty genomic signal processing information visualization sci institute recruited faculty uncertainty quantification
+academics
+school computing collaborated faculty sci institute create graduate degree computing offers tracks scientific computing graphics image analysis planned physical infrastructure also outstanding many largescale computing facilities disposal students trainees perhaps exciting new nvidia computing cluster along new graduate course parallel programming gpus provides opportunities developing unique expertise largescale streaming architectures sci faculty also provide leadership developing educational research tracks biomedical engineering bioengineering department undergraduate graduate tracks computing imaging part created directed sci faculty also graduate track cardiac electrophysiology biophysics directed sci faculty supported collaboration sci cardiovascular research training institute cvrti
+research
+past decade sci institute established internationally recognized leader visualization scientific computing image analysis applied broad range application domains overarching research objective conduct applicationdriven research creation new scientific computing techniques tools systems given proximity availability research conducted university utah school medicine important application focus medicine sci institute researchers also apply computational techniques particular scientific engineering subspecialties fluid dynamics biomechanics electrophysiology bioelectric fields uncertainty visualization parallel computing inverse problems neuroimaging
+sci institute known development innovative robust software packages including scirun scientific problem solving environment segd imagevisd vistrails visus mapd packages broadly available scientific community open source licensing supported web pages documentation users groups
+associated research centers
+sci institute houses nihncrr center integrative biomedical computing cibc associated several national research centers
+doe scalable data management analysis visualization sdav
+musculoskeletal research laboratories mrl
+doe center simulation accidental fires explosions csafe
+orly alter genomic signal processing lab alterlaborg
+center extreme data management analysis visualization cedmav
+utah center neuroimage analysis ucnia
+doe unconventional renewable energy research utilizing advanced computer simulations doenetl
+open wildland fire modeling ecommunity
+nvidia cuda center excellence
+alliance computationallyguided design energy efficient electronic materials cdem
+nih national alliance medical image computing namic
+institute applied mathematics computational science iamcskaust
+cdc decisionsupport infectious disease epidemiology
+open source software releases
+besides research areas mentioned particular focus sci develop innovative robust software packages release opensource software latest releases source code lives github examples
+scirun problem solving environment pse modeling simulation visualization scientific problems
+biomeshd tetrahedral mesh generator capable generating multimaterial quality meshes segmented biomedical image data
+segd interactive image segmentation tool
+imagevisd lightweight featurerich volume rendering application
+visus visualization streams ultimate scalability
+shapeworks new method constructing compact statistical pointbased models ensembles similar shapes rely specific surface parameterization
+mapd scientific visualization application written display edit threedimensional geometric models scalar timebased data associated models
+uintah set software components libraries facilitate solution partial differential equations structured adaptive mesh refinement grids using hundreds thousands processors
+fiberviewer comprehensive integrated opensource environment medical image visualization analysis
+atlaswerks opensource bsd license software package medical image atlas generation
+ncr toolset collection software tools reconstruction visualization neural circuitry electron microscopy data
+fluorender interactive rendering tool confocal microscopy data visualization
+elvis visualization system created accurate interactive visualization scalar fields produced highorder spectralhp finite element simulations
+vistrails scientific workflow management system
+afront tool meshing remeshing surfaces
+cleaver multimaterial tetrahedral meshing api application
+epicanvas infectious disease weather map
+febio nonlinear finite element solver specifically designed biomechanical applications
+preview finite element fe preprocessor designed specifically set fe problems febio
+postview finite element fe postprocessor designed postprocess results febio
+stcr matlabbased program reconstruct undersampled dce radial data compressed sensing methods
+exoshapeaccel cc application estimating continuous evolution discrete collection shapes designed produce realistic anatomical trajectories
+vispack c library includes matrix image volume objects
+teem collection libraries representing processing visualizing scientific raster data
+external links
+scientific computing imaging institute home retrieved

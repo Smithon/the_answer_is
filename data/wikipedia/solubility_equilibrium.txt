@@ -1,0 +1,102 @@
+solubility equilibrium is a type of dynamic equilibrium it exists when a chemical compound in the solid state is in chemical equilibrium with a solution of that compound the solid may dissolve unchanged with dissociation or with chemical reaction with another constituent of the solvent such as acid or alkali each type of equilibrium is characterized by a temperature-dependent equilibrium constant solubility equilibria are important in pharmaceutical environmental and many other scenarios
+== definitions ==
+a solubility equilibrium exists when a chemical compound in the solid state is in chemical equilibrium with a solution of that compound the equilibrium is an example of dynamic equilibrium in that some individual molecules migrate between the solid and solution phases such that the rates of dissolution and precipitation are equal to one another when equilibrium is established the solution is said to be saturated the concentration of the solute in a saturated solution is known as the solubility units of solubility may be molar (mol dm3) or expressed as mass per unit volume such as g ml1 solubility is temperature dependent a solution containing a higher concentration of solute than the solubility is said to be supersaturated a supersaturated solution may be induced to come to equilibrium by the addition of a "seed" which may be a tiny crystal of the solute or a tiny solid particle which initiates precipitation
+there are three main types of solubility equilibria
+simple dissolution
+dissolution with dissociation this is characteristic of salts the equilibrium constant is known in this case as a solubility product
+dissolution with reaction this is characteristic of the dissolution of weak acids or weak bases in aqueous media of varying ph
+in each case an equilibrium constant can be specified as a quotient of activities this equilibrium constant is dimensionless as activity is a dimensionless quantity however use of activities is very inconvenient so the equilibrium constant is usually divided by the quotient of activity coefficients to become a quotient of concentrations see equilibrium chemistry#equilibrium constant for details moreover the concentration of solvent is usually taken to be constant and so is also subsumed into the equilibrium constant for these reasons the constant for a solubility equilibrium has dimensions related to the scale on which concentrations are measured solubility constants defined in terms of concentrations are not only temperature dependent but also may depend on solvent composition when the solvent contains also species other than those derived from the solute
+=== phase effect ===
+equilibria are defined for specific crystal phases therefore the solubility product is expected to be different depending on the phase of the solid for example aragonite and calcite will have different solubility products even though they have both the same chemical identity (calcium carbonate) nevertheless under given conditions most likely only one phase is thermodynamically stable and therefore this phase enters a true equilibrium
+=== particle size effect ===
+the thermodynamic solubility constant is defined for large monocrystals solubility will increase with decreasing size of solute particle (or droplet) because of the additional surface energy this effect is generally small unless particles become very small typically smaller than 1 m the effect of the particle size on solubility constant can be quantified as follows:
+where is the solubility constant for the solute particles with the molar surface area a is the solubility constant for substance with molar surface area tending to zero (i.e. when the particles are large) is the surface tension of the solute particle in the solvent am is the molar surface area of the solute (in m2/mol) r is the universal gas constant and t is the absolute temperature
+=== salt effect ===
+the salt effect refers to the fact that the presence of a salt which has no ion in common with the solute has an effect on the ionic strength of the solution and hence on activity coefficients so that the equilibrium constant expressed as a concentration quotient changes
+=== temperature effect ===
+solubility is sensitive to changes in temperature for example sugar is more soluble in hot water than cool water it occurs because solubility constants like other types of equilibrium constants are functions of temperature in accordance with le chatelier's principle when the dissolution process is endothermic (heat is absorbed) solubility increases with rising temperature this effect is the basis for the process of recrystallization which can be used to purify a chemical compound when dissolution is exothermic (heat is released) solubility decreases with rising temperature sodium sulfate shows increasing solubility with temperature below about 32.4 c but a decreasing solubility at higher temperature this is because the solid phase is the decahydrate na2so4.10h2o below the transition temperature but a different hydrate above that temperature
+=== pressure effect ===
+for condensed phases (solids and liquids) the pressure dependence of solubility is typically weak and usually neglected in practice assuming an ideal solution the dependence can be quantified as:
+where the index i iterates the components ni is the mole fraction of the ith component in the solution p is the pressure the index t refers to constant temperature vi,aq is the partial molar volume of the ith component in the solution vi,cr is the partial molar volume of the ith component in the dissolving solid and r is the universal gas constant
+the pressure dependence of solubility does occasionally have practical significance for example precipitation fouling of oil fields and wells by calcium sulfate (which decreases its solubility with decreasing pressure) can result in decreased productivity with time
+== simple dissolution ==
+dissolution of an organic solid can be described as an equilibrium between the substance in its solid and dissolved forms for example when sucrose (table sugar) forms a saturated solution
+an equilibrium expression for this reaction can be written as for any chemical reaction (products over reactants):
+where k is called the thermodynamic solubility constant the braces indicate activity the activity of a pure solid is by definition unity therefore
+the activity of a substance a in solution can be expressed as the product of the concentration [a] and an activity coefficient  when k is divided by the solubility constant ks
+is obtained this is equivalent to defining the standard state as the saturated solution so that the activity coefficient is equal to one the solubility constant is a true constant only if the activity coefficient is not affected by the presence of any other solutes that may be present the unit of the solubility constant is the same as the unit of the concentration of the solute for sucrose k = 1.971 mol dm3 at 25 c this shows that the solubility of sucrose at 25 c is nearly 2 mol dm3 (540 g/l) sucrose is unusual in that it does not easily form a supersaturated solution at higher concentrations as do most other carbohydrates
+== dissolution with dissociation ==
+ionic compounds normally dissociate into their constituent ions when they dissolve in water for example for calcium sulfate:
+as for the previous example the equilibrium expression is:
+where k is the thermodynamic equilibrium constant and braces indicate activity the activity of a pure solid is by definition equal to one
+when the solubility of the salt is very low the activity coefficients of the ions in solution are nearly equal to one by setting them to be actually equal to one this expression reduces to the solubility product expression:
+the solubility product for a general binary compound apbq is given by
+apbq paq+ + qbp
+ksp = [a]p[b]q (electrical charges omitted for simplicity of notation)
+when the product dissociates the concentration of b is equal to q/p times the concentration of a
+[b] = q/p [a]
+therefore
+ksp = [a]p (q/p)q [a]q
+=(q/p)q [a]p+q
+the solubility s is 1/p [a] one may incorporate 1/p and insert it under the root to obtain
+examples
+caso4: p=1 q=1
+na2so4: p=2 q=1
+al2(so4)3: p=2 q=3
+solubility products are often expressed in logarithmic form thus for calcium sulfate ksp = 69954930000000000004.93105 log ksp = -4.32 the smaller the value or the more negative the log value the lower the solubility
+some salts are not fully dissociated in solution examples include mgso4 famously discovered by manfred eigen to be present in seawater as both an inner sphere complex and an outer sphere complex the solubility of such salts is calculated by the method outlined in dissolution with reaction
+=== hydroxides ===
+for hydroxides solubility products are often given in a modified form k*sp using hydrogen ion concentration in place of hydroxide ion concentration the two concentrations are related by the self-ionization constant for water kw
+kw=[h+][oh]
+for example
+ca(oh)2 ca2+ + 2 oh
+ksp = [ca2+][oh]2 = [ca2+]kw2[h+]2
+k*sp = ksp/kw2 = [ca2+][h+]2
+log ksp for ca(oh)2 is about -5 at ambient temperatures; log k*sp = -5 + 2 14 = 23 approximately
+=== common ion effect ===
+the common-ion effect is the effect of decreasing the solubility of one salt when another salt which has an ion in common with it is also present for example the solubility of silver chloride agcl is lowered when sodium chloride a source of the common ion chloride is added to a suspension of agcl in water
+agcl(s) ag+(aq) + cl(aq); ksp = [ag+][cl]
+the solubility s in the absence of a common ion can be calculated as follows the concentrations [ag+] and [cl] are equal because one mole of agcl dissociates into one mole of ag+ and one mole of cl let the concentration of [ag+](aq) be denoted by x
+ksp = x2; s = x =
+ksp for agcl is equal to 69901770000000000001.771010 mol2dm6 at 25 c so the solubility is 69951330000000000001.33105 mol dm3
+now suppose that sodium chloride is also present at a concentration of 0.01 mol dm3 the solubility ignoring any possible effect of the sodium ions is now calculated by
+ksp = x(0.01 + x)
+this is a quadratic equation in x which is also equal to the solubility
+x2 + 0.01 x - ksp = 0
+in the case of silver chloride x2 is very much smaller than 0.01 x so this term can be ignored therefore
+s = x = ksp / 0.01 = 69921770000000000001.77108 mol dm3
+a considerable reduction in gravimetric analysis for silver the reduction in solubility due to the common ion effect is used to ensure "complete" precipitation of agcl
+== dissolution with reaction ==
+a typical reaction with dissolution involves a weak base b dissolving in an acidic aqueous solution
+b(s) + h+ (aq) bh+ (aq)
+this reaction is very important for pharmaceutical products dissolution of weak acids in alkaline media is similarly important
+hna(s) + oh(aq) hn-1a(aq) + h2o
+the uncharged molecule usually has lower solubility than the ionic form so solubility depends on ph and the acid dissociation constant of the solute the term "intrinsic solubility" is used to describe the solubility of the un-ionized form in the absence of acid or alkali
+leaching of aluminium salts from rocks and soil by acid rain is another example of dissolution with reaction: alumino-silicates are bases which react with the acid to form soluble species such as al3+(aq)
+formation of a chemical complex may also change solubility a well-known example is the addition of a concentrated solution of ammonia to a suspension of silver chloride in which dissolution is favoured by the formation of an ammine complex
+agcl(s) +2 nh3(aq) [ag(nh3)2]+ (aq) + cl (aq)
+another example involves the addition of water softeners to washing powders to inhibit the precipitation of salts of magnesium and calcium ions which are present in hard water by forming complexes with them
+the calculation of solubility in these cases requires two or more simultaneous equilibria to be considered for example
+== experimental determination ==
+the determination of solubility is fraught with difficulties first and foremost is the difficulty in establishing that the system is in equilibrium at the chosen temperature this is because both precipitation and dissolution reactions may be extremely slow if the process is very slow solvent evaporation may be an issue supersaturation may occur with very insoluble substances the concentrations in solution are very low and difficult to determine the methods used fall broadly into two categories static and dynamic
+=== static methods ===
+in static methods a mixture is brought to equilibrium and the concentration of a species in the solution phase is determined by chemical analysis this usually requires separation of the solid and solution phases in order to do this the equilibration and separation should be performed in a thermostatted room very low concentrations can be measured if a radioactive tracer is incorporated in the solid phase
+a variation of the static method is to add a solution of the substance in a non-aqueous solvent such as dimethyl sulfoxide to an aqueous buffer mixture immediate precipitation may occur giving a cloudy mixture the solubility measured for such a mixture is known as "kinetic solubility" the cloudiness is due to the fact that the precipitate particles are very small resulting in tyndall scattering in fact the particles are so small that the particle size effect comes into play and kinetic solubility is often greater than equilibrium solubility over time the cloudiness will disappear as the size of the crystallites increases and eventually equilibrium will be reached in a process known as precipitate ageing
+=== dynamic methods ===
+solubility values of organic acids bases and ampholytes of pharmaceutical interest may be obtained by a proceess called "chasing equilibrium solubility" in this procedure a quantity of substance is first dissolved at a ph where it exists predominantly in its ionized form and then a precipitate of the neutral (un-ionized) species is formed by changing the ph subsequently the rate of change of ph due to precipitation or dissolution is monitored and strong acid and base titrant are added to adjust the ph to discover the equilibrium conditions when the two rates are equal the advantage of this method is that it is relatively fast as the quantity of precipitate formed is quite small however the performance of the method may be affected by the formation supersaturated solutions
+== see also ==
+solubility table a table of solubilities of mostly inorganic salts at temperatures between 0 and 100 c
+molar solubility number of moles of a substance (the solute) that can be dissolved per liter of solution before the solution becomes saturated
+== references ==
+== external links ==
+housecroft c e.; sharpe a g (2008) inorganic chemistry (3rd ed.) prentice hall isbn 978-0131755536 section 6.9 solubilities of ionic salts includes a discussion of the thermodynamics of dissolution
+iupac-nist solubility database
+solubility products of simple inorganic compounds
+solubility challenge predict solubilities from a data base of 100 molecules the database of mostly compounds of pharmaceutical interest is available at one hundred molecules with solubilities (text file tab separated)
+a number of computer programs are available to do the calculations they include:
+chemeql a comprehensive computer program for the calculation of thermodynamic equilibrium concentrations of species in homogeneous and heterogeneous systems many geochemical applications
+jess all types of chemical equilibria can be modelled including protonation complex formation redox solubility and adsorption interactions includes an extensive database
+mineql+ a chemical equilibrium modeling system for aqueous systems handles a wide range of ph redox solubility and sorption scenarios
+phreeqc usgs software designed to perform a wide variety of low-temperature aqueous geochemical calculations including reactive transport in one dimension
+minteq a chemical equilibrium model for the calculation of metal speciation solubility equilibria etc for natural waters
+winsgw a windows version of the solgaswater computer program

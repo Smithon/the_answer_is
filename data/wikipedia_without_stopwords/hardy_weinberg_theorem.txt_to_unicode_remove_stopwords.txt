@@ -1,0 +1,129 @@
+hardyweinberg principle also known hardyweinberg equilibrium model theorem law states allele genotype frequencies population remain constant generation generation absence evolutionary influences influences include mate choice mutation selection genetic drift gene flow meiotic drive one influences typically present real populations hardyweinberg principle describes ideal condition effects influences analyzed
+simplest case single locus two alleles denoted frequencies fa p fa q respectively expected genotype frequencies faa p aa homozygotes faa q aa homozygotes faa pq heterozygotes genotype proportions p pq q called hardyweinberg proportions note sum genotype frequencies case binomial expansion square sum p q sum represents total possibilities must equal therefore p q p pq q solution equation q p
+union gametes produce next generation random shown new frequency f satisfies allele frequencies constant generations
+principle named g h hardy wilhelm weinberg first demonstrated mathematically
+derivation
+consider population monoecious diploids organism produces male female gametes equal frequency two alleles gene locus organisms reproduce random union gametes gene pool population model locus population two alleles occur initial frequencies fa p fa q respectively allele frequencies generation obtained pooling together alleles genotype generation according expected contribution homozygote heterozygote genotypes respectively
+different ways form genotypes next generation shown punnett square proportion genotype equal product row column allele frequencies current generation
+sum entries p pq q genotype frequencies must sum one
+note p q binomial expansion p q p pq q gives relationships
+summing elements punnett square binomial expansion obtain expected genotype proportions among offspring single generation
+frequencies define hardyweinberg equilibrium mentioned genotype frequencies first generation need equal genotype frequencies initial generation eg faa faa however genotype frequencies future times equal hardyweinberg frequencies eg ftaa faa follows since genotype frequencies next generation depend allele frequencies current generation calculated equations preserved initial generation
+general case dioecious diploids organisms either male female reproduce random mating individuals necessary calculate genotype frequencies nine possible matings parental genotype aa aa aa either sex weighted expected genotype contributions mating equivalently one considers six unique diploiddiploid combinations
+constructs punnett square calculate contribution next generations genotypes contributions weighted according probability diploiddiploid combination follows multinomial distribution k example probability mating combination aaaa ftaaftaa result aa genotype overall resulting genotype frequencies calculated
+one show allele frequencies time equal time constant time similarly genotype frequencies depend allele frequencies time also constant time
+either monoecious dioecious organisms either allele genotype proportions initially unequal either sex shown constant proportions obtained one generation random mating dioecious organisms heterogametic gene locus located x chromosome shown allele frequencies initially unequal two sexes eg xx females xy males humans fa heterogametic sex chases fa homogametic sex previous generation equilibrium reached weighted average two initial frequencies
+deviations hardyweinberg equilibrium
+seven assumptions underlying hardyweinberg equilibrium follows
+organisms diploid
+sexual reproduction occurs
+generations non overlapping
+mating random
+population size infinitely large
+allele frequencies equal sexes
+migration mutation selection
+violations hardyweinberg assumptions cause deviations expectation affects population depends assumptions violated
+random mating hwp states population given genotypic frequencies called hardyweinberg proportions single generation random mating within population random mating assumption violated population hardyweinberg proportions common cause nonrandom mating inbreeding causes increase homozygosity genes
+population violates one following four assumptions population may continue hardyweinberg proportions generation allele frequencies change time
+selection general causes allele frequencies change often quite rapidly directional selection eventually leads loss alleles except favored one forms selection balancing selection lead equilibrium without loss alleles
+mutation subtle effect allele frequencies mutation rates order change allele frequency order recurrent mutation maintain alleles population even strong selection
+migration genetically links two populations together general allele frequencies become homogeneous among populations models migration inherently include nonrandom mating wahlund effect example models hardyweinberg proportions normally valid
+small population size cause random change allele frequencies due sampling effect called genetic drift sampling effects important allele present small number copies
+sex linkage
+gene sex linked heterogametic sex eg mammalian males avian females one copy gene termed hemizygous homogametic sex eg human females two copies genotype frequencies equilibrium p q heterogametic sex p pq q homogametic sex
+example humans redgreen colorblindness xlinked recessive trait western european males trait affects q whereas affects females compared q close hardyweinberg proportions
+population brought together males females different allele frequency subpopulation males females allele frequency male population next generation follow female population son receives x chromosome mother population converges equilibrium quickly
+generalizations
+simple derivation generalized two alleles polyploidy
+generalization two alleles
+consider extra allele frequency r twoallele case binomial expansion p q thus threeallele case trinomial expansion p q r
+generally consider alleles given allele frequencies p pn
+giving homozygotes
+heterozygotes
+generalization polyploidy
+hardyweinberg principle may also generalized polyploid systems organisms two copies chromosome consider two alleles diploid case binomial expansion
+therefore polyploid case polynomial expansion
+c ploidy example tetraploid c
+depending whether organism true tetraploid amphidiploid determine long take population reach hardyweinberg equilibrium
+complete generalization
+distinct alleles ploids genotype frequencies hardyweinberg equilibrium given individual terms multinomial expansion
+applications
+hardyweinberg principle may applied two ways either population assumed hardyweinberg proportions genotype frequencies calculated genotype frequencies three genotypes known tested deviations statistically significant
+application cases complete dominance
+suppose phenotypes aa aa indistinguishable ie complete dominance assuming hardyweinberg principle applies population still calculated faa
+calculated thus estimate faa faa derived respectively note however population cannot tested equilibrium using significance tests assumed priori
+significance tests deviation
+testing deviation hwp generally performed using pearsons chisquared test using observed genotype frequencies obtained data expected genotype frequencies obtained using hwp systems large numbers alleles may result data many empty possible genotypes low genotype counts often enough individuals present sample adequately represent genotype classes case asymptotic assumption chisquared distribution longer hold may necessary use form fishers exact test requires computer solve recently number mcmc methods testing deviations hwp proposed guo thompson wigginton et al
+example test deviation
+data eb ford scarlet tiger moth phenotypes sample population recorded genotypephenotype distinction assumed negligibly small null hypothesis population hardyweinberg proportions alternative hypothesis population hardyweinberg proportions
+allele frequencies calculated
+hardyweinberg expectation
+pearsons chisquared test states
+degree freedom degrees freedom test hardyweinberg proportions genotypes alleles significance level degree freedom since value less null hypothesis population hardyweinberg frequencies rejected
+fishers exact test probability test
+fishers exact test applied testing hardyweinberg proportions since test conditional allele frequencies p q problem viewed testing proper number heterozygotes way hypothesis hardyweinberg proportions rejected number heterozygotes large small conditional probabilities heterozygote given allele frequencies given emigh
+n n n observed numbers three genotypes aa aa aa respectively n number alleles
+example using one examples emigh consider case n p possible observed heterozygotes exact significance level given table
+using table one must look significance level test based observed number heterozygotes example one observed heterozygotes significance level test typical fishers exact test small samples gradation significance levels quite coarse
+however table like created every experiment since tables dependent n p
+inbreeding coefficient
+inbreeding coefficient f see also fstatistics one minus observed frequency heterozygotes expected hardyweinberg equilibrium
+expected value hardyweinberg equilibrium given
+example fords data
+two alleles chisquared goodness fit test hardyweinberg proportions equivalent test inbreeding f
+inbreeding coefficient unstable expected value approaches zero thus useful rare common alleles e o f e o f undefined
+history
+mendelian genetics rediscovered however remained somewhat controversial several years known could cause continuous characteristics udny yule argued mendelism thought dominant alleles would increase population american william e castle showed without selection genotype frequencies would remain stable karl pearson found one equilibrium position values p q reginald punnett unable counter yules point introduced problem g h hardy british mathematician played cricket hardy pure mathematician held applied mathematics contempt view biologists use mathematics comes across paper describes simple
+editor science reluctant intrude discussion concerning matters expert knowledge expected simple point wish make familiar biologists however remarks mr udny yule mr r c punnett called attention suggest may still worth making
+suppose aa pair mendelian characters dominant given generation number pure dominants aa heterozygotes aa pure recessives aa pqr finally suppose numbers fairly large mating may regarded random sexes evenly distributed among three varieties equally fertile little mathematics multiplicationtable type enough show next generation numbers p qp qq rq r pqr say
+interesting question circumstances distribution generation easy see condition q pr since q pr whatever values p q r may distribution case continue unchanged second generation
+principle thus known hardys law englishspeaking world curt stern pointed first formulated independently german physician wilhelm weinberg william castle also derived ratios special case equal allele frequencies sometimes rarely called hardyweinbergcastle law
+derivation hardys equations
+derivation hardys equations illustrative begins population genotypes consisting pure dominants aa heterozygotes aa pure recessives aa relative proportions pqr conditions noted
+rewriting p q q r squaring sides yields hardys result
+hardys equivalence condition
+generations first
+prove hardys statement successor generations proportions equal equivalence condition holds
+equivalence condition holds shows equal proportions imply equivalence condition suppose equivalence condition holds
+symmetry finally
+shows thus proportions equal shows equivalence condition implies proportions equal therefore proportions equal equivalence condition holds claimed
+since equivalence condition always holds second generation succeeding generations proportions
+numerical example
+example computation genotype distribution given hardys original equations instructive phenotype distribution table used compute hardys initial genotype distribution note p q values used hardy used
+checks distribution compute
+next generation hardys equations give
+checks distribution compute
+expected values reader may demonstrate subsequent use secondgeneration values third generation yield identical results
+graphical representation
+possible represent distribution genotype frequencies biallelic locus within population graphically using de finetti diagram uses triangular plot also known trilinear triaxial ternary plot represent distribution three genotype frequencies relation although differs many plots direction one axes reversed
+curved line diagram hardyweinberg parabola represents state alleles hardyweinberg equilibrium
+possible represent effects natural selection effect allele frequency graphs eg ineichen batschelet
+de finetti diagram developed used extensively w f edwards book foundations mathematical genetics
+see also
+regression toward mean
+multinomial distribution hardyweinberg trinomial distribution probabilities
+references
+bibliography
+castle w e laws galton mendel laws governing race improvement selection proc amer acad arts sci
+crow jf jul hardy weinberg language impediments genetics issn pmc pmid
+edwards awf foundations mathematical genetics cambridge university press cambridge nd ed isbn
+emigh th comparison tests hardyweinberg equilibrium biometrics doi jstor
+ford eb ecological genetics london
+guo sw thompson ea jun performing exact test hardyweinberg proportion multiple alleles biometrics biometrics vol doi issn x jstor pmid
+hardy g h jul mendelian proportions mixed population pdf science doiscience issn pmid
+ineichen robert batschelet eduard genetic selection de finetti diagrams journal mathematical biology doibf
+masel joanna rethinking hardyweinberg genetic drift undergraduate biology bioessays doibies pmid
+pearson k mathematical contributions theory evolution xi influence natural selection variability correlation organs philosophical transactions royal society doirsta
+stern c hardyweinberg law science doiscience jstor pmid
+weinberg w ber den nachweis der vererbung beim menschen jahreshefte des vereins fr vaterlndische naturkunde wrttemberg
+wigginton je cutler dj abecasis gr may note exact tests hardyweinberg equilibrium american journal human genetics doi issn pmc pmid
+yule g u mendels laws probable relation intraracial heredity new phytol doijtbx
+external links
+evolutionsolution bottom page
+hardyweinberg equilibrium calculator
+genetics population genetics simulator
+hardy c implementation guo thompson
+source code ccfortranr wigginton et al
+online de finetti diagram generator hardyweinberg equilibrium tests
+online hardyweinberg equilibrium tests drawing de finetti diagrams
+hardyweinberg equilibrium calculator

@@ -1,0 +1,164 @@
+classical mechanics linear momentum translational momentum pl momenta si unit kg ms equivalently n product mass velocity object example heavy truck moving rapidly large momentumit takes large prolonged force get truck speed takes large prolonged force bring stop afterwards truck lighter moving slowly would less momentum
+like velocity linear momentum vector quantity possessing direction well magnitude
+p threedimensional vector stating objects momentum three directions threedimensional space v threedimensional velocity vector giving objects rate movement direction m objects mass
+linear momentum also conserved quantity meaning closed system affected external forces total linear momentum cannot change
+classical mechanics conservation linear momentum implied newtons laws also holds special relativity modified formula appropriate definitions generalized linear momentum conservation law holds electrodynamics quantum mechanics quantum field theory general relativity ultimately expression one fundamental symmetries space time translational symmetry
+newtonian mechanics
+momentum direction well magnitude quantities magnitude direction known vector quantities momentum direction used predict resulting direction objects collide well speeds basic properties momentum described one dimension vector equations almost identical scalar equations see multiple dimensions
+single particle
+momentum particle traditionally represented letter p product two quantities mass represented letter m velocity v
+units momentum product units mass velocity si units mass kilograms velocity meters per second momentum kilogram meterssecond kg ms equivalent derived unit newton second n kg ms cgs units mass grams velocity centimeters per second momentum gram centimeterssecond g cms dyne seconds dyne g ms
+vector momentum magnitude direction example kg model airplane traveling due north ms straight level flight momentum kg ms due north measured ground
+many particles
+momentum system particles sum momenta two particles masses m m velocities v v total momentum
+momenta two particles added way
+system particles center mass point determined weighted sum positions
+particles moving center mass generally moving well unless system pure rotation around center mass moving velocity vcm momentum
+known eulers first law
+relation force
+force f applied particle time interval momentum particle changes amount
+differential form newtons second law rate change momentum particle proportional force f acting
+force depends time change momentum impulse times
+assumption constant mass m equivalent write
+force equal mass times acceleration
+example model airplane kg accelerates rest velocity ms due north net force required produce acceleration newtons due north change momentum kg ms rate change momentum kgmss n
+conservation
+closed system one exchange matter surroundings acted external forces total momentum constant fact known law conservation momentum implied newtons laws motion suppose example two particles interact third law forces equal opposite particles numbered second law states f dpdt f dpdt therefore
+negative sign indicating forces oppose equivalently
+velocities particles u u interaction afterwards v v
+law holds matter complicated force particles similarly several particles momentum exchanged pair particles adds zero total change momentum zero conservation law applies interactions including collisions separations caused explosive forces also generalized situations newtons laws hold example theory relativity electrodynamics
+dependence reference frame
+momentum measurable quantity measurement depends motion observer example apple sitting glass elevator descending outside observer looking elevator sees apple moving observer apple nonzero momentum someone inside elevator apple move zero momentum two observers frame reference observe motions elevator descending steadily see behavior consistent physical laws
+suppose particle position x stationary frame reference point view another frame reference moving uniform speed u position represented primed coordinate changes time
+called galilean transformation particle moving speed dxdt v first frame reference second moving speed
+since u change accelerations
+thus momentum conserved reference frames moreover long force form frames newtons second law unchanged forces newtonian gravity depend scalar distance objects satisfy criterion independence reference frame called newtonian relativity galilean invariance
+change reference frame often simplify calculations motion example collision two particles reference frame chosen one particle begins rest another commonly used reference frame center mass frame one moving center mass frame total momentum zero
+application collisions
+law conservation momentum enough determine motion particles collision another property motion kinetic energy must known necessarily conserved conserved collision called elastic collision inelastic collision
+elastic collisions
+elastic collision one kinetic energy lost perfectly elastic collisions occur objects touch example atomic nuclear scattering electric repulsion keeps apart slingshot maneuver satellite around planet also viewed perfectly elastic collision distance collision two pool balls good example almost totally elastic collision due high rigidity bodies come contact always dissipation
+headon elastic collision two bodies represented velocities one dimension along line passing bodies velocities u u collision v v equations expressing conservation momentum kinetic energy
+change reference frame often simplify analysis collision example suppose two bodies equal mass m one stationary one approaching speed v figure center mass moving speed v bodies moving towards speed v symmetry collision must moving away center mass speed adding speed center mass find body moving stopped moving away speed v bodies exchanged velocities regardless velocities bodies switch center mass frame leads us conclusion therefore final velocities given
+general initial velocities known final velocities given
+one body much greater mass velocity little affected collision body experience large change
+inelastic collisions
+inelastic collision kinetic energy colliding bodies converted forms energy heat sound examples include traffic collisions effect lost kinetic energy seen damage vehicles electrons losing energy atoms franckhertz experiment particle accelerators kinetic energy converted mass form new particles
+perfectly inelastic collision bug hitting windshield bodies motion afterwards one body motionless begin equation conservation momentum
+frame reference moving speed v objects brought rest collision kinetic energy converted
+one measure inelasticity collision coefficient restitution cr defined ratio relative velocity separation relative velocity approach applying measure ball sports easily measured using following formula
+momentum energy equations also apply motions objects begin together move apart example explosion result chain reaction transforms potential energy stored chemical mechanical nuclear form kinetic energy acoustic energy electromagnetic radiation rockets also make use conservation momentum propellant thrust outward gaining momentum equal opposite momentum imparted rocket
+multiple dimensions
+real motion direction velocity must represented vector coordinate system x y z axes velocity components vx x direction vy y direction vz z direction vector represented boldface symbol
+similarly momentum vector quantity represented boldface symbol
+equations previous sections work vector form scalars p v replaced vectors p v vector equation represents three scalar equations example
+represents three equations
+kinetic energy equations exceptions replacement rule equations still onedimensional scalar represents magnitude vector example
+vector equation represents three scalar equations often coordinates chosen two components needed figure component obtained separately results combined produce vector result
+simple construction involving center mass frame used show stationary elastic sphere struck moving sphere two head right angles collision figure
+objects variable mass
+concept momentum plays fundamental role explaining behavior variablemass objects rocket ejecting fuel star accreting gas analyzing object one treats objects mass function varies time mt momentum object time therefore pt mtvt one might try invoke newtons second law motion saying external force f object related momentum pt f dpdt incorrect related expression found applying product rule dmvdt
+incorrect
+equation correctly describe motion variablemass objects correct equation
+u velocity ejectedaccreted mass seen objects rest frame distinct v velocity object seen inertial frame
+equation derived keeping track momentum object well momentum ejectedaccreted mass considered together object mass constitute closed system total momentum conserved
+relativistic mechanics
+lorentz invariance
+newtonian physics assumes absolute time space exist outside observer gives rise galilean invariance described earlier also results prediction speed light vary one reference frame another contrary observation special theory relativity einstein keeps postulate equations motion depend reference frame assumes speed light c invariant result position time two reference frames related lorentz transformation instead galilean transformation
+consider example reference frame moving relative another velocity v x direction galilean transformation gives coordinates moving frame
+lorentz transformation gives
+lorentz factor
+newtons second law mass fixed invariant lorentz transformation however made invariant making inertial mass m object function velocity
+m objects invariant mass
+modified momentum
+obeys newtons second law
+within domain classical mechanics relativistic momentum closely approximates newtonian momentum low velocity mv approximately equal mv newtonian expression momentum
+fourvector formulation
+theory special relativity physical quantities expressed terms fourvectors include time fourth coordinate along three space coordinates vectors generally represented capital letters example r position expression fourmomentum depends coordinates expressed time may given normal units multiplied speed light components fourvector dimensions length latter scaling used interval proper time defined
+invariant lorentz transformations expression follows metric signature used different authors use different conventions mathematically invariance ensured one two ways treating fourvectors euclidean vectors multiplying time square root keeping time real quantity embedding vectors minkowski space minkowski space scalar product two fourvectors u uuuu v vvvv defined
+coordinate systems contravariant relativistic fourvelocity defined
+contravariant fourmomentum
+m invariant mass r ctxyz minkowski space
+using einsteins massenergy equivalence e mc rewritten
+thus conservation fourmomentum lorentzinvariant implies conservation mass energy
+magnitude momentum fourvector equal mc
+invariant across reference frames
+relativistic energymomentum relationship holds even massless particles photons setting m follows
+game relativistic billiards stationary particle hit moving particle elastic collision paths formed two afterwards form acute angle unlike nonrelativistic case travel right angles
+generalized coordinates
+newtons laws difficult apply many kinds motion motion limited constraints example bead abacus constrained move along wire pendulum bob constrained swing fixed distance pivot many constraints incorporated changing normal cartesian coordinates set generalized coordinates may fewer number refined mathematical methods developed solving mechanics problems generalized coordinates introduce generalized momentum also known canonical conjugate momentum extends concepts linear momentum angular momentum distinguish generalized momentum product mass velocity also referred mechanical kinetic kinematic momentum two main methods described
+lagrangian mechanics
+lagrangian mechanics lagrangian defined difference kinetic energy potential energy v
+generalized coordinates represented vector q q q qn time differentiation represented dot variable equations motion known lagrange eulerlagrange equations set n equations
+coordinate qi cartesian coordinate associated generalized momentum component pi necessarily dimensions linear momentum even qi cartesian coordinate pi mechanical momentum potential depends velocity sources represent kinematic momentum symbol
+mathematical framework generalized momentum associated generalized coordinates components defined
+component pj said conjugate momentum coordinate qj
+given coordinate qi appear lagrangian although time derivative might appear
+generalization conservation momentum
+even generalized coordinates ordinary spatial coordinates conjugate momenta necessarily ordinary momentum coordinates example found section electromagnetism
+hamiltonian mechanics
+hamiltonian mechanics lagrangian function generalized coordinates derivatives replaced hamiltonian function generalized coordinates momentum hamiltonian defined
+momentum obtained differentiating lagrangian hamiltonian equations motion
+lagrangian mechanics generalized coordinate appear hamiltonian conjugate momentum component conserved
+symmetry conservation
+conservation momentum mathematical consequence homogeneity shift symmetry space position space canonical conjugate quantity momentum conservation momentum consequence fact laws physics depend position special case noethers theorem
+electromagnetism
+newtonian mechanics law conservation momentum derived law action reaction states every force reciprocating equal opposite force circumstances moving charged particles exert forces nonopposite directions moreover maxwells equations foundation classical electrodynamics lorentzinvariant nevertheless combined momentum particles electromagnetic field conserved
+vacuum
+maxwells equations forces particles mediated electric magnetic fields electromagnetic force lorentz force particle charge q due combination electric field e magnetic field given bfield b
+force imparts momentum particle newtons second law particle must impart momentum electromagnetic fields
+vacuum momentum per unit volume
+vacuum permeability c speed light momentum density proportional poynting vector gives directional rate energy transfer per unit area
+momentum conserved volume v changes momentum matter lorentz force must balanced changes momentum electromagnetic field outflow momentum pmech momentum particles volume v particles treated continuum newtons second law gives
+electromagnetic momentum
+equation conservation component momentum
+term right integral surface representing momentum flow volume nj component surface normal quantity tij called maxwell stress tensor defined
+media
+results microscopic maxwell equations applicable electromagnetic forces vacuum small scale media difficult define momentum density media division electromagnetic mechanical arbitrary definition electromagnetic momentum density modified
+hfield h related bfield magnetization m
+electromagnetic stress tensor depends properties media
+particle field
+charged particle q moves electromagnetic field neither kinetic momentum mv canonical momentum conserved
+lagrangian hamiltonian formulation
+kinetic momentum p different canonical momentum p synonymous generalized momentum conjugate ordinary position coordinates r p includes contribution electric potential r vector potential ar
+v velocity see time derivative q electric charge particle c lorentz factor see also electromagnetism momentum neither depends position p conserved
+classical hamiltonian particle field equals total energy system kinetic energy pm p p p see dot product plus potential energy v particle electromagnetic field potential energy v e since kinetic energy always corresponds kinetic momentum p replacing kinetic momentum equation p p qa leads hamiltonian table
+lagrangian hamiltonian expressions derive lorentz force
+canonical commutation relations
+kinetic momentum p satisfies commutation relation
+j k indices labelling vector components b component magnetic field kj levicivita symbol dimensions
+quantum mechanics
+quantum mechanics momentum defined operator wave function heisenberg uncertainty principle defines limits accurately momentum position single observable system known quantum mechanics position momentum conjugate variables
+single particle described position basis momentum operator written
+gradient operator reduced planck constant imaginary unit commonly encountered form momentum operator though momentum operator bases take forms example momentum space momentum operator represented
+operator p acting wave function p yields wave function multiplied value p analogous fashion way position operator acting wave function x yields wave function multiplied value x
+massive massless objects relativistic momentum related de broglie wavelength
+electromagnetic radiation including visible light ultraviolet light radio waves carried photons even though photons particle aspect light mass still carry momentum leads applications solar sail calculation momentum light within dielectric media somewhat controversial see abrahamminkowski controversy
+deformable bodies fluids
+conservation continuum
+fields fluid dynamics solid mechanics feasible follow motion individual atoms molecules instead materials must approximated continuum particle fluid parcel point assigned average properties atoms small region nearby particular density velocity v depend time position r momentum per unit volume v
+consider column water hydrostatic equilibrium forces water balance water motionless given drop water two forces balanced first gravity acts directly atom molecule inside gravitational force per unit volume g g gravitational acceleration second force sum forces exerted surface surrounding water force greater force amount needed balance gravity normal force per unit area pressure p average force per unit volume inside droplet gradient pressure force balance equation
+forces balanced droplet accelerates acceleration simply partial derivative vt fluid given volume changes time instead material derivative needed
+applied physical quantity material derivative includes rate change point changes due advection fluid carried past point per unit volume rate change momentum equal dvdt equal net force droplet
+forces change momentum droplet include gradient pressure gravity addition surface forces deform droplet simplest case shear stress exerted force parallel surface droplet proportional rate deformation strain rate shear stress occurs fluid velocity gradient fluid moving faster one side another speed x direction varies z tangential force direction x per unit area normal z direction
+viscosity also flux flow per unit area xmomentum surface
+including effect viscosity momentum balance equations incompressible flow newtonian fluid
+known navierstokes equations
+momentum balance equations extended general materials including solids surface normal direction force direction j stress component ij nine components make cauchy stress tensor includes pressure shear local conservation momentum expressed cauchy momentum equation
+f body force
+cauchy momentum equation broadly applicable deformations solids liquids relationship stresses strain rate depends properties material see types viscosity
+acoustic waves
+disturbance medium gives rise oscillations waves propagate away source fluid small changes pressure p often described acoustic wave equation
+c speed sound solid similar equations obtained propagation pressure pwaves shear swaves
+flux transport per unit area momentum component vj velocity vi equal vjvj linear approximation leads acoustic equation time average flux zero however nonlinear effects give rise nonzero average possible momentum flux occur even though wave mean momentum
+history concept
+ad working alexandria byzantine philosopher john philoponus developed concept momentum commentary aristotles physics aristotle claimed everything moving must kept moving something example thrown ball must kept moving motions air writers continued accept aristotles theory time galileo skeptical philoponus pointed absurdity aristotles claim motion object promoted air resisting passage proposed instead impetus imparted object act throwing ibn sn also known latinized name avicenna read philoponus published theory motion book healing agreed impetus imparted projectile thrower unlike philoponus believed temporary virtue would decline even vacuum viewed persistent requiring external forces air resistance dissipate work philoponus possibly ibn sn read refined european philosophers peter olivi jean buridan buridan made rector university paris referred impetus proportional weight times speed moreover buridans theory different predecessors consider impetus selfdissipating asserting body would arrested forces air resistance gravity might opposing impetus
+ren descartes believed total quantity motion universe conserved quantity motion understood product size speed read statement modern law momentum since concept mass distinct weight size importantly believed speed rather velocity conserved descartes moving object bounce surface changing direction speed would change quantity motion galileo later two new sciences used italian word impeto
+leibniz discourse metaphysics gave argument descartes construction conservation quantity motion using example dropping blocks different sizes different distances points force conserved quantity motion construed product size speed object conserved
+first correct statement law conservation momentum english mathematician john wallis work mechanica sive de motu tractatus geometricus initial state body either rest motion persist force greater resistance motion result wallis uses momentum vis force newtons philosophi naturalis principia mathematica first published showed similar casting around words use mathematical momentum definition ii defines quantitas motus quantity motion arising velocity quantity matter conjointly identifies momentum thus law ii refers mutatio motus change motion proportional force impressed generally taken mean momentum motion remained assign standard term quantity motion first use momentum proper mathematical sense clear time jennings miscellanea four years final edition newtons principia mathematica momentum m quantity motion defined students rectangle product q v q quantity material v velocity st
+see also
+references
+citations
+bibliography
+external links
+conservation momentum chapter online textbook

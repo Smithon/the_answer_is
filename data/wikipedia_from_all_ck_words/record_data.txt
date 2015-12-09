@@ -1,0 +1,13 @@
+a relative record data set (rrds) is a type of data set organization used by the vsam computer data storage system records are accessed based on their ordinal position in the file (relative record number rrn) for example the desired record to be accessed might be the 42nd record in the file out of 999 total
+the concept of rrds is similar to sequential access method but it can access with data in random access and dynamic access
+== structure ==
+an rrds consists of data records in sequence with the record number indicating the record's logical position in the data set a program can access records randomly using this positional number or access records sequentially but unlike a key sequenced data set an rrds has no keys so the program cannot access records by key value
+keys may be used to access records in an rrds by defining an alternate index
+== see also ==
+key sequenced data set
+entry sequenced data set
+== references ==
+http://www.auditmypc.com/acronym/rrds.asp
+http://www.jaymoseley.com/hercules/vstutor/vstutor.htm
+http://www.mvsforums.com/techfaqsvsam.html
+http://www.redbooks.ibm.com/redbooks/sg246105/wwhelp/wwhimpl/js/html/wwhelp.htm

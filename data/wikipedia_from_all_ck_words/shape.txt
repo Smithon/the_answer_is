@@ -1,0 +1,47 @@
+a shape is the form of an object or its external boundary outline or external surface as opposed to other properties such as color texture or material composition
+psychologists have theorized that humans mentally break down images into simple geometric shapes called geons examples of geons include cones and spheres
+== classification of simple shapesedit ==
+some simple shapes can be put into broad categories for instance polygons are classified according to their number of edges as triangles quadrilaterals pentagons etc each of these is divided into smaller categories triangles can be equilateral isosceles obtuse acute scalene etc while quadrilaterals can be rectangles rhombi trapezoids squares etc
+other common shapes are points lines planes and conic sections such as ellipses circles and parabolas
+among the most common 3-dimensional shapes are polyhedra which are shapes with flat faces ellipsoids which are egg-shaped or sphere-shaped objects cylinders and cones
+if an object falls into one of these categories exactly or even approximately we can use it to describe the shape of the object thus we say that the shape of a manhole cover is a disk because it is approximately the same geometric object as an actual geometric disk
+== shape in geometryedit ==
+there are several ways to compare the shapes of two objects
+congruence two objects are congruent if one can be transformed into the other by a sequence of rotations translations and/or reflections
+similarity two objects are similar if one can be transformed into the other by a uniform scaling together with a sequence of rotations translations and/or reflections
+isotopy two objects are isotopic if one can be transformed into the other by a sequence of deformations that do not tear the object or put holes in it
+sometimes two similar or congruent objects may be regarded as having a different shape if a reflection is required to transform one into the other for instance the letters b and d are a reflection of each other and hence they are congruent and similar but in some contexts they are not regarded as having the same shape sometimes only the outline or external boundary of the object is considered to determine its shape for instance an hollow sphere may be considered to have the same shape as a solid sphere procrustes analysis is used in many sciences to determine whether or not two objects have the same shape or to measure the difference between two shapes in advanced mathematics quasi-isometry can be used as a criterion to state that two shapes are approximately the same
+simple shapes can often be classified into basic geometric objects such as a point a line a curve a plane a plane figure (e.g square or circle) or a solid figure (e.g cube or sphere) however most shapes occurring in the physical world are complex some such as plant structures and coastlines may be so complicated as to defy traditional mathematical description in which case they may be analyzed by differential geometry or as fractals
+=== equivalence of shapesedit ===
+in geometry two subsets of a euclidean space have the same shape if one can be transformed to the other by a combination of translations rotations (together also called rigid transformations) and uniform scalings in other words the shape of a set of points is all the geometrical information that is invariant to translations rotations and size changes having the same shape is an equivalence relation and accordingly a precise mathematical definition of the notion of shape can be given as being an equivalence class of subsets of a euclidean space having the same shape
+mathematician and statistician david george kendall writes
+in this paper shape is used in the vulgar sense and means what one would normally expect it to mean [...] we here define shape informally as all the geometrical information that remains when location scale and rotational effects are filtered out from an object
+shapes of physical objects are equal if the subsets of space these objects occupy satisfy the definition above in particular the shape does not depend on the size and placement in space of the object for instance a d and a p have the same shape as they can be perfectly superimposed if the d is translated to the right by a given distance rotated upside down and magnified by a given factor (see procrustes superimposition for details) however a mirror image could be called a different shape for instance a b and a p have a different shape at least when they are constrained to move within a two-dimensional space like the page on which they are written even though they have the same size there's no way to perfectly superimpose them by translating and rotating them along the page similarly within a three-dimensional space a right hand and a left hand have a different shape even if they are the mirror images of each other shapes may change if the object is scaled non-uniformly for example a sphere becomes an ellipsoid when scaled differently in the vertical and horizontal directions in other words preserving axes of symmetry (if they exist) is important for preserving shapes also shape is determined by only the outer boundary of an object
+=== congruence and similarityedit ===
+objects that can be transformed into each other by rigid transformations and mirroring (but not scaling) are congruent an object is therefore congruent to its mirror image (even if it is not symmetric) but not to a scaled version two congruent objects always have either the same shape or mirror image shapes and have the same size
+objects that have the same shape or mirror image shapes are called geometrically similar whether or not they have the same size thus objects that can be transformed into each other by rigid transformations mirroring and uniform scaling are similar similarity is preserved when one of the objects is uniformly scaled while congruence is not thus congruent objects are always geometrically similar but similar objects may not be congruent as they may have different size
+=== homeomorphismedit ===
+a more flexible definition of shape takes into consideration the fact that realistic shapes are often deformable e.g a person in different postures a tree bending in the wind or a hand with different finger positions
+one way of modeling non-rigid movements is by homeomorphisms roughly speaking a homeomorphism is a continuous stretching and bending of an object into a new shape thus a square and a circle are homeomorphic to each other but a sphere and a donut are not an often-repeated mathematical joke is that topologists can't tell their coffee cup from their donut since a sufficiently pliable donut could be reshaped to the form of a coffee cup by creating a dimple and progressively enlarging it while preserving the donut hole in a cup's handle
+== shape analysisedit ==
+the above-mentioned mathematical definitions of rigid and non-rigid shape have arisen in the field of statistical shape analysis in particular procrustes analysis which is a technique used for comparing shapes of similar objects (e.g bones of different animals) or measuring the deformation of a deformable object other methods are designed to work with non-rigid (bendable) objects e.g for posture independent shape retrieval (see for example spectral shape analysis)
+== similarity classesedit ==
+all similar triangles have the same shape these shapes can be classified using complex numbers in a method advanced by j.a lester and rafael artzy for example an equilateral triangle can be expressed by the complex numbers 0 1 (1 + i 3)/2 representing its vertices lester and artzy call the ratio
+the shape of triangle (u v w) then the shape of the equilateral triangle is
+(0(1+ 3)/2)/(01) = ( 1 + i 3)/2 = cos(60) + i sin(60) = exp( i /3)
+for any affine transformation of the complex plane a triangle is transformed but does not change its shape hence shape is an invariant of affine geometry the shape p = s(u,v,w) depends on the order of the arguments of function s but permutations lead to related values for instance
+also
+combining these permutations gives furthermore
+these relations are conversion rules for shape of a triangle
+the shape of a quadrilateral is associated with two complex numbers p,q if the quadrilateral has vertices u,v,w,x then p = s(u,v,w) and q = s(v,w,x) artzy proves these propositions about quadrilateral shapes
+if then the quadrilateral is a parallelogram
+if a parallelogram has |arg p| = |arg q| then it is a rhombus
+when p = 1 + i and q = (1 + i)/2 then the quadrilateral is square
+if and sgn r = sgn(im p) then the quadrilateral is a trapezoid
+a polygon has a shape defined by n 2 complex numbers the polygon bounds a convex set when all these shape components have imaginary components of the same sign
+== see alsoedit ==
+solid geometry
+glossary of shapes with metaphorical names
+list of geometric shapes
+== referencesedit ==
+== external linksedit ==

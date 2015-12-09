@@ -1,0 +1,14 @@
+the mathematical term well-posed problem stems from a definition given by jacques hadamard he believed that mathematical models of physical phenomena should have the properties that
+a solution exists
+the solution is unique
+the solution's behavior changes continuously with the initial conditions
+examples of archetypal well-posed problems include the dirichlet problem for laplace's equation and the heat equation with specified initial conditions these might be regarded as natural problems in that there are physical processes modelled by these problems
+problems that are not well-posed in the sense of hadamard are termed ill-posed inverse problems are often ill-posed for example the inverse heat equation deducing a previous distribution of temperature from final data is not well-posed in that the solution is highly sensitive to changes in the final data
+continuum models must often be discretized in order to obtain a numerical solution while solutions may be continuous with respect to the initial conditions they may suffer from numerical instability when solved with finite precision or with errors in the data even if a problem is well-posed it may still be ill-conditioned meaning that a small error in the initial data can result in much larger errors in the answers an ill-conditioned problem is indicated by a large condition number
+if the problem is well-posed then it stands a good chance of solution on a computer using a stable algorithm if it is not well-posed it needs to be re-formulated for numerical treatment typically this involves including additional assumptions such as smoothness of solution this process is known as regularization tikhonov regularization is one of the most commonly used for regularization of linear ill-posed problems
+== see also ==
+total absorption spectroscopy an example of an inverse problem or ill-posed problem in a real-life situation that is solved by means of the expectationmaximization algorithm
+== references ==
+hadamard jacques (1902) sur les problmes aux drives partielles et leur signification physique princeton university bulletin pp 4952
+parker sybil b. ed (1989) [1974] mcgraw-hill dictionary of scientific and technical terms (4th ed.) new york mcgraw-hill isbn 0-07-045270-9
+tikhonov a n. arsenin v y (1977) solutions of ill-posed problems new york winston isbn 0-470-99124-0

@@ -1,0 +1,166 @@
+area is the quantity that expresses the extent of a two-dimensional figure or shape or planar lamina in the plane surface area is its analog on the two-dimensional surface of a three-dimensional object area can be understood as the amount of material with a given thickness that would be necessary to fashion a model of the shape or the amount of paint necessary to cover the surface with a single coat it is the two-dimensional analog of the length of a curve (a one-dimensional concept) or the volume of a solid (a three-dimensional concept)
+the area of a shape can be measured by comparing the shape to squares of a fixed size in the international system of units (si) the standard unit of area is the square metre (written as m2) which is the area of a square whose sides are one metre long a shape with an area of three square metres would have the same area as three such squares in mathematics the unit square is defined to have area one and the area of any other shape or surface is a dimensionless real number
+there are several well-known formulas for the areas of simple shapes such as triangles rectangles and circles using these formulas the area of any polygon can be found by dividing the polygon into triangles for shapes with curved boundary calculus is usually required to compute the area indeed the problem of determining the area of plane figures was a major motivation for the historical development of calculus
+for a solid shape such as a sphere cone or cylinder the area of its boundary surface is called the surface area formulas for the surface areas of simple shapes were computed by the ancient greeks but computing the surface area of a more complicated shape usually requires multivariable calculus
+area plays an important role in modern mathematics in addition to its obvious importance in geometry and calculus area is related to the definition of determinants in linear algebra and is a basic property of surfaces in differential geometry in analysis the area of a subset of the plane is defined using lebesgue measure though not every subset is measurable in general area in higher mathematics is seen as a special case of volume for two-dimensional regions
+area can be defined through the use of axioms defining it as a function of a collection of certain plane figures to the set of real numbers it can be proved that such a function exists
+== formal definition ==
+an approach to defining what is meant by area is through axioms area can be defined as a function from a collection m of special kind of plane figures (termed measurable sets) to the set of real numbers which satisfies the following properties
+for all s in m a(s) 0
+if s and t are in m then so are s t and s t and also a(st) = a(s) + a(t) a(st)
+if s and t are in m with s t then t s is in m and a(ts) = a(t) a(s)
+if a set s is in m and s is congruent to t then t is also in m and a(s) = a(t)
+every rectangle r is in m if the rectangle has length h and breadth k then a(r) = hk
+let q be a set enclosed between two step regions s and t a step region is formed from a finite union of adjacent rectangles resting on a common base i.e s q t if there is a unique number c such that a(s) c a(t) for all such step regions s and t then a(q) = c
+it can be proved that such an area function actually exists
+== units ==
+every unit of length has a corresponding unit of area namely the area of a square with the given side length thus areas can be measured in square metres (m2) square centimetres (cm2) square millimetres (mm2) square kilometres (km2) square feet (ft2) square yards (yd2) square miles (mi2) and so forth algebraically these units can be thought of as the squares of the corresponding length units
+the si unit of area is the square metre which is considered an si derived unit
+=== conversions ===
+calculation of the area of a square whose length and width are 1 metre would be
+1 metre x 1 metre = 1 m2
+and therefore another square with different sides can be calculated as
+3 metres x 2 metres = 6 m2 this is however equivalent to 6 million millimetres square following this
+1 kilometre square = 1,000,000 metres square
+1 metre square= 10,000 centimetres square = 1,000,000 millimetres square
+1 centimetre square = 100 millimetres square
+==== non-metric units ====
+in non-metric units the conversion between two square units is the square of the conversion between the corresponding length units
+1 foot = 12 inches
+the relationship between square feet and square inches is
+1 square foot = 144 square inches
+where 144 = 122 = 12 12 similarly
+1 square yard = 9 square feet
+1 square mile = 3,097,600 square yards = 27,878,400 square feet
+in addition conversion factors include
+1 square inch = 6.4516 square centimetres
+1 square foot = 0.09290304 square metres
+1 square yard = 0.83612736 square metres
+1 square mile = 2.589988110336 square kilometres
+=== other units including historical ===
+there are several other common units for area the are was the original unit of area in the metric system with
+1 are = 100 square metres
+though the are has fallen out of use the hectare is still commonly used to measure land
+1 hectare = 100 ares = 10,000 square metres = 0.01 square kilometres
+other uncommon metric units of area include the tetrad the hectad and the myriad
+the acre is also commonly used to measure land areas where
+1 acre = 4,840 square yards = 43,560 square feet
+an acre is approximately 40% of a hectare
+on the atomic scale area is measured in units of barns such that
+1 barn = 1028 square meters
+the barn is commonly used in describing the cross sectional area of interaction in nuclear physics
+in india
+20 dhurki = 1 dhur
+20 dhur = 1 khatha
+20 khata = 1 bigha
+32 khata = 1 acre
+== history ==
+=== circle area ===
+in the 5th century bce hippocrates of chios was the first to show that the area of a disk (the region enclosed by a circle) is proportional to the square of its diameter as part of his quadrature of the lune of hippocrates but did not identify the constant of proportionality eudoxus of cnidus also in the 5th century bce also found that the area of a disk is proportional to its radius squared
+subsequently book i of euclid's elements dealt with equality of areas between two-dimensional figures the mathematician archimedes used the tools of euclidean geometry to show that the area inside a circle is equal to that of a right triangle whose base has the length of the circle's circumference and whose height equals the circle's radius in his book measurement of a circle (the circumference is 2r and the area of a triangle is half the base times the height yielding the area r2 for the disk.) archimedes approximated the value of (and hence the area of a unit-radius circle) with his doubling method in which he inscribed a regular triangle in a circle and noted its area then doubled the number of sides to give a regular hexagon then repeatedly doubled the number of sides as the polygon's area got closer and closer to that of the circle (and did the same with circumscribed polygons)
+swiss scientist johann heinrich lambert in 1761 proved that  the ratio of a circle's area to its squared radius is irrational meaning it is not equal to the quotient of any two whole numbers french mathematician adrien-marie legendre proved in 1794 that 2 is also irrational in 1882 german mathematician ferdinand von lindemann proved that is transcendental (not the solution of any polynomial equation with rational coefficients) confirming a conjecture made by both legendre and euler
+=== triangle area ===
+heron (or hero) of alexandria found what is known as heron's formula for the area of a triangle in terms of its sides and a proof can be found in his book metrica written around 60 ce it has been suggested that archimedes knew the formula over two centuries earlier and since metrica is a collection of the mathematical knowledge available in the ancient world it is possible that the formula predates the reference given in that work
+in 499 aryabhata a great mathematician-astronomer from the classical age of indian mathematics and indian astronomy expressed the area of a triangle as one-half the base times the height in the aryabhatiya (section 2.6)
+a formula equivalent to heron's was discovered by the chinese independently of the greeks it was published in 1247 in shushu jiuzhang ("mathematical treatise in nine sections") written by qin jiushao
+=== quadrilateral area ===
+in the 7th century ce brahmagupta developed a formula now known as brahmagupta's formula for the area of a cyclic quadrilateral (a quadrilateral inscribed in a circle) in terms of its sides in 1842 the german mathematicians carl anton bretschneider and karl georg christian von staudt independently found a formula known as bretschneider's formula for the area of any quadrilateral
+=== general polygon area ===
+the development of cartesian coordinates by ren descartes in the 17th century allowed the development of the surveyor's formula for the area of any polygon with known vertex locations by gauss in the 19th century
+=== areas determined using calculus ===
+the development of integral calculus in the late 17th century provided tools that could subsequently be used for computing more complicated areas such as the area of an ellipse and the surface areas of various curved three-dimensional objects
+== area formulas ==
+=== polygon formulas ===
+for a non-self-intersecting (simple) polygon the cartesian coordinates (i=0 1  n-1) of whose n vertices are known the area is given by the surveyor's formula
+where when i=n-1 then i+1 is expressed as modulus n and so refers to 0
+==== rectangles ====
+the most basic area formula is the formula for the area of a rectangle given a rectangle with length l and width w the formula for the area is
+a = lw (rectangle)
+that is the area of the rectangle is the length multiplied by the width as a special case as l = w in the case of a square the area of a square with side length s is given by the formula
+a = s2 (square)
+the formula for the area of a rectangle follows directly from the basic properties of area and is sometimes taken as a definition or axiom on the other hand if geometry is developed before arithmetic this formula can be used to define multiplication of real numbers
+==== dissection parallelograms and triangles ====
+most other simple formulas for area follow from the method of dissection this involves cutting a shape into pieces whose areas must sum to the area of the original shape
+for an example any parallelogram can be subdivided into a trapezoid and a right triangle as shown in figure to the left if the triangle is moved to the other side of the trapezoid then the resulting figure is a rectangle it follows that the area of the parallelogram is the same as the area of the rectangle
+a = bh (parallelogram)
+however the same parallelogram can also be cut along a diagonal into two congruent triangles as shown in the figure to the right it follows that the area of each triangle is half the area of the parallelogram
+(triangle)
+similar arguments can be used to find area formulas for the trapezoid as well as more complicated polygons
+=== area of curved shapes ===
+==== circles ====
+the formula for the area of a circle (more properly called area of a disk) is based on a similar method given a circle of radius r it is possible to partition the circle into sectors as shown in the figure to the right each sector is approximately triangular in shape and the sectors can be rearranged to form and approximate parallelogram the height of this parallelogram is r and the width is half the circumference of the circle or r thus the total area of the circle is r r or r2
+a = r2 (circle)
+though the dissection used in this formula is only approximate the error becomes smaller and smaller as the circle is partitioned into more and more sectors the limit of the areas of the approximate parallelograms is exactly r2 which is the area of the circle
+this argument is actually a simple application of the ideas of calculus in ancient times the method of exhaustion was used in a similar way to find the area of the circle and this method is now recognized as a precursor to integral calculus using modern methods the area of a circle can be computed using a definite integral
+==== ellipses ====
+the formula for the area of an ellipse is related to the formula of a circle for an ellipse with semi-major and semi-minor axes x and y the formula is
+==== surface area ====
+most basic formulas for surface area can be obtained by cutting surfaces and flattening them out for example if the side surface of a cylinder (or any prism) is cut lengthwise the surface can be flattened out into a rectangle similarly if a cut is made along the side of a cone the side surface can be flattened out into a sector of a circle and the resulting area computed
+the formula for the surface area of a sphere is more difficult to derive because a sphere has nonzero gaussian curvature it cannot be flattened out the formula for the surface area of a sphere was first obtained by archimedes in his work on the sphere and cylinder the formula is
+a = 4r2 (sphere)
+where r is the radius of the sphere as with the formula for the area of a circle any derivation of this formula inherently uses methods similar to calculus
+=== general formulas ===
+==== areas of 2-dimensional figures ====
+a triangle (where b is any side and h is the distance from the line on which b lies to the other vertex of the triangle) this formula can be used if the height h is known if the lengths of the three sides are known then heron's formula can be used where a b c are the sides of the triangle and is half of its perimeter if an angle and its two included sides are given the area is where c is the given angle and a and b are its included sides if the triangle is graphed on a coordinate plane a matrix can be used and is simplified to the absolute value of  this formula is also known as the shoelace formula and is an easy way to solve for the area of a coordinate triangle by substituting the 3 points (x1,y1) (x2,y2) and (x3,y3) the shoelace formula can also be used to find the areas of other polygons when their vertices are known another approach for a coordinate triangle is to use calculus to find the area
+a simple polygon constructed on a grid of equal-distanced points (i.e. points with integer coordinates) such that all the polygon's vertices are grid points  where i is the number of grid points inside the polygon and b is the number of boundary points this result is known as pick's theorem
+==== area in calculus ====
+the area between a positive-valued curve and the horizontal axis measured between two values a and b (b is defined as the larger of the two values) on the horizontal axis is given by the integral from a to b of the function that represents the curve
+the area between the graphs of two functions is equal to the integral of one function f(x) minus the integral of the other function g(x)
+where is the curve with the greater y-value
+an area bounded by a function r = r() expressed in polar coordinates is
+the area enclosed by a parametric curve with endpoints is given by the line integrals
+(see green's theorem) or the z-component of
+==== bounded area between two quadratic functions ====
+to find the bounded area between two quadratic functions we subtract one from the other to write the difference as
+where f(x) is the quadratic upper bound and g(x) is the quadratic lower bound define the discriminant of f(x)-g(x) as
+by simplifying the integral formula between the graphs of two functions (as given in the section above) and using vieta's formula we can obtain
+the above remains valid if one of the bounding functions is linear instead of quadratic
+==== surface area of 3-dimensional figures ====
+cone  where r is the radius of the circular base and h is the height that can also be rewritten as or where r is the radius and l is the slant height of the cone is the base area while is the lateral surface area of the cone
+cube  where s is the length of an edge
+cylinder  where r is the radius of a base and h is the height the 2r can also be rewritten as d where d is the diameter
+prism 2b + ph where b is the area of a base p is the perimeter of a base and h is the height of the prism
+pyramid  where b is the area of the base p is the perimeter of the base and l is the length of the slant
+rectangular prism  where is the length w is the width and h is the height
+==== general formula for surface area ====
+the general formula for the surface area of the graph of a continuously differentiable function where and is a region in the xy-plane with the smooth boundary
+an even more general formula for the area of the graph of a parametric surface in the vector form where is a continuously differentiable vector function of is
+=== list of formulas ===
+the above calculations show how to find the areas of many common shapes
+the areas of irregular polygons can be calculated using the surveyor's formula
+=== relation of area to perimeter ===
+the isoperimetric inequality states that for a closed curve of length l (so the region it encloses has perimeter l) and for area a of the region that it encloses
+and equality holds if and only if the curve is a circle thus a circle has the largest area of any closed figure with a given perimeter
+at the other extreme a figure with given perimeter l could have an arbitrarily small area as illustrated by a rhombus that is tipped over arbitrarily far so that two of its angles are arbitrarily close to 0 and the other two are arbitrarily close to 180
+for a circle the ratio of the area to the circumference (the term for the perimeter of a circle) equals half the radius r this can be seen from the area formula r2 and the circumference formula 2r
+the area of a regular polygon is half its perimeter times the apothem (where the apothem is the distance from the center to the nearest point on any side)
+=== fractals ===
+doubling the edge lengths of a polygon multiplies its area by four which is two (the ratio of the new to the old side length) raised to the power of two (the dimension of the space the polygon resides in) but if the one-dimensional lengths of a fractal drawn in two dimensions are all doubled the spatial content of the fractal scales by a power of two that is not necessarily an integer this power is called the fractal dimension of the fractal
+== area bisectors ==
+there are an infinitude of lines that bisect the area of a triangle three of them are the medians of the triangle (which connect the sides midpoints with the opposite vertices) and these are concurrent at the triangle's centroid indeed they are the only area bisectors that go through the centroid any line through a triangle that splits both the triangle's area and its perimeter in half goes through the triangle's incenter (the center of its incircle) there are either one two or three of these for any given triangle
+any line through the midpoint of a parallelogram bisects the area
+all area bisectors of a circle or other ellipse go through the center and any chords through the center bisect the area in the case of a circle they are the diameters of the circle
+== optimization ==
+given a wire contour the surface of least area spanning ("filling") it is a minimal surface familiar examples include soap bubbles
+the question of the filling area of the riemannian circle remains open
+the circle has the largest area of any two-dimensional object having the same perimeter
+a cyclic polygon (one inscribed in a circle) has the largest area of any polygon with a given number of sides of the same lengths
+a version of the isoperimetric inequality for triangles states that the triangle of greatest area among all those with a given perimeter is equilateral
+the triangle of largest area of all those inscribed in a given circle is equilateral and the triangle of smallest area of all those circumscribed around a given circle is equilateral
+the ratio of the area of the incircle to the area of an equilateral triangle  is larger than that of any non-equilateral triangle
+the ratio of the area to the square of the perimeter of an equilateral triangle is larger than that for any other triangle
+== see also ==
+brahmagupta quadrilateral a cyclic quadrilateral with integer sides integer diagonals and integer area
+equi-areal mapping
+heron triangle a triangle with integer sides and integer area
+list of triangle inequalities#area
+one-seventh area triangle an inner triangle with one-seventh the area of the reference triangle
+routh's theorem a generalization of the one-seventh area triangle
+orders of magnitude (area)a list of areas by size
+pentagon#derivation of the area formula
+planimeter an instrument for measuring small areas e.g on maps
+quadrilateral#area of a convex quadrilateral
+robbins pentagon a cyclic pentagon whose side lengths and area are all rational numbers
+volume
+== references ==
+== external links ==

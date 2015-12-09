@@ -1,0 +1,80 @@
+the joule (/dul/) symbol j is a derived unit of energy in the international system of units it is equal to the energy transferred (or work done) to an object when a force of one newton acts on that object in the direction of its motion through a distance of one metre (1 newton metre or nm) it is also the energy dissipated as heat when an electric current of one ampere passes through a resistance of one ohm for one second it is named after the english physicist james prescott joule (18181889)
+in terms firstly of base si units and then in terms of other si units
+where kg is the kilogram m is the metre s is the second n is the newton pa is the pascal w is the watt c is the coulomb and v is the volt
+one joule can also be defined as
+the work required to move an electric charge of one coulomb through an electrical potential difference of one volt or one "coulomb volt (cv) this relationship can be used to define the volt
+the work required to produce one watt of power for one second or one watt second (ws) (compare kilowatt hour - 3.6 megajoules) this relationship can be used to define the watt
+== usageedit ==
+this si unit is named after james prescott joule as with every international system of units (si) unit named for a person the first letter of its symbol is upper case (j) however when an si unit is spelled out in english it should always begin with a lower case letter (joule)except in a situation where any word in that position would be capitalized such as at the beginning of a sentence or in material using title case note that degree celsius conforms to this rule because the d is lowercase based on the international system of units section 5.2
+== confusion with newton-metreedit ==
+in angular mechanics torque is analogous to the linear newtonian mechanics parameter of force moment of inertia to mass and angle to distance energy is the same in both systems thus although the joule has the same dimensions as the newton-metre (1 j = 1 nm = 1 kgm2s2) these units are not interchangeable the cgpm has given the unit of energy the name joule but has not given the unit of torque any special name hence the unit of torque is known as the newton-metre (nm) - a compound name derived from its constituent parts torque and energy are related to each other using the equation
+where e is the energy is the torque and is the angle moved (in radians) since radians are dimensionless it follows that torque and energy have the same dimensions
+the use of newton-metres for torque and joules for energy is useful in helping avoid misunderstandings and miscommunications
+an additional solution is to realize that joules are scalars they are the dot product of a vector force and a vector displacement whereas torque is a vector torque is the cross product of a distance vector and a force vector drawing a traditional vector arrow over newton-metre in a torque resolves the ambiguity
+== practical examplesedit ==
+one joule in everyday life represents approximately
+the energy required to lift a small apple (with a mass of approximately 100 g) vertically through one metre of air
+the energy released when that same apple falls one metre to the ground
+the energy required to accelerate a 1 kg mass at 1 ms2 through a 1 m distance in space
+the heat required to raise the temperature of 1 g of water by 0.24 k
+the typical energy released as heat by a person at rest every 1/60 second (approximately 17 ms)
+the kinetic energy of a 50 kg human moving very slowly (0.2 m/s or 0.72 km/h)
+the kinetic energy of a 56 g tennis ball moving at 6 m/s (22 km/h)
+the kinetic energy of an object with mass 1 kg moving at 2 1.4 m/s
+the amount of electricity required to light a 1 watt led for 1 s
+since the joule is also a watt-second and the common unit for electricity sales to homes is the kwh (kilowatt-hour) a kwh is thus 1000 (kilo) watt 3600 seconds = 3.6 mj (megajoules)
+== multiplesedit ==
+for additional examples see orders of magnitude (energy)
+=== zeptojouleedit ===
+the zeptojoule (zj) is equal to one sextillionth (1021) of one joule 160 zeptojoules is equivalent to one electronvolt
+=== nanojouleedit ===
+the nanojoule (nj) is equal to one billionth (109) of one joule one nanojoule is about 1/160 of the kinetic energy of a flying mosquito
+=== microjouleedit ===
+the microjoule (j) is equal to one millionth (106) of one joule the large hadron collider (lhc) is expected to produce collisions on the order of 1 microjoule (7 tev) per particle
+=== millijouleedit ===
+the millijoule (mj) is equal to one thousandth (103) of a joule
+=== kilojouleedit ===
+the kilojoule (kj) is equal to one thousand (103) joules nutritional food labels in certain countries express energy in kilojoules (kj)
+one square metre of the earth receives about 1.4 kilojoules of solar radiation every second in full daylight
+=== megajouleedit ===
+the megajoule (mj) is equal to one million (106) joules or approximately the kinetic energy of a one megagram (tonne) vehicle moving at 160 km/h
+one kilowatt-hour is 3.6 megajoules since 1 watt times 1 second equals 1 joule 1000 watts times 3600 seconds equal 3.6 mj
+=== gigajouleedit ===
+the gigajoule (gj) is equal to one billion (109) joules 6 gj is about the amount of potential chemical energy in 160 l (approximately one us standard barrel) of oil when combusted
+=== terajouleedit ===
+the terajoule (tj) is equal to one trillion (1012) joules about 63 tj of energy was released by the atomic bomb that exploded over hiroshima the international space station with a mass of approximately 450 megagrams and orbital velocity of 7.7 km/s has a kinetic energy of roughly 13 tj
+=== petajouleedit ===
+the petajoule (pj) is equal to one quadrillion (1015) joules 210 pj is equivalent to about 50 megatons of tnt this is the amount of energy released by the tsar bomba the largest man-made nuclear explosion ever
+=== exajouleedit ===
+the exajoule (ej) is equal to one quintillion (1018) joules the 2011 thoku earthquake and tsunami in japan had 1.41 ej of energy according to its 9.0 on the moment magnitude scale energy in the united states used per year is roughly 94 ej
+=== zettajouleedit ===
+the zettajoule (zj) is equal to one sextillion (1021) joules annual global energy consumption is approximately 0.5 zj
+=== yottajouleedit ===
+the yottajoule (yj) is equal to one septillion (1024) joules this is approximately the amount of energy required to heat the entire volume of water on earth by 1 c the thermal output of the sun is approximately 400 yj per second
+== conversionsedit ==
+1 joule is equal to
+70001000000000000001107 erg (exactly)
+70001000000014880946.241509741018 ev
+69999999760000000000.2390 cal (gram calories)
+69999999760000000002.390104 kcal (food calories)
+70001000003038230289.4782104 btu
+69997376000000000000.7376 ftlb
+699999872060922317323.7 ftpdl (foot-poundal)
+69932777800000000002.7778107 kilowatt-hour
+69962777800000000002.7778104 watt-hour
+69999999966900000009.8692103 latm (litre-atmosphere)
+698611126500000000011.12651015 gram (by way of mass-energy equivalence)
+700010000000000000011044 foe (exactly)
+units defined exactly in terms of the joule include
+1 thermochemical calorie = 4.184 j
+1 international table calorie = 4.1868 j
+1 watt hour = 3600 j (or 3.6 kj)
+1 kilowatt hour = 70063600000000000003.6106 j (or 3.6 mj)
+1 watt second = 70001000000000000001 j
+1 ton tnt = 70094184000000000004.184 gj
+== see alsoedit ==
+conversion of units of energy
+orders of magnitude (energy)
+fluence
+international system of units
+== notes and referencesedit ==

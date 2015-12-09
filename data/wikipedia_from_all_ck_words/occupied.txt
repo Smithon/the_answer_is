@@ -1,0 +1,65 @@
+in classical logic a contradiction consists of a logical incompatibility between two or more propositions it occurs when the propositions taken together yield two conclusions which form the logical usually opposite inversions of each other illustrating a general tendency in applied logic aristotle's law of noncontradiction states that one cannot say of something that it is and that it is not in the same respect and at the same time.
+by extension outside of classical logic one can speak of contradictions between actions when one presumes that their motives contradict each other
+== history ==
+by creation of a paradox plato's euthydemus dialogue demonstrates the need for the notion of contradiction in the ensuing dialogue dionysodorus denies the existence of contradiction all the while that socrates is contradicting him
+   i in my astonishment said what do you mean dionysodorus i have often heard and have been amazed to hear this thesis of yours which is maintained and employed by the disciples of protagoras and others before them and which to me appears to be quite wonderful and suicidal as well as destructive and i think that i am most likely to hear the truth about it from you the dictum is that there is no such thing as a falsehood a man must either say what is true or say nothing is not that your position?
+indeed dionysodorus agrees that there is no such thing as false opinion    there is no such thing as ignorance and demands of socrates to refute me. socrates responds but how can i refute you if as you say to tell a falsehood is impossible?
+== contradiction in formal logic ==
+note the symbol (falsum) represents an arbitrary contradiction with the dual tee symbol used to denote an arbitrary tautology contradiction is sometimes symbolized by opq and tautology by vpq the turnstile symbol is often read as yields or proves
+in classical logic particularly in propositional and first-order logic a proposition is a contradiction if and only if  since for contradictory it is true that for all (because ) one may prove any proposition from a set of axioms which contains contradictions this is called the principle of explosion or ex falso quodlibet ("from falsity whatever you like")
+in a complete logic a formula is contradictory if and only if it is unsatisfiable
+=== proof by contradiction ===
+for a proposition it is true that  i e that is a tautology i e that it is always true if and only if  i e if the negation of is a contradiction therefore a proof that also proves that is true the use of this fact constitutes the technique of the proof by contradiction which mathematicians use extensively this applies only in a logic using the excluded middle as an axiom
+=== symbolic representation ===
+in mathematics the symbol used to represent a contradiction within a proof varies [1] some symbols that may be used to represent a contradiction include  opq    and  in any symbolism a contradiction may be substituted for the truth value false, as symbolized for instance by 0. it is not uncommon to see q.e.d or some variant immediately after a contradiction symbol this occurs in a proof by contradiction to indicate that the original assumption was false and that its negation must therefore be true
+=== the notion of contradiction in an axiomatic system and a proof of its consistency ===
+a consistency proof requires (i) an axiomatic system (ii) a demonstration that it is not the case that both the formula p and its negation ~p can derived in the system but by whatever method one goes about it all consistency proofs would seem to necessitate the primitive notion of contradiction moreover it seems as if this notion would simultaneously have to be outside the formal system in the definition of tautology
+when emil post in his 1921 introduction to a general theory of elementary propositions extended his proof of the consistency of the propositional calculus (i.e the logic) beyond that of principia mathematica (pm) he observed that with respect to a generalized set of postulates (i.e axioms) he would no longer be able to automatically invoke the notion of contradiction such a notion might not be contained in the postulates
+the prime requisite of a set of postulates is that it be consistent since the ordinary notion of consistency involves that of contradiction which again involves negation and since this function does not appear in general as a primitive in [the generalized set of postulates] a new definition must be given
+post's solution to the problem is described in the demonstration an example of a successful absolute proof of consistency offered by ernest nagel and james r newman in their 1958 gdel's proof they too observe a problem with respect to the notion of contradiction with its usual truth values of truth and falsity they observe that
+the property of being a tautology has been defined in notions of truth and falsity yet these notions obviously involve a reference to something outside the formula calculus therefore the procedure mentioned in the text in effect offers an interpretation of the calculus by supplying a model for the system this being so the authors have not done what they promised namely to define a property of formulas in terms of purely structural features of the formulas themselves [indeed]    proofs of consistency which are based on models and which argue from the truth of axioms to their consistency merely shift the problem.
+given some primitive formulas such as pm's primitives s1 v s2 [inclusive or] ~s (negation) one is forced to define the axioms in terms of these primitive notions in a thorough manner post demonstrates in pm and defines (as do nagel and newman see below) that the property of tautologous as yet to be defined is inherited if one begins with a set of tautologous axioms (postulates) and a deduction system that contains substitution and modus ponens then a consistent system will yield only tautologous formulas
+so what will be the definition of tautologous
+nagel and newman create two mutually exclusive and exhaustive classes k1 and k2 into which fall (the outcome of) the axioms when their variables e.g s1 and s2 are assigned from these classes this also applies to the primitive formulas for example a formula having the form s1 v s2 is placed into class k2 if both s1 and s2 are in k2 otherwise it is placed in k1 and a formula having the form ~s is placed in k2 if s is in k1 otherwise it is placed in k1
+nagel and newman can now define the notion of tautologous a formula is a tautology if and only if it falls in the class k1 no matter in which of the two classes its elements are placed now the property of being tautologous is described without reference to a model or an interpretation
+for example given a formula such as ~s1 v s2 and an assignment of k1 to s1 and k2 to s2 one can evaluate the formula and place its outcome in one or the other of the classes the assignment of k1 to ~s1 places ~s1 in k2 and now we can see that our assignment causes the formula to fall into class k2 thus by definition our formula is not a tautology
+post observed that if the system were inconsistent a deduction in it (that is the last formula in a sequence of formulas derived from the tautologies) could ultimately yield s itself as an assignment to variable s can come from either class k1 or k2 the deduction violates the inheritance characteristic of tautology i.e the derivation must yield an (evaluation of a formula) that will fall into class k1 from this post was able to derive the following definition of inconsistency without the use of the notion of contradiction
+definition a system will be said to be inconsistent if it yields the assertion of the unmodified variable p [s in the newman and nagel examples]
+in other words the notion of contradiction can be dispensed when constructing a proof of consistency what replaces it is the notion of mutually exclusive and exhaustive classes more interestingly an axiomatic system need not include the notion of contradiction
+== contradictions and philosophy ==
+adherents of the epistemological theory of coherentism typically claim that as a necessary condition of the justification of a belief that belief must form a part of a logically non-contradictory (consistent) system of beliefs some dialetheists including graham priest have argued that coherence may not require consistency
+=== pragmatic contradictions ===
+a pragmatic contradiction occurs when the very statement of the argument contradicts the claims it purports an inconsistency arises in this case because the act of utterance rather than the content of what is said undermines its conclusion for examples arguably nietzsche's statement that one should not obey others or moore's paradox within the analytic tradition these are seen as self-refuting statements and performative contradictions other traditions may read them more like zen koans in which the author purposes makes a contradiction using the traditional meaning but then implies a new meaning of the word which does not contradict the statement
+=== dialectical materialism ===
+in dialectical materialism contradictionas derived from hegelianismusually refers to an opposition inherently existing within one realm one unified force or object this contradiction as opposed to metaphysical thinking is not an objectively impossible thing because these contradicting forces exist in objective reality not cancelling each other out but actually defining each other's existence according to marxist theory such a contradiction can be found for example in the fact that
+(a) enormous wealth and productive powers coexist alongside
+(b) extreme poverty and misery
+(c) the existence of (a) being contrary to the existence of (b)
+hegelian and marxist theory stipulates that the dialectic nature of history will lead to the sublation or synthesis of its contradictions marx therefore postulated that history would logically make capitalism evolve into a socialist society where the means of production would equally serve the exploited and suffering class of society thus resolving the prior contradiction between (a) and (b)
+mao zedong's philosophical essay furthered marx and lenin's thesis and suggested that all existence is the result of contradiction
+== contradiction outside formal logic ==
+colloquial usage can label actions and/or statements as contradicting each other when due (or perceived as due) to presuppositions which are contradictory in the logical sense
+proof by contradiction is used in mathematics to construct proofs
+== see also ==
+auto-antonym
+contrary (logic)
+double standard
+doublethink
+false (logic)
+irony
+logical truth
+oxymoron
+paraconsistent logic
+paradox
+tautology (logic) (for symbolism of logical truth)
+truth
+triz
+== footnotes ==
+== references ==
+jzef maria bocheski 1960 prcis of mathematical logic translated from the french and german editions by otto bird d reidel dordrecht south holland
+jean van heijenoort 1967 from frege to gdel a source book in mathematical logic 1879-1931 harvard university press cambridge ma isbn 0-674-32449-8 (pbk.)
+ernest nagel and james r newman 1958 gdel's proof new york university press card catalog number 58-5610
+== external links ==
+hazewinkel michiel ed (2001) contradiction (inconsistency) encyclopedia of mathematics springer isbn 978-1-55608-010-4
+hazewinkel michiel ed (2001) contradiction law of encyclopedia of mathematics springer isbn 978-1-55608-010-4
+contradiction entry by laurence r horn in the stanford encyclopedia of philosophy

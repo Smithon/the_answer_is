@@ -1,0 +1,11 @@
+in mathematics specifically in operator theory a densely defined operator or partially defined operator is a type of partially defined function in a topological sense it is a linear operator that is defined almost everywhere densely defined operators often arise in functional analysis as operations that one would like to apply to a larger class of objects than those for which they a priori make sense
+== definition ==
+a densely defined linear operator t from one topological vector space x to another one y is a linear operator that is defined on a dense linear subspace dom(t) of x and takes values in y written t  dom(t) x y sometimes this is abbreviated as t  x y when the context makes it clear that x might not be the set-theoretic domain of t
+== examples ==
+consider the space c0([0 1] r) of all real-valued continuous functions defined on the unit interval let c1([0 1] r) denote the subspace consisting of all continuously differentiable functions equip c0([0 1] r) with the supremum norm |||| this makes c0([0 1] r) into a real banach space the differentiation operator d given by
+is a densely defined operator from c0([0 1] r) to itself defined on the dense subspace c1([0 1] r) note also that the operator d is an example of an unbounded linear operator since
+has
+this unboundedness causes problems if one wishes to somehow continuously extend the differentiation operator d to the whole of c0([0 1] r)
+the paleywiener integral on the other hand is an example of a continuous extension of a densely defined operator in any abstract wiener space i  h e with adjoint j = i  e h there is a natural continuous linear operator (in fact it is the inclusion and is an isometry) from j(e) to l2(e  r) under which j(f) j(e) h goes to the equivalence class [f] of f in l2(e  r) it is not hard to show that j(e) is dense in h since the above inclusion is continuous there is a unique continuous linear extension i  h l2(e  r) of the inclusion j(e) l2(e  r) to the whole of h this extension is the paleywiener map
+== references ==
+renardy michael rogers robert c (2004) an introduction to partial differential equations texts in applied mathematics 13 (second ed.) new york springer-verlag pp xiv+434 isbn 0-387-00444-0 mr 2028503

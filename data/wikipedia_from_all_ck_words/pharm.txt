@@ -1,0 +1,32 @@
+pharming[p] is a cyber attack intended to redirect a website's traffic to another fake site pharming can be conducted either by changing the hosts file on a victim's computer or by exploitation of a vulnerability in dns server software dns servers are computers responsible for resolving internet names into their real ip addresses compromised dns servers are sometimes referred to as poisoned pharming requires unprotected access to target a computer such as altering a customer's home computer rather than a corporate business server
+the term pharming is a neologism based on the words farming and phishing phishing is a type of social-engineering attack to obtain access credentials such as user names and passwords in recent years both pharming and phishing have been used to gain information for online identity theft pharming has become of major concern to businesses hosting ecommerce and online banking websites sophisticated measures known as anti-pharming are required to protect against this serious threat antivirus software and spyware removal software cannot protect against pharming
+== pharming vulnerability at homeedit ==
+while malicious domain-name resolution can result from compromises in the large numbers of trusted nodes that participate in a name lookup the most vulnerable points of compromise are near the leaves of the internet for instance incorrect entries in a desktop computer's hosts file which circumvents name lookup with its own local name to ip address mapping is a popular target for malware once rewritten a legitimate request for a sensitive website can direct the user to a fraudulent copy desktops are often better targets for pharming because they receive poorer administration than most internet servers
+more worrisome than host-file attacks is the compromise of a local network router since most routers specify a trusted dns to clients as they join the network misinformation here will spoil lookups for the entire lan unlike host-file rewrites local-router compromise is difficult to detect routers can pass bad dns information in two ways malconfiguration of existing settings or wholesale rewrite of embedded software (aka firmware) many routers allow the administrator to specify a particular trusted dns in place of the one suggested by an upstream node (e.g. the isp) an attacker could specify a dns server under his control instead of a legitimate one all subsequent resolutions would go through the bad server a scenario involving malicious javascript that changes the router's dns server is called drive-by pharming and was demonstrated by stamm ramzan and jakobsson in a december 2006 technical report
+alternatively many routers have the ability to replace their firmware (i.e the internal software that executes the device's more complex services) like malware on desktop systems a firmware replacement can be very difficult to detect a stealthy implementation will appear to behave the same as the manufacturer's firmware the administration page will look the same settings will appear correct etc this approach if well executed could make it difficult for network administrators to discover the reconfiguration if the device appears to be configured as the administrators intend but actually redirects dns traffic in the background pharming is only one of many attacks that malicious firmware can mount others include eavesdropping active man in the middle attacks and traffic logging like misconfiguration the entire lan is subject to these actions
+by themselves these pharming approaches have only academic interest however the ubiquity of consumer grade wireless routers presents a massive vulnerability administrative access can be available wirelessly on most of these devices moreover since these routers often work with their default settings administrative passwords are commonly unchanged even when altered many are guessed quickly through dictionary attacks since most consumer grade routers don't introduce timing penalties for incorrect login attempts once administrative access is granted all of the router's settings including the firmware itself may be altered these attacks are difficult to trace because they occur outside the home or small office and outside the internet
+== instances of pharmingedit ==
+in january 2005 the domain name for a large new york isp panix was hijacked to point to a website in australia no financial losses are known
+in january 2008 symantec reported a drive-by pharming incident directed against a mexican bank in which the dns settings on a customer's home router were changed after receipt of an e-mail that appeared to be from a legitimate spanish-language greeting-card company
+== controversy over the use of the termedit ==
+the term pharming has been controversial within the field at a conference organized by the anti-phishing working group phillip hallam-baker denounced the term as a marketing neologism designed to convince banks to buy a new set of security services
+scott chasin a former cto of mcafee and founder of email security firm mx logic coined the term in 2005
+== see alsoedit ==
+dns cache poisoning
+it risk
+mutual authentication
+page hijacking
+== referencesedit ==
+[p] - ^the word pharming is pronounced as farm-ing
+sources
+security phishing and pharming windows it pro magazine june 22 2005
+how can we stop phishing and pharming scams? cso magazine july 20 2005
+== external linksedit ==
+bind 9 dns cache poisoning (dns pharming attack) - discovered by amit klein (trusteer)
+the pharming guide by gunter ollmann
+zd net article alarm over pharming attacks
+wired news pharming out-scams phishing
+network world article on new anti-pharming technology
+eweek article on the hushmail.com dns pharming attack
+after phishing pharming
+main trusteer wikipedia page

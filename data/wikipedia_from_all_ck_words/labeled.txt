@@ -1,0 +1,26 @@
+in the mathematical discipline of graph theory a graph labeling is the assignment of labels traditionally represented by integers to the edges or vertices or both of a graph
+formally given a graph g = (v e) a vertex labeling is a function of v to a set of labels a graph with such a function defined is called a vertex-labeled graph likewise an edge labeling is a function mapping e to a set of labels in this case g is called an edge-labeled graph
+when the edge labels are members of an ordered set (e.g. the real numbers) it may be called a weighted graph
+when used without qualification the term labeled graph generally refers to a vertex-labeled graph with all labels distinct such a graph may equivalently be labeled by the consecutive integers {1  n} where n is the number of vertices in the graph for many applications the edges or vertices are given labels that are meaningful in the associated domain for example the edges may be assigned weights representing the cost of traversing between the incident vertices
+in the above definition a graph is understood to be a finite undirected simple graph however the notion of labeling may be applied to all extensions and generalizations of graphs for example in automata theory and formal language theory it is convenient to consider labeled multigraphs i.e. a pair of vertices may be connected by several labeled edges
+== history ==
+most graph labelings trace their origins to labelings presented by alex rosa in his 1967 paper rosa identified three types of labelings which he called - - and -labelings -labelings were later renamed graceful by s.w golomb and the name has been popular since
+== special cases ==
+=== graceful labeling ===
+a graph is known as graceful when its vertices are labeled from 0 to  the size of the graph and this labeling induces an edge labeling from 1 to  for any edge e e's label is the positive difference between the two vertices incident with e in other words if e is incident with vertices labeled k and j e will be labeled  thus a graph is graceful if and only if there exists an injection that induces a bijection from e to the positive integers up to 
+in his original paper rosa proved that all eulerian graphs with order equivalent to 1 or 2 (mod 4) are not graceful whether or not certain families of graphs are graceful is an area of graph theory under extensive study arguably the largest unproven conjecture in graph labeling is the ringel-kotzig conjecture which hypothesizes that all trees are graceful this has been proven for all paths caterpillars and many other infinite families of trees kotzig himself has called the effort to prove the conjecture a disease.
+=== edge-graceful labeling ===
+an edge-graceful labeling on a simple graph (no loops or multiple edges) on p vertices and q edges is a labelling of the edges by distinct integers in {1,...,q} such that the labeling on the vertices induced by labeling a vertex with the sum of the incident edges taken modulo p assigns all values from 0 to p-1 to the vertices a graph g is said to be edge-graceful if it admits an edge-graceful labeling
+edge-graceful labelings were first introduced by s lo in 1985
+a necessary condition for a graph to be edge-graceful is lo's condition
+q(q + 1) = p/(p 1)2 mod p
+=== harmonious labelings ===
+a harmonious labeling on a graph g is an injection from the vertices of g to the group of integers modulo k where k is the number of edges of g that induces a bijection between the edges of g and the numbers modulo k by taking the edge label for an edge xy to be the sum of the labels of the two vertices x y (m od k) a harmonious graph is one that has a harmonious labeling odd cycles are harmonious as is the petersen graph it is conjectured that trees are all harmonious if one vertex label is allowed to be reused
+=== graph coloring ===
+graph colorings form a subclass of graph labelings a vertex coloring assigns different labels to adjacent vertices an edge colouring different labels to adjacent edges
+=== lucky labeling ===
+a lucky labeling of a graph g is an assignment of positive integers to the vertices of g such that if s(v) denotes the sum of the labels on the neighbours of v then s is a vertex coloring of g the lucky number of g is the least k such that g has a lucky labeling with the integers {1,...,k}
+== references ==
+rosa a (1967) on certain valuations of the vertices of a graph theory of graphs int symp rome july 1966 gordon and breach pp 349355 zbl 0193.53204
+gallian joseph a a dynamic survey of graph labeling. the electronic journal of combinatorics (2005) 20 dec 2006 [1]
+guy richard k (2004) unsolved problems in number theory (3rd ed.) springer-verlag c13 isbn 0-387-20860-7 zbl 1058.11001

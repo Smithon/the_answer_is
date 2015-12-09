@@ -1,0 +1,112 @@
+cup acronym common unix print system modular print system unixlik comput oper system allow comput act print server comput run cup host accept print job client comput process send appropri printer
+cup consist print spooler schedul filter system convert print data format printer understand backend system send data print devic cup use internet print protocol ipp basi manag print job queue also provid tradit command line interfac system v berkeley print system provid support berkeley print system line printer daemon protocol limit support server messag block smb protocol system administr configur devic driver cup suppli edit text file adob postscript printer descript ppd format number user interfac differ platform configur cup builtin webbas interfac cup free softwar provid gnu general public licens gnu lesser general public licens version
+histori
+michael sweet own easi softwar product start develop cup first public beta appear origin design cup use lpd protocol due limit lpd vendor incompat internet print protocol ipp chosen instead cup quick adopt default print system linux distribut march appl inc adopt cup print system mac os x februari appl inc hire chief develop michael sweet purchas cup sourc code
+overview
+cup provid mechan allow print job sent printer standard fashion printdata goe schedul send job filter system convert print job format printer understand filter system pass data backenda special filter send print data devic network connect system make extens use postscript raster data convert data format suitabl destin printer
+cup offer standard modularis print system process numer data format print server cup difficult find standard printer manag system would accommod wide varieti printer market use printer languag format instanc system v berkeley print system larg incompat requir complic script workaround convert program data format printabl format often could detect file format sent printer thus could automat correct convert data stream addit data convers perform individu workstat rather central server
+cup allow printer manufactur printerdriv develop easili creat driver work nativ print server process occur server allow easier networkbas print unix print system samba instal user address printer remot window comput generic postscript driver use print across network
+schedul
+cup schedul implement internet print protocol ipp http helper applic cupslpd convert line printer daemon protocol lpd request ipp schedul also provid webbas interfac manag print job configur server document cup
+author modul control ipp http messag pass system ipphttp packet author sent client modul listen process incom connect client modul also respons execut extern cgi program need support webbas printer class job status monitor administr modul process request send ipp modul perform uniform resourc identifi uri valid prevent client sidestep access control authent http server uri text string indic name address use refer abstract physic resourc network
+schedul allow class printer applic send request group printer class allow schedul direct job first avail printer class job modul manag print job send filter backend process final convers print monitor status messag process
+cup schedul util configur modul pars configur file initi cup data structur start stop cup program configur modul stop cup servic configur file process restart servic process complet
+log modul handl log schedul event access error page log file main modul handl timeout dispatch io request client connect watch signal handl child process error exit reload server configur file need
+modul use schedul includ
+mime modul handl multipurpos internet mail extens mime type convers databas use filter process convert print data format suitabl print devic
+ppd modul handl list postscript printer descript ppd file
+devic modul manag list devic avail system
+printer modul handl printer ppds within cup
+filter system
+cup process varieti data format print server convert printjob data final languageformat printer via seri filter use mime type identifi file format
+mime databas
+cup system assign print job schedul pass cup filter system convert data format suitabl printer startup cup daemon load two mime databas mimetyp defin known file type cup accept data mimeconv defin program process particular mime type
+mimetyp file syntax
+mimetyp fileextens patternmatch
+exampl detect html file follow entri would applic
+texthtml html htm
+printabl stringhtml stringdoctyp
+second line match file content specifi mime type determin first kilobyt text file hold printabl charact charact includ html markup pattern match filter system would mark file mime type texthtml
+mimeconv file syntax
+sourc destin cost program
+sourc field design mime type determin look mimetyp file destin field list type output request determin program use also retriev mimetyp cost field assist select set filter convert file last field program determin filter program use perform data convers
+exampl
+textplain applicationpostscript texttop
+applicationvndcupspostscript applicationvndcupsrast pstorast
+imag applicationvndcupspostscript imagetop
+imag applicationvndcupsrast imagetorast
+filter process
+filter process work take input data preformat six argument
+job id print job
+usernam
+jobnam
+number copi print
+print option
+filenam though unnecessari redirect standard input
+determin type data input filter use use mime databas instanc imag data detect process particular filter html data detect process anoth filter
+cup convert suppli data either postscript data direct raster data convert postscript data addit filter appli call prefilt run postscript data anoth postscript convert add printer specif option like select page rang print set nup mode devicespecif thing prefilt done data either sent direct cup backend use postscript printer pass anoth filter like foomat linuxprintingorg altern pass ghostscript convert postscript intermediari cupsrast format intermediari raster format pass onto final filter convert raster data printerspecif format default filter includ cup includ
+raster pcl
+raster escp escp epson printer languag larg supersed new escprast format
+raster dymo anoth printer compani
+raster zebra program languag zpl zebra technolog printer languag
+proprietari languag like gdi spl samsung printer languag support splix raster spl translat
+howev sever altern integr cup hplip previous known hpij provid linuxcup driver hp printer gutenprint previous known gimpprint rang highqual printer driver most inkjet printer turboprint linux anoth rang qualiti printer driver wide rang printer
+backend
+backend way cup send data printer sever backend avail cup parallel serial usb port cupspdf pdf virtual print well network backend oper via ipp jetdirect appsocket line printer daemon lpd smb protocol
+new mdns backend cup provid bonjour dnssd base printer discoveri cup bonjour printer discoveri share use avahi also support
+compat
+cup provid system v berkeley print command user continu tradit command print via cup cup use port tcp udp standard ipp port option port inetd launchd solari servic manag facil xinetd use cupslpd helper program support lpd print cup instal lp system v print system command lpr berkeley print system command instal compat program allow standard interfac cup allow maximum compat exist applic reli print system
+user interfac tool
+sever tool exist help set cup
+cup webbas administr interfac
+platform cup webbas administr interfac run port particular help organis need monitor print job add print queue printer remot
+cup provid simpl class job printermonitor interfac web browser
+cup replac interfac enhanc administr interfac allow user add modifi delet configur control class job printer
+cup later provid revamp web interfac featur improv readabl design support automat discov printer better access system log advanc set
+gnome
+gnome cup manag add new cup printer manag cup printer queue thirdparti applic manag print exampl gtklp associ tool gtklpq gtkpsproc
+gnome widget toolkit gtk includ integr print support base cup version releas
+ubuntu access graphic menu system administr print
+kde
+kdeprint framework kde contain various guitool act cup frontend allow administr class print queue print job includ printer wizard assist ad new printer amongst featur kdeprint first appear kde
+kdeprint support sever differ print platform cup one bestsupport replac previous version print support kde qtcup backward compat modul kde kprinter dialoguebox program serv main tool send job print devic also start command line kdeprint includ system prefilt job hand cup handl job convert file pdf filter describ pair desktopxml file
+kdeprint main compon includ
+print dialog box allow printer properti modifi
+print manag allow manag printer ad remov printer add printer wizard
+job viewermanag manag printer job holdreleas cancel move anoth printer
+cup configur modul integr kde
+mac os x
+mac os x printer configur print fax pane system prefer printer proxi applic display print queue allow addit configur printer set earlier version mac os x also includ printer setup util suppli configur option miss earlier version print fax prefer pane
+printersetup
+printersetup system manag cup queue take approach assign text file describ print queue printersetupfil may ad text file call printersetuplist allow logic group printer printersetup project remain infanc
+red hat linuxfedora
+start red hat linux red hat provid integr print manag base cup integr gnome allow ad printer via user interfac similar one microsoft window use new printer could ad use add new printer wizard along chang default printerproperti window contain list instal printer job could also start stop use print manag printer could paus use context menu pop printer icon rightclick
+eric raymond criticis system piec luxuri ignor raymond attempt instal cup use fedora core print manag found nonintuit criticis interfac design design user pointofview mind found idea printer queue obvious user creat queue local comput queue actual creat cup server
+also found plethora queue type option confus could choos network cup ipp network unix lpd network window smb network novel ncp network jetdirect found help file singular unhelp larg irrelev user need raymond use cup general topic show user interfac design linux desktop need rethink care design state
+metaproblem configur wizard approv ritual gui standard clicki button help pop browser etc etc doesnt central attribut suppos achiev discover qualiti everi point interfac prompt action attach learn next project qualiti
+esp print pro
+easi softwar product origin creator cup creat gui provid support mani printer implement postscript rip esp print pro ran window unix linux longer avail support product end decemb
+name
+cup began life common unix print system name shorten cup begin cup due legal concern unix trademark
+see also
+foomat
+gutenprint
+hp linux imag print
+lp unix
+lprng
+scanner access easi
+spool
+xprint
+refer
+read
+sweet michael juli cup overview easi softwar product
+cup softwar administr manual manag printer web version easi softwar product retriev januari
+cup onlin document
+design cup filter system includ context mac os x jaguar linuxprintingorg retriev januari
+kde kdeprint inform kdeprint websit retriev januari
+manag printer linux linuxcom
+extern link
+offici websit
+cup freecod
+openprint
+univers plug play printer devic v printer basic servic v

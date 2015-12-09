@@ -1,0 +1,30 @@
+in classical geometry the radius of a circle or sphere is the length of a line segment from its center to its perimeter the name comes from latin radius meaning ray but also the spoke of a chariot wheel the plural of radius can be either radii (from the latin plural) or the conventional english plural radiuses the typical abbreviation and mathematic variable name for radius is r by extension the diameter d is defined as twice the radius
+if an object does not have an obvious center the term may refer to its circumradius the radius of its circumscribed circle or circumscribed sphere in either case the radius may be more than half the diameter which is usually defined as the maximum distance between any two points of the figure the inradius of a geometric figure is usually the radius of the largest circle or sphere contained in it the inner radius of a ring tube or other hollow object is the radius of its cavity
+for regular polygons the radius is the same as its circumradius the inradius of a regular polygon is also called apothem in graph theory the radius of a graph is the minimum over all vertices u of the maximum distance from u to any other vertex of the graph
+the radius of the circle with perimeter (circumference) c is
+alternatively this can be expressed as
+ with (tau) being equal to exactly although this has yet to gain mainstream usage
+== formulaeedit ==
+for many geometrical figures the radius has a well-defined relationship with other measures of the figure
+=== circlesedit ===
+the radius of a circle with area a is
+the radius of a circle that is connecting the three points p1 p2 and p3 is given by
+where is the angle this formula uses the sine rule if the three points are given by their coordinates  and  the radius can be expressed as
+=== regular polygonsedit ===
+the radius of a regular polygon with n sides of length s is given by  with
+=== hypercubesedit ===
+the radius of a d-dimensional hypercube with side s is
+== use in coordinate systemsedit ==
+=== polar coordinatesedit ===
+the polar coordinate system is a two-dimensional coordinate system in which each point on a plane is determined by a distance from a fixed point and an angle from a fixed direction
+the fixed point (analogous to the origin of a cartesian system) is called the pole and the ray from the pole in the fixed direction is the polar axis the distance from the pole is called the radial coordinate or radius and the angle is the angular coordinate polar angle or azimuth
+=== cylindrical coordinatesedit ===
+in the cylindrical coordinate system there is a chosen reference axis and a chosen reference plane perpendicular to that axis the origin of the system is the point where all three coordinates can be given as zero this is the intersection between the reference plane and the axis
+the axis is variously called the cylindrical or longitudinal axis to differentiate it from the polar axis which is the ray that lies in the reference plane starting at the origin and pointing in the reference direction
+the distance from the axis may be called the radial distance or radius while the angular coordinate is sometimes referred to as the angular position or as the azimuth the radius and the azimuth are together called the polar coordinates as they correspond to a two-dimensional polar coordinate system in the plane through the point parallel to the reference plane the third coordinate may be called the height or altitude (if the reference plane is considered horizontal) longitudinal position or axial position
+=== spherical coordinatesedit ===
+in a spherical coordinate system the radius describes the distance of a point from a fixed origin its position if further defined by the polar angle measured between the radial direction and a fixed zenith direction and the azimuth angle that is the angle between the orthogonal projection of the radial direction on a reference plane that passes through the origin and is orthogonal to the zenith and a fixed reference direction in that plane
+== see alsoedit ==
+== referencesedit ==
+== external linksedit ==
+radius (planetmath.org website)

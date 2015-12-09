@@ -1,0 +1,25 @@
+grouped data is a statistical term used in data analysis a raw dataset can be organized by constructing a table showing the frequency distribution of the variable (whose values are given in the raw dataset) such a frequency table is often referred to as grouped data
+== example ==
+the idea of grouped data can be illustrated by considering the following raw dataset
+table 1 time taken (in seconds) by a group of students to
+answer a simple math question
+the above data can be organised into a frequency distribution (or a grouped data) in several ways one method is to use intervals as a basis
+the smallest value in the above data is 8 and the largest is 34 the interval from 8 to 34 is broken up into smaller subintervals (called class intervals) for each class interval the amount of data items falling in this interval is counted this number is called the frequency of that class interval the results are tabulated as a frequency table as follows
+table 2 frequency distribution of the time taken (in seconds) by the group of students to
+answer a simple math question
+another method of grouping the data is to use some qualitative characteristics instead of numerical intervals for example suppose in the above example there are three types of students 1) below normal if the response time is 5 to 14 seconds 2) normal if it is between 15 and 24 seconds and 3) above normal if it is 25 seconds or more then the grouped data looks like
+table 3 frequency distribution of the three types of students
+== mean of grouped data ==
+an estimate  of the mean of the population from which the data are drawn can be calculated from the grouped data as
+in this formula x refers to the midpoint of the class intervals and f is the class frequency note that the result of this will be different from the sample mean of the ungrouped data the mean for the grouped data in the above example can be calculated as follows
+thus the mean of the grouped data is
+== see also ==
+data binning
+level of measurement
+frequency distribution
+discretization of continuous features
+logistic regression#minimum chi-squared estimator for grouped data
+== notes ==
+^ newbold et al. 2009 pages 14 to 17
+== references ==
+newbold p. carlson w. thorne b (2009) statistics for business and economics (seventh ed.) pearson education isbn 978-0-13-507248-6

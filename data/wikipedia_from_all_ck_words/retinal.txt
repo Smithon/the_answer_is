@@ -1,0 +1,47 @@
+retinal is also known as retinaldehyde it was originally called retinene and renamed afterwards it was discovered to be vitamin a aldehyde retinal is one of the many forms of vitamin a (the number of which varies from species to species) retinal is a polyene chromophore bound to proteins called opsins and is the chemical basis of animal vision retinal allows certain microorganisms to convert light into metabolic energy
+vertebrate animals ingest retinal directly from meat or they produce retinal from carotenoids either from one of two carotenes (-carotene -carotene) or from -cryptoxanthin a type of xanthophyll these carotenoids must be obtained from plants or other photosynthetic organisms no other carotenoids can be converted by animals to retinal and some carnivores cannot convert any carotenoids at all the other main forms of vitamin a retinol and a partially active form retinoic acid may both be produced from retinal
+invertebrates such as insects and squid use hydroxylated forms of retinal in their visual systems which derive from conversion from other xanthophylls
+== vitamin a metabolism ==
+living organisms produce retinal (ral) by irreversible oxidative cleavage of carotenoids for example
+beta-carotene + o2 2 retinal
+catalyzed by a beta-carotene 15,15'-monooxygenase or a beta-carotene 15,15'-dioxygenase just as carotenoids are the precursors of retinal retinal is the precursor of the other forms of vitamin a retinal is interconvertible with retinol (rol) the transport and storage form of vitamin a
+retinal + nadph + h+ retinol + nadp+
+retinol + nad+ retinal + nadh + h+
+catalyzed by retinol dehydrogenases (rdhs) and alcohol dehydrogenases (adhs) retinol is called vitamin a alcohol or more often simply vitamin a retinal can also be oxidized to retinoic acid (ra)
+retinal + nad+ + h2o retinoic acid + nadh + h+ (catalyzed by raldh)
+retinal + o2 + h2o retinoic acid + h2o2 (catalyzed by retinal oxidase)
+catalyzed by retinal dehydrogenases also known as retinaldehyde dehydrogenases (raldhs) as well as retinal oxidases retinoic acid sometimes called vitamin a acid is an important signaling molecule and hormone in vertebrate animals
+== vision ==
+vision begins with the photoisomerization of retinal when the 11-cis-retinal chromophore absorbs a photon it isomerizes from the 11-cis state to the all-trans state the absorbance spectrum of the chromophore depends on its interactions with the opsin protein to which it is bound different opsins produce different absorbance spectra
+=== opsins ===
+opsins are proteins and the retinal-binding visual pigments found in the photoreceptor cells in the retinas of eyes an opsin is arranged into a bundle of seven transmembrane alpha-helices connected by six loops in rod cells the opsin molecules are embedded in the membranes of the disks which are entirely inside of the cell the n-terminus head of the molecule extends into the interior of the disk and the c-terminus tail extends into the cytoplasm of the cell in cone cells the disks are defined by the cell's plasma membrane so that the n-terminus head extends outside of the cell retinal binds covalently to a lysine on the transmembrane helix nearest the c-terminus of the protein through a schiff base linkage formation of the schiff base linkage involves removing the oxygen atom from retinal and two hydrogen atoms from the free amino group of lysine giving h2o retinylidene is the divalent group formed by removing the oxygen atom from retinal and so opsins have been called retinylidene proteins
+opsins are prototypical g protein-coupled receptors (gpcrs) bovine rhodopsin the opsin of the rod cells of cattle was the first gpcr to have its x-ray structure determined bovine rhodopsin contains 348 amino acid residues the retinal chromophore binds at lys296
+although mammals use retinal exclusively as the opsin chromophore other groups of animals additionally use four chromophores closely related to retinal these are 3,4-didehydroretinal (3r)-3-hydroxyretinal (3s)-3-hydroxyretinal and (4r)-4-hydroxyretinal many fish and amphibians use 3,4-didehydroretinal also called dehydroretinal with the exception of the dipteran suborder cyclorrhapha the so-called higher flies all insects examined use the (r)-enantiomer of 3-hydroxyretinal the (r)-enantiomer is to be expected if 3-hydroxyretinal is produced directly from xanthophyll carotenoids cyclorrhaphans including drosophila use (3s)-3-hydroxyretinal firefly squid have been found to use (4r)-4-hydroxyretinal
+=== visual cycle ===
+the visual cycle is a circular enzymatic pathway which is the front-end of phototransduction it regenerates 11-cis-retinal for example the visual cycle of mammalian rod cells is as follows
+all-trans-retinyl ester + h2o 11-cis-retinol + fatty acid rpe65 isomerohydrolases
+11-cis-retinol + nad+ 11-cis-retinal + nadh + h+ 11-cis-retinol dehydrogenases
+11-cis-retinal + aporhodopsin rhodopsin + h2o forms schiff base linkage to lysine -ch=n+h-
+rhodopsin + h metarhodopsin ii 11-cis photoisomerizes to all-trans
+rhodopsin + h photorhodopsin bathorhodopsin lumirhodopsin metarhodopsin i metarhodopsin ii
+metarhodopsin ii + h2o aporhodopsin + all-trans-retinal
+all-trans-retinal + nadph + h+ all-trans-retinol + nadp+ all-trans-retinol dehydrogenases
+all-trans-retinol + fatty acid all-trans-retinyl ester + h2o lecithin retinol acyltransferases (lrats)
+steps 3,4,5,6 occur in rod cell outer segments steps 1 2 and 7 occur in retinal pigment epithelium (rpe) cells
+rpe65 isomerohydrolases are homologous with beta-carotene monooxygenases the homologous ninab enzyme in drosophila has both retinal-forming carotenoid-oxygenase activity and all-trans to 11-cis isomerase activity
+== type 1 rhodopsins ==
+all-trans-retinal is also an essential component of type i or microbial opsins such as bacteriorhodopsin channelrhodopsin and halorhodopsin in these molecules light causes the all-trans-retinal to become 13-cis retinal which then cycles back to all-trans-retinal in the dark state
+== history ==
+the american biochemist george wald and others had outlined the visual cycle by 1958 for his work wald won a share of the 1967 nobel prize in physiology or medicine with haldan keffer hartline and ragnar granit
+== see also ==
+visual phototransduction
+visual perception
+sensory system
+purple earth hypothesis
+== references ==
+== further reading ==
+== external links ==
+first steps of vision - national health museum
+vision and light-induced molecular changes
+retinal anatomy and visual capacities
+retinal

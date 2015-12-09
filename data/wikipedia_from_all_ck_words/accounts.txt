@@ -1,0 +1,72 @@
+a chart also called a graph is a graphical representation of data in which the data is represented by symbols such as bars in a bar chart lines in a line chart or slices in a pie chart a chart can represent tabular numeric data functions or some kinds of qualitative structure and provides different info
+the term chart as a graphical representation of data has multiple meanings
+a data chart is a type of diagram or graph that organizes and represents a set of numerical or qualitative data
+maps that are adorned with extra information (map surround) for a specific purpose are often known as charts such as a nautical chart or aeronautical chart typically spread over several map sheets
+other domain specific constructs are sometimes called charts such as the chord chart in music notation or a record chart for album popularity
+charts are often used to ease understanding of large quantities of data and the relationships between parts of the data charts can usually be read more quickly than the raw data that they are produced from they are used in a wide variety of fields and can be created by hand (often on graph paper) or by computer using a charting application certain types of charts are more useful for presenting a given data set than others for example data that presents percentages in different groups (such as satisfied not satisfied unsure") are often displayed in a pie chart but may be more easily understood when presented in a horizontal bar chart on the other hand data that represents numbers that change over a period of time (such as annual revenue from 1990 to 2000") might be best shown as a line chart
+== features of a chart ==
+a chart can take a large variety of forms however there are common features that provide the chart with its ability to extract meaning from data
+typically the data in a chart is represented graphically since humans are generally able to infer meaning from pictures quicker than from text text is generally used only to annotate the data
+one of the more important uses of text in a graph is the title a graph's title usually appears above the main graphic and provides a succinct description of what the data in the graph refers to
+dimensions in the data are often displayed on axes if a horizontal and a vertical axis are used they are usually referred to as the x-axis and y-axis respectively each axis will have a scale denoted by periodic graduations and usually accompanied by numerical or categorical indications each axis will typically also have a label displayed outside or beside it briefly describing the dimension represented if the scale is numerical the label will often be suffixed with the unit of that scale in parentheses for example distance traveled (m) is a typical x-axis label and would mean that the distance traveled in units of meters is related to the horizontal position of the data within the chart
+within the graph a grid of lines may appear to aid in the visual alignment of data the grid can be enhanced by visually emphasizing the lines at regular or significant graduations the emphasized lines are then called major grid lines and the remainder are minor grid lines
+the data of a chart can appear in all manner of formats and may include individual textual labels describing the datum associated with the indicated position in the chart the data may appear as dots or shapes connected or unconnected and in any combination of colors and patterns inferences or points of interest can be overlaid directly on the graph to further aid information extraction
+when the data appearing in a chart contains multiple variables the chart may include a legend (also known as a key) a legend contains a list of the variables appearing in the chart and an example of their appearance this information allows the data from each variable to be identified in the chart
+== types of charts ==
+=== common charts ===
+four of the most common charts are
+this gallery shows
+a histogram consists of tabular frequencies shown as adjacent rectangles erected over discrete intervals (bins) with an area equal to the frequency of the observations in the interval
+a bar chart is a chart with rectangular bars with lengths proportional to the values that they represent the bars can be plotted vertically or horizontally
+a pie chart shows percentage values as a slice of a pie
+a line chart is a two-dimensional scatterplot of ordered observations where the observations are connected following their order
+other common charts are
+=== less-common charts ===
+examples of less common charts are
+this gallery shows
+a bubble chart is a two-dimensional scatterplot where a third variable is represented by the size of the points
+a polar area diagram sometimes called a coxcomb chart is an enhanced form of pie chart developed by florence nightingale
+a radar chart or spider chart or doi is a two-dimensional chart of three or more quantitative variables represented on axes starting from the same point
+a waterfall chart also known as a walk chart is a special type of floating-column chart
+a tree map where the areas of the rectangles correspond to values other dimensions can be represented with colour or hue
+a streamgraph a stacked curvilinear area graph displaced around a central axis
+a gapchart a time series chart showing evolving gaps and equalities between series other dimensions can be represented with colour or hue
+=== field-specific charts ===
+some types of charts have specific uses in a certain field
+this gallery shows
+stock market prices are often depicted with an open-high-low-close chart with a traditional bar chart of volume at the bottom
+candlestick charts are another type of bar chart used to describe price movements of an equity over time
+a kagi chart is a time-independent stock tracking chart that attempts to minimise noise
+alternatively where less detail is required and chart size is paramount a sparkline may be used
+other examples
+interest rates temperatures etc. at the close of the period are plotted with a line chart
+project planners use a gantt chart to show the timing of tasks as they occur over time
+=== well-known named charts ===
+some of the better-known named charts are
+some specific charts have become well known by effectively explaining a phenomenon or idea
+an allele chart is a chart originating from the study of genetics to show the interaction of two data points in a grid
+a gantt chart helps in scheduling complex projects
+the nolan chart and the pournelle chart classify political philosophies according to two axes of variation
+a pert chart is often used in project management
+the smith chart serves in radio electronics
+=== other charts ===
+there are dozens of other types of charts here are some of them
+more example bernal chart 
+=== common plots ===
+== chart software ==
+while charts can be drawn by hand computer software is often used to automatically produce a chart based on entered data for examples of commonly used software tools see list of charting software
+== see also ==
+comparison of adobe flex charts
+diagram
+drakon-chart
+exploratory data analysis
+graphic organizer
+information graphics
+mathematical diagram
+official statistics
+plot (graphics)
+edward tufte
+== references ==
+== further reading ==
+brinton willard cope graphic methods for presenting facts the engineering magazine company 1914
+karsten karl g charts and graphs an introduction to graphic methods in the control and analysis of statistics prentice-hall 1923 1925

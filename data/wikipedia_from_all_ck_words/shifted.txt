@@ -1,0 +1,25 @@
+the shifted gompertz distribution is the distribution of the largest of two independent random variables one of which has an exponential distribution with parameter b and the other has a gumbel distribution with parameters and b in its original formulation the distribution was expressed referring to the gompertz distribution instead of the gumbel distribution but since the gompertz distribution is a reverted gumbel distribution the labelling can be considered as accurate it has been used as a model of adoption of innovations it was proposed by bemmaor (1994) some of its statistical properties have been studied further by jimnez and jodr (2009)
+it has been used to predict the growth and decline of social networks and on-line services and shown to be superior to the bass model and weibull distribution (see the work by christian bauckhage and co-authors)
+== specification ==
+=== probability density function ===
+the probability density function of the shifted gompertz distribution is
+where is the scale parameter and is the shape parameter of the shifted gompertz distribution
+=== cumulative distribution function ===
+the cumulative distribution function of the shifted gompertz distribution is
+== properties ==
+the shifted gompertz distribution is right-skewed for all values of  it is more flexible than the gumbel distribution
+=== shapes ===
+the shifted gompertz density function can take on different shapes depending on the values of the shape parameter 
+the probability density function has its mode at 0
+the probability density function has its mode at
+where is the smallest root of
+which is
+== related distributions ==
+if varies according to a gamma distribution with shape parameter and scale parameter (mean = ) the distribution of is gamma/shifted gompertz (g/sg) when is equal to one the g/sg reduces to the bass model (bemmaor 1994) the g/sg has been applied by dover goldenberg and shapira (2009) and van den bulte and stremersch (2004) among others in the context of the diffusion of innovations the model is discussed in chandrasekaran and tellis (2007)
+== see also ==
+gumbel distribution
+generalized extreme value distribution
+mixture model
+bass model
+gompertz distribution
+== references ==

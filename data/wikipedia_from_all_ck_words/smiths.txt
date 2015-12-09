@@ -1,0 +1,71 @@
+package cushioning is used to help protect fragile items during shipment it is common for a transport package to be dropped kicked and impacted these events may produce potentially damaging shocks transportation vibration from conveyors trucks railroads or aircraft can also damage some items shock and vibration are controlled by cushioning so that the chance of product damage is greatly reduced
+cushioning is usually inside a shipping container such as a corrugated box it is designed to deform or crush to help keep levels of shock and vibration below levels that may damage the product inside the box depending on the specific situation package cushioning can often be between 50 and 75 millimeters (two to three inches) thick
+internal packaging materials (sometimes the same ones used for cushioning) are also used for functions other than cushioning some are used just to immobilize the products in the box and to block them in place others are just used to fill a void and do not have a cushioning function
+== design factors ==
+when designing packaging the choice of cushioning may depend on many factors
+effective protection of product from shock and vibration
+whether cushioning is resilient (performs for multiple impacts)
+resistance to creep cushion deformation under static load
+material costs
+labor costs productivity
+effects of temperature humidity and air pressure on cushioning
+cleanliness of cushioning (dust insects etc.)
+effect on size of external shipping container
+environmental and recycling issues
+sensitivity of product to static electricity
+etc
+== common types of cushioning ==
+loose fill some cushion products are flowable and are packed loosely around the items in the box the box is closed to tighten the pack this includes expanded polystyrene foam pieces (foam peanuts) similar pieces made of starch-based foams and common popcorn the amount of loose fill material required and the transmitted shock levels vary with the specific type of material
+paper paper can be manually or mechanically wadded up and used as a cushioning material heavier grades of paper provide more weight-bearing ability than old newspapers creped cellulose wadding is also available (movers often wrap objects with several layers of kraft paper or embossed pulp before putting them into boxes.)
+corrugated fiberboard pads multi-layer or cut-and-folded shapes of corrugated board can be used as cushions these structures are designed to crush and deform under shock stress and provide some degree of cushioning paperboard composite honeycomb structures are also used for cushioning
+foam structures several types of polymeric foams are used for cushioning the most common are expanded polystyrene (also styrofoam) polypropylene polyethylene and polyurethane these can be molded engineered shapes or sheets which are cut and glued into cushion structures some degradable foams are also available
+foam-in-place is another method of using polyurethane foams these fill the box fully encapsulating the product to immobilize it it is also used to form engineered structures
+molded pulp pulp can be molded into shapes suitable for cushioning and for immobilizing products in a package molded pulp is made from recycled newspapers and is recyclable
+inflated products bubble wrap consists of sheets of plastic film with enclosed bubbles of air these sheets can be layered or wrapped around items to be shipped a variety of engineered inflatable air cushions are also available note that inflated air pillows used for void-fill are not suited for cushioning
+other several other types of cushioning are available including suspension cushions thermoformed end caps and clamshells  and shock mounts
+== design for shock protection ==
+proper performance of cushioning is dependent on its proper design and use it is often best to use a trained packaging engineer reputable vendor consultant or independent laboratory an engineer needs to know the severity of shock (drop height etc.) to protect against this can be based on an existing specification published industry standards and publications field studies etc
+knowledge of the product to be packaged is critical field experience may indicate the types of damage previously experienced laboratory analysis can help quantify the fragility of the item often reported in g-s engineering judgment can also be an excellent starting point sometimes a product can be made more rugged or can be supported to make it less susceptible to breakage
+the amount of shock transmitted by a particular cushioning material is largely dependent on the thickness of the cushion the drop height and the load-bearing area of the cushion (static loading) a cushion must deform under shock for it to function if a product is on a large load-bearing area the cushion may not deform and will not cushion the shock if the load-bearing area is too small the product may bottom out during a shock the shock is not cushioned engineers use cushion curves to choose the best thickness and load-bearing area for a cushioning material often two to three inches (50 75 mm) of cushioning are needed to protect fragile items
+cushion design requires care to prevent shock amplification caused by the cushioned shock pulse duration being close to the natural frequency of the cushioned item
+== design for vibration protection ==
+the process for vibration protection (or isolation) involves similar considerations as that for shock cushions can be thought of as performing like springs depending on cushion thickness and load-bearing area and on the forcing vibration frequency the cushion may 1) not have any influence on input vibration 2) amplify the input vibration at resonance or 3) isolate the product from the vibration proper design is critical for cushion performance
+== evaluation of finished package ==
+verification and validation of prototype designs are required the design of a package and its cushioning is often an iterative process involving several designs evaluations redesigns etc several (astm ista and others) published package testing protocols are available to evaluate the performance of a proposed package field performance should be monitored for feedback into the design process
+== astm standards ==
+d1596 standard test method for dynamic shock cushioning characteristics of packaging material
+d2221 standard test method for creep properties of package cushioning materials
+d3332 standard test methods for mechanical-shock fragility of products using shock machines
+d3580 standard test methods for vibration (vertical linear motion) test of products
+d4168 standard test methods for transmitted shock characteristics of foam-in-place cushioning materials
+d4169 standard practice for performance testing of shipping containers and systems
+d6198 standard guide for transport packaging design
+d6537 standard practice for instrumented package shock testing for determination of package performance
+and others
+== see also ==
+impact force
+packaging and labeling
+shock
+shock absorber
+shock response spectrum
+vibration
+vibration isolation
+== notes ==
+^ marcondes jorge kayo hatton jennifer graham herb schueneman (july 2003) effect of temperature on the cushioning properties of some foamed plastic materials packaging technology and science 16 (2) 6976 doi:10.1002/pts.614
+^ singh s p. chonhenchob and burges (1994) compariison of various loose fill cushioning materials based on protective and environmental performance packaging technology and science (wiley) 7 (5) 229241 doi:10.1002/pts.2770070504
+^ stern r k. jordan c.a (1973) shock cushioning by corrugated fiberboard pads to centrally applied loading (pdf) forest products laboratory research paper fpl-rp-184 retrieved 12 december 2011
+^ wang dong-mei wang zhi-wei (october 2008) experimental investigation into the cushioning properties of honeycomb paperboard packaging technology and science 21 (6) 309373 doi:10.1002/pts.808
+^ mojzes akos folders borocz (2012) define cushion curves for environmentally friendly foams (pdf) annals of faculty engineering hunedoara international journal of engineering (faculty of engineering hunedoara romania) 113118 retrieved 8 mar 2012
+^ khangaldy pal scheumeman herb (2000) design parameters for deformable cushion systems (pdf) iopp transpack 2000 retrieved 8 mar 2012
+^ 5515976 a us us 5515976 a moren m s packaging for fragile articles within container published 14 may 1996
+^ burgess g (march 2000) extensnion and evaluation of fatigue model for product shock fragility used in package design j testing and evaluation 28 (2)
+^ morris s a (2011) transportation distribution and product damage food and package engineering wiley-blackwell pp 367369 isbn 978-0-8138-1479-7 retrieved 13 feb 2015
+== further reading ==
+mil-hdbk 304c package cushioning design 1997 [1]
+russel p g and daum m p product protection test book institute of packaging professionals
+root d six-step method for cushioned package development lansmont 1997 http://www.lansmont.com/
+yam k l. encyclopedia of packaging technology john wiley & sons 2009 isbn 978-0-470-08704-6
+singh j. ignatova l. olsen e and singh p. evaluation of the stress-energy methodology to predict transmitted shock through expanded foam cushions astm journal of testing and evaluation volume 38 issue 6 november 2010
+== external links ==
+institute of packaging professionals
+international safe transit association

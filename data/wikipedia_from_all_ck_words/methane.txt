@@ -1,0 +1,147 @@
+methane (/men/ or /mien/) is a chemical compound with the chemical formula ch4 (one atom of carbon and four atoms of hydrogen) it is the simplest alkane and the main component of natural gas the relative abundance of methane on earth makes it an attractive fuel though capturing and storing it poses challenges due to its gaseous state found at standard conditions for temperature and pressure in its natural state methane is found both below ground and under the sea floor where it often finds its way to the surface and the atmosphere where it is known as atmospheric methane
+== historyedit ==
+in november 1776 methane was first scientifically identified by italian physicist alessandro volta in the marshes of lake maggiore straddling italy and switzerland having been inspired to search for the substance after reading a paper written by benjamin franklin about flammable air volta captured the gas rising from the marsh and by 1778 had isolated the pure gas he also demonstrated means to ignite the gas with an electric spark
+== properties and bondingedit ==
+methane is a tetrahedral molecule with four equivalent c-h bonds its electronic structure is described by four bonding molecular orbitals (mos) resulting from the overlap of the valence orbitals on c and h the lowest energy mo is the result of the overlap of the 2s orbital on carbon with the in-phase combination of the 1s orbitals on the four hydrogen atoms above this level in energy is a triply degenerate set of mos that involve overlap of the 2p orbitals on carbon with various linear combinations of the 1s orbitals on hydrogen the resulting three-over-one bonding scheme is consistent with photoelectron spectroscopic measurements
+at room temperature and standard pressure methane is a colorless odorless gas the familiar smell of natural gas as used in homes is a safety measure achieved by the addition of an odorant usually blends containing tert-butylthiol methane has a boiling point of 161 c (257.8 f) at a pressure of one atmosphere as a gas it is flammable over a range of concentrations (4.417%) in air at standard pressure
+solid methane exists in several modifications presently nine are known cooling methane at normal pressure results in the formation of methane i this substance crystallizes in the cubic system (space group fm3m) the positions of the hydrogen atoms are not fixed in methane i i.e. methane molecules may rotate freely therefore it is a plastic crystal
+== chemical reactionsedit ==
+main reactions with methane are combustion steam reforming to syngas and halogenation in general methane reactions are difficult to control partial oxidation to methanol for example is challenging because the reaction typically progresses all the way to carbon dioxide and water even with incomplete amounts of oxygen the enzyme methane monooxygenase produces methanol from methane but cannot be used for industrial-scale reactions
+=== acid-base reactionsedit ===
+like other hydrocarbons methane is a very weak acid its pka in dmso is estimated to be 56 it cannot be deprotonated in solution but the conjugate base with methyllithium is known
+a variety of positive ions derived from methane have been observed mostly as unstable species in low-pressure gas mixtures these include methenium or methyl cation ch+
+3 methane cation ch+
+4 and methanium or protonated methane ch+
+5 some of these have been detected in outer space methanium can also be produced as diluted solutions from methane with super acids cations with higher charge such as ch2+
+6 and ch3+
+7 have been studied theoretically and conjectured to be stable
+despite the strength of its c-h bonds there is intense interest in catalysts that facilitate ch bond activation in methane (and other low alkanes)
+=== combustionedit ===
+methane's heat of combustion is 55.5 mj/kg combustion of methane is a multiple step reaction the following equations are part of the process with the net result being
+ch4 + 2 o2 co2 + 2 h2o (h = 891 k j/mol (at standard conditions))
+ch4+ m* ch3 + h + m
+ch4 + o2 ch3 + ho2
+ch4 + ho2 ch3 + 2 oh
+ch4 + oh ch3 + h2o
+o2 + h o + oh
+ch4 + o ch3 + oh
+ch3 + o2 ch2o + oh
+ch2o + o cho + oh
+ch2o + oh cho + h2o
+ch2o + h cho + h2
+cho + o co + oh
+cho + oh co + h2o
+cho + h co + h2
+h2 + o h + oh
+h2 + oh h + h2o
+co + oh co2 + h
+h + oh + m h2o + m*
+h + h + m h2 + m*
+h + o2 + m ho2 + m*
+the species m* signifies an energetic third body from which energy is transferred during a molecular collision formaldehyde (hcho or h
+2co) is an early intermediate (reaction 7) oxidation of formaldehyde gives the formyl radical (hco reactions 810) which then give carbon monoxide (co) (reactions 11 12 & 13) any resulting h2 oxidizes to h2o or other intermediates (reaction 14 15) finally the co oxidizes forming co2 (reaction 16) in the final stages (reactions 1719) energy is transferred back to other third bodies the overall speed of reaction is a function of the concentration of the various entities during the combustion process the higher the temperature the greater the concentration of radical species and the more rapid the combustion process
+=== reactions with halogensedit ===
+methane reacts with halogens given appropriate conditions as follows
+x2 + uv 2 x
+x + ch4 hx + ch3
+ch3 + x2 ch3x + x
+where x is a halogen fluorine (f) chlorine (cl) bromine (br) or iodine (i) this mechanism for this process is called free radical halogenation it is initiated with uv light or some other radical initiator a chlorine atom is generated from elemental chlorine which abstracts a hydrogen atom from methane resulting in the formation of hydrogen chloride the resulting methyl radical ch3 can combine with another chlorine molecule to give methyl chloride (ch3cl) and a chlorine atom this chlorine atom can then react with another methane (or methyl chloride) molecule repeating the chlorination cycle similar reactions can produce dichloromethane (ch2cl2) chloroform (chcl3) and ultimately carbon tetrachloride (ccl4) depending upon reaction conditions and the chlorine to methane ratio
+== usesedit ==
+methane is used in industrial chemical processes and may be transported as a refrigerated liquid (liquefied natural gas or lng) while leaks from a refrigerated liquid container are initially heavier than air due to the increased density of the cold gas the gas at ambient temperature is lighter than air gas pipelines distribute large amounts of natural gas of which methane is the principal component
+=== fueledit ===
+methane can be used as a gas for ovens hobs etc it combusts with oxygen to create fire
+==== natural gasedit ====
+methane is important for electrical generation by burning it as a fuel in a gas turbine or steam generator compared to other hydrocarbon fuels burning methane produces less carbon dioxide for each unit of heat released at about 891 kj/mol methane's heat of combustion is lower than any other hydrocarbon but the ratio of the heat of combustion (891 kj/mol) to the molecular mass (16.0 g/mol of which 12.0 g/mol is carbon) shows that methane being the simplest hydrocarbon produces more heat per mass unit (55.7 kj/g) than other complex hydrocarbons in many cities methane is piped into homes for domestic heating and cooking purposes in this context it is usually known as natural gas which is considered to have an energy content of 39 megajoules per cubic meter or 1,000 btu per standard cubic foot
+methane in the form of compressed natural gas is used as a vehicle fuel and is claimed to be more environmentally friendly than other fossil fuels such as gasoline/petrol and diesel research into adsorption methods of methane storage for use as an automotive fuel has been conducted
+==== liquefied natural gasedit ====
+liquefied natural gas (lng) is natural gas (predominantly methane ch4) that has been converted to liquid form for ease of storage or transport
+liquefied natural gas takes up about 1/600th the volume of natural gas in the gaseous state it is odorless colorless non-toxic and non-corrosive hazards include flammability after vaporization into a gaseous state freezing and asphyxia
+the liquefaction process involves removal of certain components such as dust acid gases helium water and heavy hydrocarbons which could cause difficulty downstream the natural gas is then condensed into a liquid at close to atmospheric pressure (maximum transport pressure set at around 25 kpa or 3.6 psi) by cooling it to approximately 162 c (260 f)
+lng achieves a higher reduction in volume than compressed natural gas (cng) so that the energy density of lng is 2.4 times greater than that of cng or 60% of that of diesel fuel this makes lng cost efficient to transport over long distances where pipelines do not exist specially designed cryogenic sea vessels (lng carriers) or cryogenic road tankers are used for its transport
+lng when it is not highly refined for special uses is principally used for transporting natural gas to markets where it is regasified and distributed as pipeline natural gas it is also beginning to be used in lng-fueled road vehicles for example trucks in commercial operation have been achieving payback periods of approximately four years on the higher initial investment required in lng equipment on the trucks and lng infrastructure to support fueling however it remains more common to design vehicles to use compressed natural gas as of 2002 the relatively higher cost of lng production and the need to store lng in more expensive cryogenic tanks had slowed widespread commercial use
+==== power to gasedit ====
+power to gas is a technology which converts electrical power to a gas fuel the method is used to convert carbon dioxide and water to methane (see natural gas) using electrolysis and the sabatier reaction the excess power or off peak power generated by wind generators or solar arrays could theoretically be used for load balancing in the energy grid
+==== liquid methane rocket fueledit ====
+in a highly refined form liquid methane is used as a rocket fuel
+while investigations of methane use have existed for decades no production methane engines have yet been used on orbital spaceflights this is changing and liquid methane has recently been selected for the active development of a variety of bipropellant rocket engines
+since the 1990s a number of russian rockets have been proposed to use liquid methane one 1990s russian engine proposal was the rd-192 a methane/lox variant of the rd-191
+in 2005 us companies orbitech and xcor aerospace developed a demonstration liquid oxygen/liquid methane rocket engine and a larger 7,500 pounds-force (33 kn)-thrust engine in 2007 for potential use as the cev lunar return engine before the cev program was later cancelled
+more recently the american private space company spacex announced in 2012 an initiative to develop liquid methane rocket engines including initially the very large raptor rocket engine raptor is being designed to produce 4.4 meganewtons (1,000,000 lbf) of thrust with a vacuum specific impulse (isp) of 363 seconds and a sea-level isp of 321 seconds and is expected to begin component-level testing in 2014 in february 2014 the raptor engine design was revealed to be of the highly efficient and theoretically more reliable full-flow staged combustion cycle type where both propellant streamsoxidizer and fuelwill be completely in the gas phase before they enter the combustion chamber prior to 2014 only two full-flow rocket engines have ever progressed sufficiently to be tested on test stands but neither engine completed development or flew on a flight vehicle
+in october 2013 the china aerospace science and technology corporation a state-owned contractor for the chinese space program announced that it had completed a first ignition test on a new lox methane rocket engine no engine size was provided
+in september 2014 another american private space companyblue origin publically announced that they were into their third year of development work on a large methane rocket engine the new engine the blue engine 4 or be-4 has been designed to produce 2,400 kilonewtons (550,000 lbf) of thrust while initially planned to be used exclusively on a blue origin proprietary launch vehicle it will now be used on a new united launch alliance (ula) engine on an new launch vehicle that is a successor to the atlas v ula indicated in 2014 that they will make the maiden flight of the new launch vehicle no earlier than 2019
+one advantage of methane is that it is abundant in many parts of the solar system and it could potentially be harvested on the surface of another solar-system body (in particular using methane production from local materials found on mars or titan) providing fuel for a return journey
+by 2013 nasa's project morpheus had developed a small restartable lox methane rocket engine with 5,000 pounds-force (22 kn) thrust and a specific impulse of 321 seconds suitable for inspace applications including landers small lox methane thrusters 515 pounds-force (2267 n) were also developed suitable for use in a reaction control system (rcs)
+spacenews is reporting in early 2015 that the french space agency cnes is working with germany and a few other governments and will propose a lox/methane engine on a reusable launch vehicle by mid-2015 with flight testing unlikely before approximately 2026
+=== chemical feedstockedit ===
+although there is great interest in converting methane into useful or more easily liquefied compounds the only practical processes are relatively unselective in the chemical industry methane is converted to synthesis gas a mixture of carbon monoxide and hydrogen by steam reforming this endergonic process (requiring energy) utilizes nickel catalysts and requires high temperatures around 7001100 c
+ch4 + h2o co + 3 h2
+related chemistries are exploited in the haber-bosch synthesis of ammonia from air which is reduced with natural gas to a mixture of carbon dioxide water and ammonia
+methane is also subjected to free-radical chlorination in the production of chloromethanes although methanol is a more typical precursor
+== productionedit ==
+=== biological routesedit ===
+naturally occurring methane is mainly produced by the process of methanogenesis this multistep process is used by microorganisms as an energy source the net reaction is
+co2 + 8 h+ + 8 e ch4 + 2 h2o
+the final step in the process is catalyzed by the enzyme coenzyme-b sulfoethylthiotransferase methanogenesis is a form of anaerobic respiration used by organisms that occupy landfill ruminants (e.g. cattle) and the guts of termites
+it is uncertain if plants are a source of methane emissions
+=== serpentinizationedit ===
+methane could also be produced by a non-biological process called serpentinization involving water carbon dioxide and the mineral olivine which is known to be common on mars
+=== industrial routesedit ===
+methane can be produced by hydrogenating carbon dioxide through the sabatier process methane is also a side product of the hydrogenation of carbon monoxide in the fischer-tropsch process this technology is practiced on a large scale to produce longer chain molecules than methane
+natural gas is so abundant that the intentional production of methane is relatively rare the only large scale facility of this kind is the great plains synfuels plant started in 1984 in beulah north dakota as a way to develop abundant local resources of low grade lignite a resource which is otherwise very hard to transport for its weight ash content low calorific value and propensity to spontaneous combustion during storage and transport
+an adaptation of the sabatier methanation reaction may be used via a mixed catalyst bed and a reverse water gas shift in a single reactor to produce methane from the raw materials available on mars utilizing water from the martian subsoil and carbon dioxide in the martian atmosphere
+=== laboratory synthesisedit ===
+methane can also be produced by the destructive distillation of acetic acid in the presence of soda lime or similar acetic acid is decarboxylated in this process methane can also be prepared by reaction of aluminium carbide with water or strong acids
+== occurrenceedit ==
+methane was discovered and isolated by alessandro volta between 1776 and 1778 when studying marsh gas from lake maggiore it is the major component of natural gas about 87% by volume the major source of methane is extraction from geological deposits known as natural gas fields with coal seam gas extraction becoming a major source (see coal bed methane extraction a method for extracting methane from a coal deposit while enhanced coal bed methane recovery is a method of recovering methane from non-mineable coal seams) it is associated with other hydrocarbon fuels and sometimes accompanied by helium and nitrogen the gas at shallow levels (low pressure) forms by anaerobic decay of organic matter and reworked methane from deep under the earth's surface in general sediments buried deeper and at higher temperatures than those that contain oil generate natural gas
+it is generally transported in bulk by pipeline in its natural gas form or lng carriers in its liquefied form few countries transport it by truck
+=== alternative sourcesedit ===
+apart from gas fields an alternative method of obtaining methane is via biogas generated by the fermentation of organic matter including manure wastewater sludge municipal solid waste (including landfills) or any other biodegradable feedstock under anaerobic conditions rice fields also generate large amounts of methane during plant growth methane hydrates/clathrates (ice-like combinations of methane and water on the sea floor found in vast quantities) are a potential future source of methane cattle belch methane accounts for 16% of the world's annual methane emissions to the atmosphere one study reported that the livestock sector in general (primarily cattle chickens and pigs) produces 37% of all human-induced methane early research has found a number of medical treatments and dietary adjustments that help slightly limit the production of methane in ruminants a more recent study in 2009 found that at a conservative estimate at least 51% of global greenhouse gas emissions were attributable to the life cycle and supply chain of livestock products meaning all meat dairy and by-products and their transportation many efforts are underway to reduce livestock methane production and trap the gas to use as energy
+paleoclimatology research published in current biology suggests that flatulence from dinosaurs may have warmed the earth
+=== atmospheric methaneedit ===
+methane is created near the earth's surface primarily by microorganisms by the process of methanogenesis it is carried into the stratosphere by rising air in the tropics uncontrolled build-up of methane in the atmosphere is naturally checked although human influence can upset this natural regulation by methane's reaction with hydroxyl radicals formed from singlet oxygen atoms and with water vapor it has a net lifetime of about 10 years and is primarily removed by conversion to carbon dioxide and water
+methane also affects the degradation of the ozone layer
+in addition there is a large (but unknown) amount of methane in methane clathrates in the ocean floors as well as the earth's crust most methane is the result of biological process called methanogenesis
+in 2010 methane levels in the arctic were measured at 1850 nmol/mol a level over twice as high as at any time in the 400,000 years prior to the industrial revolution historically methane concentrations in the world's atmosphere have ranged between 300 and 400 nmol/mol during glacial periods commonly known as ice ages and between 600 to 700 nmol/mol during the warm interglacial periods recent research suggests that the earth's oceans are a potentially important new source of arctic methane
+a bristol university study published in nature claims that methane under the antarctic ice sheet may yet play an important role globally researchers believe these sub-ice environments to be biologically active in that microbes are converting organic carbon to carbon dioxide and methane possible adverse effects projected as the gas escapes into the atmosphere are estimated to have the potential of a sixty trillion dollar impact on the world economy
+the ipcc fifth assessment report determined that methane in the earth's atmosphere is an important greenhouse gas with a global warming potential of 34 compared to co2 over a 100-year period (although accepted figures probably represent an underestimate) this means that a methane emission will have 34 times the effect on temperature of a carbon dioxide emission of the same mass over the following 100 years and methane has 33 times the effect when accounted for aerosol interactions
+methane has a large effect for a brief period (a net lifetime of 8.4 years in the atmosphere) whereas carbon dioxide has a small effect for a long period (over 100 years) because of this difference in effect and time period the global warming potential of methane over a 20-year time period is 72 the earth's atmospheric methane concentration has increased by about 150% since 1750 and it accounts for 20% of the total radiative forcing from all of the long-lived and globally mixed greenhouse gases (these gases don't include water vapor which is by far the largest component of the greenhouse effect) usually excess methane from landfills and other natural producers of methane is burned so co2 is released into the atmosphere instead of methane because methane is a more effective greenhouse gas recently methane emitted from coal mines has been successfully utilized to generate electricity
+=== clathratesedit ===
+methane is essentially insoluble in water but it can be trapped in ice forming a similar solid significant deposits of methane clathrate have been found under sediments on the ocean floors of earth at large depths
+arctic methane release from permafrost and methane clathrates is an expected consequence and further cause of global warming
+== anaerobic oxidation of methaneedit ==
+there is a group of bacteria that drive methane oxidation with nitrite as the oxidant the anaerobic oxidation of methane
+== safetyedit ==
+methane is nontoxic yet it is extremely flammable and may form explosive mixtures with air methane is violently reactive with oxidizers halogen and some halogen-containing compounds methane is also an asphyxiant and may displace oxygen in an enclosed space asphyxia may result if the oxygen concentration is reduced to below about 16% by displacement as most people can tolerate a reduction from 21% to 16% without ill effects the concentration of methane at which asphyxiation risk becomes significant is much higher than the 515% concentration in a flammable or explosive mixture methane off-gas can penetrate the interiors of buildings near landfills and expose occupants to significant levels of methane some buildings have specially engineered recovery systems below their basements to actively capture this gas and vent it away from the building
+methane gas explosions are responsible for many deadly mining disasters a methane gas explosion was the cause of the upper big branch coal mine disaster in west virginia on april 5 2010 killing 25
+== extraterrestrial methaneedit ==
+methane has been detected or is believed to exist on all planets of the solar system as well as on most of the larger moons in most cases it is believed to have been created by abiotic processes possible exceptions are mars and titan
+mercury the tenuous atmosphere contains trace amounts of methane
+venus the atmosphere contains a large amount of methane from 60 km (37 mi) to the surface according to data collected by the pioneer venus large probe neutral mass spectrometer
+moon traces are outgassed from the surface
+mars the martian atmosphere contains 10 nmol/mol methane the source of methane on mars has not been determined recent research suggests that methane may come from volcanoes fault lines or methanogens or that it may be a byproduct of electrical discharges from dust devils and dust storms or that it may be the result of uv radiation in january 2009 nasa scientists announced that they had discovered that the planet often vents methane into the atmosphere in specific areas leading some to speculate this may be a sign of biological activity going on below the surface analysis of observations made by a weather research and forecasting model for mars (marswrf) and related mars general circulation model (mgcm) suggests that it is potentially possible to isolate methane plume source locations to within tens of kilometers which is within the roving capabilities of future mars rovers the curiosity rover which landed on mars in august 2012 is able to make measurements that distinguish between different isotopologues of methane but even if the mission is to determine that microscopic martian life is the source of the methane the life forms likely reside far below the surface outside of the rover's reach curiosity's sample analysis at mars (sam) instrument is capable of tracking the presence of methane over time to determine if it is constant variable seasonal or random providing further clues about its source the first measurements with the tunable laser spectrometer (tls) indicated that there is less than 5 ppb of methane at the landing site at the point of the measurement
+the mars trace gas mission orbiter planned to launch in 2016 would further study the methane as well as its decomposition products such as formaldehyde and methanol alternatively these compounds may instead be replenished by volcanic or other geological means such as serpentinization on july 19 2013 nasa scientists reported finding not much methane (i.e. an upper limit of 2.7 parts per billion of methane") around the gale crater area where the curiosity rover landed in august 2012 on september 19 2013 nasa scientists on the basis of further measurements by curiosity reported no detection of atmospheric methane with a measured value of 69991800000000000000.180.67 ppbv corresponding to an upper limit of only 1.3 ppbv (95% confidence limit) and as a result conclude that the probability of current methanogenic microbial activity on mars is reduced on 16 december 2014 nasa reported the curiosity rover detected a tenfold spike likely localized in the amount of methane in the martian atmosphere sample measurements taken a dozen times over 20 months showed increases in late 2013 and early 2014 averaging 7 parts of methane per billion in the atmosphere. before and after that readings averaged around one-tenth that level
+saturn the atmosphere contains 4500 2000 ppm methaneenceladus the atmosphere contains 1.7% methane
+iapetus
+titan the atmosphere contains 1.6% methane and thousands of methane lakes have been detected on the surface in the upper atmosphere the methane is converted into more complex molecules including acetylene a process that also produces molecular hydrogen there is evidence that acetylene and hydrogen are recycled into methane near the surface this suggests the presence either of an exotic catalyst or an unfamiliar form of methanogenic life methane showers probably prompted by changing seasons have also been observed on october 24 2014 methane was found in polar clouds on titan
+uranus the atmosphere contains 2.3% methaneariel methane is believed to be a constituent of ariel's surface ice
+miranda
+oberon about 20% of oberon's surface ice is composed of methane-related carbon/nitrogen compounds
+titania about 20% of titania's surface ice is composed of methane-related organic compounds
+umbriel methane is a constituent of umbriel's surface ice
+neptune the atmosphere contains 1.5 0.5% methanetriton triton has a tenuous nitrogen atmosphere with small amounts of methane near the surface
+pluto spectroscopic analysis of pluto's surface reveals it to contain traces of methanecharon methane is believed present on charon but it is not completely confirmed
+eris infrared light from the object revealed the presence of methane ice
+halley's comet
+comet hyakutake terrestrial observations found ethane and methane in the comet
+extrasolar planets methane was detected on extrasolar planet hd 189733b this is the first detection of an organic compound on a planet outside the solar system its origin is unknown since the planet's high temperature (700 c) would normally favor the formation of carbon monoxide instead research indicates that meteoroids slamming against exoplanet atmospheres could add organic gases such as methane making the exoplanets look as though they are inhabited by life even if they are not
+interstellar clouds
+== see alsoedit ==
+== notesedit ==
+== referencesedit ==
+== external linksedit ==
+methane at the periodic table of videos (university of nottingham)
+methane thermodynamics
+international chemical safety card 0291
+methane hydrates
+catalytic conversion of methane to more useful chemicals and fuels
+cdc handbook for methane control in mining

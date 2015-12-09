@@ -1,0 +1,89 @@
+in geometry a coordinate system is a system which uses one or more numbers or coordinates to uniquely determine the position of a point or other geometric element on a manifold such as euclidean space the order of the coordinates is significant and they are sometimes identified by their position in an ordered tuple and sometimes by a letter as in the x-coordinate the coordinates are taken to be real numbers in elementary mathematics but may be complex numbers or elements of a more abstract system such as a commutative ring the use of a coordinate system allows problems in geometry to be translated into problems about numbers and vice versa this is the basis of analytic geometry
+== common coordinate systemsedit ==
+=== number lineedit ===
+the simplest example of a coordinate system is the identification of points on a line with real numbers using the number line in this system an arbitrary point o (the origin) is chosen on a given line the coordinate of a point p is defined as the signed distance from o to p where the signed distance is the distance taken as positive or negative depending on which side of the line p lies each point is given a unique coordinate and each real number is the coordinate of a unique point
+=== cartesian coordinate systemedit ===
+the prototypical example of a coordinate system is the cartesian coordinate system in the plane two perpendicular lines are chosen and the coordinates of a point are taken to be the signed distances to the lines
+in three dimensions three perpendicular planes are chosen and the three coordinates of a point are the signed distances to each of the planes this can be generalized to create n coordinates for any point in n-dimensional euclidean space
+depending on the direction and order of the coordinate axis the system may be a right-hand or a left-hand system
+=== polar coordinate systemedit ===
+another common coordinate system for the plane is the polar coordinate system a point is chosen as the pole and a ray from this point is taken as the polar axis for a given angle  there is a single line through the pole whose angle with the polar axis is (measured counterclockwise from the axis to the line) then there is a unique point on this line whose signed distance from the origin is r for given number r for a given pair of coordinates (r ) there is a single point but any point is represented by many pairs of coordinates for example (r ) (r +2) and (r +) are all polar coordinates for the same point the pole is represented by (0 ) for any value of 
+=== cylindrical and spherical coordinate systemsedit ===
+there are two common methods for extending the polar coordinate system to three dimensions in the cylindrical coordinate system a z-coordinate with the same meaning as in cartesian coordinates is added to the r and polar coordinates giving a triple (  z) spherical coordinates take this a step further by converting the pair of cylindrical coordinates (r z) to polar coordinates ( ) giving a triple (  )
+=== homogeneous coordinate systemedit ===
+a point in the plane may be represented in homogeneous coordinates by a triple (x y z) where x/z and y/z are the cartesian coordinates of the point this introduces an extra coordinate since only two are needed to specify a point on the plane but this system is useful in that it represents any point on the projective plane without the use of infinity in general a homogeneous coordinate system is one where only the ratios of the coordinates are significant and not the actual values
+=== other commonly used systemsedit ===
+some other common coordinate systems are the following
+curvilinear coordinates are a generalization of coordinate systems generally the system is based on the intersection of curves
+orthogonal coordinates coordinate surfaces meet at right angles
+skew coordinates coordinate surfaces are not orthogonal
+orthogonal coordinates
+the log-polar coordinate system represents a point in the plane by the logarithm of the distance from the origin and an angle measured from a reference line intersecting the origin
+plcker coordinates are a way of representing lines in 3d euclidean space using a six-tuple of numbers as homogeneous coordinates
+generalized coordinates are used in the lagrangian treatment of mechanics
+canonical coordinates are used in the hamiltonian treatment of mechanics
+parallel coordinates visualise a point in n-dimensional space as a polyline connecting points on n vertical lines
+barycentric coordinates as used for ternary plots and more generally in the analysis of triangles
+trilinear coordinates are used in the context of triangles
+there are ways of describing curves without coordinates using intrinsic equations that use invariant quantities such as curvature and arc length these include
+the whewell equation relates arc length and the tangential angle
+the cesro equation relates arc length and curvature
+== coordinates of geometric objectsedit ==
+coordinates systems are often used to specify the position of a point but they may also be used to specify the position of more complex figures such as lines planes circles or spheres for example plcker coordinates are used to determine the position of a line in space when there is a need the type of figure being described is used to distinguish the type of coordinate system for example the term line coordinates is used for any coordinate system that specifies the position of a line
+it may occur that systems of coordinates for two different sets of geometric figures are equivalent in terms of their analysis an example of this is the systems of homogeneous coordinates for points and lines in the projective plane the two systems in a case like this are said to be dualistic dualistic systems have the property that results from one system can be carried over to the other since these results are only different interpretations of the same analytical result this is known as the principle of duality
+== transformationsedit ==
+because there are often many different possible coordinate systems for describing geometrical figures it is important to understand how they are related such relations are described by coordinate transformations which give formulas for the coordinates in one system in terms of the coordinates in another system for example in the plane if cartesian coordinates (x y) and polar coordinates (r ) have the same origin and the polar axis is the positive x axis then the coordinate transformation from polar to cartesian coordinates is given by x = r cos and y = r sin
+with every bijection from the space to itself two coordinate transformations can be associated
+such that the new coordinates of the image of each point are the same as the old coordinates of the original point (the formulas for the mapping are the inverse of those for the coordinate transformation)
+such that the old coordinates of the image of each point are the same as the new coordinates of the original point (the formulas for the mapping are the same as those for the coordinate transformation)
+for example in 1d if the mapping is a translation of 3 to the right the first moves the origin from 0 to 3 so that the coordinate of each point becomes 3 less while the second moves the origin from 0 to 3 so that the coordinate of each point becomes 3 more
+== coordinate curves and surfacesedit ==
+in two dimensions if one of the coordinates in a point coordinate system is held constant and the other coordinate is allowed to vary then the resulting curve is called a coordinate curve (some authors use the phrase coordinate line") this procedure does not always make sense for example there are no coordinate curves in a homogeneous coordinate system in the cartesian coordinate system the coordinate curves are in fact straight lines specifically they are the lines parallel to one of the coordinate axes for other coordinate systems the coordinates curves may be general curves for example the coordinate curves in polar coordinates obtained by holding r constant are the circles with center at the origin coordinates systems for euclidean space other than the cartesian coordinate system are called curvilinear coordinate systems
+in three-dimensional space if one coordinate is held constant and the other two are allowed to vary then the resulting surface is called a coordinate surface for example the coordinate surfaces obtained by holding constant in the spherical coordinate system are the spheres with center at the origin in three-dimensional space the intersection of two coordinate surfaces is a coordinate curve
+similarly coordinate hypersurfaces are the n-1-dimensional spaces resulting from fixing a single coordinate of an n-dimensional coordinate system
+== coordinate mapsedit ==
+the concept of a coordinate map or chart is central to the theory of manifolds a coordinate map is essentially a coordinate system for a subset of a given space with the property that each point has exactly one set of coordinates more precisely a coordinate map is a homeomorphism from an open subset of a space x to an open subset of rn it is often not possible to provide one consistent coordinate system for an entire space in this case a collection of coordinate maps are put together to form an atlas covering the space a space equipped with such an atlas is called a manifold and additional structure can be defined on a manifold if the structure is consistent where the coordinate maps overlap for example a differentiable manifold is a manifold where the change of coordinates from one coordinate map to another is always a differentiable function
+== orientation-based coordinatesedit ==
+in geometry and kinematics coordinate systems are used not only to describe the (linear) position of points but also to describe the angular position of axes planes and rigid bodies in the latter case the orientation of a second (typically referred to as local") coordinate system fixed to the node is defined based on the first (typically referred to as global or world coordinate system) for instance the orientation of a rigid body can be represented by an orientation matrix which includes in its three columns the cartesian coordinates of three points these points are used to define the orientation of the axes of the local system they are the tips of three unit vectors aligned with those axes
+== see alsoedit ==
+absolute angular momentum
+alpha-numeric grid
+analytic geometry
+astronomical coordinate systems
+axes conventions in engineering
+coordinate-free
+fractional coordinates
+frame of reference
+galilean transformation
+geographic coordinate system
+nomogram graphical representations of different coordinate systems
+rotation of axes
+translation of axes
+=== relativistic coordinate systemsedit ===
+eddingtonfinkelstein coordinates
+gaussian polar coordinates
+gullstrandpainlev coordinates
+isotropic coordinates
+kruskalszekeres coordinates
+schwarzschild coordinates
+== referencesedit ==
+^ woods p 1
+^ weisstein eric w. coordinate system mathworld
+^ weisstein eric w. coordinates mathworld
+^ stewart james b. redlin lothar watson saleem (2008) college algebra (5th ed.) brooks cole pp 1319 isbn 0-495-56521-0
+^ moon p spencer de (1988) rectangular coordinates (x y z) field theory handbook including coordinate systems differential equations and their solutions (corrected 2nd 3rd print ed.) new york springer-verlag pp 911 (table 1.01) isbn 978-0-387-18430-2
+^ finney ross george thomas franklin demana bert waits (june 1994) calculus graphical numerical algebraic (single variable version ed.) addison-wesley publishing co isbn 0-201-55478-x
+^ margenau henry murphy george m (1956) the mathematics of physics and chemistry new york city d van nostrand p 178 isbn 9780882754239 lccn 55010911 oclc 3017486
+^ morse pm feshbach h (1953) methods of theoretical physics part i new york mcgraw-hill p 658 isbn 0-07-043316-x lccn 52011515
+^ jones alfred clement (1912) an introduction to algebraical geometry clarendon
+^ hodge w v d. d pedoe (1994) [1947] methods of algebraic geometry volume i (book ii) cambridge university press isbn 978-0-521-46900-5
+^ woods p 2
+^ tang k t (2006) mathematical methods for engineers and scientists 2 springer p 13 isbn 3-540-30268-9
+^ liseikin vladimir d (2007) a computational differential geometry approach to grid generation springer p 38 isbn 3-540-34235-4
+^ munkres james r (2000) topology prentice hall isbn 0-13-181629-2
+^ hanspeter schaub john l junkins (2003) rigid body kinematics analytical mechanics of space systems american institute of aeronautics and astronautics p 71 isbn 1-56347-563-4
+voitsekhovskii m.i. ivanov a.b (2001) coordinates in hazewinkel michiel encyclopedia of mathematics springer isbn 978-1-55608-010-4
+woods frederick s (1922) higher geometry ginn and co pp 1ff
+shigeyuki morita teruko nagase katsumi nomizu (2001) geometry of differential forms ams bookstore p 12 isbn 0-8218-1045-6
+== external linksedit ==
+hexagonal coordinate system

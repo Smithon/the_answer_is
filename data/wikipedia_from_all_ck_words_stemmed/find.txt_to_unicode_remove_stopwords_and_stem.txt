@@ -1,0 +1,130 @@
+unixlik oper system find commandlin util search one directori tree file system locat file base userspecifi criteria appli userspecifi action match file possibl search criteria includ pattern match file name time rang match modif time access time file default find return list file current work directori
+relat locat program use databas index file obtain find updat regular interv typic cron job provid faster method search entir filesystem file name
+histori
+find appear version unix part programm workbench project written dick haight alongsid cpio design use togeth
+find syntax
+find h l p path express
+three option control find command treat symbol link default behaviour never follow symbol link explicit specifi use p flag l flag caus find command follow symbol link h flag follow symbol link process command line argument flag avail older version find
+least one path must preced express find capabl interpret wildcard intern command must construct care order control shell glob
+express element whitespacesepar evalu left right contain logic element o well complex predic
+gnu find larg number addit featur specifi posix
+posix protect infinit output
+realworld filesystem often contain loop structur creat use hard soft link posix standard requir
+oper
+oper use enhanc express find command oper list order decreas preced
+expr forc preced
+expr true expr fals
+expr expr impli expr evalu expr fals
+expr expr expr expr
+expr o expr expr evalu expr true
+find name filea o name fileb
+command search file whose name prefix filea fileb current directori
+find name foocpp path svn
+command search file name foocpp subdirectori current directori current directori includ svn quot interpret shell histori substitut charact
+type filter explan
+type option use specifi search file link directori various type filter support find activ use
+find type c
+configur switch c may
+b block buffer special
+c charact unbuff special
+d directori
+p name pipe fifo
+f regular file
+l symbol link never true l option follow option effect unless symbol link broken want search symbol link l effect use xtype though gnu extens
+socket
+d door solari
+configur switch list bold common use
+exampl
+current directori
+find name
+search current directori repres dot charact file directori name start quot avoid shell expans without shell would replac list file whose name begin current directori newer version program directori may omit impli current directori
+file
+find name type f
+limit result search regular file therefor exclud directori special file pipe symbol link etc enclos singl quot apostroph otherwis shell would replac list file current directori start
+command
+previous exampl creat list result default find execut print action note earli version find command default action therefor result list file would discard bewilder user
+find name type f ls
+print extend file inform
+search directori
+find name myfil type f print
+search everi file comput file name myfil print screen general good idea look data file way take consider amount time best specifi directori precis oper system may mount dynam filesystem congeni find complex filenam includ charact special shell may need enclos singl quot
+search one directori subtre
+find path excludedpath prune o type f name myfil print
+search everi folder comput except subtre excludedpath full path includ lead file name myfil detect directori devic link door special filetyp
+specifi directori
+find homewe name myfil type f print
+search file name myfil homewe directori home directori userid weed alway specifi directori deepest level rememb quot option exampl myfil contain charact special shell
+search sever directori
+find local tmp name mydir type d print
+search directori name mydir local subdirectori current work directori tmp directori
+ignor error
+your user root might want ignor permiss deni error sinc error print stderr suppress redirect output devnul follow exampl show bash shell
+csh tcsh user cannot redirect stderr without redirect stdout well use sh run find command get around
+altern method use csh tcsh pipe output stdout stderr grep command exampl show suppress line contain permiss deni error
+find one differ name file
+find name jsp o name java type f ls
+ls option print extend inform exampl find file whose name end either jsp java note parenthes requir also note oper abbrevi o oper assum oper given mani shell parenthes must escap backslash prevent interpret special shell charact ls option oper avail version find
+execut action
+command chang permiss file name end mp directori varftpmp action carri specifi option exec chmod command everi file whose name end mp command chmod execut replac name file semicolon backslash avoid shell interpret command separ indic end command permiss usual shown rwrr give file owner full permiss read write file user readon access shell must quot trail customarili quot lead could effect enclos singl quot
+note command quot otherwis get error messag like
+mean find tri run file call echo mv bfn rel fail
+execut mani result effici use variant exec primari collect filenam argmax execut command list filenam
+find exec command
+ensur filenam whitespac pass execut command without split shell
+delet file directori
+caveat delet action gnu extens use turn depth test find command print instead delet order figur happen go need use depth print
+delet empti file directori print name note empti vendor uniqu extens gnu find may avail find implement
+find foo empti delet print
+delet empti file
+find foo type f empti delet
+delet empti directori
+find foo type d empti delet
+delet file directori empti name bad
+find foo name bad empti delet
+warn delet use oper empti name
+find foo delet delet foo
+search string
+command search string file tmp directori
+devnul argument use show name file text found without text found print equival mechan use h withfilenam option grep
+gnu grep use perform task
+grep r search string tmp
+exampl search log jsmith home directori
+exampl search string error xml file current directori subdirectori
+doubl quot surround search string singl quot surround brace option exampl need allow space special charact string note complex text notabl popular shell descend sh csh singl quot often easier choic sinc doubl quot prevent special interpret quot filenam english contract demonstr get rather complic sinc string apostroph easier protect doubl quot exampl
+search file own user
+find user userid
+search case insensit mode
+note inam standard may support implement
+find inam myfil
+inam switch support system workaround techniqu may possibl
+find name mmyyffiille
+use perl build command though general kind usag danger sinc special charact proper quot fed standard input sh
+echo myfil perl pe sazazlugsfind name sh
+search file size
+exampl search file size kilobyt kilobyt
+find size k size k
+exampl search empti file
+find size k
+exampl search nonempti file
+find size k
+search file name size
+find usrsrc name v o name v print
+command search usrsrc directori sub directori file form v v exclud import argument note tooltip display mouseov
+unit one bckw b mean byte block c mean byte k mean kilobyt w mean byte word size count indirect block count block spars file actual alloc
+relat util
+locat unix search tool search prebuilt databas file instead directori tree file system faster find less accur databas may uptod
+grep commandlin util search plaintext data set line match regular express default report match line standard output
+tree commandlin util recurs list file found directori tree indent file name accord posit file hierarchi
+gnu find util also known findutil gnu packag contain implement tool find xarg
+busybox util provid sever strippeddown unix tool singl execut file intend embed oper system limit resourc also provid version find
+dir option recurs search file folder
+see also
+mdfind similar util util metadata mac os x darwin
+list unix program
+list dos command
+filter higherord function
+find command dos window command differ unix find
+refer
+extern link
+find find file command util refer singl unix specif issu open group
+offici webpag gnu find

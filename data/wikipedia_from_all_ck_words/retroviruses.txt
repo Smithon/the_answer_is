@@ -1,0 +1,77 @@
+retroviridae is a family of enveloped viruses that replicate in a host cell through the process of reverse transcription a retrovirus is a single-stranded positive-sense rna virus with a dna intermediate and as an obligate parasite targets a host cell once inside the host cell cytoplasm the virus uses its own reverse transcriptase enzyme to produce dna from its rna genome the reverse of the usual pattern thus retro (backwards) this new dna is then incorporated into the host cell genome by an integrase enzyme at which point the retroviral dna is referred to as a provirus the host cell then treats the viral dna as part of its own genome translating and transcribing the viral genes along with the cell's own genes producing the proteins required to assemble new copies of the virus it is difficult to detect the virus until it has infected the host at that point the infection will persist indefinitely
+in most viruses dna is transcribed into rna and then rna is translated into protein however retroviruses function differently their rna is reverse-transcribed into dna which is integrated into the host cell's genome (when it becomes a provirus) and then undergoes the usual transcription and translational processes to express the genes carried by the virus so the information contained in a retroviral gene is used to generate the corresponding protein via the sequence rna dna rna polypeptide this extends the fundamental process identified by francis crick (one gene-one peptide) in which the sequence is dna rna peptide (proteins are made of one or more polypeptide chain e.g haemoglobin is a four-chain peptide)
+retroviruses are valuable research tools in molecular biology and have been used successfully in gene delivery systems
+== structureedit ==
+virions of retroviruses consist of enveloped particles about 100 nm in diameter the virions also contain two identical single-stranded rna molecules 710 kilobases in length although virions of different retroviruses do not have the same morphology or biology all the virion components are very similar
+the main virion components are
+envelope composed of lipids (obtained from the host plasma membrane during budding process) as well as glycoprotein encoded by the env gene the retroviral envelope serves three distinct functions protection from the extracellular environment via the lipid bilayer enabling the retrovirus to enter/exit host cells through endosomal membrane trafficking and the ability to directly enter cells by fusing with their membranes
+rna consists of a dimer rna it has a cap at the 5 end and a poly(a) tail at the 3 end the rna genome also has terminal noncoding regions which are important in replication and internal regions that encode virion proteins for gene expression the 5 end includes four regions which are r u5 pbs and l the r region is a short repeated sequence at each end of the genome used during the reverse transcription to ensure correct end-to-end transfer in the growing chain u5 on the other hand is a short unique sequence between r and pbs pbs (primer binding site) consists of 18 bases complementary to 3 end of trna primer l region is an untranslated leader region that gives the signal for packaging of the genome rna the 3 end includes 3 regions which are ppt (polypurine tract) u3 and r the ppt is a primer for plus-strand dna synthesis during reverse transcription u3 is a sequence between ppt and r which serves as a signal that the provirus can use in transcription r is the terminal repeated sequence at 3 end
+proteins consisting of gag proteins protease (pr) pol proteins and env proteins
+group-specific antigen (gag) proteins are major components of the viral capsid which are about 20004000 copies per virion
+protease is expressed differently in different viruses it functions in proteolytic cleavages during virion maturation to make mature gag and pol proteins
+pol proteins are responsible for synthesis of viral dna and integration into host dna after infection
+env proteins play a role in association and entry of virions into the host cell possessing a functional copy of an env gene is what makes retroviruses distinct from retroelements the ability of the retrovirus to bind to its target host cell using specific cell-surface receptors is given by the surface component (su) of the env protein while the ability of the retrovirus to enter the cell via membrane fusion is imparted by the membrane-anchored trans-membrane component (tm) thus the env protein is what enables the retrovirus to be infectious
+== multiplicationedit ==
+when retroviruses have integrated their own genome into the germ line their genome is passed on to a following generation these endogenous retroviruses (ervs) contrasted with exogenous ones now make up 5-8% of the human genome most insertions have no known function and are often referred to as junk dna however many endogenous retroviruses play important roles in host biology such as control of gene transcription cell fusion during placental development in the course of the germination of an embryo and resistance to exogenous retroviral infection endogenous retroviruses have also received special attention in the research of immunology-related pathologies such as autoimmune diseases like multiple sclerosis although endogenous retroviruses have not yet been proven to play any causal role in this class of disease
+while transcription was classically thought to occur only from dna to rna reverse transcriptase transcribes rna into dna the term retro in retrovirus refers to this reversal (making dna from rna) of the central dogma of molecular biology reverse transcriptase activity outside of retroviruses has been found in almost all eukaryotes enabling the generation and insertion of new copies of retrotransposons into the host genome these inserts are transcribed by enzymes of the host into new rna molecules that enter the cytosol next some of these rna molecules are translated into viral proteins for example the gag gene is translated into molecules of the capsid protein the pol gene is translated into molecules of reverse transcriptase and the env gene is translated into molecules of the envelope protein it is important to note that a retrovirus must bring its own reverse transcriptase in its capsid otherwise it is unable to utilize the enzymes of the infected cell to carry out the task due to the unusual nature of producing dna from rna
+industrial drugs that are designed as protease and reverse transcriptase inhibitors are made such that they target specific sites and sequences within their respective enzymes however these drugs can quickly become ineffective due to the fact that the gene sequences that code for the protease and the reverse transcriptase quickly mutate these changes in bases cause specific codons and sites with the enzymes to change and thereby avoid drug targeting by losing the sites that the drug actually targets
+because reverse transcription lacks the usual proofreading of dna replication a retrovirus mutates very often this enables the virus to grow resistant to antiviral pharmaceuticals quickly and impedes the development of effective vaccines and inhibitors for the retrovirus
+one difficulty faced with some retroviruses such as the moloney retrovirus involves the requirement for cells to be actively dividing for transduction as a result cells such as neurons are very resistant to infection and transduction by retroviruses this gives rise to a concern that insertional mutagenesis due to integration into the host genome might lead to cancer or leukemia this is unlike lentivirus a genus of retroviridae which are able to integrate their rna into the genome of non-dividing host cells
+== transmissionedit ==
+cell-to-cell
+fluids
+airborne like the jaagsiekte sheep retrovirus
+== genesedit ==
+retrovirus genomes commonly contain these three open reading frames that encode for proteins that can be found in the mature virus
+group-specific antigen (gag) codes for core and structural proteins of the virus
+polymerase (pol) codes for reverse transcriptase protease and integrase
+envelope (env) codes for the retroviral coat proteins
+== provirusedit ==
+this dna can be incorporated into host genome as a provirus that can be passed on to progeny cells the retrovirus dna is inserted at random into the host genome because of this it can be inserted into oncogenes in this way some retroviruses can convert normal cells into cancer cells some provirus remains latent in the cell for a long period of time before it is activated by the change in cell environment
+== early evolutionedit ==
+studies of retroviruses led to the first demonstrated synthesis of dna from rna templates a fundamental mode for transferring genetic material that occurs in both eukaryotes and prokaryotes it has been speculated that the rna to dna transcription processes used by retroviruses may have first caused dna to be used as genetic material in this model the rna world hypothesis cellular organisms adopted the more chemically stable dna when retroviruses evolved to create dna from the rna templates
+== gene therapyedit ==
+gammaretroviral and lentiviral vectors for gene therapy have been developed that mediate stable genetic modification of treated cells by chromosomal integration of the transferred vector genomes this technology is of use not only for research purposes but also for clinical gene therapy aiming at the long-term correction of genetic defects e.g. in stem and progenitor cells retroviral vector particles with tropism for various target cells have been designed gammaretroviral and lentiviral vectors have so far been used in more than 300 clinical trials addressing treatment options for various diseases retro viral mutations can be developed to make transgenic mouse models to study various cancers and their metastatic models
+== canceredit ==
+retroviruses that cause tumor growth include rous sarcoma virus and mouse mammary tumor virus cancer can be triggered by proto-oncogenes that were mistakenly incorporated into proviral dna or by the disruption of cellular proto-oncogenes rous sarcoma virus contains the src gene that triggers tumor formation later it was found that a similar gene in cells is involved in cell signaling which was most likely excised with the proviral dna nontransforming viruses can randomly insert their dna into proto-oncogenes disrupting the expression of proteins that regulate the cell cycle the promoter of the provirus dna can also cause over expression of regulatory genes
+== classificationedit ==
+=== exogenousedit ===
+these are infectious rna-containing viruses which are transmitted from human to human
+the following genera are included here
+genus alpharetrovirus type species avian leukosis virus others include rous sarcoma virus
+genus betaretrovirus type species mouse mammary tumour virus
+genus gammaretrovirus type species murine leukemia virus others include feline leukemia virus
+genus deltaretrovirus type species bovine leukemia virus others include the cancer-causing human t-lymphotropic virus
+genus epsilonretrovirus type species walleye dermal sarcoma virus
+genus lentivirus type species human immunodeficiency virus 1 others include simian feline immunodeficiency viruses
+genus spumavirus type species simian foamy virus
+these were previously divided into three subfamilies (oncovirinae lentivirinae and spumavirinae) but are now divided into two orthoretrovirinae and spumaretrovirinae the term oncovirus is now commonly used to describe a cancer-causing virus
+retroviruses were in 2 groups of the virus classification#baltimore classification
+==== group vi virusesedit ====
+all members of group vi use virally encoded reverse transcriptase an rna-dependent dna polymerase to produce dna from the initial virion rna genome this dna is often integrated into the host genome as in the case of retroviruses and pseudoviruses where it is replicated and transcribed by the host
+group vi includes
+family metaviridae
+family pseudoviridae
+family retroviridae retroviruses e.g hiv
+==== group vii virusesedit ====
+both families in group vii have dna genomes contained within the invading virus particles the dna genome is transcribed into both mrna for use as a transcript in protein synthesis and pre-genomic rna for use as the template during genome replication virally encoded reverse transcriptase uses the pre-genomic rna as a template for the creation of genomic dna
+group vii includes
+family hepadnaviridae e.g hepatitis b virus
+family caulimoviridae e.g cauliflower mosaic virus
+=== endogenousedit ===
+endogenous retroviruses are not formally included in this classification system and are broadly classified into three classes on the basis of relatedness to exogenous genera
+class i are most similar to the gammaretroviruses
+class ii are most similar to the betaretroviruses and alpharetroviruses
+class iii are most similar to the spumaviruses
+== treatmentedit ==
+antiretroviral drugs are medications for the treatment of infection by retroviruses primarily hiv different classes of antiretroviral drugs act on different stages of the hiv life cycle combination of several (typically three or four) antiretroviral drugs is known as highly active anti-retroviral therapy (haart)
+== treatment of veterinary retrovirusesedit ==
+feline leukemia virus and feline immunodeficiency virus infections are treated with biologics including the only immunomodulator currently licensed for sale in the united states lymphocyte t-cell immune modulator (ltci)
+== referencesedit ==
+== external linksedit ==
+viralzone a swiss institute of bioinformatics resource for all viral families providing general molecular and epidemiological information (follow links for retro-transcribing viruses")
+retrovirus animation (flash required)
+retrovirology scientific journal
+retrovirus life cycle chapter from kimball's biology (online biology textbook pages)
+coffin john m hughes stephen h varmus harold e eds (1997) retroviruses cold spring harbor laboratory isbn 0-87969-571-4 nbk19376
+specter michael (3 december 2007) annals of science darwin's surprise the new yorker

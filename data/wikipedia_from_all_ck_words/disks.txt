@@ -1,0 +1,17 @@
+disks (also known as gnome-disk-utility or gnome disks or palimpsest) is a udisks graphical front-end included in the gnome-disk-utility package disks can be used for partition management s.m.a.r.t monitoring benchmarking and software raid (until v 3.12) an introduction is included in the gnome documentation project
+disks used to be known as gnome disk utility or palimpsest udisks was named devicekit-disks in earlier releases devicekit-disks is part of devicekit which was planned to replace certain aspects of hal hal and devicekit have been deprecated
+a unique feature of the partition manager is that tasks are executed in the background even after the application has been closed by the user
+disks has been included in several linux distributions including debian ubuntu linux mint trisquel fedora red hat enterprise linux 6 and centos
+== see also ==
+list of disk partitioning software
+system monitor
+comparison of s.m.a.r.t tools
+gparted another free software alternative
+disk utility
+== references ==
+== external links ==
+releases at freedesktop.org
+palimpsest disk utility manual at gnome.org
+udisks and gnome-disk-utility - past present and future by david zeuthen
+udisks improvements at fedoraproject.org
+devicekit at fedoraproject.org

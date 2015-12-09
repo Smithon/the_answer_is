@@ -1,0 +1,50 @@
+mathemat function f set x set y surject onto surject everi element y y correspond element x x fx y function f may map one element x element y
+term surject relat term inject biject introduc nicola bourbaki pseudonym group main french thcenturi mathematician wrote seri book present exposit modern advanc mathemat begin french prefix sur mean relat fact imag domain surject function complet cover function codomain
+definitionedit
+surject function function whose imag equal codomain equival function f domain x codomain y surject everi y y exist least one x x surject sometim denot twohead rightward arrow ua rightward two head arrow f x y
+symbol
+said surject
+examplesedit
+set x ident function idx x surject
+function f z defin fn n mod even integ map odd integ surject
+function f r r defin fx x surject even biject everi real number y x fx y appropri x y
+function f r r defin fx x x surject preimag real number y solut set cubic polynomi equat x x y everi cubic polynomi real coeffici least one real root howev function inject henc biject sinc eg preimag y x x fact preimag function everi y y one element
+function g r r defin gx x surject real number x x howev function g r r defin gx x restrict codomain surject everi y nonneg real codomain y least one x real domain x x y
+natur logarithm function ln r surject even biject map set posit real number set real number invers exponenti function surject rang set posit real number domain usual defin set real number matrix exponenti surject seen map space nn matric howev usual defin map space nn matric general linear group degre n ie group nn invert matric definit matrix exponenti surject complex matric although still surject real matric
+project cartesian product b one factor surject unless factor empti
+d video game vector project onto d flat screen mean surject function
+propertiesedit
+function biject surject inject
+often done function identifi graph surject properti function rather relationship function codomain unlik inject surject cannot read graph function alon
+surject right invert functionsedit
+function g y x said right invers function f x y fgi y everi y y g undon f word g right invers f composit f o g g f order ident function domain y g function g need complet invers f composit order g o f may ident function domain x f word f undo revers g cannot necessarili revers
+everi function right invers necessarili surject proposit everi surject function right invers equival axiom choic
+f x y surject b subset y ff b b thus b recov preimag f b
+exampl first illustr function g gc also function f f c doesnt matter gc also equal matter f revers g
+surject epimorphismsedit
+function f x y surject rightcancel given function gh y z whenev g o f h o f g h properti formul term function composit general general notion morphism categori composit rightcancel morphism call epimorph specif surject function precis epimorph categori set prefix epi deriv greek preposit mean
+morphism right invers epimorph convers true general right invers g morphism f call section f morphism right invers call split epimorph
+surject binari relationsedit
+function domain x codomain y seen lefttot rightuniqu binari relat x y identifi function graph surject function domain x codomain y binari relat x y rightuniqu lefttot righttot
+cardin domain surjectionedit
+cardin domain surject function greater equal cardin codomain f x y surject function x least mani element y sens cardin number proof appeal axiom choic show function g y x satisfi fgi y y y exist g easili seen inject thus formal definit y x satisfi
+specif x y finit number element f x y surject f inject
+composit decompositionedit
+composit surject function alway surject f g surject codomain g equal domain f f o g surject convers f o g surject f surject g function appli first need properti general surject categori set epimorph categori
+function decompos surject inject function h x z exist surject f x y inject g y z h g o f see defin y set h z z z set disjoint partit x f carri x element y contain g carri element y point z h send point f surject sinc project map g inject definit
+induc surject induc bijectionedit
+function induc surject restrict codomain rang surject function induc biject defin quotient domain collaps argument map given fix imag precis everi surject f b factor project follow biject follow let equival class follow equival relat x y fx fy equival set preimag f let p project map send x equival class x let fp b welldefin function given fpx fx f fp o p
+see alsoedit
+biject inject surject
+cover algebra
+cover map
+enumer
+fiber bundl
+index set
+section categori theori
+notesedit
+inject surject biject earliest use word mathemat tripod
+arrow unicod pdf retriev
+goldblatt robert topoi categori analysi logic revis ed dover public isbn retriev
+referencesedit
+bourbaki nicola theori set springer isbn

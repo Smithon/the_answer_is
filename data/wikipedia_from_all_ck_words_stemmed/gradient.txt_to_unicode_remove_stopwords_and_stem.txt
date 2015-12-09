@@ -1,0 +1,86 @@
+mathemat gradient general usual concept deriv function one dimens function sever dimens fx xn differenti scalarvalu function standard cartesian coordin euclidean space gradient vector whose compon n partial deriv f thus vectorvalu function
+similar usual deriv gradient repres slope tangent graph function precis gradient point direct greatest rate increas function magnitud slope graph direct compon gradient coordin coeffici variabl equat tangent space graph character properti gradient allow defin independ choic coordin system vector field whose compon coordin system transform go one coordin system anoth
+jacobian general gradient vectorvalu function sever variabl differenti map euclidean space general manifold general function banach space frchet deriv
+motiv
+consid room temperatur given scalar field point x y z temperatur tx y z assum temperatur chang time point room gradient point show direct temperatur rise quick magnitud gradient determin fast temperatur rise direct
+consid surfac whose height sea level point x y hx y gradient h point vector point direct steepest slope grade point steep slope point given magnitud gradient vector
+gradient also use measur scalar field chang direct rather direct greatest chang take dot product suppos steepest slope hill road goe direct hill steepest slope road also instead road goe around hill angl shallow slope exampl angl road uphil direct project onto horizont plane steepest slope along road time cosin
+observ mathemat state follow hill height function h differenti gradient h dot unit vector give slope hill direct vector precis h differenti dot product gradient h given unit vector equal direct deriv h direct unit vector
+definit
+gradient gradient vector field scalar function fx x x xn denot f nabla symbol denot vector differenti oper del notat gradf also common use gradient gradient f defin uniqu vector field whose dot product vector v point x direct deriv f along v
+rectangular coordin system gradient vector field whose compon partial deriv f
+ei orthogon unit vector point coordin direct function also depend paramet time gradient often refer simpli vector spatial deriv
+threedimension cartesian coordin system given
+j k standard unit vector exampl gradient function
+applic customari repres gradient row vector column vector compon rectangular coordin system
+gradient deriv differenti
+linear approxim function
+gradient function f euclidean space n particular point x n character best linear approxim f x approxim follow
+x close x gradient f comput x dot denot dot product n equat equival first two term multivari taylor seri expans f x
+differenti exterior deriv
+best linear approxim function
+point x n linear map n often denot dfx dfx call differenti total deriv f x gradient therefor relat differenti formula
+v n function df map x dfx call differenti exterior deriv f exampl differenti form
+n view space length n column vector real number one regard df row vector compon
+dfxv given matrix multipl gradient correspond column vector ie
+gradient deriv
+let u open set rn function f u r differenti differenti f frchet deriv f thus f function u space r
+dot product
+consequ usual properti deriv hold gradient
+linear
+gradient linear sens f g two realvalu function differenti point rn two constant f g differenti moreov
+product rule
+f g realvalu function differenti point rn product rule assert product fg differenti
+chain rule
+suppos f r realvalu function defin subset rn f differenti point two form chain rule appli gradient first suppos function g parametr curv function g rn map subset r rn g differenti point c gc
+composit oper fgx fgx
+general instead rk follow hold
+dgt denot transpos jacobian matrix
+second form chain rule suppos h r real valu function subset r h differenti point fa
+properti applic
+level set
+level surfac isosurfac set point function given valu
+f differenti dot product fx v gradient point x vector v give direct deriv f x direct v follow case gradient f orthogon level set f exampl level surfac threedimension space defin equat form fx y z c gradient f normal surfac
+general embed hypersurfac riemannian manifold cut equat form fp df nowher zero gradient f normal hypersurfac
+similar affin algebra hypersurfac may defin equat fx xn f polynomi gradient f zero singular point hypersurfac definit singular point nonsingular point nonzero normal vector
+conserv vector field gradient theorem
+gradient function call gradient field continu gradient field alway conserv vector field line integr along path depend endpoint path evalu gradient theorem fundament theorem calculus line integr convers continu conserv vector field alway gradient function
+riemannian manifold
+smooth function f riemannian manifold mg gradient f vector field f vector field x
+gx denot inner product tangent vector x defin metric g xf sometim denot xf function take point x m direct deriv f direct x evalu x word coordin chart open subset m open subset rn xfx given
+xj denot jth compon x coordin chart
+local form gradient take form
+general case m rn gradient function relat exterior deriv sinc
+precis gradient f vector field associ differenti form df use music isomorph
+call sharp defin metric g relat exterior deriv gradient function rn special case metric flat metric given dot product
+cylindr spheric coordin
+cylindr coordin gradient given schey pp
+azimuth angl z axial coordin e e ez unit vector point along coordin direct
+spheric coordin schey pp
+azimuth angl zenith angl
+gradient orthogon coordin system see orthogon coordin differenti oper three dimens
+general
+gradient vector
+rectangular coordin gradient vector field f f f f defin
+einstein summat notat use product vector ei ek dyadic tensor type jacobian matrix
+curvilinear coordin general curv manifold gradient involv christoffel symbol
+gjk compon metric tensor ei coordin vector
+express invari gradient vector field f defin levicivita connect metric tensor
+connect
+see also
+curl
+del
+diverg
+gradient theorem
+graph function
+hessian matrix
+skew gradient
+note
+refer
+korn theresa m korn granino arthur mathemat handbook scientist engin definit theorem formula refer review new york dover public pp isbn oclc
+schey hm div grad curl nd ed ww norton isbn oclc
+dubrovin ba fomenko sp novikov modern geometrymethod applic part geometri surfac transform group field graduat text mathemat nd ed springer pp isbn
+extern link
+gradient khan academi
+kuptsov lp gradient hazewinkel michiel encyclopedia mathemat springer isbn
+weisstein eric w gradient mathworld

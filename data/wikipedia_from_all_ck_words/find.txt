@@ -1,0 +1,130 @@
+in unix-like and some other operating systems find is a command-line utility that searches through one or more directory trees of a file system locates files based on some user-specified criteria and applies a user-specified action on each matched file the possible search criteria include a pattern to match against the file name or a time range to match against the modification time or access time of the file by default find returns a list of all files below the current working directory
+the related locate programs use a database of indexed files obtained through find (updated at regular intervals typically by cron job) to provide a faster method of searching the entire filesystem for files by name
+== history ==
+find appeared in version 5 unix as part of the programmer's workbench project and was written by dick haight alongside cpio which were designed to be used together
+== find syntax ==
+find [-h] [-l] [-p] path [expression]
+the three options control how the find command should treat symbolic links the default behaviour is never to follow symbolic links this can be explicitly specified using the -p flag the -l flag will cause the find command to follow symbolic links the -h flag will only follow symbolic links while processing the command line arguments these flags are not available with some older versions of find
+at least one path must precede the expression find is capable of interpreting wildcards internally and commands must be constructed carefully in order to control shell globbing
+expression elements are whitespace-separated and evaluated from left to right they can contain logical elements such as and (and or a) and or (or o) as well as more complex predicates
+the gnu find has a large number of additional features not specified by posix
+== posix protection from infinite output ==
+real-world filesystems often contain looped structures created through the use of hard or soft links the posix standard requires that
+== operators ==
+operators can be used to enhance the expressions of the find command operators are listed in order of decreasing precedence
+( expr ) force precedence
+ expr true if expr is false
+expr1 expr2 and (implied) expr2 is not evaluated if expr1 is false
+expr1 -a expr2 same as expr1 expr2
+expr1 -o expr2 or expr2 is not evaluated if expr1 is true
+find  -name filea_* -o -name fileb_*
+this command searches files whose name has a prefix of filea_ or fileb_ in the current directory
+find  -name foo.cpp ! -path .svn
+this command searches for files with the name foo.cpp in all subdirectories of the current directory (current directory itself included) other than .svn we quote the  so that it's not interpreted by the shell as the history substitution character
+== type filter explanation ==
+-type option used to specify search for only file link or directory various type filters are supported by find they are activated using the
+find -type c
+configuration switch where c may be any of
+b block (buffered) special
+c character (unbuffered special)
+d directory
+p named pipe (fifo)
+f regular file
+l symbolic link this is never true if the -l option or the -follow option is in effect unless the symbolic link is broken if you want to search for symbolic links when -l is in effect use -xtype (though that is a gnu extension)
+s socket
+d door (solaris)
+the configuration switches listed in bold are most commonly used
+== examples ==
+=== from current directory ===
+find  -name my*
+this searches in the current directory (represented by the dot character) and below it for files and directories with names starting with my the quotes avoid the shell expansion without them the shell would replace my* with the list of files whose names begin with my in the current directory in newer versions of the program the directory may be omitted and it will imply the current directory
+=== files only ===
+find  -name my* -type f
+this limits the results of the above search to only regular files therefore excluding directories special files pipes symbolic links etc my* is enclosed in single quotes (apostrophes) as otherwise the shell would replace it with the list of files in the current directory starting with my
+=== commands ===
+the previous examples created listings of results because by default find executes the -print action (note that early versions of the find command had no default action at all therefore the resulting list of files would be discarded to the bewilderment of users.)
+find  -name my* -type f -ls
+this prints extended file information
+=== search all directories ===
+find / -name myfile -type f -print
+this searches every file on the computer for a file with the name myfile and prints it to the screen it is generally not a good idea to look for data files this way this can take a considerable amount of time so it is best to specify the directory more precisely some operating systems may mount dynamic filesystems that are not congenial to find more complex filenames including characters special to the shell may need to be enclosed in single quotes
+=== search all but one directory subtree ===
+find / -path excluded_path -prune -o -type f -name myfile -print
+this searches every folder on the computer except the subtree excluded_path (full path including the leading /) for a file with the name myfile it will not detect directories devices links doors or other special filetypes
+=== specify a directory ===
+find /home/weedly -name myfile -type f -print
+this searches for files named myfile in the /home/weedly directory the home directory for userid weedly you should always specify the directory to the deepest level you can remember the quotes are optional in this example because myfile contains no characters special to the shell
+=== search several directories ===
+find local /tmp -name mydir -type d -print
+this searches for directories named mydir in the local subdirectory of the current working directory and the /tmp directory
+=== ignore errors ===
+if you're doing this as a user other than root you might want to ignore permission denied (and any other) errors since errors are printed to stderr they can be suppressed by redirecting the output to /dev/null the following example shows how to do this in the bash shell
+if you are a csh or tcsh user you cannot redirect stderr without redirecting stdout as well you can use sh to run the find command to get around this
+an alternate method when using csh or tcsh is to pipe the output from stdout and stderr into a grep command this example shows how to suppress lines that contain permission denied errors
+=== find any one of differently named files ===
+find  \( -name *jsp -o -name *java \) -type f -ls
+the -ls option prints extended information and the example finds any file whose name ends with either jsp or java note that the parentheses are required also note that the operator or can be abbreviated as o the and operator is assumed where no operator is given in many shells the parentheses must be escaped with a backslash \( and \) to prevent them from being interpreted as special shell characters the -ls option and the -or operator are not available on all versions of find
+=== execute an action ===
+this command changes the permissions of all files with a name ending in mp3 in the directory /var/ftp/mp3 the action is carried out by specifying the option -exec chmod 644 {} \ in the command for every file whose name ends in mp3 the command chmod 644 {} is executed replacing {} with the name of the file the semicolon (backslashed to avoid the shell interpreting it as a command separator) indicates the end of the command permission 644 usually shown as rw-r--r-- gives the file owner full permission to read and write the file while other users have read-only access in some shells the {} must be quoted the trailing ; is customarily quoted with a leading \ but could just as effectively be enclosed in single quotes
+note that the command itself should *not* be quoted otherwise you get error messages like
+which means that find is trying to run a file called echo mv /3bfn rel071204" and failing
+if you will be executing over many results it is more efficient to use a variant of the exec primary that collects filenames up to arg_max and then executes command with a list of filenames
+find  -exec command {} +
+this will ensure that filenames with whitespaces are passed to the executed command without being split up by the shell
+=== delete files and directories ===
+caveats the -delete action is a gnu extension and using it turns on -depth so if you are testing a find command with -print instead of -delete in order to figure out what will happen before going for it you need to use -depth -print
+delete empty files and directories and print the names (note that -empty is a vendor unique extension from gnu find that may not be available in all find implementations)
+find /foo -empty -delete -print
+delete empty files
+find /foo -type f -empty -delete
+delete empty directories
+find /foo -type d -empty -delete
+delete files and directories (if empty) named bad
+find /foo -name bad -empty -delete
+warning -delete should be used with other operators such as -empty or -name
+find /foo -delete # this deletes all in /foo
+=== search for a string ===
+this command will search for a string in all files from the /tmp directory and below
+the /dev/null argument is used to show the name of the file before the text that is found without it only the text found is printed an equivalent mechanism is to use the -h or --with-filename option to grep
+gnu grep can be used on its own to perform this task
+$ grep -r search string /tmp
+example of search for log in jsmith's home directory
+example of search for the string error in all xml files in the current directory and all sub-directories
+the double quotes ( ) surrounding the search string and single quotes ( ) surrounding the braces are optional in this example but needed to allow spaces and some other special characters in the string note with more complex text (notably in most popular shells descended from `sh` and `csh`) single quotes are often the easier choice since double quotes do not prevent all special interpretation quoting filenames which have english contractions demonstrates how this can get rather complicated since a string with an apostrophe in it is easier to protect with double quotes example
+=== search for all files owned by a user ===
+find  -user <userid>
+=== search in case insensitive mode ===
+note that -iname is not in the standard and may not be supported by all implementations
+find  -iname myfile*
+if the -iname switch is not supported on your system then workaround techniques may be possible such as
+find  -name [mm][yy][ff][ii][ll][ee]*
+this uses perl to build the above command for you (though in general this kind of usage is dangerous since special characters are not properly quoted before being fed into the standard input of `sh`)
+echo myfile* |perl -pe s/([a-za-z])/[\l\1\u\1]/g;s/(.*)/find  -name \1/'|sh
+=== search files by size ===
+example of searching files with size between 100 kilobytes and 500 kilobytes
+find  -size +100k -a -size -500k
+example of searching empty files
+find  -size 0k
+example of searching non-empty files
+find   -size 0k
+=== search files by name and size ===
+find /usr/src  \( -name *,v -o -name .*,v \) {} \ -print
+this command will search in the /usr/src directory and all sub directories all files that are of the form *,v and .*,v are excluded important arguments to note are in the tooltip that is displayed on mouse-over
+the units should be one of [bckw] b means 512-byte blocks c means byte k means kilobytes and w means 2-byte words the size does not count indirect blocks but it does count blocks in sparse files that are not actually allocated
+== related utilities ==
+locate is a unix search tool that searches through a prebuilt database of files instead of directory trees of a file system this is faster than find but less accurate because the database may not be up-to-date
+grep is a command-line utility for searching plain-text data sets for lines matching a regular expression and by default reporting matching lines on standard output
+tree is a command-line utility that recursively lists files found in a directory tree indenting the file names according to their position in the file hierarchy
+gnu find utilities (also known as findutils) is a gnu package which contains implementations of the tools find and xargs
+busybox is a utility that provides several stripped-down unix tools in a single executable file intended for embedded operating systems with very limited resources it also provides a version of find
+dir has the /s option that recursively searches for files or folders
+== see also ==
+mdfind a similar utility that utilizes metadata for mac os x and darwin
+list of unix programs
+list of dos commands
+filter (higher-order function)
+find (command) a dos and windows command that is very different from unix find
+== references ==
+== external links ==
+find find files commands & utilities reference the single unix specification issue 7 from the open group
+official webpage for gnu find

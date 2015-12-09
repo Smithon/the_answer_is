@@ -1,0 +1,75 @@
+in geometry a cube is a three-dimensional solid object bounded by six square faces facets or sides with three meeting at each vertex
+the cube is the only regular hexahedron and is one of the five platonic solids and has 12 edges 6 faces and 8 vertices
+the cube is also a square parallelepiped an equilateral cuboid and a right rhombohedron it is a regular square prism in three orientations and a trigonal trapezohedron in four orientations
+the cube is dual to the octahedron it has cubical or octahedral symmetry
+== orthogonal projections ==
+the cube has four special orthogonal projections centered on a vertex edges face and normal to its vertex figure the first and third correspond to the a2 and b2 coxeter planes
+== spherical tiling ==
+the cube can also be represented as a spherical tiling and projected onto the plane via a stereographic projection this projection is conformal preserving angles but not areas or lengths straight lines on the sphere are projected as circular arcs on the plane
+== cartesian coordinates ==
+for a cube centered at the origin with edges parallel to the axes and with an edge length of 2 the cartesian coordinates of the vertices are
+(1 1 1)
+while the interior consists of all points (x0 x1 x2) with 1 < xi < 1
+== equation in r3 ==
+in analytic geometry a cube's surface with center (x0 y0 z0) and edge length of 2a is the locus of all points (x y z) such that
+== formulae ==
+for a cube of edge length 
+as the volume of a cube is the third power of its sides  third powers are called cubes by analogy with squares and second powers
+a cube has the largest volume among cuboids (rectangular boxes) with a given surface area also a cube has the largest volume among cuboids with the same total linear size (length+width+height)
+== doubling the cube ==
+doubling the cube or the delian problem was the problem posed by ancient greek mathematicians of using only a compass and straightedge to start with the length of the edge of a given cube and to construct the length of the edge of a cube with twice the volume of the original cube they were unable to solve this problem and in 1837 pierre wantzel proved it to be impossible because the cube root of 2 is not a constructible number
+== uniform colorings and symmetry ==
+the cube has three uniform colorings named by the colors of the square faces around each vertex 111 112 123
+the cube has three classes of symmetry which can be represented by vertex-transitive coloring the faces the highest octahedral symmetry oh has all the faces the same color the dihedral symmetry d4h comes from the cube being a prism with all four sides being the same color the lowest symmetry d2h is also a prismatic symmetry with sides alternating colors so there are three colors paired by opposite sides each symmetry form has a different wythoff symbol
+== geometric relations ==
+a cube has eleven nets (one shown above) that is there are eleven ways to flatten a hollow cube by cutting seven edges to color the cube so that no two adjacent faces have the same color one would need at least three colors
+the cube is the cell of the only regular tiling of three-dimensional euclidean space it is also unique among the platonic solids in having faces with an even number of sides and consequently it is the only member of that group that is a zonohedron (every face has point symmetry)
+the cube can be cut into six identical square pyramids if these square pyramids are then attached to the faces of a second cube a rhombic dodecahedron is obtained (with pairs of coplanar triangles combined into rhombic faces.)
+== other dimensions ==
+the analogue of a cube in four-dimensional euclidean space has a special namea tesseract or hypercube more properly a hypercube (or n-dimensional cube or simply n-cube) is the analogue of the cube in n-dimensional euclidean space and a tesseract is the order-4 hypercube a hypercube is also called a measure polytope
+there are analogues of the cube in lower dimensions too a point in dimension 0 a segment in one dimension and a square in two dimensions
+== related polyhedra ==
+the quotient of the cube by the antipodal map yields a projective polyhedron the hemicube
+if the original cube has edge length 1 its dual polyhedron (an octahedron) has edge length 
+the cube is a special case in various classes of general polyhedra
+the vertices of a cube can be grouped into two groups of four each forming a regular tetrahedron more generally this is referred to as a demicube these two together form a regular compound the stella octangula the intersection of the two forms a regular octahedron the symmetries of a regular tetrahedron correspond to those of a cube which map each tetrahedron to itself the other symmetries of the cube map the two to each other
+one such regular tetrahedron has a volume of 1/3 of that of the cube the remaining space consists of four equal irregular tetrahedra with a volume of 1/6 of that of the cube each
+the rectified cube is the cuboctahedron if smaller corners are cut off we get a polyhedron with six octagonal faces and eight triangular ones in particular we can get regular octagons (truncated cube) the rhombicuboctahedron is obtained by cutting off both corners and edges to the correct amount
+a cube can be inscribed in a dodecahedron so that each vertex of the cube is a vertex of the dodecahedron and each edge is a diagonal of one of the dodecahedron's faces taking all such cubes gives rise to the regular compound of five cubes
+if two opposite corners of a cube are truncated at the depth of the three vertices directly connected to them an irregular octahedron is obtained eight of these irregular octahedra can be attached to the triangular faces of a regular octahedron to obtain the cuboctahedron
+the cube is topologically related to a series of spherical polyhedra and tilings with order-3 vertex figures
+the cuboctahedron is one of a family of uniform polyhedra related to the cube and regular octahedron
+the cube is topologically related as a part of sequence of regular tilings extending into the hyperbolic plane {4,p} p=3,4,5
+with dihedral symmetry dih4 the cube is topologically related in a series of uniform polyhedra and tilings 4.2n.2n extending into the hyperbolic plane
+all these figures have octahedral symmetry
+the cube is a part of a sequence of rhombic polyhedra and tilings with [n,3] coxeter group symmetry the cube can be seen as a rhombic hexahedron where the rhombi are squares
+the cube is a square prism
+as a trigonal trapezohedron the cube is related to the hexagonal dihedral symmetry family
+=== in uniform honeycombs and polychora ===
+it is an element of 9 of 28 convex uniform honeycombs
+it is also an element of five four-dimensional uniform polychora
+== cubical graph ==
+the skeleton of the cube (the vertices and edges) form a graph with 8 vertices and 12 edges it is a special case of the hypercube graph it is one of 5 platonic graphs each a skeleton of its platonic solid
+an extension is the three dimensional k-ary hamming graph which for k = 2 is the cube graph graphs of this sort occur in the theory of parallel processing in computers
+== see also ==
+tesseract
+trapezohedron
+miscellaneous cubes
+cube (film)
+diamond cubic
+lvheim cube of emotion
+cube of heymans
+necker cube
+olap cube
+prince rupert's cube
+rubik's cube
+the cube (game show)
+unit cube
+yoshimoto cube
+kaaba
+== references ==
+== external links ==
+weisstein eric w. cube mathworld
+cube interactive polyhedron model*
+volume of a cube with interactive animation
+cube (robert webb's site)

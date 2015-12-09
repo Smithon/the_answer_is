@@ -1,0 +1,105 @@
+in modern molecular biology and genetics the genome is the genetic material of an organism it consists of dna (or rna in rna viruses) the genome includes both the genes and the non-coding sequences of the dna/rna
+== origin of termedit ==
+the term was created in 1920 by hans winkler professor of botany at the university of hamburg germany the oxford dictionary suggests the name to be a blend of the words gene and chromosome however see omics for a more thorough discussion a few related -ome words already existedsuch as biome rhizome forming a vocabulary into which genome fits systematically
+== overviewedit ==
+some organisms have multiple copies of chromosomes diploid triploid tetraploid and so on in classical genetics in a sexually reproducing organism (typically eukarya) the gamete has half the number of chromosomes of the somatic cell and the genome is a full set of chromosomes in a diploid cell the halving of the genetic material in gametes is accomplished by the segregation of homologous chromosomes during meiosis in haploid organisms including cells of bacteria archaea and in organelles including mitochondria and chloroplasts or viruses that similarly contain genes the single or set of circular or linear chains of dna (or rna for some viruses) likewise constitute the genome the term genome can be applied specifically to mean what is stored on a complete set of nuclear dna (i.e. the nuclear genome") but can also be applied to what is stored within organelles that contain their own dna as with the mitochondrial genome or the chloroplast genome additionally the genome can comprise non-chromosomal genetic elements such as viruses plasmids and transposable elements
+when people say that the genome of a sexually reproducing species has been sequenced typically they are referring to a determination of the sequences of one set of autosomes and one of each type of sex chromosome which together represent both of the possible sexes even in species that exist in only one sex what is described as a genome sequence may be a composite read from the chromosomes of various individuals colloquially the phrase genetic makeup is sometimes used to signify the genome of a particular individual or organism the study of the global properties of genomes of related organisms is usually referred to as genomics which distinguishes it from genetics which generally studies the properties of single genes or groups of genes
+both the number of base pairs and the number of genes vary widely from one species to another and there is only a rough correlation between the two (an observation known as the c-value paradox) at present the highest known number of genes is around 60,000 for the protozoan causing trichomoniasis (see list of sequenced eukaryotic genomes) almost three times as many as in the human genome
+an analogy to the human genome stored on dna is that of instructions stored in a book
+the book (genome) would contain 23 chapters (chromosomes)
+each chapter contains 48 to 250 million letters (a,c,g,t) without spaces
+hence the book contains over 3.2 billion letters total
+the book fits into a cell nucleus the size of a pinpoint
+at least one copy of the book (all 23 chapters) is contained in most cells of our body the only exception in humans is found in mature red blood cells which become enucleated during development and therefore lack a genome
+== sequencing and mappingedit ==
+in 1976 walter fiers at the university of ghent (belgium) was the first to establish the complete nucleotide sequence of a viral rna-genome (bacteriophage ms2) the next year fred sanger completed the first dna-genome sequence phage -x174 of 5386 base pairs the first complete genome sequences among all three domains of life were released within a short period during the mid-1990s the first bacterial genome to be sequenced was that of haemophilus influenzae completed by a team at the institute for genomic research in 1995 a few months later the first eukaryotic genome was completed with sequences of the 16 chromosomes of budding yeast saccharomyces cerevisiae published as the result of a european-led effort begun in the mid-1980s the first genome sequence for an archaeon methanococcus jannaschii was completed in 1996 again by the institute for genomic research
+the development of new technologies has made it dramatically easier and cheaper to do sequencing and the number of complete genome sequences is growing rapidly the us national institutes of health maintains one of several comprehensive databases of genomic information among the thousands of completed genome sequencing projects include those for rice a mouse the plant arabidopsis thaliana the puffer fish and the bacteria e coli in december 2013 scientists first sequenced the entire genome of a neanderthal an extinct species of humans the genome was extracted from the toe bone of a 130,000-year-old neanderthal found in a siberian cave
+new sequencing technologies such as massive parallel sequencing have also opened up the prospect of personal genome sequencing as a diagnostic tool as pioneered by manteia predictive medicine a major step toward that goal was the completion in 2007 of the full genome of james d watson one of the co-discoverers of the structure of dna
+whereas a genome sequence lists the order of every dna base in a genome a genome map identifies the landmarks a genome map is less detailed than a genome sequence and aids in navigating around the genome the human genome project was organized to map and to sequence the human genome a fundamental step in the project was the release of a detailed genomic map by jean weissenbach and his team at the genoscope in paris
+== genome compositionsedit ==
+genome composition is used to describe the make up of contents of a haploid genome which should include genome size proportions of non-repetitive dna and repetitive dna in details by comparing the genome compositions between genomes scientists can better understand the evolutionary history of a given genome
+when talking about genome composition one should distinguish between prokaryotes and eukaryotes as the big differences on contents structure they have in prokaryotes most of the genome (8590%) is non-repetitive dna which means coding dna mainly forms it while non-coding regions only take a small part on the contrary eukaryotes have the feature of exon-intron organization of protein coding genes the variation of repetitive dna content in eukaryotes is also extremely high in mammals and plants the major part of the genome is composed of repetitive dna
+most biological entities that are more complex than a virus sometimes or always carry additional genetic material besides that which resides in their chromosomes in some contexts such as sequencing the genome of a pathogenic microbe genome is meant to include information stored on this auxiliary material which is carried in plasmids in such circumstances then genome describes all of the genes and information on non-coding dna that have the potential to be present
+in eukaryotes such as plants protozoa and animals however genome carries the typical connotation of only information on chromosomal dna so although these organisms contain chloroplasts or mitochondria that have their own dna the genetic information contained by dna within these organelles is not considered part of the genome in fact mitochondria are sometimes said to have their own genome often referred to as the mitochondrial genome the dna found within the chloroplast may be referred to as the plastome
+=== genome sizeedit ===
+genome size is the total number of dna base pairs in one copy of a haploid genome the genome size is positively correlated with the morphological complexity among prokaryotes and lower eukaryotes however after mollusks and all the other higher eukaryotes above this correlation is no longer effective this phenomenon also indicates the mighty influence coming from repetitive dna act on the genomes
+since genomes are very complex one research strategy is to reduce the number of genes in a genome to the bare minimum and still have the organism in question survive there is experimental work being done on minimal genomes for single cell organisms as well as minimal genomes for multi-cellular organisms (see developmental biology) the work is both in vivo and in silico
+here is a table of some significant or representative genomes see #see also for lists of sequenced genomes
+=== proportion of non-repetitive dnaedit ===
+the proportion of non-repetitive dna is calculated by using the length of non-repetitive dna divided by genome size protein-coding genes and rna-coding genes are generally non-repetitive dna a bigger genome does not mean more genes and the proportion of non-repetitive dna decreases along with increasing genome size in higher eukaryotes
+it had been found that the proportion of non-repetitive dna can vary a lot between species some e coli as prokaryotes only have non-repetitive dna lower eukaryotes such as c elegans and fruit fly still possess more non-repetitive dna than repetitive dna higher eukaryotes tend to have more repetitive dna than non-repetitive ones in some plants and amphibians the proportion of non-repetitive dna is no more than 20% becoming a minority component
+=== proportion of repetitive dnaedit ===
+the proportion of repetitive dna is calculated by using length of repetitive dna divide by genome size there are two categories of repetitive dna in genome tandem repeats and interspersed repeats
+==== tandem repeatsedit ====
+tandem repeats are usually caused by slippage during replication unequal crossing-over and gene conversion satellite dna and microsatellites are forms of tandem repeats in the genome although tandem repeats count for a significant proportion in genome the largest proportion in mammalian is the other type interspersed repeats
+==== interspersed repeatsedit ====
+interspersed repeats mainly come from transposable elements (tes) but they also include some protein coding gene families and pseudogenes transposable elements are able to integrate into the genome at another site within the cell it is believed that tes are an important driving force on genome evolution of higher eukaryotes tes can be classified into two categories class 1 (retrotransposons) and class 2 (dna transposons)
+===== retrotransposonsedit =====
+retrotransposons can be transcribed into rna which are then duplicated at another site into the genome retrotransposons can be divided into long terminal repeats (ltrs) and non-long terminal repeats (non-ltr)
+long terminal repeats (ltrs)
+similar to retroviruses which have both gag and pol genes to make cdna from rna and proteins to insert into genome but ltrs can only act within the cell as they lack the env gene in retroviruses it has been reported that ltrs consist of the largest fraction in most plant genome and might account for the huge variation in genome size
+non-long terminal repeats (non-ltrs)
+can be divided into long interspersed elements (lines) short interspersed elements (sines) and penelope-like elements in dictyostelium discoideum there is another dirs-like elements belong to non-ltrs non-ltrs are widely spread in eukaryotic genomes
+long interspersed elements (lines)
+are able to encode two open reading frames (orfs) to generate transcriptase and endonuclease which are essential in retrotransposition the human genome has around 500,000 lines taking around 17% of the genome
+short interspersed elements (sines)
+are usually less than 500 base pairs and need to co-opt with the lines machinery to function as nonautonomous retrotransposons the alu element is the most common sines found in primates it has a length of about 350 base pairs and takes about 11% of the human genome with around 1,500,000 copies
+===== dna transposonsedit =====
+dna transposons generally move by cut and paste in the genome but duplication has also been observed class 2 tes do not use rna as intermediate and are popular in bacteria in metazoan it has also been found
+== genome evolutionedit ==
+genomes are more than the sum of an organism's genes and have traits that may be measured and studied without reference to the details of any particular genes and their products researchers compare traits such as chromosome number (karyotype) genome size gene order codon usage bias and gc-content to determine what mechanisms could have produced the great variety of genomes that exist today (for recent overviews see brown 2002 saccone and pesole 2003 benfey and protopapas 2004 gibson and muse 2004 reese 2004 gregory 2005)
+duplications play a major role in shaping the genome duplication may range from extension of short tandem repeats to duplication of a cluster of genes and all the way to duplication of entire chromosomes or even entire genomes such duplications are probably fundamental to the creation of genetic novelty
+horizontal gene transfer is invoked to explain how there is often extreme similarity between small portions of the genomes of two organisms that are otherwise very distantly related horizontal gene transfer seems to be common among many microbes also eukaryotic cells seem to have experienced a transfer of some genetic material from their chloroplast and mitochondrial genomes to their nuclear chromosomes
+== see alsoedit ==
+bacterial genome size
+genome browser
+genome project
+genome-wide association study
+genomics
+genome compiler
+list of sequenced eukaryotic genomes
+list of sequenced animal genomes
+list of sequenced archaeal genomes
+list of sequenced bacterial genomes
+list of sequenced fungi genomes
+list of sequenced plastomes
+list of sequenced protist genomes
+metagenomics
+microbiome
+molecular epidemiology
+molecular pathological epidemiology
+molecular pathology
+nucleic acid sequence
+pan-genome
+precision medicine
+sequenceome
+whole genome sequencing
+genome topology
+== referencesedit ==
+== further readingedit ==
+benfey p. protopapas a.d (2004) essentials of genomics prentice hall
+brown terence a (2002) genomes 2 oxford bios scientific publishers isbn 978-1-85996-029-5
+gibson greg muse spencer v (2004) a primer of genome science (second ed.) sunderland mass sinauer assoc isbn 0-87893-234-8
+gregory (2005) t ryan ed the evolution of the genome elsevier isbn 0-12-301463-8
+reece richard j (2004) analysis of genes and genomes chichester john wiley & sons isbn 0-470-84379-9
+saccone cecilia pesole graziano (2003) handbook of comparative genomics chichester john wiley & sons isbn 0-471-39128-x
+werner e (2003) in silico multicellular systems biology and minimal genomes drug discov today 8 (24) 11211127 doi:10.1016/s1359-6446(03)02918-0 pmid 14678738
+== external linksedit ==
+ucsc genome browser view the genome and annotations for more than 80 organisms
+genomecenter.howard.edu
+build a dna molecule
+some comparative genome sizes
+dna interactive the history of dna science
+dna from the beginning
+all about the human genome projectfrom genome.gov
+animal genome size database
+plant genome size database
+gold:genomes online database
+the genome news network
+ncbi entrez genome project database
+ncbi genome primer
+genecardsan integrated database of human genes
+visualization of nucleotide sequence - prototypification of complete genome of virus sequence of 5418 nucleotides
+bbc news final genome chapter published
+img (the integrated microbial genomes system)for genome analysis by the doe-jgi
+geknome technologies next-gen sequencing data analysisnext-generation sequencing data analysis for illumina and 454 service from geknome technologies

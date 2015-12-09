@@ -1,0 +1,113 @@
+geometri simplex plural simplex simplic general notion triangl tetrahedron arbitrari dimens specif ksimplex kdimension polytop convex hull k vertic formal suppos k point affin independ mean linear independ simplex determin set point
+exampl simplex triangl simplex tetrahedron simplex cell singl point may consid simplex line segment may consid simplex simplex may defin smallest convex set contain given vertic
+regular simplex simplex also regular polytop regular nsimplex may construct regular n simplex connect new vertex origin vertic common edg length
+topolog combinator common glue togeth simplic form simplici complex associ combinatori structur call abstract simplici complex context word simplex simpli mean finit set vertic
+exampl
+simplex point
+simplex line segment
+simplex triangl
+simplex tetrahedron
+element
+convex hull nonempti subset n point defin nsimplex call face simplex face simplic particular convex hull subset size m n defin point msimplex call mface nsimplex face ie defin point set size call vertic singular vertex face call edg n face call facet sole nface whole nsimplex general number mface equal binomi coeffici consequ number mface nsimplex may found column m row n pascal triangl simplex cofac simplex b b face face facet differ mean describ type simplic simplici complex see simplic complex detail
+regular simplex famili first three regular polytop famili label coxet n two crosspolytop famili label n hypercub label n fourth famili infinit tessel hypercub label n
+number face edg nsimplex nth triangl number number face nsimplex nth tetrahedron number number face nsimplex nth cell number
+nsimplex construct join oper nsimplex point mnsimplex construct join msimplex nsimplex two simplic orient complet normal translat direct orthogon simplex joint two point general simplex scalen triangl join point isoscel triangl join simplex point equilater triangl general simplex join point simplex mirror symmetri express join edg point simplex triangular symmetri express join equilater triangl point regular tetrahedron
+convent empti set defin simplex definit simplex still make sens n convent common applic algebra topolog simplici homolog studi polytop
+symmetr graph regular simplic
+petri polygon skew orthogon project show vertic regular simplex circl vertex pair connect edg
+standard simplex
+standard nsimplex unit nsimplex subset rn given
+simplex n lie affin hyperplan obtain remov restrict ti definit
+n vertic standard nsimplex point ei rn
+e
+e
+en
+canon map standard nsimplex arbitrari nsimplex vertic v vn given
+coeffici ti call barycentr coordin point nsimplex general simplex often call affin nsimplex emphas canon map affin transform also sometim call orient affin nsimplex emphas canon map may orient preserv revers
+general canon map standard simplex n vertic onto polytop n vertic given equat modifi index
+known general barycentr coordin express everi polytop imag simplex
+exampl
+point r
+line segment join r
+equilater triangl vertic r
+regular tetrahedron vertic r
+increas coordin
+altern coordin system given take indefinit sum
+yield altern present order name nondecreas ntupl
+geometr ndimension subset maxim dimens codimens rather codimens facet standard simplex correspond one coordin vanish correspond success coordin equal interior correspond inequ becom strict increas sequenc
+key distinct present behavior permut coordin standard simplex stabil permut coordin permut element order simplex leav invari permut order sequenc general make unord inde order simplex close fundament domain action symmetr group ncube mean orbit order simplex n element symmetr group divid ncube most disjoint simplic disjoint except boundari show simplex volum altern volum comput iter integr whose success integrand
+properti present use order addit thus defin dimens order set exampl use defin infinitedimension simplex without issu converg sum
+project onto standard simplex
+especi numer applic probabl theori project onto standard simplex interest given possibl negat entri closest point simplex coordin
+chosen
+easili calcul sort sort approach take complex improv complex via medianfind algorithm project onto simplex comput similar project onto ball
+corner cube
+final simpl variant replac sum sum rais dimens simplifi notat index chang
+yield nsimplex corner ncube standard orthogon simplex simplex use simplex method base origin local model vertex polytop n facet
+cartesian coordin regular ndimension simplex rn
+coordin vertic regular ndimension simplex obtain two properti
+regular simplex distanc vertic center equal
+angl subtend two vertic ndimension simplex center
+use follow let vector v v vn repres vertic nsimplex center origin unit vector distanc origin satisfi first properti second properti mean dot product pair vector use calcul posit
+exampl three dimens vector v v v v vertic simplex tetrahedron write
+choos first vector v first compon zero first properti must vector becom
+second properti dot product v vector x compon must equal vector becom
+next choos v first two element zero second element unknown calcul first properti use pythagorean theorem choos two squar root second vector complet
+second properti use calcul remain y compon take dot product v solv give
+z compon calcul use pythagorean theorem satisfi first properti two possibl squar root give two result
+process carri dimens use n vector appli first second properti altern determin valu
+geometr properti
+volum
+orient volum nsimplex ndimension space vertic v vn
+column n n determin differ vector repres two vertic deriv similar formula found without n formula volum nparallelepip one way understand n factor follow coordin point unit nbox sort togeth success differ taken sinc result add one result point n simplex span origin closest n vertic box take differ unimodular volumepreserv transform sort compress space factor n
+volum standard nsimplex ie origin simplex rn
+volum regular nsimplex unit side length
+seen multipli previous formula xn get volum nsimplex function vertex distanc x origin differenti respect x nsimplex side length normal length increment along normal vector
+dihedr angl regular ndimension simplex cosn central angl cosn
+simplex orthogon corner
+orthogon corner mean vertex adjac facet pairwis orthogon simplex general right angl triangl exist ndimension version pythagorean theorem
+sum squar ndimension volum facet adjac orthogon corner equal squar ndimension volum facet opposit orthogon corner
+facet pairwis orthogon orthogon facet opposit orthogon corner
+simplex theorem pythagorean theorem triangl right angl simplex de gua theorem tetrahedron cube corner
+relat nhypercub
+hass diagram face lattic nsimplex isomorph graph nhypercub edg hypercub vertic map nsimplex element includ entir simplex null polytop extrem point lattic map two opposit vertic hypercub fact may use effici enumer simplex face lattic sinc general face lattic enumer algorithm comput expens
+nsimplex also vertex figur nhypercub also facet northoplex
+topolog
+topolog nsimplex equival nball everi nsimplex ndimension manifold corner
+probabl
+probabl theori point standard nsimplex space space possibl paramet probabl categor distribut n possibl outcom
+algebra topolog
+algebra topolog simplic use build block construct interest class topolog space call simplici complex space built simplic glu togeth combinatori fashion simplici complex use defin certain kind homolog call simplici homolog
+finit set ksimplex embed open subset rn call affin kchain simplex chain need uniqu may occur multipl rather use standard set notat denot affin chain instead standard practic use plus sign separ member set simplex opposit orient prefix minus sign simplex occur set prefix integ count thus affin chain take symbol form sum integ coeffici
+note facet nsimplex affin nsimplex thus boundari nsimplex affin nchain thus denot one posit orient affin simplex
+denot vertic boundari chain
+follow express linear boundari oper boundari boundari simplex zero
+likewis boundari boundari chain zero
+general simplex chain embed manifold mean smooth differenti map case summat convent denot set boundari oper commut embed
+integ denot orient multipl boundari oper one
+chain boundari oper commut map end chain defin set littl set oper alway commut map oper definit map
+continu map topolog space x frequent refer singular nsimplex
+algebra geometri
+sinc classic algebra geometri allow talk polynomi equat inequ algebra standard nsimplex common defin subset affin ndimension space coordin sum thus leav inequ part algebra descript set
+equal schemetheoret descript
+ring regular function algebra nsimplex ring
+use definit classic nsimplex nsimplic differ dimens n assembl one simplici object ring assembl one cosimplici object categori scheme resp ring sinc face degeneraci map polynomi
+algebra nsimplic use higher ktheori definit higher chow group
+applic
+simplic use plot quantiti sum proport subpopul ternari plot
+industri statist simplic aris problem formul algorithm solut design bread produc must combin yeast flour water sugar etc mixtur relat proport ingredi matter optim bread mixtur flour doubl yeast doubl mixtur problem often formul normal constraint nonneg compon sum one case feasibl region form simplex qualiti bread mixtur estim use respons surfac methodolog local maximum comput use nonlinear program method sequenti quadrat program
+oper research linear program problem solv simplex algorithm georg dantzig
+geometr design comput graphic mani method first perform simplici triangul domain fit interpol polynomi simplex
+see also
+note
+refer
+walter rudin principl mathemat analysi third edit mcgrawhil new york isbn x see chapter simpl review topolog properti
+andrew tanenbaum comput network th ed prentic hall isbn see
+luc devroy nonuniform random variat generat isbn web version freeli download
+hsm coxet regular polytop third edit dover edit isbn
+p
+p tabl iii regular polytop three regular polytop ndimens n
+weisstein eric w simplex mathworld
+stephen boyd lieven vandenbergh convex optim cambridg univers press new york ny usa
+extern link
+olshevski georg simplex glossari hyperspac

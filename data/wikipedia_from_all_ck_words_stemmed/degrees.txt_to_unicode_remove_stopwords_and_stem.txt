@@ -1,0 +1,78 @@
+linear algebra perman squar matrix function matrix similar determin perman well determin polynomi entri matrix perman determin special case general function matrix call imman
+definit
+perman nbyn matrix aij defin
+sum extend element symmetr group sn ie permut number n
+exampl
+definit perman differ determin signatur permut taken account
+perman matrix denot per perm per sometim parenthes around argument monograph minc use pera perman rectangular matric use pera squar matrix muir use notat
+word perman origin cauchi fonction symtriqu permanent relat type function use muir modern specif sens
+properti applic
+one view perman map take n vector argument multilinear map symmetr mean order vector result perman furthermor given squar matrix order n
+perma invari arbitrari permut row andor column properti may written symbol perma permpaq appropri size permut matric p q
+multipli singl row column scalar chang perma sperma
+perma invari transposit perma perma
+squar matric order n
+subset size n respect complement set
+hand basic multipl properti determin valid perman simpl exampl show
+formula similar laplac develop determin along row column diagon also valid perman sign ignor perman exampl expand along first column
+expand along last row give
+unlik determin perman easi geometr interpret main use combinator treat boson green function quantum field theori howev two graphtheoret interpret sum weight cycl cover direct graph sum weight perfect match bipartit graph
+symmetr space
+perman aris natur studi symmetr tensor power hilbert space particular hilbert space let denot th symemtr tensor power space symmetr tensor note particular span symmetr product element defin symmetr product element
+consid subspac kth tensor power defin inner product accord find
+appli cauchyschwarz inequ find
+cycl cover
+squar matrix view adjac matrix weight direct graph repres weight arc vertex vertex j cycl cover weight direct graph collect vertexdisjoint direct cycl digraph cover vertic graph thus vertex digraph uniqu successor cycl cover permut n number vertic digraph convers permut correspond cycl cover arc vertex vertex
+weight cyclecov defin product weight arc cycl
+perman matrix defin
+permut thus perman equal sum weight cyclecov digraph
+perfect match
+squar matrix also view adjac matrix bipartit graph vertic one side side repres weight edg vertex vertex weight perfect match match defin product weight edg match
+thus perman equal sum weight perfect match graph
+perman matric
+perman matric entri often answer certain count question involv structur matric repres particular true adjac matric graph theori incid matric symmetr block design
+unweight direct simpl graph digraph set edg vertex vertex j nonzero cycl cover weight adjac matrix entri thus perman matrix equal number vertex cycl cover unweight direct graph
+unweight bipartit graph set aij edg vertic aij otherwis perfect match weight thus number perfect match g equal perman matrix
+let nk class matric order n row column sum equal k everi matrix class perma incid matric project plane class n n n n integ perman correspond smallest project plane calcul n valu respect let z incid matrix project plane n fano plane remark permz det z absolut valu determin z consequ z circul matrix theorem
+circul matrix class nk k perma det k perma det furthermor k permut row column put form direct sum e copi matrix z consequ n e perma e
+perman also use calcul number permut restrict prohibit posit standard nset n let matrix aij j allow permut aij otherwis perma count number permut nset satisfi restrict two well known special case solut derang problem number permut fix point given
+j matrix ident matrix order n solut mnage problem given
+matrix whose nonzero entri first superdiagon
+bregmanminc inequ conjectur h minc prove l m brgman give upper bound perman n n matrix ri one row n
+van der waerden conjectur
+van der waerden conjectur minimum perman among n n doubli stochast matric nnn achiev matrix entri equal n proof conjectur publish b gyir g p egorychev d falikman egorychev proof applic alexandrovfenchel inequ work egorychev falikman won fulkerson prize
+comput
+nave approach use definit comput perman comput infeas even relat small matric one fastest known algorithm due h j ryser ryser p ryser method base inclusionexclus formula given follow let obtain delet k column let product rowsum let sum valu possibl
+may rewritten term matrix entri follow
+perman believ difficult comput determin determin comput polynomi time gaussian elimin gaussian elimin cannot use comput perman moreov comput perman matrix pcomplet thus perman comput polynomi time method fp p even stronger statement p np entri nonneg howev perman comput approxim probabilist polynomi time error m m valu perman arbitrari
+macmahon master theorem
+anoth way view perman via multivari generat function let squar matrix order n consid multivari generat function
+coeffici perma
+general sequenc n nonneg integ defin
+macmahon master theorem relat perman determin
+order n ident matrix x diagon matrix diagon
+perman rectangular matric
+perman function general appli nonsquar matric inde sever author make definit perman consid restrict squar matric special case specif m n matrix m n defin
+pnm set mpermut nset n
+ryser comput result perman also general m n matrix m n let obtain delet k column let product rowsum let sum valu possibl
+system distinct repres
+general definit perman nonsquar matric allow concept use natur way applic instanc
+let sm subset necessarili distinct nset m n incid matrix collect subset m n matrix number system distinct repres sdrs collect perma
+see also
+comput perman
+determin
+bapatbeg theorem applic perman order statist
+note
+refer
+brualdi richard combinatori matrix class encyclopedia mathemat applic cambridg cambridg univers press isbn zbl
+minc henryk perman encyclopedia mathemat applic foreword marvin marcus read ma addisonwesley issn oclc zbl
+muir thoma william h metzler treatis theori determin new york dover oclc
+percus jk combinatori method appli mathemat scienc new york springerverlag isbn
+ryser herbert john combinatori mathemat carus mathemat monograph mathemat associ america
+van lint jh wilson rm cours combinator cambridg univers press isbn
+read
+hall jr marshal combinatori theori nd ed new york john wiley son pp isbn contain proof van der waerden conjectur
+marcus m minc h perman american mathemat month doi
+extern link
+perman planetmath
+van der waerden perman conjectur planetmathorg

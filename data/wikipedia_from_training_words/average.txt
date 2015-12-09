@@ -1,0 +1,58 @@
+in colloquial language an average is the sum of a list of numbers divided by the number of numbers in the list in mathematics and statistics this would be called the arithmetic mean however the word average may also refer to the median mode or other central or typical value in statistics these are all known as measures of central tendency
+== calculationedit ==
+=== arithmetic meanedit ===
+the most common type of average is the arithmetic mean if n numbers are given each number denoted by ai (where i = 1,2  n) the arithmetic mean is the sum of the as divided by n or
+the arithmetic mean often simply called the mean of two numbers such as 2 and 8 is obtained by finding a value a such that 2 + 8 = a + a one may find that a = (2 + 8)/2 = 5 switching the order of 2 and 8 to read 8 and 2 does not change the resulting value obtained for a the mean 5 is not less than the minimum 2 nor greater than the maximum 8 if we increase the number of terms in the list to 2 8 and 11 the arithmetic mean is found by solving for the value of a in the equation 2 + 8 + 11 = a + a + a one finds that a = (2 + 8 + 11)/3 = 7
+=== pythagorean meansedit ===
+along with the arithmetic mean above the geometric mean and the harmonic mean are known collectively as the pythagorean means
+==== geometric meanedit ====
+the geometric mean of n non-negative numbers is obtained by multiplying them all together and then taking the nth root in algebraic terms the geometric mean of a1 a2  an is defined as
+geometric mean can be thought of as the antilog of the arithmetic mean of the logs of the numbers
+example geometric mean of 2 and 8 is
+==== harmonic meanedit ====
+harmonic mean for a non-empty collection of numbers a1 a2  an all different from 0 is defined as the reciprocal of the arithmetic mean of the reciprocals of the ai's
+one example where the harmonic mean is useful is when examining the speed for a number of fixed-distance trips for example if the speed for going from point a to b was 60 km/h and the speed for returning from b to a was 40 km/h then the harmonic mean speed is given by
+==== inequality concerning am gm and hmedit ====
+a well known inequality concerning arithmetic geometric and harmonic means for any set of positive numbers is
+it is easy to remember noting that the alphabetical order of the letters a g and h is preserved in the inequality see inequality of arithmetic and geometric means
+thus for the above harmonic mean example am = 50 gm 49 and hm = 48 km/h
+=== statistical locationedit ===
+the mode the median and the mid-range are often used in addition to the mean as estimates of central tendency in descriptive statistics
+==== modeedit ====
+the most frequently occurring number in a list is called the mode for example the mode of the list (1 2 2 3 3 3 4) is 3 it may happen that there are two or more numbers which occur equally often and more often than any other number in this case there is no agreed definition of mode some authors say they are all modes and some say there is no mode
+==== medianedit ====
+the median is the middle number of the group when they are ranked in order (if there are an even number of numbers the mean of the middle two is taken.)
+thus to find the median order the list according to its elements magnitude and then repeatedly remove the pair consisting of the highest and lowest values until either one or two values are left if exactly one value is left it is the median if two values the median is the arithmetic mean of these two this method takes the list 1 7 3 13 and orders it to read 1 3 7 13 then the 1 and 13 are removed to obtain the list 3 7 since there are two elements in this remaining list the median is their arithmetic mean (3 + 7)/2 = 5
+== summary of typesedit ==
+the table of mathematical symbols explains the symbols used below
+== miscellaneous typesedit ==
+other more sophisticated averages are trimean trimedian and normalized mean with their generalizations
+one can create one's own average metric using the generalized f-mean
+where f is any invertible function the harmonic mean is an example of this using f(x) = 1/x and the geometric mean is another using f(x) = log x
+however this method for generating means is not general enough to capture all averages a more general method for defining an average takes any function g(x1 x2  xn) of a list of arguments that is continuous strictly increasing in each argument and symmetric (invariant under permutation of the arguments) the average y is then the value that when replacing each member of the list results in the same function value g(y y  y) = g(x1 x2  xn) this most general definition still captures the important property of all averages that the average of a list of identical elements is that element itself the function g(x1 x2  xn) = x1+x2+ + xn provides the arithmetic mean the function g(x1 x2  xn) = x1x2xn (where the list elements are positive numbers) provides the geometric mean the function g(x1 x2  xn) = (x11+x21+ + xn1) (where the list elements are positive numbers) provides the harmonic mean
+=== average percentage return and cagredit ===
+a type of average used in finance is the average percentage return it is an example of a geometric mean when the returns are annual it is called the compound annual growth rate (cagr) for example if we are considering a period of two years and the investment return in the first year is 10% and the return in the second year is +60% then the average percentage return or cagr r can be obtained by solving the equation (1 10%) (1 + 60%) = (1 0.1) (1 + 0.6) = (1 + r) (1 + r) the value of r that makes this equation true is 0.2 or 20% this means that the total return over the 2-year period is the same as if there had been 20% growth each year note that the order of the years makes no difference the average percentage returns of +60% and 10% is the same result as that for 10% and +60%
+this method can be generalized to examples in which the periods are not equal for example consider a period of a half of a year for which the return is 23% and a period of two and a half years for which the return is +13% the average percentage return for the combined period is the single year return r that is the solution of the following equation (1 0.23)0.5 (1 + 0.13)2.5 = (1 + r)0.5+2.5 giving an average percentage return r of 0.0600 or 6.00%
+== moving averageedit ==
+given a time series such as daily stock market prices or yearly temperatures people often want to create a smoother series this helps to show underlying trends or perhaps periodic behavior an easy way to do this is to choose a number n and create a new series by taking the arithmetic mean of the first n values then moving forward one place and so on this is the simplest form of moving average more complicated forms involve using a weighted average the weighting can be used to enhance or suppress various periodic behavior and there is very extensive analysis of what weightings to use in the literature on filtering in digital signal processing the term moving average is used even when the sum of the weights is not 1.0 (so the output series is a scaled version of the averages) the reason for this is that the analyst is usually interested only in the trend or the periodic behavior a further generalization is an autoregressive moving average in this case the average also includes some of the recently calculated outputs this allows samples from further back in the history to affect the current output
+== historyedit ==
+=== originedit ===
+the first recorded time that the arithmetic mean was extended from 2 to n cases for the use of estimation was in the sixteenth century from the late sixteenth century onwards it gradually became a common method to use for reducing errors of measurement in various areas at the time astronomers wanted to know a real value from noisy measurement such as the position of a planet or the diameter of the moon using the mean of several measured values scientists assumed that the errors add up to a relatively small number when compared to the total of all measured values the method of taking the mean for reducing observation errors was indeed mainly developed in astronomy a possible precursor to the arithmetic mean is the mid-range (the mean of the two extreme values) used for example in arabian astronomy of the ninth to eleventh centuries but also in metallurgy and navigation
+however there are various older vague references to the use of the arithmetic mean (which are not as clear but might reasonably have to do with our modern definition of the mean) in a text from the 4th century it was written that (text it square brackets is a possible missing text that might clarify the meaning)
+in the first place we must set out in a row the sequence of numbers from the monad up to nine 1 2 3 4 5 6 7 8 9 then we must add up the amount of all of them together and since the row contains nine terms we must look for the ninth part of the total to see if it is already naturally present among the numbers in the row and we will find that the property of being [one] ninth [of the sum] only belongs to the [arithmetic] mean itself
+even older potential references exist there are records that from about 700 bc merchants and shippers agreed that damage to the cargo and ship (their contribution in case of damage by the sea) should be shared equally among themselves this might have been calculated using the average although there seem to be no direct record of the calculation
+=== etymologyedit ===
+according to the oxford english dictionary few words have received more etymological investigation. in the 16th century average meant a customs duty or the like and was used in the mediterranean area it came to mean the cost of damage sustained at sea from that came an average adjuster who decided how to apportion a loss between the owners and insurers of a ship and cargo
+marine damage is either particular average which is borne only by the owner of the damaged property or general average where the owner can claim a proportional contribution from all the parties to the marine venture the type of calculations used in adjusting general average gave rise to the use of average to mean arithmetic mean
+a second english usage documented as early as 1674 and sometimes spelled averish, is as the residue and second growth of field crops which were considered suited to consumption by draught animals ("avers")
+the root is found in arabic as awar in italian as avaria in french as avarie and in dutch as averij it is unclear in which language the word first appeared
+there is earlier (from at least the 11th century) unrelated use of the word it appears to be an old legal term for a tenant's day labour obligation to a sheriff probably anglicised from avera found in the english domesday book (1085)
+== see alsoedit ==
+average absolute deviation
+law of averages
+expected value
+central limit theorem
+== referencesedit ==
+== external linksedit ==
+median as a weighted arithmetic mean of all sample observations
+calculations and comparison between arithmetic and geometric mean of two values

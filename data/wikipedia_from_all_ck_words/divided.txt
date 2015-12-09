@@ -1,0 +1,90 @@
+in mathematics especially in elementary arithmetic division (denoted or / or ) is an arithmetic operation specifically if b times c equals a written
+a = b c
+where b is not zero then a divided by b equals c written
+for instance
+6 3 = 2
+since
+3 2 = 6
+in the above expressions a is called the dividend b is called the divisor and c is called the quotient in the expression or a is also called the numerator and b is also called the denominator
+conceptually division of integers can be viewed in either of two distinct but related ways quotition and partition
+partitioning involves taking a set of size a and forming b groups that are equal in size the size of each group formed c is the quotient of a and b
+quotition or quotative division (also sometimes spelled quotitive) involves taking a set of size a and forming groups of size b the number of groups of this size that can be formed c is the quotient of a and b (both divisions give the same result because multiplication is commutative.)
+teaching division usually leads to the concept of fractions being introduced to school pupils unlike addition subtraction and multiplication the set of all integers is not closed under division dividing two integers may result in a remainder to complete the division of the remainder the number system is extended to include fractions or rational numbers as they are more generally called
+== notationedit ==
+division is often shown in algebra and science by placing the dividend over the divisor with a horizontal line also called a fraction bar between them for example a divided by b is written
+this can be read out loud as a divided by b a by b or a over b a way to express division all on one line is to write the dividend (or numerator) then a slash then the divisor (or denominator) like this
+this is the usual way to specify division in most computer programming languages since it can easily be typed as a simple sequence of ascii characters some mathematical software such as gnu octave allows the operands to be written in the reverse order by using the backslash as the division operator
+a typographical variation halfway between these two forms uses a solidus (fraction slash) but elevates the dividend and lowers the divisor
+ab
+any of these forms can be used to display a fraction a fraction is a division expression where both dividend and divisor are integers (typically called the numerator and denominator) and there is no implication that the division must be evaluated further a second way to show division is to use the obelus (or division sign) common in arithmetic in this manner
+this form is infrequent except in elementary arithmetic iso 80000-2-9.6 states it should not be used the obelus is also used alone to represent the division operation itself as for instance as a label on a key of a calculator
+in some non-english-speaking cultures a divided by b is written a  b this notation was introduced in 1631 by william oughtred in his clavis mathematicae and later popularized by gottfried wilhelm leibniz however in english usage the colon is restricted to expressing the related concept of ratios (then a is to b")
+in elementary classes of some countries the notation or is used to denote a divided by b especially when discussing long division similarly but less commonly for short division (as shown in an example on that page) this notation was first introduced by michael stifel in arithmetica integra published in 1544
+== computingedit ==
+=== manual methodsedit ===
+division is often introduced through the notion of sharing out a set of objects for example a pile of sweets into a number of equal portions distributing the objects several at a time in each round of sharing to each portion leads to the idea of chunking i.e. division by repeated subtraction
+more systematic and more efficient (but also more formalised and more rule-based and more removed from an overall holistic picture of what division is achieving) a person who knows the multiplication tables can divide two integers using pencil and paper using the method of short division if the divisor is simple long division is used for larger integer divisors if the dividend has a fractional part (expressed as a decimal fraction) one can continue the algorithm past the ones place as far as desired if the divisor has a fractional part we can restate the problem by moving the decimal to the right in both numbers until the divisor has no fraction
+a person can calculate division with an abacus by repeatedly placing the dividend on the abacus and then subtracting the divisor the offset of each digit in the result counting the number of divisions possible at each offset
+a person can use logarithm tables to divide two numbers by subtracting the two numbers logarithms then looking up the antilogarithm of the result
+a person can calculate division with a slide rule by aligning the divisor on the c scale with the dividend on the d scale the quotient can be found on the d scale where it is aligned with the left index on the c scale the user is responsible however for mentally keeping track of the decimal point
+=== by computer or with computer assistanceedit ===
+modern computers compute division by methods that are faster than long division see division algorithm
+in modular arithmetic some numbers have a multiplicative inverse with respect to the modulus we can calculate division by multiplication in such a case this approach is useful in computers that do not have a fast division instruction
+== propertiesedit ==
+division is right-distributive over addition and subtraction that means
+in the same way as in multiplication  but division is not left-distributive i.e we have
+unlike multiplication
+== euclidean divisionedit ==
+the euclidean division is the mathematical formulation of the outcome of the usual process of division of integers it asserts that given two integers a the dividend and b the divisor such that b 0 there are unique integers q the quotient and r the remainder such that a = bq + r and 0 r < | b | where | b | denotes the absolute value of b
+== of integersedit ==
+division of integers is not closed apart from division by zero being undefined the quotient is not an integer unless the dividend is an integer multiple of the divisor for example 26 cannot be divided by 11 to give an integer such a case uses one of five approaches
+say that 26 cannot be divided by 11 division becomes a partial function
+give an approximate answer as a decimal fraction or a mixed number so or this is the approach usually taken in numerical computation
+give the answer as a fraction representing a rational number so the result of the division of 26 by 11 is but usually the resulting fraction should be simplified the result of the division of 52 by 22 is also  this simplification may be done by factoring out the greatest common divisor
+give the answer as an integer quotient and a remainder so to make the distinction with the previous case this division with two integers as result is sometimes called euclidean division because it is the basis of the euclidean algorithm
+give the integer quotient as the answer so this is sometimes called integer division
+dividing integers in a computer program requires special care some programming languages such as c treat integer division as in case 5 above so the answer is an integer other languages such as matlab and every computer algebra system return a rational number as the answer as in case 3 above these languages also provide functions to get the results of the other cases either directly or from the result of case 3
+names and symbols used for integer division include div / \ and % definitions vary regarding integer division when the dividend or the divisor is negative rounding may be toward zero (so called t-division) or toward (f-division) rarer styles can occur see modulo operation for the details
+divisibility rules can sometimes be used to quickly determine whether one integer divides exactly into another
+== of rational numbersedit ==
+the result of dividing two rational numbers is another rational number when the divisor is not 0 the division of two rational numbers p/q and r/s is defined as
+all four quantities are integers and only p may be 0 this definition ensures that division is the inverse operation of multiplication
+== of real numbersedit ==
+division of two real numbers results in another real number when the divisor is not 0 it is defined such a/b = c if and only if a = cb and b 0
+== by zeroedit ==
+division of any number by zero (where the divisor is zero) is undefined this is because zero multiplied by any finite number always results in a product of zero entry of such an expression into most calculators produces an error message
+== of complex numbersedit ==
+dividing two complex numbers results in another complex number when the divisor is not 0 which is defined as
+all four quantities p q r s are real numbers and r and s may not both be 0
+division for complex numbers expressed in polar form is simpler than the definition above
+again all four quantities p q r s are real numbers and r may not be 0
+== of polynomialsedit ==
+one can define the division operation for polynomials in one variable over a field then as in the case of integers one has a remainder see euclidean division of polynomials and for hand-written computation polynomial long division or synthetic division
+== of matricesedit ==
+one can define a division operation for matrices the usual way to do this is to define a / b = ab1 where b1 denotes the inverse of b but it is far more common to write out ab1 explicitly to avoid confusion
+=== left and right divisionedit ===
+because matrix multiplication is not commutative one can also define a left division or so-called backslash-division as a \ b = a1b for this to be well defined b1 need not exist however a1 does need to exist to avoid confusion division as defined by a / b = ab1 is sometimes called right division or slash-division in this context
+note that with left and right division defined this way a/(bc) is in general not the same as (a/b)/c and nor is (ab)\c the same as a\(b\c) but a/(bc) = (a/c)/b and (ab)\c = b\(a\c)
+=== pseudoinverseedit ===
+to avoid problems when a1 and/or b1 do not exist division can also be defined as multiplication with the pseudoinverse i.e. a / b = ab+ and a \ b = a+b where a+ and b+ denote the pseudoinverse of a and b
+== in abstract algebraedit ==
+in abstract algebras such as matrix algebras and quaternion algebras fractions such as are typically defined as or where is presumed an invertible element (i.e. there exists a multiplicative inverse such that where is the multiplicative identity) in an integral domain where such elements may not exist division can still be performed on equations of the form or by left or right cancellation respectively more generally division in the sense of cancellation can be done in any ring with the aforementioned cancellation properties if such a ring is finite then by an application of the pigeonhole principle every nonzero element of the ring is invertible so division by any nonzero element is possible in such a ring to learn about when algebras (in the technical sense) have a division operation refer to the page on division algebras in particular bott periodicity can be used to show that any real normed division algebra must be isomorphic to either the real numbers r the complex numbers c the quaternions h or the octonions o
+== calculusedit ==
+the derivative of the quotient of two functions is given by the quotient rule
+== see alsoedit ==
+400ad sunzi division algorithm
+division by two
+field
+fraction (mathematics)
+galley division
+group
+inverse element
+order of operations
+quasigroup (left division)
+repeating decimal
+== referencesedit ==
+== external linksedit ==
+division at planetmath.org
+division on a japanese abacus selected from abacus mystery of the bead
+chinese short division techniques on a suan pan
+rules of divisibility

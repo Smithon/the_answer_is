@@ -1,0 +1,112 @@
+cups (an acronym for common unix printing system) is a modular printing system for unix-like computer operating systems which allows a computer to act as a print server a computer running cups is a host that can accept print jobs from client computers process them and send them to the appropriate printer
+cups consists of a print spooler and scheduler a filter system that converts the print data to a format that the printer will understand and a backend system that sends this data to the print device cups uses the internet printing protocol (ipp) as the basis for managing print jobs and queues it also provides the traditional command line interfaces for the system v and berkeley print systems and provides support for the berkeley print system's line printer daemon protocol and limited support for the server message block (smb) protocol system administrators can configure the device drivers which cups supplies by editing text files in adobe's postscript printer description (ppd) format there are a number of user interfaces for different platforms that can configure cups and it has a built-in web-based interface cups is free software provided under the gnu general public license and gnu lesser general public license version 2
+== history ==
+michael sweet who owned easy software products started developing cups in 1997 the first public betas appeared in 1999 the original design of cups used the lpd protocol but due to limitations in lpd and vendor incompatibilities the internet printing protocol (ipp) was chosen instead cups was quickly adopted as the default printing system for most linux distributions in march 2002 apple inc adopted cups as the printing system for mac os x 10.2 in february 2007 apple inc hired chief developer michael sweet and purchased the cups source code
+== overview ==
+cups provides a mechanism that allows print jobs to be sent to printers in a standard fashion the print-data goes to a scheduler which sends jobs to a filter system that converts the print job into a format the printer will understand the filter system then passes the data on to a backenda special filter that sends print data to a device or network connection the system makes extensive use of postscript and rasterization of data to convert the data into a format suitable for the destination printer
+cups offers a standard and modularised printing system that can process numerous data formats on the print server before cups it was difficult to find a standard printer management system that would accommodate the very wide variety of printers on the market using their own printer languages and formats for instance the system v and berkeley printing systems were largely incompatible with each other and they required complicated scripts and workarounds to convert the program's data format to a printable format they often could not detect the file format that was being sent to the printer and thus could not automatically and correctly convert the data stream additionally data conversion was performed on individual workstations rather than a central server
+cups allows printer manufacturers and printer-driver developers to more easily create drivers that work natively on the print server processing occurs on the server allowing for easier network-based printing than with other unix printing systems with samba installed users can address printers on remote windows computers and generic postscript drivers can be used for printing across the network
+=== scheduler ===
+the cups scheduler implements internet printing protocol (ipp) over http/1.1 a helper application (cups-lpd) converts line printer daemon protocol (lpd) requests to ipp the scheduler also provides a web-based interface for managing print jobs the configuration of the server and for documentation about cups itself
+an authorization module controls which ipp and http messages can pass through the system once the ipp/http packets are authorized they are sent to the client module which listens for and processes incoming connections the client module is also responsible for executing external cgi programs as needed to support web-based printers classes and job status monitoring and administration once this module has processed its requests it sends them to the ipp module which performs uniform resource identifier (uri) validation to prevent a client from sidestepping any access controls or authentication on the http server the uri is a text string that indicates a name or address that can be used to refer to an abstract or physical resource on a network
+the scheduler allows for classes of printers applications can send requests to groups of printers in a class allowing the scheduler to direct the job to the first available printer in that class a jobs module manages print jobs sending them to the filter and backend processes for final conversion and printing and monitoring the status messages from those processes
+the cups scheduler utilizes a configuration module which parses configuration files initializes cups data structures and starts and stops the cups program the configuration module will stop cups services during configuration file processing and then restart the service when processing is complete
+a logging module handles the logging of scheduler events for access error and page log files the main module handles timeouts and dispatch of i/o requests for client connections watching for signals handling child process errors and exits and reloading the server configuration files as needed
+other modules used by the scheduler include
+the mime module which handles a multipurpose internet mail extensions (mime) type and conversion database used in the filtering process that converts print data to a format suitable for a print device
+a ppd module that handles a list of postscript printer description (ppd) files
+a devices module that manages a list of devices that are available in the system
+a printers module that handles printers and ppds within cups
+=== filter system ===
+cups can process a variety of data formats on the print server it converts the print-job data into the final language/format of the printer via a series of filters it uses mime types for identifying file formats
+==== mime databases ====
+after the cups system has assigned the print job to the scheduler it is passed to the cups filter system this converts the data to a format suitable for the printer during start-up the cups daemon loads two mime databases mime.types that defines the known file types that cups can accept data for and mime.convs that defines the programs that process each particular mime type
+the mime.types file has the syntax
+mimetype { [file-extensions] | [pattern-match] }
+for example to detect an html file the following entry would be applicable
+text/html html htm \
+printable(0,1024) + (string(0,"<html>") string(0,"<!doctype"))
+the second line matches the file contents to the specified mime type by determining that the first kilobyte of text in the file holds printable characters and that those characters include html markup if the pattern above matches then the filter system would mark the file as the mime type text/html
+the mime.convs file has the syntax
+source destination cost program
+the source field designates the mime type that is determined by looking up the mime.types file while the destination field lists the type of output requested and determines what program should be used this is also retrieved from mime.types the cost field assists in the selection of sets of filters when converting a file the last field program determines which filter program to use to perform the data conversion
+some examples
+text/plain application/postscript 50 texttops
+application/vnd.cups-postscript application/vnd.cups-raster 50 pstoraster
+image/* application/vnd.cups-postscript 50 imagetops
+image/* application/vnd.cups-raster 50 imagetoraster
+==== filtering process ====
+the filtering process works by taking input data pre-formatted with six arguments
+the job id of the print job
+the user-name
+the job-name
+the number of copies to print
+any print options
+the filename (though this is unnecessary if it has been redirected from standard input)
+it then determines the type of data that is being input and the filter to be used through the use of the mime databases for instance image data will be detected and processed through a particular filter and html data detected and processed through another filter
+cups can convert supplied data either into postscript data or directly into raster data if it is converted into postscript data an additional filter is applied called a prefilter which runs the postscript data through another postscript converter so that it can add printer specific options like selecting page ranges to print setting n-up mode and other device-specific things after the pre-filtering is done the data can either be sent directly to a cups backend if using a postscript printer or it can be passed to another filter like foomatic by linuxprinting.org alternatively it can be passed to ghostscript which converts the postscript into an intermediary cups-raster format the intermediary raster format is then passed onto a final filter which converts the raster data to a printer-specific format the default filters included with cups include
+raster to pcl
+raster to esc/p or esc/p2 (an epson printer language now largely superseded by their new esc/p-raster format)
+raster to dymo (another printer company)
+raster to zebra programming language or zpl (a zebra technologies printer language)
+as of 2009 other proprietary languages like gdi or spl (samsung printer language) are supported by splix a raster to spl translator
+however several other alternatives can integrate with cups hplip (previously known as hp-ijs) provides linux+cups drivers for hp printers gutenprint (previously known as gimp-print) is a range of high-quality printer drivers for (mostly) inkjet printers and turboprint for linux has another range of quality printer drivers for a wide range of printers
+=== backends ===
+the backends are the ways in which cups sends data to printers there are several backends available for cups parallel serial and usb ports cups-pdf pdf virtual printing as well as network backends that operate via the ipp jetdirect (appsocket) line printer daemon ("lpd") and smb protocols
+a new mdns backend in cups 1.4 provides bonjour (dns-sd) based printer discovery in cups 1.6 bonjour printer discovery and sharing using avahi is also supported
+== compatibility ==
+cups provides both the system v and berkeley printing commands so users can continue with traditional commands for printing via cups cups uses port 631 (tcp and udp) which is the standard ipp port and optionally on port 515 by inetd launchd the solaris service management facility or xinetd which use the cups-lpd helper program to support lpd printing when cups is installed the lp system v printing system command and the lpr berkeley printing system commands are installed as compatible programs this allows a standard interface to cups and allows maximum compatibility with existing applications that rely on these printing systems
+== user interface tools ==
+several tools exist to help set up cups
+=== cups web-based administration interface ===
+on all platforms cups has a web-based administration interface that runs on port 631 it particularly helps organisations that need to monitor print jobs and add print queues and printers remotely
+cups 1.0 provided a simple class job and printer-monitoring interface for web browsers
+cups 1.1 replaced this interface with an enhanced administration interface that allows users to add modify delete configure and control classes jobs and printers
+cups 1.2 and later provide a revamped web interface which features improved readability and design support for automatically discovered printers and a better access to system logs and advanced settings
+=== gnome ===
+the gnome cups manager can add new cups printers and manage cups printers and queues there are other third-party applications to manage printing for example gtklp and its associate tool gtklpq or gtkpsproc
+gnome's widget toolkit gtk+ included integrated printing support based on cups in its version 2.10 released in 2006
+in ubuntu can be accessed in the graphical menu system / administration / printing
+=== kde ===
+the kdeprint framework for kde contains various gui-tools that act as cups front-ends and allows the administration of classes print queues and print jobs it includes a printer wizard to assist with adding new printers amongst other features kdeprint first appeared in kde 2.2
+kdeprint supports several different printing platforms with cups one of the best-supported it replaced a previous version of printing support in kde qtcups and is backwards compatible with this module of kde as of 2009 kprinter a dialogue-box program serves as the main tool for sending jobs to the print device it can also be started from the command line kdeprint includes a system to pre-filter any jobs before they are handed over to cups or to handle jobs all on itself such as converting files to pdf these filters are described by a pair of desktop/xml files
+kdeprint's main components include
+a print dialog box which allows printer properties to be modified
+a print manager which allows management of printers such as adding and removing printers through an add printer wizard
+a job viewer/manager which manages printer jobs such as hold/release cancel and move to another printer
+a cups configuration module (integrated into kde)
+=== mac os x ===
+in mac os x 10.5 printers are configured in the print & fax pane in system preferences and in printer proxy applications which display the print queues and allow additional configuration after printers are set up earlier versions of mac os x also included a printer setup utility which supplied configuration options missing from earlier versions of the print & fax preference pane
+=== printersetup ===
+the printersetup system can manage cups queues it takes the approach of assigning a text file to describe each print queue these printersetupfiles may then be added to other text files called printersetuplists this allows logical grouping of printers as of 2009 the printersetup project remains in its infancy
+=== red hat linux/fedora ===
+starting with red hat linux 9 red hat provided an integrated print manager based on cups and integrated into gnome this allowed adding printers via a user interface similar to the one microsoft windows uses where a new printer could be added using an add new printer wizard along with changing default printer-properties in a window containing a list of installed printers jobs could also be started and stopped using a print manager and the printer could be paused using a context menu that pops up when the printer icon is right-clicked
+eric raymond criticised this system in his piece the luxury of ignorance raymond had attempted to install cups using the fedora core 1 print manager but found it non-intuitive he criticised the interface designers for not designing with the user's point-of-view in mind he found the idea of printer queues was not obvious because users create queues on their local computer but these queues are actually created on the cups server
+he also found the plethora of queue type options confusing as he could choose from between networked cups (ipp) networked unix (lpd) networked windows (smb) networked novell (ncp) or networked jetdirect he found the help file singularly unhelpful and largely irrelevant to a user's needs raymond used cups as a general topic to show that user interface design on linux desktops needs rethinking and more careful design he stated
+the meta-problem here is that the configuration wizard does all the approved rituals (gui with standardized clicky buttons help popping up in a browser etc etc.) but doesn't have the central attribute these are supposed to achieve discoverability that is the quality that every point in the interface has prompts and actions attached to it from which you can learn what to do next does your project have this quality
+=== esp print pro ===
+easy software products the original creators of cups created a gui provided support for many printers and implemented a postscript rip esp print pro ran on windows unix and linux but is no longer available and support for this product ended on december 31 2007
+== name ==
+cups began life as the common unix printing system the name was shortened to just cups beginning with cups 1.4 due to legal concerns with the unix trademark
+== see also ==
+foomatic
+gutenprint
+hp linux imaging and printing
+lp (unix)
+lprng
+scanner access now easy
+spooling
+xprint
+== references ==
+== further reading ==
+sweet michael (july 10 2000) cups overview easy software products
+cups software administration manual  managing printers from the web (version 1.1.21 2004) easy software products retrieved january 5 2005
+cups on-line documentation
+design of cups filtering system including the context for mac os x ("jaguar") linuxprinting.org retrieved january 5 2005
+kde kdeprint information kde-printing website retrieved january 14 2005
+how to manage printers in linux linux.com 2015-04-27
+== external links ==
+official website
+cups at freecode
+openprinting
+universal plug and play printer device v 1.0 and printer basic service v 1.0

@@ -1,0 +1,142 @@
+circl simpl shape euclidean geometri set point plane given distanc given point centr equival curv trace point move distanc given point constant distanc point centr call radius
+circl simpl close curv divid plane two region interior exterior everyday use term circl may use interchang refer either boundari figur whole figur includ interior strict technic usag circl boundari whole figur call disk
+circl may also defin special ellips two foci coincid eccentr twodimension shape enclos area per unit perimet squar use calculus variat
+terminolog
+arc connect part circl
+centr point equidist point circl
+chord line segment whose endpoint lie circl
+circumfer length one circuit along circl distanc around circl
+diamet line segment whose endpoint lie circl pass centr length line segment largest distanc two point circl special case chord name longest chord twice radius
+disk region plane bound circl
+len intersect two disk
+passant coplanar straight line touch circl
+radius line segment join centr circl point circl length segment half diamet
+sector region bound two radii arc lie radii
+segment region contain centr bound chord arc lie chord endpoint
+secant extend chord coplanar straight line cut circl two point
+semicircl arc extend one diamet endpoint nontechn common usag may mean diamet arc interior two dimension region technic call halfdisk halfdisk special case segment name largest one
+tangent coplanar straight line touch circl singl point
+histori
+word circl deriv greek kirkoskuklo metathesi homer greek kriko mean hoop ring origin word circus circuit close relat
+circl known sinc begin record histori natur circl would observ moon sun short plant stalk blow wind sand form circl shape sand circl basi wheel relat invent gear make much modern machineri possibl mathemat studi circl help inspir develop geometri astronomi calculus
+earli scienc particular geometri astrolog astronomi connect divin mediev scholar mani believ someth intrins divin perfect could found circl
+highlight histori circl
+bce rhind papyrus give method find area circular field result correspond approxim valu
+bce book euclid element deal properti circl
+plato seventh letter detail definit explan circl plato explain perfect circl differ draw word definit explan
+ce lindemann prove transcendent effect settl millenniaold problem squar circl
+analyt result
+length circumfer
+ratio circl circumfer diamet pi irrat constant approxim equal thus length circumfer c relat radius r diamet d
+area enclos
+prove archimed area enclos circl equal triangl whose base length circl circumfer whose height equal circl radius come multipli radius squar
+equival denot diamet d
+approxim percent circumscrib squar whose side length d
+circl plane curv enclos maximum area given arc length relat circl problem calculus variat name isoperimetr inequ
+equat
+cartesian coordin
+xy cartesian coordin system circl centr coordin b radius r set point x y
+equat known equat circl follow pythagorean theorem appli point circl shown diagram right radius hypotenus rightangl triangl whose side length x y b circl centr origin equat simplifi
+equat written parametr form use trigonometr function sine cosin
+parametr variabl rang interpret geometr angl ray b x y make posit xaxi
+altern parametris circl
+parametris ratio r interpret geometr stereograph project line pass centr parallel xaxi see tangent halfangl substitut howev parametris work made rang real also point infin otherwis bottommost point circl would omit
+homogen coordin conic section equat circl form
+proven conic section circl exact contain extend complex project plane point j point call circular point infin
+polar coordin
+polar coordin equat circl
+radius circl polar coordin generic point circl polar coordin centr circl ie r distanc origin centr circl anticlockwis angl posit xaxi line connect origin centr circl circl centr origin ie r reduc simpli r r origin lie circl equat becom
+general case equat solv r give
+note without sign equat would case describ half circl
+complex plane
+complex plane circl centr c radius r equat parametr form written
+slight generalis equat real p q complex g sometim call generalis circl becom equat circl sinc generalis circl actual circl generalis circl either true circl line
+tangent line
+tangent line point p circl perpendicular diamet pass p p x y circl centr b radius r tangent line perpendicular line b x y form x ax y c evalu x y determin valu c result equat tangent
+y b slope line
+also found use implicit differenti
+centr circl origin equat tangent line becom
+slope
+properti
+circl shape largest area given length perimet see isoperimetr inequ
+circl high symmetr shape everi line centr form line reflect symmetri rotat symmetri around centr everi angl symmetri group orthogon group group rotat alon circl group
+circl similar
+circl circumfer radius proport
+area enclos squar radius proport
+constant proport respect
+circl centr origin radius call unit circl
+thought great circl unit sphere becom riemannian circl
+three point line lie uniqu circl cartesian coordin possibl give explicit formula coordin centr circl radius term coordin three given point see circumcircl
+chord
+chord equidist centr circl equal length
+perpendicular bisector chord pass centr circl equival statement stem uniqu perpendicular bisector
+perpendicular line centr circl bisect chord
+line segment centr bisect chord perpendicular chord
+central angl inscrib angl circl subtend chord side chord central angl twice inscrib angl
+two angl inscrib chord side chord equal
+two angl inscrib chord opposit side chord supplementari
+cyclic quadrilater exterior angl equal interior opposit angl
+inscrib angl subtend diamet right angl see thale theorem
+diamet longest chord circl
+intersect two chord divid one chord length b divid chord length c d ab cd
+intersect two perpendicular chord divid one chord length b divid chord length c d b c d equal squar diamet
+sum squar length two chord intersect right angl given point two perpendicular chord intersect point given r p r circl radius p distanc centr point point intersect
+distanc point circl given chord time diamet circl equal product distanc point end chord
+sagitta
+sagitta also known versin line segment drawn perpendicular chord midpoint chord arc circl
+given length y chord length x sagitta pythagorean theorem use calcul radius uniqu circl fit around two line
+anoth proof result reli two chord properti given follow given chord length y sagitta length x sinc sagitta intersect midpoint chord know part diamet circl sinc diamet twice radius miss part diamet r x length use fact one part one chord time part equal product taken along chord intersect first chord find r xx y solv r find requir result
+tangent
+line drawn perpendicular radius end point radius lie circl tangent circl
+line drawn perpendicular tangent point contact circl pass centr circl
+two tangent alway drawn circl point outsid circl tangent equal length
+tangent tangent b intersect exterior point p denot centr o angl boa bpa supplementari
+ad tangent circl aq chord circl daq arcaq
+theorem
+chord theorem state two chord cd eb intersect ca da ea ba
+tangent extern point d meet circl c secant extern point d meet circl g e respect dc dg de tangentsec theorem
+two secant dg de also cut circl h f respect dh dg df de corollari tangentsec theorem
+angl tangent chord equal one half subtend angl opposit side chord tangent chord angl
+angl subtend chord centr degre l r l length chord r radius circl
+two secant inscrib circl shown right measur angl equal one half differ measur enclos arc de bc secantsec theorem
+inscrib angl
+inscrib angl exampl blue green angl figur exact half correspond central angl red henc inscrib angl subtend arc pink equal angl inscrib arc brown supplementari particular everi inscrib angl subtend diamet right angl sinc central angl degre
+circl apollonius
+apollonius perga show circl may also defin set point plane constant ratio distanc two fix foci b set point distanc equal perpendicular bisector b line circl sometim said drawn two point
+proof two part first one must prove given two foci b ratio distanc point p satisfi ratio distanc must fall particular circl let c anoth point also satisfi ratio lie segment ab angl bisector theorem line segment pc bisect interior angl apb sinc segment similar
+analog line segment pd point d ab extend bisect correspond exterior angl bpq q ap extend sinc interior exterior angl sum degre angl cpd exact degre ie right angl set point p angl cpd right angl form circl cd diamet
+second see proof everi point indic circl satisfi given ratio
+crossratio
+close relat properti circl involv geometri crossratio point complex plane b c circl apollonius three point collect point p absolut valu crossratio equal one
+state anoth way p point circl apollonius crossratio abcp unit circl complex plane
+generalis circl
+c midpoint segment ab collect point p satisfi apollonius condit
+circl rather line
+thus b c given distinct point plane locus point p satisfi equat call generalis circl may either true circl line sens line generalis circl infinit radius
+circl inscrib circumscrib figur
+everi triangl uniqu circl call incircl inscrib tangent three side triangl
+everi triangl uniqu circl call circumcircl circumscrib goe triangl three vertic
+tangenti polygon tangenti quadrilater convex polygon within circl inscrib tangent side polygon
+cyclic polygon convex polygon circl circumscrib pass vertex wellstudi exampl cyclic quadrilater
+hypocycloid curv inscrib given circl trace fix point smaller circl roll within tangent given circl
+circl limit case figur
+circl view limit case various figur
+cartesian oval set point weight sum distanc point two fix point foci constant ellips case weight equal circl ellips eccentr zero mean two foci coincid centr circl circl also differ special case cartesian oval one weight zero
+superellips equat form posit b n supercircl b circl special case supercircl n
+cassini oval set point product distanc point two fix point constant two fix point coincid circl result
+curv constant width figur whose width defin perpendicular distanc two distinct parallel line intersect boundari singl point regardless direct two parallel line circl simplest exampl type figur
+squar circl
+squar circl problem propos ancient geomet construct squar area given circl use finit number step compass straightedg
+task proven imposs consequ lindemannweierstrass theorem prove pi transcendent number rather algebra irrat number root polynomi ration coeffici
+see also
+refer
+read
+pedo dan geometri comprehens cours dover
+circl mactutor histori mathemat archiv
+extern link
+hazewinkel michiel ed circl encyclopedia mathemat springer isbn
+circl planetmathorg websit
+weisstein eric w circl mathworld
+interact java applet properti elementari construct involv circl
+interact standard form equat circl click drag point see standard form equat action
+munch circl cuttheknot

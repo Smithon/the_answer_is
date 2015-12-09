@@ -1,0 +1,41 @@
+a weight function is a mathematical device used when performing a sum integral or average to give some elements more weight or influence on the result than other elements in the same set the result of this application of a weight function is a weighted sum or weighted average weight functions occur frequently in statistics and analysis and are closely related to the concept of a measure weight functions can be employed in both discrete and continuous settings they can be used to construct systems of calculus called weighted calculus and meta-calculus
+== discrete weights ==
+=== general definition ===
+in the discrete setting a weight function is a positive function defined on a discrete set  which is typically finite or countable the weight function corresponds to the unweighted situation in which all elements have equal weight one can then apply this weight to various concepts
+if the function is a real-valued function then the unweighted sum of on is defined as
+but given a weight function  the weighted sum or conical combination is defined as
+one common application of weighted sums arises in numerical integration
+if b is a finite subset of a one can replace the unweighted cardinality |b| of b by the weighted cardinality
+if a is a finite non-empty set one can replace the unweighted mean or average
+by the weighted mean or weighted average
+in this case only the relative weights are relevant
+=== statistics ===
+weighted means are commonly used in statistics to compensate for the presence of bias for a quantity measured multiple independent times with variance  the best estimate of the signal is obtained by averaging all the measurements with weight  and the resulting variance is smaller than each of the independent measurements  the maximum likelihood method weights the difference between fit and data using the same weights 
+the expected value of a random variable is the weighted average of the possible values it might take on with the weights being the respective probabilities more generally the expected value of a function of a random variable is the probability-weighted average of the values the function takes on for each possible value of the random variable
+in regressions in which the dependent variable is assumed to be affected by both current and lagged (past) values of the independent variable a distributed lag function is estimated this function being a weighted average of the current and various lagged independent variable values similarly a moving average model specifies an evolving variable as a weighted average of current and various lagged values of a random variable
+=== mechanics ===
+the terminology weight function arises from mechanics if one has a collection of objects on a lever with weights (where weight is now interpreted in the physical sense) and locations  then the lever will be in balance if the fulcrum of the lever is at the center of mass
+which is also the weighted average of the positions 
+== continuous weights ==
+in the continuous setting a weight is a positive measure such as on some domain which is typically a subset of a euclidean space  for instance could be an interval  here is lebesgue measure and is a non-negative measurable function in this context the weight function is sometimes referred to as a density
+=== general definition ===
+if is a real-valued function then the unweighted integral
+can be generalized to the weighted integral
+note that one may need to require to be absolutely integrable with respect to the weight in order for this integral to be finite
+=== weighted volume ===
+if e is a subset of  then the volume vol(e) of e can be generalized to the weighted volume
+=== weighted average ===
+if has finite non-zero weighted volume then we can replace the unweighted average
+by the weighted average
+=== inner product ===
+if and are two functions one can generalize the unweighted inner product
+to a weighted inner product
+see the entry on orthogonality for more details
+== see also ==
+center of mass
+numerical integration
+orthogonality
+weighted mean
+kernel (statistics)
+measure (mathematics)
+== references ==

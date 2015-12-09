@@ -1,0 +1,100 @@
+set theori branch mathemat determinaci studi circumst one player game must win strategi consequ exist strategi
+basic notion
+game
+first sort game shall consid twoplay game perfect inform length player play natur number
+sort game consid two player often name ii take turn play natur number go first play forev play index natur number theyr finish predetermin condit decid player won condit need specifi defin rule may simpli arbitrari infinit long lookup tabl say won given particular sequenc play
+formal consid subset bair space recal latter consist sequenc natur number game ga play natur number ii play play win game
+otherwis ii win call payoff set ga
+assum player see move preced move also know win condit
+strategi
+inform strategi player way play play entir determin forego play way capabl captur explic rule may simpli lookup tabl
+formal strategi player game sens preced subsect function accept argument finit sequenc natur number even length return natur number strategi aan sequenc play aan next play make follow strategi strategi ii substitut odd even
+note said noth yet whether strategi way good strategi might direct player make aggress bad move would still strategi fact necessari even know win condit game know strategi exist game
+win strategi
+strategi win player follow must necessarili win matter oppon play exampl strategi win strategi game ga sequenc natur number play ii say aaa sequenc play produc ii play thus name
+element
+determin game
+class game determin instanc game win strategi one player necessarili player instanc note cannot win strategi player game two strategi could play result outcom would hypothesi win player imposs
+determinaci elementari consider
+finit game perfect inform draw occur determin
+familiar realworld game perfect inform chess tictacto alway finish finit number move game modifi particular player win condit game would call draw alway determin condit game alway ie possibl extens finit posit result win player finit number move correspond topolog condit set give win condit ga clopen topolog bair space
+exampl modifi rule chess make drawn game win black make chess determin game happen chess finit number posit drawbyrepetit rule modifi rule play continu long enough without white won black eventu forc win due modif draw win black
+instruct exercis figur repres game game context articl
+proof game determin rather simpl player simpli play lose play make sure player ii win strategi move player cannot mean player ii win strategi begin hand player play way must win game finit number move cant lost point
+proof actual requir game alway finit number move finit number move whenev ii win condit topolog set close factthat close game determinedi call galestewart theorem note symmetri open game determin well game open win win finit number move
+determinaci zfc
+gale stewart prove open close game determin determinaci second level borel hierarchi game shown wolf follow year addit research use evermorecompl argument establish third fourth level borel hierarchi determin
+donald martin prove borel game determin borel subset bair space ga determin result known borel determinaci best possibl determinaci result provabl zfc sens determinaci next higher wadg class provabl zfc
+martin obtain proof harvey friedman show proof borel determinaci must use axiom replac essenti way order iter powerset axiom transfinit often friedman work give levelbylevel result detail mani iter powerset axiom necessari guarante determinaci level borel hierarchi
+everi integ n zfcp prove determinaci nth level differ hierarchi set zfcp prove everi integ n nth level differ hierarchi set determin see revers mathemat relat determinaci subsystem secondord arithmet
+determinaci larg cardin
+intim relationship determinaci larg cardin general stronger larg cardin axiom prove determinaci larger pointclass higher wadg hierarchi determinaci pointclass turn prove exist inner model slight weaker larg cardin axiom use prove determinaci pointclass first place
+measur cardin
+follow exist measur cardin everi analyt game also call game determin equival everi coanalyt game determin see project hierarchi definit
+actual measur cardin enough weaker principl exist suffici prove coanalyt determinaci littl bit precis result exist equival determinaci level differ hierarchi level ie n determinaci everi
+measur cardin improv slight determinaci exist measur cardin one prove determinaci level differ hierarchi
+proof determinaci sharp
+everi real number r determinaci equival exist r illustr larg cardin lead determinaci proof determinaci given exist r
+let subset bair space pt tree construct r xa iff y path
+given partial play let subtre consist subject maxyyylenslen addit condit ensur finit
+prove determin defin auxiliari game follow
+addit ordinari move player must play map ordin suffici larg ordin
+new move extend previous map
+order ordin agre kleenebrouw order
+recal kleenebrouw order like lexicograph order except proper extend st wellord iff tree wellfound
+auxiliari game open proof player lose finit stage union tree correspond play wellfound result nonauxiliari play
+thus auxiliari game determin proof transfinit induct ordin comput set posit player forc win step posit player move lose player step iff everi move result posit lose less step one strategi player reduc posit say pick least break tie pick least move one strategi player pick least actual would work move lead posit assign note lr contain set win posit well win strategi given
+win strategi player origin game lead win strategi auxiliari game subtre correspond win strategi wellfound player pick ordin base kleenebrouw order tree also trivial win strategi player auxiliari game give win strategi player origin game
+remain show use r abovement win strategi player auxiliari game convert win strategi origin game auxiliari respons use ordin indiscern indiscern move player depend auxiliari move strategi convert strategi origin game sinc player hold indiscern finit number step suppos player lose origin game tree correspond play wellfound therefor player win auxiliari game use auxiliari move base indiscern sinc order type indiscern exceed kleenebrouw order tree contradict player win auxiliari game
+woodin cardin
+woodin cardin measur cardin determinaci hold general n woodin cardin measur cardin n determinaci hold n determinaci follow transit inner model contain n woodin cardin
+lightfac determinaci equiconsist woodin cardin determinaci hold ture cone x everi real x suffici high ture degre lx satisfi oddeterminaci determinaci game integ length ordinaldefin payoff hodlx woodin cardin
+project determinaci
+infinit mani woodin cardin project determinaci hold everi game whose win condit project set determin project determinaci follow everi natur number n transit inner model satisfi n woodin cardin
+axiom determinaci
+axiom determinaci ad assert everi twoplay game perfect inform length player play natur determin
+ad provabl fals zfc use axiom choic one may prove exist nondetermin game howev infinit mani woodin cardin measur lr model zf satisfi ad
+consequ determinaci
+regular properti set real
+subset bair space banachmazur game determin either ii win strategi case meager win strategi case comeag open neighborhood
+quit impli properti bair come close simpl modif argument show adequ pointclass everi game determin everi set real properti bair
+fact result optim consid unfold banachmazur game show determinaci suffici closur properti impli everi set real project set properti bair exampl exist measur cardin impli determinaci turn impli everi set real properti bair
+consid game show n determinaci impli everi n set real properti bair lebesgu measur fact univers measur perfect set properti
+period theorem
+first period theorem impli everi natur number n n determinaci hold n n prewellord properti n n prewellord properti rather separ properti
+second period theorem impli everi natur number n n determinaci hold n n scale properti particular project determinaci hold everi project relat project uniform
+third period theorem give suffici condit game defin win strategi
+applic decid certain secondord theori
+michael o rabin prove secondord theori n successor decid key compon proof requir show determinaci pariti game lie third level borel hierarchi
+wadg determinaci
+wadg determinaci statement pair ab subset bair space wadg game gab determin similar pointclass wadg determinaci statement set ab wadg game gab determin
+wadg determinaci impli semilinear order principl wadg order anoth consequ wadg determinaci perfect set properti
+general wadg determinaci consequ determinaci boolean combin set project hierarchi wadg determinaci equival determinaci prove harrington result extendend hjorth prove wadg determinaci fact semilinear order principl alreadi impli determinaci
+subsect still incomplet
+general game
+section still written
+game object play natur number
+subsect incomplet
+determinaci game ordin ordin defin payoff length impli everi regular cardin ordin defin disjoint stationari subset made ordin cofin consist strength determinaci hypothesi unknown expect high
+game play tree
+subsect still written
+long game
+exist woodin cardin impli everi countabl ordin game integ length project payoff determin rough speak woodin cardin correspond determinaci game real length simpl payoff set assum limit woodin cardin o woodin cardin game variabl countabl length game end soon length admiss relat line play project payoff determin assum certain iter conjectur provabl exist measur woodin cardin impli determinaci open game length project payoff game win condit first player trigger countabl stage payoff code set real
+relat woodin limit woodin cardin measur consist everi game integ length ordin defin payoff determin conjectur determinaci hypothesi equiconsist woodin limit woodin cardin maxim undetermin game integ length ordin defin payoff
+game imperfect inform
+interest game imperfect inform win strategi mix strategi give probabl differ respons situat player optim strategi mix strategi outcom game cannot certain determin pure strategi sinc determinist probabl distribut outcom oppos mix strategi calcul game requir mix strategi defin determin strategi exist yield minimum expect valu possibl counterstrategi exceed given valu definit finit two player zerosum game clear determin howev determinaci infinit game imperfect inform blackwel game less clear
+david blackwel prove infinit game imperfect inform call blackwel game determin donald martin prove ordinari perfectinform game determinaci boldfac pointclass impli blackwel determinaci pointclass combin borel determinaci theorem martin impli blackwel game borel payoff function determin martin conjectur ordinari determinaci blackwel determinaci infinit game equival strong sens ie blackwel determinaci boldfac pointclass turn impli ordinari determinaci pointclass proven blackwel determinaci impli perfectinformationgam determinaci
+quasistrategi quasideterminaci
+footnot
+assum tri get intersect neighborhood play singleton whose uniqu element element author make goal instead player ii usag requir modifi remark accord
+refer
+gale d f m stewart kuhn h w tucker w ed contribut theori game volum ii annal mathemat studi princeton univers press isbn
+harrington leo jan analyt determinaci journal symbol logic doi jstor
+hjorth greg jan wadg degre annal pure appli logic doi
+jech thoma set theori third millennium edit revis expand springer isbn
+martin donald borel determinaci annal mathemat second seri doi
+martin donald john r steel jan proof project determinaci journal american mathemat societi doi jstor
+moschovaki yianni n descript set theori north holland isbn
+woodin w hugh supercompact cardin set real weak homogen tree proceed nation academi scienc unit state america doipna pmc pmid
+martin donald simpl proof determinaci impli lebesgu measur rend sem mat univ pol torino pdf
+wolf p strict determin certain infinit game pacif j math supplement doipjm

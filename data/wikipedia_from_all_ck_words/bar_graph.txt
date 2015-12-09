@@ -1,0 +1,17 @@
+a bar chart or bar graph is a chart that presents grouped data with rectangular bars with lengths proportional to the values that they represent the bars can be plotted vertically or horizontally a vertical bar chart is sometimes called a column bar chart
+a bar graph is a chart that uses either horizontal or vertical bars to show comparisons among categories one axis of the chart shows the specific categories being compared and the other axis represents a discrete value some bar graphs present bars clustered in groups of more than one (grouped bar graphs) and others show the bars divided into subparts to show cumulative effect (stacked bar graphs)
+== history ==
+the first bar graph appeared in the 1786 book the commercial and political atlas by william playfair (1759-1823) playfair was a pioneer in the use of graphical displays and wrote extensively about them
+this bar chart by william playfair from 1786 showed the exports and imports of scotland to and from different parts for one year from christmas 1780 to christmas 1781.
+== usage ==
+bar charts have a discrete range bar charts are usually scaled so that all the data can fit on the chart bars on the chart may be arranged in any order bar charts arranged from highest to lowest incidence are called pareto charts normally bars showing frequency will be arranged in chronological (time) sequence grouped bar graph usually present the information in the same order in each grouping stacked bar graphs present the information in the same sequence on each bar
+bar graphs charts provide a visual presentation of categorical data categorical data is a grouping of data into discrete groups such as months of the year age group shoe sizes and animals these categories are usually qualitative in a column bar chart the categories appear along the horizontal axis the height of the bar corresponds to the value of each category
+bar graphs can also be used for more complex comparisons of data with grouped bar charts and stacked bar charts in a grouped bar chart for each categorical group there are two or more bars these bars are color-coded to represent a particular grouping for example a business owner with two stores might make a grouped bar chart with different colored bars to represent each store the horizontal axis would show the months of the year and the vertical axis would show the revenue alternatively a stacked bar chart could be used the stacked bar chart stacks bars that represent different groups on top of each other the height of the resulting bar shows the combined result of the groups however stacked bar charts are not suited to datasets where some groups have negative values in such cases grouped bar charts are preferable
+== see also ==
+see extension:easytimeline to include bar charts in wikipedia
+enhanced metafile format to use in office suits as ms powerpoint
+== references ==
+^ a b kelley w m. donnelly r a (2009) the humongous book of statistics problems new york ny alpha books isbn 1592578659
+== external links ==
+directory of graph software and online tools (many can handle bar charts)
+create a graph free online graph creation tool at the website for the national center for education statistics (nces)

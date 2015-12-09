@@ -1,0 +1,132 @@
+forecast process make predict futur base past present data analysi trend commonplac exampl might estim variabl interest specifi futur date predict similar general term might refer formal statist method employ time seri crosssect longitudin data altern less formal judgment method usag differ area applic exampl hydrolog term forecast forecast sometim reserv estim valu certain specif futur time term predict use general estim number time flood occur long period
+risk uncertainti central forecast predict general consid good practic indic degre uncertainti attach forecast case data must date order forecast accur possibl
+categori forecast method
+qualit vs quantit method
+qualit forecast techniqu subject base opinion judgment consum expert appropri past data avail usual appli intermedi longrang decis exampl qualit forecast method inform opinion judgment delphi method market research histor lifecycl analog
+quantit forecast model use forecast futur data function past data appropri use past numer data avail reason assum pattern data expect continu futur method usual appli short intermediaterang decis exampl quantit forecast method last period demand simpl weight nperiod move averag simpl exponenti smooth multipl season index
+averag approach
+approach predict futur valu equal mean past data approach use sort data past data avail time seri notat
+past data
+nave approach
+nave forecast costeffect forecast model provid benchmark sophist model compar time seri data use naiv approach would produc forecast equal last observ valu method work quit well econom financi time seri often pattern difficult reliabl accur predict time seri believ season season naiv approach may appropri forecast equal valu last season naiv method may also use drift take last observ plus averag chang first observ last observ time seri notat
+drift method
+variat nave method allow forecast increas decreas time amount chang time call drift set averag chang seen histor data forecast time given
+equival draw line first last observ extrapol futur
+season nave approach
+season nave method account season set predict equal last observ valu season exampl predict valu subsequ month april equal previous valu observ april forecast time
+season period smallest integ greater
+season nave method particular use data high level season
+time seri method
+time seri method use histor data basi estim futur outcom
+move averag
+weight move averag
+kalman filter
+exponenti smooth
+autoregress move averag arma
+autoregress integr move averag arima
+eg boxjenkin
+season arima sarima
+extrapol
+linear predict
+trend estim
+growth curv statist
+causal econometr forecast method
+forecast method tri identifi under factor might influenc variabl forecast exampl includ inform climat pattern might improv abil model predict umbrella sale forecast model often take account regular season variat addit climat variat also due holiday custom exampl one might predict sale colleg footbal apparel higher footbal season season
+sever inform method use causal forecast employ strict algorithm instead use judgment forecast forecast take account past relationship variabl one variabl exampl approxim linear relat anoth long period time may appropri extrapol relationship futur without necessarili understand reason relationship
+causal method includ
+regress analysi includ larg group method predict futur valu variabl use inform variabl method includ parametr linear nonlinear nonparametr techniqu
+autoregress move averag exogen input armax
+quantit forecast model often judg compar insampl outofsampl mean squar error although research advis
+judgment method
+judgment forecast method incorpor intuit judgement opinion subject probabl estim judgment forecast use case lack histor data complet new uniqu market condit
+judgment method includ
+composit forecast
+cook method
+delphi method
+forecast analog
+scenario build
+statist survey
+technolog forecast
+artifici intellig method
+artifici neural network
+group method data handl
+support vector machin
+often done today special program loos label
+data mine
+machin learn
+pattern recognit
+method
+simul
+predict market
+probabilist forecast ensembl forecast
+socioeconom forecast often tri includ humanist factor claim human deliber action profound influenc futur argu regard real possibl within current socioeconom system futur may influenc vari degre individu small group individu recent popular public like capit twentyfirst centuri regard major contributor increas appar possibl realiti argu influenc privat public invest futur never discompos individu machiavelian human charact method disregard factor never accur predict socioeconom futur even use strong coercion tool theori general regard conspiraci theori increas worri socioeconom develop world grant theori persist credibl
+forecast accuraci
+forecast error differ actual valu forecast valu correspond period
+e forecast error period y actual valu period f forecast period
+measur aggreg error
+busi forecast practition sometim use differ terminolog industri refer pmad mape although comput volum weight mape inform see calcul demand forecast accuraci
+limit error
+two popular measur accuraci incorpor forecast error mean absolut error mae root mean squar error rmse thus measur consid scaledepend scale origin data consequ cannot use compar model differ scale
+percentag error simpli forecast error convert percentag given common accuraci measur util mean absolut percentag error mape allow comparison data differ scale howev percentag error quit meaning close equal zero result extrem valu simpli undefin
+see also
+calcul demand forecast accuraci
+consensus forecast
+forecast error
+predict
+predict interv similar confid interv
+refer class forecast
+season cyclic behaviour
+season
+main articl season
+season characterist time seri data experi regular predict chang recur everi calendar year predict chang pattern time seri recur repeat oneyear period said season common mani situat groceri store even medic examin officethat demand depend day week situat forecast procedur calcul season index season seven season one day ratio averag demand season calcul move averag exponenti smooth use histor data correspond season averag demand across season index higher indic demand higher averag index less indic demand less averag
+cyclic behaviour
+cyclic behaviour data take place regular fluctuat data usual last interv least two year length current cycl cannot predetermin cyclic behavior confus season behavior season fluctuat follow consist pattern year period alway known exampl christma period inventori store tend increas order prepar christma shopper exampl cyclic behaviour popul particular natur ecosystem exhibit cyclic behaviour popul increas natur food sourc decreas popul low food sourc recov popul start increas cyclic data cannot account use ordinari season adjust sinc fix period
+applic
+forecast applic wide rang field estim futur condit use everyth forecast reliabl factor relat forecast known well understood signific amount data use reliabl forecast often obtain case actual outcom effect forecast reliabl forecast signific lower
+climat chang increas energi price led use egain forecast build attempt reduc energi need heat build thus reduc emiss greenhous gase forecast use custom demand plan everyday busi manufactur distribut compani
+verac predict actual stock return disput refer efficientmarket hypothesi forecast broad econom trend common analysi provid nonprofit group well forprofit privat institut includ brokerag hous consult compani
+forecast also use predict develop conflict situat forecast perform research use empir result gaug effect certain forecast model howev research shown littl differ accuraci forecast expert knowledg conflict situat individu knew much less
+similar expert studi argu role think contribut accuraci forecast disciplin demand plan also sometim refer suppli chain forecast embrac statist forecast consensus process import albeit often ignor aspect forecast relationship hold plan forecast describ predict futur look like wherea plan predict futur look like singl right forecast method use select method base object condit data etc good place find method visit select tree exampl select tree found forecast applic mani situat
+suppli chain manag forecast use suppli chain manag ensur right product right place right time accur forecast help retail reduc excess inventori thus increas profit margin studi shown extrapol least accur compani earn forecast reliabl accur forecast also help meet consum demand
+econom forecast
+earthquak predict
+egain forecast
+land use forecast
+player team perform sport
+polit forecast
+product forecast
+sale forecast
+technolog forecast
+telecommun forecast
+transport plan transport forecast
+weather forecast flood forecast meteorolog
+limit
+limit pose barrier beyond forecast method cannot reliabl predict mani event valu cannot forecast reliabl event roll die result lotteri cannot forecast random event signific relationship data factor lead forecast known well understood stock foreign exchang market forecast often inaccur wrong enough data everyth effect market forecast reliabl addit outcom forecast market chang behavior involv market reduc forecast accuraci
+perform limit fluid dynam equat
+propos edward lorenz long rang weather forecast made rang two week imposs definit predict state atmospher owe chaotic natur fluid dynam equat involv extrem small error initi input temperatur wind within numer model doubl everi five day
+complex introduc technolog singular
+technolog singular hypothet emerg superintellig technolog mean sinc capabl intellig would difficult unaid human mind comprehend technolog singular seen occurr beyond event cannot predict
+ray kurzweil predict singular occur around vernor ving predict happen time
+see also
+refer
+armstrong j scott ed principl forecast handbook research practition norwel massachusett kluwer academ publish isbn
+elli kimber product plan inventori control mcgrawhil isbn
+geisser seymour june predict infer introduct chapman hall crc press isbn
+gilchrist warren statist forecast london john wiley son isbn
+hyndman rj koehler ab anoth look measur forecast accuraci monash univers note
+makridaki spyro wheelwright steven hyndman rob j forecast method applic new york john wiley son isbn
+kress georg j snyder john may forecast market analysi techniqu practic approach westport connecticut london quorum book isbn x
+rescher nichola predict futur introduct theori forecast state univers new york press isbn
+sasic kaligasidi et al upgrad weather forecast control build heat system p ff research build physic build engin paul fazio editori staff isbn
+taesler r climat build energi manag energi build vol pp
+turchin p scientif predict histor sociolog ibn khaldun meet al saud inhistori mathemat histor dynam develop complex societi moscow komkniga isbn
+unit state patent comfort control system incorpor weather forecast data method oper system inventor stefan berglund
+malakooti b oper product system multipl object john wiley son
+extern link
+forecast principl evidencebas forecast
+intern institut forecast
+introduct time seri analysi engin statist handbook practic guid time seri analysi forecast
+time seri analysi
+global forecast if
+earthquak electromagnet precursor research
+forecast scienc theori forecast

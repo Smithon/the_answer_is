@@ -1,0 +1,26 @@
+simplex communication is a communication channel that sends information in one direction only a duplex communication channel requires two simplex channels operating in opposite directions the itu definition of simplex is a communications channel that operates in one direction at a time but that may be reversible this is termed half duplex in other contexts
+for example in tv and radio broadcasting information flows only from the transmitter site to multiple receivers an rs 232 interface between a computer terminal and a modem is made up of multiple simplex control and data circuits but information can flow both ways since channels are provided both to and from the terminal a pair of walkie-talkie two-way radios provide a simplex circuit in the itu sense only one party at a time can talk while the other listens until it can hear an opportunity to transmit the transmission medium (the radio signal over the air) can carry information in both directions but the apparatus only allows one direction at a time to be used
+== examplesedit ==
+commercial radio and television broadcast (not two-way radio such as walkie-talkies)
+garage door openers
+baby monitors
+wireless microphones
+radio controlled models
+public address systems
+surveillance cameras
+pagers
+communication between a mouse and a computer
+internet multicast
+radio navigation beacons and radiolocation services such as gps
+telemetry
+printers
+== itu-t definition one way signaling at a timeedit ==
+according to the itu-t definition a simplex circuit is one where signals can flow in only one direction at a time at other times communications can flow in the reverse direction a more common term for this application is half-duplex examples are intercoms and two way radios such as walkie-talkies citizens band and mobile radios used dispatch police firefighters and taxicabs
+the old western union company used the term simplex when describing the half-duplex and simplex capacity of their new transatlantic telegraph cable completed between newfoundland and the azores in 1928 the same definition for a simplex radio channel was used by the national fire protection association in 2002
+== see alsoedit ==
+communications channel
+duplex (telecommunications)
+== referencesedit ==
+^ ieee std 100 dictionary of standards terms simplex p.1053
+^ milnor j.w and g.a randall the newfoundland-azores high-speed duplex cable a.i.e.e electrical engineering may 1931
+^ report of the committee on public emergency service communication nfpa 1221 may 2002

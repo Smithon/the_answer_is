@@ -1,0 +1,40 @@
+the hertz (symbol hz) is the unit of frequency in the international system of units (si) and is defined as one cycle per second it is named for heinrich rudolf hertz the first person to provide conclusive proof of the existence of electromagnetic waves
+one of the unit's most common uses is in the description of sine waves and musical tones particularly those used in radio and other audio-related applications it is also used to describe the speeds at which computers and other electronics are driven
+== definitionedit ==
+the hertz is equivalent to cycles per second in defining the second the international committee for weights and measures declared that the standard to be employed is the transition between the hyperfine levels f = 4 m = 0 and f = 3 m = 0 of the ground state 2s1/2 of the cesium 133 atom unperturbed by external fields and that the frequency of this transition is assigned the value 9 192 631 770 hertz thereby effectively defining the hertz and the second simultaneously
+in english hertz is also used as the plural form as an si unit hz can be prefixed commonly used multiples are khz (kilohertz 103 hz) mhz (megahertz 106 hz) ghz (gigahertz 109 hz) and thz (terahertz 1012 hz) one hertz simply means one cycle per second (typically that which is being counted is a complete cycle) 100 hz means one hundred cycles per second and so on the unit may be applied to any periodic eventfor example a clock might be said to tick at 1 hz or a human heart might be said to beat at 1.2 hz the rate of aperiodic or stochastic events occur is expressed in reciprocal second or inverse second (1/s or s1) in general or the specific case of radioactive decay becquerels whereas 1 hz is 1 cycle per second 1 bq is 1 aperiodic radionuclide event per second
+even though angular velocity angular frequency and the unit hertz all have the dimension 1/s angular velocity and angular frequency are not expressed in hertz but rather in an appropriate angular unit such as radians per second thus a disc rotating at 60 revolutions per minute (rpm) is said to be rotating at either 2 rad/s or 1 hz where the former measures the angular velocity and the latter reflects the number of complete revolutions per second the conversion between a frequency f measured in hertz and an angular velocity measured in radians per second is
+and 
+this si unit is named after heinrich hertz as with every international system of units (si) unit named for a person the first letter of its symbol is upper case (hz) however when an si unit is spelled out in english it should always begin with a lower case letter (hertz)except in a situation where any word in that position would be capitalized such as at the beginning of a sentence or in material using title case note that degree celsius conforms to this rule because the d is lowercase based on the international system of units section 5.2
+== historyedit ==
+the hertz is named after the german physicist heinrich hertz (18571894) who made important scientific contributions to the study of electromagnetism the name was established by the international electrotechnical commission (iec) in 1930 it was adopted by the general conference on weights and measures (cgpm) (confrence gnrale des poids et mesures) in 1960 replacing the previous name for the unit cycles per second (cps) along with its related multiples primarily kilocycles per second (kc/s) and megacycles per second (mc/s) and occasionally kilomegacycles per second (kmc/s) the term cycles per second was largely replaced by hertz by the 1970s
+== applicationsedit ==
+=== vibrationedit ===
+sound is a traveling longitudinal wave which is an oscillation of pressure humans perceive frequency of sound waves as pitch each musical note corresponds to a particular frequency which can be measured in hertz an infant's ear is able to perceive frequencies ranging from 20 hz to 20,000 hz the average adult human can hear sounds between 20 hz and 16,000 hz the range of ultrasound infrasound and other physical vibrations such as molecular vibrations extends from below 1 mhz into the megahertz range and well beyond
+=== electromagnetic radiationedit ===
+electromagnetic radiation is often described by its frequencythe number of oscillations of the perpendicular electric and magnetic fields per secondexpressed in hertz
+radio frequency radiation is usually measured in kilohertz (khz) megahertz (mhz) or gigahertz (ghz) light is electromagnetic radiation that is even higher in frequency and has frequencies in the range of tens (infrared) to thousands (ultraviolet) of terahertz electromagnetic radiation with frequencies in the low terahertz range (intermediate between those of the highest normally usable radio frequencies and long-wave infrared light) is often called terahertz radiation even higher frequencies exist such as that of gamma rays which can be measured in exahertz (for historical reasons the frequencies of light and higher frequency electromagnetic radiation are more commonly specified in terms of their wavelengths or photon energies for a more detailed treatment of this and the above frequency ranges see electromagnetic spectrum.)
+=== computersedit ===
+in computers most central processing units (cpu) are labeled in terms of their clock rate expressed in megahertz or gigahertz (106 or 109 hertz respectively) this number refers to the frequency of the cpu's master clock signal ("clock rate") this signal is a square wave which is an electrical voltage that switches between low and high values at regular intervals hertz has become the primary unit of measurement accepted by the general populace to determine the performance of a cpu but many experts have criticized this approach which they claim is an easily manipulable benchmark as some processors use multiple clock periods to perform a single operation while others can perform multiple operations in a single cycle for home-based personal computers cpu clock speeds have ranged from approximately 1 mhz in the late 1970s (atari commodore apple computers) to up to 6 ghz in ibm power processors
+various computer buses such as the front-side bus connecting the cpu and northbridge also operate at various frequencies in the megahertz range
+the speed or the more correct term bandwidth of networks including wireless such as wi-fi 3g 4g lte etc is not affected by the myth described above in general higher frequency means higher bandwidth or bit rates that lower the times to download big files in general however higher frequencies do not pass through walls making lower frequencies an advantage e.g indoors (most common equipment reports the highest frequency used but usually also work at lower making this often not a problem) bandwidth is often equated with speed while latency ("lag") is the perceived problem that is a distinct measure from bandwidth while higher bandwidth has an influence on latency
+== si multiplesedit ==
+higher frequencies than the international system of units provides prefixes for are believed to occur naturally in the frequencies of the quantum-mechanical vibrations of high-energy or equivalently massive particles although these are not directly observable and must be inferred from their interactions with other phenomena for practical reasons these are typically not expressed in hertz but in terms of the equivalent quantum energy which is proportional to the frequency by the factor of planck's constant
+== see alsoedit ==
+alternating current
+bandwidth (signal processing)
+electronic tuner
+flops
+frequency changer
+normalized frequency
+orders of magnitude (frequency)
+periodic function
+radian per second
+rate
+== notes and referencesedit ==
+== external linksedit ==
+bipm cesium ion fcs definition
+national research council of canada cesium fountain clock
+national physical laboratory trapped ion optical frequency standards
+national research council of canada optical frequency standard based on a single trapped ion
+national research council of canada optical frequency comb

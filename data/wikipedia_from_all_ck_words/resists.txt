@@ -1,0 +1,23 @@
+in semiconductor fabrication a resist is a thin layer used to transfer a circuit pattern to the semiconductor substrate which it is deposited upon a resist can be patterned via lithography to form a (sub)micrometer-scale temporary mask that protects selected areas of the underlying substrate during subsequent processing steps the material used to prepare said thin layer is typically a viscous solution resists are generally proprietary mixtures of a polymer or its precursor and other small molecules (e.g photoacid generators) that have been specially formulated for a given lithography technology resists used during photolithography are called photoresists
+== background ==
+semiconductor devices (as of 2005) are built by depositing and patterning many thin layers the patterning steps or lithography define the function of the device and the density of its components
+for example in the interconnect layers of a modern microprocessor a conductive material (copper or aluminum) is inlaid in an electrically insulating matrix (typically fluorinated silicon dioxide or another low-k dielectric) the metal patterns define multiple electrical circuits that are used to connect the microchip's transistors to one another and ultimately to external devices via the chip's pins
+the most common patterning method used by the semiconductor device industry is photolithography -- patterning using light in this process the substrate of interest is coated with photosensitive resist and irradiated with short-wavelength light projected through a photomask which is a specially prepared stencil formed of opaque and transparent regions - usually a quartz substrate with a patterned chromium layer the shadow of opaque regions in the photomask forms a submicrometer-scale pattern of dark and illuminated regions in the resist layer -- the areal image chemical and physical changes occur in the exposed areas of the resist layer for example chemical bonds may be formed or destroyed inducing a change in solubility this latent image is then developed for example by rinsing with an appropriate solvent selected regions of the resist remain which after a post-exposure bake step form a stable polymeric pattern on the substrate this pattern can be used as a stencil in the next process step for example areas of the underlying substrate that are not protected by the resist pattern may be etched or doped material may be selectively deposited on the substrate after processing the remaining resist may be stripped sometimes (esp during microelectromechanical systems fabrication) the patterned resist layer may be incorporated in the final product many photolithography and processing cycles may be performed to create complex devices
+resists may also be formulated to be sensitive to charged particles such as the electron beams produced in scanning electron microscopes this is the basis of electron-beam direct-write lithography
+a resist is not always necessary several materials may be deposited or patterned directly using techniques like soft lithography dip-pen nanolithography evaporation through a shadow mask or stencil
+== typical process ==
+resist deposition the precursor solution is spin-coated on a clean (semiconductor) substrate such as a silicon wafer to form a very thin uniform layer
+soft bake the layer is baked at a low temperature to evaporate residual solvent
+exposure a latent image is formed in the resist e.g (a) via exposure to ultraviolet light through a photomask with opaque and transparent regions or (b) by direct writing using a laser beam or electron beam
+development areas of the resist that have (or have not) been exposed are removed by rinsing with an appropriate solvent
+post-exposure bake
+processing through the resist pattern wet or dry etching lift-off doping
+resist stripping
+== see also ==
+electron beam lithography
+nanolithography
+photolithography
+== external links ==
+microchem
+shipley (now rohm and haas electronic materials)
+clariant

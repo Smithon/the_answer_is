@@ -1,0 +1,88 @@
+fluid dynam drag sometim call air resist type friction fluid resist anoth type friction fluid friction refer forc act opposit relat motion object move respect surround fluid exist two fluid layer surfac fluid solid surfac unlik resist forc dri friction near independ veloc drag forc depend veloc drag forc proport veloc laminar flow squar veloc turbul flow even though ultim caus drag viscous friction turbul drag independ viscos
+drag forc alway decreas fluid veloc relat solid object fluid path
+exampl drag
+exampl drag includ compon net aerodynam hydrodynam forc act opposit direct movement solid object relat earth car aircraft boat hull act geograph direct motion solid sail attach wind sail boat intermedi direct sail depend point sail case viscous drag fluid pipe drag forc immobil pipe decreas fluid veloc relat pipe
+type drag
+type drag general divid follow categori
+parasit drag consist
+form drag
+skin friction
+interfer drag
+liftinduc drag
+wave drag aerodynam wave resist ship hydrodynam
+phrase parasit drag main use aerodynam sinc lift wing drag general small compar lift flow around bluff bodi drag often domin qualifi parasit meaningless form drag skin friction interfer drag bluff bodi coin element parasit drag direct element drag
+liftinduc drag relev wing lift bodi present therefor usual discuss either aviat perspect drag design either semiplan plane hull wave drag occur solid object move fluid near speed sound fluidor case freelymov fluid surfac surfac wave radiat object eg ship
+drag depend properti fluid size shape speed object one way express mean drag equat
+drag forc
+densiti fluid
+speed object relat fluid
+cross section area
+drag coeffici dimensionless number
+drag coeffici depend shape object reynold number
+characterist diamet linear dimens kinemat viscos fluid equal viscos divid densiti low reynold number drag coeffici asymptot proport invers reynold number mean drag proport speed high reynold number drag coeffici less constant graph right show drag coeffici vari reynold number case sphere
+high veloc precis high reynold number drag vari squar veloc thus result power need overcom drag vari cube veloc standard equat drag one half coeffici drag multipli fluid mass densiti cross section area specifi item squar veloc
+wind resist layman term drag use often vagu usual use relat sens eg badminton shuttlecock wind resist squash ball
+drag high veloc
+mention drag equat constant drag coeffici give forc experienc object move fluid relat larg veloc ie high reynold number re also call quadrat drag equat attribut lord rayleigh origin use l place l length
+see deriv
+refer area often orthograph project objecton plane perpendicular direct motioneg object simpl shape sphere cross section area sometim differ refer area given object case drag coeffici correspond differ area must given
+case wing comparison drag lift forc easiest refer area sinc ratio drag lift forc ratio drag lift coeffici therefor refer wing often lift area wing area rather frontal area
+object smooth surfac nonfix separ pointslik sphere circular cylinderth drag coeffici may vari reynold number re even high valu re order object welldefin fix separ point like circular disk plane normal flow direct drag coeffici constant re drag coeffici cd general function orient flow respect object apart symmetr object like sphere
+power
+power requir overcom aerodynam drag given
+note power need push object fluid increas cube veloc car cruis highway mph kmh may requir horsepow kw overcom air drag car mph kmh requir hp kw doubl speed drag forc quadrupl per formula exert four time forc fix distanc produc four time much work twice speed work result displac fix distanc done twice fast sinc power rate work four time work done half time requir eight time power
+veloc fall object
+veloc function time object fall nondens medium releas zero relativeveloc v time rough given function involv hyperbol tangent tanh
+hyperbol tangent limit valu one larg time word veloc asymptot approach maximum valu call termin veloc vt
+potatoshap object averag diamet d densiti obj termin veloc
+object waterlik densiti raindrop hail live objectsmamm bird insect etc fall air near surfac earth sea level termin veloc rough equal
+d metr vt ms exampl human bodi m ms small anim like cat m ms small bird m ms insect m ms termin veloc small object pollen etc low reynold number determin stoke law
+termin veloc higher larger creatur thus potenti dead creatur mous fall termin veloc much like surviv impact ground human fall termin veloc small anim cricket impact termin veloc probabl unharm combin relat ratio limb crosssect area vs bodi mass common refer squarecub law explain small anim fall larg height harm
+low reynold number stoke drag
+equat viscous resist linear drag appropri object particl move fluid relat slow speed turbul ie low reynold number note pure laminar flow exist re definit case forc drag approxim proport veloc opposit direct equat viscous resist
+constant depend properti fluid dimens object
+veloc object
+object fall rest veloc
+asymptot approach termin veloc given heavier object fall quick
+special case small spheric object move slowli viscous fluid thus small reynold number georg gabriel stoke deriv express drag constant
+stoke radius particl fluid viscos
+result express drag known stoke drag
+exampl consid small sphere radius micrometr diamet m move water veloc ms use pas dynam viscos water si unit find drag forc pn drag forc bacterium experi swim water
+drag aerodynam
+liftinduc drag
+liftinduc drag also call induc drag drag occur result creation lift threedimension lift bodi wing fuselag airplan induc drag consist two primari compon includ drag due creation vortic vortex drag presenc addit viscous drag liftinduc viscous drag vortic flowfield present wake lift bodi deriv turbul mix air vari pressur upper lower surfac bodi necessari condit creation lift
+paramet remain lift generat bodi increas liftinduc drag aircraft flight mean angl attack therefor lift coeffici increas point stall liftinduc drag onset stall lift abrupt decreas liftinduc drag viscous pressur drag compon parasit drag increas due format turbul unattach flow surfac bodi
+parasit drag
+parasit drag also call parasit drag drag caus move solid object fluid parasit drag made multipl compon includ viscous pressur drag form drag drag due surfac rough skin friction drag addit presenc multipl bodi relat proxim may incur call interfer drag sometim describ compon parasit drag
+aviat induc drag tend greater lower speed high angl attack requir maintain lift creat drag howev speed increas induc drag becom much less parasit drag increas fluid flow quick around protrud object increas friction drag even higher speed transon wave drag enter pictur form drag chang proport other base speed combin overal drag curv therefor show minimum airspe aircraft fli speed close optim effici pilot use speed maxim endur minimum fuel consumpt maxim glide rang event engin failur
+power curv aviat
+interact parasit induc drag vs airspe plot characterist curv illustr aviat often refer power curv import pilot show certain airspe maintain airspe counterintuit requir thrust speed decreas rather less consequ behind curv flight import taught part pilot train subson airspe u shape curv signific wave drag yet becom factor shown curv
+wave drag transon superson flow
+wave drag also call compress drag drag creat presenc bodi move high speed compress fluid aerodynam wave drag consist multipl compon depend speed regim flight
+transon flight mach number greater less wave drag result format shockwav bodi form area local superson mach number greater flow creat practic superson flow occur bodi travel well speed sound local speed air bodi increas acceler bodi case mach howev full superson flow vehicl develop well past mach aircraft fli transon speed often incur wave drag normal cours oper transon flight wave drag common refer transon compress drag transon compress drag increas signific speed flight increas toward mach domin form drag speed
+superson flight mach number greater wave drag result shockwav present bodi typic obliqu shockwav form lead trail edg bodi high superson flow bodi turn angl suffici larg unattach shockwav bow wave instead form addit local area transon flow behind initi shockwav may occur lower superson speed lead develop addit smaller shockwav present surfac lift bodi similar found transon flow superson flow regim wave drag common separ two compon superson liftdepend wave drag superson volumedepend wave drag
+close form solut minimum wave drag bodi revolut fix length found sear haack known searshaack distribut similar fix volum shape minimum wave drag von karman ogiv
+busemann biplan principl subject wave drag oper design speed incap generat lift
+dalembert paradox
+dalembert prove potenti flow th centuri stateoftheart inviscid flow theori amen mathemat solut result predict zero drag contradict experiment evid becam known dalembert paradox th centuri navierstok equat descript viscous flow develop saintven navier stoke stoke deriv drag around sphere low reynold number result call stoke law
+limit highreynold number navierstok equat approach inviscid euler equat potentialflow solut consid dalembert solut howev high reynold number experi show drag attempt construct inviscid steadi flow solut euler equat potenti flow solut result realist result
+notion boundari layersintroduc prandtl found theori experimentsexplain caus drag high reynold number boundari layer thin layer fluid close object boundari viscous effect remain import viscos becom small equival reynold number becom larg
+drag space
+due lack air space drag usual occur sinc air resist nonexist
+howev graviti nearbi planet planetoid may pull object go one direct simul drag
+see also
+refer
+bibliographi
+french p newtonian mechan mit introductori physic seri st ed w w norton compani inc new york isbn
+g falkovich fluid mechan short cours physicist cambridg univers press isbn
+serway raymond jewett john w physic scientist engin th ed brookscol isbn
+tipler paul physic scientist engin mechan oscil wave thermodynam th ed w h freeman isbn
+huntley h e dimension analysi dover loc
+batchelor georg introduct fluid dynam cambridg mathemat librari nd ed cambridg univers press isbn mr
+clanci lj aerodynam pitman publish limit london isbn
+extern link
+educ materi air resist
+aerodynam drag effect acceler top speed vehicl
+vehicl aerodynam drag calcul base drag coeffici frontal area speed
+smithsonian nation air space museum thing fli websit
+effect dimpl golf ball car

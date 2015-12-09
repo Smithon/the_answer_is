@@ -1,0 +1,48 @@
+in chemistry concentration is the abundance of a constituent divided by the total volume of a mixture several types of mathematical description can be distinguished mass concentration molar concentration number concentration and volume concentration the term concentration can be applied to any kind of chemical mixture but most frequently it refers to solutes and solvents in solutions the molar (amount) concentration has variants such as normal concentration and osmotic concentration
+== qualitative description ==
+often in informal non-technical language concentration is described in a qualitative way through the use of adjectives such as dilute for solutions of relatively low concentration and concentrated for solutions of relatively high concentration to concentrate a solution one must add more solute (for example alcohol) or reduce the amount of solvent (for example water) by contrast to dilute a solution one must add more solvent or reduce the amount of solute unless two substances are fully miscible there exists a concentration at which no further solute will dissolve in a solution at this point the solution is said to be saturated if additional solute is added to a saturated solution it will not dissolve except in certain circumstances when supersaturation may occur instead phase separation will occur leading to coexisting phases either completely separated or mixed as a suspension the point of saturation depends on many variables such as ambient temperature and the precise chemical nature of the solvent and solute
+== quantitative notation ==
+there are four quantities that describe concentration
+=== mass concentration ===
+the mass concentration is defined as the mass of a constituent divided by the volume of the mixture 
+the si unit is kg/m3 (equal to g/l)
+=== molar concentration ===
+the molar concentration is defined as the amount of a constituent (in moles) divided by the volume of the mixture 
+the si unit is mol/m3 however more commonly the unit mol/l (= mol/dm3) is used
+=== number concentration ===
+the number concentration is defined as the number of entities of a constituent in a mixture divided by the volume of the mixture 
+the si unit is 1/m3
+=== volume concentration ===
+the volume concentration (do not confuse with volume fraction) is defined as the volume of a constituent divided by the volume of the mixture 
+being dimensionless it is expressed as a number e.g. 0.18 or 18% its unit is 1
+== related quantities ==
+several other quantities can be used to describe the composition of a mixture note that these should not be called concentrations
+=== normality ===
+normality is defined as the molar concentration divided by an equivalence factor  since the definition of the equivalence factor depends on context (which reaction is being studied) iupac and nist discourage the use of normality
+=== molality ===
+(not to be confused with molarity)
+the molality of a solution is defined as the amount of a constituent (in moles) divided by the mass of the solvent (not the mass of the solution)
+the si unit for molality is mol/kg
+=== mole fraction ===
+the mole fraction is defined as the amount of a constituent (in moles) divided by the total amount of all constituents in a mixture 
+the si unit is mol/mol however the deprecated parts-per notation is often used to describe small mole fractions
+=== mole ratio ===
+the mole ratio is defined as the amount of a constituent divided by the total amount of all other constituents in a mixture
+if is much smaller than  the mole ratio is almost identical to the mole fraction
+the si unit is mol/mol however the deprecated parts-per notation is often used to describe small mole ratios
+=== mass fraction ===
+the mass fraction is the fraction of one substance with mass to the mass of the total mixture  defined as
+the si unit is kg/kg however the deprecated parts-per notation is often used to describe small mass fractions
+=== mass ratio ===
+the mass ratio is defined as the mass of a constituent divided by the total mass of all other constituents in a mixture
+if is much smaller than  the mass ratio is almost identical to the mass fraction
+the si unit is kg/kg however the deprecated parts-per notation is often used to describe small mass ratios
+== dependence on volume ==
+concentration depends on the variation of the volume of the solution due mainly to thermal expansion
+== table of concentrations and related quantities ==
+== see also ==
+dilution ratio
+dose concentration
+serial dilution
+wine/water mixing problem
+== references ==

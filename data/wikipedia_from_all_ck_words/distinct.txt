@@ -1,0 +1,20 @@
+two or more things are distinct if no two of them are the same thing in mathematics two things are called distinct if they are not equal in physics two things are distinct if they cannot be mapped to each other
+== species or classes ==
+[i]t is plain that our distinct species are nothing but distinct complex ideas with distinct names annexed to them it is true every substance that exists has its peculiar constitution whereon depend those sensible qualities and powers we observe in it but the ranking of things into species (which is nothing but sorting them under several titles) is done by us according to the ideas that we have of them which though sufficient to distinguish them by names so that we may be able to discourse of them when we have them not present before us yet if we suppose it to be done by their real internal constitutions and that things existing are distinguished by nature into species by real essences according as we distinguish them into species by names we shall be liable to great mistakes
+== in mathematics ==
+=== example ===
+a quadratic equation over the complex numbers has two roots
+the equation
+factors as
+and thus has as roots x = 1 and x = 2 since 1 and 2 are not equal these roots are distinct
+in contrast the equation
+factors as
+and thus has as roots x = 1 and x = 1 since 1 and 1 are (of course) equal the roots are not distinct they coincide
+in other words the first equation has distinct roots while the second does not (in the general theory the discriminant is introduced to explain this.)
+=== proving distinctness ===
+in order to prove that two things x and y are distinct it often helps to find some property that one has but not the other for a simple example if for some reason we had any doubt that the roots 1 and 2 in the above example were distinct then we might prove this by noting that 1 is an odd number while 2 is even this would prove that 1 and 2 are distinct
+along the same lines one can prove that x and y are distinct by finding some function f and proving that f(x) and f(y) are distinct this may seem like a simple idea and it is but many deep results in mathematics concern when you can prove distinctness by particular methods for example
+the hahnbanach theorem says (among other things) that distinct elements of a banach space can be proved to be distinct using only linear functionals
+in category theory if f is a functor between categories c and d then f always maps isomorphic objects to isomorphic objects thus one way to show two objects of c are distinct (up to isomorphism) is to show that their images under f are distinct (i.e not isomorphic)
+== see also ==
+== notes ==

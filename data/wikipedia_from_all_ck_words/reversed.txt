@@ -1,0 +1,157 @@
+in mathematics a sequence is an ordered collection of objects in which repetitions are allowed like a set it contains members (also called elements or terms) the number of elements (possibly infinite) is called the length of the sequence unlike a set order matters and exactly the same elements can appear multiple times at different positions in the sequence formally a sequence can be defined as a function whose domain is a countable totally ordered set such as the natural numbers
+for example (m a r y) is a sequence of letters with the letter m first and y last this sequence differs from (a r m y) also the sequence (1 1 2 3 5 8) which contains the number 1 at two different positions is a valid sequence sequences can be finite as in these examples or infinite such as the sequence of all even positive integers (2 4 6,...) in computing and computer science finite sequences are sometimes called strings words or lists the different names commonly corresponding to different ways to represent them into computer memory infinite sequences are also called streams the empty sequence ( ) is included in most notions of sequence but may be excluded depending on the context
+== examples and notation ==
+a sequence can be thought of as a list of elements with a particular order sequences are useful in a number of mathematical disciplines for studying functions spaces and other mathematical structures using the convergence properties of sequences in particular sequences are the basis for series which are important in differential equations and analysis sequences are also of interest in their own right and can be studied as patterns or puzzles such as in the study of prime numbers
+there are a number of ways to denote a sequence some of which are more useful for specific types of sequences one way to specify a sequence is to list the elements for example the first four odd numbers form the sequence (1,3,5,7) this notation can be used for infinite sequences as well for instance the infinite sequence of positive odd integers can be written (1,3,5,7,...) listing is most useful for infinite sequences with a pattern that can be easily discerned from the first few elements other ways to denote a sequence are discussed after the examples
+=== important examples ===
+there are many important integer sequences the prime numbers are the natural numbers bigger than 1 that have no divisors but 1 and themselves taking these in their natural order gives the sequence (2,3,5,7,11,13,17,...) the study of prime numbers has important applications for mathematics and specifically number theory
+the fibonacci numbers are the integer sequence whose elements are the sum of the previous two elements the first two elements are either 0 and 1 or 1 and 1 so that the sequence is (0,1,1,2,3,5,8,13,21,34,...)
+other interesting sequences include the ban numbers whose spellings do not contain a certain letter of the alphabet for instance the eban numbers (do not contain e') form the sequence (2,4,6,30,32,34,36,40,42,...) another sequence based on the english spelling of the numbers is the one based on their number of letters (3,3,5,4,4,3,5,5,4,3,6,6,8,...)
+for a list of important examples of integers sequences see on-line encyclopedia of integer sequences
+other important examples of sequences include ones made up of rational numbers real numbers and complex numbers the sequence (.9,.99,.999,.9999,...) approaches the number 1 in fact every real number can be written as the limit of a sequence of rational numbers it is this fact that allows us to write any real number as the limit of a sequence of decimals for instance is the limit of the sequence (3,3.1,3.14,3.141,3.1415,...) the sequence for  however does not have any pattern that is easily discernible by eye unlike the sequence (0.9,0.99,...)
+=== indexing ===
+other notations can be useful for sequences whose pattern cannot be easily guessed or for sequences that do not have a pattern such as the digits of  this section focuses on the notations used for sequences that are a map from a subset of the natural numbers for generalizations to other countable index sets see the following section and below
+the terms of a sequence are commonly denoted by a single variable say an where the index n indicates the nth element of the sequence
+indexing notation is used to refer to a sequence in the abstract it is also a natural notation for sequences whose elements are related to the index n (the element's position) in a simple way for instance the sequence of the first 10 square numbers could be written as
+this represents the sequence (1,4,9,...100) this notation is often simplified further as
+here the subscript {k=1} and superscript 10 together tell us that the elements of this sequence are the ak such that k = 1 2  10
+sequences can be indexed beginning and ending from any integer the infinity symbol is often used as the superscript to indicate the sequence including all integer k-values starting with a certain one the sequence of all positive squares is then denoted
+in cases where the set of indexing numbers is understood such as in analysis the subscripts and superscripts are often left off that is one simply writes ak for an arbitrary sequence in analysis k would be understood to run from 1 to  however sequences are often indexed starting from zero as in
+in some cases the elements of the sequence are related naturally to a sequence of integers whose pattern can be easily inferred in these cases the index set may be implied by a listing of the first few abstract elements for instance the sequence of squares of odd numbers could be denoted in any of the following ways
+moreover the subscripts and superscripts could have been left off in the third fourth and fifth notations if the indexing set was understood to be the natural numbers
+finally sequences can more generally be denoted by writing a set inclusion in the subscript such as in
+the set of values that the index can take on is called the index set in general the ordering of the elements ak is specified by the order of the elements in the indexing set when n is the index set the element ak+1 comes after the element ak since in n the element (k+1) comes directly after the element k
+=== specifying a sequence by recursion ===
+sequences whose elements are related to the previous elements in a straightforward way are often specified using recursion this is in contrast to the specification of sequence elements in terms of their position
+to specify a sequence by recursion requires a rule to construct each consecutive element in terms of the ones before it in addition enough initial elements must be specified so that new elements of the sequence can be specified by the rule the principle of mathematical induction can be used to prove that a sequence is well-defined which is to say that that every element of the sequence is specified at least once and has a single unambiguous value induction can also be used to prove properties about a sequence especially for sequences whose most natural specification is by recursion
+the fibonacci sequence can be defined using a recursive rule along with two initial elements the rule is that each element is the sum of the previous two elements and the first two elements are 0 and 1
+ with and 
+the first ten terms of this sequence are 0,1,1,2,3,5,8,13,21 and 34 a more complicated example of a sequence that is defined recursively is recaman's sequence considered at the beginning of this section we can define recaman's sequence by
+and if the result is positive and not already in the list otherwise 
+not all sequences can be specified by a rule in the form of an equation recursive or not and some can be quite complicated for example the sequence of prime numbers is the set of prime numbers in their natural order this gives the sequence (2,3,5,7,11,13,17,...)
+one can also notice that the next element of a sequence is a function of the element before and so we can write the next element as 
+this functional notation can prove useful when one wants to prove the global monotony of the sequence
+== formal definition and basic properties ==
+there are many different notions of sequences in mathematics some of which (e.g. exact sequence) are not covered by the definitions and notations introduced below
+=== formal definition ===
+a sequence is usually defined as a function whose domain is a countable totally ordered set although in many disciplines the domain is restricted such as to the natural numbers in real analysis a sequence is a function from a subset of the natural numbers to the real numbers in other words a sequence is a map f(n)  n r to recover our earlier notation we might identify an = f(n) for all n or just write an  n r
+in complex analysis sequences are defined as maps from the natural numbers to the complex numbers (c) in topology sequences are often defined as functions from a subset of the natural numbers to a topological space sequences are an important concept for studying functions and in topology topological spaces an important generalization of sequences called a net is to functions from a (possibly uncountable) directed set to a topological space
+=== finite and infinite ===
+the length of a sequence is defined as the number of terms in the sequence
+a sequence of a finite length n is also called an n-tuple finite sequences include the empty sequence ( ) that has no elements
+normally the term infinite sequence refers to a sequence which is infinite in one direction and finite in the otherthe sequence has a first element but no final element it is called a singly infinite or one-sided (infinite) sequence when disambiguation is necessary in contrast a sequence that is infinite in both directionsi.e that has neither a first nor a final elementis called a bi-infinite sequence two-way infinite sequence or doubly infinite sequence a function from the set z of all integers into a set such as for instance the sequence of all even integers (  4 2 0 2 4 6 8 ) is bi-infinite this sequence could be denoted 
+one can interpret singly infinite sequences as elements of the semigroup ring of the natural numbers r[n] and doubly infinite sequences as elements of the group ring of the integers r[z] this perspective is used in the cauchy product of sequences
+=== increasing and decreasing ===
+a sequence is said to be monotonically increasing if each term is greater than or equal to the one before it for a sequence this can be written as an an+1 for all n n if each consecutive term is strictly greater than (>) the previous term then the sequence is called strictly monotonically increasing a sequence is monotonically decreasing if each consecutive term is less than or equal to the previous one and strictly monotonically decreasing if each is strictly less than the previous if a sequence is either increasing or decreasing it is called a monotone sequence this is a special case of the more general notion of a monotonic function
+the terms nondecreasing and nonincreasing are often used in place of increasing and decreasing in order to avoid any possible confusion with strictly increasing and strictly decreasing respectively
+=== bounded ===
+if the sequence of real numbers (an) is such that all the terms after a certain one are less than some real number m then the sequence is said to be bounded from above in less words this means an m for all n greater than n for some pair m and n any such m is called an upper bound likewise if for some real m an m for all n greater than some n then the sequence is bounded from below and any such m is called a lower bound if a sequence is both bounded from above and bounded from below then the sequence is said to be bounded
+=== other types of sequences ===
+a subsequence of a given sequence is a sequence formed from the given sequence by deleting some of the elements without disturbing the relative positions of the remaining elements for instance the sequence of positive even integers (2,4,6,...) is a subsequence of the positive integers (1,2,3,...) the positions of some elements change when other elements are deleted however the relative positions are preserved
+some other types of sequences that are easy to define include
+an integer sequence is a sequence whose terms are integers
+a polynomial sequence is a sequence whose terms are polynomials
+a positive integer sequence is sometimes called multiplicative if anm = an am for all pairs n,m such that n and m are coprime in other instances sequences are often called multiplicative if an = na1 for all n moreover the multiplicative fibonacci sequence satisfies the recursion relation an = an1 an2
+== limits and convergence ==
+one of the most important properties of a sequence is convergence informally a sequence converges if it has a limit continuing informally a (singly infinite) sequence has a limit if it approaches some value l called the limit as n becomes very large that is for an abstract sequence (an) (with n running from 1 to infinity understood) the value of an approaches l as n  denoted
+more precisely the sequence converges if there exists a limit l such that the remaining an's are arbitrarily close to l for some n large enough
+if a sequence converges to some limit then it is convergent otherwise it is divergent
+if an gets arbitrarily large as n we write
+in this case we say that the sequence (an) diverges or that it converges to infinity
+if an becomes arbitrarily small negative numbers (large in magnitude) as n we write
+and say that the sequence diverges or converges to minus infinity
+=== definition of convergence ===
+for sequences that can be written as with an r we can write (an) with the indexing set understood as n these sequences are most common in real analysis the generalizations to other types of sequences are considered in the following section and the main page limit of a sequence
+let (an) be a sequence in words the sequence (an) is said to converge if there exists a number l such that no matter how close we want the an to be to l (say -close where > 0) we can find a natural number n such that all terms (an+1 an+2 ) are further closer to l (within of l) this is often written more compactly using symbols for instance
+for all > 0 there exists a natural number n such that l < an < l+ for all n n
+in even more compact notation
+the difference in the definitions of convergence for (one-sided) sequences in complex analysis and metric spaces is that the absolute value |an l| is interpreted as the distance in the complex plane () and the distance under the appropriate metric respectively
+=== applications and important results ===
+important results for convergence and limits of (one-sided) sequences of real numbers include the following these equalities are all true at least when both sides exist for a discussion of when the existence of the limit on one side implies the existence of the other see a real analysis text such as can be found in the references
+the limit of a sequence is unique
+provided
+if an bn for all n greater than some n then 
+(squeeze theorem) if for all n > n and  then 
+if a sequence is bounded and monotonic then it is convergent
+a sequence is convergent if and only if every subsequence is convergent
+=== cauchy sequences ===
+a cauchy sequence is a sequence whose terms become arbitrarily close together as n gets very large the notion of a cauchy sequence is important in the study of sequences in metric spaces and in particular in real analysis one particularly important result in real analysis is cauchy characterization of convergence for sequences
+in the real numbers a sequence is convergent if and only if it is cauchy
+in contrast in the rational numbers e.g the sequence defined by x1 = 1 and xn+1 = xn + 2/xn/2 is cauchy but has no rational limit cf here
+== series ==
+a series is informally speaking the sum of the terms of a sequence that is adding the first n terms of a (one-sided) sequence forms the nth term of another sequence called a series thus the n series of the sequence (an) results in another sequence (sn) given by
+we can also write the nth term of the series as
+then the concepts used to talk about sequences such as convergence carry over to series (the sequence of partial sums) and the properties can be characterized as properties of the underlying sequences (such as (an) in the last example) the limit if it exists of an infinite series (the series created from an infinite sequence) is written as
+== use in other fields of mathematics ==
+=== topology ===
+sequence play an important role in topology especially in the study of metric spaces for instance
+a metric space is compact exactly when it is sequentially compact
+a function from a metric space to another metric space is continuous exactly when it takes convergent sequences to convergent sequences
+a metric space is a connected space if whenever the space is partitioned into two sets one of the two sets contains a sequence converging to a point in the other set
+a topological space is separable exactly when there is a dense sequence of points
+sequences can be generalized to nets or filters these generalizations allow one to extend some of the above theorems to spaces without metrics
+==== product topology ====
+a product space of a sequence of topological spaces is the cartesian product of the spaces equipped with a natural topology called the product topology
+more formally given a sequence of spaces  define x such that
+is the set of sequences where each is an element of  let the canonical projections be written as pi  x xi then the product topology on x is defined to be the coarsest topology (i.e the topology with the fewest open sets) for which all the projections pi are continuous the product topology is sometimes called the tychonoff topology
+=== analysis ===
+in analysis when talking about sequences one will generally consider sequences of the form
+which is to say infinite sequences of elements indexed by natural numbers
+it may be convenient to have the sequence start with an index different from 1 or 0 for example the sequence defined by xn = 1/log(n) would be defined only for n 2 when talking about such infinite sequences it is usually sufficient (and does not change much for most considerations) to assume that the members of the sequence are defined at least for all indices large enough that is greater than some given n
+the most elementary type of sequences are numerical ones that is sequences of real or complex numbers this type can be generalized to sequences of elements of some vector space in analysis the vector spaces considered are often function spaces even more generally one can study sequences with elements in some topological space
+==== sequence spaces ====
+a sequence space is a vector space whose elements are infinite sequences of real or complex numbers equivalently it is a function space whose elements are functions from the natural numbers to the field k of real or complex numbers the set of all such functions is naturally identified with the set of all possible infinite sequences with elements in k and can be turned into a vector space under the operations of pointwise addition of functions and pointwise scalar multiplication all sequence spaces are linear subspaces of this space sequence spaces are typically equipped with a norm or at least the structure of a topological vector space
+the most important sequences spaces in analysis are the p spaces consisting of the p-power summable sequences with the p-norm these are special cases of lp spaces for the counting measure on the set of natural numbers other important classes of sequences like convergent sequences or null sequences form sequence spaces respectively denoted c and c0 with the sup norm any sequence space can also be equipped with the topology of pointwise convergence under which it becomes a special kind of frchet space called fk-space
+=== linear algebra ===
+sequences over a field may also be viewed as vectors in a vector space specifically the set of f-valued sequences (where f is a field) is a function space (in fact a product space) of f-valued functions over the set of natural numbers
+=== abstract algebra ===
+abstract algebra employs several types of sequences including sequences of mathematical objects such as groups or rings
+==== free monoid ====
+if a is a set the free monoid over a (denoted a* also called kleene star of a) is a monoid containing all the finite sequences (or strings) of zero or more elements of a with the binary operation of concatenation the free semigroup a+ is the subsemigroup of a* containing all elements except the empty sequence
+==== exact sequences ====
+in the context of group theory a sequence
+of groups and group homomorphisms is called exact if the image (or range) of each homomorphism is equal to the kernel of the next
+note that the sequence of groups and homomorphisms may be either finite or infinite
+a similar definition can be made for certain other algebraic structures for example one could have an exact sequence of vector spaces and linear maps or of modules and module homomorphisms
+==== spectral sequences ====
+in homological algebra and algebraic topology a spectral sequence is a means of computing homology groups by taking successive approximations spectral sequences are a generalization of exact sequences and since their introduction by jean leray (1946) they have become an important research tool particularly in homotopy theory
+=== set theory ===
+an ordinal-indexed sequence is a generalization of a sequence if is a limit ordinal and x is a set an -indexed sequence of elements of x is a function from to x in this terminology an -indexed sequence is an ordinary sequence
+=== computing ===
+automata or finite state machines can typically be thought of as directed graphs with edges labeled using some specific alphabet  most familiar types of automata transition from state to state by reading input letters from  following edges with matching labels the ordered input for such an automaton forms a sequence called a word (or input word) the sequence of states encountered by the automaton when processing a word is called a run a nondeterministic automaton may have unlabeled or duplicate out-edges for any state giving more than one successor for some input letter this is typically thought of as producing multiple possible runs for a given word each being a sequence of single states rather than producing a single run that is a sequence of sets of states however run is occasionally used to mean the latter
+=== streams ===
+infinite sequences of digits (or characters) drawn from a finite alphabet are of particular interest in theoretical computer science they are often referred to simply as sequences or streams as opposed to finite strings infinite binary sequences for instance are infinite sequences of bits (characters drawn from the alphabet {0 1}) the set c = {0 1} of all infinite binary sequences is sometimes called the cantor space
+an infinite binary sequence can represent a formal language (a set of strings) by setting the nth bit of the sequence to 1 if and only if the nth string (in shortlex order) is in the language this representation is useful in the diagonalization method for proofs
+== types ==
+1-sequence
+arithmetic progression
+cauchy sequence
+farey sequence
+fibonacci sequence
+geometric progression
+look-and-say sequence
+thuemorse sequence
+== related concepts ==
+list (computing)
+ordinal-indexed sequence
+recursion (computer science)
+tuple
+set theory
+== operations ==
+cauchy product
+limit of a sequence
+== see also ==
+enumeration
+net (topology) (a generalization of sequences)
+on-line encyclopedia of integer sequences
+permutation
+recurrence relation
+sequence space
+set (mathematics)
+== references ==
+== external links ==
+the dictionary definition of sequence at wiktionary
+hazewinkel michiel ed (2001) sequence encyclopedia of mathematics springer isbn 978-1-55608-010-4
+the on-line encyclopedia of integer sequences
+journal of integer sequences (free)
+sequence at planetmath.org

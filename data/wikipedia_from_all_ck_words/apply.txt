@@ -1,0 +1,54 @@
+in mathematics and computer science apply is a function that applies functions to arguments it is central to programming languages derived from lambda calculus such as lisp and scheme and also in functional languages in particular it has a role in the study of the denotational semantics of computer programs because it is a continuous function on complete partial orders
+in category theory apply is important in cartesian closed categories (and thus also in topos theory) where it is a universal morphism right adjoint to currying
+== programming ==
+in computer programming apply applies a function to a list of arguments eval and apply are the two interdependent components of the eval-apply cycle which is the essence of evaluating lisp described in sicp
+=== apply function ===
+apply is also the name of a special function in many languages which takes a function and a list and uses the list as the function's own argument list as if the function were called with the elements of the list as the arguments this is important in languages with variadic functions because this is the only way to call a function with an indeterminate (at compile time) number of arguments
+==== common lisp and scheme ====
+in common lisp apply is a function that applies a function to a list of arguments (note here that + is a variadic function that takes any number of arguments)
+similarly in scheme
+==== c++ ====
+in c++ bind is used either via the std namespace or via the boost namespace
+==== c# and java ====
+in c# and java variadic arguments are simply collected in an array caller can explicitly pass in an array in place of the variadic arguments this can only be done for a variadic parameter it is not possible to apply an array of arguments to non-variadic parameter without using reflection an ambiguous case arises should the caller want to pass an array itself as one of the arguments rather than using the array as a list of arguments in this case the caller should cast the array to object to prevent the compiler from using the apply interpretation
+==== go ====
+in go typed variadic arguments are simply collected in a slice the caller can explicitly pass in a slice in place of the variadic arguments by appending a  to the slice argument this can only be done for a variadic parameter the caller can not apply an array of arguments to non-variadic parameters without using reflection
+s = []string{"foo bar"}
+variadicfunc(s...)
+==== haskell ====
+in haskell functions may be applied by simple juxtaposition
+in haskell the syntax may also be interpreted that each parameter curries its function in turn in the above example func param1 returns another function accepting one fewer parameters that is then applied to param2 and so on until the function has no more parameters
+==== javascript ====
+in javascript function objects have an apply method the first argument is the value of the this keyword inside the function the second is the list of arguments
+==== lua ====
+in lua apply can be written this way
+==== perl ====
+in perl arrays hashes and expressions are automatically flattened into a single list when evaluated in a list context such as in the argument list of a function
+==== php ====
+in php apply is called call_user_func_array
+==== python and ruby ====
+in python and ruby the same asterisk notation used in defining variadic functions is used for calling a function on a sequence and array respectively
+python originally had an apply function but this was deprecated in favour of the asterisk in 2.3 and removed in 3.0
+==== r ====
+in r do.call constructs and executes a function call from a name or a function and a list of arguments to be passed to it
+==== smalltalk ====
+in smalltalk block (function) objects have a valuewitharguments method which takes an array of arguments
+==== tcl ====
+since tcl 8.5 a function can be applied to arguments with the apply command
+where the function is a two element list {args body} or a three element list {args body namespace}
+== universal property ==
+consider a function  that is where the bracket notation denotes the space of functions from a to b by means of currying there is a unique function  then apply provides the universal morphism
+so that
+or equivalently one has the commuting diagram
+the notation for the space of functions from a to b occurs more commonly in computer science in category theory however is known as the exponential object and is written as  there are other common notational differences as well for example apply is often called eval even though in computer science these are not the same thing with eval distinguished from apply as being the evaluation of the quoted string form of a function with its arguments rather than the application of a function to some arguments
+also in category theory curry is commonly denoted by  so that is written for curry(g) this notation is in conflict with the use of in lambda calculus where lambda is used to denote free variables with all of these notational changes accounted for the adjointness of apply and curry is then expressed in the commuting diagram
+the articles on exponential object and cartesian closed category provide a more precise discussion of the category-theoretic formulation of this idea thus use of lambda here is not accidental cartesian-closed categories provide the general natural setting for lambda calculus
+== topological properties ==
+in order theory in the category of complete partial orders endowed with the scott topology both curry and apply are continuous functions (that is they are scott continuous) this property helps establish the foundational validity of the study of the denotational semantics of computer programs
+== references ==
+^ harold abelson gerald jay sussman julie sussman structure and interpretation of computer programs (1996) mit press isbn 0-262-01153-0 see section 4.1 the metacircular evaluator
+^ http://www.boost.org/doc/libs/1_49_0/libs/bind/bind.html#with_functions
+^ non-essential built-in functions python library reference 8 february 2005 retrieved 19 may 2013
+^ apply tcl documentation 2006 retrieved 23 june 2014
+^ saunders mac lane category theory
+^ h.p barendregt the lambda calculus (1984) north-holland isbn 0-444-87508-5

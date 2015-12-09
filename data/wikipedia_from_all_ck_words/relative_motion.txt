@@ -1,0 +1,53 @@
+the relative velocity (also or ) is the velocity of an object or observer b in the rest frame of another object or observer a
+== classical mechanics ==
+=== in one dimension (non-relativistic) ===
+we begin with relative motion in the classical (or non-relativistic or the newtonian approximation) that all speeds are much less than the speed of light this limit is associated with the galilean transformation the figure shows a man on top of a train at the back edge at 1:00 pm he begins to walk forward at a walking speed of 10 km/hr (kilometers per hour) the train is moving at 40 km/hr the figure depicts the man and train at two different times first when the journey began and also one hour later at 2:00 pm the figure suggests that the man is 50 km from the starting point after having traveled (by walking and by train) for one hour this by definition is 50 km/hour which suggests that the prescription for calculating relative velocity in this fashion is to add the two velocities
+the figure displays clocks and rulers to remind the reader that while the logic behind this calculation seem flawless it makes false assumptions about how clocks and rulers behave (see the train-and-platform thought experiment.) to recognize that this classical model of relative motion violates special relativity we generalize the example into an equation
+where
+is the velocity of the man relative to earth
+is the velocity of the man relative to the train
+is the velocity of the train relative to earth
+fully legitimate expressions for the velocity of a relative to b include the velocity of a with respect to b and the velocity of a in the coordinate system where b is always at rest the violation of special relativity occurs because this equation for relative velocity falsely predicts that different observers will measure different speeds when observing the motion of light
+=== in two dimensions (non-relativistic) ===
+the figure shows two objects (a and b) moving at constant velocity the equations of motion are
+where the subscript i refers to the initial displacement (at time t equal to zero) the difference between the two displacement vectors  represents the location of b as seen from a
+hence
+after making the substitutions and  we have
+though easy to learn this notation is unfortunately a bit cumbersome for lengthy calculations
+=== galilean transformation (non-relativistic) ===
+to construct a theory of relative motion consistent with the theory of special relativity we must adopt a different convention continuing to work in the (non-relativistic) newtonian limit we begin with a galilean transformation in one dimension
+where x is the position as seen by a reference frame that is moving at speed v in the unprimed (x) reference frame taking the differential of the first of the two equations above we have  and what may seem like the obvious statement that  we have
+to recover the previous expressions for relative velocity we assume that particle a is following the path defined by dx/dt in the unprimed reference (and hence dx'/dt in the primed frame) thus and  where and refer to motion of a as seen by an observer in the unprimed and primed frame respectively recall that v is the motion of a stationary object in the primed frame as seen from the unprimed frame thus we have  and
+where the latter form has the desired (easily learned) symmetry
+== special relativity ==
+as in classical mechanics in special relativity the relative velocity is the velocity of an object or observer b in the rest frame of another object or observer a however unlike the case of classical mechanics in special relativity it is generally not the case that
+this peculiar lack of symmetry is related to thomas precession and the fact that two successive lorentz transformations rotate the coordinate system this rotation has no effect on the magnitude of a vector and hence relative speed is symmetrical
+=== parallel velocities ===
+in the case where two objects are traveling in parallel directions the relativistic formula for relative velocity is similar in form to the formula for addition of relativistic velocities
+the relative speed is given by the formula
+=== perpendicular velocities ===
+in the case where two objects are traveling in perpendicular directions the relativistic relative velocity is given by the formula
+where
+the relative speed is given by the formula
+=== general case ===
+the general formula for the relative velocity of an object or observer b in the rest frame of another object or observer a is given by the formula
+where
+the relative speed is given by the formula
+see also
+special relativity - composition of velocities (wikipedia)
+velocity-addition formula (wikipedia)
+wikiversity special relativity (wikiversity)
+== notes ==
+== references ==
+alonso & finn fundamental university physics isbn 0-201-56518-8
+greenwood donald t principles of dynamics
+goodman and warner dynamics
+beer and johnston statics and dynamics
+mcgraw hill dictionary of physics and mathematics
+rindler w. essential relativity
+khurmi r.s. mechanics engineering mechanics statics dynamics
+== external links ==
+relative motion at hyperphysics
+a java applet illustrating relative velocity by andrew duffy
+relatv mozgs (1)...(3) relative motion of two train (1)...(3) videos on the portal fizkapu (hungarian)
+sebessgek sszegzse relative tranquility of trout in creek video on the portal fizkapu (hungarian)

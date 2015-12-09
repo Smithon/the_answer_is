@@ -1,0 +1,64 @@
+in mathematics a foliation is a geometric tool for understanding manifolds the leaves of a foliation consist of integrable subbundles of the tangent bundle foliating a manifold may split it up into pieces that interact simply a foliation looks locally like a decomposition of the manifold as a union of parallel submanifolds of smaller dimension
+== definitionedit ==
+more formally a dimension p foliation f of an n-dimensional manifold m is a covering by charts ui together with maps
+such that for overlapping pairs ui uj the transition functions ij  rn rn defined by
+take the form
+where x denotes the first n p coordinates and y denotes the last p co-ordinates that is
+in the chart ui the stripes x = constant match up with the stripes on other charts uj technically these stripes are called plaques of the foliation in each chart the plaques are p dimensional submanifolds these submanifolds piece together from chart to chart to form maximal connected injectively immersed submanifolds called the leaves of the foliation
+the notion of leaves allows for a more intuitive way of thinking about a foliation a p-dimensional foliation of an n-manifold m may be thought of as simply a collection {ma} of pairwise-disjoint connected immersed p-dimensional submanifolds (the leaves of the foliation) of m such that for every point x in m there is a chart with u homeomorphic to rn containing x such that every leaf ma meets u in either the empty set or a countable collection of subspaces whose images under in are p-dimensional affine subspaces whose first n p coordinates are constant
+if we shrink the chart ui it can be written as uix uiy where uix rnp uiy rp uiy is homeomorphic to the plaques and the points of uix parametrize the plaques in ui if we pick y0 in uiy then uix {y0} is a submanifold of ui that intersects every plaque exactly once this is called a local transversal section of the foliation note that due to monodromy global transversal sections of the foliation might not exist
+== examplesedit ==
+=== flat spaceedit ===
+consider an n-dimensional space foliated as a product by subspaces consisting of points whose first n p coordinates are constant this can be covered with a single chart the statement is essentially that rn = rnp rp with the leaves or plaques rp being enumerated by rnp the analogy is seen directly in three dimensions by taking n = 3 and p = 2 the 2-dimensional leaves of a book are enumerated by a (1-dimensional) page number
+=== bundlesedit ===
+a rather trivial example of foliations are products m = b f foliated by the leaves fb = {b} f b b (another foliation of m is given by bf = b {f }  f f.)
+a more general class are flat g-bundles with g = homeo(f) for a manifold f given a representation  1(b) homeo(f) the flat homeo(f)-bundle with monodromy is given by  where 1(b) acts on the universal cover by deck transformations and on f by means of the representation 
+flat bundles fit into the framework of fiber bundles a map  m b between manifolds is a fiber bundle if there is a manifold f such that each b b has an open neighborhood u such that there is a homeomorphism with  with p1  u f u projection to the first factor the fiber bundle yields a foliation by fibers  its space of leaves l is homeomorphic to b in particular l is a hausdorff manifold
+=== coversedit ===
+if m n is a covering between manifolds and f is a foliation on n then it pulls back to a foliation on m more generally if the map is merely a branched covering where the branch locus is transverse to the foliation then the foliation can be pulled back
+=== submersionsedit ===
+if mn nq (q n) is a submersion of manifolds it follows from the inverse function theorem that the connected components of the fibers of the submersion define a codimension q foliation of m fiber bundles are an example of this type
+an example of a submersion which is not a fiber bundle is given by
+this submersion yields a foliation of [1 1] r which is invariant under the z-actions given by
+for (x y) [1 1] r and z z the induced foliations of z\([1 1] r) are called the 2-dimensional reeb foliation (of the annulus) resp the 2-dimensional nonorientable reeb foliation (of the mbius band) their leaf spaces are not hausdorff
+=== reeb foliationsedit ===
+define a submersion
+where (r ) [0 1] sn1 are cylindrical coordinates on the n-dimensional disk dn this submersion yields a foliation of dn r which is invariant under the z-actions given by
+for (x y) dn r z z the induced foliation of z\(dn r) is called the n-dimensional reeb foliation its leaf space is not hausdorff
+for n = 2 this gives a foliation of the solid torus which can be used to define the reeb foliation of the 3-sphere by gluing two solid tori along their boundary foliations of odd-dimensional spheres s2n+1 are also explicitly known
+=== lie groupsedit ===
+if g is a lie group and h is a lie subgroup then g is foliated by cosets of h when h is closed in g the quotient space g/h is a smooth (hausdorff) manifold turning g into a fiber bundle with fiber h and base g/h this fiber bundle is actually principal with structure group h
+=== lie group actionsedit ===
+let g be a lie group acting smoothly on a manifold m if the action is a locally free action or free action then the orbits of g define a foliation of m
+=== kronecker foliationedit ===
+the set of lines on the torus t = r2/z2 with the same slope forms a foliation the leaves are obtained by projecting straight lines of slope in the plane r2 onto the torus if the slope is rational then all leaves are closed curves homeomorphic to the circle while if it is irrational the leaves are noncompact homeomorphic to the real line and dense in the torus (cf irrational rotation) the irrational case is known as the kronecker foliation after leopold kronecker a similar construction using a foliation of rn by parallel lines yields a 1-dimensional foliation of the n-torus rn/zn associated with the linear flow on the torus
+=== suspension foliationsedit ===
+a flat bundle has not only its foliation by fibres but also a foliation transverse to the fibers whose leaves are
+where is the canonical projection this foliation is called the suspension of the representation  1(b) homeo(f)
+in particular if b = s1 and is a homeomorphism of f then the suspension foliation of is defined to be the suspension foliation of the representation  z homeo(f) given by (z) = z its space of leaves is l = f/~ where x ~ y whenever y = n(x) for some n z
+the kronecker foliations of the 2-torus are the suspension foliations of the rotations r  s1 s1 by angle [0 2)
+== foliations and integrabilityedit ==
+there is a close relationship assuming everything is smooth with vector fields given a vector field x on m that is never zero its integral curves will give a 1-dimensional foliation (i.e a codimension n 1 foliation)
+this observation generalises to the frobenius theorem saying that the necessary and sufficient conditions for a distribution (i.e an n p dimensional subbundle of the tangent bundle of a manifold) to be tangent to the leaves of a foliation is that the set of vector fields tangent to the distribution are closed under lie bracket one can also phrase this differently as a question of reduction of the structure group of the tangent bundle from gl(n) to a reducible subgroup
+the conditions in the frobenius theorem appear as integrability conditions and the assertion is that if those are fulfilled the reduction can take place because local transition functions with the required block structure exist for example in the codimension 1 case we can define the tangent bundle of the foliation as ker() for some (non-canonical) 1 (i.e a non-zero co-vector field) a given is integrable iff d = 0 everywhere
+there is a global foliation theory because topological constraints exist for example in the surface case an everywhere non-zero vector field can exist on an orientable compact surface only for the torus this is a consequence of the poincarhopf index theorem which shows the euler characteristic will have to be 0 there are many deep connections with contact topology which is the opposite concept
+== existence of foliationsedit ==
+haefliger (1970) gave a necessary and sufficient condition for a distribution on a connected non-compact manifold to be homotopic to an integrable distribution thurston (1974 1976) showed that any compact manifold with a distribution has a foliation of the same dimension
+== see alsoedit ==
+g-structure
+classifying space for foliations
+haefliger structure a generalization of foliations closed under taking pullbacks
+lamination
+reeb foliation of the 3-sphere
+taut foliation
+== referencesedit ==
+general
+anosov d.v (2001) foliation in hazewinkel michiel encyclopedia of mathematics springer isbn 978-1-55608-010-4
+haefliger andr (1970) feuilletages sur les varits ouvertes topology an international journal of mathematics 9 (2) 183194 doi:10.1016/0040-9383(70)90040-6 issn 0040-9383 mr 0263104
+lawson h blaine (1974) foliations bulletin of the american mathematical society 80 (3) 369418 doi:10.1090/s0002-9904-1974-13432-4 issn 0002-9904 mr 0343289
+moerdijk ieke mrun j (2003) introduction to foliations and lie groupoids cambridge studies in advanced mathematics 91 cambridge university press isbn 978-0-521-83197-0 mr 2012261
+reeb georges (1952) sur certaines proprits topologiques des varits feuilletes actualits sci ind. no 1183 hermann & cie. paris mr 0055692
+thurston william (1974) the theory of foliations of codimension greater than one commentarii mathematici helvetici 49 214231 doi:10.1007/bf02566730 issn 0010-2571 mr 0370619
+thurston william p (1976) existence of codimension-one foliations annals of mathematics second series (annals of mathematics) 104 (2) 249268 doi:10.2307/1971047 issn 0003-486x jstor 1971047 mr 0425985
+== external linksedit ==
+foliations at the manifold atlas

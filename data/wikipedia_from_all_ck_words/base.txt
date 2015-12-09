@@ -1,0 +1,45 @@
+in mathematical modelling and statistical modelling there are dependent and independent variables the models investigate how the former depend on the latter the dependent variables represent the output or outcome whose variation is being studied the independent variables represent inputs or causes i.e potential reasons for variation models test or explain the effects that the independent variables have on the dependent variables sometimes independent variables may be included for other reasons such as for their potential confounding effect without a wish to test their effect directly
+== use ==
+=== mathematics ===
+in mathematics a function is a rule for taking an input (usually number or set of numbers) and providing an output (which is also usually a number) a symbol that stands for an arbitrary input is called an independent variable while a symbol that stands for an arbitrary output is called a dependent variable the most common symbol for the input is x and the most common symbol for the output is y the function itself is commonly written 
+it is possible to have multiple independent variables and/or multiple dependent variables for instance in multivariable calculus one often encounters functions of the form  where z is a dependent variable and x and y are independent variables functions with multiple outputs are often written as vector-valued functions
+in advanced mathematics a function between a set x and a set y is a subset of the cartesian product such that every element of x appears in an ordered pair with exactly one element of y in this situation a symbol representing an element of x may be called a dependent variable and a symbol representing an element of y may be called an independent variable such as when x is a manifold and the symbol x represents an arbitrary point in the manifold however many advanced textbooks do not distinguish between dependent and independent variables
+=== statistics ===
+in a statistics experiment the dependent variable is the event studied and expected to change whenever the independent variable is altered
+in data mining tools (for multivariate statistics and machine learning) the depending variable is assigned a role as target variable (or in some tools as label attribute) while a dependent variable may be assigned a role as regular variable known values for the target variable are provided for the training data set and test data set but should be predicted for other data the target variable is used in supervised learning algorithms but not in non-supervised learning
+=== modelling ===
+in mathematical modelling the dependent variable is studied to see if and how much it varies as the independent variables vary in the simple stochastic linear model the term is the i th value of the dependent variable and is i th value of the independent variable the term is known as the error and contains the variability of the dependent variable not explained by the independent variable
+with multiple independent variables the expression is  where n is the number of independent variables
+=== simulation ===
+in simulation the dependent variable is changed in response to changes in the independent variables
+== statistics synonyms ==
+an independent variable is also known as a predictor variable regressor controlled variable manipulated variable explanatory variable exposure variable (see reliability theory) risk factor (see medical statistics) feature (in machine learning and pattern recognition) or an input variable.
+a dependent variable is also known as a response variable regressand predicated variable measured variable explained variable experimental variable responding variable outcome variable and output variable
+explanatory variable is preferred by some authors over independent variable when the quantities treated as independent variables may not be statistically independent if the independent variable is referred to as an explanatory variable then the term response variable is preferred by some authors for the dependent variable
+explained variable is preferred by some authors over dependent variable when the quantities treated as dependent variables may not be statistically dependent if the dependent variable is referred to as an explained variable then the term predictor variable is preferred by some authors for the independent variable
+variables may also be referred to by their form continuous binary/dichotomous nominal categorical and ordinal categorical among others
+== other variables ==
+a variable may be thought to alter the dependent or independent variables but may not actually be the focus of the experiment so that variable will be kept constant or monitored to try to minimise its effect on the experiment such variables may be designated as either a controlled variable  control variable or extraneous variable
+extraneous variables if included in a regression as independent variables may aid a researcher with accurate response parameter estimation prediction and goodness of fit but are not of substantive interest to the hypothesis under examination for example in a study examining the effect of post-secondary education on lifetime earnings some extraneous variables might be gender ethnicity social class genetics intelligence age and so forth a variable is extraneous only when it can be assumed (or shown) to influence the dependent variable if included in a regression it can improve the fit of the model if it is excluded from the regression and if it has a non-zero covariance with one or more of the independent variables of interest its omission will bias the regression's result for the effect of that independent variable of interest this effect is called confounding or omitted variable bias in these situations design changes and/or statistical control is necessary
+extraneous variables are often classified into three types
+subject variables which are the characteristics of the individuals being studied that might affect their actions these variables include age gender health status mood background etc
+blocking variables or experimental variables are characteristics of the persons conducting the experiment which might influence how a person behaves gender the presence of racial discrimination language or other factors may qualify as such variables
+situational variables are features of the environment in which the study or research was conducted which have a bearing on the outcome of the experiment in a negative way included are the air temperature level of activity lighting and the time of day
+in quasi-experiments differentiating between dependent and other variables may be downplayed in favour of differentiating between those variables that can be altered by the researcher and those that cannot variables in quasi-experiments may be referred to as extraneous variables subject variables blocking variables situational variables pseudo-independent variables ex post facto variables natural group variables or non-manipulated variables
+in modelling variability that is not covered by the independent variable is designated by and is known as the residual side effect error unexplained share residual variable or tolerance
+== examples ==
+effects of vitamin c on life span
+in a study whether taking vitamin c pills daily make people live longer researchers will dictate the vitamin c intake of a group of people over time one part of the group will be given vitamin c pills daily the other part of the group will be given a placebo pill nobody in the group knows which part they are in the researchers will check the life span of the people in both groups here the dependent variable is the life span and the independent variable is a binary variable for the use or non-use of vitamin c
+effect of fertilizer on plant growth
+in a study measuring the influence of different quantities of fertilizer on plant growth the independent variable would be the amount of fertilizer used the dependent variable would be the growth in height or mass of the plant the controlled variables would be the type of plant the type of fertilizer the amount of sunlight the plant gets the size of the pots etc
+effect of drug dosage on symptom severity
+in a study of how different doses of a drug affect the severity of symptoms a researcher could compare the frequency and intensity of symptoms when different doses are administered here the independent variable is the dose and the dependent variable is the frequency/intensity of symptoms
+effect of temperature on pigmentation
+in measuring the amount of color removed from beetroot samples at different temperatures temperature is the independent variable and amount of pigment removed is the dependent variable
+effect of education on wealth
+in sociology in measuring the effect of education on income or wealth the dependent variable is level of income/wealth and the independent variable is the education level of the individual
+== see also ==
+abscissa
+ordinate
+blocking (statistics)
+== references ==

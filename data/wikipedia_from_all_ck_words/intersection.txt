@@ -1,0 +1,19 @@
+in mathematics the intersection of two or more objects is another usually smaller object all objects are presumed to lie in a certain common space except in set theory where the intersection of arbitrary sets is defined the intersection is one of basic concepts of geometry intuitively the intersection of two or more objects is a new object that lies in each of original objects an intersection can have various geometric shapes but a point is the most common in a plane geometry
+definitions vary in different contexts set theory formalizes the idea that a smaller object lies in a larger object with inclusion and the intersection of sets is formed of elements that belong to all intersecting sets it is always defined but may be empty incidence geometry defines an intersection (usually of flats) as an object of lower dimension that is incident to each of original objects in this approach an intersection can be sometimes undefined such as for parallel lines in both cases the concept of intersection relies on logical conjunction
+algebraic geometry defines intersections in its own way with the intersection theory
+== uniqueness ==
+there can be more than one primitive object such as points (pictured above) that form an intersection it can be understood ambiguously either the intersection is all of them (i.e the intersection operation result in a set possibly empty) or there are several intersection objects (possibly zero)
+== examples in classical geometry ==
+lineline intersection
+lineplane intersection
+linesphere intersection
+intersection of a polyhedron with a line
+line segment intersection
+intersection curve
+== notation ==
+intersection is denoted by the u+2229 intersection from unicode mathematical operators
+== see also ==
+constructive solid geometry boolean intersection is one of the ways of combining 2d/3d shapes
+meet (lattice theory)
+== references ==
+weisstein eric w. intersection mathworld

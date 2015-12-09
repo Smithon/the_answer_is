@@ -1,0 +1,13 @@
+in logic programming the well-founded semantics is one definition of how we can make conclusions from a set of logical rules in logic programming we give a computer a set of facts and a set of inference rules about how these facts relate there are several different ways that we might want the computer to apply these rules the well-founded semantics is one of these ways
+== history ==
+the well-founded semantics was defined by van gelder et al in a 1991 paper
+== relations to other models ==
+the well-founded semantics can be viewed as a three-valued version of the stable model semantics instead of only assigning propositions true or false it also allows for a value representing ignorance
+for example if we know that
+specimen a is a moth if specimen a does not fly during daylight
+but we do not know whether or not specimen a flies during the day the well-founded semantics would assign the proposition ``specimen a is a moth`` the value bottom which is neither true nor false
+== applications ==
+the well-founded semantics is also a way of making safe inferences in the presence of contradictory data such as noisy data or data acquired from different experts who may posit differing opinions many two-valued semantics simply won't consider such a problem state workable the well-founded semantics however has a built-in mechanism to circumvent the presence of the contradictions and proceeds in the best way that it can
+== complexity and algorithms ==
+the fastest known algorithm to compute the wf-semantics in general is of quadratic complexity
+== references ==

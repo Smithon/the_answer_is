@@ -1,0 +1,10 @@
+limiting any process by which a specified characteristic (usually amplitude) of the output of a device is prevented from exceeding a predetermined value
+limiting can refer to non-linear clipping in which a signal is passed through normally but sheared off when it would normally exceed a certain threshold it can also refer to a type of variable-gain audio level compression in which the gain of an amplifier is changed very quickly to prevent the signal from going over a certain amplitude
+hard limiting ("clipping") is a limiting action in which there is
+(a) over the permitted dynamic range negligible variation in the expected characteristic of the output signal and
+(b) a steady-state signal at the maximum permitted level for the duration of each period when the output would otherwise be required to exceed the permitted dynamic range in order to correspond to the transfer function of the device
+soft limiting is limiting in which the transfer function of a device is a function of its instantaneous or integrated output level the output waveform is therefore distorted but not clipped
+this article incorporates public domain material from the general services administration document federal standard 1037c (in support of mil-std-188)
+== see alsoedit ==
+dynamic range compression
+limiter

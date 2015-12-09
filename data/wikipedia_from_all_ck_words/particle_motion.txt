@@ -1,0 +1,14 @@
+the pitch angle of a charged particle is the angle between the particle's velocity vector and the local magnetic field this is a common measurement and topic when studying the magnetosphere magnetic mirrors ciconic cusps and polywells see aurora and ring current
+== usage particle motion ==
+it is customary to discuss the direction a particle is heading by its pitch angle a pitch angle of 0 degrees is a particle whose parallel motion is perfectly along the local magnetic field in the northern hemisphere this particle would be heading down toward the earth (and the opposite in the southern hemisphere) a pitch angle of 90 degrees is a particle that is locally mirroring (see magnetosphere particle motion)
+== special case equatorial pitch angle ==
+the equatorial pitch angle of a particle is the pitch angle of the particle at the earth's geomagnetic equator this angle defines the loss cone of a particle the loss cone is the set of angles where the particle will strike the atmosphere and no longer be trapped in the magnetosphere while particles with pitch angles outside the loss cone will continue to be trapped the loss cone is defined as the probability of particle loss from the magnetic bottle which is
+where is the solid angle we are concerned with is the equatorial pitch angle of the particle is the equatorial magnetic field strength and is the maximum field strength notice that this is independent of charge mass or kinetic energy
+the last line in the above derivation is due to the invariance of the invariance of the magnetic moment at the point of reflection
+thus
+== see also ==
+adiabatic invariant
+magnetic mirror
+== external links ==
+oulu space physics textbook
+image mission glossary

@@ -1,0 +1,40 @@
+as described by the third of newton's laws of motion of classical mechanics all forces occur in pairs such that if one object exerts a force on another object then the second object exerts an equal and opposite reaction force on the first the third law is also more generally stated as to every action there is always opposed an equal reaction or the mutual actions of two bodies upon each other are always equal and directed to contrary parts. the attribution of which of the two forces is the action and which is the reaction is arbitrary either of the two can be considered the action while the other is its associated reaction
+== examplesedit ==
+=== interaction with groundedit ===
+when something is exerting force on the ground the ground will push back with equal force in the opposite direction in certain fields of applied physics such as biomechanics this force by the ground is called ground reaction force the force by the object on the ground is viewed as the action
+when someone wants to jump he or she exerts additional downward force on the ground ('action') simultaneously the ground exerts upward force on the person ('reaction') if this upward force is greater than the person's weight this will result in upward acceleration when these forces are perpendicular to the ground they are also called a normal force
+likewise the spinning wheels of a vehicle attempt to slide backward across the ground if the ground is not too slippery this results in a pair of friction forces the action by the wheel on the ground in backward direction and the reaction by the ground on the wheel in forward direction this forward force propels the vehicle
+=== gravitational forcesedit ===
+the earth orbits around the sun because the gravitational force exerted by the sun on the earth the action serves as the centripetal force that maintains the planet in the neighborhood of the sun simultaneously the earth exerts a gravitational attraction on the sun the reaction which has the same amplitude as the action and an opposite direction (in this case pulling the sun towards the earth) since the sun's mass is very much larger than the earth's it does not appear to be reacting to the pull of the earth but in fact it does a correct way of describing the combined motion of both objects (ignoring all other celestial bodies for the moment) is to say that they both orbit around the center of mass of the combined system
+=== supported massedit ===
+any mass on earth is pulled down by the gravitational force of the earth this force is also called its weight the corresponding reaction is the gravitational force that mass exerts on the planet
+if the object is supported so that it remains at rest for instance by a cable from which it is hanging or by a surface underneath or by a liquid on which it is floating there is also a support force in upward direction (tension force normal force buoyant force respectively) this support force is an equal and opposite force we know this not because of newton's third law but because the object remains at rest so that the forces must be balanced
+to this support force there is also a reaction the object pulls down on the supporting cable or pushes down on the supporting surface or liquid in this case there are therefore four forces of equal magnitude
+f1 gravitational force by earth on object (downward)
+f2 gravitational force by object on earth (upward)
+f3 force by support on object (upward)
+f4 force by object on support (downward)
+forces f1 and f2 are equal because of newton's third law the same is true for forces f3 and f4 forces f1 and f3 are only equal if the object is in equilibrium and no other forces are applied this has nothing to do with newton's third law
+=== mass on a springedit ===
+if a mass is hanging from a spring the same considerations apply as before however if this system is then perturbed (e.g. the mass is given a slight kick upwards or downwards say) the mass starts to oscillate up and down because of these accelerations (and subsequent decelerations) we conclude from newton's second law that a net force is responsible for the observed change in velocity the gravitational force pulling down on the mass is no longer equal to the upward elastic force of the spring in the terminology of the previous section f1 and f3 are no longer equal
+however it is still true that f1 = f2 and f3 = f4 as this is required by newton's third law
+=== causal misinterpretationedit ===
+the terms action and reaction have the unfortunate suggestion of causality as if the action is the cause and reaction is the effect it is therefore easy to think of the second force as being there because of the first and even happening some time after the first this is incorrect the forces are perfectly simultaneous and are there for the same reason
+when the forces are caused by a person's volition (e.g a soccer player kicks a ball) this volitional cause often leads to an asymmetric interpretation where the force by the player on the ball is considered the action and the force by the ball on the player the reaction but physically the situation is symmetric the forces on ball and player are both explained by their nearness which results in a pair of contact forces (ultimately due to electric repulsion) that this nearness is caused by a decision of the player has no bearing on the physical analysis as far as the physics is concerned the labels action and reaction can be flipped
+=== equal and opposite'edit ===
+one problem frequently observed by physics educators is that students tend to apply newton's third law to pairs of equal and opposite forces acting on the same object this is incorrect the third law refers to forces on two different objects for example a book lying on a table is subject to a downward gravitational force (exerted by the earth) and to an upward normal force by the table since the book is not accelerating these forces must be exactly balanced according to newton's first or second law they are therefore equal and opposite however these forces are not always equally strong they will be different if the book is pushed down by a third force or if the table is slanted or if the table-and-book system is in an accelerating elevator the case of three or more forces is covered by considering the sum of all forces
+a possible cause of this problem is that the third law is often stated in an abbreviated form for every action there is an equal and opposite reaction without the details namely that these forces act on two different objects moreover there is a causal connection between the weight of something and the normal force if an object had no weight it would not experience support force from the table and the weight dictates how strong the support force will be this causal relationship is not due to the third law but to other physical relations in the system
+=== centripetal and centrifugal forceedit ===
+another common mistake is to state that
+the centrifugal force that an object experiences is the reaction to the centripetal force on that object
+if an object were simultaneously subject to both a centripetal force and an equal and opposite centrifugal force the resultant force would vanish and the object could not experience a circular motion the centrifugal force is sometimes called a fictitious force or pseudo force to underscore the fact that such a force only appears when calculations or measurements are conducted in non-inertial reference frames
+== see alsoedit ==
+ground reaction force
+reactive centrifugal force
+isaac newton
+ibn bajjah
+reaction engine/jet engine
+== referencesedit ==
+feynman r p. leighton and sands (1970) the feynman lectures on physics volume 1 addison wesley longman isbn 0-201-02115-3
+resnick r and d halliday (1966) physics part 1 john wiley & sons new york 646 pp + appendices
+warren j w (1965) the teaching of physics butterworths london,130 pp

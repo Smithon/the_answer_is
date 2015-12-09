@@ -1,0 +1,54 @@
+dew point is a measure of atmospheric moisture it is the temperature to which air must be cooled to reach saturation (assuming air pressure and moisture content are constant) a higher dew point indicates more moisture present in the air it is sometimes referred to as dew point temperature and sometimes written as one word (dewpoint) frost point is the dew point when temperatures are below freezing
+in simpler terms the dew point or frost point is the temperature at which dew or frost will form should the air temperature fall sufficiently other things being equal as the temperature falls the relative humidity rises reaching 100% at the dew point at least at ground level dew point temperature is never greater than the air temperature since the relative humidity cannot exceed 100%
+a technical definition follows the dew point is the temperature at which the water vapor in a sample of air at constant barometric pressure condenses into liquid water at the same rate at which it evaporates at temperatures below the dew point water will leave the air the condensed water is called dew when it forms on a solid surface the condensed water is called either fog or a cloud depending on its altitude when it forms in the air
+the dew point is the saturation temperature for water in air the dew point is associated with relative humidity a high relative humidity implies that the dew point is closer to the current air temperature relative humidity of 100% indicates the dew point is equal to the current temperature and that the air is maximally saturated with water when the moisture content remains constant and temperature increases relative humidity decreases
+general aviation pilots use dew point data to calculate the likelihood of carburetor icing and fog and to estimate the height of a cumuliform cloud base
+at a given temperature but independent of barometric pressure the dew point is a consequence of the absolute humidity the mass of water per unit volume of air if both the temperature and pressure rise however the dew point will increase and the relative humidity will decrease accordingly reducing the absolute humidity without changing other variables will bring the dew point back down to its initial value in the same way increasing the absolute humidity after a temperature drop brings the dew point back down to its initial level if the temperature rises in conditions of constant pressure then the dew point will remain constant but the relative humidity will drop for this reason a constant relative humidity (%) with different temperatures implies that when it's hotter a higher fraction of the air is water vapor than when it's cooler
+at a given barometric pressure but independent of temperature the dew point indicates the mole fraction of water vapor in the air or put differently determines the specific humidity of the air if the pressure rises without changing this mole fraction the dew point will rise accordingly reducing the mole fraction i.e. making the air less humid would bring the dew point back down to its initial value in the same way increasing the mole fraction after a pressure drop brings the relative humidity back up to its initial level considering new york (33 ft elevation) and denver (5,280 ft elevation) for example this means that if the dew point and temperature in both cities are the same then the mass of water vapor per cubic meter of air will be the same but the mole fraction of water vapor in the air will be greater in denver
+== relationship to human comfort ==
+when the air temperature is high the body's thermoregulation uses evaporation of perspiration to cool down with the cooling effect directly related to how fast the perspiration evaporates the rate at which perspiration can evaporate depends on how much moisture is in the air and how much moisture the air can hold if the air is already saturated with moisture perspiration will not evaporate the body's cooling system will produce perspiration in an effort to keep the body at its normal temperature even when the rate it is producing sweat exceeds the evaporation rate so even without generating additional body heat by exercising one can become coated with sweat on humid days
+as the air surrounding one's body is warmed by body heat it will rise and be replaced with other air if air is moved away from one's body with a natural breeze or a fan sweat will evaporate faster making perspiration more effective at cooling the body the more unevaporated perspiration the greater the discomfort
+a wet bulb thermometer also uses evaporative cooling so it provides a good measure for use in evaluating comfort level
+discomfort also exists when the dew point is low (below around 30 c (22 f)) the drier air can cause skin to crack and become irritated more easily it will also dry out the respiratory paths osha recommends indoor air be maintained at 20 to 24.5 c (68.0 to 76.1 f) with a 20-60% relative humidity (a dew point of 4.5 to 15.5 c (23.9 to 59.9 f))
+lower dew points less than 10 c (50 f) correlate with lower ambient temperatures and the body requires less cooling a lower dew point can go along with a high temperature only at extremely low relative humidity (see graph below) allowing for relatively effective cooling
+those accustomed to continental climates often begin to feel uncomfortable when the dew point reaches between 15 and 20 c (59 and 68 f) most inhabitants of these areas will consider dew points above 21 c (70 f) oppressive
+== measurement ==
+devices called dew point meters are used to measure dew point over a wide range of temperatures these devices consist of a polished metal mirror which is cooled as air is passed over it the temperature at which dew forms is by definition the dew point manual devices of this sort can be used to calibrate other types of humidity sensors and automatic sensors may be used in a control loop with a humidifier or dehumidifier to control the dew point of the air in a building or in a smaller space for a manufacturing process
+== extreme values ==
+a dew point of 91 f (33 c) was observed at 2:00 p.m on july 12 1987 in melbourne florida a dew point of 90 f (32 c) has been observed in the united states on at least two occasions appleton wisconsin at 5:00 p.m on july 13 1995 and new orleans naval air station at 5:00 p.m on july 30 1987 a dew point of 95 f (35 c) was observed at dhahran saudi arabia at 3:00 p.m on july 8 2003 dew points this high are extremely rare occurrences
+== calculating the dew point ==
+a well-known approximation used to calculate the dew point tdp given just the actual ("dry bulb") air temperature t (in degrees celsius) and relative humidity (in percent) rh is the magnus formula
+the more complete formulation and origin of this approximation involves the interrelated saturated water vapor pressure (in units of millibar which is also hpa) at t ps(t) and the actual vapor pressure (also in units of millibar) pa(t) which can be either found with rh or approximated with the barometric pressure (in millibar units) bpmb and wet-bulb temperature tw is
+note unless declared otherwise all temperatures are expressed in degrees celsius
+for greater accuracy ps(t) (and therefore (t,rh)) can be enhanced using part of the bgel modification also known as the arden buck equation which adds a fourth d constant
+(where )
+there are several different constant sets in use the ones used in noaa's presentation are taken from a 1980 paper by david bolton in the monthly weather review
+these valuations provide a maximum error of 0.1% for
+-30c t +35c
+1% < rh < 100%
+also noteworthy is the sonntag1990
+another common set of values originates from the 1974 psychrometry and psychrometric charts as presented by paroscientific
+also in the journal of applied meteorology and climatology arden buck presents several different valuation sets with different minimum accuracies for different temperature ranges two particular sets provide a range of -40 c +50 c between the two with even greater minimum accuracy than all of the other above sets (maximum error at given |c| extreme)
+=== simple approximation ===
+there is also a very simple approximation that allows conversion between the dew point temperature and relative humidity this approach is accurate to within about 1 c as long as the relative humidity is above 50%
+and
+this can be expressed as a simple rule of thumb
+for every 1c difference in the dew point and dry bulb temperatures the relative humidity decreases by 5% starting with rh = 100% when the dew point equals the dry bulb temperature
+the derivation of this approach a discussion of its accuracy comparisons to other approximations and more information on the history and applications of the dew point are given in the bulletin of the american meteorological society
+for temperatures in degrees fahrenheit these approximations work out to
+and
+for example a relative humidity of 100% means dew point is the same as air temp for 90% rh dew point is 3 degrees fahrenheit lower than air temp for every 10 percent lower dew point drops 3 f
+== frost point ==
+the frost point is similar to the dew point in that it is the temperature to which a given parcel of humid air must be cooled at constant barometric pressure for water vapor to be deposited on a surface as ice without going through the liquid phase (compare with sublimation.) the frost point for a given parcel of air is always higher than the dew point as the stronger bonding between water molecules on the surface of ice requires higher temperature to break
+== see also ==
+bubble point
+carburetor heat
+hydrocarbon dew point
+psychrometrics
+relative humidity
+thermodynamic diagrams
+vapor pressure
+== references ==
+== external links ==
+dew point definition noaa glossary
+often needed answers about temp humidity & dew point from the sci.geo.meteorology

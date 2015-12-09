@@ -1,0 +1,94 @@
+data structur align way data arrang access comput memori consist two separ relat issu data align data structur pad modern comput read write memori address word size chunk eg byte chunk bit system larger data align mean put data memori address equal multipl word size increas system perform due way cpu handl memori align data may necessari insert meaningless byte end last data structur start next data structur pad
+exampl comput word size byte byte mean bit machin could differ system data read memori address multipl case eg data start address instead comput read two byte chunk calcul request data read may generat align fault even though previous data structur end address next data structur start address two pad byte insert two data structur address align next data structur address
+although data structur align fundament issu modern comput mani comput languag comput languag implement handl data align automat ada pli certain c c implement d assembl languag allow least partial control data structur pad may use certain special circumst
+definit
+memori address said nbyte align multipl n byte n power context byte smallest unit memori access ie memori address specifi differ byte nbyte align address would logn leastsignific zero express binari
+altern word bbit align design b byte align address ex bit align byte align
+memori access said align datum access n byte long datum address nbyte align memori access align said misalign note definit byte memori access alway align
+memori pointer refer primit data n byte long said align allow contain address nbyte align otherwis said unalign memori pointer refer data aggreg data structur array align primit datum aggreg align
+note definit assum primit datum power two byte long case bit floatingpoint x context influenc condit datum consid align
+data structur store memori stack static size known bound heap dynam size known unbound
+problem
+comput access memori singl memori word time long memori word size least larg largest primit data type support comput align access alway access singl memori word may true misalign data access
+highest lowest byte datum within memori word comput must split datum access multipl memori access requir lot complex circuitri generat memori access coordin handl case memori word differ memori page processor must either verifi page present execut instruct abl handl tlb miss page fault memori access instruct execut
+singl memori word access oper atom ie whole memori word read written devic must wait read write oper complet access may true unalign access multipl memori word eg first word might read one devic word written anoth devic second word read first devic valu read neither origin valu updat valu although failur rare difficult identifi
+architectur
+risc
+risc processor generat align fault load store instruct access misalign address allow oper system emul misalign access use instruct exampl align fault handler might use byte load store alway align emul larger load store instruct
+architectur like mip special unalign load store instruct one unalign load instruct get byte memori word lowest byte address anoth get byte memori word highest byte address similar storehigh storelow instruct store appropri byte higher lower memori word respect
+alpha architectur twostep approach unalign load store first step load upper lower memori word separ regist second step extract modifi memori word use special lowhigh instruct similar mip instruct unalign store complet store modifi memori word back memori reason complex origin alpha architectur could read write bit bit valu prove sever limit often led code bloat poor perform address limit extens call byte word extens bwx ad origin architectur consist instruct byte word load store
+instruct larger slower normal memori load store instruct use necessari c c compil unalign attribut appli pointer need unalign instruct
+x
+x architectur origin requir align memori access still work without sse instruct x cpus requir data bit byte align substanti perform advantag use align data architectur howev also instruct unalign access movdqu furthermor load store oper general atom proper align
+compat
+advantag support unalign access easier write compil need align memori expens cost slower access one way increas perform risc processor design maxim raw perform requir data load store natur boundari data though memori common address bit byte load bit integ would requir start everi bit bit machin load bit integ float point number would requir start everi bit bit machin processor could flag fault ask load number boundari would result slower call routin would need figur word word contain data extract equival valu
+data structur pad
+although compil interpret normal alloc individu data item align boundari data structur often member differ align requir maintain proper align translat normal insert addit unnam data member member proper align addit data structur whole may pad final unnam member allow member array structur proper align
+pad insert structur member follow member larger align requir end structur chang order member structur possibl chang amount pad requir maintain align exampl member sort descend align requir minim amount pad requir minim amount pad requir alway less largest align structur comput maximum amount pad requir complic alway less sum align requir member minus twice sum align requir least align half structur member
+although c c allow compil reorder structur member save space languag might also possibl tell c c compil pack member structur certain level align eg pack mean align data member larger byte twobyt boundari pad member one byte long
+one use pack structur conserv memori exampl structur contain singl byte fourbyt integ would requir three addit byte pad larg array structur would use less memori pack although access structur might take longer compromis may consid form spacetim tradeoff
+although use pack structur frequent use conserv memori space may also use format data structur transmiss use standard protocol howev usag care must also taken ensur valu struct member store endian requir protocol often network byte order may differ endian use nativ host machin
+comput pad
+follow formula provid number pad byte requir align start data structur mod modulo oper
+pseudocod see actual code
+pad align offset mod align mod align
+new offset offset pad offset align offset mod align mod align
+exampl pad add offset xd structur align everi byte structur start xa multipl note offset alreadi multipl align second modulo align offset mod align mod align requir get pad
+sinc align definit power two modulo oper reduc bitwis boolean oper follow formula provid new offset bitwis bitwis
+pad align offset align offset align
+new offset offset align align
+typic align c struct x
+data structur member store sequenti memori structur member data alway preced data data alway preced data
+type short store two byte memori member data structur depict would byte align data would offset data offset data offset size structur would byte
+type member structur usual default align mean unless otherwis request programm align predetermin boundari follow typic align valid compil microsoft visual c borlandcodegear cbuilder digit mar dmc gnu gcc compil bit x
+char one byte byte align
+short two byte byte align
+int four byte byte align
+long four byte byte align
+float four byte byte align
+doubl eight byte byte align window byte align linux byte maligndoubl compil time option
+long long eight byte byte align
+long doubl ten byte cbuilder dmc eight byte visual c twelv byte gcc byte align cbuilder byte align dmc byte align visual c byte align gcc
+pointer four byte byte align eg char int
+notabl differ align lp bit system compar bit system
+long eight byte byte align
+doubl eight byte byte align
+long doubl eight byte visual c sixteen byte gcc byte align visual c byte align gcc
+pointer eight byte byte align
+data type depend implement
+structur member various type total byte compil
+compil data structur supplement pad byte ensur proper align member
+compil size structur byte import note last member pad number byte requir total size structur multipl largest align structur member alignmentint case linuxbitgcc
+case byte ad last member pad structur size byte alignmentint
+exampl total size structur sizeoffinalpad size multipl align float
+exampl total size structur sizeoffinalpadshort either size multipl alignmentshort linuxbitgcc
+possibl chang align structur reduc memori requir conform exist format reorder structur member chang compil align pack structur member
+compil size structur match precompil size byte note pad replac thus elimin data pad longer necessari structur alreadi align size long word
+altern method enforc mixeddata structur align one byte boundari caus preprocessor discard predetermin align structur member thus pad byte would insert
+standard way defin align structur member compil use pragma direct specifi pack insid sourc file exampl
+structur would compil size byte bit system direct avail compil microsoft borland gnu mani other
+anoth exampl
+default pack pragma pack
+microsoft compil particular risc processor unexpect relationship project default pack zp direct pragma pack direct pragma pack direct use reduc pack size structur project default pack lead interoper problem librari header use exampl pragma pack project pack smaller reason set project pack valu default byte would break pragma pack direct use librari header result binari incompat structur limit present compil x
+alloc memori align cach line
+would benefici alloc memori align cach line array partit one thread oper subarray boundari unalign cach line could lead perform degrad exampl alloc memori doubl array size align cach byte
+hardwar signific align requir
+align concern affect area much larger c structur purpos effici map area hardwar address translat mechan pci remap oper mmu
+instanc bit oper system kb page arbitrari kb chunk data instead usual region memori that align kb boundari align page pages boundari let hardwar map virtual address physic address substitut higher bit address rather complex arithmet
+exampl assum tlb map virtual address xcfc physic address x note address align kb boundari access data locat virtual address vaxcfcabc caus tlb resolut xcfc x issu physic access paxabc bit split luckili match hexadecim represent split digit hardwar implement translat simpli combin first bit physic address x last bit virtual address xabc also refer virtual index abc physic tag
+block data size n alway one subblock size n align n byte
+dynam alloc knowledg align use provid align buffer price factor two data loss
+see also
+stride array
+type pun
+refer
+read
+bryant randal e david ohallaron comput system programm perspect ed upper saddl river nj pearson educ isbn x
+extern link
+ibm developerwork articl data align
+msdn articl data align
+articl data align data portabl
+byte align order
+intel itanium architectur softwar develop manual
+data align migrat bit intel architectur
+powerpc microprocessor famili program environ bit microprocessor

@@ -1,0 +1,220 @@
+mathemat group algebra structur consist set element togeth oper combin two element form third element oper satisfi four condit call group axiom name closur associ ident invert one familiar exampl group set integ togeth addit oper abstract formal group axiom detach concret natur particular group oper appli much wide allow entiti high divers mathemat origin abstract algebra beyond handl flexibl way retain essenti structur aspect ubiqu group numer area within outsid mathemat make central organ principl contemporari mathemat
+group share fundament kinship notion symmetri exampl symmetri group encod symmetri featur geometr object group consist set transform leav object unchang oper combin two transform perform one lie group symmetri group use standard model particl physic point group use help understand symmetri phenomena molecular chemistri poincar group express physic symmetri under special relat
+concept group aros studi polynomi equat start varist galoi contribut field number theori geometri group notion general firm establish around modern group theoryan activ mathemat disciplinestudi group right explor group mathematician devis various notion break group smaller betterunderstand piec subgroup quotient group simpl group addit abstract properti group theorist also studi differ way group express concret group represent theoret comput point view theori develop finit group culmin classif finit simpl group announc sinc mid geometr group theori studi finit generat group geometr object becom particular activ area group theori
+definit illustrationedit
+first exampl integersedit
+one familiar group set integ z consist number
+togeth addit
+follow properti integ addit serv model abstract group axiom given definit
+two integ b sum b also integ thus ad two integ never yield type number fraction properti known closur addit
+integ b c b c b c express word ad b first ad result c give final result ad sum b c properti known associ
+integ zero call ident element addit ad integ return integ
+everi integ integ b b b integ b call invers element integ denot
+integ togeth oper form mathemat object belong broad class share similar structur aspect appropri understand structur collect follow abstract definit develop
+definitionedit
+group set g togeth oper call group law g combin two element b form anoth element denot b ab qualifi group set oper g must satisfi four requir known group axiom
+closur
+b g result oper b also g
+associ
+b c g b c b c
+ident element
+exist element e g everi element g equat e e hold element uniqu see thus one speak ident element
+invers element
+g exist element b g b b e e ident element
+result oper may depend order operand word result combin element element b need yield result combin element b element equat
+b b
+may alway true equat alway hold group integ addit b b two integ commut addit group commut equat b b alway hold call abelian group honor niel abel symmetri group describ follow section exampl group abelian
+ident element group g often written g notat inherit multipl ident ident element may also written especi group oper denot case group call addit group ident element also written id
+set g call under set group g often group under set g use short name group g along line shorthand express subset group g element group g use actual meant subset under set g group g element under set g group g usual clear context whether symbol like g refer group under set
+second exampl symmetri groupedit
+two figur plane congruent one chang use combin rotat reflect translat figur congruent howev figur congruent one way extra congruenc call symmetri squar eight symmetri
+ident oper leav everyth unchang denot id
+rotat squar around center clockwis clockwis clockwis denot r r r respect
+reflect vertic horizont middl line fh fv two diagon fd fc
+symmetri repres function function send point squar correspond point symmetri exampl r send point rotat clockwis around squar center fh send point reflect across squar vertic middl line compos two symmetri function give anoth symmetri function symmetri determin group call dihedr group degre denot d under set group set symmetri function group oper function composit two symmetri combin compos function appli first one squar second one result first applic result perform first b written symbol right left
+b appli symmetri b perform symmetri
+righttoleft notat notat use composit function
+group tabl right list result composit possibl exampl rotat clockwis r reflect horizont fh perform reflect along diagon fd use symbol highlight blue group tabl
+fh r fd
+given set symmetri describ oper group axiom understood follow
+contrast group integ order oper irrelev matter d fh r fc r fh fd word d abelian make group structur difficult integ introduc first
+historyedit
+modern concept abstract group develop sever field mathemat origin motiv group theori quest solut polynomi equat degre higher thcenturi french mathematician varist galoi extend prior work paolo ruffini josephloui lagrang gave criterion solvabl particular polynomi equat term symmetri group root solut element galoi group correspond certain permut root first galoi idea reject contemporari publish posthum general permut group investig particular augustin loui cauchi arthur cayley theori group depend symbol equat n give first abstract definit finit group
+geometri second field group use systemat especi symmetri group part felix klein erlangen program novel geometri hyperbol project geometri emerg klein use group theori organ coher way advanc idea sophus lie found studi lie group
+third field contribut group theori number theori certain abelian group structur use implicit carl friedrich gauss numbertheoret work disquisition arithmetica explicit leopold kroneck ernst kummer made earli attempt prove fermat last theorem develop group describ factor prime number
+converg various sourc uniform theori group start camill jordan trait des substitut et des quation algbriqu walther von dyck introduc idea specifi group mean generat relat also first give axiomat definit abstract group terminolog time th centuri group gain wide recognit pioneer work ferdinand georg frobenius william burnsid work represent theori finit group richard brauer modular represent theori issai schur paper theori lie group general local compact group studi hermann weyl lie cartan mani other algebra counterpart theori algebra group first shape claud chevalley late later work armand borel jacqu tit
+univers chicago group theori year brought togeth group theorist daniel gorenstein john g thompson walter feit lay foundat collabor input numer mathematician classifi finit simpl group project exceed previous mathemat endeavour sheer size length proof number research research ongo simplifi proof classif day group theori still high activ mathemat branch impact mani field
+elementari consequ group axiomsedit
+basic fact group obtain direct group axiom common subsum elementari group theori exampl repeat applic associ axiom show unambigu
+b c b c b c
+general three factor impli parenthes insert anywher within seri term parenthes usual omit
+axiom may weaken assert exist left ident left invers shown actual twosid result definit equival one given
+uniqu ident element inversesedit
+two import consequ group axiom uniqu ident element uniqu invers element one ident element group element group exact one invers element thus customari speak ident invers element
+prove uniqu invers element suppos two invers denot b c group g
+two extrem term b c equal sinc connect chain equal word one invers element similar prove ident element group uniqu assum g group two ident element e f e e f f henc e f equal
+divisionedit
+group invert group action mean divis possibl given element b group g exact one solut x g equat x b fact right multipl equat give solut x x b similar exact one solut y g equat y b name y b oper commut get x y x may differ y
+consequ multipli group element g biject specif g element group g biject g call left translat g send h g g h similar right translat g biject g send h h g g abelian left right translat group element
+basic conceptsedit
+understand group beyond level mere symbol manipul structur concept employ conceptu principl under follow notion take advantag structur offer group set structureless construct relat group compat group oper compat manifest follow notion various way exampl group relat via function call group homomorph mention principl requir respect group structur precis sens structur group also understood break piec call subgroup quotient group principl preserv structuresa recur topic mathemat throughouti instanc work categori case categori group
+group homomorphismsedit
+group homomorph function preserv group structur function g h two group g h call homomorph equat
+ag k ag ak
+hold element g k g word result perform group oper appli map requir ensur ag h also ag ag g g thus group homomorph respect structur g provid group axiom
+two group g h call isomorph exist group homomorph g h b h g appli two function one anoth two possibl order give ident function g h abh h bag g g g h h abstract point view isomorph group carri inform exampl prove g g g element g g equival prove ag ag h appli first equal yield second appli b second give back first
+subgroupsedit
+inform subgroup group h contain within bigger one g concret ident element g contain h whenev h h h h h h element h equip group oper g restrict h inde form group
+exampl ident rotat constitut subgroup r id r r r highlight red group tabl two rotat compos still rotat rotat undon ie invers complementari rotat note rotat opposit direct defin subgroup test necessari suffici condit subset h group g subgroup suffici check gh h element g h h know subgroup import understand group whole
+given subset group g subgroup generat consist product element invers smallest subgroup g contain introductori exampl subgroup generat r fv consist two element ident element id fh fv r subgroup combin two four element invers particular case element yield element subgroup
+cosetsedit
+mani situat desir consid two group element differ element given subgroup exampl d reflect perform squar never get back r configur appli rotat oper reflect ie rotat oper irrelev question whether reflect perform coset use formal insight subgroup h defin left right coset thought translat h arbitrari group element g symbol term left right coset h contain g
+gh g h h h hg h g h h respect
+coset subgroup h form partit g union left coset equal g two left coset either equal empti intersect first case gh gh happen precis g g h ie two element differ element h similar consider appli right coset h left right coset h may may equal ie g g gh hg h said normal subgroup
+d introductori symmetri group left coset gr subgroup r consist rotat either equal r g element r otherwis equal u fcr fc fv fd fh highlight green subgroup r also normal fcr u rfc similar element fc fact case d observ coset equal fhr fvr fdr fcr
+quotient groupsedit
+situat set coset subgroup endow group law give quotient group factor group possibl subgroup normal given normal subgroup n quotient group defin
+g n gn g g g modulo n
+set inherit group oper sometim call coset multipl coset addit origin group g gn hn ghn g h g definit motiv idea instanc general structur consider outlin map g g n associ element g coset gn group homomorph general abstract consider call univers properti coset en n serv ident group invers gn quotient group gn gn
+element quotient group d r r repres ident u fvr group oper quotient shown right exampl u u fvr fvr fv fvr r subgroup r id r r r well correspond quotient abelian wherea d abelian build bigger group smaller one d subgroup r quotient d r abstract notion call semidirect product
+quotient group subgroup togeth form way describ everi group present group quotient free group generat group quotient subgroup relat dihedr group d exampl generat two element r f exampl r r right rotat f fv vertic reflect mean everi symmetri squar finit composit two symmetri invers togeth relat
+r f r f
+group complet describ present group also use construct cayley graph devic use graphic captur discret group
+sub quotient group relat follow way subset h g seen inject map h g ie element target one element map counterpart inject map surject map everi element target map onto canon map g g n interpret subgroup quotient light homomorph emphas structur concept inher definit allud introduct general homomorph neither inject surject kernel imag group homomorph first isomorph theorem address phenomenon
+exampl applicationsedit
+exampl applic group abound start point group z integ addit group oper introduc instead addit multipl consid one obtain multipl group group predecessor import construct abstract algebra
+group also appli mani mathemat area mathemat object often examin associ group studi properti correspond group exampl henri poincar found call algebra topolog introduc fundament group mean connect topolog properti proxim continu translat properti group exampl element fundament group repres loop second imag right show loop plane minus point blue loop consid nullhomotop thus irrelev continu shrunk point presenc hole prevent orang loop shrunk point fundament group plane point delet turn infinit cyclic generat orang loop loop wind around hole way fundament group detect hole
+recent applic influenc also revers motiv geometr construct grouptheoret background similar vein geometr group theori employ geometr concept exampl studi hyperbol group branch crucial appli group includ algebra geometri number theori
+addit theoret applic mani practic applic group exist cryptographi reli combin abstract group theori approach togeth algorithm knowledg obtain comput group theori particular implement finit group applic group theori restrict mathemat scienc physic chemistri comput scienc benefit concept
+numbersedit
+mani number system integ ration enjoy natur given group structur case ration addit multipl oper give rise group structur number system predecessor general algebra structur known ring field abstract algebra concept modul vector space algebra also form group
+integersedit
+group integ z addit denot z describ integ oper multipl instead addit z form group closur associ ident axiom satisfi invers exist exampl integ solut equat b case b ration number integ henc everi element z multipl invers
+rationalsedit
+desir exist multipl invers suggest consid fraction
+fraction integ b nonzero known ration number set fraction common denot q still minor obstacl q ration multipl group ration number multipl invers ie x x q still group
+howev set nonzero ration number q q q q form abelian group multipl denot q associ ident element axiom follow properti integ closur requir still hold true remov zero product two nonzero ration never zero final invers ab ba therefor axiom invers element satisfi
+ration number includ also form group addit intertwin addit multipl oper yield complic structur call ring andif divis possibl qfield occupi central posit abstract algebra group theoret argument therefor underli part theori entiti
+modular arithmeticedit
+modular arithmet two integ ad sum divid posit integ call modulus result modular addit remaind divis modulus n set integ n form group modular addit invers element n ident element familiar addit hour face clock hour hand advanc hour end shown right express say equal modulo symbol
+modulo
+group integ modulo n written zn znz
+prime number p also multipl group integ modulo p element integ p group oper multipl modulo p usual product divid p remaind divis result modular multipl exampl p four group element group usual product equival divid yield remaind divid denot
+mod
+primal p ensur product two integ neither divis p divis p either henc indic set class close multipl ident element usual multipl group associ follow correspond properti integ final invers element axiom requir given integ divis p exist integ b
+b mod p ie p divid differ b
+invers b found use bzout ident fact greatest common divisor gcda p equal case p invers invers mod henc group axiom fulfil actual exampl similar q consist exact element zpz multipl invers group denot fp crucial publickey cryptographi
+cyclic groupsedit
+cyclic group group whose element power particular element multipl notat element group
+e
+mean stand etc element call generat primit element group addit notat requir element primit element group written
+aa aa
+group znz introduc element primit group cyclic inde element express sum whose term cyclic group n element isomorph group second exampl cyclic group group nth complex root uniti given complex number z satisfi zn number visual vertic regular ngon shown blue right n group oper multipl complex number pictur multipli z correspond counterclockwis rotat use field theori group fp shown cyclic exampl p generat sinc
+cyclic group infinit number element group everi nonzero element power distinct despit name cyclic group power element cycl infinit cyclic group isomorph z group integ addit introduc two prototyp abelian cyclic group
+studi finit generat abelian group quit matur includ fundament theorem finit generat abelian group reflect state affair mani grouprel notion center commut describ extent given group abelian
+symmetri groupsedit
+symmetri group group consist symmetri given mathemat objectsb geometr natur introductori symmetri group squar algebra natur polynomi equat solut conceptu group theori thought studi symmetri symmetri mathemat great simplifi studi geometr analyt object group said act anoth mathemat object x everi group element perform oper x compat group law rightmost exampl element order triangl group act tile permut highlight warp triangl one group action group pattern connect structur object act
+chemic field crystallographi space group point group describ molecular symmetri crystal symmetri symmetri underli chemic physic behavior system group theori enabl simplif quantum mechan analysi properti exampl group theori use show optic transit certain quantum level cannot occur simpli symmetri state involv
+group use assess implic symmetri molecul surpris also predict molecul sometim chang symmetri jahntel effect distort molecul high symmetri adopt particular ground state lower symmetri set possibl ground state relat symmetri oper molecul
+likewis group theori help predict chang physic properti occur materi undergo phase transit exampl cubic tetrahedr crystallin form exampl ferroelectr materi chang paraelectr ferroelectr state occur curi temperatur relat chang highsymmetri paraelectr state lower symmetri ferroelect state accompani socal soft phonon mode vibrat lattic mode goe zero frequenc transit
+spontan symmetri break found applic elementari particl physic occurr relat appear goldston boson
+finit symmetri group mathieu group use code theori turn appli error correct transmit data cd player anoth applic differenti galoi theori character function antideriv prescrib form give grouptheoret criteria solut certain differenti equat wellbehav geometr properti remain stabl group action investig geometr invari theori
+general linear group represent theoryedit
+matrix group consist matric togeth matrix multipl general linear group gln r consist invert nbyn matric real entri subgroup refer matrix group linear group dihedr group exampl mention view small matrix group anoth import matrix group special orthogon group son describ possibl rotat n dimens via euler angl rotat matric use comput graphic
+represent theori applic group concept import deeper understand group studi group group action space broad class group represent linear represent ie group act vector space threedimension euclidean space r represent g ndimension real vector space simpli group homomorph
+g gln r
+group general linear group way group oper may abstract given translat multipl matric make access explicit comput
+given group action give mean studi object act hand also yield inform group group represent organ principl theori finit group lie group algebra group topolog group especi local compact group
+galoi groupsedit
+galoi group develop help solv polynomi equat captur symmetri featur exampl solut quadrat equat ax bx c given
+exchang express ie permut two solut equat view simpl group oper similar formula known cubic quartic equat exist general degre higher abstract properti galoi group associ polynomi particular solvabl give criterion polynomi solut express radic ie solut express use sole addit multipl root similar formula
+problem dealt shift field theori consid split field polynomi modern galoi theori general type galoi group field extens establishesvia fundament theorem galoi theorya precis relationship field group underlin ubiqu group mathemat
+finit groupsedit
+group call finit finit number element number element call order group import class symmetr group sn group permut n letter exampl symmetr group letter group consist possibl order three letter abc ie contain element abc acb cba total factori element class fundament insofar finit group express subgroup symmetr group sn suitabl integ n cayley theorem parallel group symmetri squar also interpret group symmetri equilater triangl
+order element group g least posit integ n n e n repres
+ie applic oper n copi repres multipl correspond nth power infinit group n may exist case order said infin order element equal order cyclic subgroup generat element
+sophist count techniqu exampl count coset yield precis statement finit group lagrang theorem state finit group g order finit subgroup h divid order g sylow theorem give partial convers
+dihedr group discuss finit group order order r order subgroup r generat see order reflect element fv etc order divid predict lagrang theorem group fp order p
+classif finit simpl groupsedit
+mathematician often strive complet classif list mathemat notion context finit group aim lead difficult mathemat accord lagrang theorem finit group order p prime number necessarili cyclic abelian group zp group order p also shown abelian statement general order p nonabelian group d order show comput algebra system use list small group classif finit group intermedi step classif finit simpl group nontrivi group call simpl normal subgroup trivial group group jordanhld theorem exhibit finit simpl group build block finit group list finit simpl group major achiev contemporari group theori field medal winner richard borcherd succeed prove monstrous moonshin conjectur surpris deep relat largest finit simpl sporad groupth monster groupwith certain modular function piec classic complex analysi string theori theori suppos unifi descript mani physic phenomena
+group addit structureedit
+mani group simultan group exampl mathemat structur languag categori theori group object categori mean object exampl anoth mathemat structur come transform call morphism mimic group axiom exampl everi group defin also set group group object categori set
+topolog groupsedit
+topolog space may endow group law order group law topolog interweav well group oper must continu function g h g must vari wild g h vari littl group call topolog group group object categori topolog space basic exampl real r addit r similar topolog field complex number padic number group local compact haar measur studi via harmon analysi former offer abstract formal invari integr invari mean case real number exampl
+constant c matrix group field fall regim adel ring adel algebra group basic number theori galoi group infinit field extens absolut galoi group also equip topolog socal krull topolog turn central general sketch connect field group infinit field extens advanc general idea adapt need algebra geometri tale fundament group
+lie groupsedit
+lie group honor sophus lie group also manifold structur ie space look local like euclidean space appropri dimens addit structur manifold structur compat ie map correspond multipl invers smooth
+standard exampl general linear group introduc open subset space nbyn matric given inequ
+det
+denot nbyn matrix
+lie group fundament import modern physic noether theorem link continu symmetri conserv quantiti rotat well translat space time basic symmetri law mechan instanc use construct simpl modelsimpos say axial symmetri situat typic lead signific simplif equat one need solv provid physic descript anoth exampl lorentz transform relat measur time veloc two observ motion relat deduc pure grouptheoret way express transform rotat symmetri minkowski space latter servesin absenc signific gravitationa model space time special relat full symmetri group minkowski space ie includ translat known poincar group play pivot role special relat implic quantum field theori symmetri vari locat central modern descript physic interact help gaug theori
+generalizationsedit
+abstract algebra general structur defin relax axiom defin group exampl requir everi element invers elimin result algebra structur call monoid natur number n includ addit form monoid nonzero integ multipl z see general method formal add invers element abelian monoid much way q deriv z known grothendieck group groupoid similar group except composit b need defin b aris studi complic form symmetri often topolog analyt structur fundament groupoid stack final possibl general concept replac binari oper arbitrari nari one ie oper take n argument proper general group axiom give rise nari group tabl give list sever structur general group
+see alsoedit
+notesedit
+citationsedit
+referencesedit
+general referencesedit
+artin michael algebra prentic hall isbn chapter contain undergraduatelevel exposit notion cover articl
+devlin keith languag mathemat make invis visibl owl book isbn chapter provid laymanaccess explan group
+fulton william harri joe represent theori first cours graduat text mathemat read mathemat new york springerverlag isbn mr isbn
+hall g g appli group theori american elsevi publish co inc new york mr elementari introduct
+herstein israel nathan abstract algebra rd ed upper saddl river nj prentic hall inc isbn mr
+herstein israel nathan topic algebra nd ed lexington mass xerox colleg publish mr
+lang serg algebra graduat text mathemat revis third ed new york springerverlag isbn mr
+lang serg undergradu algebra rd ed berlin new york springerverlag isbn
+ledermann walter introduct theori finit group oliv boyd edinburgh london mr
+ledermann walter introduct group theori new york barn nobl oclc
+robinson derek john scott cours theori group berlin new york springerverlag isbn
+special referencesedit
+artin emil galoi theori new york dover public isbn
+aschbach michael status classif finit simpl group pdf notic american mathemat societi
+becchi c introduct gaug theori p arxivhepph bibcodehepphb
+besch han ulrich eick bettina obrien e group order electron research announc american mathemat societi doi mr
+bishop david h l group theori chemistri new york dover public isbn
+borel armand linear algebra group graduat text mathemat nd ed berlin new york springerverlag isbn mr
+carter roger w simpl group lie type new york john wiley son isbn
+conway john horton delgado friedrich olaf huson daniel h thurston william p threedimension space group beitrg zur algebra und geometri arxivmathmg mr
+coornaert m delzant papadopoulo gomtri et thori des group geometri group theori lectur note mathemat french berlin new york springerverlag isbn mr
+deneck klaus wismath shelli l univers algebra applic theoret comput scienc london crc press isbn
+dudek wa old problem nari group quasigroup relat system
+frucht r herstellung von graphen mit vorgegeben abstrakt grupp construct graph prescrib group compositio mathematica german
+goldstein herbert classic mechan nd ed read ma addisonwesley publish pp isbn
+hatcher allen algebra topolog cambridg univers press isbn
+husain taqdir introduct topolog group philadelphia wb saunder compani isbn
+jahn h teller e stabil polyatom molecul degener electron state orbit degeneraci proceed royal societi bibcoderspsaj doirspa
+kuiper jack b quaternion rotat sequencesa primer applic orbit aerospac virtual realiti princeton univers press isbn mr
+kuga michio galoi dream group theori differenti equat boston ma birkhus boston isbn mr
+kurzweil han stellmach bernd theori finit group universitext berlin new york springerverlag isbn mr
+lay david linear algebra applic addisonwesley isbn
+mac lane saunder categori work mathematician nd ed berlin new york springerverlag isbn
+michler gerhard theori finit simpl group cambridg univers press isbn
+miln jame tale cohomolog princeton univers press isbn
+mumford david fogarti j kirwan f geometr invari theori rd ed berlin new york springerverlag isbn mr
+naber gregori l geometri minkowski spacetim new york dover public isbn mr
+neukirch jrgen algebra number theori grundlehren der mathematischen wissenschaften berlin springerverlag isbn zbl mr
+romanowska ab smith jdh mode world scientif isbn
+ronan mark symmetri monster stori one greatest quest mathemat oxford univers press isbn
+rosen kenneth h elementari number theori applic th ed addisonwesley isbn mr
+rudin walter fourier analysi group wiley classic wileyblackwel isbn x
+seress kos introduct comput group theori notic american mathemat societi mr
+serr jeanpierr linear represent finit group berlin new york springerverlag isbn mr
+shatz stephen profinit group arithmet geometri princeton univers press isbn mr
+suzuki michio lattic subgroup finit group transact american mathemat societi doi jstor
+warner frank foundat differenti manifold lie group berlin new york springerverlag isbn
+weinberg steven gravit cosmolog new york john wiley son isbn
+welsh domin code cryptographi oxford clarendon press isbn
+weyl hermann symmetri princeton univers press isbn
+histor referencesedit
+borel armand essay histori lie group algebra group provid ri american mathemat societi isbn
+cayley arthur collect mathemat paper arthur cayley ii cambridg univers press
+oconnor jj robertson ef develop group theori
+curti charl w pioneer represent theori frobenius burnsid schur brauer histori mathemat provid ri american mathemat societi isbn
+von dyck walther gruppentheoretisch studien grouptheoret studi mathematisch annalen german doibf
+galoi varist tanneri jule ed manuscrit de varist galoi varist galoi manuscript french pari gauthiervillar galoi work first publish joseph liouvill
+jordan camill trait des substitut et des quation algbriqu studi substitut algebra equat french pari gauthiervillar
+kleiner israel evolut group theori brief survey mathemat magazin doi mr
+lie sophus gesammelt abhandlungen band collect paper volum german new york johnson reprint corp mr
+mackey georg whitelaw theori unitari group represent univers chicago press mr
+smith david eugen histori modern mathemat mathemat monograph
+wuss han genesi abstract group concept contribut histori origin abstract group theori new york dover public isbn

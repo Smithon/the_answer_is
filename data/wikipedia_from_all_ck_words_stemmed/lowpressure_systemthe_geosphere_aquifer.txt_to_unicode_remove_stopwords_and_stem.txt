@@ -1,0 +1,181 @@
+decibel db logarithm unit use express ratio two valu physic quantiti often power intens one valu often standard refer valu case decibel use express level valu relat refer number decibel ten time logarithm base ratio two power quantiti ratio squar two field amplitud quantiti one decibel one tenth one bel name honor alexand graham bell howev bel seldom use
+definit decibel base measur power telephoni earli th centuri bell system unit state today unit use wide varieti measur scienc engin promin acoust electron control theori electron gain amplifi attenu signal signaltonois ratio often express decibel decibel confer number advantag abil conveni repres larg small number abil carri multipl ratio simpl addit subtract contrast use decibel complic oper addit subtract
+chang power factor correspond db chang level half power point audio circuit antenna exhibit attenu db chang voltag factor result chang power factor correspond db chang level chang voltag ratio factor approxim correspond db chang level
+decibel symbol often qualifi suffix indic refer quantiti use properti quantiti measur exampl dbm indic refer power one milliwatt dbu referenc approxim volt rms
+intern system quantiti decibel defin unit measur quantiti type level level differ defin logarithm ratio power fieldtyp quantiti
+histori
+decibel origin method use quantifi signal loss telegraph telephon circuit unit loss origin mile standard cabl msc msc correspond loss power mile approxim km length standard telephon cabl frequenc radian per second hz match close smallest attenu detect averag listen standard telephon cabl impli cabl uniform distribut resist ohm per loop mile uniform distribut shunt capacit microfarad per mile approxim gaug
+bell telephon laboratori receiv favor respons new unit definit among member intern advisori committe long distanc telephoni europ replac msc transmiss unit tu tu defin ten time base logarithm ratio measur power refer power level definit conveni chosen tu approxim msc specif msc tu bell system renam tu decibel one tenth newli defin unit base logarithm power ratio name bel honor telecommun pioneer alexand graham bell bel seldom use decibel propos work unit
+name earli definit decibel describ nbs standard yearbook
+april intern committe weight measur cipm consid recommend inclus decibel intern system unit si decid propos howev decibel recogn intern bodi intern electrotechn commiss iec intern organ standard iso iec permit use decibel field quantiti well power recommend follow mani nation standard bodi nist justifi use decibel voltag ratio term field quantiti deprec iso favor rootpow spite widespread use suffix dba dbv recogn iec iso
+definit
+iso standard defin follow quantiti decibel db one tenth bel b b db bel ln neper np b ln np ln np neper chang level field quantiti field quantiti chang factor e np lne therebi relat unit nondimension natur log fieldquant ratio db b final level quantiti logarithm ratio valu quantiti refer valu quantiti
+therefor bel repres logarithm ratio two power quantiti logarithm ratio two field quantiti
+two signal whose level differ one decibel power ratio approxim amplitud field ratio
+although permiss bel rare use si unit prefix deci prefer use hundredth decibel rather millibel
+method express ratio level decibel depend whether measur properti power quantiti field quantiti see field power rootpow quantiti detail
+power quantiti
+refer measur power quantiti ratio express level decibel evalu ten time base logarithm ratio measur quantiti refer valu thus ratio p measur power p refer power repres lp ratio express decibel calcul use formula
+base logarithm ratio two power level number bel number decibel ten time number bel equival decibel onetenth bel p p must measur type quantiti unit calcul ratio p p equat lp p greater p lp posit p less p lp negat
+rearrang equat give follow formula p term p lp
+field quantiti rootpow quantiti
+refer measur field quantiti usual consid ratio squar f measur field f refer field applic power proport squar field desir two decibel formul give result typic case thus follow definit use
+formula may rearrang give
+similar electr circuit dissip power typic proport squar voltag current imped held constant take voltag exampl lead equat
+v voltag measur v specifi refer voltag gdb power gain express decibel similar formula hold current
+term rootpow quantiti introduc iso standard substitut field quantiti term field quantiti deprec standard
+convers
+sinc logarithm differ measur unit use repres power ratio field ratio valu ratio repres unit also includ tabl
+exampl
+exampl yield dimensionless answer db relat ratio express decibel unit dbw often use denot ratio refer w similar dbm mw refer point
+calcul ratio kw one kilowatt watt w decibel yield
+ratio v v v decibel
+v v kw w illustr consequ definit gdb valu regardless whether obtain power amplitud provid specif system consid power ratio equal amplitud ratio squar
+ratio mw one milliwatt w decibel obtain formula
+power ratio correspond db chang level given
+chang power ratio factor correspond chang level db chang power ratio factor approxim chang db precis factor differ exact similar increas db impli increas voltag factor approxim increas db correspond approxim four time power twice voltag exact term power ratio relat error
+properti
+decibel follow properti
+logarithm scale natur decibel mean larg rang ratio repres conveni number similar manner scientif notat allow one clear visual huge chang quantiti see bode plot semilog plot exampl db spl may clearer trillion time intens threshold hear
+level valu decibel ad instead multipli under power valu mean overal gain multicompon system seri amplifi stage calcul sum gain decibel individu compon rather multipli amplif factor loga b c loga logb logc practic mean arm knowledg db approxim power gain db approxim power gain db power gain possibl determin power ratio system gain db simpl addit multipl exampl
+system consist amplifi seri gain ratio power db db db respect total gain db broken combin db
+db db db db db db
+input watt output approxim
+w x x x x x w
+calcul exact output w x w approxim valu error respect actual valu neglig given precis valu suppli accuraci measur instrument
+advantag disadvantag
+support argument
+accord mitschk advantag use logarithm measur transmiss chain mani element concaten gain attenu obtain total addit decibel valu much conveni multipl individu factor
+human percept intens sound light approxim logarithm intens rather linear relationship weberfechn law make db scale use measur
+decibel still common use unit express ratio number field even origin mean term obscur decibel tradit way express gain margin divers disciplin control theori antenna radio frequenc transmiss theori even assess nuclear hard
+critic
+various publish articl critic unit decibel shortcom hinder understand use accord critic decibel creat confus obscur reason relat era slide rule modern digit process cumbersom difficult interpret
+repres equival zero watt possibl caus problem convers hickl conclud decibel useless affect imped develop nois control engin disciplin
+common sourc confus use decibel occur decid use log log origin definit power measur employ context formul log use deci mean one tenth user must clear whether quantiti express power amplitud use consid power energi express eg currentcurrentresist velocityvelocitymass formul squar function variabl log correct express simpl ratio without obvious power energi context damag ratio nuclear hard assess log common use
+quantiti decibel necessarili addit thus unaccept form use dimension analysi
+reason human excel addit oper multipl decibel awkward inher addit oper two machin individu produc sound pressur level say db certain point oper togeth expect combin sound pressur level increas db certain db suppos nois machin measur includ contribut background nois found dba machin switch background nois alon measur dba machin nois level alon may obtain subtract dba background nois combin level dba ie dba order find repres valu sound level room number measur taken differ posit within room averag valu calcul compar logarithm arithmet averag db db logarithm averag db arithmet averag db
+use
+acoust
+decibel common use acoust unit sound pressur level refer pressur air set typic threshold percept averag human common comparison use illustr differ level sound pressur sound pressur field quantiti therefor field version unit definit use
+pref standard refer sound pressur micropasc air micropasc water
+human ear larg dynam rang audio recept ratio sound intens caus perman damag short exposur quietest sound ear hear greater equal trillion larg measur rang conveni express logarithm scale base logarithm express sound pressur level db re micropasc sinc human ear equal sensit sound frequenc nois level maximum human sensit somewher khz factor heavili measur use frequenc weight see also steven power law
+electron
+electron decibel often use express power amplitud ratio gain prefer arithmet ratio percentag one advantag total decibel gain seri compon amplifi attenu calcul simpli sum decibel gain individu compon similar telecommun decibel denot signal gain loss transmitt receiv medium free space waveguid coaxial cabl fiber optic etc use link budget
+decibel unit also combin suffix creat absolut unit electr power exampl combin m milliwatt produc dbm zero dbm level correspond one milliwatt dbm one decibel greater mw
+profession audio specif popular unit dbu dbu root mean squar rms measur voltag use refer approxim vrms chosen histor reason refer valu voltag level deliv mw power ohm resistor use standard refer imped telephon circuit
+optic
+optic link known amount optic power dbm referenc mw launch fiber loss db decibel compon eg connector splice length fiber known overal link loss may quick calcul addit subtract decibel quantiti
+spectrometri optic block unit use measur optic densiti equival b
+video digit imag
+connect video digit imag sensor decibel general repres ratio video voltag digit light level use log ratio even repres optic power direct proport voltag level squar ccd imag respons voltag linear intens thus camera signaltonois ratio dynam rang db repres power ratio signal power nois power sometim log ratio definit appli electron count photon count direct proport intens without need consid whether voltag respons linear
+howev mention log intens convent prevail general physic optic includ fiber optic terminolog becom murki convent digit photograph technolog physic common quantiti call dynam rang signaltonois camera would specifi log dbs relat context eg attenu gain intensifi snr reject ratio term interpret cautious confus two unit result larg misunderstand valu
+photograph typic use altern base log unit fstop describ light intens dynam rang
+suffix refer valu
+suffix common attach basic db unit order indic refer valu ratio calcul exampl dbm indic power measur relat milliwatt
+case unit valu refer state decibel valu known absolut unit valu refer explicit state db gain amplifi decibel valu consid relat
+si permit attach qualifi unit whether suffix prefix standard si prefix therefor even though decibel accept use alongsid si unit practic attach suffix basic db unit form compound unit dbm dbu dba etc proper way accord iec either lx re xref lxxref x quantiti symbol xref valu refer quantiti eg le re vm le vm electr field strength e relat vm refer valu
+outsid document adher si unit practic common illustr follow exampl general rule various disciplinespecif practic sometim suffix unit symbol wkm sometim transliter unit symbol uv instead v microvolt sometim acronym unit name sm squar meter m milliwatt time mnemon type quantiti calcul antenna gain respect isotrop antenna anyth normal em wavelength otherwis general attribut identifi natur quantiti aweight sound pressur level suffix often connect dash dbhz space db hl interven charact dbm enclos parenthes dbsm
+voltag
+sinc decibel defin respect power amplitud convers voltag ratio decibel must squar amplitud use factor instead discuss
+dbv
+dbvrms voltag relat volt regardless imped
+dbu dbv
+rms voltag relat origin dbv chang dbu avoid confus dbv v come volt u come unload dbu use regardless imped deriv load dissip dbm mw refer voltag come comput
+profession audio equip may calibr indic vu meter finit time signal appli amplitud dbu consum equip typic use lower nomin signal level dbv therefor mani devic offer dual voltag oper differ gain trim set interoper reason switch adjust cover least rang dbu dbv common profession equip
+dbmv
+dbmvrms voltag relat millivolt across wide use cabl televis network nomin strength singl tv signal receiv termin dbmv cabl tv use coaxial cabl dbmv correspond dbw dbm nw
+dbv dbuv
+dbvrms voltag relat microvolt wide use televis aerial amplifi specif dbv dbmv
+acoust
+probabl common usag decibel refer sound level db spl sound pressur level referenc nomin threshold human hear measur pressur field quantiti use factor measur power eg db sil db swl use factor
+db spl
+db spl sound pressur level sound air gase relat micropasc pa pa approxim quietest sound human hear sound water liquid refer pressur pa use
+rms sound pressur one pascal correspond level db spl
+db sil
+db sound intens level relat wm rough threshold human hear air
+db swl
+db sound power level relat w
+dba dbb dbc
+symbol often use denot use differ weight filter use approxim human ear respons sound although measur still db spl measur usual refer nois effect human anim wide use industri discuss nois control issu regul environment standard variat may seen dba dba accord ansi standard prefer usag write la x db nevertheless unit dba dba still common use shorthand aweight measur compar dbc use telecommun
+db hl db hear level use audiogram measur hear loss refer level vari frequenc accord minimum audibl curv defin ansi standard result audiogram show deviat regard normal hear
+db q sometim use denot weight nois level common use itur nois weight
+audio electron
+dbm
+dbmw power relat milliwatt audio telephoni dbm typic referenc relat ohm imped radio frequenc work dbm typic referenc relat ohm imped
+dbfs
+dbfull scale amplitud signal compar maximum devic handl clip occur fullscal may defin power level fullscal sinusoid altern fullscal squar wave signal measur refer fullscal sinewav appear db weaker referenc fullscal squar wave thus dbfsreffullscal sine wave dbfsreffullscal squar wave
+dbtp
+dbtrue peak peak amplitud signal compar maximum devic handl clip occur digit system dbtp would equal highest level number processor capabl repres measur valu alway negat zero sinc less equal fullscal
+radar
+dbz
+dbz decibel relat z mm m energi reflect weather radar relat amount transmit power return radar receiv valu dbz usual indic fall precipit
+dbsm
+dbm decibel relat one squar meter measur radar cross section rcs target power reflect target proport rcs stealth aircraft insect negat rcs measur dbsm larg flat plate nonstealthi aircraft posit valu
+radio power energi field strength
+dbc
+dbc relat carrierin telecommun indic relat level nois sideband power compar carrier power compar dbc use acoust
+dbj
+dbj energi relat joul joul watt second watt per hertz power spectral densiti express dbj
+dbm
+dbmw power relat milliwatt tradit associ telephon broadcast industri express audiopow level referenc one milliwatt power normal ohm load voltag level volt millivolt still common use express audio level profession audio equip
+radio field dbm usual referenc ohm load result voltag volt
+dbvm dbuvm
+dbvm electr field strength relat microvolt per meter often use specifi signal strength televis broadcast receiv site signal measur antenna output dbv
+dbf
+dbfw power relat femtowatt
+dbw
+dbw power relat watt
+dbk
+dbkw power relat kilowatt
+antenna measur
+dbi
+dbisotrop forward gain antenna compar hypothet isotrop antenna uniform distribut energi direct linear polar em field assum unless note otherwis
+dbd
+dbdipol forward gain antenna compar halfwav dipol antenna dbd dbi
+dbic
+dbisotrop circular forward gain antenna compar circular polar isotrop antenna fix convers rule dbic dbi depend receiv antenna field polar
+dbq
+dbquarterwav forward gain antenna compar quarter wavelength whip rare use except market materi dbq dbi
+dbsm
+dbm decibel relat one squar meter measur antenna effect area
+dbm
+dbm decibel relat reciproc meter measur antenna factor
+measur
+dbhz
+dbhz bandwidth relat one hertz eg dbhz correspond bandwidth hz common use link budget calcul also use carriertonoisedens ratio confus carriertonois ratio db
+dbov dbo
+dboverload amplitud signal usual audio compar maximum devic handl clip occur similar dbfs also applic analog system
+dbr
+dbrelat simpli relat differ someth els made appar context differ filter respons nomin level instanc
+dbrn
+db refer nois see also dbrnc
+dbrnc
+dbrnc repres audio level measur typic telephon circuit relat circuit nois level measur level frequencyweight standard cmessag weight filter cmessag weight filter chiefli use north america psophometr filter use purpos intern circuit see psophometr weight see comparison frequenc respons curv cmessag weight psophometr weight filter
+dbk
+dbk decibel relat kelvin use express nois temperatur
+dbk
+dbk decibel relat reciproc kelvinnot decibel per kelvin use gt factor figur merit util satellit communic relat antenna gain g receiv system nois equival temperatur
+relat unit
+mbm
+mbmw power relat milliwatt millibel one hundredth decibel mbm dbm unit wifi driver linux kernel regulatori domain section
+np cnp
+anoth close relat unit neper np centinep cnp like decibel neper unit level linear approxim cnp small percentag differ wide use financ
+fraction
+attenu constant field optic fiber communic radio propag path loss often express fraction ratio distanc transmiss dbm mean decibel per meter dbmi decibel per mile exampl quantiti manipul obey rule dimension analysi eg meter run dbkm fiber yield loss db dbkm km
+see also
+appar magnitud
+cent music
+db drag race
+decad log scale
+equalloud contour
+nois environment
+phon
+richter magnitud scale
+signal nois
+sone
+ph
+note refer
+extern link
+decibel sound file anim
+convers sound level unit dbspl dba sound pressur p sound intens j
+osha regul occup nois exposur

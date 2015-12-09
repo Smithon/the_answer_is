@@ -1,0 +1,47 @@
+a chemical equation is the symbolic representation of a chemical reaction in the form of symbols and formulae wherein the reactant entities are given on the left-hand side and the product entities on the right-hand side the coefficients next to the symbols and formulae of entities are the absolute values of the stoichiometric numbers the first chemical equation was diagrammed by jean beguin in 1615
+== form ==
+a chemical equation consists of the chemical formulas of the reactants (the starting substances) and the chemical formula of the products (substances formed in the chemical reaction) the two are separated by an arrow symbol ( usually read as yields") and each individual substance's chemical formula is separated from others by a plus sign
+as an example the equation for the reaction of hydrochloric acid with sodium can be denoted
+2 hcl + 2 na 2 nacl + h
+2
+this equation would be read as two hcl plus two na yields two nacl and h two. but for equations involving complex chemicals rather than reading the letter and its subscript the chemical formulas are read using iupac nomenclature using iupac nomenclature this equation would be read as hydrochloric acid plus sodium yields sodium chloride and hydrogen gas.
+this equation indicates that sodium and hcl react to form nacl and h2 it also indicates that two sodium molecules are required for every two hydrochloric acid molecules and the reaction will form two sodium chloride molecules and one diatomic molecule of hydrogen gas molecule for every two hydrochloric acid and two sodium molecules that react the stoichiometric coefficients (the numbers in front of the chemical formulas) result from the law of conservation of mass and the law of conservation of charge (see balancing chemical equation section below for more information)
+== common symbols ==
+symbols are used to differentiate between different types of reactions to denote the type of reaction
+ symbol is used to denote a stoichiometric relation
+ symbol is used to denote a net forward reaction
+ symbol is used to denote a reaction in both directions
+ symbol is used to denote an equilibrium
+the physical state of chemicals is also very commonly stated in parentheses after the chemical symbol especially for ionic reactions when stating physical state (s) denotes a solid (l) denotes a liquid (g) denotes a gas and (aq) denotes an aqueous solution
+if the reaction requires energy it is indicated above the arrow a capital greek letter delta () is put on the reaction arrow to show that energy in the form of heat is added to the reaction is used if the energy is added in the form of light other symbols are used for other specific types of energy or radiation
+== balancing chemical equations ==
+the law of conservation of mass dictates that the quantity of each element does not change in a chemical reaction thus each side of the chemical equation must represent the same quantity of any particular element likewise the charge is conserved in a chemical reaction therefore the same charge must be present on both sides of the balanced equation
+one balances a chemical equation by changing the scalar number for each chemical formula simple chemical equations can be balanced by inspection that is by trial and error another technique involves solving a system of linear equations
+balanced equations are written with smallest whole-number coefficients if there is no coefficient before a chemical formula the coefficient 1 is understood
+the method of inspection can be outlined as putting a coefficient of 1 in front of the most complex chemical formula and putting the other coefficients before everything else such that both sides of the arrows have the same number of each atom if any fractional coefficient exists multiply every coefficient with the smallest number required to make them whole typically the denominator of the fractional coefficient for a reaction with a single fractional coefficient
+as an example seen in the above image the burning of methane would be balanced by putting a coefficient of 1 before the ch4
+1 ch4 + o2 co2 + h2o
+since there is one carbon on each side of the arrow the first atom (carbon) is balanced
+looking at the next atom (hydrogen) the right-hand side has two atoms while the left-hand side has four to balance the hydrogens 2 goes in front of the h2o which yields
+1 ch4 + o2 co2 + 2 h2o
+inspection of the last atom to be balanced (oxygen) shows that the right-hand side has four atoms while the left-hand side has two it can be balanced by putting a 2 before o2 giving the balanced equation
+ch4 + 2 o2 co2 + 2 h2o
+this equation does not have any coefficients in front of ch4 and co2 since a coefficient of 1 is dropped
+== ionic equations ==
+an ionic equation is a chemical equation in which electrolytes are written as dissociated ions ionic equations are used for single and double displacement reactions that occur in aqueous solutions for example in the following precipitation reaction
+cacl2(aq) + 2 agno3(aq) ca(no3)2(aq) + 2 agcl(s)
+the full ionic equation is
+ca2+(aq) + 2 cl(aq) + 2 ag+(aq) + 2 no3(aq) ca2+(aq) + 2 no3(aq) + 2 agcl(s)
+in this reaction the ca2+ and the no3 ions remain in solution and are not part of the reaction that is these ions are identical on both the reactant and product side of the chemical equation because such ions do not participate in the reaction they are called spectator ions a net ionic equation is the full ionic equation from which the spectator ions have been removed the net ionic equation of the proceeding reactions is
+2 cl(aq) + 2 ag+(aq) 2 agcl(s)
+or in reduced balanced form
+ag+(aq) + cl(aq) agcl(s)
+in a neutralization or acid/base reaction the net ionic equation will usually be
+h+(aq) + oh(aq) h2o(l)
+there are a few acid/base reactions that produce a precipitate in addition to the water molecule shown above an example is the reaction of barium hydroxide with phosphoric acid which produces not only water but also the insoluble salt barium phosphate in this reaction there are no spectator ions so the net ionic equation is the same as the full ionic equation
+3 ba(oh)2(aq) + 2 h3po4(aq) 6 h2o(l) + ba3(po4)2(s)
+3 ba2+(aq) + 6 oh(aq) + 6 h+(aq) + 2 po43(aq) 6 h2o(l) + ba3(po4)2(s)
+double displacement reactions that feature a carbonate reacting with an acid have the net ionic equation
+2 h+(aq) + co32(aq) h2o(l) + co2(g)
+if every ion is a spectator ion then there was no reaction and the net ionic equation is null
+== references ==

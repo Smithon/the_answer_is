@@ -1,0 +1,71 @@
+trajectori flight path path move object follow space function time object might projectil satellit exampl orbitth path planet asteroid comet travel around central mass trajectori describ mathemat either geometri path posit object time
+control theori trajectori timeord set state dynam system see eg poincar map discret mathemat trajectori sequenc valu calcul iter applic map element sourc
+physic trajectori
+familiar exampl trajectori path projectil thrown ball rock great simplifi model object move influenc uniform gravit forc field good approxim rock thrown short distanc exampl surfac moon simpl approxim trajectori take shape parabola general determin trajectori may necessari account nonuniform gravit forc air resist drag aerodynam focus disciplin ballist
+one remark achiev newtonian mechan deriv law kepler gravit field point mass sphericallysymmetr extend mass sun trajectori move object conic section usual ellips hyperbola agre observ orbit planet comet artifici spacecraft reason good approxim although comet pass close sun also influenc forc solar wind radiat pressur modifi orbit caus comet eject materi space
+newton theori later develop branch theoret physic known classic mechan employ mathemat differenti calculus fact also initi newton youth centuri countless scientist contribut develop two disciplin classic mechan becam promin demonstr power ration thought ie reason scienc well technolog help understand predict enorm rang phenomena trajectori one exampl
+consid particl mass move potenti field physic speak mass repres inertia field repres extern forc particular kind known conserv given everi relev posit way infer associ forc would act posit say graviti forc express way howev
+motion particl describ secondord differenti equat
+righthand side forc given term gradient potenti taken posit along trajectori mathemat form newton second law motion forc equal mass time acceler situat
+exampl
+uniform graviti neither drag wind
+ideal case motion projectil uniform gravit field absenc forc air drag first investig galileo galilei neglect action atmospher shape trajectori would consid futil hypothesi practicalmind investig middl age europ nevertheless anticip exist vacuum later demonstr earth collabor evangelista torricelli galileo abl initi futur scienc mechan near vacuum turn instanc moon simplifi parabol trajectori prove essenti correct
+analysi follow deriv equat motion projectil measur inerti frame rest respect ground frame associ righthand coordin system origin coincid point launch projectil xaxi parallel ground y axi perpendicular parallel gravit field line let acceler graviti relat flat terrain let initi horizont speed initi vertic speed also shown rang maximum altitud maximum rang given initi speed obtain ie initi angl degre rang maximum altitud maximum rang quarter
+deriv equat motion
+assum motion projectil measur free fall frame happen xy equat motion projectil frame principl equival would coordin freefal frame respect inerti frame would
+translat back inerti frame coordin projectil becom
+v initi veloc angl elev g acceler due graviti
+rang height
+rang r greatest distanc object travel along xaxi sector initi veloc vi speed said object launch point origin initi angl angl said object releas g respect gravit pull object within nullmedium
+height h greatest parabol height said object reach within trajectori
+angl elev
+term angl elev initi speed
+give rang
+equat rearrang find angl requir rang
+equat ii angl projectil launch
+note sine function two solut given rang angl give maximum rang found consid deriv respect set zero
+nontrivi solut maximum rang angl maximum height obtain
+find angl give maximum height given speed calcul deriv maximum height respect zero maximum height obtain projectil fire straight
+uphilldownhil uniform graviti vacuum
+given hill angl launch angl shown rang along hill form ratio origin rang along imaginari horizont
+equat
+equat downhil occur degre rang know thus rang thus posit valu mean rang downhil alway along level terrain lower level terrain caus projectil remain air longer allow travel horizont hit ground
+equat appli projectil fire uphil interpret complex sometim uphil rang may shorter longer equival rang along level terrain equat may set ie slant rang equal level terrain rang solv critic angl
+equat may also use develop rifleman rule small valu ie close horizont fire case mani firearm situat small valu small valu thus multipli togeth equat result almost zero thus equat may approxim
+solv level terrain rang
+rifleman rule
+thus shooter attempt hit level distanc r actual hit slant target word pretend inclin target horizont distanc equal slant rang distanc multipli cosin inclin angl aim target realli horizont posit
+deriv base equat parabola
+intersect projectil trajectori hill may easili deriv use trajectori parabol form cartesian coordin equat intersect hill slope standard linear form coordin
+equat case
+substitut valu equat
+solv x
+valu x may substitut back linear equat get correspond y coordin intercept
+slant rang distanc intercept origin hypotenus x y
+defin angl hill definit tangent substitut equat
+refactor trigonometr ident may use
+flat rang previous use trigonometr ident
+orbit object
+instead uniform downward gravit forc consid two bodi orbit mutual gravit obtain kepler law planetari motion deriv one major work isaac newton provid much motiv develop differenti calculus
+catch ball
+projectil basebal cricket ball travel parabol path neglig air resist player posit catch descend see angl elev increas continu throughout flight tangent angl elev proport time sinc ball sent air usual struck bat even ball realli descend near end flight angl elev seen player continu increas player therefor see ascend vertic constant speed find place ball appear rise steadili help player posit correct make catch close batsman hit ball appear rise acceler rate far batsman appear slow rapid descend
+note
+see also
+aftcross trajectori
+orbit dynam
+orbit group theori
+planetari orbit
+porkchop plot
+rang projectil
+rigid bodi
+trajectori projectil
+refer
+extern link
+projectil motion flash applet
+trajectori calcul
+interact simul projectil motion
+projectil lab javascript trajectori simul
+parabol projectil motion shoot harmless tranquil dart fall monkey roberto castillamelndez roxana ramrezherrera jos lui gmezmuoz wolfram demonstr project
+trajectori scienceworld
+java projectilemot simul firstord air resist
+java projectilemot simul target solut parabola safeti

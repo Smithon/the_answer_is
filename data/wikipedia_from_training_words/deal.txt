@@ -1,0 +1,12 @@
+in cryptography deal (data encryption algorithm with larger blocks) is a symmetric block cipher derived from the data encryption standard (des) the design was proposed in a report by lars knudsen in 1998 and was submitted to the aes contest by richard outerbridge (who notes that knudsen had presented the design at the sac conference in 1997)
+deal is a feistel network which uses des as the round function it has a 128-bit block size and a variable key size of either 128 192 or 256 bits for key sizes of 128 and 192 bits the cipher uses 6 rounds increasing to 8 for the 256-bits size the scheme has a comparable performance to triple des and was relatively slow compared to many other aes candidates
+== see also ==
+ladder-des
+luby-rackoff
+== external links ==
+the original deal report
+scan's entry for deal
+aes presentation slides (pdf)
+== references ==
+john kelsey bruce schneier (august 1999) key-schedule cryptanalysis of deal (pdf/postscript) 6th annual international workshop on selected areas in cryptography (sac 99) kingston ontario springer-verlag pp 118134 retrieved 2007-08-23
+stefan lucks on security of the 128-bit block cipher deal fast software encryption 1999 6070

@@ -1,0 +1,121 @@
+basic (an acronym for beginner's all-purpose symbolic instruction code) is a family of general-purpose high-level programming languages whose design philosophy emphasizes ease of use
+in 1964 john g kemeny and thomas e kurtz designed the original basic language at dartmouth college in new hampshire they wanted to enable students in fields other than science and mathematics to use computers at the time nearly all use of computers required writing custom software which was something only scientists and mathematicians tended to learn
+versions of basic became widespread on microcomputers in the mid-1970s and 1980s microcomputers usually shipped with basic often in the machine's firmware having an easy-to-learn language on these early personal computers allowed small business owners professionals hobbyists and consultants to develop custom software on computers they could afford
+basic remains popular in many dialects and in new languages influenced by basic such as microsoft's visual basic in 2006 59% of developers for the net framework used visual basic net as their only programming language
+== history ==
+before the mid-1960s the only computers were mainframes users submitted jobs on punched cards or similar media to computer operators the computer stored these then used a batch processing system to run this queue of jobs one after another - allowing very high levels of utilization of these expensive machines as the performance of computing hardware rose through the 1960s multi-processing was developed this allowed a mix of batch jobs to be run together but the real revolution was the development of time-sharing
+time-sharing allowed multiple remote interactive users to share use of the computer interacting with the computer from terminals with keyboards and teletype printers and later display screens in much the same way as desktop computers or personal computers would be used later
+=== origin ===
+the original basic language was designed on may 1 1964 by john kemeny and thomas kurtz and implemented by a team of dartmouth college students under their direction the acronym basic comes from the name of an unpublished paper by thomas kurtz basic was designed to allow students to write mainframe computer programs for the dartmouth time-sharing system it was intended specifically for less technical users who did not have or want the mathematical background previously expected being able to use a computer to support teaching and research was quite novel at the time
+the language was based on fortran ii with some influences from algol 60 and with additions to make it suitable for timesharing initially basic concentrated on supporting straightforward mathematical work with matrix arithmetic support from its initial implementation as a batch language and character string functionality being added by 1965
+the designers of the language decided to make the compiler available free of charge so that the language would become widespread (in the 1960s software became a chargeable commodity until then it was provided without charge as a service with the very expensive computers usually available only to lease.) they also made it available to high schools in the hanover area and put a considerable amount of effort into promoting the language in the following years as other dialects of basic appeared kemeny and kurtz's original basic dialect became known as dartmouth basic
+=== spread on minicomputers ===
+knowledge of the relatively simple basic became widespread for a computer language and it was implemented by a number of manufacturers becoming fairly popular on newer minicomputers such as the dec pdp series and the data general nova the basic language was also central to the hp time-shared basic system in the late 1960s and early 1970s where the language was implemented as an interpreter a version was a core part of the pick operating system from 1973 onward where a compiler renders it into bytecode able to be interpreted by a virtual machine
+during this period a number of simple computer games were written in basic most notably mike mayfield's star trek a number of these were collected by dec employee david h ahl and published in a newsletter he compiled he later collected a number of these into book form 101 basic computer games published in 1973 during the same period ahl was involved in the creation of a small computer for education use an early personal computer when management refused to support the concept ahl left dec in 1974 to found the seminal computer magazine creative computing the book remained popular and was re-published on several occasions
+=== explosive growth the home computer era ===
+the introduction of the first microcomputers in the mid-1970s was the start of explosive growth for basic it had the advantage that it was fairly well known to the young designers and computer hobbyists who took an interest in microcomputers despite dijkstra's famous judgement in 1975 it is practically impossible to teach good programming to students that have had a prior exposure to basic as potential programmers they are mentally mutilated beyond hope of regeneration basic was one of the few languages that was both high-level enough to be usable by those without training and small enough to fit into the microcomputers of the day making it the de facto standard programming language on early microcomputers
+one of the first basics to appear was tiny basic a simple basic variant designed by dennis allison at the urging of bob albrecht of the homebrew computer club he had seen basic on minicomputers and felt it would be the perfect match for new machines like the mits altair 8800 how to design and implement a stripped-down version of an interpreter for the basic language was covered in articles by allison in the first three quarterly issues of the people's computer company newsletter published in 1975 and implementations with source code published in dr dobb's journal of tiny basic calisthenics & orthodontia running light without overbyte versions were written by li-chen wang and tom pittman
+in 1975 mits released altair basic developed by bill gates and paul allen as the company micro-soft which eventually grew into corporate giant microsoft the first altair version was co-written by gates allen and monte davidoff
+almost universally home computers of the 1980s had a rom-resident basic interpreter which the machines booted directly into when the apple ii pet 2001 and trs-80 were all released in 1977 all three had basic as their primary programming language and operating environment upon boot a basic interpreter in immediate mode was presented not the command line interface used on systems running cp/m or ms-dos commodore business machines included a version of microsoft basic the apple ii and trs-80 each had two versions of basic a smaller introductory version introduced with the initial releases of the machines and a more advanced version developed as interest in the platforms increased as new companies entered the field additional versions were added that subtly changed the basic family the atari 8-bit family had its own atari basic that was modified in order to fit on an 8 kb rom cartridge the bbc published bbc basic developed by acorn computers ltd incorporating many extra structured programming keywords and advanced floating-point operation features
+as the popularity of basic grew in this period magazines published complete source code in basic for games utilities and other programs given basic's straightforward nature it was a simple matter to type in the code from the magazine and execute the program different magazines were published featuring programs for specific computers though some basic programs were considered universal and could be used in machines running any variant of basic (sometimes with minor adaptations) many books of type-in programs were also available and in particular ahl published versions of the original 101 basic games converted into the microsoft dialect and published it from creative computing as basic computer games this book and its sequels provided hundreds of ready-to-go programs that could be easily converted to practically any basic-running platform the book reached the stores in 1978 just as the home computer market was starting off and it became the first million-selling computer book later packages such as learn to program basic would also have gaming as an introductory focus
+on the business-focused cp/m computers which soon became widespread in small business environments microsoft basic (mbasic) was one of the leading applications
+=== ibm pc and compatibles ===
+when ibm was designing the ibm pc they followed the paradigm of existing home-computers in wanting to have a built-in basic they sourced this from microsoft - ibm cassette basic - but microsoft also produced several other versions of basic for ms-dos/pc dos including ibm disk basic (basic d) ibm basica (basic a) gw-basic (a basica-compatible version that did not need ibm's rom) and quickbasic all typically bundled with the machine in addition they produced the microsoft basic compiler aimed at professional programmers
+turbo pascal-publisher borland published turbo basic 1.0 in 1985 (successor versions are still being marketed by the original author under the name powerbasic) microsoft wrote the windowing-based amigabasic that was supplied with version 1.1 of the pre-emptive multitasking gui amiga computers (late 1985 / early 1986) although the product unusually did not bear any microsoft marks
+these languages introduced many extensions to the original home-computer basic such as improved string manipulation and graphics support access to the file system and additional data types more important were the facilities for structured programming including additional control structures and proper subroutines supporting local variables
+however by the latter half of the 1980s users were increasingly using applications written by others rather than learning programming themselves while professional programmers now had a wide range of more advanced languages available on small computers c and later c++ became the languages of choice for professional shrink wrap application development
+=== visual basic ===
+basic's fortunes reversed once again with the introduction in 1991 of visual basic ("vb") by microsoft this was an evolutionary development of quickbasic and included constructs from other languages such as block structured control statements including with and for each parameterized subroutines optional static typing and more recently a full object oriented language but the language retains considerable links to its past such as the dim statement for declarations gosub/return statements and even line numbers which are still needed to report errors properly
+an important driver for the development of visual basic was as the new macro language for excel
+ironically given the origin of basic as a beginner's language and apparently even to the surprise of many at microsoft who still initially marketed it as a language for hobbyists the language had come into widespread use for small custom business applications shortly after the release of vb version 3.0 which is widely considered the first relatively stable version while many advanced programmers still scoffed at its use vb met the needs of small businesses efficiently wherever processing speed was less of a concern than ease of development by that time computers running windows 3.1 had become fast enough that many business-related processes could be completed in the blink of an eye even using a slow language as long as large amounts of data were not involved many small business owners found they could create their own small yet useful applications in a few evenings to meet their own specialized needs eventually during the lengthy lifetime of vb3 knowledge of visual basic had become a marketable job skill
+microsoft also produced vbscript in 1996 and visual basic net in 2001 the latter has essentially the same power as c# and java but with syntax that reflects the original basic language
+=== recent versions ===
+many other basic dialects have also sprung up since 1990 including the open source qb64 bywater basic gambas and freebasic - and the commercial purebasic powerbasic xojo and true basic (the direct successor to dartmouth basic from a company controlled by kurtz)
+several web-based simple basic interpreters also now exist including quite basic and microsoft's small basic (educational software)
+versions of basic have been showing up for use on smart phones and tablets apple app store contains such implementations of basic programming language as smart basic basic hotpaw basic basic-ii techbasic and others android devices feature such implementations of basic as rfo basic and mintoris basic
+applications for some mobile computers with proprietary os (cipherlab) can be built with programming environment based on basic
+an application for the nintendo 3ds and nintendo dsi called petit computer allows for programming in a slightly modified version of basic with ds button support a 3ds sequel was released in japan in november 2014
+=== calculators ===
+variants of basic are available on graphing and otherwise programmable calculators made by texas instruments hp casio and others
+=== windows command line ===
+qbasic a version of microsoft quickbasic without the linker to make exe files is present in the windows nt and dos-windows 95 streams of operating systems and can be obtained for more recent releases like windows 7 which do not have them prior to dos 5 the basic interpreter was gw-basic quickbasic is part of a series of three languages issued by microsoft for the home and office power user and small scale professional development quickc and quickpascal are the other two
+for windows 95 and 98 which do not have qbasic installed by default they can be copied from the installation disc which will have a set of directories for old and optional software other missing commands like exe2bin and others are in these same directories
+=== other ===
+the various microsoft lotus and corel office suites and related products are programmable with visual basic in one form or another including lotusscript which is very similar to vba 6 the host explorer terminal emulator uses wwb as a macro language or more recently the programme and the suite in which it is contained is programmable in an in-house basic variant known as hummingbird basic
+the vbscript variant is used for programming web content outlook 97 internet explorer and the windows script host wsh also has a visual basic for applications(vba) engine installed as the third of the default engines along with vbscript jscript and the numerous proprietary or open source engines which can be installed like perlscript a couple of rexx-based engines python ruby tcl delphi xlnt php and others meaning that the two versions of basic can be used along with the other mentioned languages as well as lotusscript in a wsf file through the component object model and other wsh and vba constructions vbscript is one of the languages that can be accessed by the 4dos 4nt and take command enhanced shells saxbasic and wwb are also very similar to the visual basic line of basic implementations
+the pre-office 97 macro language for microsoft word is known as wordbasic excel 4 and 5 use visual basic itself as a macro language
+many linux distributions include chipmunk basic an old school interpreter similar to basics of the 1970s chipmunk basic is also available for microsoft windows and os x
+=== nostalgia ===
+the ubiquity of basic interpreters on personal computers was such that textbooks once included simple try it in basic exercises that encouraged students to experiment with mathematical and computational concepts on classroom or home computers popular computer magazines of the day typically included type-in programs futurist and sci-fi writer david brin mourned the loss of ubiquitous basic in a 2006 salon article as have others who first used computers during this era in turn the article prompted microsoft to develop and release small basic
+dartmouth held a 50th anniversary celebration for basic on 1 may 2014 as did other organisations at least one organisation of vba programmers organised a 35th anniversary observance in 1999
+== syntax ==
+=== typical basic keywords ===
+data manipulation
+let assigns a value (which may be the result of an expression) to a variable
+data holds a list of values which are assigned sequentially using the read command
+program flow control
+if  then  else used to perform comparisons or make decisions
+for  to  {step}  next repeat a section of code a given number of times a variable that acts as a counter is available within the loop
+while  wend and repeat  until repeat a section of code while the specified condition is true the condition may be evaluated before each iteration of the loop or after
+do  loop {while} or {until} repeat a section of code forever or while/until the specified condition is true the condition may be evaluated before each iteration of the loop or after
+goto jumps to a numbered or labelled line in the program
+gosub jumps to a numbered or labelled line executes the code it finds there until it reaches a return command on which it jumps back to the operator following the gosub - either after a colon or on the next line this is used to implement subroutines
+on  goto/gosub chooses where to jump based on the specified conditions see switch statement for other forms
+def fn a pair of keywords introduced in the early 1960s to define functions the original basic functions were modelled on fortran single-line functions basic functions were one expression with variable arguments rather than subroutines with a syntax on the model of def fnd(x) = x*x at the beginning of a program function names were originally restricted to fn+one letter
+input and output
+print displays a message on the screen or other output device
+input asks the user to enter the value of a variable the statement may include a prompt message
+tab or at sets the position where the next character will be shown on the screen or printed on paper
+miscellaneous
+rem holds a programmer's comment or remark often used to give a title to the program and to help identify the purpose of a given section of code
+usr transfers program control to a machine language subroutine usually entered as an alphanumeric string or in a list of data statements
+tron turns on a visual screen representation of the flow of basic commands by displaying the number of each command line as it is run the tron command largely obsolete now stood for trace on this meant that command line numbers were displayed as the program ran so that the command lines could be traced this command allowed easier debugging or correcting of command lines that caused problems in a program problems included a program terminating without providing a desired result a program providing an obviously erroneous result a program running in a non-terminating loop or a program otherwise having a non-obvious error
+troff turns off the display of the number of each command line as command lines run after the command tron has been used
+=== data types and variables ===
+minimal versions of basic had only integer variables and one- or two-letter variable names which minimised requirements of limited and expensive memory (ram) more powerful versions had floating-point arithmetic and variables could be labelled with names six or more characters long there were some problems and restrictions in early implementations for example applesoft allowed variable names to be several characters long but only the first two were significant thus it was possible to inadvertently write a program with variables loss and loan which would be treated as being the same assigning a value to loan would silently overwrite the value intended as loss keywords could not be used in variables in many early basics score would be interpreted as sc or e where or was a keyword
+string variables are usually distinguished in many microcomputer dialects by having $ suffixed to their name and values are often identified as strings by being delimited by double quotation marks
+arrays in basic could contain integers floating point or string variables
+some dialects of basic supported matrices and matrix operations useful for the solution of sets of simultaneous linear algebraic equations these dialects would directly support matrix operations such as assignment addition multiplication (of compatible matrix types) and evaluation of a determinant many microcomputer basics did not support this data type matrix operations were still possible but had to be programmed explicitly on array elements
+=== examples ===
+==== unstructured basic ====
+the original dartmouth basic was unusual in having a matrix keyword mat although dropped by most later microprocessor derivatives it is used in this example from the 1968 manual which averages the numbers that are input
+new basic programmers on a home computer might start with a simple program perhaps using the language's print statement to display a message on the screen a well-known and often-replicated example is kernighan and ritchie's hello world program
+an infinite loop could be used to fill the display with the message
+most first-generation basic versions such as msx basic and gw-basic supported simple data types loop cycles and arrays the following example is written for gw-basic but will work in most versions of basic with minimal changes
+the resulting dialog might resemble
+what is your name mike
+hello mike
+how many stars do you want 7
+*******
+do you want more stars yes
+how many stars do you want 3
+***
+do you want more stars no
+goodbye mike
+==== structured basic ====
+second-generation basics (for example vax basic superbasic true basic quickbasic bbc basic and powerbasic) introduced a number of features into the language primarily related to structured and procedure-oriented programming usually line numbering is omitted from the language and replaced with labels (for goto) and procedures to encourage easier and more flexible design in addition keywords and structures to support repetition selection and procedures with local variables were introduced
+the following example is in quickbasic
+==== basic with object-oriented features ====
+third-generation basic dialects such as visual basic xojo staroffice basic and blitzmax introduced features to support object-oriented and event-driven programming paradigm most built-in procedures and functions are now represented as methods of standard objects rather than operators
+the following example is in visual basic net
+== standards ==
+ansi/iso/iec standard for minimal basic
+ansi x3.60-1978 for minimal basic
+iso/iec 6373:1984 data processing programming languages minimal basic
+ecma-55 minimal basic (withdrawn similar to ansi x3.60-1978)
+ansi/iso/iec standard for full basic
+ansi x3.113-1987 programming languages full basic
+incits/iso/iec 10279-1991 (r2005) information technology - programming languages - full basic
+ansi/iso/iec addendum defining modules
+ansi x3.113 interpretations-1992 basic technical information bulletin # 1 interpretations of ansi 03.113-1987
+iso/iec 10279:1991/ amd 1:1994 modules and single character input enhancement
+ecma-116 basic (withdrawn similar to ansi x3.113-1987)
+== see also ==
+list of basic dialects
+== references ==
+notes
+citations
+bibliography
+== external links ==
+basic at dmoz
+the encyclopedia of computer languages basic beginners all-purpose symbolic instruction code murdoch university

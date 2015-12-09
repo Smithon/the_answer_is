@@ -1,0 +1,89 @@
+geometri coordin system system use one number coordin uniqu determin posit point geometr element manifold euclidean space order coordin signific sometim identifi posit order tupl sometim letter xcoordin coordin taken real number elementari mathemat may complex number element abstract system commut ring use coordin system allow problem geometri translat problem number vice versa basi analyt geometri
+common coordin systemsedit
+number lineedit
+simplest exampl coordin system identif point line real number use number line system arbitrari point o origin chosen given line coordin point p defin sign distanc o p sign distanc distanc taken posit negat depend side line p lie point given uniqu coordin real number coordin uniqu point
+cartesian coordin systemedit
+prototyp exampl coordin system cartesian coordin system plane two perpendicular line chosen coordin point taken sign distanc line
+three dimens three perpendicular plane chosen three coordin point sign distanc plane general creat n coordin point ndimension euclidean space
+depend direct order coordin axi system may righthand lefthand system
+polar coordin systemedit
+anoth common coordin system plane polar coordin system point chosen pole ray point taken polar axi given angl singl line pole whose angl polar axi measur counterclockwis axi line uniqu point line whose sign distanc origin r given number r given pair coordin r singl point point repres mani pair coordin exampl r r r polar coordin point pole repres valu
+cylindr spheric coordin systemsedit
+two common method extend polar coordin system three dimens cylindr coordin system zcoordin mean cartesian coordin ad r polar coordin give tripl z spheric coordin take step convert pair cylindr coordin r z polar coordin give tripl
+homogen coordin systemedit
+point plane may repres homogen coordin tripl x y z xz yz cartesian coordin point introduc extra coordin sinc two need specifi point plane system use repres point project plane without use infin general homogen coordin system one ratio coordin signific actual valu
+common use systemsedit
+common coordin system follow
+curvilinear coordin general coordin system general system base intersect curv
+orthogon coordin coordin surfac meet right angl
+skew coordin coordin surfac orthogon
+orthogon coordin
+logpolar coordin system repres point plane logarithm distanc origin angl measur refer line intersect origin
+plcker coordin way repres line d euclidean space use sixtupl number homogen coordin
+general coordin use lagrangian treatment mechan
+canon coordin use hamiltonian treatment mechan
+parallel coordin visualis point ndimension space polylin connect point n vertic line
+barycentr coordin use ternari plot general analysi triangl
+trilinear coordin use context triangl
+way describ curv without coordin use intrins equat use invari quantiti curvatur arc length includ
+whewel equat relat arc length tangenti angl
+cesro equat relat arc length curvatur
+coordin geometr objectsedit
+coordin system often use specifi posit point may also use specifi posit complex figur line plane circl sphere exampl plcker coordin use determin posit line space need type figur describ use distinguish type coordin system exampl term line coordin use coordin system specifi posit line
+may occur system coordin two differ set geometr figur equival term analysi exampl system homogen coordin point line project plane two system case like said dualist dualist system properti result one system carri sinc result differ interpret analyt result known principl dualiti
+transformationsedit
+often mani differ possibl coordin system describ geometr figur import understand relat relat describ coordin transform give formula coordin one system term coordin anoth system exampl plane cartesian coordin x y polar coordin r origin polar axi posit x axi coordin transform polar cartesian coordin given x r cos y r sin
+everi biject space two coordin transform associ
+new coordin imag point old coordin origin point formula map invers coordin transform
+old coordin imag point new coordin origin point formula map coordin transform
+exampl d map translat right first move origin coordin point becom less second move origin coordin point becom
+coordin curv surfacesedit
+two dimens one coordin point coordin system held constant coordin allow vari result curv call coordin curv author use phrase coordin line procedur alway make sens exampl coordin curv homogen coordin system cartesian coordin system coordin curv fact straight line specif line parallel one coordin axe coordin system coordin curv may general curv exampl coordin curv polar coordin obtain hold r constant circl center origin coordin system euclidean space cartesian coordin system call curvilinear coordin system
+threedimension space one coordin held constant two allow vari result surfac call coordin surfac exampl coordin surfac obtain hold constant spheric coordin system sphere center origin threedimension space intersect two coordin surfac coordin curv
+similar coordin hypersurfac ndimension space result fix singl coordin ndimension coordin system
+coordin mapsedit
+concept coordin map chart central theori manifold coordin map essenti coordin system subset given space properti point exact one set coordin precis coordin map homeomorph open subset space x open subset rn often possibl provid one consist coordin system entir space case collect coordin map put togeth form atlas cover space space equip atlas call manifold addit structur defin manifold structur consist coordin map overlap exampl differenti manifold manifold chang coordin one coordin map anoth alway differenti function
+orientationbas coordinatesedit
+geometri kinemat coordin system use describ linear posit point also describ angular posit axe plane rigid bodi latter case orient second typic refer local coordin system fix node defin base first typic refer global world coordin system instanc orient rigid bodi repres orient matrix includ three column cartesian coordin three point point use defin orient axe local system tip three unit vector align axe
+see alsoedit
+absolut angular momentum
+alphanumer grid
+analyt geometri
+astronom coordin system
+axe convent engin
+coordinatefre
+fraction coordin
+frame refer
+galilean transform
+geograph coordin system
+nomogram graphic represent differ coordin system
+rotat axe
+translat axe
+relativist coordin systemsedit
+eddingtonfinkelstein coordin
+gaussian polar coordin
+gullstrandpainlev coordin
+isotrop coordin
+kruskalszeker coordin
+schwarzschild coordin
+referencesedit
+wood p
+weisstein eric w coordin system mathworld
+weisstein eric w coordin mathworld
+stewart jame b redlin lothar watson saleem colleg algebra th ed brook cole pp isbn
+moon p spencer de rectangular coordin x y z field theori handbook includ coordin system differenti equat solut correct nd rd print ed new york springerverlag pp tabl isbn
+finney ross georg thoma franklin demana bert wait june calculus graphic numer algebra singl variabl version ed addisonwesley publish co isbn x
+margenau henri murphi georg m mathemat physic chemistri new york citi d van nostrand p isbn lccn oclc
+mors pm feshbach h method theoret physic part new york mcgrawhil p isbn x lccn
+jone alfr clement introduct algebra geometri clarendon
+hodg w v d d pedo method algebra geometri volum book ii cambridg univers press isbn
+wood p
+tang k mathemat method engin scientist springer p isbn
+liseikin vladimir d comput differenti geometri approach grid generat springer p isbn
+munkr jame r topolog prentic hall isbn
+hanspet schaub john l junkin rigid bodi kinemat analyt mechan space system american institut aeronaut astronaut p isbn
+voitsekhovskii mi ivanov ab coordin hazewinkel michiel encyclopedia mathemat springer isbn
+wood frederick higher geometri ginn co pp ff
+shigeyuki morita teruko nagas katsumi nomizu geometri differenti form am bookstor p isbn
+extern linksedit
+hexagon coordin system

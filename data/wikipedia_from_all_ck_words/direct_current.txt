@@ -1,0 +1,43 @@
+direct current (dc) is the unidirectional flow of electric charge direct current is produced by sources such as batteries power supplies thermocouples solar cells or dynamos direct current may flow in a conductor such as a wire but can also flow through semiconductors insulators or even through a vacuum as in electron or ion beams the electric current flows in a constant direction distinguishing it from alternating current (ac) a term formerly used for this type of current was galvanic current
+the abbreviations ac and dc are often used to mean simply alternating and direct as when they modify current or voltage
+direct current may be obtained from an alternating current supply by use of a rectifier which contains electronic elements (usually) or electromechanical elements (historically) that allow current to flow only in one direction direct current may be converted into alternating current with an inverter or a motor-generator set
+direct current is used to charge batteries and as power supply for electronic systems very large quantities of direct-current power are used in production of aluminum and other electrochemical processes it is also used for some railways especially in urban areas high-voltage direct current is used to transmit large amounts of power from remote generation sites or to interconnect alternating current power grids
+== history ==
+the first commercial electric power transmission (developed by thomas edison in the late nineteenth century) used direct current because of the significant advantages of alternating current over direct current in transforming and transmission electric power distribution is nearly all alternating current today in the mid-1950s high-voltage direct current transmission was developed and is now an option instead of long-distance high voltage alternating current systems for long distance underseas cables (e.g between countries such as norned) this dc option is the only technically feasible option for applications requiring direct current such as third rail power systems alternating current is distributed to a substation which utilizes a rectifier to convert the power to direct current see war of currents
+== various definitions ==
+the term dc is used to refer to power systems that use only one polarity of voltage or current and to refer to the constant zero-frequency or slowly varying local mean value of a voltage or current for example the voltage across a dc voltage source is constant as is the current through a dc current source the dc solution of an electric circuit is the solution where all voltages and currents are constant it can be shown that any stationary voltage or current waveform can be decomposed into a sum of a dc component and a zero-mean time-varying component the dc component is defined to be the expected value or the average value of the voltage or current over all time
+although dc stands for direct current dc often refers to constant polarity under this definition dc voltages can vary in time as seen in the raw output of a rectifier or the fluctuating voice signal on a telephone line
+some forms of dc (such as that produced by a voltage regulator) have almost no variations in voltage but may still have variations in output power and current
+== circuits ==
+a direct current circuit is an electrical circuit that consists of any combination of constant voltage sources constant current sources and resistors in this case the circuit voltages and currents are independent of time a particular circuit voltage or current does not depend on the past value of any circuit voltage or current this implies that the system of equations that represent a dc circuit do not involve integrals or derivatives with respect to time
+if a capacitor or inductor is added to a dc circuit the resulting circuit is not strictly speaking a dc circuit however most such circuits have a dc solution this solution gives the circuit voltages and currents when the circuit is in dc steady state such a circuit is represented by a system of differential equations the solution to these equations usually contain a time varying or transient part as well as constant or steady state part it is this steady state part that is the dc solution there are some circuits that do not have a dc solution two simple examples are a constant current source connected to a capacitor and a constant voltage source connected to an inductor
+in electronics it is common to refer to a circuit that is powered by a dc voltage source such as a battery or the output of a dc power supply as a dc circuit even though what is meant is that the circuit is dc powered
+== applications ==
+=== domestic ===
+dc is commonly found in many extra-low voltage applications and some low-voltage applications especially where these are powered by batteries or solar power systems (since both can produce only dc)
+most electronic circuits require a dc power supply
+domestic dc installations usually have different types of sockets connectors switches and fixtures from those suitable for alternating current this is mostly due to the lower voltages used resulting in higher currents to produce the same amount of power
+it is usually important with a dc appliance to observe polarity unless the device has a diode bridge to correct for this
+=== automotive ===
+most automotive applications use dc the alternator is an ac device which uses a rectifier to produce dc usually 12 v dc are used but a few have a 6 v (e.g classic vw beetle) or a 42 v electrical system
+=== telecommunication ===
+through the use of a dc-dc converter higher dc voltages such as 48 v to 72 v dc can be stepped down to 36 v 24 v 18 v 12 v or 5 v to supply different loads in a telecommunications system operating at 48 v dc it is generally more efficient to step voltage down to 12 v to 24 v dc with a dc-dc converter and power equipment loads directly at their native dc input voltages versus operating a 48 v dc to 120 v ac inverter to provide power to equipment
+many telephones connect to a twisted pair of wires and use a bias tee to internally separate the ac component of the voltage between the two wires (the audio signal) from the dc component of the voltage between the two wires (used to power the phone)
+telephone exchange communication equipment such as dslams uses standard 48 v dc power supply the negative polarity is achieved by grounding the positive terminal of power supply system and the battery bank this is done to prevent electrolysis depositions
+=== high-voltage power transmission ===
+high-voltage direct current (hvdc) electric power transmission systems use dc for the bulk transmission of electrical power in contrast with the more common alternating current systems for long-distance transmission hvdc systems may be less expensive and suffer lower electrical losses
+=== other ===
+applications using fuel cells (mixing hydrogen and oxygen together with a catalyst to produce electricity and water as byproducts) also produce only dc
+light aircraft electrical systems are typically 12 v or 28 v dc
+== trivia ==
+the unicode code point for the direct current symbol found in the miscellaneous technical block is u+2393 ()
+== see also ==
+electric current
+high-voltage direct current power transmission
+alternating current
+dc offset
+neutral direct-current telegraph system
+== references ==
+== external links ==
+ac/dc what's the difference?
+dc and ac supplies (pdf) itaca

@@ -1,0 +1,98 @@
+wear is related to interactions between surfaces and specifically the removal and deformation of material on a surface as a result of mechanical action of the opposite surface
+in materials science wear is erosion or sideways displacement of material from its derivative and original position on a solid surface performed by the action of another surface
+wear of metals occurs by the plastic displacement of surface and near-surface material and by the detachment of particles that form wear debris this process may occur by contact with other metals nonmetallic solids flowing liquids or solid particles or liquid droplets entrained in flowing gasses
+wear can also be defined as a process where interaction between two surfaces or bounding faces of solids within the working environment results in dimensional loss of one solid with or without any actual decoupling and loss of material aspects of the working environment which affect wear include loads and features such as unidirectional sliding reciprocating rolling and impact loads speed temperature but also different types of counter-bodies such as solid liquid or gas and type of contact ranging between single phase or multiphase in which the last multiphase may combine liquid with solid particles and gas bubbles
+== stages of wear ==
+under normal mechanical and practical procedures the wear-rate normally changes through three different stages(ref.4)
+primary stage or early run-in period where surfaces adapt to each other and the wear-rate might vary between high and low
+secondary stage or mid-age process where a steady rate of ageing is in motion most of the components operational life is comprised in this stage
+tertiary stage or old-age period where the components are subjected to rapid failure due to a high rate of ageing
+the secondary stage is shortened with increasing severity of environmental conditions such as higher temperatures strain rates stress and sliding velocities etc
+note that wear rate is strongly influenced by the operating conditions specifically normal loads and sliding speeds play a pivotal role in determining wear rate in addition tribo-chemical reaction is also important in order to understand the wear behavior different oxide layers are developed during the sliding motion the layers are originated from complex interaction among surface lubricants and environmental molecules in general a single plot namely wear map demonstrating wear rate under different loading condition is used for operation this graph also represents dominating wear modes under different loading conditions (ref 13)
+in explicit wear tests simulating industrial conditions between metallic surfaces there are no clear chronological distinction between different wear-stages due to big overlaps and symbiotic relations between various friction mechanisms surface engineering and treatments are used to minimize wear and extend the components working life
+== types ==
+the study of the processes of wear is part of the discipline of tribology the complex nature of wear has delayed its investigations and resulted in isolated studies towards specific wear mechanisms or processes some commonly referred to wear mechanisms (or processes) include
+adhesive wear
+abrasive wear
+surface fatigue
+fretting wear
+erosive wear
+corrosion and oxidation wear
+a number of different wear phenomena are also commonly encountered and presented in the literature impact- cavitation- diffusive- and corrosive- wear are all such examples
+these wear mechanisms however do not necessarily act independently and wear mechanisms are not mutually exclusive industrial wear are commonly described as incidence of multiple wear mechanisms occurring in unison another way to describe industrial wear is to define clear distinctions in how different friction mechanisms operate for example distinguish between mechanisms with high or low energy density wear mechanisms and/or sub-mechanisms frequently overlap and occur in a synergistic manner producing a greater rate of wear than the sum of the individual wear mechanisms
+=== adhesive wear ===
+adhesive wear can be found between surfaces during frictional contact and generally refers to unwanted displacement and attachment of wear debris and material compounds from one surface to another two separate mechanisms operate between the surfaces
+==== friccohesity ====
+friccohesity defines actual changes in cohesive forces and their reproduction in form of kinetic or frictional forces in liquid when the clustering of the nano-particles scatter in medium for making smaller cluster or aggregates of different nanometer levels
+adhesive wear are caused by relative motion direct contact and plastic deformation which create wear debris and material transfer from one surface to another
+cohesive adhesive forces holds two surfaces together even though they are separated by a measurable distance with or without any actual transfer of material
+the above description and distinction between adhesive wear and its counterpart cohesive adhesive forces are quite common usually cohesive surface forces and adhesive energy potentials between surfaces are examined as a special field in physics departments the adhesive wear and material transfer due to direct contact and plastic deformation are examined in engineering science and in industrial research
+two aligned surfaces may always cause material transfer and due to overlaps and symbiotic relations between relative motional wear and chemical cohesive attraction the wear-categorization have been a source for discussion consequently the definitions and nomenclature must evolve with the latest science and empiric observations
+generally adhesive wear occurs when two bodies slide over or are pressed into each other which promote material transfer this can be described as plastic deformation of very small fragments within the surface layers the asperities or microscopic high points or surface roughness found on each surface define the severity on how fragments of oxides are pulled off and adds to the other surface partly due to strong adhesive forces between atoms but also due to accumulation of energy in the plastic zone between the asperities during relative motion
+the outcome can be a growing roughening and creation of protrusions (i.e. lumps) above the original surface in industrial manufacturing referred to as galling which eventually breaches the oxidized surface layer and connects to the underlying bulk material which enhance the possibility for a stronger adhesion and plastic flow around the lump
+the geometry and the nominal sliding velocity of the lump defines how the flowing material will be transported and accelerated around the lump which is critical to define contact pressure and developed temperature during sliding the mathematical function for acceleration of flowing material is thereby defined by the lumps surface contour
+it's clear given these prerequisites that contact pressure and developed temperature is highly dependent on the lumps geometry
+flow of material exhibits an increase in energy density because initial phase transformation and displacement of material demand acceleration of material and high pressure
+low pressure is not compatible with plastic flow only after deceleration may the flowing material be exposed to low pressure and quickly cooled in other words you can't deform a solid material using direct contact without applying a high pressure and somewhere along the process must acceleration and deceleration take place i.e. high pressure must be applied on all sides of the deformed material flowing material will immediately exhibit energy loss and reduced ability to flow due to phase transformation if ejected from high pressure into low pressure this ability withholds the high pressure and energy density in the contact zone and decreases the amount of energy or friction force needed for further advancement when the sliding continues and partly explain the difference between the static and sliding coefficient of friction () if the main fracture mechanisms are equal to the previous
+adhesive wear is a common fault factor in industrial applications such as sheet metal forming (smf) and commonly encountered in conjunction with lubricant failures and are often referred to as welding wear or galling due to the exhibited surface characteristics phase transition and plastic flow followed by cooling
+the type of mechanism and the amplitude of surface attraction varies between different materials but are amplified by an increase in the density of surface energy most solids will adhere on contact to some extent however oxidation films lubricants and contaminants naturally occurring generally suppress adhesion and spontaneous exothermic chemical reactions between surfaces generally produce a substance with low energy status in the absorbed species
+=== abrasive wear ===
+abrasive wear occurs when a hard rough surface slides across a softer surface astm international (formerly american society for testing and materials) defines it as the loss of material due to hard particles or hard protuberances that are forced against and move along a solid surface
+abrasive wear is commonly classified according to the type of contact and the contact environment the type of contact determines the mode of abrasive wear the two modes of abrasive wear are known as two-body and three-body abrasive wear two-body wear occurs when the grits or hard particles remove material from the opposite surface the common analogy is that of material being removed or displaced by a cutting or plowing operation three-body wear occurs when the particles are not constrained and are free to roll and slide down a surface the contact environment determines whether the wear is classified as open or closed an open contact environment occurs when the surfaces are sufficiently displaced to be independent of one another
+there are a number of factors which influence abrasive wear and hence the manner of material removal several different mechanisms have been proposed to describe the manner in which the material is removed three commonly identified mechanisms of abrasive wear are
+plowing
+cutting
+fragmentation
+plowing occurs when material is displaced to the side away from the wear particles resulting in the formation of grooves that do not involve direct material removal the displaced material forms ridges adjacent to grooves which may be removed by subsequent passage of abrasive particles cutting occurs when material is separated from the surface in the form of primary debris or microchips with little or no material displaced to the sides of the grooves this mechanism closely resembles conventional machining fragmentation occurs when material is separated from a surface by a cutting process and the indenting abrasive causes localized fracture of the wear material these cracks then freely propagate locally around the wear groove resulting in additional material removal by spalling
+abrasive wear can be measured as loss of mass by the taber abrasion test according to iso 9352 or astm d 4060
+=== surface fatigue ===
+surface fatigue is a process by which the surface of a material is weakened by cyclic loading which is one type of general material fatigue fatigue wear is produced when the wear particles are detached by cyclic crack growth of microcracks on the surface these microcracks are either superficial cracks or subsurface cracks
+=== fretting wear ===
+fretting wear is the repeated cyclical rubbing between two surfaces which is known as fretting over a period of time which will remove material from one or both surfaces in contact it occurs typically in bearings although most bearings have their surfaces hardened to resist the problem another problem occurs when cracks in either surface are created known as fretting fatigue it is the more serious of the two phenomena because it can lead to catastrophic failure of the bearing an associated problem occurs when the small particles removed by wear are oxidised in air the oxides are usually harder than the underlying metal so wear accelerates as the harder particles abrade the metal surfaces further fretting corrosion acts in the same way especially when water is present unprotected bearings on large structures like bridges can suffer serious degradation in behaviour especially when salt is used during winter to deice the highways carried by the bridges the problem of fretting corrosion was involved in the silver bridge tragedy and the mianus river bridge accident
+=== erosive wear ===
+erosive wear can be defined as an extremely short sliding motion and is executed within a short time interval erosive wear is caused by the impact of particles of solid or liquid against the surface of an object the impacting particles gradually remove material from the surface through repeated deformations and cutting actions it is a widely encountered mechanism in industry due to the nature of the conveying process piping systems are prone to wear when abrasive particles have to be transported
+the rate of erosive wear is dependent upon a number of factors the material characteristics of the particles such as their shape hardness impact velocity and impingement angle are primary factors along with the properties of the surface being eroded the impingement angle is one of the most important factors and is widely recognized in literature for ductile materials the maximum wear rate is found when the impingement angle is approximately 30 whilst for non ductile materials the maximum wear rate occurs when the impingement angle is normal to the surface
+=== corrosion and oxidation wear ===
+this kind of wear occur in a variety of situations both in lubricated and unlubricated contacts the fundamental cause of these forms of wear is chemical reaction between the worn material and the corroding medium this kind of wear is a mixture of corrosion wear and the synergistic term of corrosion-wear which is also called tribocorrosion
+== testing and evaluation ==
+several standard test methods exist for different types of wear to determine the amount of material removal during a specified time period under well-defined conditions
+the astm international committee g-2 attempts to standardise wear testing for specific applications which are periodically updated the society for tribology and lubrication engineers (stle) has documented a large number of frictional wear and lubrication tests but all test methods have inbuilt limitations and do not give a true picture in every aspect
+this can be attributed to the complex nature of wear in particular industrial wear and the difficulties associated with accurately simulating wear processes.(ref4) an attrition test is a test is carried out to measure the resistance of a granular material to wear
+a standard result review for wear tests defined by the astm international and respective subcommittees such as committee g-2 should be expressed as loss of material during wear in terms of volume the volume loss gives a truer picture than weight loss particularly when comparing the wear resistance properties of materials with large differences in density
+for example a weight loss of 14 g in a sample of tungsten carbide + cobalt (density = 14000 kg/m) and a weight loss of 2.7 g in a similar sample of aluminium alloy (density = 2700 kg/m) both result in the same level of wear (1 cm) when expressed as a volume loss the inverse of volume loss can be used as a comparable index of wear resistance
+standard wear tests are only used for comparative material ranking of a specific test parameter as stipulated in the test method for more realistic values of material deterioration in industrial applications it is necessary to conduct wear testing under conditions simulating the exact wear process.(ref4)
+the working life of an engineering component is expired when dimensional losses exceed the specified tolerance limits wear along with other ageing processes such as fatigue and creep in association with stress concentration factors such as fracture toughness causes materials to progressively degrade eventually leading to material failure at an advanced age
+wear in industrial applications is one of a limited number of fault factors in which an object loses its usefulness and the economic implication can be of enormous value to the industry.(ref 4)
+the archard equation is the classic wear prediction model - see bisson
+== see also ==
+rheology
+abrasion (mechanical)
+tribometer equipment used to measure wear
+concrete degradation
+wear coefficient
+== references ==
+^ a b c rabinowicz e (1995) friction and wear of materials new york john wiley and sons
+^ davis j.r. ed (1998) metals handbook desk edition asm international
+^ chattopadhyay r (2001) surface wear - analysis treatment and prevention oh usa asm-international isbn 0-87170-702-0
+^ chattopadhyay r (2004) advanced thermally assisted surface engineering processes ma usa kluwer academic publishers isbn 1-4020-7696-7
+^ jones m. h. and d scott eds (1983) industrial tribology the practical aspects of friction lubrication and wear new york elsevier scientific publishing company
+^ williams j a (2005) wear and wear particles - some fundamentals. tribology international 38(10) 863-870
+^ a b glaeser w a. ed (1993)
+^ a b stachowiak g w. and a w batchelor (2005) engineering tribology burlington elsevier butterworth-heinemann
+^ standard terminology relating to wear and erosion annual book of standards vol 03.02 astm 1987 p 243-250
+^ a b asm handbook committee (2002) asm handbook friction lubrication and wear technology u.s.a. asm international volume 18
+^ mamata k p (2008) a review on silt erosion in hydro turbines. renewable & sustainable energy reviews 12(7) 1974
+^ car duarte fj de souza vf dos santos (january 2016) mitigating elbow erosion with a vortex chamber powder technology 288 625
+^ a b sinmazcelik t and i taskiran (2007) erosive wear behaviour of polyphenylenesulphide (pps) composites. materials in engineering 28(9) 2471-2477
+^ stachwaik gwidon w. batchelor andrew w (2005) engineering tribology (3rd ed.) elsevier inc
+^ bisson edmond e (1968) various modes of wear and their controlling factors nasa technical memorendum tm x-52426
+=== general references ===
+s.c lim recent development in wear mechanism maps trib intl 1998;31 87-97
+h.c meng and k c ludema wear 1995 183 443-457
+r bosman and d j schipper wear 2012 280;54-62
+m w akram k polychronopoulou a a polycarpou trib int  2013;57;92-100
+== further reading ==
+bowden tabor friction and lubrication of solids (oxford:clarendon press 1950)
+kleis i and kulu p. solid particle erosion springer-verlag london 2008 206 pp
+zum gahr k.-h. microstructure and wear of materials elsevier amsterdam 1987 560 s
+jones j.r.:lubrication friction and wear nasa-sp-8063 1971 75 pp a nice free and good document available here

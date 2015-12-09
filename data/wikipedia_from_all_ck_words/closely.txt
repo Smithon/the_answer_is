@@ -1,0 +1,35 @@
+fastest is a model-based testing tool that works with specifications written in the z notation the tool implements (cristia & rodriguez monetti 2009) the test template framework (ttf) proposed by phil stocks and david carrington in (stocks & carrington 1996) it is freely available online
+== usageedit ==
+fastest presents a command-line user interface the user first needs to load a z specification written in latex format verifying the iso standard (z standard 2002) then the user has to enter a list of the operations to test as well as the testing tactics to apply to each of them in a third step fastest generates the testing tree of each operation after testing trees have been generated users can browse them and their test classes and more importantly they can prune any test class both automatically or manually once testing trees have been pruned users can instruct fastest to find one abstract test case for each leaf in each testing tree (cristia rodriguez monetti & albertengo 2009)
+== testing tactics supported by fastestedit ==
+currently fastest supports the following testing tactics
+disjunctive normal form (dnf) it is the only testing tactic applied by default (regardless of whether the user has added or not other testing tactics) and the first one to be applied
+standard partitions (sp) the user can add modify and delete standard partitions for any predefined z mathematical operator by simply editing a text file (cristia rodriguez monetti & albertengo 2009)
+free types (ft)
+in set extension (ise)
+proper subset of set extension (psse)
+subset of set extension (sse)
+== pruning testing trees in fastestedit ==
+fastest provides two ways of pruning testing trees (cristia rodriguez monetti & albertengo 2010)
+automatic pruning
+to prune a testing tree fastest analyzes the predicate of each leaf to determine if the predicate is a contradiction or not since this problem is undecidable the tool implements a best-effort algorithm that can be improved by users the most important aspect of the algorithm is a library of so called elimination theorems each of which represents a family of contradictions this library can be extended by users by simply editing a text file elimination theorems are conjunctions of parametric z atomic predicates
+manual pruning
+fastest users can prune subtrees or individual leaves of testing trees by issuing two commands these commands will prune all the test classes in the subtree regardless of them being empty or not the main purpose of these commands is to allow engineers to reduce the number of or to eliminate unimportant test cases
+== how fastest finds abstract test casesedit ==
+the tool finds abstract test cases by calculating a finite model for each leaf in a testing tree (cristia & rodriguez monetti 2009) finite models are calculated by restricting the type of each vis variable to a finite set and then by calculating the cartesian product between these sets each leaf predicate is evaluated on each element of this cartesian product until one satisfies the predicate (meaning that an abstract test case was found) or until it is exhausted (meaning that either the test class is unsatisfiable or the finite model is inadequate) in the last case the user has the chance to assist the tool in finding the right finite model or to prune the test class because it is unsatisfiable
+== architecture and technologyedit ==
+fastest is a java application based on the community z tools (czt) project the tool can be used in one of two modes (cristia & rodriguez monetti 2009)
+in distributed mode fastest works as a client-server application the application can be installed in a number of computers each acting as client a server or both users access the application through clients which send test classes to servers (called testing servers) which try to find an abstract test case out of them in this way the heaviest task is distributed across as many computers as possible since the calculation of an abstract test case from a test class is completely independent from each other this architecture speeds up the entire process proportionally with respect to the number of testing servers
+in application mode each instance of fastest is completely independent of each other all the tasks are computed in the local computer
+=== adding new testing tacticsedit ===
+as can be seen from the ttf presentation testing tactics are essential to the method they are the tools that engineers must use to create the most discovering test cases possible then the more sound testing tactics available to engineers the better
+in fastest users can add testing tactics of their own by implementing the tactic interface provided by the tool this interface has methods to configure and apply testing tactics the interface definition is the following
+== see alsoedit ==
+test template framework
+model-based testing
+== notesedit ==
+== referencesedit ==
+cristi maximiliano rodrguez monetti pablo (2009) implementing and applying the stocks-carrington framework for model-based testing formal methods and software engineering 11th international conference on formal engineering methods icfem 2009 rio de janeiro brazil springer-verlag
+stocks phil carrington david (1996) a framework for specification-based testing ieee transactions on software engineering 22 (11) 777793 doi:10.1109/32.553698 
+information technology z formal specification notation syntax type system and semantics (1 mb pdf) (iso/iec 13568:2002 ed.) 2002 pp 196 pages 
+cristi maximiliano albertengo pablo rodrguez monetti pablo (2010) pruning testing trees in the test template framework by detecting mathematical contradictions 8th ieee international conference on software engineering and formal methods (sefm) 2010 pisa italy ieee

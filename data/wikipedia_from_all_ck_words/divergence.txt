@@ -1,0 +1,74 @@
+in vector calculus divergence is a vector operator that measures the magnitude of a vector field's source or sink at a given point in terms of a signed scalar more technically the divergence represents the volume density of the outward flux of a vector field from an infinitesimal volume around a given point
+for example consider air as it is heated or cooled the relevant vector field for this example is the velocity of the moving air at a point if air is heated in a region it will expand in all directions such that the velocity field points outward from that region therefore the divergence of the velocity field in that region would have a positive value as the region is a source if the air cools and contracts the divergence has a negative value as the region is a sink
+== definition of divergenceedit ==
+in physical terms the divergence of a three-dimensional vector field is the extent to which the vector field flow behaves like a source or a sink at a given point it is a local measure of its outgoingness"the extent to which there is more exiting an infinitesimal region of space than entering it if the divergence is nonzero at some point then there must be a source or sink at that position (note that we are imagining the vector field to be like the velocity vector field of a fluid (in motion) when we use the terms flow sink and so on.)
+more rigorously the divergence of a vector field f at a point p is defined as the limit of the net flow of f across the smooth boundary of a three-dimensional region v divided by the volume of v as v shrinks to p formally
+where |v | is the volume of v s(v) is the boundary of v and the integral is a surface integral with n being the outward unit normal to that surface the result div f is a function of p from this definition it also becomes explicitly visible that div f can be seen as the source density of the flux of f
+in light of the physical interpretation a vector field with constant zero divergence is called incompressible or solenoidal in this case no net flow can occur across any closed surface
+the intuition that the sum of all sources minus the sum of all sinks should give the net flow outwards of a region is made precise by the divergence theorem
+=== application in cartesian coordinatesedit ===
+let x y z be a system of cartesian coordinates in 3-dimensional euclidean space and let i j k be the corresponding basis of unit vectors
+the divergence of a continuously differentiable vector field f = u i + v j + w k is equal to the scalar-valued function
+although expressed in terms of coordinates the result is invariant under orthogonal transformations as the physical interpretation suggests
+the common notation for the divergence f is a convenient mnemonic where the dot denotes an operation reminiscent of the dot product take the components of (see del) apply them to the components of f and sum the results because applying an operator is different from multiplying the components this is considered an abuse of notation
+the divergence of a continuously differentiable second-order tensor field is a first-order tensor field
+=== cylindrical coordinatesedit ===
+for a vector expressed in cylindrical coordinates as
+where ea is the unit vector in direction a the divergence is
+=== spherical coordinatesedit ===
+in spherical coordinates with the angle with the z axis and the rotation around the z axis the divergence reads
+== decomposition theoremedit ==
+it can be shown that any stationary flux v(r) which is at least two times continuously differentiable in and vanishes sufficiently fast for |r| can be decomposed into an irrotational part e(r) and a source-free part b(r) moreover these parts are explicitly determined by the respective source-densities (see above) and circulation densities (see the article curl)
+for the irrotational part one has
+with
+the source-free part b can be similarly written one only has to replace the scalar potential (r) by a vector potential a(r) and the terms by +a and the source-density divv by the circulation-density v
+this decomposition theorem is in fact a by-product of the stationary case of electrodynamics it is a special case of the more general helmholtz decomposition which works in dimensions greater than three as well
+== propertiesedit ==
+the following properties can all be derived from the ordinary differentiation rules of calculus most importantly the divergence is a linear operator i.e
+for all vector fields f and g and all real numbers a and b
+there is a product rule of the following type if is a scalar valued function and f is a vector field then
+or in more suggestive notation
+another product rule for the cross product of two vector fields f and g in three dimensions involves the curl and reads as follows
+or
+the laplacian of a scalar field is the divergence of the field's gradient
+the divergence of the curl of any vector field (in three dimensions) is equal to zero
+if a vector field f with zero divergence is defined on a ball in r3 then there exists some vector field g on the ball with f = curl(g) for regions in r3 more complicated than this the latter statement might be false (see poincar lemma) the degree of failure of the truth of the statement measured by the homology of the chain complex
+(where the first map is the gradient the second is the curl the third is the divergence) serves as a nice quantification of the complicatedness of the underlying region u these are the beginnings and main motivations of de rham cohomology
+== relation with the exterior derivativeedit ==
+one can express the divergence as a particular case of the exterior derivative which takes a 2-form to a 3-form in r3 define the current two form
+it measures the amount of stuff flowing through a surface per unit time in a stuff fluid of density moving with local velocity f its exterior derivative is then given by
+thus the divergence of the vector field f can be expressed as
+here the superscript is one of the two musical isomorphisms and is the hodge dual note however that working with the current two form itself and the exterior derivative is usually easier than working with the vector field and divergence because unlike the divergence the exterior derivative commutes with a change of (curvilinear) coordinate system
+== generalizationsedit ==
+the divergence of a vector field can be defined in any number of dimensions if
+in a euclidean coordinate system where and  define
+the appropriate expression is more complicated in curvilinear coordinates
+in the case of one dimension a vector field is simply a regular function and the divergence is simply the derivative
+for any n the divergence is a linear operator and it satisfies the product rule
+for any scalar-valued function 
+the divergence can be defined on any manifold of dimension n with a volume form (or density) e.g a riemannian or lorentzian manifold generalising the construction of a two form for a vector field on  on such a manifold a vector field x defines a n1 form obtained by contracting x with  the divergence is then the function defined by
+standard formulas for the lie derivative allow us to reformulate this as
+this means that the divergence measures the rate of expansion of a volume element as we let it flow with the vector field
+on a riemannian or lorentzian manifold the divergence with respect to the metric volume form can be computed in terms of the levi civita connection
+where the second expression is the contraction of the vector field valued 1-form with itself and the last expression is the traditional coordinate expression used by physicists
+an equivalent expression without using connection is
+where is the metric and denotes partial derivative with respect to coordinate 
+divergence can also be generalised to tensors in einstein notation the divergence of a contravariant vector is given by
+where is the covariant derivative
+equivalently some authors define the divergence of any mixed tensor by using the musical notation #
+if t is a (p,q)-tensor (p for the contravariant vector and q for the covariant one) then we define the divergence of t to be the (p,q1)-tensor
+that is we trace the covariant derivative on the first two covariant indices
+== see alsoedit ==
+curl
+del in cylindrical and spherical coordinates
+divergence theorem
+gradient
+laplacian
+== notesedit ==
+== referencesedit ==
+brewer jess h (1999-04-07) divergence of a vector field vector calculus retrieved 2007-09-28
+theresa m korn korn granino arthur mathematical handbook for scientists and engineers definitions theorems and formulas for reference and review new york dover publications pp 157160 isbn 0-486-41147-8
+== external linksedit ==
+hazewinkel michiel ed (2001) divergence encyclopedia of mathematics springer isbn 978-1-55608-010-4
+the idea of divergence of a vector field
+khan academy divergence video lesson

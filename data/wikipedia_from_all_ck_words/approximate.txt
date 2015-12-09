@@ -1,0 +1,35 @@
+an approximation is anything that is similar but not exactly equal to something else the term can be applied to various properties (e.g value quantity image description) that are nearly but not exactly correct similar but not exactly the same (e.g the approximate time was 10 o'clock)
+although approximation is most often applied to numbers it is also frequently applied to such things as mathematical functions shapes and physical laws
+in science approximation can refer to using a simpler process or model when the correct model is difficult to use an approximate model is used to make calculations easier approximations might also be used if incomplete information prevents use of exact representations
+the type of approximation used depends on the available information the degree of accuracy required the sensitivity of the problem to this data and the savings (usually in time and effort) that can be achieved by approximation
+== mathematics ==
+approximation theory is a branch of mathematics a quantitative part of functional analysis diophantine approximation deals with approximations of real numbers by rational numbers approximation usually occurs when an exact form or an exact numerical number is unknown or difficult to obtain however some known form may exist and may be able to represent the real form so that no significant deviation can be found it also is used when a number is not rational such as the number  which often is shortened to 3.14159 or 2 to 1.414
+numerical approximations sometimes result from using a small number of significant digits calculations are likely to involve rounding errors leading to approximation log tables slide rules and calculators produce approximate answers to all but the simplest calculations the results of computer calculations are normally an approximation expressed in a limited number of significant digits although they can be programmed to produce more precise results approximation can occur when a decimal number cannot be expressed in a finite number of binary digits
+related to approximation of functions is the asymptotic value of a function i.e the value as one or more of a function's parameters becomes arbitrarily large for example the sum (k/2)+(k/4)+(k/8)+...(k/2^n) is asymptotically equal to k unfortunately no consistent notation is used throughout mathematics and some texts will use to mean approximately equal and ~ to mean asymptotically equal whereas other texts use the symbols the other way around
+as another example in order to accelerate the convergence rate of evolutionary algorithms fitness approximationthat leads to build model of the fitness function to choose smart search stepsis a good solution
+== science ==
+approximation arises naturally in scientific experiments the predictions of a scientific theory can differ from actual measurements this can be because there are factors in the real situation that are not included in the theory for example simple calculations may not include the effect of air resistance under these circumstances the theory is an approximation to reality differences may also arise because of limitations in the measuring technique in this case the measurement is an approximation to the actual value
+the history of science shows that earlier theories and laws can be approximations to some deeper set of laws under the correspondence principle a new scientific theory should reproduce the results of older well-established theories in those domains where the old theories work the old theory becomes an approximation to the new theory
+some problems in physics are too complex to solve by direct analysis or progress could be limited by available analytical tools thus even when the exact representation is known an approximation may yield a sufficiently accurate solution while reducing the complexity of the problem significantly physicists often approximate the shape of the earth as a sphere even though more accurate representations are possible because many physical characteristics (e.g gravity) are much easier to calculate for a sphere than for other shapes
+approximation is also used to analyze the motion of several planets orbiting a star this is extremely difficult due to the complex interactions of the planets gravitational effects on each other an approximate solution is effected by performing iterations in the first iteration the planets gravitational interactions are ignored and the star is assumed to be fixed if a more precise solution is desired another iteration is then performed using the positions and motions of the planets as identified in the first iteration but adding a first-order gravity interaction from each planet on the others this process may be repeated until a satisfactorily precise solution is obtained
+the use of perturbations to correct for the errors can yield more accurate solutions simulations of the motions of the planets and the star also yields more accurate solutions
+the most common versions of philosophy of science accept that empirical measurements are always approximationsthey do not perfectly represent what is being measured
+== unicode ==
+symbols used to denote items that are approximately equal are wavy or dotted equals signs
+(u+2248)
+(u+2243) a combination of  and = also used to indicate asymptotically equal to
+(u+2245) another combination of  and = which is used to indicate isomorphism or sometimes congruence
+(u+224a) also a combination of  and = used to indicate equivalence or approximate equivalence
+(u+223c) which is also sometimes used to indicate proportionality
+(u+223d) which is also sometimes used to indicate proportionality
+(u+2250) which can also be used to represent the approach of a variable to a limit
+(u+2252) which is used like  in both japanese and korean
+(u+2253) a reversed variation of 
+== latex symbols ==
+(\approx) usually to indicate approximation between numbers like 
+(\simeq) usually to indicate asymptotic equivalence between functions like  so writing would be wrong despite wide use
+(\sim) usually to indicate proportionality between functions the same of the line above will be 
+(\cong) usually to indicate congruence between figures like 
+== see also ==
+== references ==
+== external links ==

@@ -1,0 +1,64 @@
+mathemat foliat geometr tool understand manifold leav foliat consist integr subbundl tangent bundl foliat manifold may split piec interact simpli foliat look local like decomposit manifold union parallel submanifold smaller dimens
+definitionedit
+formal dimens p foliat f ndimension manifold m cover chart ui togeth map
+overlap pair ui uj transit function ij rn rn defin
+take form
+x denot first n p coordin y denot last p coordin
+chart ui stripe x constant match stripe chart uj technic stripe call plaqu foliat chart plaqu p dimension submanifold submanifold piec togeth chart chart form maxim connect inject immers submanifold call leav foliat
+notion leav allow intuit way think foliat pdimension foliat nmanifold m may thought simpli collect ma pairwisedisjoint connect immers pdimension submanifold leav foliat m everi point x m chart u homeomorph rn contain x everi leaf ma meet u either empti set countabl collect subspac whose imag pdimension affin subspac whose first n p coordin constant
+shrink chart ui written uix uiy uix rnp uiy rp uiy homeomorph plaqu point uix parametr plaqu ui pick y uiy uix y submanifold ui intersect everi plaqu exact call local transvers section foliat note due monodromi global transvers section foliat might exist
+examplesedit
+flat spaceedit
+consid ndimension space foliat product subspac consist point whose first n p coordin constant cover singl chart statement essenti rn rnp rp leav plaqu rp enumer rnp analog seen direct three dimens take n p dimension leav book enumer dimension page number
+bundlesedit
+rather trivial exampl foliat product m b f foliat leav fb b f b b anoth foliat m given bf b f f f
+general class flat gbundl g homeof manifold f given represent b homeof flat homeofbundl monodromi given b act univers cover deck transform f mean represent
+flat bundl fit framework fiber bundl map m b manifold fiber bundl manifold f b b open neighborhood u homeomorph p u f u project first factor fiber bundl yield foliat fiber space leav l homeomorph b particular l hausdorff manifold
+coversedit
+m n cover manifold f foliat n pull back foliat m general map mere branch cover branch locus transvers foliat foliat pull back
+submersionsedit
+mn nq q n submers manifold follow invers function theorem connect compon fiber submers defin codimens q foliat m fiber bundl exampl type
+exampl submers fiber bundl given
+submers yield foliat r invari zaction given
+x y r z z induc foliat z r call dimension reeb foliat annulus resp dimension nonorient reeb foliat mbius band leaf space hausdorff
+reeb foliationsedit
+defin submers
+r sn cylindr coordin ndimension disk dn submers yield foliat dn r invari zaction given
+x y dn r z z induc foliat zdn r call ndimension reeb foliat leaf space hausdorff
+n give foliat solid torus use defin reeb foliat sphere glu two solid tori along boundari foliat odddimension sphere sn also explicit known
+lie groupsedit
+g lie group h lie subgroup g foliat coset h h close g quotient space gh smooth hausdorff manifold turn g fiber bundl fiber h base gh fiber bundl actual princip structur group h
+lie group actionsedit
+let g lie group act smooth manifold m action local free action free action orbit g defin foliat m
+kroneck foliationedit
+set line torus rz slope form foliat leav obtain project straight line slope plane r onto torus slope ration leav close curv homeomorph circl irrat leav noncompact homeomorph real line dens torus cf irrat rotat irrat case known kroneck foliat leopold kroneck similar construct use foliat rn parallel line yield dimension foliat ntorus rnzn associ linear flow torus
+suspens foliationsedit
+flat bundl foliat fibr also foliat transvers fiber whose leav
+canon project foliat call suspens represent b homeof
+particular b homeomorph f suspens foliat defin suspens foliat represent z homeof given z z space leav l f x y whenev y nx n z
+kroneck foliat torus suspens foliat rotat r angl
+foliat integrabilityedit
+close relationship assum everyth smooth vector field given vector field x m never zero integr curv give dimension foliat ie codimens n foliat
+observ generalis frobenius theorem say necessari suffici condit distribut ie n p dimension subbundl tangent bundl manifold tangent leav foliat set vector field tangent distribut close lie bracket one also phrase differ question reduct structur group tangent bundl gln reduc subgroup
+condit frobenius theorem appear integr condit assert fulfil reduct take place local transit function requir block structur exist exampl codimens case defin tangent bundl foliat ker noncanon ie nonzero covector field given integr iff d everywher
+global foliat theori topolog constraint exist exampl surfac case everywher nonzero vector field exist orient compact surfac torus consequ poincarhopf index theorem show euler characterist mani deep connect contact topolog opposit concept
+exist foliationsedit
+haeflig gave necessari suffici condit distribut connect noncompact manifold homotop integr distribut thurston show compact manifold distribut foliat dimens
+see alsoedit
+gstructur
+classifi space foliat
+haeflig structur general foliat close take pullback
+lamin
+reeb foliat sphere
+taut foliat
+referencesedit
+general
+anosov dv foliat hazewinkel michiel encyclopedia mathemat springer isbn
+haeflig andr feuilletag sur les varit ouvert topolog intern journal mathemat doi issn mr
+lawson h blain foliat bulletin american mathemat societi doi issn mr
+moerdijk iek mrun j introduct foliat lie groupoid cambridg studi advanc mathemat cambridg univers press isbn mr
+reeb georg sur certain proprit topologiqu des varit feuillet actualit sci ind hermann cie pari mr
+thurston william theori foliat codimens greater one commentarii mathematici helvetici doibf issn mr
+thurston william p exist codimensionon foliat annal mathemat second seri annal mathemat doi issn x jstor mr
+extern linksedit
+foliat manifold atlas

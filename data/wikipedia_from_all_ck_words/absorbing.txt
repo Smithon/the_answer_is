@@ -1,0 +1,14 @@
+in functional analysis and related areas of mathematics an absorbing set in a vector space is a set s which can be inflated to include any element of the vector space alternative terms are radial or absorbent set
+== definition ==
+given a vector space x over the field f of real or complex numbers a set s is called absorbing if for all there exists a real number r such that
+with
+== examples ==
+in a semi normed vector space the unit ball is absorbing
+== properties ==
+the finite intersection of absorbing sets is absorbing
+== see also ==
+algebraic interior
+bounded set (topological vector space)
+== references ==
+robertson a.p. w.j robertson (1964) topological vector spaces cambridge tracts in mathematics 53 cambridge university press p 4
+schaefer helmuth h (1971) topological vector spaces gtm 3 new york springer-verlag p 11 isbn 0-387-98726-6

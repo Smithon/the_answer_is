@@ -1,0 +1,86 @@
+product develop process optim requir singular document physic function need particular design product process must abl perform common use formal sens system engin softwar engin enterpris engin statement identifi necessari attribut capabl characterist qualiti system valu util custom organ intern user stakehold requir specif often imprecis refer spec differ sort specif refer explicit set requir satisfi materi design product servic
+classic engin approach set requir use input design stage product develop requir also import input verif process sinc test trace back specif requir requir show element function necessari particular project reflect waterfal model softwar lifecycl howev iter method softwar develop agil method use system requir increment develop parallel design implement
+origin term
+term requir use softwar engin communiti sinc least
+product versus process requir
+requir said relat two field
+product requir prescrib properti system product
+process requir prescrib activ perform develop organ instanc process requir could specifi methodolog must follow constraint organ must obey
+product process requir close link product requir could said specifi autom requir support process requir process requir could said specifi activ requir support product requir exampl maximum develop cost requir process requir may impos help achiev maximum sale price requir product requir requir product maintain product requir often address impos requir follow particular develop style eg objectori program styleguid reviewinspect process process requir
+type requir
+requir typic classifi type produc differ stage develop progress taxonomi depend overal model use exampl follow scheme devis intern institut busi analysi busi analysi bodi knowledg see also furp type requir
+architectur requir
+architectur requir explain done identifi necessari system structur system behavior ie system architectur system
+busi requir
+highlevel statement goal object need organ usual describ opportun organ want realis problem want solv often state busi case
+user stakehold requir
+midlevel statement need particular stakehold group stakehold usual describ someon want interact intend solut often act midpoint highlevel busi requir detail solut requir
+function solut requir
+usual detail statement capabl behaviour inform solut need exampl includ format text calcul number modul signal also known capabl
+qualityofservic nonfunct requir
+usual detail statement condit solut must remain effect qualiti solut must constraint within must oper exampl includ reliabl testabl maintain avail also known characterist constraint iliti
+implement transit requir
+usual detail statement capabl behaviour requir enabl transit current state enterpris desir futur state thereaft longer requir exampl includ recruit role chang educ migrat data one system anoth
+characterist good requir
+characterist good requir various state differ writer writer general emphas characterist appropri general discuss specif technolog domain address howev follow characterist general acknowledg
+mani attribut consid contribut qualiti requir requir subject rule data integr exampl accuracycorrect validityauthor also worthi attribut traceabl confirm requir set satisfi need less requir
+add extern observ requir specifi characterist product extern observ experienc user advoc argu requir specifi intern architectur design implement test decis probabl constraint clear articul constraint section requir document contrast view perspect fail two point first perspect recogn user experi may support requir perceiv user exampl requir present geocod inform user may support requir interfac extern third parti busi partner interfac impercept user though present inform obtain interfac certain would second constraint limit design altern wherea requir specifi design characterist continu exampl requir select web servic interfac differ constraint limit design altern method compat singl signon architectur
+verif
+requir verifi common method test case anoth verif method use instead eg analysi demonstr inspect review design
+certain requir structur verifi includ requir say system must never alway exhibit particular properti proper test requir would requir infinit test cycl requir must rewritten verifi state requir must verifi
+nonfunct requir unverifi softwar level must still kept document custom intent howev may trace process requir determin practic way meet exampl nonfunct requir free backdoor may satisfi replac process requir use pair program nonfunct requir trace system compon verifi level exampl system reliabl often verifi analysi system level avion softwar complic safeti requir must follow dob develop process
+requir analysi requir engin
+requir analysi requir engin set activ lead deriv system softwar requir requir engin may involv feasibl studi conceptu analysi phase project requir elicit gather understand review articul need stakehold requir analysi analysi check consist complet specif document requir valid make sure specifi requir correct
+requir prone issu ambigu incomplet inconsist techniqu rigor inspect shown help deal issu ambigu incomplet inconsist resolv requir phase typic cost order magnitud less correct issu found later stage product develop requir analysi strive address issu
+engin trade consid requir vagu detail
+take long time produc sometim point obsolet complet
+limit implement option avail
+cost produc
+agil approach evolv way overcom problem baselin requir highlevel elabor detail justintim last respons moment basi
+document requir
+requir usual written mean communic differ stakehold mean requir easi understand normal user develop one common way document requir state system must exampl contractor must deliv product later xyz date method includ use case user stori
+chang requir
+requir general chang time defin approv requir fall chang control mani project requir alter system complet part due complex comput softwar fact user dont know want see characterist requir led requir manag studi practic
+issu
+compet standard
+sever compet view requir manag use two lead bodi industri ieee iiba group differ similar definit requir
+guid busi analysi bodi knowledg version iiba defin requir
+condit capabl need stakehold solv problem achiev object
+condit capabl must met possess solut solut compon satisfi contract standard specif formal impos document
+document represent condit capabl
+definit base ieee ieee standard glossari softwar engin terminolog
+requir creep
+scope creep may occur requir move time requir manag alter requir allow adequ track preced step busi goal user requir throttl addit oversight handl cost potenti program failur requir chang easi like happen easi requir chang occur faster develop abl produc work effort go backward result
+multipl requir taxonomi
+multipl taxonomi requir depend framework one oper exampl state standard ieee vice iiba us dod approach differ languag process differ venu casual speech caus confus deviat desir process
+disput regard necess rigour softwar requir
+agil softwar develop methodolog question need rigor describ softwar requir upfront consid move target instead extrem program exampl describ requir inform use user stori short summari fit index card explain one aspect system consid develop duti direct ask custom clarif agil methodolog also typic captur requir seri autom accept test research suggest softwar requir illus creat misrepres design decis requir situat real requir evid
+process corrupt
+process run human subject human flaw govern conveni desir polit may lead except outright subvers process deviat textbook way process suppos proceed exampl includ
+process rigor get respect except chang common organ run littl independ power reliabl transpar record may lead overal process ignor
+new player want doover eg natur tendenc new person want chang predecessor work demonstr power claim valu new ceo want chang previous ceo plan includ busi goal someth softwar solut alreadi develop newli creat offic object current develop project exist user requir craft begin effort backtrack rebaselin project
+color outsid line eg user want control input thing meet requir manag definit user requir prioriti level insert design detail favor vendor characterist user requir everyth offic say highest possibl prioriti
+show late eg littl effort requir elicit prior develop may due think get benefit regardless individu particip point insert demand test stage next spin prefer alway right wait postwork critiqu
+within us depart defens process histor exampl requir issu
+m bradley issu casual requir movement portray pentagon war
+f growth lightweight fighter concept fighter mafia attribut f program attempt sabotag competit individu offic put local desir erod concept lightweight low cost
+enthusiasm ca netreadi led mandat key perform paramet netreadi offic outsid offic defin requir process consist offic previous defin process definit kpp effort might appropri abl defin constitut netreadi
+see also
+busi requir
+softwar requir
+requir engin
+requir analysi
+requir elicit
+requir manag
+requir priorit
+requir traceabl
+specif technic standard
+shall phrase
+moscow method prioritis techniqu
+user stori
+use case
+refer
+extern link
+discov system requir
+ten command write requir
+model softwar requir specif correct complet consist unambigu

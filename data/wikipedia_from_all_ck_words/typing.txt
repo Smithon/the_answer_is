@@ -1,0 +1,70 @@
+typing is the process of writing or inputting text by pressing keys on a typewriter computer keyboard cell phone or calculator it can be distinguished from other means of text input such as handwriting and speech recognition text can be in the form of letters numbers and other symbols
+the world's first typist was lillian sholes from wisconsin she was the daughter of christopher sholes the man who invented the first practical typewriter
+user interface features such as spell checker and autocomplete serve to facilitate and speed up typing and to prevent or correct errors the typist may make
+== technique ==
+=== touch typing ===
+the basic technique stands in contrast to hunt and peck typing in which the typist keeps his or her eyes on the source copy at all times touch typing also involves the use of the home row method where typists keep their wrists up rather than resting them on a desk or keyboard (which can cause carpal tunnel syndrome) to avoid this typists should sit up tall leaning slightly forward from the waist place their feet flat on the floor in front of them with one foot slightly in front of the other and keep their elbows close to their sides with forearms slanted slightly upward to the keyboard fingers should be curved slightly and rest on the home row
+many touch typists also use keyboard shortcuts or hotkeys when typing on a computer this allows them to edit their document without having to take their hands off the keyboard to use a mouse an example of a keyboard shortcut is pressing the ctrl key plus the s key to save a document as they type or the ctrl key plus the z key to undo a mistake many experienced typists can feel or sense when they have made an error and can hit the backspace key and make the correction without missing a beat
+=== hunt and peck ===
+hunt and peck (two-fingered typing) also known as search and peck or eagle finger is a common form of typing in which the typist presses each key individually instead of relying on the memorized position of keys the typist must find each key by sight use of this method may also prevent the typist from being able to see what has been typed without glancing away from the keys although good accuracy may be achieved any typing errors that are made may not be noticed immediately if at all there is also the disadvantage that because fewer fingers are used those that are used are forced to move a much greater distance
+there are many idiosyncratic typing styles in between hunt and peck and touch typing for example many people will type blindly but use only two to five fingers and not always in a systematic fashion some people have developed advanced forms of peck minus hunt that do not require looking at the keys or a sacrifice in speed another approach is the two fingered method in which the typist only uses his or her pointer fingers this is faster for people who do not use touch typing
+=== buffering ===
+some people combine touch typing and hunt and peck by using a buffering method in the buffer method the typist looks at the source copy mentally stores one or several sentences then looks at the keyboard and types out the buffer of sentences this eliminates frequent up and down motions with the head and is used in typing competitions in which the typist is not well versed in touch typing not normally used in day-to-day contact with keyboards this buffer method is used only when time is of the essence
+=== thumbing ===
+a late 20th century trend in typing primarily used with devices with small keyboards (such as pda's and smartphones) is thumbing or thumb typing this can be accomplished using one or both thumbs similar to desktop keyboards and input devices if a user overuses keys which need hard presses and/or have small and unergonomic layouts it could cause thumb tendonitis or other repetitive strain injury
+== words per minute ==
+words per minute (wpm) is a measure of typing speed commonly used in recruitment for the purposes of wpm measurement a word is standardized to five characters or keystrokes therefore brown counts as one word but accounted counts as two
+the benefits of a standardized measurement of input speed are that it enables comparison across language and hardware boundaries the speed of an afrikaans-speaking operator in cape town can be compared with a french-speaking operator in paris
+=== alphanumeric entry ===
+in one study of average computer users the average rate for transcription was 33 words per minute and 19 words per minute for composition in the same study when the group was divided into fast moderate and slow groups the average speeds were 40 wpm 35 wpm and 23 wpm respectively an average professional typist reaches 50 to 80 wpm while some positions can require 80 to 95 wpm (usually the minimum required for dispatch positions and other typing jobs) and some advanced typists work at speeds above 120 wpm two-finger typists sometimes also referred to as hunt and peck typists commonly reach sustained speeds of about 37 wpm for memorized text and 27 wpm when copying text but in bursts may be able to reach speeds of 60 to 70 wpm from the 1920s through the 1970s typing speed (along with shorthand speed) was an important secretarial qualification and typing contests were popular and often publicized by typewriter companies as promotional tools
+a less common measure of the speed of a typist cpm is used to identify the number of characters typed per minute this is a common measurement for typing programs or typing tutors as it can give a more accurate measure of a person's typing speed without having to type for a prolonged period of time the common conversion factor between wpm and cpm is 5 it is also used occasionally for associating the speed of a reader with the amount they have read cpm has also been applied to 20th century printers but modern faster printers more commonly use ppm (pages per minute)
+the fastest typing speed ever 216 words per minute was achieved by stella pajunas-garnand from chicago in 1946 in one minute on an ibm electric as of 2005 writer barbara blackburn was the fastest english language typist in the world according to the guinness book of world records using the dvorak simplified keyboard she has maintained 150 wpm for 50 minutes and 170 wpm for shorter periods she has been clocked at a peak speed of 212 wpm blackburn who failed her qwerty typing class in high school first encountered the dvorak keyboard in 1938 quickly learned to achieve very high speeds and occasionally toured giving speed-typing demonstrations during her secretarial career she appeared on the david letterman show and felt that letterman made a spectacle of her blackburn died in april 2008 however the recent emergence of several competitive typing websites has allowed several fast typists on computer keyboards to emerge along with new records though these are unverifiable for the most part two of the most notable online records that are considered genuine are 241.82 wpm on an english text on typingzone.com by brazilian guilherme sandrini (equivalent to 290.184 wpm using the traditional definition for words per minute since this site defines a word as six characters rather than five) and 256 wpm (a record caught on video) on typeracer by american sean wrona the inaugural ultimate typing championship winner which is considered the highest ever legitimate score ever set on the site both of these records are essentially sprint speeds on short text selections lasting much less than one minute and were achieved on the qwerty keyboard wrona also maintained 174 wpm on a 50-minute test taken on hi-games.net another online typing website to unofficially displace blackburn as the fastest endurance typist although disputes might still arise over differences in the difficulty of the texts as well as wrona's use of a modern computer keyboard as opposed to the typewriter used by blackburn
+using a personalized interface physicist stephen hawking who suffers from amyotrophic lateral sclerosis managed to type 15 wpm with a switch and adapted software created by walt woltosz due to a slowdown of his motor skills his interface was upgraded with an infrared camera that detects twitches in the cheek muscle under the eye. currently he can write approximately one word per minute
+=== numeric entry ===
+the numeric entry or 10-key speed is a measure of one's ability to manipulate a numeric keypad
+== text-entry research ==
+=== error analysis ===
+with the introduction of computers and word-processors there has been a change in how text-entry is performed in the past using a typewriter speed was measured with a stopwatch and errors were tallied by hand with the current technology document preparation is more about using word-processors as a composition aid changing the meaning of error rate and how it is measured research performed by r william soukoreff and i scott mackenzie has led to a discovery of the application of a well-known algorithm through the use of this algorithm and accompanying analysis technique two statistics were used minimum string distance error rate (msd error rate) and keystrokes per character (kspc) the two advantages of this technique include
+1 participants are allowed to enter text naturally since they may commit error and correct them
+2 the identification of errors and generation of error rate statistics is easy to automate
+==== deconstructing the text input process ====
+through analysis of keystrokes the keystrokes of the input stream were divided into four classes correct (c) incorrect fixed (if) fixes (f) and incorrect not fixed (inf) these key stroke classification are broken down into the following
+1 the two classes correct and incorrect not fixed comprise all of the characters in transcribed text
+2 fixes (f) keystrokes are easy to identify and include keystrokes such as backspace delete cursor movements and modifier keys
+3 incorrect fixed (if) keystrokes are found in the input stream but not the transcribed text and are not editing keys
+using these classes the minimum string distance error rate and the key strokes per character statistics can both be calculated
+==== minimum string distance error rate ====
+the minimum string distance (msd) is the number of primitives which is the number of insertions deletions or substitutions to transform one string into another the following equation was found for the msd error rate
+msd error rate =
+==== key strokes per character (kspc) ====
+with the minimum string distance error errors that are corrected do not appear in the transcribed text the following example will show you why this is an important class of errors to consider
+presented text the quick browninput stream the quix<-ck browntranscribed text the quick brown
+in the above example the incorrect character ('x') was deleted with a backspace ('<-') since these errors do not appear in the transcribed text the msd error rate is 0% this is why there is the key strokes per character (kspc) statistic
+kspc =
+the three shortcomings of the kspc statistic are listed below
+1 high kspc values can be related to either many errors which were corrected or few errors which were not corrected however there is no way to distinguish the two
+2 kspc depend on the text input method and cannot be used to meaningfully compare two different input methods such as qwerty-keyboard and a multi-tap input
+3 there is no obvious way to combine kspc and msd into an over-all error rate even though they have an inverse relationship
+==== further metrics ====
+using the classes described above further metrics were defined by r william soukoreff and i.scott mackenzie
+1 error correction efficiency refers to the ease with which the participant performed error correction.correction efficiency = if/f
+2 participant conscientiousness is the ratio of corrected errors to the total number of error which helps distinguish perfectionists from apathetic participants.participant conscientiousness = if / (if + inf)
+3 if c represents the amount of useful information transferred inf if and f represent the proportion of bandwidth wasted.utilized bandwidth = c / (c + inf + if + f)wasted bandwidth = (inf + if + f)/ (c + inf + if + f)
+==== total error rate ====
+the classes described also provide an intuitive definition of total error rate
+total error rate = ((inf + if)/ (c + inf + if)) * 100%not corrected error rate = (inf/ (c + inf + if)) * 100%corrected error rate = (if/ (c + inf + if)) * 100%
+since these three error rates are ratios they are comparable between different devices something that cannot be done with the kspc statistic which is device dependent
+== keystroke dynamics ==
+keystroke dynamics or typing dynamics is the obtaining of detailed timing information that describes exactly when each key was pressed and when it was released as a person is typing at a computer keyboard for the identification of humans by their characteristics or traits similar to speaker recognition data needed to analyze keystroke dynamics is obtained by keystroke logging
+the behavioral biometric of keystroke dynamics uses the manner and rhythm in which an individual types characters on a keyboard or keypad
+== see also ==
+dvorak simplified keyboard
+keyboard layout
+muscle memory
+qwerty
+stenotype
+touch typing
+copy typist
+audio typist
+data entry clerk
+== references ==

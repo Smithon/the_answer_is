@@ -1,0 +1,57 @@
+a fracture is the separation of an object or material into two or more pieces under the action of stress the fracture of a solid usually occurs due to the development of certain displacement discontinuity surfaces within the solid if a displacement develops perpendicular to the surface of displacement it is called a normal tensile crack or simply a crack if a displacement develops tangentially to the surface of displacement it is called a shear crack slip band or dislocation fracture strength or breaking strength is the stress when a specimen fails or fractures
+the word fracture is often applied to bones of living creatures (that is a bone fracture) or to crystals or crystalline materials such as gemstones or metal sometimes in crystalline materials individual crystals fracture without the body actually separating into two or more pieces depending on the substance which is fractured a fracture reduces strength (most substances) or inhibits transmission of light (optical crystals) a detailed understanding of how fracture occurs in materials may be assisted by the study of fracture mechanics
+a fracture is also the term used for a particular mask data preparation procedure within the realm of integrated circuit design that involves transposing complex polygons into simpler shapes such as trapezoids and rectangles
+== fracture strength ==
+fracture strength also known as breaking strength is the stress at which a specimen fails via fracture this is usually determined for a given specimen by a tensile test which charts the stress-strain curve (see image) the final recorded point is the fracture strength
+ductile materials have a fracture strength lower than the ultimate tensile strength (uts) whereas in brittle materials the fracture strength is equivalent to the uts if a ductile material reaches its ultimate tensile strength in a load-controlled situation it will continue to deform with no additional load application until it ruptures however if the loading is displacement-controlled the deformation of the material may relieve the load preventing rupture
+if the stress-strain curve is plotted in terms of true stress and true strain the curve will always slope upwards and never reverse as true stress is corrected for the decrease in cross-sectional area the true stress on the material at the time of rupture is known as the breaking strength this is the maximum stress on the true stress-strain curve
+== types ==
+=== brittle fracture ===
+in brittle fracture no apparent plastic deformation takes place before fracture in brittle crystalline materials fracture can occur by cleavage as the result of tensile stress acting normal to crystallographic planes with low bonding (cleavage planes) in amorphous solids by contrast the lack of a crystalline structure results in a conchoidal fracture with cracks proceeding normal to the applied tension the sinking of rms titanic in 1912 from an iceberg collision is widely reported to have been due to brittle fracture of the hull's steel plates
+the theoretical strength of a crystalline material is (roughly)
+where -
+is the young's modulus of the material
+is the surface energy and
+is the equilibrium distance between atomic centers
+on the other hand a crack introduces a stress concentration modeled by
+(for sharp cracks)
+where -
+is the loading stress
+is half the length of the crack and
+is the radius of curvature at the crack tip
+putting these two equations together we get
+looking closely we can see that sharp cracks (small ) and large defects (large ) both lower the fracture strength of the material
+recently scientists have discovered supersonic fracture the phenomenon of crack motion faster than the speed of sound in a material this phenomenon was recently also verified by experiment of fracture in rubber-like materials
+=== ductile fracture ===
+in ductile fracture extensive plastic deformation (necking) takes place before fracture the terms rupture or ductile rupture describe the ultimate failure of tough ductile materials loaded in tension rather than cracking the material pulls apart, generally leaving a rough surface in this case there is slow propagation and an absorption of a large amount energy before fracture
+many ductile metals especially materials with high purity can sustain very large deformation of 50100% or more strain before fracture under favorable loading condition and environmental condition the strain at which the fracture happens is controlled by the purity of the materials at room temperature pure iron can undergo deformation up to 100% strain before breaking while cast iron or high-carbon steels can barely sustain 3% of strain
+because ductile rupture involves a high degree of plastic deformation the fracture behavior of a propagating crack as modelled above changes fundamentally some of the energy from stress concentrations at the crack tips is dissipated by plastic deformation before the crack actually propagates
+the basic steps are void formation void coalescence (also known as crack formation) crack propagation and failure often resulting in a cup-and-cone shaped failure surface
+== crack separation modes ==
+there are three ways of applying a force to enable a crack to propagate
+mode i crack opening mode (a tensile stress normal to the plane of the crack)
+mode ii crack sliding mode (a shear stress acting parallel to the plane of the crack and perpendicular to the crack front)
+mode iii crack tearing mode (a shear stress acting parallel to the plane of the crack and parallel to the crack front)
+crack initiation and propagation accompany fracture the manner through which the crack propagates through the material gives great insight into the mode of fracture in ductile materials (ductile fracture) the crack moves slowly and is accompanied by a large amount of plastic deformation the crack will usually not extend unless an increased stress is applied on the other hand in dealing with brittle fracture cracks spread very rapidly with little or no plastic deformation the cracks that propagate in a brittle material will continue to grow and increase in magnitude once they are initiated another important mannerism of crack propagation is the way in which the advancing crack travels through the material a crack that passes through the grains within the material is undergoing transgranular fracture however a crack that propagates along the grain boundaries is termed an intergranular fracture
+== see also ==
+environmental stress fracture
+fracture (mineralogy)
+fracture (geology)
+fractography
+forensic engineering
+forensic materials engineering
+gilbert tessellation
+microvoid coalescence
+== notes ==
+== references ==
+== further reading ==
+dieter g e (1988) mechanical metallurgy isbn 0-07-100406-8
+a garcimartin a guarino l bellon and s cilberto (1997)  statistical properties of fracture precursors  physical review letters 79 3202 (1997)
+callister jr. william d (2002) materials science and engineering an introduction isbn 0-471-13576-3
+peter rhys lewis colin gagg ken reynolds crc press (2004) forensic materials engineering case studies
+== external links ==
+web postings at http://www.jwave.vt.edu/crcd/farkas/lectures/fract1/tsld006.htm
+virtual museum of failed products at http://materials.open.ac.uk/mem/index.html
+fracture and reconstruction of a clay bowl
+ductile fracture
+modes of fracture from virginia tech materials science and engineering

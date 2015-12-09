@@ -1,0 +1,18 @@
+the dukhin number (du) is a dimensionless quantity that characterizes the contribution of the surface conductivity to various electrokinetic and electroacoustic effects as well as to electrical conductivity and permittivity of fluid heterogeneous systems
+it was introduced by lyklema in fundamentals of interface and colloid science
+iupac technical report prepared by a group of most known world experts on this subject uses this term explicitly
+dukhin number is a ratio of the surface conductivity to the fluid bulk electrical conductivity km multiplied by particle size a 
+there is another expression of this number that is valid when surface conductivity is associated only with ions motion above slipping plane in the double layer in this case value of the surface conductivity depends on -potential which leads to the following expression for the dukhin number for symmetrical electrolyte with equal ions diffusion coefficient
+where parameter m characterizes contribution of electro-osmosis into motion of ions within dl
+f is faraday constant
+t is absolute temperature
+r is gas constant
+c is ions concentration in bulk
+z is ion valency
+is electrokinetic potential
+0 is vacuum dielectric permittivity
+m is fluid dielectric permittivity
+is dynamic viscosity
+d is diffusion coefficient
+there are several ways to measure dukhin number
+== references ==

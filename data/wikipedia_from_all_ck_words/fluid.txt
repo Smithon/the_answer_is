@@ -1,0 +1,26 @@
+in physics a fluid is a substance that continually deforms (flows) under an applied shear stress fluids are a subset of the phases of matter and include liquids gases plasmas and to some extent plastic solids fluids can be defined as substances that have zero shear modulus or in simpler terms a fluid is a substance which cannot resist any shear force applied to it
+although the term fluid includes both the liquid and gas phases in common usage fluid is often used as a synonym for liquid with no implication that gas could also be present for example brake fluid is hydraulic oil and will not perform its required incompressible function if there is gas in it this colloquial usage of the term is also common in medicine and in nutrition ("take plenty of fluids")
+liquids form a free surface (that is a surface not created by the container) while gases do not the distinction between solids and fluid is not entirely obvious the distinction is made by evaluating the viscosity of the substance silly putty can be considered to behave like a solid or a fluid depending on the time period over which it is observed it is best described as a viscoelastic fluid there are many examples of substances proving difficult to classify a particularly interesting one is pitch as demonstrated in the pitch drop experiment currently running at the university of queensland
+== physicsedit ==
+fluids display properties such as
+not resisting deformation or resisting it only slightly (viscosity) and
+the ability to flow (also described as the ability to take on the shape of the container).this also means that all liquids have the property of fluidity
+these properties are typically a function of their inability to support a shear stress in static equilibrium
+solids can be subjected to shear stresses and to normal stressesboth compressive and tensile in contrast ideal fluids can only be subjected to normal compressive stress which is called pressure real fluids display viscosity and so are capable of being subjected to low levels of shear stress
+=== modellingedit ===
+in a solid shear stress is a function of strain but in a fluid shear stress is a function of strain rate a consequence of this behavior is pascal's law which describes the role of pressure in characterizing a fluid's state
+depending on the relationship between shear stress and the rate of strain and its derivatives fluids can be characterized as one of the following
+newtonian fluids  where stress is directly proportional to rate of strain
+non-newtonian fluids  where stress is not proportional to rate of strain its higher powers and derivatives
+the behavior of fluids can be described by the navierstokes equationsa set of partial differential equations which are based on
+continuity (conservation of mass)
+conservation of linear momentum
+conservation of angular momentum
+conservation of energy
+the study of fluids is fluid mechanics which is subdivided into fluid dynamics and fluid statics depending on whether the fluid is in motion
+== see alsoedit ==
+matter
+liquid
+gas
+== referencesedit ==
+bird byron stewart warren lightfoot edward (2007) transport phenomena new york wiley second edition p 912 isbn 0-471-41077-2

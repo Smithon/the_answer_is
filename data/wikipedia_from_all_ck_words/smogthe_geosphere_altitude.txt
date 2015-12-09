@@ -1,0 +1,69 @@
+rotation around a fixed axis is a special case of rotational motion the fixed axis hypothesis excludes the possibility of an axis changing its orientation and cannot describe such phenomena as wobbling or precession according to euler's rotation theorem simultaneous rotation along a number of stationary axes at the same time is impossible if two rotations are forced at the same time a new axis of rotation will appear
+this article assumes that the rotation is also stable such that no torque is required to keep it going the kinematics and dynamics of rotation around a fixed axis of a rigid body are mathematically much simpler than those for free rotation of a rigid body they are entirely analogous to those of linear motion along a single fixed direction which is not true for free rotation of a rigid body the expressions for the kinetic energy of the object and for the forces on the parts of the object are also simpler for rotation around a fixed axis than for general rotational motion for these reasons rotation around a fixed axis is typically taught in introductory physics courses after students have mastered linear motion the full generality of rotational motion is not usually taught in introductory physics classes
+== translation and rotation ==
+a rigid body is an object of finite extent in which all the distances between the component particles are constant no truly rigid body exists external forces can deform any solid for our purposes then a rigid body is a solid which requires large forces to deform it appreciably
+a change in the position of a particle in three-dimensional space can be completely specified by three coordinates a change in the position of a rigid body is more complicated to describe it can be regarded as a combination of two distinct types of motion translational motion and rotational motion
+purely translational motion occurs when every particle of the body has the same instantaneous velocity as every other particle then the path traced out by any particle is exactly parallel to the path traced out by every other particle in the body under translational motion the change in the position of a rigid body is specified completely by three coordinates such as x y and z giving the displacement of any point such as the center of mass fixed to the rigid body
+purely rotational motion occurs if every particle in the body moves in a circle about a single line this line is called the axis of rotation then the radius vectors from the axis to all particles undergo the same angular displacement in the same time the axis of rotation need not go through the body in general any rotation can be specified completely by the three angular displacements with respect to the rectangular-coordinate axes x y and z any change in the position of the rigid body is thus completely described by three translational and three rotational coordinates
+any displacement of a rigid body may be arrived at by first subjecting the body to a displacement followed by a rotation or conversely to a rotation followed by a displacement we already know that for any collection of particleswhether at rest with respect to one another as in a rigid body or in relative motion like the exploding fragments of a shell the acceleration of the center of mass is given by
+where m is the total mass of the system and acm is the acceleration of the center of mass there remains the matter of describing the rotation of the body about the center of mass and relating it to the external forces acting on the body the kinematics and dynamics of rotational motion around a single axis resemble the kinematics and dynamics of translational motion rotational motion around a single axis even has a work-energy theorem analogous to that of particle dynamics
+== kinematics ==
+=== angular displacement ===
+a particle moves in a circle of radius  having moved an arc length  its angular position is relative to its original position where 
+in mathematics and physics it is usual to use the natural unit radians rather than degrees or revolutions units are converted as follows
+an angular displacement is a change in angular position
+where is the angular displacement is the initial angular position and is the final angular position
+=== angular speed and angular velocity ===
+angular velocity is the change in angular displacement per unit time the symbol for angular velocity is and the units are typically rad s1 angular speed is the magnitude of angular velocity
+the instantaneous angular velocity is given by
+using the formula for angular position and letting  we have also
+where is the translational speed of the particle
+angular velocity and frequency are related by
+=== angular acceleration ===
+a changing angular velocity indicates the presence of an angular acceleration in rigid body typically measured in rad s2 the average angular acceleration over a time interval t is given by
+the instantaneous acceleration (t) is given by
+thus the angular acceleration is the rate of change of the angular velocity just as acceleration is the rate of change of velocity
+the translational acceleration of a point on the object rotating is given by
+where r is the radius or distance from the axis of rotation this is also the tangential component of acceleration it is tangential to the direction of motion of the point if this component is 0 the motion is uniform circular motion and the velocity changes in direction only
+the radial acceleration (perpendicular to direction of motion) is given by
+it is directed towards the center of the rotational motion and is often called the centripetal acceleration
+the angular acceleration is caused by the torque which can have a positive or negative value in accordance with the convention of positive and negative angular frequency the ratio of torque and angular acceleration (how difficult it is to start stop or otherwise change rotation) is given by the moment of inertia 
+=== equations of kinematics ===
+when the angular acceleration is constant the five quantities angular displacement  initial angular velocity  final angular velocity  angular acceleration  and time can be related by four equations of kinematics
+== dynamics ==
+=== moment of inertia ===
+the moment of inertia of an object symbolized by i is a measure of the object's resistance to changes to its rotation the moment of inertia is measured in kilogram metre (kg m) it depends on the object's mass increasing the mass of an object increases the moment of inertia it also depends on the distribution of the mass distributing the mass further from the centre of rotation increases the moment of inertia by a greater degree for a single particle of mass a distance from the axis of rotation the moment of inertia is given by
+=== torque ===
+torque is the twisting effect of a force f applied to a rotating object which is at position r from its axis of rotation mathematically
+where denotes the cross product a net torque acting upon an object will produce an angular acceleration of the object according to
+just as f = ma in linear dynamics
+the work done by a torque acting on an object equals the magnitude of the torque times the angle through which the torque is applied
+the power of a torque is equal to the work done by the torque per unit time hence
+=== angular momentum ===
+the angular momentum l is a measure of the difficulty of bringing a rotating object to rest it is given by
+angular momentum is related to angular velocity by
+just as p = mv in linear dynamics
+the equivalent of linear momentum in rotational motion is angular momentum the greater the angular momentum of the spinning object such as a top the greater its tendency to continue to spin
+the angular momentum of a rotating body is proportional to its mass and to how rapidly it is turning in addition the angular momentum depends on how the mass is distributed relative to the axis of rotation the further away the mass is located from the axis of rotation the greater the angular momentum  a flat disk such as a record turntable has less angular momentum than a hollow cylinder of the same mass and velocity of rotation
+like linear momentum angular momentum is vector quantity and its conservation implies that the direction of the spin axis tends to remain unchanged for this reason the spinning top remains upright whereas a stationary one falls over immediately
+the angular momentum equation can be used to relate the moment of the resultant force on a body about an axis (sometimes called torque) and the rate of rotation about that axis
+torque and angular momentum are related according to
+just as f = dp/dt in linear dynamics in the absence of an external torque the angular momentum of a body remains constant the conservation of angular momentum is notably demonstrated in figure skating when pulling the arms closer to the body during a spin the moment of inertia is decreased and so the angular velocity is increased
+=== kinetic energy ===
+the kinetic energy krot due to the rotation of the body is given by
+just as ktrans = 12mv2 in linear dynamics
+== vector expression ==
+the above development is a special case of general rotational motion in the general case angular displacement angular velocity angular acceleration and torque are considered to be vectors
+an angular displacement is considered to be a vector pointing along the axis of magnitude equal to that of  a right-hand rule is used to find which way it points along the axis if the fingers of the right hand are curled to point in the way that the object has rotated then the thumb of the right hand points in the direction of the vector
+the angular velocity vector also points along the axis of rotation in the same way as the angular displacements it causes if a disk spins counterclockwise as seen from above its angular velocity vector points upwards similarly the angular acceleration vector points along the axis of rotation in the same direction that the angular velocity would point if the angular acceleration were maintained for a long time
+the torque vector points along the axis around which the torque tends to cause rotation to maintain rotation around a fixed axis the total torque vector has to be along the axis so that it only changes the magnitude and not the direction of the angular velocity vector in the case of a hinge only the component of the torque vector along the axis has effect on the rotation other forces and torques are compensated by the structure
+== examples and applications ==
+=== constant angular speed ===
+the simplest case of rotation around a fixed axis is that of constant angular speed then the total torque is zero for the example of the earth rotating around its axis there is very little friction for a fan the motor applies a torque to compensate for friction the angle of rotation is a linear function of time which modulo 360 is a periodic function
+an example of this is the two-body problem with circular orbits
+=== centripetal force ===
+internal tensile stress provides the centripetal force that keeps a spinning object together a rigid body model neglects the accompanying strain if the body is not rigid this strain will cause it to change shape this is expressed as the object changing shape due to the centrifugal force
+celestial bodies rotating about each other often have elliptic orbits the special case of circular orbits is an example of a rotation around a fixed axis this axis is the line through the center of mass perpendicular to the plane of motion the centripetal force is provided by gravity see also two-body problem this usually also applies for a spinning celestial body so it need not be solid to keep together unless the angular speed is too high in relation to its density (it will however tend to become oblate.) for example a spinning celestial body of water must take at least 3 hours and 18 minutes to rotate regardless of size or the water will separate if the density of the fluid is higher the time can be less see orbital period
+== see also ==
+== references ==
+== further reading ==

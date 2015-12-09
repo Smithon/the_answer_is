@@ -1,0 +1,104 @@
+in fluid dynamics bernoulli's principle states that for an inviscid flow of a non-conducting fluid an increase in the speed of the fluid occurs simultaneously with a decrease in pressure or a decrease in the fluid's potential energy the principle is named after daniel bernoulli who published it in his book hydrodynamica in 1738
+bernoulli's principle can be applied to various types of fluid flow resulting in what is loosely denoted as bernoulli's equation in fact there are different forms of the bernoulli equation for different types of flow the simple form of bernoulli's principle is valid for incompressible flows (e.g most liquid flows and gases moving at low mach number) more advanced forms may in some cases be applied to compressible flows at higher mach numbers (see the derivations of the bernoulli equation)
+bernoulli's principle can be derived from the principle of conservation of energy this states that in a steady flow the sum of all forms of energy in a fluid along a streamline is the same at all points on that streamline this requires that the sum of kinetic energy potential energy and internal energy remains constant thus an increase in the speed of the fluid implying an increase in both its dynamic pressure and kinetic energy occurs with a simultaneous decrease in (the sum of) its static pressure potential energy and internal energy if the fluid is flowing out of a reservoir the sum of all forms of energy is the same on all streamlines because in a reservoir the energy per unit volume (the sum of pressure and gravitational potential g h) is the same everywhere
+bernoulli's principle can also be derived directly from newton's 2nd law if a small volume of fluid is flowing horizontally from a region of high pressure to a region of low pressure then there is more pressure behind than in front this gives a net force on the volume accelerating it along the streamline
+fluid particles are subject only to pressure and their own weight if a fluid is flowing horizontally and along a section of a streamline where the speed increases it can only be because the fluid on that section has moved from a region of higher pressure to a region of lower pressure and if its speed decreases it can only be because it has moved from a region of lower pressure to a region of higher pressure consequently within a fluid flowing horizontally the highest speed occurs where the pressure is lowest and the lowest speed occurs where the pressure is highest
+== incompressible flow equationedit ==
+in most flows of liquids and of gases at low mach number the density of a fluid parcel can be considered to be constant regardless of pressure variations in the flow therefore the fluid can be considered to be incompressible and these flows are called incompressible flow bernoulli performed his experiments on liquids so his equation in its original form is valid only for incompressible flow a common form of bernoulli's equation valid at any arbitrary point along a streamline is
+where
+is the fluid flow speed at a point on a streamline
+is the acceleration due to gravity
+is the elevation of the point above a reference plane with the positive z-direction pointing upward so in the direction opposite to the gravitational acceleration
+is the pressure at the chosen point and
+is the density of the fluid at all points in the fluid
+for conservative force fields bernoulli's equation can be generalized as
+where is the force potential at the point considered on the streamline e.g for the earth's gravity = gz
+the following two assumptions must be met for this bernoulli equation to apply
+the flow must be incompressible even though pressure varies the density must remain constant along a streamline
+friction by viscous forces has to be negligible
+by multiplying with the fluid density  equation (a) can be rewritten as
+or
+where
+is dynamic pressure
+is the piezometric head or hydraulic head (the sum of the elevation z and the pressure head) and
+is the total pressure (the sum of the static pressure p and dynamic pressure q)
+the constant in the bernoulli equation can be normalised a common approach is in terms of total head or energy head h
+the above equations suggest there is a flow speed at which pressure is zero and at even higher speeds the pressure is negative most often gases and liquids are not capable of negative absolute pressure or even zero pressure so clearly bernoulli's equation ceases to be valid before zero pressure is reached in liquids when the pressure becomes too low cavitation occurs the above equations use a linear relationship between flow speed squared and pressure at higher flow speeds in gases or for sound waves in liquid the changes in mass density become significant so that the assumption of constant density is invalid
+=== simplified formedit ===
+in many applications of bernoulli's equation the change in the g z term along the streamline is so small compared with the other terms that it can be ignored for example in the case of aircraft in flight the change in height z along a streamline is so small the g z term can be omitted this allows the above equation to be presented in the following simplified form
+where p0 is called total pressure and q is dynamic pressure many authors refer to the pressure p as static pressure to distinguish it from total pressure p0 and dynamic pressure q in aerodynamics l.j clancy writes to distinguish it from the total and dynamic pressures the actual pressure of the fluid which is associated not with its motion but with its state is often referred to as the static pressure but where the term pressure alone is used it refers to this static pressure.
+the simplified form of bernoulli's equation can be summarized in the following memorable word equation
+static pressure + dynamic pressure = total pressure
+every point in a steadily flowing fluid regardless of the fluid speed at that point has its own unique static pressure p and dynamic pressure q their sum p + q is defined to be the total pressure p0 the significance of bernoulli's principle can now be summarized as total pressure is constant along a streamline
+if the fluid flow is irrotational the total pressure on every streamline is the same and bernoulli's principle can be summarized as total pressure is constant everywhere in the fluid flow it is reasonable to assume that irrotational flow exists in any situation where a large body of fluid is flowing past a solid body examples are aircraft in flight and ships moving in open bodies of water however it is important to remember that bernoulli's principle does not apply in the boundary layer or in fluid flow through long pipes
+if the fluid flow at some point along a stream line is brought to rest this point is called a stagnation point and at this point the total pressure is equal to the stagnation pressure
+=== applicability of incompressible flow equation to flow of gasesedit ===
+bernoulli's equation is sometimes valid for the flow of gases provided that there is no transfer of kinetic or potential energy from the gas flow to the compression or expansion of the gas if both the gas pressure and volume change simultaneously then work will be done on or by the gas in this case bernoulli's equation in its incompressible flow form cannot be assumed to be valid however if the gas process is entirely isobaric or isochoric then no work is done on or by the gas (so the simple energy balance is not upset) according to the gas law an isobaric or isochoric process is ordinarily the only way to ensure constant density in a gas also the gas density will be proportional to the ratio of pressure and absolute temperature however this ratio will vary upon compression or expansion no matter what non-zero quantity of heat is added or removed the only exception is if the net heat transfer is zero as in a complete thermodynamic cycle or in an individual isentropic (frictionless adiabatic) process and even then this reversible process must be reversed to restore the gas to the original pressure and specific volume and thus density only then is the original unmodified bernoulli equation applicable in this case the equation can be used if the flow speed of the gas is sufficiently below the speed of sound such that the variation in density of the gas (due to this effect) along each streamline can be ignored adiabatic flow at less than mach 0.3 is generally considered to be slow enough
+=== unsteady potential flowedit ===
+the bernoulli equation for unsteady potential flow is used in the theory of ocean surface waves and acoustics
+for an irrotational flow the flow velocity can be described as the gradient of a velocity potential  in that case and for a constant density  the momentum equations of the euler equations can be integrated to
+which is a bernoulli equation valid also for unsteadyor time dependentflows here /t denotes the partial derivative of the velocity potential with respect to time t and v = || is the flow speed the function f(t) depends only on time and not on position in the fluid as a result the bernoulli equation at some moment t does not only apply along a certain streamline but in the whole fluid domain this is also true for the special case of a steady irrotational flow in which case f is a constant
+further f(t) can be made equal to zero by incorporating it into the velocity potential using the transformation
+resulting in
+note that the relation of the potential to the flow velocity is unaffected by this transformation = 
+the bernoulli equation for unsteady potential flow also appears to play a central role in luke's variational principle a variational description of free-surface flows using the lagrangian (not to be confused with lagrangian coordinates)
+== compressible flow equationedit ==
+bernoulli developed his principle from his observations on liquids and his equation is applicable only to incompressible fluids and compressible fluids up to approximately mach number 0.3 it is possible to use the fundamental principles of physics to develop similar equations applicable to compressible fluids there are numerous equations each tailored for a particular application but all are analogous to bernoulli's equation and all rely on nothing more than the fundamental principles of physics such as newton's laws of motion or the first law of thermodynamics
+=== compressible flow in fluid dynamicsedit ===
+for a compressible fluid with a barotropic equation of state and under the action of conservative forces
+(constant along a streamline)
+where
+p is the pressure
+is the density
+v is the flow speed
+is the potential associated with the conservative force field often the gravitational potential
+in engineering situations elevations are generally small compared to the size of the earth and the time scales of fluid flow are small enough to consider the equation of state as adiabatic in this case the above equation becomes
+(constant along a streamline)
+where in addition to the terms listed above
+is the ratio of the specific heats of the fluid
+g is the acceleration due to gravity
+z is the elevation of the point above a reference plane
+in many applications of compressible flow changes in elevation are negligible compared to the other terms so the term gz can be omitted a very useful form of the equation is then
+where
+p0 is the total pressure
+0 is the total density
+=== compressible flow in thermodynamicsedit ===
+another useful form of the equation suitable for use in thermodynamics and for (quasi) steady flow is
+here w is the enthalpy per unit mass which is also often written as h (not to be confused with head or height")
+note that where is the thermodynamic energy per unit mass also known as the specific internal energy
+the constant on the right hand side is often called the bernoulli constant and denoted b for steady inviscid adiabatic flow with no additional sources or sinks of energy b is constant along any given streamline more generally when b may vary along streamlines it still proves a useful parameter related to the head of the fluid (see below)
+when the change in can be ignored a very useful form of this equation is
+where w0 is total enthalpy for a calorically perfect gas such as an ideal gas the enthalpy is directly proportional to the temperature and this leads to the concept of the total (or stagnation) temperature
+when shock waves are present in a reference frame in which the shock is stationary and the flow is steady many of the parameters in the bernoulli equation suffer abrupt changes in passing through the shock the bernoulli parameter itself however remains unaffected an exception to this rule is radiative shocks which violate the assumptions leading to the bernoulli equation namely the lack of additional sinks or sources of energy
+== derivations of bernoulli equationedit ==
+== applicationsedit ==
+in modern everyday life there are many observations that can be successfully explained by application of bernoulli's principle even though no real fluid is entirely inviscid and a small viscosity often has a large effect on the flow
+bernoulli's principle can be used to calculate the lift force on an airfoil if the behaviour of the fluid flow in the vicinity of the foil is known for example if the air flowing past the top surface of an aircraft wing is moving faster than the air flowing past the bottom surface then bernoulli's principle implies that the pressure on the surfaces of the wing will be lower above than below this pressure difference results in an upwards lifting force whenever the distribution of speed past the top and bottom surfaces of a wing is known the lift forces can be calculated (to a good approximation) using bernoulli's equations established by bernoulli over a century before the first man-made wings were used for the purpose of flight bernoulli's principle does not explain why the air flows faster past the top of the wing and slower past the underside see the article on aerodynamic lift for more info
+the carburetor used in many reciprocating engines contains a venturi to create a region of low pressure to draw fuel into the carburetor and mix it thoroughly with the incoming air the low pressure in the throat of a venturi can be explained by bernoulli's principle in the narrow throat the air is moving at its fastest speed and therefore it is at its lowest pressure
+the pitot tube and static port on an aircraft are used to determine the airspeed of the aircraft these two devices are connected to the airspeed indicator which determines the dynamic pressure of the airflow past the aircraft dynamic pressure is the difference between stagnation pressure and static pressure bernoulli's principle is used to calibrate the airspeed indicator so that it displays the indicated airspeed appropriate to the dynamic pressure
+the flow speed of a fluid can be measured using a device such as a venturi meter or an orifice plate which can be placed into a pipeline to reduce the diameter of the flow for a horizontal device the continuity equation shows that for an incompressible fluid the reduction in diameter will cause an increase in the fluid flow speed subsequently bernoulli's principle then shows that there must be a decrease in the pressure in the reduced diameter region this phenomenon is known as the venturi effect
+the maximum possible drain rate for a tank with a hole or tap at the base can be calculated directly from bernoulli's equation and is found to be proportional to the square root of the height of the fluid in the tank this is torricelli's law showing that torricelli's law is compatible with bernoulli's principle viscosity lowers this drain rate this is reflected in the discharge coefficient which is a function of the reynolds number and the shape of the orifice
+the bernoulli grip relies on this principle to create a non-contact adhesive force between a surface and the gripper
+== misunderstandings about the generation of liftedit ==
+many explanations for the generation of lift (on airfoils propeller blades etc.) can be found some of these explanations can be misleading and some are false this has been a source of heated discussion over the years in particular there has been debate about whether lift is best explained by bernoulli's principle or newton's laws of motion modern writings agree that both bernoulli's principle and newton's laws are relevant and either can be used to correctly describe lift
+several of these explanations use the bernoulli principle to connect the flow kinematics to the flow-induced pressures in cases of incorrect (or partially correct) explanations relying on the bernoulli principle the errors generally occur in the assumptions on the flow kinematics and how these are produced it is not the bernoulli principle itself that is questioned because this principle is well established
+== misapplications of bernoulli's principle in common classroom demonstrationsedit ==
+there are several common classroom demonstrations that are sometimes incorrectly explained using bernoulli's principle one involves holding a piece of paper horizontally so that it droops downward and then blowing over the top of it as the demonstrator blows over the paper the paper rises it is then asserted that this is because faster moving air has lower pressure
+one problem with this explanation can be seen by blowing along the bottom of the paper - were the deflection due simply to faster moving air one would expect the paper to deflect downward but the paper deflects upward regardless of whether the faster moving air is on the top or the bottom another problem is that when the air leaves the demonstrator's mouth it has the same pressure as the surrounding air the air does not have lower pressure just because it is moving in the demonstration the static pressure of the air leaving the demonstrator's mouth is equal to the pressure of the surrounding air a third problem is that it is false to make a connection between the flow on the two sides of the paper using bernoullis equation since the air above and below are different flow fields and bernoulli's principle only applies within a flow field
+as the wording of the principle can change its implications stating the principle correctly is important what bernoulli's principle actually says is that within a flow of constant energy when fluid flows through a region of lower pressure it speeds up and vice versa thus bernoulli's principle concerns itself with changes in speed and changes in pressure within a flow field it cannot be used to compare different flow fields
+a correct explanation of why the paper rises would observe that the plume follows the curve of the paper and that a curved streamline will develop a pressure gradient perpendicular to the direction of flow with the lower pressure on the inside of the curve bernoulli's principle predicts that the decrease in pressure is associated with an increase in speed i.e that as the air passes over the paper it speeds up and moves faster than it was moving when it left the demonstrator's mouth but this is not apparent from the demonstration
+other common classroom demonstrations such as blowing between two suspended spheres inflating a large bag or suspending a ball in an airstream are sometimes explained in a similarly misleading manner by saying faster moving air has lower pressure
+== see alsoedit ==
+terminology in fluid dynamics
+navierstokes equations for the flow of a viscous fluid
+euler equations for the flow of an inviscid fluid
+hydraulics applied fluid mechanics for liquids
+== referencesedit ==
+== further readingedit ==
+== external linksedit ==
+head and energy of fluid flow
+bernoulli equation calculator
+denver university bernoulli's equation and pressure measurement
+millersville university applications of euler's equation
+nasa beginner's guide to aerodynamics
+misinterpretations of bernoulli's equation weltner and ingelman-sundberg

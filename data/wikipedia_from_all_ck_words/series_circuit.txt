@@ -1,0 +1,91 @@
+components of an electrical circuit or electronic circuit can be connected in many different ways the two simplest of these are called series and parallel and occur frequently components connected in series are connected along a single path so the same current flows through all of the components components connected in parallel are connected so the same voltage is applied to each component
+a circuit composed solely of components connected in series is known as a series circuit likewise one connected completely in parallel is known as a parallel circuit
+in a series circuit the current through each of the components is the same and the voltage across the circuit is the sum of the voltages across each component in a parallel circuit the voltage across each of the components is the same and the total current is the sum of the currents through each component
+consider a very simple circuit consisting of four light bulbs and one 6 v battery if a wire joins the battery to one bulb to the next bulb to the next bulb to the next bulb then back to the battery in one continuous loop the bulbs are said to be in series if each bulb is wired to the battery in a separate loop the bulbs are said to be in parallel if the four light bulbs are connected in series there is same current through all of them and the voltage drop is 1.5 v across each bulb which may not be sufficient to make them glow if the light bulbs are connected in parallel the currents through the light bulbs combine to form the current in the battery while the voltage drop is 6.0 v across each bulb and they all glow
+in a series circuit every device must function for the circuit to be complete one bulb burning out in a series circuit breaks the circuit in parallel circuits each light has its own circuit so all but one light could be burned out and the last one will still function
+== series circuits ==
+series circuits are sometimes called current-coupled or daisy chain-coupled the current in a series circuit goes through every component in the circuit therefore all of the components in a series connection carry the same current there is only one path in a series circuit in which the current can flow the formula to search resistance in series is rs = r1 + r2 + r3  rn
+a series circuit's main disadvantage or advantage depending on its intended role in a product's overall design is that because there is only one path in which its current can flow opening or breaking a series circuit at any point causes the entire circuit to open or stop operating for example if even one of the light bulbs in an older-style string of christmas tree lights burns out or is removed the entire string becomes inoperable until the bulb is replaced
+=== current ===
+in a series circuit the current is the same for all of elements
+=== resistors ===
+the total resistance of resistors in series is equal to the sum of their individual resistances
+electrical conductance presents a reciprocal quantity to resistance total conductance of a series circuits of pure resistors therefore can be calculated from the following expression
+for a special case of two resistors in series the total conductance is equal to
+=== inductors ===
+inductors follow the same law in that the total inductance of non-coupled inductors in series is equal to the sum of their individual inductances
+however in some situations it is difficult to prevent adjacent inductors from influencing each other as the magnetic field of one device couples with the windings of its neighbours this influence is defined by the mutual inductance m for example if two inductors are in series there are two possible equivalent inductances depending on how the magnetic fields of both inductors influence each other
+when there are more than two inductors the mutual inductance between each of them and the way the coils influence each other complicates the calculation for a larger number of coils the total combined inductance is given by the sum of all mutual inductances between the various coils including the mutual inductance of each given coil with itself which we term self-inductance or simply inductance for three coils there are six mutual inductances   and  and  there are also the three self-inductances of the three coils  and 
+therefore
+by reciprocity = so that the last two groups can be combined the first three terms represent the sum of the self-inductances of the various coils the formula is easily extended to any number of series coils with mutual coupling the method can be used to find the self-inductance of large coils of wire of any cross-sectional shape by computing the sum of the mutual inductance of each turn of wire in the coil with every other turn since in such a coil all turns are in series
+=== capacitors ===
+see also capacitor networkscapacitors follow the same law using the reciprocals the total capacitance of capacitors in series is equal to the reciprocal of the sum of the reciprocals of their individual capacitances
+=== switches ===
+two or more switches in series form a logical and the circuit only carries current if all switches are closed see and gate while two or more switches in parallel circuits form a logical or the circuit will carry current if at least one of the switches are closed see or gate
+=== cells and batteries ===
+a battery is a collection of electrochemical cells if the cells are connected in series the voltage of the battery will be the sum of the cell voltages for example a 12 volt car battery contains six 2-volt cells connected in series some vehicles such as trucks have two 12 volt batteries in series to feed the 24 volt system
+== parallel circuits ==
+if two or more components are connected in parallel they have the same potential difference (voltage) across their ends the potential differences across the components are the same in magnitude and they also have identical polarities the same voltage is applicable to all circuit components connected in parallel the total current is the sum of the currents through the individual components in accordance with kirchhoffs current law
+=== voltage ===
+in a parallel circuit the voltage is the same for all elements
+=== resistors ===
+the current in each individual resistor is found by ohm's law factoring out the voltage gives
+to find the total resistance of all components add the reciprocals of the resistances of each component and take the reciprocal of the sum total resistance will always be less than the value of the smallest resistance
+for only two resistors the unreciprocated expression is reasonably simple
+this sometimes goes by the mnemonic product over sum
+for n equal resistors in parallel the reciprocal sum expression simplifies to
+and therefore to
+to find the current in a component with resistance  use ohm's law again
+the components divide the current according to their reciprocal resistances so in the case of two resistors
+an old term for devices connected in parallel is multiple such as a multiple connection for arc lamps
+since electrical conductance is reciprocal to resistance the expression for total conductance of a parallel circuit of resistors reads
+the relations for total conductance and resistance stand in a complementary relationship the expression for a series connection of resistances is the same as for parallel connection of conductances and vice versa
+=== inductors ===
+inductors follow the same law in that the total inductance of non-coupled inductors in parallel is equal to the reciprocal of the sum of the reciprocals of their individual inductances
+if the inductors are situated in each other's magnetic fields this approach is invalid due to mutual inductance if the mutual inductance between two coils in parallel is m the equivalent inductor is
+if
+the sign of depends on how the magnetic fields influence each other for two equal tightly coupled coils the total inductance is close to that of each single coil if the polarity of one coil is reversed so that m is negative then the parallel inductance is nearly zero or the combination is almost non-inductive it is assumed in the tightly coupled case m is very nearly equal to l however if the inductances are not equal and the coils are tightly coupled there can be near short circuit conditions and high circulating currents for both positive and negative values of m which can cause problems
+more than three inductors becomes more complex and the mutual inductance of each inductor on each other inductor and their influence on each other must be considered for three coils there are three mutual inductances  and  this is best handled by matrix methods and summing the terms of the inverse of the matrix (3 by 3 in this case)
+the pertinent equations are of the form
+=== capacitors ===
+the total capacitance of capacitors in parallel is equal to the sum of their individual capacitances
+the working voltage of a parallel combination of capacitors is always limited by the smallest working voltage of an individual capacitor
+=== switches ===
+two or more switches in parallel form a logical or the circuit carries current if at least one switch is on see or gate
+=== cells and batteries ===
+if the cells of a battery are connected in parallel the battery voltage will be the same as the cell voltage but the current supplied by each cell will be a fraction of the total current for example if a battery comprises four identical cells connected in parallel and delivers a current of 1 ampere the current supplied by each cell will be 0.25 ampere parallel-connected batteries were widely used to power the valve filaments in portable radios but they are now rare some solar electric systems have batteries in parallel to increase the storage capacity a close approximation of total amp-hours is the sum of all batteries in parallel
+== combining conductances ==
+from kirchhoff's circuit laws we can deduce the rules for combining conductances for two conductances and in parallel the voltage across them is the same and from kirchhoff's current law the total current is
+substituting ohm's law for conductances gives
+and the equivalent conductance will be
+for two conductances and in series the current through them will be the same and kirchhoff's voltage law tells us that the voltage across them is the sum of the voltages across each conductance that is
+substituting ohm's law for conductance then gives
+which in turn gives the formula for the equivalent conductance
+this equation can be rearranged slightly though this is a special case that will only rearrange like this for two components
+== notation ==
+the value of two components in parallel is often represented in equations by two vertical lines || borrowing the parallel lines notation from geometry
+this simplifies expressions that would otherwise become complicated by expansion of the terms for instance the expression refers to 3 resistors in parallel while the expanded expression is 
+== applications ==
+most common application of series circuit in consumer electronics is the 9 volt block battery the fire alarm battery which is internally built of six cells 1.5 volts each
+series circuits were formerly used for lighting in electric multiple unit trains for example if the supply voltage was 600 volts there might be eight 70-volt bulbs in series (total 560 volts) plus a resistor to drop the remaining 40 volts series circuits for train lighting were superseded first by motor-generators then by solid state devices
+series resistance can also be applied to the arrangement of blood vessels within a given organ each organ is supplied by a large artery smaller arteries arterioles capillaries and veins arranged in series the total resistance is the sum of the individual resistances as expressed by the following equation rtotal = rartery + rarterioles + rcapillaries the largest proportion of resistance in this series is contributed by the arterioles
+parallel resistance is illustrated by the circulatory system each organ is supplied by an artery that branches off the aorta the total resistance of this parallel arrangement is expressed by the following equation 1/rtotal = 1/ra + 1/rb +  1/rn ra rb and rn are the resistances of the renal hepatic and other arteries respectively the total resistance is less than the resistance of any of the individual arteries
+== see also ==
+network analysis (electrical circuits)
+wheatstone bridge
+y- transform
+voltage divider
+current divider
+combining impedances
+equivalent impedance transforms
+resistance distance
+series-parallel partial order
+== notes ==
+== references ==
+resnick robert and halliday david (1966) physics vol i and ii combined edition wiley international edition library of congress catalog card no 66-11527
+smith r.j (1966) circuits devices and systems wiley international edition new york library of congress catalog card no 66-17612
+williams tim the circuit designer's companion butterworth-heinemann 2005 isbn 0-7506-6370-7
+== external links ==
+series circuits see page 14 and onwards
+parallel circuit see page 22 and onwards
+sameen ahmed khan how many equivalent resistances? resonance journal of science education vol 17 no 5 468-475 (may 2012)

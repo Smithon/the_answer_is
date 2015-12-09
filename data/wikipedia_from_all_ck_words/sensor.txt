@@ -1,0 +1,55 @@
+in the broadest definition a sensor is an object whose purpose is to detect events or changes in its environment and then provide a corresponding output a sensor is a type of transducer sensors may provide various types of output but typically use electrical or optical signals for example a thermocouple generates a known voltage (the output) in response to its temperature (the environment) a mercury-in-glass thermometer similarly converts measured temperature into expansion and contraction of a liquid which can be read on a calibrated glass tube
+sensors are used in everyday objects such as touch-sensitive elevator buttons (tactile sensor) and lamps which dim or brighten by touching the base besides innumerable applications of which most people are never aware with advances in micro machinery and easy-to-use micro controller platforms the uses of sensors have expanded beyond the more traditional fields of temperature pressure or flow measurement for example into marg sensors moreover analog sensors such as potentiometers and force-sensing resistors are still widely used applications include manufacturing and machinery airplanes and aerospace cars medicine and robotics.it is also included in our day-to-day life
+a sensor's sensitivity indicates how much the sensor's output changes when the input quantity being measured changes for instance if the mercury in a thermometer moves 1 cm when the temperature changes by 1 c the sensitivity is 1 cm/c (it is basically the slope dy/dx assuming a linear characteristic) some sensors can also have an impact on what they measure for instance a room temperature thermometer inserted into a hot cup of liquid cools the liquid while the liquid heats the thermometer sensors need to be designed to have a small effect on what is measured making the sensor smaller often improves this and may introduce other advantages technological progress allows more and more sensors to be manufactured on a microscopic scale as microsensors using mems technology in most cases a microsensor reaches a significantly higher speed and sensitivity compared with macroscopic approaches
+== classification of measurement errors ==
+a good sensor obeys the following rules
+it is sensitive to the measured property
+it is insensitive to any other property likely to be encountered in its application and
+it does not influence the measured property
+the sensitivity is then defined as the ratio between output signal and measured property for example if a sensor measures temperature and has a voltage output the sensitivity is a constant with the unit [v/k] this sensor is linear because the ratio is constant at all points of measurement
+for an analog sensor signal to be processed or used in digital equipment it needs to be converted to a digital signal using an analog-to-digital converter
+=== sensor deviations ===
+if the sensor is not ideal several types of deviations can be observed
+the sensitivity may in practice differ from the value specified this is called a sensitivity error
+since the range of the output signal is always limited the output signal will eventually reach a minimum or maximum when the measured property exceeds the limits the full scale range defines the maximum and minimum values of the measured property
+if the output signal is not zero when the measured property is zero the sensor has an offset or bias this is defined as the output of the sensor at zero input
+if the sensitivity is not constant over the range of the sensor this is called non linearity usually this is defined by the amount the output differs from ideal behavior over the full range of the sensor often noted as a percentage of the full range
+if the deviation is caused by a rapid change of the measured property over time there is a dynamic error often this behavior is described with a bode plot showing sensitivity error and phase shift as function of the frequency of a periodic input signal
+if the output signal slowly changes independent of the measured property this is defined as drift (telecommunication) long term drift usually indicates a slow degradation of sensor properties over a long period of time
+noise is a random deviation of the signal that varies in time
+hysteresis is an error caused by when the measured property reverses direction but there is some finite lag in time for the sensor to respond creating a different offset error in one direction than in the other
+if the sensor has a digital output the output is essentially an approximation of the measured property the approximation error is also called digitization error
+if the signal is monitored digitally limitation of the sampling frequency also can cause a dynamic error or if the variable or added noise changes periodically at a frequency near a multiple of the sampling rate may induce aliasing errors
+the sensor may to some extent be sensitive to properties other than the property being measured for example most sensors are influenced by the temperature of their environment
+all these deviations can be classified as systematic errors or random errors systematic errors can sometimes be compensated for by means of some kind of calibration strategy noise is a random error that can be reduced by signal processing such as filtering usually at the expense of the dynamic behavior of the sensor
+=== resolution ===
+the resolution of a sensor is the smallest change it can detect in the quantity that it is measuring often in a digital display the least significant digit will fluctuate indicating that changes of that magnitude are only just resolved the resolution is related to the precision with which the measurement is made for example a scanning tunneling probe (a fine tip near a surface collects an electron tunneling current) can resolve atoms and molecules
+== types ==
+pressure sensor
+ultrasonic sensor
+humidity sensor
+gas sensor
+pir motion sensor
+acceleration sensor
+displacement sensor
+== sensors in nature ==
+all living organisms contain biological sensors with functions similar to those of the mechanical devices described most of these are specialized cells that are sensitive to
+light motion temperature magnetic fields gravity humidity moisture vibration pressure electrical fields sound and other physical aspects of the external environment
+physical aspects of the internal environment such as stretch motion of the organism and position of appendages (proprioception)
+environmental molecules including toxins nutrients and pheromones
+estimation of biomolecules interaction and some kinetics parameters
+internal metabolic indicators such as glucose level oxygen level or osmolality
+internal signal molecules such as hormones neurotransmitters and cytokines
+differences between proteins of the organism itself and of the environment or alien creatures
+== chemical sensor ==
+a chemical sensor is a self-contained analytical device that can provide information about the chemical composition of its environment that is a liquid or a gas phase the information is provided in the form of a measurable physical signal that is correlated with the concentration of a certain chemical species (termed as analyte) two main steps are involved in the functioning of a chemical sensor namely recognition and transduction in the recognition step analyte molecules interact selectively with receptor molecules or sites included in the structure of the recognition element of the sensor consequently a characteristic physical parameter varies and this variation is reported by means of an integrated transducer that generates the output signal a chemical sensor based on recognition material of biological nature is a biosensor however as synthetic biomimetic materials are going to substitute to some extent recognition biomaterials a sharp distinction between a biosensor and a standard chemical sensor is superfluous typical biomimetic materials used in sensor development are molecularly imprinted polymers and aptamers
+== biosensor ==
+in biomedicine and biotechnology sensors which detect analytes thanks to a biological component such as cells protein nucleic acid or biomimetic polymers are called biosensors whereas a non-biological sensor even organic (=carbon chemistry) for biological analytes is referred to as sensor or nanosensor (such a microcantilevers) this terminology applies for both in vitro and in vivo applications the encapsulation of the biological component in biosensors presents a slightly different problem that ordinary sensors this can either be done by means of a semipermeable barrier such as a dialysis membrane or a hydrogel or a 3d polymer matrix which either physically constrains the sensing macromolecule or chemically constrains the macromolecule by bounding it to the scaffold
+== see also ==
+== references ==
+== further reading ==
+m kretschmar and s welsby (2005) capacitive and inductive displacement sensors in sensor technology handbook j wilson editor newnes burlington ma
+c a grimes e c dickey and m v pishko (2006) encyclopedia of sensors (10-volume set) american scientific publishers isbn 1-58883-056-x
+m pohanka o pavlis and p skladal rapid characterization of monoclonal antibodies using the piezoelectric immunosensor sensors 2007 7 341-353
+== external links ==
+http://www.cbm-sweden.se/images/seminarie/class_descriptions_ida_mems.pdf

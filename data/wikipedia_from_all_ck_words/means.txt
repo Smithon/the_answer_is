@@ -1,0 +1,67 @@
+precision is a description of a level of measurement that yields consistent results when repeated it is associated with the concept of random error a form of observational error that leads to measurable values being inconsistent when repeated
+accuracy has two definitions
+the more common definition is that accuracy is a level of measurement with no inherent limitation (ie free of systematic error another form of observational error)
+the iso definition is that accuracy is a level of measurement that yields true (no systematic errors) and consistent (no random errors) results
+== common definitionedit ==
+in the fields of science engineering and statistics the accuracy of a measurement system is the degree of closeness of measurements of a quantity to that quantity's true value the precision of a measurement system related to reproducibility and repeatability is the degree to which repeated measurements under unchanged conditions show the same results although the two words precision and accuracy can be synonymous in colloquial use they are deliberately contrasted in the context of the scientific method
+a measurement system can be accurate but not precise precise but not accurate neither or both for example if an experiment contains a systematic error then increasing the sample size generally increases precision but does not improve accuracy the result would be a consistent yet inaccurate string of results from the flawed experiment eliminating the systematic error improves accuracy but does not change precision
+a measurement system is considered valid if it is both accurate and precise related terms include bias (non-random or directed effects caused by a factor or factors unrelated to the independent variable) and error (random variability)
+the terminology is also applied to indirect measurementsthat is values obtained by a computational procedure from observed data
+in addition to accuracy and precision measurements may also have a measurement resolution which is the smallest change in the underlying physical quantity that produces a response in the measurement
+in numerical analysis accuracy is also the nearness of a calculation to the true value while precision is the resolution of the representation typically defined by the number of decimal or binary digits
+statistical literature prefers to use the terms bias and variability instead of accuracy and precision bias is the amount of inaccuracy and variability is the amount of imprecision
+=== quantificationedit ===
+in industrial instrumentation accuracy is the measurement tolerance or transmission of the instrument and defines the limits of the errors made when the instrument is used in normal operating conditions
+ideally a measurement device is both accurate and precise with measurements all close to and tightly clustered around the true value the accuracy and precision of a measurement process is usually established by repeatedly measuring some traceable reference standard such standards are defined in the international system of units (abbreviated si from french systme international d'units) and maintained by national standards organizations such as the national institute of standards and technology in the united states
+this also applies when measurements are repeated and averaged in that case the term standard error is properly applied the precision of the average is equal to the known standard deviation of the process divided by the square root of the number of measurements averaged further the central limit theorem shows that the probability distribution of the averaged measurements will be closer to a normal distribution than that of individual measurements
+with regard to accuracy we can distinguish
+the difference between the mean of the measurements and the reference value the bias establishing and correcting for bias is necessary for calibration
+the combined effect of that and precision
+a common convention in science and engineering is to express accuracy and/or precision implicitly by means of significant figures here when not explicitly stated the margin of error is understood to be one-half the value of the last significant place for instance a recording of 843.6 m or 843.0 m or 800.0 m would imply a margin of 0.05 m (the last significant place is the tenths place) while a recording of 8,436 m would imply a margin of error of 0.5 m (the last significant digits are the units)
+a reading of 8,000 m with trailing zeroes and no decimal point is ambiguous the trailing zeroes may or may not be intended as significant figures to avoid this ambiguity the number could be represented in scientific notation 8.0 103 m indicates that the first zero is significant (hence a margin of 50 m) while 8.000 103 m indicates that all three zeroes are significant giving a margin of 0.5 m similarly it is possible to use a multiple of the basic measurement unit 8.0 km is equivalent to 8.0 103 m in fact it indicates a margin of 0.05 km (50 m) however reliance on this convention can lead to false precision errors when accepting data from sources that do not obey it
+precision is sometimes stratified into
+repeatability the variation arising when all efforts are made to keep conditions constant by using the same instrument and operator and repeating during a short time period and
+reproducibility the variation arising using the same measurement process among different instruments and operators and over longer time periods
+== iso definition (iso 5725)edit ==
+a shift in the meaning of these terms appeared with the publication of the iso 5725 series of standards in 1994 which is also reflected in the 2008 issue of the bipm international vocabulary of metrology (vim) items 2.13 and 2.14
+according to iso 5725-1 the general term accuracy is used to describe the closeness of a measurement to the true value when the term is applied to sets of measurements of the same measurand it involves a component of random error and a component of systematic error in this case trueness is the closeness of the mean of a set of measurement results to the actual (true) value and precision is the closeness of agreement among a set of results
+iso 5725-1 and vim also avoid the use of the term bias previously specified in bs 5497-1 because it has different connotations outside the fields of science and engineering as in medicine and law
+== in binary classificationedit ==
+accuracy is also used as a statistical measure of how well a binary classification test correctly identifies or excludes a condition
+that is the accuracy is the proportion of true results (both true positives and true negatives) among the total number of cases examined to make the context clear by the semantics it is often referred to as the rand accuracy or rand index it is a parameter of the test
+an accuracy of 100% means that the measured values are exactly the same as the given values
+on the other hand precision or positive predictive value is defined as the proportion of the true positives against all the positive results (both true positives and false positives)
+also see sensitivity and specificity
+accuracy may be determined from sensitivity and specificity provided prevalence is known using the equation
+the accuracy paradox for predictive analytics states that predictive models with a given level of accuracy may have greater predictive power than models with higher accuracy it may be better to avoid the accuracy metric in favor of other metrics such as precision and recall in situations where the minority class is more important f-measure may be more appropriate especially in situations with very skewed class imbalance
+another useful performance measure is the balanced accuracy which avoids inflated performance estimates on imbalanced datasets it is defined as the arithmetic mean of sensitivity and specificity or the average accuracy obtained on either class
+if the classifier performs equally well on either class this term reduces to the conventional accuracy (i.e. the number of correct predictions divided by the total number of predictions) in contrast if the conventional accuracy is above chance only because the classifier takes advantage of an imbalanced test set then the balanced accuracy as appropriate will drop to chance a closely related chance corrected measure is
+a direct approach to debiasing and renormalizing accuracy is cohen's kappa whilst informedness has been shown to be a kappa-family debiased renormalization of recall informedness and kappa have the advantage that chance level is defined to be 0 and they have the form of a probability informedness has the stronger property that it is the probability that an informed decision is made (rather than a guess) when positive when negative this is still true for the absolutely value of informedness but the information has been used to force an incorrect response
+== in psychometrics and psychophysicsedit ==
+in psychometrics and psychophysics the term accuracy is interchangeably used with validity and constant error precision is a synonym for reliability and variable error the validity of a measurement instrument or psychological test is established through experiment or correlation with behavior reliability is established with a variety of statistical techniques classically through an internal consistency test like cronbach's alpha to ensure sets of related questions have related responses and then comparison of those related question between reference and target population
+== in logic simulationedit ==
+in logic simulation a common mistake in evaluation of accurate models is to compare a logic simulation model to a transistor circuit simulation model this is a comparison of differences in precision not accuracy precision is measured with respect to detail and accuracy is measured with respect to reality
+== in information systemsedit ==
+the concepts of accuracy and precision have also been studied in the context of databases information systems and their sociotechnical context the necessary extension of these two concepts on the basis of theory of science suggests that they (as well as data quality and information quality) should be centered on accuracy defined as the closeness to the true value seen as the degree of agreement of readings or of calculated values of one same conceived entity measured or calculated by different methods in the context of maximum possible disagreement
+== see alsoedit ==
+accepted and experimental value
+engineering tolerance
+exactness
+experimental uncertainty analysis
+f-score
+measurement uncertainty
+precision (statistics)
+probability
+random and systematic errors
+sensitivity and specificity
+significant figures
+statistical significance
+== referencesedit ==
+== external linksedit ==
+bipm - guides in metrology guide to the expression of uncertainty in measurement (gum) and international vocabulary of metrology (vim)
+beyond nist traceability what really creates accuracy controlled environments magazine
+precision and accuracy with three psychophysical methods
+appendix d.1 terminology guidelines for evaluating and expressing the uncertainty of nist measurement results
+accuracy and precision
+accuracy vs precision a brief video by matt parker
+what's the difference between accuracy and precision by matt anticole at ted-ed

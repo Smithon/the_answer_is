@@ -1,0 +1,187 @@
+in mathematics an ellipse is a curve on a plane that surrounds two focal points such that the sum of the distances to the two focal points is constant for every point on the curve as such it is a generalization of a circle which is a special type of an ellipse that has both focal points at the same location the shape of an ellipse (how elongated it is) is represented by its eccentricity which for an ellipse can be any number from 0 (the limiting case of a circle) to arbitrarily close to but less than 1
+ellipses are the closed type of conic section a plane curve that results from the intersection of a cone by a plane (see figure to the right.) ellipses have many similarities with the other two forms of conic sections the parabolas and the hyperbolas both of which are open and unbounded the cross section of a cylinder is an ellipse unless the section is parallel to the axis of the cylinder
+analytically an ellipse can also be defined as the set of points such that the ratio of the distance of each point on the curve from a given point (called a focus or focal point) to the distance from that same point on the curve to a given line (called the directrix) is a constant called the eccentricity of the ellipse
+ellipses are common in physics astronomy and engineering for example the orbit of each planet in the solar system is an ellipse with the barycenter of the planet-sun pair at one of the focal points the same is true for moons orbiting planets and all other systems having two astronomical bodies the shape of planets and stars are often well described by ellipsoids ellipses also arise as images of a circle under parallel projection and the bounded cases of perspective projection which are simply intersections of the projective cone with the plane of projection it is also the simplest lissajous figure formed when the horizontal and vertical motions are sinusoids with the same frequency a similar effect leads to elliptical polarization of light in optics
+the name (lleipsis omission") was given by apollonius of perga in his conics emphasizing the connection of the curve with application of areas
+== elements of an ellipse ==
+ellipses have two perpendicular axes about which the ellipse is symmetric these axes intersect at the center of the ellipse due to this symmetry the larger of these two axes which corresponds to the largest distance between antipodal points on the ellipse is called the major axis (on the figure to the right it is represented by the line segment between the point labeled a and the point labeled a.) the smaller of these two axes and the smallest distance across the ellipse is called the minor axis (on the figure to the right it is represented by the line segment between the point labeled b to the point labeled b.)
+the semi-major axis (denoted by a in the figure) and the semi-minor axis (denoted by b in the figure) are one half of the major and minor axes respectively these are sometimes called (especially in technical fields) the major and minor semi-axes the major and minor semiaxes or major radius and minor radius
+the four points where these axes cross the ellipse are the vertices and are marked as a a b and b in addition to being at the largest and smallest distance from the center these points are where the curvature of the ellipse is maximum and minimum
+the two foci (the term focal points is also used) of an ellipse are two special points f1 and f2 on the ellipse's major axis that are equidistant from the center point the sum of the distances from any point p on the ellipse to those two foci is constant and equal to the major axis (pf1 + pf2 = 2a) (on the figure to the right this corresponds to the sum of the two green lines equaling the length of the major axis that goes from a to a.)
+the distance to the focal point from the center of the ellipse is sometimes called the linear eccentricity f of the ellipse here it is denoted by f but it is often denoted by c due to the pythagorean theorem and the definition of the ellipse explained in the previous paragraph f2 = a2 b2
+a second equivalent method of constructing an ellipse using a directrix is shown on the plot as the three blue lines (see the directrix section of this article for more information about this method) the dashed blue line is the directrix of the ellipse shown
+the eccentricity of an ellipse usually denoted by or e is the ratio of the distance between the two foci to the length of the major axis or e = 2f/2a = f/a for an ellipse the eccentricity is between 0 and 1 (0 < e < 1) when the eccentricity is 0 the foci coincide with the center point and the figure is a circle as the eccentricity tends toward 1 the ellipse gets a more elongated shape it tends towards a line segment (see below) if the two foci remain a finite distance apart and a parabola if one focus is kept fixed as the other is allowed to move arbitrarily far away the eccentricity is also equal to the ratio of the distance (such as the (blue) line pf2) from any particular point on an ellipse to one of the foci to the perpendicular distance to the directrix from the same point (line pd) e = pf2/pd
+== drawing ellipses ==
+=== pins-and-string method ===
+the characterization of an ellipse as the locus of points so that sum of the distances to the foci is constant leads to a method of drawing one using two drawing pins a length of string and a pencil in this method pins are pushed into the paper at two points which become the ellipse's foci a string tied at each end to the two pins and the tip of a pen pulls the loop taut to form a triangle the tip of the pen then traces an ellipse if it is moved while keeping the string taut using two pegs and a rope gardeners use this procedure to outline an elliptical flower bedthus it is called the gardener's ellipse
+=== trammel method ===
+an ellipse can also be drawn using a ruler a set square and a pencil
+draw two perpendicular lines m,n on the paper these are the major (m) and minor (n) axes of the ellipse mark three points a b c on the ruler a->c being the length of the semi-major axis and b->c the length of the semi-minor axis with one hand move the ruler on the paper turning and sliding it so as to keep point a always on line n and b on line m with the other hand keep the pencil's tip on the paper following point c of the ruler the tip traces out an ellipse
+the trammel of archimedes or ellipsograph is a mechanical device that implements this principle the ruler is replaced by a rod with a pencil holder (point c) at one end and two adjustable side pins (points a and b) that slide into two perpendicular slots cut into a metal plate the mechanism can be used with a router to cut ellipses from board material the mechanism is also used in a toy called the nothing grinder
+=== parallelogram method ===
+in the parallelogram method an ellipse is constructed point by point using equally spaced points on two horizontal lines and equally spaced points on two vertical lines it is based on steiner's theorem on the generation of conic sections similar methods exist for the parabola and hyperbola
+== mathematical definitions and properties ==
+=== in euclidean geometry ===
+==== definition ====
+in euclidean geometry the ellipse is usually defined as the bounded case of a conic section or as the set of points such that the sum of the distances to two fixed points (the foci) is constant the ellipse can also be defined as the set of points such that the distance from any point in that set to a given point in the plane (a focus) is a constant positive fraction less than 1 (the eccentricity) of the perpendicular distance of the point in the set to a given line (called the directrix) yet another equivalent definition of the ellipse is that it is the set of points that are equidistant from one point in the plane (a focus) and a particular circle the directrix circle (whose center is the other focus)
+the equivalence of these definitions can be proved using the dandelin spheres
+==== equations ====
+the equation of an ellipse whose major and minor axes coincide with the cartesian axes is  this can be explained as follows if we let an independent parameter increase from 0 to 2 and let
+and
+then plotting x and y values for all angles of results in an ellipse note that is the eccentric anomaly and is not the angle traced out by a point on the ellipse (see below) for example at = 0 x = a y = 0 and at = /2 y = b x = 0 this can be seen as follows
+squaring both equations gives
+and
+dividing these two equations by a2 and b2 respectively gives
+and
+adding these two equations together gives
+applying the pythagorean identity to the right hand side gives
+this means any noncircular ellipse is a compressed (or stretched) circle if a circle is treated like an ellipse then the area of the ellipse would be proportional to the length of either axis (i.e doubling the length of an axis in a circular ellipse would create an ellipse with double the area of the original circle)
+==== focus ====
+the distance from the center c to either focus is f = ae which can be expressed in terms of the major and minor radii
+the sum of the distances from any point p = p(x,y) on the ellipse to those two foci is constant and equal to the major axis (proof)
+==== eccentricity ====
+the eccentricity of the ellipse (commonly denoted as either e or ) is
+(where again a and b are one-half of the ellipse's major and minor axes respectively and f is the focal distance) or as expressed in terms using the flattening factor
+other formulas for the eccentricity of an ellipse are listed in the article on eccentricity of conic sections formulas for the eccentricity of an ellipse that is expressed in the more general quadratic form are described in the article dedicated to conic sections
+==== directrix ====
+each focus f of the ellipse is associated with a line parallel to the minor axis called a directrix refer to the illustration on the right in which the ellipse is centered at the origin the distance from any point p on the ellipse to the focus f is a constant fraction of that point's perpendicular distance to the directrix resulting in the equality e = pf/pd the ratio of these two distances is the eccentricity of the ellipse this property (which can be proved using the dandelin spheres) can be taken as another definition of the ellipse
+besides the well-known ratio e = f/a where f is the distance from the center to the focus and a is the distance from the center to the farthest vertices (most sharply curved points of the ellipse) it is also true that e = a/d where d is the distance from the center to the directrix
+==== circular directrix ====
+the ellipse can also be defined as the set of points that are equidistant from one focus and a circle the directrix circle that is centered on the other focus the radius of the directrix circle equals the ellipse's major axis so the focus and the entire ellipse are inside the directrix circle
+==== ellipse as hypotrochoid ====
+the ellipse is a special case of the hypotrochoid when r = 2r as shown in the image to the right
+==== area ====
+the area enclosed by an ellipse is
+where a and b are the semi-major and semi-minor axes (half of the ellipse's major and minor axes) respectively
+an ellipse defined implicitly by has area 
+the area formula ab is intuitive start with a circle of radius b (so its area is b2) and stretch it by a factor a/b to make an ellipse this intuitively justifies the area by the same factor b2(a/b) = ab however a more rigorous proof requires integration as follows
+for the ellipse in standard form  and hence  with horizontal intercepts at a the area can be computed as twice the integral of the positive square root
+the second integral is the area of a circle of radius  i.e.  thus we have
+the area formula can also be proven in terms of polar coordinates using the coordinate transformation
+any point inside the ellipse with x-intercept a and y-intercept b can be defined in terms of r and  where and 
+to define the area differential in such coordinates we use the jacobian matrix of the coordinate transformation times 
+we now integrate over the ellipse to find the area
+==== circumference ====
+the circumference of an ellipse is
+where again a is the length of the semi-major axis and e is the eccentricity and where the function is the complete elliptic integral of the second kind (the arc length of an ellipse in general has no closed-form solution in terms of elementary functions and the elliptic integrals were motivated by this problem) this may be evaluated directly using the carlson symmetric form this gives a succinct and rapidly converging method for evaluating the circumference
+the exact infinite series is
+or
+where is the double factorial unfortunately this series converges rather slowly however by expanding in terms of  ivory and bessel derived an expression that converges much more rapidly
+ramanujan gives two good approximations for the circumference in 16 of they are
+and
+the errors in these approximations which were obtained empirically, are of order and  respectively
+more generally the arc length of a portion of the circumference as a function of the angle subtended is given by an incomplete elliptic integral
+the inverse function the angle subtended as a function of the arc length is given by the elliptic functions
+some lower and upper bounds on the circumference of the canonical ellipse with a b are
+here the upper bound is the circumference of a circumscribed concentric circle passing through the endpoints of the ellipse's major axis and the lower bound is the perimeter of an inscribed rhombus with vertices at the endpoints of the major and minor axes
+==== chords ====
+the midpoints of a set of parallel chords of an ellipse are collinear
+===== latus rectum =====
+the chords of an ellipse that are perpendicular to the major axis and pass through one of its foci are called the latera recta of the ellipse the length of each latus rectum is 2b2/a
+==== curvature ====
+the curvature is given by  a local normal to the ellipse bisects the angle shown in the figure above this is evident graphically in the parallelogram method of construction and can be proven analytically for example by using the parametric form in canonical position as given below
+==== reflexive property ====
+when a ray of light originating from one focus reflects off the inner surface of an ellipse it always passes through the other focus
+=== in projective geometry ===
+in a projective geometry defined over a field a conic section can be defined as the set of all points of intersection between corresponding lines of two pencils of lines in a plane that are related by a projective but not perspective map (see steiner's theorem) by projective duality a conic section can also be defined as the envelope of all lines that connect corresponding points of two lines related by a projective but not perspective map
+in a pappian projective plane (one defined over a field) all conic sections are equivalent to each other and the different types of conic sections are determined by how they intersect the line at infinity denoted by  an ellipse is a conic section that does not intersect this line a parabola is a conic section that is tangent to  and a hyperbola is one that crosses twice since an ellipse does not intersect the line at infinity it properly belongs to the affine plane determined by removing the line at infinity and all of its points from the projective plane
+==== affine space ====
+an ellipse is also the result of projecting a circle sphere or ellipse in a three dimensional affine space onto a plane (flat) by parallel lines this is a special case of conical (perspective) projection of any of those geometric objects in the affine space from a point o onto a plane p when the point o lies in the plane at infinity of the affine space in the setting of pappian projective planes the image of an ellipse by any affine map (a projective map that leaves the line at infinity invariant) is an ellipse and more generally the image of an ellipse by any projective map m such that the line m1() does not touch or cross the ellipse is an ellipse
+=== in analytic geometry ===
+==== general ellipse ====
+in analytic geometry the ellipse is defined as the set of points of the cartesian plane that in non-degenerate cases satisfy the implicit equation
+provided
+to distinguish the degenerate cases from the non-degenerate case let be the determinant
+that is
+then the ellipse is a non-degenerate real ellipse if and only if c < 0 if c > 0 we have an imaginary ellipse and if = 0 we have a point ellipse
+the general equation's coefficients can be obtained from known semi-major axis  semi-minor axis  center coordinates and rotation angle using the following formulae
+these expressions can be derived from the canonical equation (see next section) by substituting the coordinates with expressions for rotation and translation of the coordinate system
+==== canonical form ====
+let  through change of coordinates (a rotation of axes and a translation of axes) the general ellipse can be described by the canonical implicit equation
+here are the point coordinates in the canonical system whose origin is the center of the ellipse whose -axis is the unit vector coinciding with the major axis and whose -axis is the perpendicular vector coinciding with the minor axis that is and 
+in this system the center is the origin and the foci are and 
+any ellipse can be obtained by rotation and translation of a canonical ellipse with the proper semi-diameters the expression of an ellipse centered at is
+moreover any canonical ellipse can be obtained by scaling the unit circle of  defined by the equation
+by factors a and b along the two axes
+for an ellipse in canonical form we have
+the distances from a point on the ellipse to the left and right foci are and  respectively
+==== line segment as a type of degenerate ellipse ====
+a line segment is a degenerate ellipse with semi-minor axis = 0 and eccentricity = 1 and with the focal points at the ends although the eccentricity is 1 this is not a parabola a radial elliptic trajectory is a non-trivial special case of an elliptic orbit where the ellipse is a line segment
+=== in trigonometry ===
+==== general parametric form ====
+an ellipse in general position can be expressed parametrically as the path of a point  where
+as the parameter t varies from 0 to 2 here is the center of the ellipse and is the angle between the -axis and the major axis of the ellipse
+==== parametric form in canonical position ====
+for an ellipse in canonical position (center at origin major axis along the x-axis) the equation simplifies to
+note that the parameter t (called the eccentric anomaly in astronomy) is not the angle of with the x-axis (see diagram at right)
+for a given point on an ellipse formulae connecting the tangential angle  the polar angle from the ellipse center  and the parametric angle t are
+==== polar form relative to center ====
+in polar coordinates with the origin at the center of the ellipse and with the angular coordinate measured from the major axis the ellipse's equation is
+==== polar form relative to focus ====
+if instead we use polar coordinates with the origin at one focus with the angular coordinate still measured from the major axis the ellipse's equation is
+where the sign in the denominator is negative if the reference direction points towards the center (as illustrated on the right) and positive if that direction points away from the center
+in the slightly more general case of an ellipse with one focus at the origin and the other focus at angular coordinate  the polar form is
+the angle in these formulas is called the true anomaly of the point the numerator of these formulas is the semi-latus rectum of the ellipse usually denoted  it is the distance from a focus of the ellipse to the ellipse itself measured along a line perpendicular to the major axis
+==== general polar form ====
+the following equation on the polar coordinates (r ) describes a general ellipse with semidiameters a and b centered at a point (r0 0) with the a axis rotated by relative to the polar axis
+where r is the radius or central distance and
+==== angular eccentricity ====
+the angular eccentricity is the angle whose sine is the eccentricity e that is
+=== degrees of freedom ===
+an ellipse in the plane has five degrees of freedom (the same as a general conic section) defining its vertical and horizontal position orientation shape and scale in comparison circles have only three degrees of freedom (horizontal position vertical position and scale) while parabolae have four said another way the set of all ellipses in the plane with any natural metric (such as the hausdorff distance) is a five-dimensional manifold
+the five degrees of freedom can be identified with for example the coefficients a,b,c,d,e of the implicit equation or with the coefficients xc yc  a b of the general parametric form thus an ellipse is uniquely determined by any five points lying on it
+== applications ==
+=== ellipses in physics ===
+==== elliptical reflectors and acoustics ====
+if the water's surface is disturbed at one focus of an elliptical water tank the circular waves of that disturbance after reflecting off the walls converge simultaneously to a single point the second focus this is a consequence of the total travel length being the same along any wall-bouncing path between the two foci
+similarly if a light source is placed at one focus of an elliptic mirror all light rays on the plane of the ellipse are reflected to the second focus since no other smooth curve has such a property it can be used as an alternative definition of an ellipse (in the special case of a circle with a source at its center all light would be reflected back to the center.) if the ellipse is rotated along its major axis to produce an ellipsoidal mirror (specifically a prolate spheroid) this property holds for all rays out of the source alternatively a cylindrical mirror with elliptical cross-section can be used to focus light from a linear fluorescent lamp along a line of the paper such mirrors are used in some document scanners
+sound waves are reflected in a similar way so in a large elliptical room a person standing at one focus can hear a person standing at the other focus remarkably well the effect is even more evident under a vaulted roof shaped as a section of a prolate spheroid such a room is called a whisper chamber the same effect can be demonstrated with two reflectors shaped like the end caps of such a spheroid placed facing each other at the proper distance examples are the national statuary hall at the united states capitol (where john quincy adams is said to have used this property for eavesdropping on political matters) the mormon tabernacle at temple square in salt lake city utah at an exhibit on sound at the museum of science and industry in chicago in front of the university of illinois at urbana-champaign foellinger auditorium and also at a side chamber of the palace of charles v in the alhambra
+==== planetary orbits ====
+in the 17th century johannes kepler discovered that the orbits along which the planets travel around the sun are ellipses with the sun [approximately] at one focus in his first law of planetary motion later isaac newton explained this as a corollary of his law of universal gravitation
+more generally in the gravitational two-body problem if the two bodies are bound to each other (i.e. the total energy is negative) their orbits are similar ellipses with the common barycenter being one of the foci of each ellipse the other focus of either ellipse has no known physical significance interestingly the orbit of either body in the reference frame of the other is also an ellipse with the other body at the same focus
+keplerian elliptical orbits are the result of any radially directed attraction force whose strength is inversely proportional to the square of the distance thus in principle the motion of two oppositely charged particles in empty space would also be an ellipse (however this conclusion ignores losses due to electromagnetic radiation and quantum effects which become significant when the particles are moving at high speed.)
+for elliptical orbits useful relations involving the eccentricity are
+where
+is the radius at apoapsis (the farthest distance)
+is the radius at periapsis (the closest distance)
+is the length of the semi-major axis
+also in terms of and  the semi-major axis is their arithmetic mean the semi-minor axis is their geometric mean and the semi-latus rectum is their harmonic mean in other words
+==== harmonic oscillators ====
+the general solution for a harmonic oscillator in two or more dimensions is also an ellipse such is the case for instance of a long pendulum that is free to move in two dimensions of a mass attached to a fixed point by a perfectly elastic spring or of any object that moves under influence of an attractive force that is directly proportional to its distance from a fixed attractor unlike keplerian orbits however these harmonic orbits have the center of attraction at the geometric center of the ellipse and have fairly simple equations of motion
+==== phase visualization ====
+in electronics the relative phase of two sinusoidal signals can be compared by feeding them to the vertical and horizontal inputs of an oscilloscope if the display is an ellipse rather than a straight line the two signals are out of phase
+==== elliptical gears ====
+two non-circular gears with the same elliptical outline each pivoting around one focus and positioned at the proper angle turn smoothly while maintaining contact at all times alternatively they can be connected by a link chain or timing belt or in the case of a bicycle the main chainring may be elliptical or an ovoid similar to an ellipse in form such elliptical gears may be used in mechanical equipment to produce variable angular speed or torque from a constant rotation of the driving axle or in the case of a bicycle to allow a varying crank rotation speed with inversely varying mechanical advantage
+elliptical bicycle gears make it easier for the chain to slide off the cog when changing gears
+an example gear application would be a device that winds thread onto a conical bobbin on a spinning machine the bobbin would need to wind faster when the thread is near the apex than when it is near the base
+==== optics ====
+in a material that is optically anisotropic (birefringent) the refractive index depends on the direction of the light the dependency can be described by an index ellipsoid (if the material is optically isotropic this ellipsoid is a sphere.)
+in lamp-pumped solid-state lasers elliptical cylinder-shaped reflectors have been used to direct light from the pump lamp (coaxial with one ellipse focal axis) to the active medium rod (coaxial with the second focal axis)
+in laser-plasma produced euv light sources used in microchip lithography euv light is generated by plasma positioned in the primary focus of an ellipsoid mirror and is collected in the secondary focus at the input of the lithography machine
+=== ellipses in statistics and finance ===
+in statistics a bivariate random vector (x y) is jointly elliptically distributed if its iso-density contours loci of equal values of the density function are ellipses the concept extends to an arbitrary number of elements of the random vector in which case in general the iso-density contours are ellipsoids a special case is the multivariate normal distribution the elliptical distributions are important in finance because if rates of return on assets are jointly elliptically distributed then all portfolios can be characterized completely by their mean and variance that is any two portfolios with identical mean and variance of portfolio return have identical distributions of portfolio return
+=== ellipses in computer graphics ===
+drawing an ellipse as a graphics primitive is common in standard display libraries such as the macintosh quickdraw api and direct2d on windows jack bresenham at ibm is most famous for the invention of 2d drawing primitives including line and circle drawing using only fast integer operations such as addition and branch on carry bit m l v pitteway extended bresenham's algorithm for lines to conics in 1967 another efficient generalization to draw ellipses was invented in 1984 by jerry van aken
+in 1970 danny cohen presented at the computer graphics 1970 conference in england a linear algorithm for drawing ellipses and circles in 1971 l b smith published similar algorithms for all conic sections and proved them to have good properties these algorithms need only a few multiplications and additions to calculate each vector
+it is beneficial to use a parametric formulation in computer graphics because the density of points is greatest where there is the most curvature thus the change in slope between each successive point is small reducing the apparent jaggedness of the approximation
+==== drawing with bzier paths ====
+composite bzier curves may also be used to draw an ellipse to sufficient accuracy since any ellipse may be construed as an affine transformation of a circle the spline methods used to draw a circle may be used to draw an ellipse since the constituent bzier curves behave appropriately under such transformations
+==== drawing with three points of a parallelogram ====
+rytzs construction can be used to find the minor and major axes and their angle of an ellipse from conjugate diameters (which can be seen as three points of a parallelogram) the method uses the conjugate diameters of an ellipse to map the ellipse to an unit circle under affine transformation and calculate the ellipse parameters from that
+=== ellipses in optimization theory ===
+it is sometimes useful to find the minimum bounding ellipse on a set of points the ellipsoid method is quite useful for attacking this problem
+== see also ==
+== notes ==
+== references ==
+besant w.h (1907) chapter iii the ellipse conic sections london george bell and sons p 50
+coxeter h.s.m (1969) introduction to geometry (2nd ed.) new york wiley pp 1159
+meserve bruce e (1983) [1959] fundamental concepts of geometry dover isbn 0-486-63415-9
+miller charles d. lial margaret l. schneider david i (1990) fundamentals of college algebra (3rd ed.) scott foresman/little p 381 isbn 0-673-38638-4
+== external links ==
+apollonius derivation of the ellipse at convergence
+the shape and history of the ellipse in washington d.c by clark kimberling
+ellipse circumference calculator
+collection of animated ellipse demonstrations
+weisstein eric w. ellipse mathworld
+weisstein eric w. ellipse as special case of hypotrochoid mathworld
+ivanov a.b (2001) ellipse in hazewinkel michiel encyclopedia of mathematics springer isbn 978-1-55608-010-4

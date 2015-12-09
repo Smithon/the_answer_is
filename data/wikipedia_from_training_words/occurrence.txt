@@ -1,0 +1,26 @@
+in disciplines such as logic linguistics metalogic typography and computer programming the typetoken distinction is a distinction that separates a descriptive concept from objects that instantiate the concept seen as particular instances of it for example the sentence the bicycle is in the garage refers to a token of the type named bicycle while the sentence the bicycle is becoming more popular refers to the type
+this distinction in computer programming between classes and objects is similar though in this context class may refer to a set of objects (with class-level attribute or operations) rather than a description of an object in the set
+the words type concept property quality feature and attribute are all used in describing things some verbs fit some of these words better than others e.g you might say a rose bush is a plant that instantiates the type(s) or embodies the concept(s) or exhibits the properties or possesses the qualities features or attributes thorny flowering and bushy the term property is used ambiguously to mean property type (height in feet) and/or property instance (1.74) the term concept is probably used more often for the property type (height in feet) than the property instance
+types like thorny are often understood ontologically as concepts types exist in descriptions of objects but not as tangible physical objects a type may have many tokens however types are not directly producible as tokens are one can show someone a particular bicycle but cannot show someone the type bicycle as in the bicycle is popular. it is often presumed that tokens exist in space and time as concrete physical objects but tokens of the types thought tennis match government and act of kindness don't fit this presumption
+clarity requires us to distinguish between abstract types and the tokens or things that embody or exemplify types if we hear that two people have the same car we may conclude that they have the same type of car (e.g the same make and model) or the same particular token of the car (e.g they share a single vehicle) the distinction is useful in other ways during discussion of language
+== occurrencesedit ==
+there is a related distinction very closely connected with the type-token distinction this distinction is the distinction between an object or type of object and an occurrence of it in this sense an occurrence is not necessarily a token quine discovered this distinction however he only gave what he called an artificial but convenient and adequate definition as an occurrence of x in y is an initial segment of y ending in x quine's proposed definition known as the prefix proposal has not received the attention it deserves but at least one counter-proposal has been formulated
+considering the sentence a rose is a rose is a rose we may equally correctly state that there are eight or three words in the sentence there are in fact three word types in the sentence rose is and a there are eight word tokens in a token copy of the line the line itself is a type there are not eight word types in the line it contains (as stated) only the three word types a, is and rose, each of which is unique so what do we call what there are eight of they are occurrences of words there are three occurrences of the word type a, two of is and three of rose
+the need to distinguish tokens of types from occurrences of types arises not just in linguistics but whenever types of things have other types of things occurring in them reflection on the simple case of occurrences of numerals is often helpful
+== typographyedit ==
+in typography the typetoken distinction is used to determine the presence of a text printed by movable type
+the defining criteria which a typographic print has to fulfill is that of the type identity of the various letter forms which make up the printed text in other words each letter form which appears in the text has to be shown as a particular instance ("token") of one and the same type which contains a reverse image of the printed letter
+== see alsoedit ==
+charles sanders peirce's typetoken distinction
+metalogic
+formalism (philosophy)
+is-a
+class (philosophy)
+type theory
+type physicalism
+== notesedit ==
+== referencesedit ==
+baggin j. and fosl p (2003) the philosopher's toolkit blackwell 171-73 isbn 978-0-631-22874-5
+peper f. lee j. adachi s.,isokawa t (2004) token-based computing on nanometer scales proceeding of the tobaco 2004 workshop on token based computing vol.1 pp 118
+== external linksedit ==
+the stanford encyclopedia of philosophy types and tokens by linda wetzel

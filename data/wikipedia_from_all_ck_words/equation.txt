@@ -1,0 +1,110 @@
+in mathematics an equation is an equality containing one or more variables solving the equation consists of determining which values of the variables make the equality true in this situation variables are also known as unknowns and the values which satisfy the equality are known as solutions an equation differs from an identity in that an equation is not necessarily true for all possible values of the variable
+there are many types of equations and they are found in all areas of mathematics the techniques used to examine them differ according to their type
+algebra studies two main families of equations polynomial equations and among them linear equations polynomial equations have the form p(x) = 0 where p is a polynomial linear equations have the form a(x) + b = 0 where a is a linear function and b is a vector to solve them one uses algorithmic or geometric techniques coming from linear algebra or mathematical analysis changing the domain of a function can change the problem considerably algebra also studies diophantine equations where the coefficients and solutions are integers the techniques used are different and come from number theory these equations are difficult in general one often searches just to find the existence or absence of a solution and if they exist to count the number of solutions
+geometry uses equations to describe geometric figures the objective is now different as equations are used to describe geometric properties in this context there are two large families of equations cartesian equations and parametric equations
+differential equations are equations involving one or more functions and their derivatives they are solved by finding an expression for the function that does not involve derivatives differential equations are used to model real-life processes in areas such as physics chemistry biology and economics
+the = symbol was invented in 1557 by robert recorde who considered that nothing could be more equal than parallel straight lines with the same length
+== introduction ==
+=== parameters and unknowns ===
+equations often contain terms other than the unknowns these other terms which are assumed to be known are usually called constants coefficients or parameters usually the unknowns are denoted by letters at the end of the alphabet x y z w  while coefficients are denoted by letters at the beginning a b c d  for example the general quadratic equation is usually written ax2 + bx + c = 0 the process of finding the solutions or in case of parameters expressing the unknowns in terms of the parameters is called solving the equation such expressions of the solutions in terms of the parameters are also called solutions
+a system of equations is a set of simultaneous equations usually in several unknowns for which the common solutions are sought thus a solution to the system is a set of values for each of the unknowns which together form a solution to each equation in the system for example the system
+has the unique solution x = 1 y = 1
+=== analogous illustration ===
+a weighing scale balance or seesaw is often presented as an analogy to an equation
+each side of the balance corresponds to one side of the equation different quantities can be placed on each side if the weights on the two sides are equal the scale balances corresponding to an equality represented by an equation if not then the lack of balance corresponds to an inequality represented by an inequation
+in the illustration x y and z are all different quantities (in this case real numbers) represented as circular weights and each of x y and z has a different weight addition corresponds to adding weight while subtraction corresponds to removing weight from what is already there when equality holds the total weight on each side is the same
+=== identities ===
+an identity is a statement resembling an equation which is true for all possible values of the variable(s) it contains many identities are known in algebra and calculus in the process of solving an equation it is often useful to combine it with an identity to produce an equation which is more easily soluble
+in algebra a simple identity is the difference of two squares
+which is true for all x and y
+trigonometry is an area where many identities exist and are useful in manipulating or solving trigonometric equations two of many including the sine and cosine functions are
+and
+which are both true for all values of 
+for example to solve the equation
+where is known to be between 0 and 45 degrees using the identity for the product gives
+yielding the solution
+since the sine function is a periodic function there are infinitely many solutions if there are no restrictions on  in this example the fact that is between 0 and 45 degrees implies there is only one solution
+== properties ==
+two equations or two systems of equations are equivalent if they have the same set of solutions the following operations transform an equation or a system into an equivalent one
+adding or subtracting the same quantity to both sides of an equation this shows that every equation is equivalent to an equation in which the right-hand side is zero
+multiplying or dividing both sides of an equation by a non-zero constant
+applying an identity to transform one side of the equation for example expanding a product or factoring a sum
+for a system adding to both sides of an equation the corresponding side of another equation multiplied by the same quantity
+if some function is applied to both sides of an equation the resulting equation has the solutions of the initial equation among its solutions but may have further solutions called extraneous solutions for example the equation has the solution raising both sides to the exponent of 2 (which means applying the function to both sides of the equation) changes the equation to  which not only has the previous solution but also introduces the extraneous solution moreover if the function is not defined at some values (such as 1/x which is not defined for x = 0) solutions existing at those values may be lost thus caution must be exercised when applying such a transformation to an equation
+the above transformations are the basis of most elementary methods for equation solving as well as some less elementary ones like gaussian elimination
+== algebra ==
+=== polynomial equations ===
+an algebraic equation or polynomial equation is an equation of the form
+ or
+where p and q are polynomials with coefficients in some field often the field of the rational numbers an algebraic equation is univariate if it involves only one variable on the other hand a polynomial equation may involve several variables in which case it is called multivariate and the term polynomial equation is usually preferred to algebraic equation
+for example
+is an algebraic equation with integer coefficients and
+is a multivariate polynomial equation over the rationals
+some but not all polynomial equations with rational coefficients have a solution that is an algebraic expression with a finite number of operations involving just those coefficients (that is can be solved algebraically) this can be done for all such equations of degree one two three or four but for degree five or more it can only be done for some equations but not for all a large amount of research has been devoted to compute efficiently accurate approximations of the real or complex solutions of an univariate algebraic equation (see root-finding algorithm) and of the common solutions of several multivariate polynomial equations (see system of polynomial equations)
+=== systems of linear equations ===
+a system of linear equations (or linear system) is a collection of linear equations involving the same set of variables for example
+is a system of three equations in the three variables x y z a solution to a linear system is an assignment of numbers to the variables such that all the equations are simultaneously satisfied a solution to the system above is given by
+since it makes all three equations valid the word system indicates that the equations are to be considered collectively rather than individually
+in mathematics the theory of linear systems is the basis and a fundamental part of linear algebra a subject which is used in most parts of modern mathematics computational algorithms for finding the solutions are an important part of numerical linear algebra and play a prominent role in engineering physics chemistry computer science and economics a system of non-linear equations can often be approximated by a linear system (see linearization) a helpful technique when making a mathematical model or computer simulation of a relatively complex system
+== geometry ==
+=== analytic geometry ===
+in euclidean geometry it is possible to associate a set of coordinates to each point in space for example by an orthogonal grid this method allows one to characterize geometric figures by equations a plane in three-dimensional space can be expressed as the solution set of an equation of the form  where and are real numbers and are the unknowns which correspond to the coordinates of a point in the system given by the orthogonal grid the values are the coordinates of a vector perpendicular to the plane defined by the equation a line is expressed as the intersection of two planes that is as the solution set of a single linear equation with values in or as the solution set of two linear equations with values in 
+a conic section is the intersection of a cone with equation and a plane in other words in space all conics are defined as the solution set of an equation of a plane and of the equation of a plane just given this formalism allows one to determine the positions and the properties of the focuses of a conic
+the use of equations allows one to call on a large area of mathematics to solve geometric questions the cartesian coordinate system transforms a geometric problem into an analysis problem once the figures are transformed into equations thus the name analytic geometry this point of view outlined by descartes enriches and modifies the type of geometry conceived of by the ancient greek mathematicians
+currently analytic geometry designates an active branch of mathematics although it still uses equations to characterize figures it also uses other sophisticated techniques such as functional analysis and linear algebra
+=== cartesian equations ===
+a cartesian coordinate system is a coordinate system that specifies each point uniquely in a plane by a pair of numerical coordinates which are the signed distances from the point to two fixed perpendicular directed lines measured in the same unit of length
+one can use the same principle to specify the position of any point in three-dimensional space by three cartesian coordinates its signed distances to three mutually perpendicular planes (or equivalently by its perpendicular projection onto three mutually perpendicular lines)
+the invention of cartesian coordinates in the 17th century by ren descartes (latinized name cartesius) revolutionized mathematics by providing the first systematic link between euclidean geometry and algebra using the cartesian coordinate system geometric shapes (such as curves) can be described by cartesian equations algebraic equations involving the coordinates of the points lying on the shape for example a circle of radius 2 in a plane may be described as the set of all points whose coordinates x and y satisfy the equation x2 + y2 = 4
+=== parametric equations ===
+a parametric equation for a curve expresses the coordinates of the points of the curve as functions of a variable called a parameter for example
+are parametric equations for the unit circle where t is the parameter together these equations are called a parametric representation of the curve
+the notion of parametric equation has been generalized to surfaces manifolds and algebraic varieties of higher dimension with the number of parameters being equal to the dimension of the manifold or variety and the number of equations being equal to the dimension of the space in which the manifold or variety is considered (for curves the dimension is one and one parameter is used for surfaces dimension two and two parameters etc.)
+== number theory ==
+=== diophantine equations ===
+a diophantine equation is a polynomial equation in two or more unknowns such that only the integer solutions are searched or studied (an integer solution is a solution such that all the unknowns take integer values) a linear diophantine equation is an equation between two sums of monomials of degree zero or one an exponential diophantine equation is one in which exponents on terms can be unknowns
+diophantine problems have fewer equations than unknown variables and involve finding integers that work correctly for all equations in more technical language they define an algebraic curve algebraic surface or more general object and ask about the lattice points on it
+the word diophantine refers to the hellenistic mathematician of the 3rd century diophantus of alexandria who made a study of such equations and was one of the first mathematicians to introduce symbolism into algebra the mathematical study of diophantine problems that diophantus initiated is now called diophantine analysis
+=== algebraic and transcendental numbers ===
+an algebraic number is a number that is a root of a non-zero polynomial equation in one variable with rational coefficients (or equivalently by clearing denominators with integer coefficients) numbers such as that are not algebraic are said to be transcendental almost all real and complex numbers are transcendental
+=== algebraic geometry ===
+algebraic geometry is a branch of mathematics classically studying zeros of polynomial equations modern algebraic geometry is based on more abstract techniques of abstract algebra especially commutative algebra with the language and the problems of geometry
+the fundamental objects of study in algebraic geometry are algebraic varieties which are geometric manifestations of solutions of systems of polynomial equations examples of the most studied classes of algebraic varieties are plane algebraic curves which include lines circles parabolas ellipses hyperbolas cubic curves like elliptic curves and quartic curves like lemniscates and cassini ovals a point of the plane belongs to an algebraic curve if its coordinates satisfy a given polynomial equation basic questions involve the study of the points of special interest like the singular points the inflection points and the points at infinity more advanced questions involve the topology of the curve and relations between the curves given by different equations
+== differential equations ==
+a differential equation is a mathematical equation that relates some function with its derivatives in applications the functions usually represent physical quantities the derivatives represent their rates of change and the equation defines a relationship between the two because such relations are extremely common differential equations play a prominent role in many disciplines including engineering physics economics and biology
+in pure mathematics differential equations are studied from several different perspectives mostly concerned with their solutions the set of functions that satisfy the equation only the simplest differential equations are solvable by explicit formulas however some properties of solutions of a given differential equation may be determined without finding their exact form
+if a self-contained formula for the solution is not available the solution may be numerically approximated using computers the theory of dynamical systems puts emphasis on qualitative analysis of systems described by differential equations while many numerical methods have been developed to determine solutions with a given degree of accuracy
+=== ordinary differential equations ===
+an ordinary differential equation or ode is an equation containing a function of one independent variable and its derivatives the term ordinary is used in contrast with the term partial differential equation which may be with respect to more than one independent variable
+linear differential equations which have solutions that can be added and multiplied by coefficients are well-defined and understood and exact closed-form solutions are obtained by contrast odes that lack additive solutions are nonlinear and solving them is far more intricate as one can rarely represent them by elementary functions in closed form instead exact and analytic solutions of odes are in series or integral form graphical and numerical methods applied by hand or by computer may approximate solutions of odes and perhaps yield useful information often sufficing in the absence of exact analytic solutions
+=== partial differential equations ===
+a partial differential equation (pde) is a differential equation that contains unknown multivariable functions and their partial derivatives (this is in contrast to ordinary differential equations which deal with functions of a single variable and their derivatives.) pdes are used to formulate problems involving functions of several variables and are either solved by hand or used to create a relevant computer model
+pdes can be used to describe a wide variety of phenomena such as sound heat electrostatics electrodynamics fluid flow elasticity or quantum mechanics these seemingly distinct physical phenomena can be formalised similarly in terms of pdes just as ordinary differential equations often model one-dimensional dynamical systems partial differential equations often model multidimensional systems pdes find their generalisation in stochastic partial differential equations
+== types of equations ==
+equations can be classified according to the types of operations and quantities involved important types include
+an algebraic equation or polynomial equation is an equation in which both sides are polynomials (see also system of polynomial equations) these are further classified by degree
+linear equation for degree one
+quadratic equation for degree two
+cubic equation for degree three
+quartic equation for degree four
+quintic equation for degree five
+sextic equation for degree six
+septic equation for degree seven
+a diophantine equation is an equation where the unknowns are required to be integers
+a transcendental equation is an equation involving a transcendental function of its unknowns
+a parametric equation is an equation for which the solutions are sought as functions of some other variables called parameters appearing in the equations
+a functional equation is an equation in which the unknowns are functions rather than simple quantities
+a differential equation is a functional equation involving derivatives of the unknown functions
+an integral equation is a functional equation involving the antiderivatives of the unknown functions
+an integro-differential equation is a functional equation involving both the derivatives and the antiderivatives of the unknown functions
+a difference equation is an equation where the unknown is a function f which occurs in the equation through f(x) f(x1)  f(xk) for some whole integer k called the order of the equation if x is restricted to be an integer a difference equation is the same as a recurrence relation
+== see also ==
+== references ==
+== external links ==
+winplot general purpose plotter which can draw and animate 2d and 3d mathematical equations
+mathematical equation plotter plots 2d mathematical equations computes integrals and finds solutions online
+equation plotter a web page for producing and downloading pdf or postscript plots of the solution sets to equations and inequations in two variables (x and y)
+eqworldcontains information on solutions to many different classes of mathematical equations
+fxsolver online formula database and graphing calculator for mathematics,natural science and engineering
+equationsolver a webpage that can solve single equations and linear equation systems
+vcalc a webpage with an extensive user modifiable equation library

@@ -1,0 +1,9 @@
+in set theory when dealing with sets of infinite size the term almost or nearly is used to mean all the elements except for finitely many
+in other words an infinite set s that is a subset of another infinite set l is almost l if the subtracted set l\s is of finite size
+examples
+the set is almost n for any k in n because only finitely many natural numbers are less than k
+the set of prime numbers is not almost n because there are infinitely many natural numbers that are not prime numbers
+this is conceptually similar to the almost everywhere concept of measure theory but is not the same for example the cantor set is uncountably infinite but has lebesgue measure zero so a real number in (0 1) is a member of the complement of the cantor set almost everywhere but it is not true that the complement of the cantor set is almost the real numbers in (0 1)
+== see also ==
+almost all
+almost surely

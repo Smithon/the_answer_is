@@ -1,0 +1,220 @@
+triangl polygon three edg three vertic one basic shape geometri triangl vertic b c denot
+euclidean geometri three point noncollinear determin uniqu triangl uniqu plane ie twodimension euclidean space articl triangl euclidean geometri except otherwis note
+type triangl
+length side
+triangl classifi accord length side
+equilater triangl side length equilater triangl also regular polygon angl measur
+isoscel triangl two side equal length isoscel triangl also two angl measur name angl opposit two side length fact content isoscel triangl theorem known euclid mathematician defin isoscel triangl exact two equal side wherea other defin isoscel triangl one least two equal side latter definit would make equilater triangl isoscel triangl right triangl appear tetraki squar tile isoscel
+scalen triangl side differ length equival angl differ measur right triangl also scalen triangl isoscel
+hatch mark also call tick mark use diagram triangl geometr figur identifi side equal length side mark pattern tick short line segment form talli mark two side equal length mark pattern triangl pattern usual tick equilater triangl pattern side isoscel triangl pattern side scalen triangl differ pattern side sinc side equal similar pattern concentr arc insid angl use indic equal angl equilater triangl pattern angl isoscel triangl pattern angl scalen triangl differ pattern angl sinc angl equal
+intern angl
+triangl also classifi accord intern angl measur degre
+right triangl rightangl triangl former call rectangl triangl one interior angl measur right angl side opposit right angl hypotenus longest side triangl two side call leg catheti singular cathetus triangl right triangl obey pythagorean theorem sum squar length two leg equal squar length hypotenus b c b length leg c length hypotenus special right triangl right triangl addit properti make calcul involv easier one two famous right triangl situat pythagorean tripl one isoscel triangl angl measur degre
+triangl angl measur call obliqu triangl
+triangl interior angl measur less acut triangl acuteangl triangl c length longest side b c b length side
+triangl one interior angl measur obtus triangl obtuseangl triangl c length longest side b c b length side
+triangl interior angl collinear vertic degener
+right degener triangl collinear vertic two coincid
+triangl two angl measur also two side length therefor isoscel triangl follow triangl angl measur three side length triangl therefor equilater
+basic fact
+triangl assum twodimension plane figur unless context provid otherwis see nonplanar triangl rigor treatment triangl therefor call simplex see also polytop elementari fact triangl present euclid book element around bc
+sum measur interior angl triangl euclidean space alway degre fact equival euclid parallel postul allow determin measur third angl triangl given measur two angl exterior angl triangl angl linear pair henc supplementari interior angl measur exterior angl triangl equal sum measur two interior angl adjac exterior angl theorem sum measur three exterior angl one vertex triangl degre
+similar congruenc
+two triangl said similar everi angl one triangl measur correspond angl triangl correspond side similar triangl length proport properti also suffici establish similar
+basic theorem similar triangl
+one pair intern angl two triangl measur anoth pair also measur triangl similar
+one pair correspond side two triangl proport anoth pair correspond side includ angl measur triangl similar includ angl two side polygon intern angl two side
+three pair correspond side two triangl proport triangl similar
+two triangl congruent exact size shape pair correspond interior angl equal measur pair correspond side length total six equal three often suffici prove congruenc
+individu necessari suffici condit pair triangl congruent
+sas postul two side triangl length two side triangl includ angl measur
+asa two interior angl includ side triangl measur length respect triangl includ side pair angl side common
+sss side triangl length correspond side triangl
+aa two angl correspond noninclud side triangl measur length respect triangl sometim refer aacorr includ asa
+individu suffici condit
+hypotenuseleg hl theorem hypotenus leg right triangl length anoth right triangl also call rhs rightangl hypotenus side
+hypotenuseangl theorem hypotenus acut angl one right triangl length measur respect right triangl particular case aa theorem
+import condit
+sidesideangl anglesidesid condit two side correspond noninclud angl triangl length measur respect anoth triangl suffici prove congruenc angl given opposit longer side two side triangl congruent hypotenuseleg theorem particular case criterion sidesideangl condit guarante triangl congruent one triangl could obtuseangl acuteangl
+use right triangl concept similar trigonometr function sine cosin defin function angl investig trigonometri
+right triangl
+central theorem pythagorean theorem state right triangl squar length hypotenus equal sum squar length two side hypotenus length c leg length b theorem state
+convers true length side triangl satisfi equat triangl right angl opposit side c
+fact right triangl
+acut angl right triangl complementari
+leg right triangl length angl opposit leg measur sinc angl complementari follow measur degre pythagorean theorem length hypotenus length leg time
+right triangl acut angl measur degre hypotenus twice length shorter side longer side equal length shorter side time
+triangl angl side relat law cosin law sine also call cosin rule sine rule
+exist triangl
+triangl inequ state sum length two side triangl must greater equal length third side sum equal length third side case degener triangl one collinear vertic possibl sum less length third side triangl three given side length exist side length satisfi triangl inequ
+three given angl form nondegener triangl inde infinitud condit hold angl posit b angl sum degener triangl permit angl permit
+trigonometr condit
+three posit angl less angl triangl one follow condit hold
+latter equal appli none angl tangent function valu alway finit
+point line circl associ triangl
+thousand differ construct find special point associ often insid triangl satisfi uniqu properti see refer section catalogu often construct find three line associ symmetr way three side vertic prove three line meet singl point import tool prove exist ceva theorem give criterion determin three line concurr similar line associ triangl often construct prove three symmetr construct point collinear menelaus theorem give use general criterion section common encount construct explain
+perpendicular bisector side triangl straight line pass midpoint side perpendicular ie form right angl three perpendicular bisector meet singl point triangl circumcent usual denot o point center circumcircl circl pass three vertic diamet circl call circumdiamet found law sine state circumcircl radius call circumradius
+thale theorem impli circumcent locat one side triangl opposit angl right one circumcent locat insid triangl triangl acut circumcent locat outsid triangl triangl obtus
+altitud triangl straight line vertex perpendicular ie form right angl opposit side opposit side call base altitud point altitud intersect base extens call foot altitud length altitud distanc base vertex three altitud intersect singl point call orthocent triangl usual denot h orthocent lie insid triangl triangl acut
+angl bisector triangl straight line vertex cut correspond angl half three angl bisector intersect singl point incent usual denot center triangl incircl incircl circl lie insid triangl touch three side radius call inradius three import circl excircl lie outsid triangl touch one side well extens two center excircl form orthocentr system
+median triangl straight line vertex midpoint opposit side divid triangl two equal area three median intersect singl point triangl centroid geometr barycent usual denot g centroid rigid triangular object cut thin sheet uniform densiti also center mass object balanc centroid uniform gravit field centroid cut everi median ratio ie distanc vertex centroid twice distanc centroid midpoint opposit side
+midpoint three side feet three altitud lie singl circl triangl ninepoint circl remain three point name midpoint portion altitud vertic orthocent radius ninepoint circl half circumcircl touch incircl feuerbach point three excircl
+centroid yellow orthocent blue circumcent green center ninepoint circl red point lie singl line known euler line red line center ninepoint circl lie midpoint orthocent circumcent distanc centroid circumcent half centroid orthocent
+center incircl general locat euler line
+one reflect median angl bisector pass vertex one obtain symmedian three symmedian intersect singl point symmedian point triangl
+comput side angl
+various standard method calcul length side measur angl certain method suit calcul valu rightangl triangl complex method may requir situat
+trigonometr ratio right triangl
+right triangl trigonometr ratio sine cosin tangent use find unknown angl length unknown side side triangl known follow
+hypotenus side opposit right angl defin longest side rightangl triangl case h
+opposit side side opposit angl interest case
+adjac side side contact angl interest right angl henc name case adjac side b
+sine cosin tangent
+sine angl ratio length opposit side length hypotenus case
+note ratio depend particular right triangl chosen long contain angl sinc triangl similar
+cosin angl ratio length adjac side length hypotenus case
+tangent angl ratio length opposit side length adjac side case
+acronym sohcahtoa use mnemon ratio
+invers function
+invers trigonometr function use calcul intern angl right angl triangl length two side
+arcsin use calcul angl length opposit side length hypotenus
+arcco use calcul angl length adjac side length hypotenus
+arctan use calcul angl length opposit side length adjac side
+introductori geometri trigonometri cours notat sin cos etc often use place arcsin arcco etc howev arcsin arcco etc notat standard higher mathemat trigonometr function common rais power avoid confus multipl invers composit invers
+sine cosin tangent rule
+law sine sine rule state ratio length side sine correspond opposit angl constant
+ratio equal diamet circumscrib circl given triangl anoth interpret theorem everi triangl angl similar triangl side length equal sin sin sin triangl construct first construct circl diamet inscrib two angl triangl length side triangl sin sin sin side whose length sin opposit angl whose measur etc
+law cosin cosin rule connect length unknown side triangl length side angl opposit unknown side per law
+triangl length side b c angl respect given two known length triangl b angl two known side angl opposit unknown side c calcul third side c follow formula use
+length three side triangl known three angl calcul
+law tangent tangent rule use find side angl know two side angl two angl side state
+solut triangl
+solut triangl histor term solv main trigonometr problem find miss characterist triangl three angl length three side etc least three characterist given triangl locat plane sphere problem often occur various trigonometr applic geodesi astronomi construct navig etc
+comput area triangl
+calcul area triangl elementari problem encount often mani differ situat best known simplest formula
+b length base triangl h height altitud triangl term base denot side height denot length perpendicular vertex opposit side onto line contain side ce aryabhata great mathematicianastronom classic age indian mathemat indian astronomi use method aryabhatiya section
+although simpl formula use height readili found alway case exampl surveyor triangular field might find relat easi measur length side relat difficult construct height various method may use practic depend known triangl follow select frequent use formula area triangl
+use trigonometri
+height triangl found applic trigonometri
+know sas use label imag right altitud h sin substitut formula deriv area triangl express
+interior angl interior angl b interior angl c c line ab
+furthermor sinc sin sin sin similar two angl
+know aa
+analog known side c
+know asa
+analog known side b c
+use heron formula
+shape triangl determin length side therefor area also deriv length side heron formula
+semiperimet half triangl perimet
+three equival way write heron formula
+use vector
+area parallelogram embed threedimension euclidean space calcul use vector let vector ab ac point respect b c area parallelogram abdc
+magnitud cross product vector ab ac area triangl abc half
+area triangl abc also express term dot product follow
+twodimension euclidean space express vector ab free vector cartesian space equal xy ac xy rewritten
+use coordin
+vertex locat origin cartesian coordin system coordin two vertic given b xb yb c xc yc area comput time absolut valu determin
+three general vertic equat
+written
+point label sequenti counterclockwis direct determin express posit absolut valu sign omit formula known shoelac formula surveyor formula
+locat vertic complex plane denot counterclockwis sequenc xa yai b xb ybi c xc yci denot complex conjug formula
+equival shoelac formula
+three dimens area general triangl xa ya za b xb yb zb c xc yc zc pythagorean sum area respect project three princip plane ie x y z
+use line integr
+area within close curv triangl given line integr around curv algebra sign distanc point curv arbitrari orient straight line l point right l orient taken negat distanc l weight integr taken compon arc length parallel l rather arc length
+method well suit comput area arbitrari polygon take l xaxi line integr consecut vertic xiyi xiyi given base time mean height name xi xiyi yi sign area overal indic direct travers negat area indic counterclockwis travers area triangl fall case polygon three side
+line integr method common coordinatebas method arbitrari choic coordin system unlik other make arbitrari choic vertex triangl origin side base furthermor choic coordin system defin l commit two degre freedom rather usual three sinc weight local distanc eg xi xi whenc method requir choos axi normal l
+work polar coordin necessari convert cartesian coordin use line integr sinc line integr consecut vertic rii rii polygon given direct ririsini valid valu decreas numer accuraci mani order magnitud greater formul negat area indic clockwis travers kept mind mix polar cartesian coordin choic yaxi x immateri line integr cartesian coordin choic zero head immateri
+formula resembl heron formula
+three formula structur heron formula express term differ variabl first denot median side b c respect ma mb mc semisum ma mb mc
+next denot altitud side b c respect ha hb hc denot semisum reciproc altitud
+denot semisum angl sine sin sin sin
+d diamet circumcircl
+use pick theorem
+see pick theorem techniqu find area arbitrari lattic polygon one drawn grid vertic horizont adjac lattic point equal distanc vertic lattic point
+theorem state
+number intern lattic point b number lattic point lie border polygon
+area formula
+numer area formula exist
+r inradius semiperimet fact formula hold tangenti polygon
+circumdiamet d
+angl
+denot radius inscrib circl r radii excircl r r r area express
+baker gave collect hundr distinct area formula triangl includ
+circumradius radius circumcircl r
+upper bound area
+area triangl perimet p less equal equal hold triangl equilater
+upper bound area given
+hold triangl equilater
+bisect area
+infinit mani line bisect area triangl three median area bisector go centroid three area bisector parallel triangl side
+line triangl split triangl area perimet half goe triangl incent one two three given triangl
+formula general euclidean triangl
+formula section true euclidean triangl
+median side relat
+equival mb mc
+angl opposit side length intern angl bisector given
+semiperimet bisector length measur vertex meet opposit side
+interior perpendicular bisector given
+side area
+altitud exampl side length
+follow formula involv circumradius r inradius r
+ha etc altitud subscript side
+suppos two adjac nonoverlap triangl share side length f share circumcircl side length f chord circumcircl triangl side length b f c d f two triangl togeth form cyclic quadrilater side length sequenc b c d
+let m centroid triangl vertic b c let p interior point distanc point relat
+let pa pb pc distanc centroid side length b c
+product two side triangl equal altitud third side time diamet circumcircl
+carnot theorem state sum distanc circumcent three side equal sum circumradius inradius segment length consid negat segment lie entir outsid triangl method especi use deduc properti abstract form triangl one induc lie algebra otherwis properti usual triangl
+euler theorem state distanc d circumcent incent given
+equival
+r circumradius r inradius thus triangl r r equal hold equilater triangl
+denot orthocent divid one altitud segment length u v anoth altitud segment length w x third altitud segment length y z uv wx yz
+distanc side circumcent equal half distanc opposit vertex orthocent
+sum squar distanc vertic orthocent plus sum squar side equal twelv time squar circumradius
+triangl
+morley trisector theorem
+morley trisector theorem state triangl three point intersect adjac angl trisector form equilater triangl call morley triangl
+figur inscrib triangl
+conic
+discuss everi triangl uniqu inscrib circl incircl interior triangl tangent three side
+everi triangl uniqu steiner inellips interior triangl tangent midpoint side marden theorem show find foci ellips ellips greatest area ellips tangent three side triangl
+mandart inellips triangl ellips inscrib within triangl tangent side contact point excircl
+ellips inscrib triangl abc let foci p q
+convex polygon
+everi convex polygon area inscrib triangl area equal equal hold exclus parallelogram
+hexagon
+lemoin hexagon cyclic hexagon vertic given six intersect side triangl three line parallel side pass symmedian point either simpl form selfintersect form lemoin hexagon interior triangl two vertic side triangl
+squar
+everi acut triangl three inscrib squar squar interior four squar vertic lie side triangl two lie side henc one side squar coincid part side triangl right triangl two squar coincid vertex triangl right angl right triangl two distinct inscrib squar obtus triangl one inscrib squar side coincid part triangl longest side within given triangl longer common side associ smaller inscrib squar inscrib squar side length q triangl side length part side coincid side squar q triangl area relat accord
+largest possibl ratio area inscrib squar area triangl occur q altitud triangl base length equal smallest possibl ratio side one inscrib squar side anoth nonobtus triangl
+triangl
+interior point refer triangl nearest point three side serv vertic pedal triangl point interior point circumcent refer triangl vertic pedal triangl midpoint refer triangl side pedal triangl call midpoint triangl medial triangl midpoint triangl subdivid refer triangl four congruent triangl similar refer triangl
+gergonn triangl intouch triangl refer triangl vertic three point tangenc refer triangl side incircl extouch triangl refer triangl vertic point tangenc refer triangl excircl side extend
+figur circumscrib triangl
+tangenti triangl refer triangl right triangl triangl whose side tangent line refer triangl circumcircl vertic
+mention everi triangl uniqu circumcircl circl pass three vertic whose center intersect perpendicular bisector triangl side
+everi triangl uniqu steiner circumellips pass triangl vertic center triangl centroid ellips go triangl vertic smallest area
+kiepert hyperbola uniqu conic pass triangl three vertic centroid circumcent
+triangl contain given convex polygon exist triangl maxim area whose vertic vertic given polygon
+specifi locat point triangl
+one way identifi locat point outsid triangl place triangl arbitrari locat orient cartesian plane use cartesian coordin conveni mani purpos approach disadvantag point coordin valu depend arbitrari placement plane
+two system avoid featur coordin point affect move triangl rotat reflect mirror give congruent triangl even rescal give similar triangl
+trilinear coordin specifi relat distanc point side coordin indic ratio distanc point first side distanc second side etc
+barycentr coordin form specifi point locat relat weight would put three vertic order balanc otherwis weightless triangl given point
+nonplanar triangl
+nonplanar triangl triangl contain flat plane exampl nonplanar triangl noneuclidean geometri spheric triangl spheric geometri hyperbol triangl hyperbol geometri
+measur intern angl planar triangl alway sum hyperbol triangl measur angl sum less spheric triangl measur angl sum hyperbol triangl obtain draw negat curv surfac saddl surfac spheric triangl obtain draw posit curv surfac sphere thus one draw giant triangl surfac earth one find sum measur angl greater fact particular possibl draw triangl sphere measur intern angl equal ad total
+specif sphere sum angl triangl
+f
+f fraction sphere area enclos triangl exampl suppos draw triangl earth surfac vertic north pole point equat longitud point equat west longitud great circl line latter two point equat great circl line either point north pole line longitud right angl two point equat moreov angl north pole also two vertic differ longitud sum angl triangl triangl enclos northern hemispher view north pole therefor earth surfac formula f thus formula correct give sum triangl angl
+angl sum formula also see earth surfac local flat draw arbitrarili small triangl neighborhood one point earth surfac fraction f earth surfac enclos triangl arbitrarili close zero case angl sum formula simplifi know euclidean geometri tell us triangl flat surfac
+triangl construct
+rectangl popular common geometr form build sinc shape easi stack organ standard easi design furnitur fixtur fit insid rectangular shape build triangl difficult use conceptu provid great deal strength comput technolog help architect design creativ new build triangular shape becom increas preval part build primari shape type skyscrap well build materi tokyo architect wonder whether possibl build stori tower provid afford offic space dens pack citi danger build earthquak architect consid triangular shape would necessari build ever built hasnt
+new york citi broadway crisscross major avenu result block cut like triangl build built shape one build triangular shape flatiron build real estat peopl admit warren awkward space easili accommod modern offic furnitur prevent structur becom landmark icon design made hous norway use triangular theme triangl shape appear church well public build includ colleg well support innov home design
+triangl sturdi rectangl collaps parallelogram pressur one point triangl natur strength support structur later pressur triangl chang shape unless side bent extend broken joint break essenc three side support two rectangl contrast depend strength joint structur sens innov design propos make brick rectangl triangular shape combin three dimens like triangl use increas new way architectur increas complex import rememb triangl strong term rigid pack tessel arrang triangl strong hexagon compress henc preval hexagon form natur tessel triangl still maintain superior strength cantilev howev basi one strongest man made structur tetrahedr truss
+see also
+note
+refer
+extern link
+ivanov ab triangl hazewinkel michiel encyclopedia mathemat springer isbn
+clark kimberl encyclopedia triangl center list interest point associ triangl

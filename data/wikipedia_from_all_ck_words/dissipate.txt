@@ -1,0 +1,31 @@
+dissipation is the result of an irreversible process that takes place in inhomogeneous thermodynamic systems a dissipative process is a process in which energy (internal bulk flow kinetic or system potential) is transformed from some initial form to some final form the capacity of the final form to do mechanical work is less than that of the initial form forexample heat transfer is dissipative because it is a transfer of internal energy from a hotter body to a colder one following the second law of thermodynamics the entropy varies with temperature (reduces the capacity of the combination of the two bodies to do mechanical work) but never decreases in an isolated system
+these processes produce entropy (see entropy production) at a certain rate the entropy production rate times ambient temperature gives the dissipated power important examples of irreversible processes are heat flow through a thermal resistance fluid flow through a flow resistance diffusion (mixing) chemical reactions and electrical current flow through an electrical resistance (joule heating)
+== definition ==
+thermodynamic dissipative processes are essentially irreversible they produce entropy at a finite rate in a process in which the temperature is locally continuously defined the local density of rate of entropy production times local temperature gives the local density of dissipated power.[definition needed!]
+a particular occasion of occurrence of a dissipative process cannot be described by a single individual hamiltonian formalism a dissipative process requires a collection of admissible individual hamiltonian descriptions exactly which one describes the actual particular occurrence of the process of interest being unknown this includes friction and all similar forces that result in decoherency of energythat is conversion of coherent or directed energy flow into an indirected or more isotropic distribution of energy
+=== energy ===
+the conversion of mechanical energy into heat is called energy dissipation. franois roddier
+=== physics ===
+in computational physics numerical dissipation (also known as numerical diffusion") refers to certain side-effects that may occur as a result of a numerical solution to a differential equation when the pure advection equation which is free of dissipation is solved by a numerical approximation method the energy of the initial wave may be reduced in a way analogous to a diffusional process such a method is said to contain dissipation in some cases artificial dissipation is intentionally added to improve the numerical stability characteristics of the solution
+=== mathematics ===
+a formal mathematical definition of dissipation as commonly used in the mathematical study of measure-preserving dynamical systems is given in the article wandering set
+== examples ==
+=== in hydraulic engineering ===
+dissipation is the process of converting mechanical energy of downward-flowing water into thermal and acoustical energy various devices are designed in stream beds to reduce the kinetic energy of flowing waters to reduce their erosive potential on banks and river bottoms very often these devices look like small waterfalls or cascades where water flows vertically or over riprap to lose some of its kinetic energy
+=== irreversible processes ===
+important examples of irreversible processes are
+heat flow through a thermal resistance
+fluid flow through a flow resistance
+diffusion (mixing)
+chemical reactions
+electrical current flow through an electrical resistance (joule heating)
+=== waves or oscillations ===
+waves or oscillations lose energy over time typically from friction or turbulence in many cases the lost energy raises the temperature of the system for example a wave that loses amplitude is said to dissipate the precise nature of the effects depends on the nature of the wave an atmospheric wave for instance may dissipate close to the surface due to friction with the land mass and at higher levels due to radiative cooling
+== history ==
+the concept of dissipation was introduced in the field of thermodynamics by william thomson (lord kelvin) in 1852 lord kelvin deduced that a subset of the above-mentioned irreversible dissaptive processes will occur unless a process is governed by a perfect thermodynamic engine the processes that lord kelvin identified were friction diffusion conduction of heat and the absorption of light
+== see also ==
+entropy production
+flood control
+principle of maximum entropy
+two-dimensional gas
+== references ==

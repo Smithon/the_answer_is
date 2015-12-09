@@ -1,0 +1,161 @@
+diffus net movement molecul atom region high concentr region low concentr also refer movement substanc concentr gradient gradient chang valu quantiti eg concentr pressur temperatur chang anoth variabl usual distanc exampl chang concentr distanc call concentr gradient chang pressur distanc call pressur gradient chang temperatur distanc call temperatur gradient
+word diffus deriv latin word diffunder mean spread substanc spread move area high concentr area low concentr distinguish featur diffus result mix mass transport without requir bulk motion bulk flow thus diffus confus convect advect transport phenomena util bulk motion move particl one place anoth
+diffus vs bulk flow
+exampl situat bulk flow diffus differenti mechan oxygen enter bodi extern respir breath lung locat thorac caviti expand first step extern respir expans lead increas volum alveoli lung caus decreas pressur alveoli creat pressur gradient air outsid bodi relat high pressur alveoli relat low pressur air move pressur gradient airway lung alveoli pressur air alveoli equal ie movement air bulk flow stop longer pressur gradient
+air arriv alveoli higher concentr oxygen stale air alveoli increas oxygen concentr creat concentr gradient oxygen air alveoli blood capillari surround alveoli oxygen move diffus concentr gradient blood consequ air arriv alveoli concentr carbon dioxid alveoli decreas air low concentr carbon dioxid compar blood bodi creat concentr gradient carbon dioxid diffus blood alveoli
+blood transport around bodi pump action heart left ventricl heart contract volum decreas caus pressur ventricl increas creat pressur gradient heart capillari blood move blood vessel bulk flow pressur gradient thorac caviti contract expir volum alveoli decreas creat pressur gradient alveoli air outsid bodi air move bulk flow pressur gradient
+diffus context differ disciplin
+concept diffus wide use physic particl diffus chemistri biolog sociolog econom financ diffus peopl idea price valu howev case object eg atom idea etc undergo diffus spread point locat higher concentr object
+two way introduc notion diffus either phenomenolog approach start fick law diffus mathemat consequ physic atomist one consid random walk diffus particl
+phenomenolog approach diffus movement substanc region high concentr region low concentr without bulk motion accord fick law diffus flux proport negat gradient concentr goe region higher concentr region lower concentr time later various general fick law develop frame thermodynam nonequilibrium thermodynam
+atomist point view diffus consid result random walk diffus particl molecular diffus move molecul selfpropel thermal energi random walk small particl suspens fluid discov robert brown theori brownian motion atomist background diffus develop albert einstein concept diffus typic appli subject matter involv random walk ensembl individu
+biolog term net movement net diffus often use consid movement ion molecul diffus exampl oxygen diffus cell membran higher concentr oxygen outsid cell insid oxygen molecul diffus cell howev movement molecul random occasion oxygen molecul move cell concentr gradient oxygen molecul outsid cell probabl oxygen molecul enter cell higher probabl oxygen molecul leav cell therefor net movement oxygen molecul differ number molecul either enter leav cell cell word net movement oxygen molecul concentr gradient
+histori diffus physic
+scope time diffus solid use long theori diffus creat exampl plini elder previous describ cement process produc steel element iron fe carbon diffus anoth exampl well known mani centuri diffus colour stain glass earthenwar chines ceram
+modern scienc first systemat experiment studi diffus perform thoma graham studi diffus gase main phenomenon describ
+gase differ natur brought contact arrang accord densiti heaviest undermost lighter uppermost spontan diffus mutual equal remain intim state mixtur length time
+measur graham contribut jame clerk maxwel deriv coeffici diffus co air error rate less
+adolf fick yearold anatomi demonstr zrich propos law diffus use graham research state goal develop fundament law oper diffus singl element space assert deep analog diffus conduct heat electr creat formal similar fourier law heat conduct ohm law electr current
+robert boyl demonstr diffus solid th centuri penetr zinc copper coin nevertheless diffus solid systemat studi second part th centuri william chandler robertsausten wellknown british metallurgist former assist thoma graham studi systemat solid state diffus exampl gold lead
+long connect graham research made almost duti attempt extend work liquid diffus metal
+rudolf clausius introduc concept mean free path year jame clerk maxwel develop first atomist theori transport process gase modern atomist theori diffus brownian motion develop albert einstein marian smoluchowski jeanbaptist perrin ludwig boltzmann develop atomist background macroscop transport process introduc boltzmann equat serv mathemat physic sourc transport process idea concern year
+georg de hevesi measur selfdiffus use radioisotop studi selfdiffus radioact isotop lead liquid solid lead
+yakov frenkel sometim jakovjacov frenkel propos elabor idea diffus crystal local defect vacanc interstiti atom conclud diffus process condens matter ensembl elementari jump quasichem interact particl defect introduc sever mechan diffus found rate constant experiment data
+time later carl wagner walter h schottki develop frenkel idea mechan diffus present univers recogn atom defect necessari mediat diffus crystal
+henri eyr coauthor appli theori absolut reaction rate frenkel quasichem model diffus analog reaction kinet diffus lead various nonlinear version fick law
+basic model diffus
+diffus flux
+model diffus express diffus flux concentr densiti deriv flux vector transfer physic quantiti small area normal per time
+inner product littleo notat use notat vector area
+dimens diffus flux fluxquantitytimearea diffus physic quantiti may number particl mass energi electr charg scalar extens quantiti densiti diffus equat form
+intens local sourc quantiti rate chemic reaction exampl diffus equat noflux boundari condit formul boundari normal boundari point
+fick law equat
+fick first law diffus flux proport negat concentr gradient
+correspond diffus equat fick second law
+laplac oper
+onsag equat multicompon diffus thermodiffus
+fick law describ diffus admixtur medium concentr admixtur small gradient concentr also small drive forc diffus fick law antigradi concentr
+lar onsag includ multicompon transport process general context linear nonequilibrium thermodynam multicompon transport
+flux ith physic quantiti compon jth thermodynam forc
+thermodynam forc transport process introduc onsag space gradient deriv entropi densiti use term forc quotat mark drive forc
+thermodynam coordin heat mass transfer one take densiti intern energi concentr ith compon correspond drive forc space vector
+absolut temperatur chemic potenti ith compon stress separ diffus equat describ mix mass transport without bulk motion therefor term variat total pressur neglect possibl diffus small admixtur small gradient
+linear onsag equat must take thermodynam forc linear approxim near equilibrium
+deriv calcul equilibrium n matrix kinet coeffici symmetr onsag reciproc relat posit definit entropi growth
+transport equat
+index j k relat intern energi various compon express squar bracket matrix diffus ik thermodiffus k k thermal conduct ik coeffici
+isotherm condit tconst relev thermodynam potenti free energi free entropi thermodynam drive forc isotherm diffus antigradi chemic potenti matrix diffus coeffici
+ik
+intrins arbitrari definit thermodynam forc kinet coeffici measur separ combin measur exampl origin work onsag thermodynam forc includ addit multipli wherea cours theoret physic multipli omit sign thermodynam forc opposit chang supplement correspond chang coeffici effect measur quantiti
+nondiagon diffus must nonlinear
+formal linear irrevers thermodynam onsag generat system linear diffus equat form
+matrix diffus coeffici diagon system equat collect decoupl fick equat various compon assum diffus nondiagon exampl consid state state point becom negat point short time therefor linear nondiagon diffus preserv posit concentr nondiagon equat multicompon diffus must nonlinear
+einstein mobil teorel formula
+einstein relat kinet theori connect diffus coeffici mobil ratio particl termin drift veloc appli forc
+d diffus constant mobil kb boltzmann constant absolut temperatur
+combin formula chemic potenti mobil use mobil notat
+mobilitybas approach appli teorel studi diffus ion membran formul essenc approach formula
+flux equal mobilityconcentrationforc per gram ion
+socal teorel formula
+forc isotherm condit consist two part
+diffus forc caus concentr gradient
+electrostat forc caus electr potenti gradient
+r gas constant absolut temperatur n concentr equilibrium concentr mark superscript eq q charg electr potenti
+simpl crucial differ teorel formula onsag law concentr factor teorel express flux einstein teorel approach finit forc concentr tend zero flux also tend zero wherea onsag equat violat simpl physic obvious rule
+general formul teorel formula nonperfect system isotherm condit
+chemic potenti standard valu chemic potenti express socal activ measur effect concentr speci nonid mixtur notat teorel formula flux simpl form
+standard deriv activ includ normal factor small concentr standard concentr therefor formula flux describ flux normal dimensionless quantiti
+teorel formula multicompon diffus
+teorel formula combin onsag definit diffus forc give
+mobil ith compon activ matrix coeffici thermodynam diffus forc isotherm perfect system therefor einsteinteorel approach give follow multicompon general fick law multicompon diffus
+matrix coeffici chapmanenskog formula diffus gase includ exact term earlier term introduc maxwellstefan diffus equat
+jump surfac solid
+diffus reagent surfac catalyst may play import role heterogen catalysi model diffus ideal monolay base jump reagent nearest free place model use co pt oxid low gas pressur
+system includ sever reagent surfac surfac concentr surfac lattic adsorpt place reagent molecul fill place surfac place free concentr free pace sum includ free place constant densiti adsorpt place b
+jump model give diffus flux
+correspond diffus equat
+due conserv law system m diffus equat one compon get fick law linear equat two compon equat nonlinear
+particl exchang posit closest neighbour simpl general give
+symmetr matrix coeffici character intens jump free place vacanc consid special particl concentr
+various version jump model also suitabl simpl diffus mechan solid
+diffus porous media
+diffus porous media basic equat
+d diffus coeffici n concentr m usual m case m correspond fick law
+diffus gase porous media equat formalis darci law veloc gas porous media
+k permeabl medium viscos p pressur flux jnv darci law give equat diffus porous media m
+underground water infiltr boussinesq approxim give equat m
+plasma high level radiat zeldovichra equat give m heat transfer
+diffus physic
+elementari theori diffus coeffici gase
+diffus coeffici coeffici fick first law j diffus flux amount substanc per unit area per unit time n ideal mixtur concentr x posit length
+let us consid two gase molecul diamet d mass m selfdiffus case elementari mean free path theori diffus give diffus coeffici
+kb boltzmann constant temperatur p pressur mean free path vt mean thermal speed
+see diffus coeffici mean free path approxim grow decreas p p use p ideal gas law prnt total concentr n see given concentr n diffus coeffici grow given temperatur decreas total concentr n
+two differ gase b molecular mass ma mb molecular diamet da db mean free path estim diffus coeffici b b
+theori diffus gase base boltzmann equat
+boltzmann kinet mixtur gase gas distribut function time moment x posit c veloc molecul ith compon mixtur compon mean veloc veloc coincid exist diffus
+chapmanenskog approxim distribut function express densiti conserv quantiti
+individu concentr particl particl per volum
+densiti moment mi ith particl mass
+densiti kinet energi
+kinet temperatur pressur p defin d space
+total densiti
+two gase differ veloc given express
+forc appli molecul ith compon thermodiffus ratio
+coeffici d posit diffus coeffici four term formula cc describ four main effect diffus gase
+describ flux first compon area high ratio nn area lower valu ratio analog flux second compon high nn low nn nnnn
+describ flux heavier molecul area higher pressur lighter molecul area lower pressur barodiffus
+describ diffus caus differ forc appli molecul differ type exampl earth gravit field heavier molecul go electr field charg molecul move effect equilibr sum term effect confus barodiffus caus pressur gradient
+describ thermodiffus diffus flux caus temperatur gradient
+effect call diffus describ differ veloc differ compon mixtur therefor effect cannot describ bulk transport differ advect convect
+first approxim
+rigid sphere
+repuls forc
+number defin quadratur formula ch classic chapman cowl book
+see depend rigid sphere simpl mean free path theori power repuls law expon differ depend total concentr n given temperatur alway charact n
+applic gas dynam diffus flux bulk flow join one system transport equat bulk flow describ mass transfer veloc v mass averag veloc defin momentum densiti mass concentr
+mass concentr ith speci mass densiti
+definit diffus veloc ith compon mass transfer ith compon describ continu equat
+net mass product rate chemic reaction
+equat term describ advect ith compon term repres diffus compon
+wendel h furri propos use form diffus rate found kinet theori framework new phenomenolog approach diffus gase approach develop fa william sh lam diffus veloc multicompon gase n compon use
+diffus coeffici matrix thermal diffus coeffici bodi forc per unit mass act ith speci partial pressur fraction ith speci partial pressur mass fraction ith speci
+random walk random motion
+one common misconcept individu atom ion molecul move random anim right ion left panel random motion motion random result collis ion movement singl atom ion molecul within mixtur appear random view isol movement substanc within mixtur random walk govern kinet energi within system affect chang concentr pressur temperatur
+separ diffus convect gase
+brownian motion multimolecular mesoscop particl like pollen grain studi brown observ optic microscop molecular diffus probe care control experiment condit sinc graham experi well known avoid convect necessari may nontrivi task
+normal condit molecular diffus domin length scale nanomet millimet larger length scale transport liquid gase normal due anoth transport phenomenon convect studi diffus larger scale special effort need
+therefor often cite exampl diffus wrong cologn spray one place soon smell entir room simpl calcul show cant due diffus convect motion persist room temperatur inhomogen ink drop water one usual observ inhomogen evolut spatial distribut clear indic convect caus particular drop
+contrast heat conduct solid media everyday occurr eg metal spoon part immers hot liquid explain diffus heat explain mathemat diffus mass
+type diffus
+anisotrop diffus also known peronamalik equat enhanc high gradient
+anomal diffus porous medium
+atom diffus solid
+eddi diffus coarsegrain descript turbul flow
+effus gas small hole
+electron diffus result electr current call diffus current
+facilit diffus present organ
+gaseous diffus use isotop separ
+heat equat diffus thermal energi
+diffus mathematis brownian motion continu stochast process
+knudsen diffus gas long pore frequent wall collis
+momentum diffus ex diffus hydrodynam veloc field
+photon diffus
+plasma diffus
+random walk model diffus
+revers diffus concentr gradient phase separ
+rotat diffus random reorient molecul
+surfac diffus diffus adparticl surfac
+turbul diffus transport mass heat momentum within turbul fluid
+see also
+advect
+diffusionlimit aggreg
+fick law diffus
+fals diffus
+isobar counterdiffus
+sorption
+refer
+extern link
+diffus bipolar junction transistor demo
+diffus furnac dope semiconductor wafer pocl dope silicon
+java applet implement diffus

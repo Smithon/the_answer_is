@@ -1,0 +1,99 @@
+fluid dynam bernoulli principl state inviscid flow nonconduct fluid increas speed fluid occur simultan decreas pressur decreas fluid potenti energi principl name daniel bernoulli publish book hydrodynamica
+bernoulli principl appli various type fluid flow result loos denot bernoulli equat fact differ form bernoulli equat differ type flow simpl form bernoulli principl valid incompress flow eg liquid flow gase move low mach number advanc form may case appli compress flow higher mach number see deriv bernoulli equat
+bernoulli principl deriv principl conserv energi state steadi flow sum form energi fluid along streamlin point streamlin requir sum kinet energi potenti energi intern energi remain constant thus increas speed fluid impli increas dynam pressur kinet energi occur simultan decreas sum static pressur potenti energi intern energi fluid flow reservoir sum form energi streamlin reservoir energi per unit volum sum pressur gravit potenti g h everywher
+bernoulli principl also deriv direct newton nd law small volum fluid flow horizont region high pressur region low pressur pressur behind front give net forc volum acceler along streamlin
+fluid particl subject pressur weight fluid flow horizont along section streamlin speed increas fluid section move region higher pressur region lower pressur speed decreas move region lower pressur region higher pressur consequ within fluid flow horizont highest speed occur pressur lowest lowest speed occur pressur highest
+incompress flow equationedit
+flow liquid gase low mach number densiti fluid parcel consid constant regardless pressur variat flow therefor fluid consid incompress flow call incompress flow bernoulli perform experi liquid equat origin form valid incompress flow common form bernoulli equat valid arbitrari point along streamlin
+fluid flow speed point streamlin
+acceler due graviti
+elev point refer plane posit zdirect point upward direct opposit gravit acceler
+pressur chosen point
+densiti fluid point fluid
+conserv forc field bernoulli equat general
+forc potenti point consid streamlin eg earth graviti gz
+follow two assumpt must met bernoulli equat appli
+flow must incompress even though pressur vari densiti must remain constant along streamlin
+friction viscous forc neglig
+multipli fluid densiti equat rewritten
+dynam pressur
+piezometr head hydraul head sum elev z pressur head
+total pressur sum static pressur p dynam pressur q
+constant bernoulli equat normalis common approach term total head energi head h
+equat suggest flow speed pressur zero even higher speed pressur negat often gase liquid capabl negat absolut pressur even zero pressur clear bernoulli equat ceas valid zero pressur reach liquid pressur becom low cavit occur equat use linear relationship flow speed squar pressur higher flow speed gase sound wave liquid chang mass densiti becom signific assumpt constant densiti invalid
+simplifi formedit
+mani applic bernoulli equat chang g z term along streamlin small compar term ignor exampl case aircraft flight chang height z along streamlin small g z term omit allow equat present follow simplifi form
+p call total pressur q dynam pressur mani author refer pressur p static pressur distinguish total pressur p dynam pressur q aerodynam lj clanci write distinguish total dynam pressur actual pressur fluid associ motion state often refer static pressur term pressur alon use refer static pressur
+simplifi form bernoulli equat summar follow memor word equat
+static pressur dynam pressur total pressur
+everi point steadili flow fluid regardless fluid speed point uniqu static pressur p dynam pressur q sum p q defin total pressur p signific bernoulli principl summar total pressur constant along streamlin
+fluid flow irrot total pressur everi streamlin bernoulli principl summar total pressur constant everywher fluid flow reason assum irrot flow exist situat larg bodi fluid flow past solid bodi exampl aircraft flight ship move open bodi water howev import rememb bernoulli principl appli boundari layer fluid flow long pipe
+fluid flow point along stream line brought rest point call stagnat point point total pressur equal stagnat pressur
+applic incompress flow equat flow gasesedit
+bernoulli equat sometim valid flow gase provid transfer kinet potenti energi gas flow compress expans gas gas pressur volum chang simultan work done gas case bernoulli equat incompress flow form cannot assum valid howev gas process entir isobar isochor work done gas simpl energi balanc upset accord gas law isobar isochor process ordinarili way ensur constant densiti gas also gas densiti proport ratio pressur absolut temperatur howev ratio vari upon compress expans matter nonzero quantiti heat ad remov except net heat transfer zero complet thermodynam cycl individu isentrop frictionless adiabat process even revers process must revers restor gas origin pressur specif volum thus densiti origin unmodifi bernoulli equat applic case equat use flow speed gas suffici speed sound variat densiti gas due effect along streamlin ignor adiabat flow less mach general consid slow enough
+unsteadi potenti flowedit
+bernoulli equat unsteadi potenti flow use theori ocean surfac wave acoust
+irrot flow flow veloc describ gradient veloc potenti case constant densiti momentum equat euler equat integr
+bernoulli equat valid also unsteadyor time dependentflow denot partial deriv veloc potenti respect time v flow speed function ft depend time posit fluid result bernoulli equat moment appli along certain streamlin whole fluid domain also true special case steadi irrot flow case f constant
+ft made equal zero incorpor veloc potenti use transform
+result
+note relat potenti flow veloc unaffect transform
+bernoulli equat unsteadi potenti flow also appear play central role luke variat principl variat descript freesurfac flow use lagrangian confus lagrangian coordin
+compress flow equationedit
+bernoulli develop principl observ liquid equat applic incompress fluid compress fluid approxim mach number possibl use fundament principl physic develop similar equat applic compress fluid numer equat tailor particular applic analog bernoulli equat reli noth fundament principl physic newton law motion first law thermodynam
+compress flow fluid dynamicsedit
+compress fluid barotrop equat state action conserv forc
+constant along streamlin
+p pressur
+densiti
+v flow speed
+potenti associ conserv forc field often gravit potenti
+engin situat elev general small compar size earth time scale fluid flow small enough consid equat state adiabat case equat becom
+constant along streamlin
+addit term list
+ratio specif heat fluid
+g acceler due graviti
+z elev point refer plane
+mani applic compress flow chang elev neglig compar term term gz omit use form equat
+p total pressur
+total densiti
+compress flow thermodynamicsedit
+anoth use form equat suitabl use thermodynam quasi steadi flow
+w enthalpi per unit mass also often written h confus head height
+note thermodynam energi per unit mass also known specif intern energi
+constant right hand side often call bernoulli constant denot b steadi inviscid adiabat flow addit sourc sink energi b constant along given streamlin general b may vari along streamlin still prove use paramet relat head fluid see
+chang ignor use form equat
+w total enthalpi calor perfect gas ideal gas enthalpi direct proport temperatur lead concept total stagnat temperatur
+shock wave present refer frame shock stationari flow steadi mani paramet bernoulli equat suffer abrupt chang pass shock bernoulli paramet howev remain unaffect except rule radiat shock violat assumpt lead bernoulli equat name lack addit sink sourc energi
+deriv bernoulli equationedit
+applicationsedit
+modern everyday life mani observ success explain applic bernoulli principl even though real fluid entir inviscid small viscos often larg effect flow
+bernoulli principl use calcul lift forc airfoil behaviour fluid flow vicin foil known exampl air flow past top surfac aircraft wing move faster air flow past bottom surfac bernoulli principl impli pressur surfac wing lower pressur differ result upward lift forc whenev distribut speed past top bottom surfac wing known lift forc calcul good approxim use bernoulli equat establish bernoulli centuri first manmad wing use purpos flight bernoulli principl explain air flow faster past top wing slower past undersid see articl aerodynam lift info
+carburetor use mani reciproc engin contain venturi creat region low pressur draw fuel carburetor mix thorough incom air low pressur throat venturi explain bernoulli principl narrow throat air move fastest speed therefor lowest pressur
+pitot tube static port aircraft use determin airspe aircraft two devic connect airspe indic determin dynam pressur airflow past aircraft dynam pressur differ stagnat pressur static pressur bernoulli principl use calibr airspe indic display indic airspe appropri dynam pressur
+flow speed fluid measur use devic venturi meter orific plate place pipelin reduc diamet flow horizont devic continu equat show incompress fluid reduct diamet caus increas fluid flow speed subsequ bernoulli principl show must decreas pressur reduc diamet region phenomenon known venturi effect
+maximum possibl drain rate tank hole tap base calcul direct bernoulli equat found proport squar root height fluid tank torricelli law show torricelli law compat bernoulli principl viscos lower drain rate reflect discharg coeffici function reynold number shape orific
+bernoulli grip reli principl creat noncontact adhes forc surfac gripper
+misunderstand generat liftedit
+mani explan generat lift airfoil propel blade etc found explan mislead fals sourc heat discuss year particular debat whether lift best explain bernoulli principl newton law motion modern write agre bernoulli principl newton law relev either use correct describ lift
+sever explan use bernoulli principl connect flow kinemat flowinduc pressur case incorrect partial correct explan reli bernoulli principl error general occur assumpt flow kinemat produc bernoulli principl question principl well establish
+misappl bernoulli principl common classroom demonstrationsedit
+sever common classroom demonstr sometim incorrect explain use bernoulli principl one involv hold piec paper horizont droop downward blow top demonstr blow paper paper rise assert faster move air lower pressur
+one problem explan seen blow along bottom paper deflect due simpli faster move air one would expect paper deflect downward paper deflect upward regardless whether faster move air top bottom anoth problem air leav demonstr mouth pressur surround air air lower pressur move demonstr static pressur air leav demonstr mouth equal pressur surround air third problem fals make connect flow two side paper use bernoulli equat sinc air differ flow field bernoulli principl appli within flow field
+word principl chang implic state principl correct import bernoulli principl actual say within flow constant energi fluid flow region lower pressur speed vice versa thus bernoulli principl concern chang speed chang pressur within flow field cannot use compar differ flow field
+correct explan paper rise would observ plume follow curv paper curv streamlin develop pressur gradient perpendicular direct flow lower pressur insid curv bernoulli principl predict decreas pressur associ increas speed ie air pass paper speed move faster move left demonstr mouth appar demonstr
+common classroom demonstr blow two suspend sphere inflat larg bag suspend ball airstream sometim explain similar mislead manner say faster move air lower pressur
+see alsoedit
+terminolog fluid dynam
+navierstok equat flow viscous fluid
+euler equat flow inviscid fluid
+hydraul appli fluid mechan liquid
+referencesedit
+readingedit
+extern linksedit
+head energi fluid flow
+bernoulli equat calcul
+denver univers bernoulli equat pressur measur
+millersvill univers applic euler equat
+nasa beginn guid aerodynam
+misinterpret bernoulli equat weltner ingelmansundberg

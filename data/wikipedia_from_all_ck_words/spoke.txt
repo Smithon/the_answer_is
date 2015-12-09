@@ -1,0 +1,54 @@
+a spoke is one of some number of rods radiating from the center of a wheel (the hub where the axle connects) connecting the hub with the round traction surface
+the term originally referred to portions of a log that had been split lengthwise into four or six sections the radial members of a wagon wheel were made by carving a spoke (from a log) into their finished shape a spokeshave is a tool originally developed for this purpose eventually the term spoke was more commonly applied to the finished product of the wheelwright's work than to the materials he used
+== history ==
+the spoked wheel was invented to allow the construction of lighter and swifter vehicles the earliest known examples are in the context of the andronovo culture dating to ca 2000 bc soon after this horse cultures of the caucasus region used horse-drawn spoked-wheel war chariots for the greater part of three centuries they moved deep into the greek peninsula where they joined with the existing mediterranean peoples to give rise eventually to classical greece after the breaking of minoan dominance and consolidations led by pre-classical sparta and athens celtic chariots introduced an iron rim around the wheel in the 1st millennium bc the spoked wheel was in continued use without major modification until the 1870s when wire wheels and rubber tires were invented
+== construction ==
+spokes can be made of wood metal or synthetic fiber depending on whether they will be in tension or compression
+=== compression spokes ===
+the original type of spoked wheel with wooden spokes was used for horse-drawn carriages and wagons in early motor cars wooden spoked wheels of the artillery type were normally used
+in a simple wooden wheel a load on the hub causes the wheel rim to flatten slightly against the ground as the lowermost wooden spoke shortens and compresses the other wooden spokes show no significant change
+wooden spokes are mounted radially they are also dished usually to the outside of the vehicle to prevent wobbling also the dishing allows the wheel to compensate for expansion of the spokes due to absorbed moisture by dishing more
+=== tension spokes ===
+for use in bicycles heavy wooden-spoked wheels were replaced by lighter wheels with spokes made of tensioned adjustable metal wires called wire wheels these are also used in wheelchairs motorcycles and automobiles
+==== types ====
+some types of wheels have removable spokes that can be replaced individually if they break or bend these include bicycle and wheelchair wheels high quality bicycles with conventional wheels use spokes of stainless steel while cheaper bicycles may use galvanized (also called rustless") or chrome plated spokes while a good quality spoke is capable of supporting about 225 kgf (c 500 pounds-force or 2,200 newtons) of tension they are used at a fraction of this load to avoid suffering fatigue failures since bicycle and wheelchair wheel spokes are only in tension flexible and strong materials such as synthetic fibers are also occasionally used metal spokes can also be ovalized or bladed to reduce aerodynamic drag and butted (double or even triple) to reduce weight while maintaining strength
+a variation on the wire-spoked wheel was tioga's tension disk which appeared superficially to be a solid disk but was in fact constructed using the same principles as a normal tension-spoked wheel instead of individual wire spokes a continuous thread of kevlar (aramid) was used to lace the hub to the rim under high tension the threads were encased in a translucent disk for protection and some aerodynamic benefit but this was not a structural component
+==== reaction to load ====
+the reaction to a radial load of a well-tensioned wire spoked wheel such as by a rider sitting on a bicycle is that the wheel flattens slightly near the ground contact area the rest of the wheel remains approximately circular the tension of all the spokes do not increase significantly instead only the spokes directly under the hub decrease their tension the issue of how best to describe this situation is debated some authors conclude from this that the hub stands on those spokes immediately below it that experience a reduction in tension other authors conclude that the hub hangs from those spokes above it that have higher tension than the ones below it
+despite being composed of thin and relatively flexible spokes wire wheels are radially stiff and provide very little suspension compliance compared to even high-pressure bicycle tires
+==== tangential lacing ====
+wire spokes can be radial to the hub but are more often mounted tangentially to the hub tangential spoking allows for the transfer of torque between the rim and the hub tangential spokes are thus necessary for the drive wheel which has torque at the hub from pedalling and any wheels using hub-mounted brakes such as disk or band brakes which transfer torque from the rim to the brake in the opposite direction(via the hub) when braking
+==== wheelbuilding ====
+constructing a tension-spoked wheel from its constituent parts is called wheelbuilding and requires the correct building procedure for a strong and long-lasting end product tensioned spokes are usually attached to the rim or sometimes the hub with a spoke nipple the other end is commonly peened into a disk or uncommonly bent into a z to keep it from pulling through its hole in the hub the bent version has the advantage of replacing a broken spoke in a rear bicycle wheel without having to remove the rear gears
+wire wheels with their excellent weight-to-strength ratio soon became popular for light vehicles for everyday cars wire wheels were soon replaced by the less expensive metal disc wheel but wire wheels remained popular for sports cars up to the 1960s spoked wheels are still popular on motorcycles
+== spoke length ==
+when building a bicycle wheel the spokes must have the correct length otherwise there may not be enough threads engaged producing a weaker wheel or they may protrude through the rim and possibly puncture the inner tube
+=== calculation ===
+for bicycle spokes the spoke length is defined from the flange seat to the thread tip for spokes with bent ends the nominal spoke length does not include the width of the spoke at the bent end
+for wheels with crossed spokes (which are the norm) the desired spoke length is
+where
+d = distance from the center of hub (along the axis) to flange for example 30 mm
+r1 = spoke hole circle radius of the hub for example 19.5 mm
+r2 = half of effective rim diameter (erd) or the diameter the ends of the spokes make in a built wheel (see discussion attached to this article for explanation) of the rim for example 301 mm
+r3 = radius of spoke holes in the flange for example 1.1 mm
+m = number of spokes to be used for one side of the wheel for example 36/2=18
+k = number of crossings per spoke for example 3 and
+a = 360 k/m for example 360*3/18 = 60
+regarding d for a symmetric wheel such as a front wheel with no disc brake this is half the distance between the flanges for an asymmetric wheel such as a front wheel with disc brake or a rear wheel with chain derailleur the value of d is different for the left and right sides
+a is the angle between (1) the radius to a nipple hole in the rim to which a spoke is attached and (2) the radius to the flange hole holding the spoke the spoke crosses either 1 2 or 3 oppositely pointing spokes depending on the lacing design on the flange the angle between the radii of adjacent holes is 360/m (for equally spaced holes) for each spoke crossed the hub is rotated with reference to the rim one angle between adjacent flange holes thus multiplying the angle between adjacent flange holes by k gives the angle a for example a 32 spoke wheel has 16 spokes per side 360 divided by 16 equals 22.5 multiply 22.5 ("angle between adjacent flange holes") by the number of crossings to get the angle aif 3-crosses the 32 spoke wheel has an angle a of 67.5 regarding r3 the size of the spoke holes in the flange does not matter for the needed spoke length this term removes the effect of the hole size since the holes are usually small (just over 2 mm in diameter) the effect is small and in practice matters little
+for radially spoked wheels (zero crossings) the formula simplifies to the pythagorean theorem with spoke length l being the slope r2 minus r1 being the base and d being the rise
+ or if deducting the rim spoke hole radius from the rise
+=== derivation ===
+the spoke length formula computes the length of the space diagonal of an imaginary rectangular box imagine holding a wheel in front of you such that a nipple is at the top look at the wheel from along the axis the spoke through the top hole is now a diagonal of the imaginary box the box has a depth of d a height of r2-r1cos() and a width of r1sin(a)
+equivalently the law of cosines may be used to first compute the length of the spoke as projected on the wheel's plane (as illustrated in the diagram) followed by an application of the pythagorean theorem
+== see also ==
+bicycle wheel
+spoke nipple
+spoke wrench
+spokeshave
+wheelbuilding
+== references ==
+== external links ==
+these pages are in german
+hub dynamo assembly instructions with spoke length formula and a nice diagram
+online spoke length calculator (german) uses slightly different measures than the above formula

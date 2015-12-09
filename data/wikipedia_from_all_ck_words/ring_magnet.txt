@@ -1,0 +1,44 @@
+a samariumcobalt (smco) magnet a type of rare earth magnet is a strong permanent magnet made of an alloy of samarium and cobalt they were developed in the early 1970s by albert gale and dilip k das of raytheon corporation they are generally ranked similarly in strength to neodymium magnets but have higher temperature ratings and higher coercivity they are brittle and prone to cracking and chipping samariumcobalt magnets have maximum energy products (bhmax) that range from 16 megagauss-oersteds (mgoe) to 33 mgoe that is approx 128 kj/m3 to 264 kj/m3 their theoretical limit is 34 mgoe about 272 kj/m3 they are available in two series namely series 1:5 and series 2:17
+sintered samarium cobalt magnets exhibit magnetic anisotropy meaning they can only be magnetized in the axis of their magnetic orientation this is done by aligning the crystal structure of the material during the manufacturing process
+== series 1:5edit ==
+these samariumcobalt magnet alloys (generally written as smco5 or smco series 1:5) have one atom of rare earth samarium and five atoms of cobalt by weight this magnet alloy will typically contain 36% samarium with the balance cobalt the energy products of these samariumcobalt alloys range from 16 mgoe to 25 mgoe that is approx 128 - 200 kj/m3 these samariumcobalt magnets generally have a reversible temperature coefficient of -0.05%/c saturation magnetization can be achieved with a moderate magnetizing field this series of magnet is easier to calibrate to a specific magnetic field than the smco 2:17 series magnets
+in the presence of a moderately strong magnetic field unmagnetized magnets of this series will try to align their orientation axis to the magnetic field thus becoming slightly magnetized this can be an issue if postprocessing requires that the magnet be plated or coated the slight field that the magnet picks up can attract debris during the plating or coating process causing coating failure or a mechanically out-of-tolerance condition
+=== reversible temperature coefficientedit ===
+br drifts with temperature and it is one of the important characteristics of magnet performance some applications such as inertial gyroscopes and travelling wave tubes (twts) need to have constant field over a wide temperature range the reversible temperature coefficient (rtc) of br is defined as
+(br/br) x (1/ t) 100%
+to address these requirements temperature compensated magnets were developed in the late 1970s for conventional smco magnets br decreases as temperature increases conversely for gdco magnets br increases as temperature increases within certain temperature ranges by combining samarium and gadolinium in the alloy the temperature coefficient can be reduced to nearly zero
+=== coercivity mechanismedit ===
+smco5 magnets have a very high coercivity (coercive force) that is they are not easily demagnetized they are fabricated by packing wide-grain lone-domain magnetic powders all of the magnetic domains are aligned with the easy axis direction in this case all of the domain walls are at 180 degrees when there are no impurities the reversal process of the bulk magnet is equivalent to lone-domain motes where coherent rotation is the dominant mechanism however due to the imperfection of fabricating impurities may be introduced in the magnets which form nuclei in this case because the impurities may have lower anisotropy or misaligned easy axes their directions of magnetization are easier to spin which breaks the 180 domain wall configuration in such materials the coercivity is controlled by nucleation to obtain much coercivity impurity control is critical in the fabrication process
+== series 2:17edit ==
+these alloys (written as sm2co17 or smco series 2:17) are age-hardened with a composition of two atoms of rare-earth samarium and 1317 atoms of transition metals (tm) the tm content is rich in cobalt but contains other elements such as iron and copper other elements like zirconium hafnium and such may be added in small quantities to achieve better heat treatment response by weight the alloy will generally contain 25% of samarium the maximum energy products of these alloys range from 20 to 32 mgoe what is about 160-260 kj/m3 these alloys have the best reversible temperature coefficient of all rare-earth alloys typically being -0.03%/c the second generation materials can also be used at higher temperatures
+=== coercivity mechanismedit ===
+in sm2co17 magnets the coercivity mechanism is based on domain wall pinning impurities inside the magnets impede the domain wall motion and thereby resist the magnetization reversal process to increase the coercivity impurities are intentionally added during the fabrication process
+== machining samariumcobaltedit ==
+the alloys are typically machined in the unmagnetized state samariumcobalt should be ground using a wet grinding process (water-based coolants) and a diamond grinding wheel the same type of process is required if drilling holes or other features that are confined the grinding waste produced must not be allowed to completely dry as samariumcobalt has a low ignition point a small spark such as that produced with static electricity can easily commence combustion the fire produced will be extremely hot and difficult to control
+== productionedit ==
+the reduction/melt method and reduction/diffusion method are used to manufacture samariumcobalt magnets the reduction/melt method will be described since it is used for both smco5 and sm2co17 production the raw materials are melted in an induction furnace filled with argon gas the mixture is cast into a mold and cooled with water to form an ingot the ingot is pulverized and the particles are further milled to further reduce the particle size the resulting powder is pressed in a die of desired shape in a magnetic field to orient the magnetic field of the particles sintering is applied at a temperature of 1100c1250c followed by solution treatment at 1100c1200c and tempering is finally performed on the magnet at about 700c900c it then is ground and further magnetized to increase its magnetic properties the finished product is tested inspected and packed
+== hazardsedit ==
+samariumcobalt magnets can easily chip eye protection must be worn when handling them
+allowing magnets to snap together can cause the magnets to shatter which can cause a potential hazard
+samariumcobalt is manufactured by a process called sintering and as with all sintered materials inherent cracks are very possible these magnets do not have mechanical integrity instead the magnet must be utilized for its magnetic functions and other mechanical systems must be designed to provide the mechanical reliability of the system
+== attributesedit ==
+extremely resistant to demagnetization
+good temperature stability (maximum use temperatures between 250 c (523 k) and 550 c (823 k) curie temperatures from 700 c (973 k) to 800 c (1,070 k)
+expensive and subject to price fluctuations (cobalt is market price sensitive)
+=== physical and mechanical propertiesedit ===
+samarium - cobalt magnet has a strong resistance to corrosion and oxidation resistance usually do not need to be coated can be widely used in high temperature and poor working conditions
+== usesedit ==
+fender is using one of legendary designer bill lawrence's latest designs named the samarium cobalt noiseless series of electric guitar pickups in fender's vintage hot rod 57 stratocaster the samarium cobalt noiseless pickups were used in american deluxe series guitars and basses from 2004 until early 2010 in the mid 1980s some expensive headphones such as the ross re-278 utilised samarium cobalt super magnet transducers
+other uses include
+high-end electric motors used in the more competitive classes in slotcar racing
+turbomachinery
+traveling-wave tube field magnets
+applications that will require the system to function at cryogenic temperatures or very hot temperatures (over 180 c)
+applications in which performance is required to be consistent with temperature change
+benchtop nmr spectrometers
+== see alsoedit ==
+neodymium magnet
+== referencesedit ==
+== external linksedit ==
+very similar wording
+also similar]

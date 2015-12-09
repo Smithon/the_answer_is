@@ -1,0 +1,78 @@
+alkalinity is the name given to the quantitative capacity of an aqueous solution to neutralize an acid measuring alkalinity is important in determining a stream's ability to neutralize acidic pollution from rainfall or wastewater it is one of the best measures of the sensitivity of the stream to acid inputs there can be long-term changes in the alkalinity of streams and rivers in response to human disturbances alkalinity does not measure the same property as the ph (namely basicity)
+== simplified summaryedit ==
+alkalinity roughly refers to the amount of bases in a solution that can be converted to uncharged species by a strong acid the cited author james drever provides an equation expressed in terms of molar equivalents which means the number of moles of each ion type multiplied by (the absolute value of) the charge of the ion for example 1 mole of hco31 in solution represents 1 molar equivalent while 1 mole of co32 is 2 molar equivalents because twice as many h+ ions would be necessary to balance the charge the total charge of a solution always equals zero
+quoting from page 52 ions such as na+ k+ ca2+ mg2+ cl  so42 and no3 can be regarded as conservative in the sense that their concentrations are unaffected by changes in the ph pressure or temperature (within the ranges normally encountered near the earth's surface and assuming no precipitation or dissolution of solid phases or biological transformations).
+on the left-hand side of the equation is the sum of conservative cations minus the sum of conservative anions balancing this on the right side is the sum of the anions that could be neutralized by added h+ ions (non-conservative anions) minus h+ ions already present all numbers are molar equivalents
+this right side term is called total alkalinity it is quoting drever formally defined as the equivalent sum of the bases that are titratable with strong acid (stumm and morgan 1981) the listing of ions shown on the right in drever was mhco3 + 2mco32 + mb(oh)4 + mh3(sio)4 + mhs + morganic anions + moh - mh+ total alkalinity is measured by adding a strong acid until all the anions listed above are converted to uncharged species the total alkalinity is not (much) affected by temperature pressure or ph though the values of individual constituents are mostly being conversions between hco3 and co32
+drever further notes that in most natural waters all ions except hco3 and co32 have low concentrations thus carbonate alkalinity which is equal to mhco3 + 2mco32 is also approximately equal to the total alkalinity
+== detailed descriptionedit ==
+alkalinity or at measures the ability of a solution to neutralize acids to the equivalence point of carbonate or bicarbonate the alkalinity is equal to the stoichiometric sum of the bases in solution in the natural environment carbonate alkalinity tends to make up most of the total alkalinity due to the common occurrence and dissolution of carbonate rocks and presence of carbon dioxide in the atmosphere other common natural components that can contribute to alkalinity include borate hydroxide phosphate silicate dissolved ammonia the conjugate bases of some organic acids and sulfate solutions produced in a laboratory may contain a virtually limitless number of bases that contribute to alkalinity alkalinity is usually given in the unit meq/l (milliequivalent per liter) commercially as in the swimming pool industry alkalinity might also be given in parts per million of equivalent calcium carbonate (ppm caco3)
+alkalinity is sometimes incorrectly used interchangeably with basicity for example the ph of a solution can be lowered by the addition of co2 this will reduce the basicity however the alkalinity will remain unchanged (see example below)
+== theoretical treatment of alkalinityedit ==
+in typical groundwater or seawater the measured alkalinity is set equal to
+at = [hco3]t + 2[co32]t + [b(oh)4]t + [oh]t + 2[po43]t + [hpo42]t + [sio(oh)3]t [h+]sws [hso4]
+(subscript t indicates the total concentration of the species in the solution as measured this is opposed to the free concentration which takes into account the significant amount of ion pair interactions that occur in seawater.)
+alkalinity can be measured by titrating a sample with a strong acid until all the buffering capacity of the aforementioned ions above the ph of bicarbonate or carbonate is consumed this point is functionally set to ph 4.5 at this point all the bases of interest have been protonated to the zero level species hence they no longer cause alkalinity in the carbonate system the bicarbonate ions [hco3] and the carbonate ions [co32] have become converted to carbonic acid [h2co3] at this ph this ph is also called the co2 equivalence point where the major component in water is dissolved co2 which is converted to h2co3 in an aqueous solution there are no strong acids or bases at this point therefore the alkalinity is modeled and quantified with respect to the co2 equivalence point because the alkalinity is measured with respect to the co2 equivalence point the dissolution of co2 although it adds acid and dissolved inorganic carbon does not change the alkalinity in natural conditions the dissolution of basic rocks and addition of ammonia [nh3] or organic amines leads to the addition of base to natural waters at the co2 equivalence point the dissolved base in water increases the ph and titrates an equivalent amount of co2 to bicarbonate ion and carbonate ion at equilibrium the water contains a certain amount of alkalinity contributed by the concentration of weak acid anions conversely the addition of acid converts weak acid anions to co2 and continuous addition of strong acids can cause the alkalinity to become less than zero for example the following reactions take place during the addition of acid to a typical seawater solution
+b(oh)4 + h+ b(oh)3 + h2o
+oh + h+ h2o
+po43 + 2h+ h2po4
+hpo42 + h+ h2po4
+[sio(oh)3] + h+ [si(oh)40]
+it can be seen from the above protonation reactions that most bases consume one proton (h+) to become a neutral species thus increasing alkalinity by one per equivalent co32 however will consume two protons before becoming a zero level species (co2) thus it increases alkalinity by two per mole of co32 [h+] and [hso4] decrease alkalinity as they act as sources of protons they are often represented collectively as [h+]t
+alkalinity is typically reported as mg/l as caco3 (the conjunction as is appropriate in this case because the alkalinity results from a mixture of ions but is reported as if all of this is due to caco3.) this can be converted into milliequivalents per liter (meq/l) by dividing by 50 (the approximate mw of caco3/2)
+== example problemsedit ==
+=== sum of contributing speciesedit ===
+the following equations demonstrate the relative contributions of each component to the alkalinity of a typical seawater sample contributions are in mol.kgsoln1 and are obtained from a handbook of methods for the analysis of carbon dioxide parameters in seawater [1],"(salinity = 35 g/kg ph = 8.1 temperature = 25 c)
+at = [hco3]t + 2[co32]t + [b(oh)4]t + [oh]t + 2[po43]t + [hpo42]t + [sio(oh)3]t [h+] [hso4] [hf]
+phosphates and silicate being nutrients are typically negligible at ph = 8.1 [hso4] and [hf] are also negligible so
+at = [hco3]t + 2[co32]t + [b(oh)4]t + [oh]t [h+]
+at = 1830 + 2*270 + 100 + 10 0.01
+at = 2480 mol.kgsoln1
+=== addition of co2edit ===
+the addition (or removal) of co2 to a solution does not change the alkalinity this is because the net reaction produces the same number of equivalents of positively contributing species (h+) as negative contributing species (hco3 and/or co32)
+at neutral ph values
+co2 + h2o hco3 + h+
+at high ph values
+co2 + h2o co32 + 2h+
+=== dissolution of carbonate rockedit ===
+addition of co2 to a solution in contact with a solid can (over time) affect the alkalinity especially for carbonate minerals in contact with groundwater or seawater  the dissolution (or precipitation) of carbonate rock has a strong influence on the alkalinity this is because carbonate rock is composed of caco3 and its dissociation will add ca+2 and co32 into solution ca+2 will not influence alkalinity but co32 will increase alkalinity by 2 units increased dissolution of carbonate rock by acidification from acid rain and mining has contributed to increased alkalinity concentrations in some major rivers throughout the eastern u.s
+== oceanic alkalinityedit ==
+=== processes that increase alkalinityedit ===
+there are many methods of alkalinity generation in the ocean perhaps the most well known is the dissolution of caco3 (calcium carbonate which is a component of coral reefs) to form ca2+ and co32 (carbonate) the carbonate ion has the potential to absorb two hydrogen ions therefore it causes a net increase in ocean alkalinity calcium carbonate dissolution is an indirect result of ocean acidification it can cause great damage to coral reef ecosystems but seems to have a relatively low effect on the total alkalinity (at) in the ocean
+anaerobic degradation processes such as denitrification and sulfate reduction have a much greater impact on oceanic alkalinity denitrification and sulfate reduction occur in the deep ocean where there is an absence of oxygen both of these processes consume hydrogen ions and releases quasi-inert gases (n2 or h2s) which eventually escape into the atmosphere this consumption of h+ increases the alkalinity it has been estimated that anaerobic degradation could be as much as 60% of the total oceanic alkalinity
+=== processes that decrease alkalinityedit ===
+anaerobic processes generally increase alkalinity conversely aerobic degradation can decrease at this process occurs in portions of the ocean where oxygen is present (surface waters) it results in dissolved organic matter and the production of hydrogen ions an increase in h+ clearly decreases alkalinity however the dissolved organic matter may have base functional groups that can consume these hydrogen ions and negate their effect on alkalinity therefore aerobic degradation has a relatively low impact on the overall oceanic alkalinity
+all of these aforementioned methods are chemical processes however physical processes can also serve to affect at the melting of polar ice caps is a growing concern that can serve to decrease oceanic alkalinity if the ice were to melt then the overall volume of the ocean would increase because alkalinity is a concentration value (mol/l) increasing the volume would theoretically serve to decrease at however the actual effect would be much more complicated than this
+=== global temporal variabilityedit ===
+researchers have shown oceanic alkalinity to vary over time because at is calculated from the ions in the ocean a change in the chemical composition would alter alkalinity one way this can occur is through ocean acidification however oceanic alkalinity is relatively stable so significant changes can only occur over long time scales (i.e hundreds to thousands of years) as a result seasonal and annual variability is generally very low
+=== spatial variabilityedit ===
+researchers have also shown alkalinity to vary depending on location local at can be affected by two main mixing patterns current and river current dominated mixing occurs close to the shore in areas with strong water flow in these areas alkalinity trends follow current and have a segmented relationship with salinity
+river dominated mixing also occurs close to the shore it is strongest close to the mouth of a large river (i.e the mississippi or amazon) here the rivers can act as either a source or a sink of alkalinity at follows the outflow of the river and has a linear relationship with salinity this mixing pattern is most important in late winter and spring because snow melt increases the rivers outflow as the season progresses into summer river processes are less significant and current mixing can become the dominant process
+oceanic alkalinity also follows general trends based on latitude and depth it has been shown that at is often inversely proportional to sea surface temperature (sst) therefore it generally increases with high latitudes and depths as a result upwelling areas (where water from the deep ocean is pushed to the surface) also have higher alkalinity values
+=== measurement data setsedit ===
+throughout recent history there have been many attempts to measure record and study oceanic alkalinity some of the larger data sets are listed below
+geosecs (geochemical ocean sections study)
+tto/nas (transient tracers in the ocean/north atlantic study)
+jgofs (joint global ocean flux study)
+woce (world ocean circulation experiment)
+carina (carbon dioxide in the atlantic ocean)
+== see alsoedit ==
+alkali soils
+base (chemistry)
+biological pump
+dealkalization of water
+global ocean data analysis project
+ocean acidification
+== referencesedit ==
+== carbonate system calculatorsedit ==
+the following packages calculate the state of the carbonate system in seawater (including ph)
+co2sys available as a stand-alone executable excel spreadsheet or matlab script
+seacarb a r package for windows mac os x and linux (also available here)
+csys a matlab script
+== external linksedit ==
+holmes-farley randy chemistry and the aquarium what is alkalinity?, advanced aquarist's online magazine alkalinity as it pertains to salt-water aquariums
+doe (1994) [2],"handbook of methods for the analysis of the various parameters of the carbon dioxide system in sea water version 2 a g dickson & c goyet eds ornl/cdiac-74
+geosecs data set [3]
+jgofs data set [4]
+woce data set [5]
+carina data set [6]

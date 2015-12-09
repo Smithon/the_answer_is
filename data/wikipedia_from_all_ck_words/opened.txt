@@ -1,0 +1,33 @@
+opened is an online catalog of educational assessments homework assignments videos games and lesson plans aligned to every common core standard and several other standards and includes the only open source formative item bank the site offers the ability for teachers to assign resources to their students online letting students take assessments do homework etc on their own computers or tablets assignments done online are graded automatically and presented to the teacher in a mastery chart opened's slogan mentions assessment to instruction meaning formative assessments given on opened can access opened's large catalog on a per student basis to recommend the right resource to each student individually the company has stated that functionality of searching the site and most of its resources are free and will continue to be free going forward however the company is also distributing premium content from publishers such as pearson and houghton mifflin harcourt to teachers for $9.95 per month
+currently 175,000 teachers or about 6% of all usa teachers are registered users recently the company has been providing its resources with alignments to other tech companies the api for finding standard and skill-aligned resources is used by ed tech leaders such as renaissance learning promethean pacific metrics and many more
+== history ==
+opened was founded in august 2012 with the purpose of providing a catalog of educational resources and aligning them to common core and other standards the opened cataloging process is not consistent with the current industry standard of crowdsourcing and curating individually rather opened has implemented the use of algorithms for automated alignment of resources combined with professional educator curators to validate those alignments the process allows for a bigger scale of aligned content at present moment the site contains over 750,000 resources most of them aligned to the common core
+the site also initially launched with the goal of providing materials cataloged to common core and later expanded to include other standards such as next generation science standards opened is continuing to add other standards such as uk and singapore standards
+in may 2015 the company changed its domain name from www.opened.io to www.opened.com
+== technology ==
+the opened site consists of several components working together to help teachers find resources for their class and the standards they might be teaching
+=== opened catalog ===
+the opened catalog is built by deep semantic crawling of internet-based educational resources and hosting sites it imports extensive metadata on each resource (videos games exercises and other content) determining their creator subject area duration quality and grade level the resulting catalog of resources is then aligned to standards probabilistically via machine learning the results are then curated and validated through professional educators and then posted live on opened
+=== opened search ===
+the catalog on opened is searchable by keyword and by standard common core math common core language arts next gen science standards california history and new york common core social studies the search provides multiple asessments homework assignments videos games and exercises for each of the individual standards that opened tracks users can also search the opened catalog by keyword
+== funding ==
+in 2014 the company raised a $2m seed round said to be the largest seed round ever in educational technology
+== management team ==
+adam blum ceo
+ron drabkin vp of marketing
+vlad tarasov vp of engineering
+lisa blum vp of business development
+brandon dorman vp of curriculum
+== see also ==
+educational software
+e-learning
+learning management system
+search engine
+common core state standards initiative
+== external links ==
+official opened website
+official opened blog
+official opened twitter
+official opened facebook page
+opened.com pinterest page
+== references ==

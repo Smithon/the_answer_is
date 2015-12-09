@@ -1,0 +1,27 @@
+in physics tension describes the pulling force exerted by each end of a string cable chain or similar one-dimensional continuous object or by each end of a rod truss member or similar three dimensional object
+at the atomic level atoms or molecules have electrostatic attraction when atoms or molecules are pulled apart from each other gain electromagnetic potential energy tension is produced each end of a string or rod under tension will pull on the object it is attached to to restore the string/rod to its relaxed length
+tension is the opposite of compression
+in physics although tension is not a force it does have the units of force and can be measured in newtons (or sometimes pounds-force) the ends of a string or other object under tension will exert forces on the objects to which the string or rod is connected in the direction of the string at the point of attachment these forces due to tension are often called tension forces. there are two basic possibilities for systems of objects held by strings either acceleration is zero and the system is therefore in equilibrium or there is acceleration and therefore a net force is present in the system
+== tension in one-dimensional continuaedit ==
+tension in a string is a non-negative scalar zero tension is slack a string or rope is often idealized as one dimension having length but being massless with zero cross section if there are no bends in the string (as occur with vibrations or pulleys) then tension is a constant along the string equal to the magnitude of the forces applied by the ends of the string by newton's third law these are the same forces exerted on the ends of the string by the objects to which the ends are attached if the string curves around one or more pulleys it will still have constant tension along its length in the idealized situation that the pulleys are massless and frictionless a vibrating string vibrates with a set of frequencies that depend on the string's tension these frequencies can be derived from newton's laws each microscopic segment of the string pulls on and is pulled upon by its neighboring segments with a force equal to the tension at that position along the string tension where is the position along the string
+if the string has curvature then the two pulls on a segment by its two neighbors will not add to zero and there will be a net force on that segment of the string causing an acceleration this net force is a restoring force and the motion of the string can include transverse waves that solve the equation central to sturm-liouville theory
+where is the force constant per unit length [units force per area] are the eigenvalues for resonances of transverse displacement on the string. with solutions that include the various harmonics on a stringed instrument
+== tension in three-dimensional continuaedit ==
+tension is also used to describe the force exerted by the ends of a three-dimensional continuous material such as a rod or truss member such a rod elongates under tension the amount of elongation and the load that will cause failure both depend on the force per cross-sectional area rather than the force alone so stress = axial force / cross sectional area is more useful for engineering purposes than tension stress is a 3x3 matrix called a tensor and the element of the stress tensor is tensile force per area (or compression force per area denoted as a negative number for this element if the rod is being compressed rather than elongated)
+== system in equilibriumedit ==
+a system is in equilibrium when the sum of all forces is zero
+for example consider a system consisting of an object that is being lowered vertically by a string with tension t at a constant velocity the system has a constant velocity and is therefore in equilibrium because the tension in the string (which is pulling up on the object) is equal to the force of gravity mg which is pulling down on the object
+== system under net forceedit ==
+a system has a net force when an unbalanced force is exerted on it in other words the sum of all forces is not zero acceleration and net force always exist together
+for example consider the same system as above but suppose the object is now being lowered with an increasing velocity downwards (positive acceleration) therefore there exists a net force somewhere in the system in this case negative acceleration would indicate that 
+in another example suppose that two bodies a and b having masses and  respectively are connected with each other by an inextensible string over a frictionless pulley there are two forces acting on the body a its weight () pulling down and the tension in the string pulling up therefore the net force on body a is  so 
+== strings in modern physicsedit ==
+string-like objects in relativistic theories such as the strings used in some models of interactions between quarks or those used in the modern string theory also possess tension these strings are analyzed in terms of their world sheet and the energy is then typically proportional to the length of the string as a result the tension in such strings is independent of the amount of stretching
+in an extensible string hooke's law applies
+== see alsoedit ==
+continuum mechanics
+fall factor
+surface tension
+tensile strength
+== referencesedit ==
+== external linksedit ==

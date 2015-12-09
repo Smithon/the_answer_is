@@ -1,0 +1,77 @@
+a live cd live dvd or live disc is a complete bootable computer installation including operating system which runs in a computer's memory rather than loading from a hard disk drive the cd itself is read-only it allows users to run an operating system for any purpose without installing it or making any changes to the computer's configuration live cds can run on a computer without secondary storage such as a hard disk drive or with a corrupted hard disk drive or file system allowing data recovery a live iso is an iso image of a live cd which can be used in virtual machine environments mounted as if it were a cd/dvd and used as the virtual machine's boot cd live cds isos and images usually include an operating system available without charge or restrictive license such as linux rather than a commercial one such as microsoft windows for legal rather than technical reasons
+the functionality of a live cd is also available with a bootable live usb flash drive or even an external usb drive these may have the added functionality of writing changes on the bootable medium write-locked live sd worm systems are the direct solid-state counterpart to live cds and can be booted natively in a media card slot or by using a usb adapter write-locked live sd systems avoid excessive write cycles or corruption by ill-conditioned software such as malware
+while a live cd typically does not alter any operating system or files already installed on a computer's secondary storage (such as hard disk drives) many live cds include software mechanisms and utilities for altering the host computer's data stores including installation of an operating system this is important for the system management aspect of live cds which can be useful for removing malware for disk imaging and for system recovery unless such software is used at the end of a live cd session the computer remains as it was before the live system is able to run without permanent installation by placing the files that normally would be stored on a hard drive into ram typically in a ram disk the computer must have sufficient ram both to store these files and maintain normal operation
+== history ==
+all except the earliest digital computers are built with some form of minimal built-in loader which loads a program or succession of programs from a storage medium which then operate the computer initially a read-only medium such as punched tape or punched cards was used for initial program load with the introduction of inexpensive read-write storage read-write floppy disks and hard disks were used as boot media
+after the introduction of the audio compact disc it was adapted for use as a medium for storing and distributing large amounts of computer data this data may also include application and operating-system software sometimes packaged and archived in compressed formats later it was seen to be convenient and useful to boot the computer directly from compact disc often with a minimal working system to install a full system onto a hard drive while there are read-write optical discs either mass-produced read-only discs or write-once discs were used for this purpose
+the first compact disc drives on personal computers were generally much too slow to run complex operating systems computers were not designed to boot from an optical disc when operating systems came to be distributed on compact discs either a boot floppy or the cd itself would boot specifically and only to install onto a hard drive the first live cd was fm towns os first released in 1989
+=== origin of linux live ===
+although early developers and users of distributions built on top of the linux kernel so it could take advantage of cheap optical disks and rapidly declining prices of cd drives for personal computers the linux distribution cds or distros were generally treated as a collection of installation packages that must first be permanently installed to hard disks on the target machine
+however in the case of these distributions built on top of the linux kernel the free operating system was meeting resistance in the consumer market because of the perceived difficulty effort and risk involved in installing an additional partition on the hard disk in parallel with an existing operating system installation
+the term live cd was coined because after typical pc ram was large enough and 52x speed cd drives and cd burners were widespread among pc owners it finally became convenient and practical to boot the kernel and run x11 a window manager and gui applications directly from a cd without disturbing the os on the hard disk
+this was a new and different situation for linux than other operating systems because the updates/upgrades were being released so quickly different distributions and versions were being offered online and especially because users were burning their own cds
+the first linux-based live cd was yggdrasil linux first released in beta form 1992~1993 (ceased production in 1995) though in practice its functionality was hampered due to the low throughput of contemporary cd-rom drives demolinux released in 1998 was the first linux distribution specially designed as a live cd the linuxcare bootable business card first released in 1999 was the first live cd to focus on system administration and the first to be distributed in the bootable business card form factor as of 2015 finnix (first released in 2000) is the oldest live cd still in production knoppix a debian-derived linux distribution was released in 2003 and found popularity as both a rescue disk system and as a primary distribution in its own right
+since 2003 the popularity of live cds has increased substantially partly due to linux live scripts and remastersys which made it very easy to build customized live systems most of the popular linux distributions now include a live cd variant which in some cases is also the preferred installation medium
+== uses ==
+live cds made for many different uses some are designed to demonstrate or test drive a particular operating system (usually linux or another free or open source operating system) software can be tested or run for a particular single use without interfering with system setup data on a system which is not functioning normally due to operating system and software issues can be made available for example data can be recovered from a machine with an active virus infection without the virus process being active and causing more damage and the virus can be removed with its defences against removal bypassed
+although some live cds can load into memory to free the optical drive for other uses loading the data from a cd-rom is still slower than a typical hard drive boot so this is rarely the default with large live cd images but for smaller live cd images loading the filesystem directly into ram can provide a significant performance boost as ram is much faster than a hard drive and uses less power experienced users of the operating system may also use a live cd to determine whether and to what extent a particular operating system or version is compatible with a particular hardware configuration and certain peripherals or as a way to know beforehand which computer or peripheral will work before buying a live cd can be used to troubleshoot hardware especially when a hard drive fails and more generally as a recovery disc in case of problems some live cds can save user-created files in a windows partition a usb drive a network drive or other accessible media live backup cds can create an image of drives and back up files without problems due to open files and inconsistent sets
+a few additional uses include
+installing a linux distribution to a hard drive
+testing new versions of software
+listing & testing hardware
+system repair and restoration
+high security/non-invasive environment for a guest
+cracking stealing and changing passwords
+network security testing
+being the primary or backup operating system for any computer
+quick and simple clustering of computers
+computer forensics
+playing video games or running applications that require a different operating system
+providing a secure server platform where crucial files cannot be permanently altered
+providing a secure reliable platform for the performance of high-vulnerability tasks such as internet banking
+internet kiosks and public computers which can be brought back to their original state by a reboot
+bypassing parental controls and other restrictions
+=== thematic live cds ===
+several live cds are dedicated to specific type of applications according to the requirements of thematic user communities these cds are tailored to the needs of the applications in subject including general knowledge tutorial specifications and trial data too
+some of these topics covers sub topics e.g it administration breaks down to firewall rescue security etc type of live cds in some cases a particular livedvd covers more than one topic
+=== live cd software appliances ===
+packaging a software appliance as an installable live cd or live iso can often be beneficial as a single image can run on both real hardware and on most types of virtual machines
+this allows developers to avoid the complexities involved in supporting multiple incompatible virtual machine images formats and focus on the lowest common denominator instead
+typically after booting the machine from the live cd the appliance either runs in non-persistent demo mode or installs itself at the user's request to an available storage device
+=== mounting without burning ===
+the files on a live cd iso image can be accessed in microsoft windows with a disk image emulator such as daemon tools or in unix variants by mounting a loop device later versions of windows (i.e windows 8 and later) and software available for earlier versions allow an iso to be mounted as a volume
+after mounting the live cd's filesystem software on the live cd can be run directly without booting it by chrooting into the mounted filesystem
+a live cd iso image can also be mounted by virtual machine software such as virtualbox and vmware workstation or can be converted to a live usb using syslinux special tools can automate this process
+== common traits ==
+some live cds come with an installation utility launchable from a desktop icon that can optionally install the system on a hard drive or usb flash drive most live cds can access the information on internal and/or external hard drives diskettes and usb flash drives
+live cds are usually distributed on read-only media requiring either copying to rewriteable media (i.e a hard drive or cd writer) or complete remastering to install additional software however there are exceptions such as puppy linux which has the ability to save files to the live cd itself or other multisession media allowing data programs and customized settings to be written
+the term came to be used for any cd containing operating system and software which could be run without installation on the host computer example include opensolaris belenix and others based on solaris other operating systems which can be used live include amigaos 4 amithlon aros freebsd freedos mac os microsoft windows installation and repair discs os/2 reactos netbsd openbsd minix 3 plan 9 from bell labs and morphos there are maintenance versions of microsoft windows bootable from cd such as bartpe windows pe and microsoft diagnostics and recovery toolset (dart) previously known as emergency repair disk commander (erd commander)
+the first personal computer operating system on a cd to support live operations might have been the amigaos which could be booted from cd on an amiga cdtv in 1990 earlier examples of live os are of course the operating systems used from floppy and most widely spread is dos
+unlike previous operating systems on optical media though linux and os/2 live cds were specifically designed to run without installation onto other media like a hard disk drive the live cd concept was meant to promote linux and showcase the abilities of the free open source operating system on conventional personal computers with microsoft windows already installed
+on a pc a bootable compact disc generally conforms to the el torito specification many linux based live cds use a compressed filesystem image often with the cloop compressed loopback driver or squashfs compressed filesystem generally doubling effective storage capacity although slowing application start up
+the resulting environment can be quite rich typical knoppix systems include around 1,200 separate software packages live cds have a reputation for supporting advanced auto-configuration and plug-and-play functionality this came out of necessity to avoid requiring the user to configure the system each time it boots and to make it easily usable by those who are new to the operating system
+== technique ==
+a read-only file system such as on a cd-rom has the drawback of being unable to save any current working data for this reason a read-only file system is often merged with a temporary writable file system in the form of a ram disk often the default linux directories /home (containing users personal files and configuration files) and /var (containing variable data) are kept in ramdisk because the system updates them frequently puppy linux and some other live cds allow a configuration and added files to be written and used in later sessions
+in modern live cds a read-only file system is merged with a ram drive using transparent techniques such as unionfs aufs or ewf boot loaders like syslinux can boot iso files from usb memory devices
+live cds have to be able to detect and use a wide variety of hardware (including network cards graphic cards etc.) in realtime often using facilities such as udev hotplug hal udisk etc which are a common part of all distributions based on linux kernel 2.6
+=== boot code ===
+during live cd initialization a user typically may resort to using one or more boot codes to change the booting behavior these vary from distribution to distribution but can most often be accessed upon first boot screen by one of the function keys
+== gallery ==
+here are some screenshots of live cds
+== see also ==
+comparison of linux distributions (live media)
+autodetection
+gis live dvd
+list of live cds
+list of remastering software
+live usb
+software appliance
+virtualbox
+windows to go
+== references ==
+== external links ==
+tutorial - how to set your bios to boot from cd or usb
+bootable cdrom howto
+linux live scripts
+livedistro.org howto create livecds build tool directory and download livecds not a working link...unknown site livedistro.org
+pondering live cds - a bsd perspective on the concept of live cds

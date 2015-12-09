@@ -1,0 +1,19 @@
+focal (forty-one calculator language) is the language used to program the hp-41 range of expandable science/engineering calculators from hewlett-packard
+as with most other calculator programming languages of the 1980s a focal program is a linear list of instructions each instruction (or step) roughly correspond to a key (or key combination) press and thus correspond to what the user would do if he was to perform the computation himself on the calculator this paradigm made focal programming relatively easy for the newcomer but program maintenance could be a nightmare add to that the use of goto instructionsincluding going to a program step based on a value in a data register ("gto ind") a technique known as computed gotoand you had all the ingredients for the dreaded spaghetti code syndrome
+program steps are numbered starting from 1 but this numbering has no intrinsic meaning and can change as new instructions are added or removed in the middle of a program a special instruction lbl is used to create a label that can be used by the user to invoke the program or by the program itself as target of a gto (unconditional go-to) or xeq (execute) instruction
+here's a very simple focal program
+001 lbl double
+002 2
+003 *
+004 end
+the lbl double instruction is a label indicating that the user can invoke the program by xeq double the name double can also be assigned to any key on the user keyboard effectively adding a new function to the calculator
+the next two steps correspond to what the function does mainly multiply the x register by 2 (the hp-41 uses rpn notation.)
+the end instruction indicates the end of the program
+note that contrary to many other programmable calculators each focal step could be stored in memory as more than one byte while the calculator memory could hold 2233 bytes of program code no reported program actually reached this number of steps
+== see also ==
+reverse polish lisp (rpl)
+prime programming language (ppl)
+high performance language (hpl)
+python
+== external links ==
+hp-41c/cv/cx programming from the museum of hp calculators (mohpc)

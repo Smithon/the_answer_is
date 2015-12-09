@@ -1,0 +1,79 @@
+in linear algebra the permanent of a square matrix is a function of the matrix similar to the determinant the permanent as well as the determinant is a polynomial in the entries of the matrix both permanent and determinant are special cases of a more general function of a matrix called the immanant
+== definition ==
+the permanent of an n-by-n matrix a = (ai,j) is defined as
+the sum here extends over all elements of the symmetric group sn i.e over all permutations of the numbers 1 2  n
+for example
+and
+the definition of the permanent of a differs from that of the determinant of a in that the signatures of the permutations are not taken into account
+the permanent of a matrix a is denoted per a perm a or per a sometimes with parentheses around the argument in his monograph minc (1984) uses per(a) for the permanent of rectangular matrices and uses per(a) when a is a square matrix muir (1882) uses the notation 
+the word permanent originated with cauchy in 1812 as fonctions symtriques permanentes for a related type of function and was used by muir (1882) in the modern more specific sense
+== properties and applications ==
+if one views the permanent as a map that takes n vectors as arguments then it is a multilinear map and it is symmetric (meaning that any order of the vectors results in the same permanent) furthermore given a square matrix of order n we have
+perm(a) is invariant under arbitrary permutations of the rows and/or columns of a this property may be written symbolically as perm(a) = perm(paq) for any appropriately sized permutation matrices p and q
+multiplying any single row or column of a by a scalar s changes perm(a) to sperm(a)
+perm(a) is invariant under transposition that is perm(a) = perm(a)
+if and are square matrices of order n then
+where s and t are subsets of the same size of {1,2,...,n} and are their respective complements in that set
+on the other hand the basic multiplicative property of determinants is not valid for permanents a simple example shows that this is so
+a formula similar to laplace's for the development of a determinant along a row column or diagonal is also valid for the permanent all signs have to be ignored for the permanent for example expanding along the first column
+while expanding along the last row gives
+unlike the determinant the permanent has no easy geometrical interpretation it is mainly used in combinatorics and in treating boson green's functions in quantum field theory however it has two graph-theoretic interpretations as the sum of weights of cycle covers of a directed graph and as the sum of weights of perfect matchings in a bipartite graph
+=== symmetric spaces ===
+the permanent arises naturally in the study of the symmetric tensor power of hilbert spaces in particular for a hilbert space  let denote the th symemtric tensor power of  which is the space of symmetric tensors note in particular that is spanned by the symmetric products of elements in  for  we define the symmetric product of these elements by
+if we consider (as a subspace of  the kth tensor power of ) and define the inner product on accordingly we find that for
+applying the cauchy-schwarz inequality we find that  and that
+=== cycle covers ===
+any square matrix can be viewed as the adjacency matrix of a weighted directed graph with representing the weight of the arc from vertex i to vertex j a cycle cover of a weighted directed graph is a collection of vertex-disjoint directed cycles in the digraph that covers all vertices in the graph thus each vertex i in the digraph has a unique successor in the cycle cover and is a permutation on where n is the number of vertices in the digraph conversely any permutation on corresponds to a cycle cover in which there is an arc from vertex i to vertex for each i
+if the weight of a cycle-cover is defined to be the product of the weights of the arcs in each cycle then
+the permanent of an matrix a is defined as
+where is a permutation over  thus the permanent of a is equal to the sum of the weights of all cycle-covers of the digraph
+=== perfect matchings ===
+a square matrix can also be viewed as the adjacency matrix of a bipartite graph which has vertices on one side and on the other side with representing the weight of the edge from vertex to vertex  if the weight of a perfect matching that matches to is defined to be the product of the weights of the edges in the matching then
+thus the permanent of a is equal to the sum of the weights of all perfect matchings of the graph
+== permanents of (0,1) matrices ==
+the permanents of matrices that only have 0 and 1 as entries are often the answers to certain counting questions involving the structures that the matrices represent this is particularly true of adjacency matrices in graph theory and incidence matrices of symmetric block designs
+in an unweighted directed simple graph (a digraph) if we set each to be 1 if there is an edge from vertex i to vertex j then each nonzero cycle cover has weight 1 and the adjacency matrix has 0-1 entries thus the permanent of a (0,1)-matrix is equal to the number of vertex cycle covers of an unweighted directed graph
+for an unweighted bipartite graph if we set ai,j = 1 if there is an edge between the vertices and and ai,j = 0 otherwise then each perfect matching has weight 1 thus the number of perfect matchings in g is equal to the permanent of matrix a
+let (n,k) be the class of all (0,1)-matrices of order n with each row and column sum equal to k every matrix a in this class has perm(a) > 0 the incidence matrices of projective planes are in the class (n2 + n + 1 n + 1) for n an integer > 1 the permanents corresponding to the smallest projective planes have been calculated for n = 2 3 and 4 the values are 24 3852 and 18,534,400 respectively let z be the incidence matrix of the projective plane with n = 2 the fano plane remarkably perm(z) = 24 = |det (z)| the absolute value of the determinant of z this is a consequence of z being a circulant matrix and the theorem
+if a is a circulant matrix in the class (n,k) then if k > 3 perm(a) > |det (a)| and if k = 3 perm(a) = |det (a)| furthermore when k = 3 by permuting rows and columns a can be put into the form of a direct sum of e copies of the matrix z and consequently n = 7e and perm(a) = 24e
+permanents can also be used to calculate the number of permutations with restricted (prohibited) positions for the standard n-set {1,2,...,n} let be the (0,1)-matrix where aij = 1 if i j is allowed in a permutation and aij = 0 otherwise then perm(a) counts the number of permutations of the n-set which satisfy all the restrictions two well known special cases of this are the solution of the derangement problem (the number of permutations with no fixed points) given by
+where j is the all 1's matrix and i is the identity matrix each of order n and the solution to the mnage problem given by
+where i is the (0,1)-matrix whose only non-zero entries are on the first superdiagonal
+the bregman-minc inequality conjectured by h minc in 1963 and proved by l m brgman in 1973 gives an upper bound for the permanent of an n n (0,1)-matrix with ri ones in row i 1 i n as
+== van der waerden's conjecture ==
+in 1926 van der waerden conjectured that the minimum permanent among all n n doubly stochastic matrices is n!/nn achieved by the matrix for which all entries are equal to 1/n proofs of this conjecture were published in 1980 by b gyires and in 1981 by g p egorychev and d i falikman egorychev's proof is an application of the alexandrovfenchel inequality for this work egorychev and falikman won the fulkerson prize in 1982
+== computation ==
+the nave approach using the definition of computing permanents is computationally infeasible even for relatively small matrices one of the fastest known algorithms is due to h j ryser (ryser (1963 p 27)) rysers method is based on an inclusionexclusion formula that can be given as follows let be obtained from a by deleting k columns let be the product of the row-sums of  and let be the sum of the values of over all possible  then
+it may be rewritten in terms of the matrix entries as follows
+the permanent is believed to be more difficult to compute than the determinant while the determinant can be computed in polynomial time by gaussian elimination gaussian elimination cannot be used to compute the permanent moreover computing the permanent of a (0,1)-matrix is #p-complete thus if the permanent can be computed in polynomial time by any method then fp = #p which is an even stronger statement than p = np when the entries of a are nonnegative however the permanent can be computed approximately in probabilistic polynomial time up to an error of m where m is the value of the permanent and > 0 is arbitrary
+== macmahon's master theorem ==
+another way to view permanents is via multivariate generating functions let be a square matrix of order n consider the multivariate generating function
+the coefficient of in is perm(a)
+as a generalization for any sequence of n non-negative integers define
+macmahon's master theorem relating permanents and determinants is
+where i is the order n identity matrix and x is the diagonal matrix with diagonal
+== permanents of rectangular matrices ==
+the permanent function can be generalized to apply to non-square matrices indeed several authors make this the definition of a permanent and consider the restriction to square matrices a special case specifically for an m n matrix with m n define
+where p(n,m) is the set of all m-permutations of the n-set {1,2,...,n}
+ryser's computational result for permanents also generalizes if a is an m n matrix with m n let be obtained from a by deleting k columns let be the product of the row-sums of  and let be the sum of the values of over all possible  then
+=== systems of distinct representatives ===
+the generalization of the definition of a permanent to non-square matrices allows the concept to be used in a more natural way in some applications for instance
+let s1 s2  sm be subsets (not necessarily distinct) of an n-set with m n the incidence matrix of this collection of subsets is an m n (0,1)-matrix a the number of systems of distinct representatives (sdr's) of this collection is perm(a)
+== see also ==
+computing the permanent
+determinant
+bapatbeg theorem an application of permanent in order statistics
+== notes ==
+== references ==
+brualdi richard a (2006) combinatorial matrix classes encyclopedia of mathematics and its applications 108 cambridge cambridge university press isbn 0-521-86565-4 zbl 1106.05001
+minc henryk (1978) permanents encyclopedia of mathematics and its applications 6 with a foreword by marvin marcus reading ma addisonwesley issn 0953-4806 oclc 3980645 zbl 0401.15005
+muir thomas william h metzler (1960) [1882] a treatise on the theory of determinants new york dover oclc 535903
+percus j.k (1971) combinatorial methods applied mathematical sciences #4 new york springer-verlag isbn 0-387-90027-6
+ryser herbert john (1963) combinatorial mathematics the carus mathematical monographs #14 the mathematical association of america
+van lint j.h. wilson r.m (2001) a course in combinatorics cambridge university press isbn 0521422604
+== further reading ==
+hall jr. marshall (1986) combinatorial theory (2nd ed.) new york john wiley & sons pp 5672 isbn 0-471-09138-3 contains a proof of the van der waerden conjecture
+marcus m. minc h (1965) permanents the american mathematical monthly 72 577591 doi:10.2307/2313846
+== external links ==
+permanent at planetmath
+van der waerden's permanent conjecture at planetmath.org

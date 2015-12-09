@@ -1,0 +1,86 @@
+in product development and process optimization a requirement is a singular documented physical and functional need that a particular design product or process must be able to perform it is most commonly used in a formal sense in systems engineering software engineering or enterprise engineering it is a statement that identifies a necessary attribute capability characteristic or quality of a system for it to have value and utility to a customer organization internal user or other stakeholder a requirement specification (often imprecisely referred to as the spec because there are different sorts of specifications) refers to an explicit set of requirements to be satisfied by a material design product or service
+in the classical engineering approach sets of requirements are used as inputs into the design stages of product development requirements are also an important input into the verification process since tests should trace back to specific requirements requirements show what elements and functions are necessary for the particular project this is reflected in the waterfall model of the software life-cycle however when iterative methods of software development or agile methods are used the system requirements are incrementally developed in parallel with design and implementation
+== origins of term ==
+the term requirement has been in use in the software engineering community since at least the 1960s
+== product versus process requirements ==
+requirements can be said to relate to two fields
+product requirements prescribe properties of a system or product
+process requirements prescribe activities to be performed by the developing organization for instance process requirements could specify the methodologies that must be followed and constraints that the organization must obey
+product and process requirements are closely linked a product requirement could be said to specify the automation required to support a process requirement while a process requirement could be said to specify the activities required to support a product requirement for example a maximum development cost requirement (a process requirement) may be imposed to help achieve a maximum sales price requirement (a product requirement) a requirement that the product be maintainable (a product requirement) often is addressed by imposing requirements to follow particular development styles (e.g. object-oriented programming) style-guides or a review/inspection process (process requirements)
+== types of requirement ==
+requirements are typically classified into types produced at different stages in a development progression with the taxonomy depending on the overall model being used for example the following scheme was devised by the international institute of business analysis in their business analysis body of knowledge (see also furps and types of requirements)
+architectural requirements
+architectural requirements explain what has to be done by identifying the necessary systems structure and systems behavior i.e. systems architecture of a system
+business requirements
+high-level statements of the goals objectives or needs of an organization they usually describe opportunities that an organization wants to realise or problems that they want to solve often stated in a business case
+user (stakeholder) requirements
+mid-level statements of the needs of a particular stakeholder or group of stakeholders they usually describe how someone wants to interact with the intended solution often acting as a mid-point between the high-level business requirements and more detailed solution requirements
+functional (solution) requirements
+usually detailed statements of capabilities behaviour and information that the solution will need examples include formatting text calculating a number modulating a signal they are also known as capabilities
+quality-of-service (non-functional) requirements
+usually detailed statements of the conditions under which the solution must remain effective qualities that the solution must have or constraints within which it must operate examples include reliability testability maintainability availability they are also known as characteristics constraints or the ilities
+implementation (transition) requirements
+usually detailed statements of capabilities or behaviour required only to enable transition from the current state of the enterprise to the desired future state but that will thereafter no longer be required examples include recruitment role changes education migration of data from one system to another
+== characteristics of good requirements ==
+the characteristics of good requirements are variously stated by different writers with each writer generally emphasizing the characteristics most appropriate to their general discussion or the specific technology domain being addressed however the following characteristics are generally acknowledged
+there are many more attributes to consider that contribute to the quality of requirements if requirements are subject to rules of data integrity (for example) then accuracy/correctness and validity/authorization are also worthy attributes traceability confirms that the requirement set satisfies the need (no more - and no less than what is required)
+to the above some add externally observable that is the requirement specifies a characteristic of the product that is externally observable or experienced by the user such advocates argue that requirements that specify internal architecture design implementation or testing decisions are probably constraints and should be clearly articulated in the constraints section of the requirements document the contrasting view is that this perspective fails on two points first the perspective does not recognize that the user experience may be supported by requirements not perceivable by the user for example a requirement to present geocoded information to the user may be supported by a requirement for an interface with an external third party business partner the interface will be imperceptible to the user though the presentation of information obtained through the interface certainly would not second a constraint limits design alternatives whereas a requirement specifies design characteristics to continue the example a requirement selecting a web service interface is different from a constraint limiting design alternatives to methods compatible with a single sign-on architecture
+=== verification ===
+all requirements should be verifiable the most common method is by test if this is not the case another verification method should be used instead (e.g analysis demonstration inspection or review of design)
+certain requirements by their very structure are not verifiable these include requirements that say the system must never or always exhibit a particular property proper testing of these requirements would require an infinite testing cycle such requirements must be rewritten to be verifiable as stated above all requirements must be verifiable
+non-functional requirements which are unverifiable at the software level must still be kept as a documentation of customer intent however they may be traced to process requirements that are determined to be a practical way of meeting them for example a non-functional requirement to be free from backdoors may be satisfied by replacing it with a process requirement to use pair programming other non-functional requirements will trace to other system components and be verified at that level for example system reliability is often verified by analysis at the system level avionics software with its complicated safety requirements must follow the do-178b development process
+== requirements analysis or requirements engineering ==
+requirements analysis or requirements engineering is the set of activities that lead to the derivation of the system or software requirements requirements engineering may involve a feasibility study or a conceptual analysis phase of the project and requirements elicitation (gathering understanding reviewing and articulating the needs of the stakeholders) and requirements analysis analysis (checking for consistency and completeness) specification (documenting the requirements) and validation (making sure the specified requirements are correct)
+requirements are prone to issues of ambiguity incompleteness and inconsistency techniques such as rigorous inspection have been shown to help deal with these issues ambiguities incompleteness and inconsistencies that can be resolved in the requirements phase typically cost orders of magnitude less to correct than when these same issues are found in later stages of product development requirements analysis strives to address these issues
+there is an engineering trade off to consider between requirements which are too vague and those which are so detailed that they
+take a long time to produce - sometimes to the point of being obsolete once completed
+limit the implementation options available
+are costly to produce
+agile approaches evolved as a way of overcoming these problems by baselining requirements at a high-level and elaborating detail on a just-in-time or last responsible moment basis
+== documenting requirements ==
+requirements are usually written as a means for communication between the different stakeholders this means that the requirements should be easy to understand both for normal users and for developers one common way to document a requirement is stating what the system must do example the contractor must deliver the product no later than xyz date. other methods include use cases and user stories
+== changes in requirements ==
+requirements generally change with time once defined and approved requirements should fall under change control for many projects requirements are altered before the system is complete this is partly due to the complexity of computer software and the fact that users don't know what they want before they see it this characteristic of requirements has led to requirements management studies and practices
+== issues ==
+=== competing standards ===
+there are several competing views of what requirements are and how they should be managed and used two leading bodies in the industry are the ieee and the iiba both of these groups have different but similar definitions of what a requirement is
+the guide to the business analysis body of knowledge version 2 from iiba defines a requirement as
+a condition or capability needed by a stakeholder to solve a problem or achieve an objective
+a condition or capability that must be met or possessed by a solution or solution component to satisfy a contract standard specification or other formally imposed documents
+a documented representation of a condition or capability as in (1) or (2)
+this definition is based on ieee 610.12-1990 ieee standard glossary of software engineering terminology
+=== requirements creep ===
+scope creep may occur from requirements moving over time in requirements management the alteration of requirements is allowed but if not adequately tracked or preceding steps (business goals then user requirements) are not throttled by additional oversight or handled as a cost and potential program failure then requirements changes are easy and likely to happen it is easy for requirement changes to occur faster than developers are able to produce work and the effort to go backwards as a result
+=== multiple requirements taxonomies ===
+there are multiple taxonomies for requirements depending on which framework one is operating under (for example the stated standards of ieee vice iiba or u.s dod approaches) differing language and processes in different venues or casual speech can cause confusion and deviation from desired process
+=== disputes regarding the necessity of rigour in software requirements ===
+most agile software development methodologies question the need for rigorously describing software requirements upfront which they consider a moving target instead extreme programming for example describes requirements informally using user stories (short summaries fitting on an index card explaining one aspect of what the system should do) and considers it the developer's duty to directly ask the customer for clarification agile methodologies also typically capture requirements in a series of automated acceptance tests some research suggests that software requirements are an illusion created by misrepresenting design decisions as requirements in situations where no real requirements are evident
+=== process corruptions ===
+a process being run by humans is subject to human flaws in governance where convenience or desires or politics may lead to exceptions or outright subversion of the process and deviations from the textbook way the process is supposed to proceed examples include
+process with no rigor gets no respect - if exceptions or changes are common such as the organization running it having little independence or power or not being reliable and transparent in records it may lead to the overall process being ignored
+new players wanting a do-over - e.g. the natural tendency of a new person to want to change his predecessor's work to demonstrate his power or his claims of value such as a new ceo wanting to change the previous ceo's planning including business goals of something (such as a software solution) already in development or a newly created office objects to current development of a project because they did not exist when user requirements were crafted so they begin an effort to backtrack and re-baseline the project
+coloring outside the lines - e.g. users wanting more control do not just input things that meet the requirements management definition of user requirement or priority level but insert design details or favored vendor characteristic as user requirements or everything their office says as the highest possible priority
+showing up late - e.g. doing little or no effort in requirements elicitation prior to development this may be due to thinking they will get the same benefit regardless of individual participation or that there is no point if they can just insert demands at the testing stage and next spin or the preference to be always right by waiting for post-work critique
+within the u.s department of defense process some historical examples of requirements issues are
+the m-2 bradley issues of casual requirements movement portrayed in pentagon wars
+the f-16 growth from lightweight fighter concept of the fighter mafia attributed to f-15 program attempting to sabotage competition or individual offices putting in local desires eroding the concept of being lightweight and low cost
+enthusiasm ca 1998 for net-ready led to its mandate as key performance parameter from the net-ready office outside the office defining requirements process and not consistent to that office's previously defined process their definition of what a kpp was or that some efforts might not be appropriate or able to define what constituted net-ready
+== see also ==
+business requirements
+software requirements
+requirements engineering
+requirements analysis
+requirements elicitation
+requirements management
+requirement prioritization
+requirements traceability
+specification (technical standard)
+shall and will - phrasing
+moscow method - prioritisation technique
+user story
+use case
+== references ==
+== external links ==
+discovering system requirements
+the ten commandments of writing requirements
+models in software requirement specifications correct complete consistent unambiguous

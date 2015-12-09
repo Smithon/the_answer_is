@@ -1,0 +1,87 @@
+in mathematics the gradient is a generalization of the usual concept of derivative of a function in one dimension to a function in several dimensions if f(x1  xn) is a differentiable scalar-valued function of standard cartesian coordinates in euclidean space its gradient is the vector whose components are the n partial derivatives of f it is thus a vector-valued function
+similarly to the usual derivative the gradient represents the slope of the tangent of the graph of the function more precisely the gradient points in the direction of the greatest rate of increase of the function and its magnitude is the slope of the graph in that direction the components of the gradient in coordinates are the coefficients of the variables in the equation of the tangent space to the graph this characterizing property of the gradient allows it to be defined independently of a choice of coordinate system as a vector field whose components in a coordinate system will transform when going from one coordinate system to another
+the jacobian is the generalization of the gradient for vector-valued functions of several variables and differentiable maps between euclidean spaces or more generally manifolds a further generalization for a function between banach spaces is the frchet derivative
+== motivation ==
+consider a room in which the temperature is given by a scalar field t so at each point (x y z) the temperature is t(x y z) (we will assume that the temperature does not change over time.) at each point in the room the gradient of t at that point will show the direction the temperature rises most quickly the magnitude of the gradient will determine how fast the temperature rises in that direction
+consider a surface whose height above sea level at a point (x y) is h(x y) the gradient of h at a point is a vector pointing in the direction of the steepest slope or grade at that point the steepness of the slope at that point is given by the magnitude of the gradient vector
+the gradient can also be used to measure how a scalar field changes in other directions rather than just the direction of greatest change by taking a dot product suppose that the steepest slope on a hill is 40% if a road goes directly up the hill then the steepest slope on the road will also be 40% if instead the road goes around the hill at an angle then it will have a shallower slope for example if the angle between the road and the uphill direction projected onto the horizontal plane is 60 then the steepest slope along the road will be 20% which is 40% times the cosine of 60
+this observation can be mathematically stated as follows if the hill height function h is differentiable then the gradient of h dotted with a unit vector gives the slope of the hill in the direction of the vector more precisely when h is differentiable the dot product of the gradient of h with a given unit vector is equal to the directional derivative of h in the direction of that unit vector
+== definition ==
+the gradient (or gradient vector field) of a scalar function f(x1 x2 x3  xn) is denoted f or where (the nabla symbol) denotes the vector differential operator del the notation grad(f) is also commonly used for the gradient the gradient of f is defined as the unique vector field whose dot product with any vector v at each point x is the directional derivative of f along v that is
+in a rectangular coordinate system the gradient is the vector field whose components are the partial derivatives of f
+where the ei are the orthogonal unit vectors pointing in the coordinate directions when a function also depends on a parameter such as time the gradient often refers simply to the vector of its spatial derivatives only
+in the three-dimensional cartesian coordinate system this is given by
+where i j k are the standard unit vectors for example the gradient of the function
+is
+in some applications it is customary to represent the gradient as a row vector or column vector of its components in a rectangular coordinate system
+== gradient and the derivative or differential ==
+=== linear approximation to a function ===
+the gradient of a function f from the euclidean space n to at any particular point x0 in n characterizes the best linear approximation to f at x0 the approximation is as follows
+for x close to x0 where is the gradient of f computed at x0 and the dot denotes the dot product on n this equation is equivalent to the first two terms in the multi-variable taylor series expansion of f at x0
+=== differential or (exterior) derivative ===
+the best linear approximation to a function
+at a point x in n is a linear map from n to which is often denoted by dfx or df(x) and called the differential or (total) derivative of f at x the gradient is therefore related to the differential by the formula
+for any v n the function df which maps x to dfx is called the differential or exterior derivative of f and is an example of a differential 1-form
+if n is viewed as the space of (length n) column vectors (of real numbers) then one can regard df as the row vector with components
+so that dfx(v) is given by matrix multiplication the gradient is then the corresponding column vector i.e.
+=== gradient as a derivative ===
+let u be an open set in rn if the function f  u r is differentiable then the differential of f is the (frchet) derivative of f thus f is a function from u to the space r such that
+where is the dot product
+as a consequence the usual properties of the derivative hold for the gradient
+linearity
+the gradient is linear in the sense that if f and g are two real-valued functions differentiable at the point a rn and and are two constants then f + g is differentiable at a and moreover
+product rule
+if f and g are real-valued functions differentiable at a point a rn then the product rule asserts that the product fg is differentiable at a and
+chain rule
+suppose that f  a r is a real-valued function defined on a subset a of rn and that f is differentiable at a point a there are two forms of the chain rule applying to the gradient first suppose that the function g is a parametric curve that is a function g  i rn maps a subset i r into rn if g is differentiable at a point c i such that g(c) = a then
+where is the composition operator  (fg)(x) = f(g(x))
+more generally if instead i rk then the following holds
+where (dg)t denotes the transpose jacobian matrix
+for the second form of the chain rule suppose that h  i r is a real valued function on a subset i of r and that h is differentiable at the point f(a) i then
+== further properties and applications ==
+=== level sets ===
+a level surface or isosurface is the set of all points where some function has a given value
+if f is differentiable then the dot product (f)x v of the gradient at a point x with a vector v gives the directional derivative of f at x in the direction v it follows that in this case the gradient of f is orthogonal to the level sets of f for example a level surface in three-dimensional space is defined by an equation of the form f(x y z) = c the gradient of f is then normal to the surface
+more generally any embedded hypersurface in a riemannian manifold can be cut out by an equation of the form f(p) = 0 such that df is nowhere zero the gradient of f is then normal to the hypersurface
+similarly an affine algebraic hypersurface may be defined by an equation f(x1  xn) = 0 where f is a polynomial the gradient of f is zero at a singular point of the hypersurface (this is the definition of a singular point) at a non-singular point it is a nonzero normal vector
+=== conservative vector fields and the gradient theorem ===
+the gradient of a function is called a gradient field a (continuous) gradient field is always a conservative vector field its line integral along any path depends only on the endpoints of the path and can be evaluated by the gradient theorem (the fundamental theorem of calculus for line integrals) conversely a (continuous) conservative vector field is always the gradient of a function
+== riemannian manifolds ==
+for any smooth function f on a riemannian manifold (m,g) the gradient of f is the vector field f such that for any vector field x
+where gx(  ) denotes the inner product of tangent vectors at x defined by the metric g and xf (sometimes denoted x(f)) is the function that takes any point x m to the directional derivative of f in the direction x evaluated at x in other words in a coordinate chart from an open subset of m to an open subset of rn (xf)(x) is given by
+where xj denotes the jth component of x in this coordinate chart
+so the local form of the gradient takes the form
+generalizing the case m = rn the gradient of a function is related to its exterior derivative since
+more precisely the gradient f is the vector field associated to the differential 1-form df using the musical isomorphism
+(called sharp") defined by the metric g the relation between the exterior derivative and the gradient of a function on rn is a special case of this in which the metric is the flat metric given by the dot product
+== cylindrical and spherical coordinates ==
+in cylindrical coordinates the gradient is given by (schey 1992 pp 139142)
+where is the azimuthal angle z is the axial coordinate and e e and ez are unit vectors pointing along the coordinate directions
+in spherical coordinates (schey 1992 pp 139142)
+where is the azimuth angle and is the zenith angle
+for the gradient in other orthogonal coordinate systems see orthogonal coordinates (differential operators in three dimensions)
+== generalizations ==
+=== gradient of a vector ===
+in rectangular coordinates the gradient of a vector field f = (f1 f2 f3) is defined by
+where the einstein summation notation is used and the product of the vectors ei ek is a dyadic tensor of type (2,0) or the jacobian matrix
+in curvilinear coordinates or more generally on a curved manifold the gradient involves christoffel symbols
+where gjk are the components of the metric tensor and the ei are the coordinate vectors
+expressed more invariantly the gradient of a vector field f can be defined by the levi-civita connection and metric tensor
+where is the connection
+== see also ==
+curl
+del
+divergence
+gradient theorem
+graph of a function
+hessian matrix
+skew gradient
+== notes ==
+== references ==
+korn theresa m. korn granino arthur (2000) mathematical handbook for scientists and engineers definitions theorems and formulas for reference and review new york dover publications pp 157160 isbn 0-486-41147-8 oclc 43864234 
+schey h.m (1992) div grad curl and all that (2nd ed.) w.w norton isbn 0-393-96251-2 oclc 25048561 
+dubrovin b.a. a.t fomenko s.p novikov (1991) modern geometry--methods and applications part i the geometry of surfaces transformation groups and fields (graduate texts in mathematics) (2nd ed.) springer pp 1417 isbn 978-0-387-97663-1
+== external links ==
+gradient 1 khan academy
+kuptsov l.p (2001) gradient in hazewinkel michiel encyclopedia of mathematics springer isbn 978-1-55608-010-4
+weisstein eric w. gradient mathworld

@@ -1,0 +1,181 @@
+the decibel (db) is a logarithmic unit used to express the ratio of two values of a physical quantity often power or intensity one of these values is often a standard reference value in which case the decibel is used to express the level of the other value relative to this reference the number of decibels is ten times the logarithm to base 10 of the ratio of two power quantities or of the ratio of the squares of two field amplitude quantities one decibel is one tenth of one bel named in honor of alexander graham bell however the bel is seldom used
+the definition of the decibel is based on the measurement of power in telephony of the early 20th century in the bell system in the united states today the unit is used for a wide variety of measurements in science and engineering most prominently in acoustics electronics and control theory in electronics the gains of amplifiers attenuation of signals and signal-to-noise ratios are often expressed in decibels the decibel confers a number of advantages such as the ability to conveniently represent very large or small numbers and the ability to carry out multiplication of ratios by simple addition and subtraction by contrast use of the decibel complicates operations of addition and subtraction
+a change in power by a factor of 10 corresponds to a 10 db change in level at the half power point an audio circuit or an antenna exhibits an attenuation of 3db a change in voltage by a factor of 10 results in a change in power by a factor of 100 which corresponds to a 20 db change in level a change in voltage ratio by a factor of 2 approximately corresponds to a 6 db change in level
+the decibel symbol is often qualified with a suffix that indicates the reference quantity that has been used or some other property of the quantity being measured for example dbm indicates a reference power of one milliwatt while dbu is referenced to approximately 0.775 volts rms
+in the international system of quantities the decibel is defined as a unit of measurement for quantities of type level or level difference which are defined as the logarithm of the ratio of power- or field-type quantities
+== history ==
+the decibel originates from methods used to quantify signal loss in telegraph and telephone circuits the unit for loss was originally miles of standard cable (msc) 1 msc corresponded to the loss of power over a 1 mile (approximately 1.6 km) length of standard telephone cable at a frequency of 5000 radians per second (795.8 hz) and matched closely the smallest attenuation detectable to the average listener the standard telephone cable implied was a cable having uniformly distributed resistance of 88 ohms per loop mile and uniformly distributed shunt capacitance of 0.054 microfarad per mile (approximately 19 gauge)
+in 1924 bell telephone laboratories received favorable response to a new unit definition among members of the international advisory committee on long distance telephony in europe and replaced the msc with the transmission unit (tu) 1 tu was defined as ten times the base-10 logarithm of the ratio of measured power to a reference power level the definition was conveniently chosen such that 1 tu approximated 1 msc specifically 1 msc was 1.056 tu in 1928 the bell system renamed the tu into the decibel being one tenth of a newly defined unit for the base-10 logarithm of the power ratio it was named the bel in honor of the telecommunications pioneer alexander graham bell the bel is seldom used as the decibel was the proposed working unit
+the naming and early definition of the decibel is described in the nbs standard's yearbook of 1931
+in april 2003 the international committee for weights and measures (cipm) considered a recommendation for the inclusion of the decibel in the international system of units (si) but decided against the proposal however the decibel is recognized by other international bodies such as the international electrotechnical commission (iec) and international organization for standardization (iso) the iec permits the use of the decibel with field quantities as well as power and this recommendation is followed by many national standards bodies such as nist which justifies the use of the decibel for voltage ratios the term field quantity is deprecated by iso 80000-1 which favors root-power in spite of their widespread use suffixes (such as in dba or dbv) are not recognized by the iec or iso
+== definition ==
+the iso standard 80000-3:2006 defines the following quantities the decibel (db) is one tenth of the bel (b) 1 b = 10 db the bel is (1/2) ln(10) nepers (np) 1 b = (1/2) ln(10) np = ln(10) np the neper is the change in the level of a field quantity when the field quantity changes by a factor of e that is 1 np = ln(e) = 1 (thereby relating all of the units as nondimensional natural log of field-quantity ratios 1 db = 0.11513 1 b = 1.1513) finally the level of a quantity is the logarithm of the ratio of the value of that quantity to a reference value of the same quantity
+therefore the bel represents the logarithm of a ratio between two power quantities of 10:1 or the logarithm of a ratio between two field quantities of 10:1
+two signals whose levels differ by one decibel have a power ratio of 101/10 which is approximately 1.25892 and an amplitude (field) ratio of 101/20 (1.12202)
+although permissible the bel is rarely used with other si unit prefixes than deci it is preferred to use hundredths of a decibel rather than millibels
+the method of expressing a ratio as a level in decibels depends on whether the measured property is a power quantity or a field quantity see field power and root-power quantities for details
+=== power quantities ===
+when referring to measurements of power quantities a ratio can be expressed as a level in decibels by evaluating ten times the base-10 logarithm of the ratio of the measured quantity to reference value thus the ratio of p (measured power) to p0 (reference power) is represented by lp that ratio expressed in decibels which is calculated using the formula
+the base-10 logarithm of the ratio of the two power levels is the number of bels the number of decibels is ten times the number of bels (equivalently a decibel is one-tenth of a bel) p and p0 must measure the same type of quantity and have the same units before calculating the ratio if p = p0 in the above equation then lp = 0 if p is greater than p0 then lp is positive if p is less than p0 then lp is negative
+rearranging the above equation gives the following formula for p in terms of p0 and lp
+=== field quantities and root-power quantities ===
+when referring to measurements of field quantities it is usual to consider the ratio of the squares of f (measured field) and f0 (reference field) this is because in most applications power is proportional to the square of field and it is desirable for the two decibel formulations to give the same result in such typical cases thus the following definition is used
+the formula may be rearranged to give
+similarly in electrical circuits dissipated power is typically proportional to the square of voltage or current when the impedance is held constant taking voltage as an example this leads to the equation
+where v is the voltage being measured v0 is a specified reference voltage and gdb is the power gain expressed in decibels a similar formula holds for current
+the term root-power quantity is introduced by iso standard 80000-1:2009 as a substitute of field quantity the term field quantity is deprecated by that standard
+=== conversions ===
+since logarithm differences measured in these units are used to represent power ratios and field ratios the values of the ratios represented by each unit are also included in the table
+=== examples ===
+all of these examples yield dimensionless answers in db because they are relative ratios expressed in decibels the unit dbw is often used to denote a ratio for which the reference is 1 w and similarly dbm for a 1 mw reference point
+calculating the ratio of 1 kw (one kilowatt or 1000 watts) to 1 w in decibels yields
+the ratio of 1000 v 31.62 v to 1 v in decibels is
+(31.62 v/1 v)2 1 kw/1 w illustrating the consequence from the definitions above that gdb has the same value 30 regardless of whether it is obtained from powers or from amplitudes provided that in the specific system being considered power ratios are equal to amplitude ratios squared
+the ratio of 1 mw (one milliwatt) to 10 w in decibels is obtained with the formula
+the power ratio corresponding to a 3 db change in level is given by
+a change in power ratio by a factor of 10 corresponds to a change in level of 10 db a change in power ratio by a factor of 2 is approximately a change of 3 db more precisely the factor is 103/10 or 1.9953 about 0.24% different from exactly 2 similarly an increase of 3 db implies an increase in voltage by a factor of approximately 2 or about 1.41 an increase of 6 db corresponds to approximately four times the power and twice the voltage and so on in exact terms the power ratio is 106/10 or about 3.9811 a relative error of about 0.5%
+== properties ==
+the decibel has the following properties
+the logarithmic scale nature of the decibel means that a very large range of ratios can be represented by a convenient number in a similar manner to scientific notation this allows one to clearly visualize huge changes of some quantity see bode plot and semi-log plot for example 120 db spl may be clearer than a trillion times more intense than the threshold of hearing
+level values in decibels can be added instead of multiplying the underlying power values which means that the overall gain of a multi-component system such as a series of amplifier stages can be calculated by summing the gains in decibels of the individual components rather than multiply the amplification factors that is log(a b c) = log(a) + log(b) + log(c) practically this means that armed only with the knowledge that 1 db is approximately 26% power gain 3 db is approximately 2 power gain and 10 db is 10 power gain it is possible to determine the power ratio of a system from the gain in db with only simple addition and multiplication for example
+a system consists of 3 amplifiers in series with gains (ratio of power out to in) of 10 db 8 db and 7 db respectively for a total gain of 25 db broken into combinations of 10 3 and 1 db this is
+25 db = 10 db + 10 db + 3 db + 1 db + 1 db
+with an input of 1 watt the output is approximately
+1 w x 10 x 10 x 2 x 1.26 x 1.26 = ~317.5 w
+calculated exactly the output is 1 w x 1025/10 = 316.2 w the approximate value has an error of only +0.4% with respect to the actual value which is negligible given the precision of the values supplied and the accuracy of most measurement instrumentation
+== advantages and disadvantages ==
+=== supporting arguments ===
+according to mitschke the advantage of using a logarithmic measure is that in a transmission chain there are many elements concatenated and each has its own gain or attenuation to obtain the total addition of decibel values is much more convenient than multiplication of the individual factors.
+the human perception of the intensity of sound and light approximates the logarithm of intensity rather than a linear relationship (weberfechner law) making the db scale a useful measure
+decibels are still the commonly used units to express ratios in a number of fields even when the original meaning of the term is obscured decibels are the traditional way of expressing gain or margin in such diverse disciplines as control theory antenna and radio frequency transmission theory and even assessment of nuclear hardness
+=== criticism ===
+various published articles have criticized the unit decibel as having shortcomings that hinder its understanding and use according to its critics the decibel creates confusion obscures reasoning is more related to the era of slide rules than to modern digital processing are cumbersome and difficult to interpret
+representing the equivalent of zero watts is not possible causing problems in conversions hickling concludes decibels are a useless affectation which is impeding the development of noise control as an engineering discipline
+a common source of confusion in using the decibel occurs when deciding about the use of 10*log or 20*log in the original definition it was a power measurement and as employed in that context the formulation 10*log should be used as deci means one tenth the user must be clear whether the quantity expressed is power or amplitude it is useful to consider how power or energy is expressed e.g. current*current*resistance 0.5*velocity*velocity*mass if the formulation is a square function of the variable then 20*log is the correct expression in simple ratios without obvious power or energy context such as damage ratios in nuclear hardness assessments the 20*log is commonly used
+quantities in decibels are not necessarily additive thus being of unacceptable form for use in dimensional analysis
+for the same reason that humans excel at additive operation over multiplication decibels are awkward in inherently additive operations if two machines each individually produce a [sound pressure] level of say 90 db at a certain point then when both are operating together we should expect the combined sound pressure level to increase to 93 db but certainly not to 180 db!. suppose that the noise from a machine is measured (including the contribution of background noise) and found to be 87 dba but when the machine is switched off the background noise alone is measured as 83 dba  the machine noise [level (alone)] may be obtained by subtracting the 83 dba background noise from the combined level of 87 dba i.e. 84.8 dba. in order to find a representative value of the sound level in a room a number of measurements are taken at different positions within the room and an average value is calculated (...) compare the logarithmic and arithmetic averages of  70 db and 90 db logarithmic average = 87 db arithmetic average = 80 db.
+== uses ==
+=== acoustics ===
+the decibel is commonly used in acoustics as a unit of sound pressure level the reference pressure in air is set at the typical threshold of perception of an average human and there are common comparisons used to illustrate different levels of sound pressure sound pressure is a field quantity therefore the field version of the unit definition is used
+where pref is the standard reference sound pressure of 20 micropascals in air or 1 micropascal in water
+the human ear has a large dynamic range in audio reception the ratio of the sound intensity that causes permanent damage during short exposure to the quietest sound that the ear can hear is greater than or equal to 1 trillion (1012) such large measurement ranges are conveniently expressed in logarithmic scale the base-10 logarithm of 1012 is 12 which is expressed as a sound pressure level of 120 db re 20 micropascals since the human ear is not equally sensitive to all sound frequencies noise levels at maximum human sensitivity somewhere between 2 and 4 khz are factored more heavily into some measurements using frequency weighting (see also stevens power law.)
+=== electronics ===
+in electronics the decibel is often used to express power or amplitude ratios (gains) in preference to arithmetic ratios or percentages one advantage is that the total decibel gain of a series of components (such as amplifiers and attenuators) can be calculated simply by summing the decibel gains of the individual components similarly in telecommunications decibels denote signal gain or loss from a transmitter to a receiver through some medium (free space waveguide coaxial cable fiber optics etc.) using a link budget
+the decibel unit can also be combined with a suffix to create an absolute unit of electric power for example it can be combined with m for milliwatt to produce the dbm zero dbm is the level corresponding to one milliwatt and 1 dbm is one decibel greater (about 1.259 mw)
+in professional audio specifications a popular unit is the dbu the dbu is a root mean square (rms) measurement of voltage that uses as its reference approximately 0.775 vrms chosen for historical reasons the reference value is the voltage level which delivers 1 mw of power in a 600 ohm resistor which used to be the standard reference impedance in telephone circuits
+=== optics ===
+in an optical link if a known amount of optical power in dbm (referenced to 1 mw) is launched into a fiber and the losses in db (decibels) of each component (e.g. connectors splices and lengths of fiber) are known the overall link loss may be quickly calculated by addition and subtraction of decibel quantities
+in spectrometry and optics the blocking unit used to measure optical density is equivalent to 1 b
+=== video and digital imaging ===
+in connection with video and digital image sensors decibels generally represent ratios of video voltages or digitized light levels using 20 log of the ratio even when the represented optical power is directly proportional to the voltage or level not to its square as in a ccd imager where response voltage is linear in intensity thus a camera signal-to-noise ratio or dynamic range of 40 db represents a power ratio of 100:1 between signal power and noise power not 10,000:1 sometimes the 20 log ratio definition is applied to electron counts or photon counts directly which are proportional to intensity without the need to consider whether the voltage response is linear
+however as mentioned above the 10 log intensity convention prevails more generally in physical optics including fiber optics so the terminology can become murky between the conventions of digital photographic technology and physics most commonly quantities called dynamic range or signal-to-noise (of the camera) would be specified in 20 log dbs but in related contexts (e.g attenuation gain intensifier snr or rejection ratio) the term should be interpreted cautiously as confusion of the two units can result in very large misunderstandings of the value
+photographers typically use an alternative base-2 log unit the f-stop to describe light intensity or dynamic range
+== suffixes and reference values ==
+suffixes are commonly attached to the basic db unit in order to indicate the reference value by which the ratio is calculated for example dbm indicates power measurement relative to 1 milliwatt
+in cases where the unit value of the reference is stated the decibel value is known as absolute if the unit value of the reference is not explicitly stated as in the db gain of an amplifier then the decibel value is considered relative
+the si does not permit attaching qualifiers to units whether as suffix or prefix other than standard si prefixes therefore even though the decibel is accepted for use alongside si units the practice of attaching a suffix to the basic db unit forming compound units such as dbm dbu dba etc. is not the proper way according to the iec 60027-3 is either as lx (re xref) or as lx/xref where x is the quantity symbol and xref is the value of the reference quantity e.g. le (re 1 v/m) = le/(1 v/m) for the electric field strength e relative to 1 v/m reference value
+outside of documents adhering to si units the practice is very common as illustrated by the following examples there is no general rule with various discipline-specific practices sometimes the suffix is a unit symbol ("w","k","m") sometimes it is a transliteration of a unit symbol ("uv instead of v for microvolt) sometimes it is an acronym for the unit's name ("sm for square meter m for milliwatt) other times it is a mnemonic for the type of quantity being calculated ("i for antenna gain with respect to an isotropic antenna  for anything normalized by the em wavelength) or otherwise a general attribute or identifier about the nature of the quantity ("a for a-weighted sound pressure level) the suffix is often connected with a dash (db-hz) with a space (db hl) with no intervening character (dbm) or enclosed in parentheses db(sm)
+=== voltage ===
+since the decibel is defined with respect to power not amplitude conversions of voltage ratios to decibels must square the amplitude or use the factor of 20 instead of 10 as discussed above
+dbv
+db(vrms) voltage relative to 1 volt regardless of impedance
+dbu or dbv
+rms voltage relative to  originally dbv it was changed to dbu to avoid confusion with dbv the v comes from volt while u comes from unloaded dbu can be used regardless of impedance but is derived from a 600 load dissipating 0 dbm (1 mw) the reference voltage comes from the computation 
+in professional audio equipment may be calibrated to indicate a 0 on the vu meters some finite time after a signal has been applied at an amplitude of +4 dbu consumer equipment typically uses a lower nominal signal level of -10 dbv therefore many devices offer dual voltage operation (with different gain or trim settings) for interoperability reasons a switch or adjustment that covers at least the range between +4 dbu and -10 dbv is common in professional equipment
+dbmv
+db(mvrms) voltage relative to 1 millivolt across 75  widely used in cable television networks where the nominal strength of a single tv signal at the receiver terminals is about 0 dbmv cable tv uses 75 coaxial cable so 0 dbmv corresponds to 78.75 dbw (48.75 dbm) or ~13 nw
+dbv or dbuv
+db(vrms) voltage relative to 1 microvolt widely used in television and aerial amplifier specifications 60 dbv = 0 dbmv
+=== acoustics ===
+probably the most common usage of decibels in reference to sound level is db spl sound pressure level referenced to the nominal threshold of human hearing the measures of pressure (a field quantity) use the factor of 20 and the measures of power (e.g db sil and db swl) use the factor of 10
+db spl
+db spl (sound pressure level) for sound in air and other gases relative to 20 micropascals (pa) = 2105 pa approximately the quietest sound a human can hear for sound in water and other liquids a reference pressure of 1 pa is used
+an rms sound pressure of one pascal corresponds to a level of 94 db spl
+db sil
+db sound intensity level relative to 1012 w/m2 which is roughly the threshold of human hearing in air
+db swl
+db sound power level relative to 1012 w
+db(a) db(b) and db(c)
+these symbols are often used to denote the use of different weighting filters used to approximate the human ear's response to sound although the measurement is still in db (spl) these measurements usually refer to noise and its effects on humans and animals and they are widely used in industry while discussing noise control issues regulations and environmental standards other variations that may be seen are dba or dba according to ansi standards the preferred usage is to write la = x db nevertheless the units dba and db(a) are still commonly used as a shorthand for a-weighted measurements compare dbc used in telecommunications
+db hl or db hearing level is used in audiograms as a measure of hearing loss the reference level varies with frequency according to a minimum audibility curve as defined in ansi and other standards such that the resulting audiogram shows deviation from what is regarded as normal hearing
+db q is sometimes used to denote weighted noise level commonly using the itu-r 468 noise weighting
+=== audio electronics ===
+dbm
+db(mw) power relative to 1 milliwatt in audio and telephony dbm is typically referenced relative to a 600 ohm impedance while in radio frequency work dbm is typically referenced relative to a 50 ohm impedance
+dbfs
+db(full scale) the amplitude of a signal compared with the maximum which a device can handle before clipping occurs full-scale may be defined as the power level of a full-scale sinusoid or alternatively a full-scale square wave a signal measured with reference to a full-scale sine-wave will appear 3db weaker when referenced to a full-scale square wave thus 0 dbfs(ref=fullscale sine wave) = -3 dbfs(ref=fullscale square wave)
+dbtp
+db(true peak) - peak amplitude of a signal compared with the maximum which a device can handle before clipping occurs in digital systems 0 dbtp would equal the highest level (number) the processor is capable of representing measured values are always negative or zero since they are less than or equal to full-scale
+=== radar ===
+dbz
+db(z) decibel relative to z = 1 mm6 m3 energy of reflectivity (weather radar) related to the amount of transmitted power returned to the radar receiver values above 1520 dbz usually indicate falling precipitation
+dbsm
+db(m2) decibel relative to one square meter measure of the radar cross section (rcs) of a target the power reflected by the target is proportional to its rcs stealth aircraft and insects have negative rcs measured in dbsm large flat plates or non-stealthy aircraft have positive values
+=== radio power energy and field strength ===
+dbc
+dbc relative to carrierin telecommunications this indicates the relative levels of noise or sideband power compared with the carrier power compare dbc used in acoustics
+dbj
+db(j) energy relative to 1 joule 1 joule = 1 watt second = 1 watt per hertz so power spectral density can be expressed in dbj
+dbm
+db(mw) power relative to 1 milliwatt traditionally associated with the telephone and broadcasting industry to express audio-power levels referenced to one milliwatt of power normally with a 600 ohm load which is a voltage level of 0.775 volts or 775 millivolts this is still commonly used to express audio levels with professional audio equipment
+in the radio field dbm is usually referenced to a 50 ohm load with the resultant voltage being 0.224 volts
+dbv/m or dbuv/m
+db(v/m) electric field strength relative to 1 microvolt per meter often used to specify the signal strength from a television broadcast at a receiving site (the signal measured at the antenna output will be in dbv)
+dbf
+db(fw) power relative to 1 femtowatt
+dbw
+db(w) power relative to 1 watt
+dbk
+db(kw) power relative to 1 kilowatt
+=== antenna measurements ===
+dbi
+db(isotropic) the forward gain of an antenna compared with the hypothetical isotropic antenna which uniformly distributes energy in all directions linear polarization of the em field is assumed unless noted otherwise
+dbd
+db(dipole) the forward gain of an antenna compared with a half-wave dipole antenna 0 dbd = 2.15 dbi
+dbic
+db(isotropic circular) the forward gain of an antenna compared to a circularly polarized isotropic antenna there is no fixed conversion rule between dbic and dbi as it depends on the receiving antenna and the field polarization
+dbq
+db(quarterwave) the forward gain of an antenna compared to a quarter wavelength whip rarely used except in some marketing material 0 dbq = 0.85 dbi
+dbsm
+db(m2) decibel relative to one square meter measure of the antenna effective area
+dbm1
+db(m1) decibel relative to reciprocal of meter measure of the antenna factor
+=== other measurements ===
+db-hz
+db(hz) bandwidth relative to one hertz e.g. 20 db-hz corresponds to a bandwidth of 100 hz commonly used in link budget calculations also used in carrier-to-noise-density ratio (not to be confused with carrier-to-noise ratio in db)
+dbov or dbo
+db(overload) the amplitude of a signal (usually audio) compared with the maximum which a device can handle before clipping occurs similar to dbfs but also applicable to analog systems
+dbr
+db(relative) simply a relative difference from something else which is made apparent in context the difference of a filter's response to nominal levels for instance
+dbrn
+db above reference noise see also dbrnc
+dbrnc
+dbrnc represents an audio level measurement typically in a telephone circuit relative to the circuit noise level with the measurement of this level frequency-weighted by a standard c-message weighting filter the c-message weighting filter was chiefly used in north america the psophometric filter is used for this purpose on international circuits see psophometric weighting to see a comparison of frequency response curves for the c-message weighting and psophometric weighting filters
+dbk
+db(k) decibels relative to kelvin used to express noise temperature
+db/k
+db(k1) decibels relative to reciprocal of kelvinnot decibels per kelvin used for the g/t factor a figure of merit utilized in satellite communications relating the antenna gain g to the receiver system noise equivalent temperature t
+== related units ==
+mbm
+mb(mw) power relative to 1 milliwatt in millibels (one hundredth of a decibel) 100 mbm = 1dbm this unit is in the wi-fi drivers of the linux kernel and the regulatory domain sections
+np or cnp
+another closely related unit is the neper (np) or centineper (cnp) like the decibel the neper is a unit of level the linear approximation 1cnp =~ 1% for small percentage differences is widely used finance
+== fractions ==
+attenuation constants in fields such as optical fiber communication and radio propagation path loss are often expressed as a fraction or ratio to distance of transmission db/m means decibels per meter db/mi is decibels per mile for example these quantities are to be manipulated obeying the rules of dimensional analysis e.g. a 100-meter run with a 3.5 db/km fiber yields a loss of 0.35 db = 3.5 db/km 0.1 km
+== see also ==
+apparent magnitude
+cent (music)
+db drag racing
+decade (log scale)
+equal-loudness contour
+noise (environmental)
+phon
+richter magnitude scale
+signal noise
+sone
+ph
+== notes and references ==
+== external links ==
+what is a decibel with sound files and animations
+conversion of sound level units dbspl or dba to sound pressure p and sound intensity j
+osha regulations on occupational noise exposure

@@ -1,0 +1,65 @@
+comput represent state transfer rest softwar architectur style world wide web rest give coordin set constraint design compon distribut hypermedia system lead higherperform maintain architectur
+extent system conform constraint rest call rest rest system typic alway communic hypertext transfer protocol http http verb get post put delet etc web browser use retriev web page send data remot server rest interfac extern system use resourc identifi uniform resourc identifi uri exampl peopletom oper upon use standard verb delet peopletom
+rest initi propos roy thoma field phd dissert architectur style design networkbas softwar architectur field develop rest architectur style parallel http base exist design http
+architectur propertiesedit
+architectur properti affect constraint rest architectur style
+perform compon interact domin factor userperceiv perform network effici
+scalabl support larg number compon interact among compon roy field one princip author http specif describ rest effect scalabl thus
+simplic interfac
+modifi compon meet chang need even applic run
+visibl communic compon servic agent
+portabl compon move program code data
+reliabl resist failur system level presenc failur within compon connector data
+architectur constraintsedit
+architectur properti rest realiz appli specif interact constraint compon connector data element one characteris applic conform rest constraint describ section rest servic violat requir constraint cannot consid rest compli constraint thus conform rest architectur style enabl kind distribut hypermedia system desir nonfunct properti perform scalabl simplic modifi visibl portabl reliabl
+formal rest constraint
+clientserveredit
+uniform interfac separ client server separ concern mean exampl client concern data storag remain intern server portabl client code improv server concern user interfac user state server simpler scalabl server client may also replac develop independ long interfac alter
+statelessedit
+clientserv communic constrain client context store server request request client contain inform necessari servic request session state held client session state transfer server anoth servic databas maintain persist state period allow authent client begin send request readi make transit new state one request outstand client consid transit represent applic state contain link may use next time client choos initi new statetransit
+cacheableedit
+world wide web client intermediari cach respons respons must therefor implicit explicit defin cacheabl prevent client reus stale inappropri data respons request wellmanag cach partial complet elimin clientserv interact improv scalabl perform
+layer systemedit
+client cannot ordinarili tell whether connect direct end server intermediari along way intermediari server may improv system scalabl enabl load balanc provid share cach may also enforc secur polici
+code demand optionaledit
+server temporarili extend custom function client transfer execut code exampl may includ compil compon java applet clientsid script javascript code demand option constraint rest architectur
+uniform interfaceedit
+uniform interfac constraint fundament design rest servic uniform interfac simplifi decoupl architectur enabl part evolv independ four constraint uniform interfac
+identif resourc
+individu resourc identifi request exampl use uri webbas rest system resourc conceptu separ represent return client exampl server may send data databas html xml json none server intern represent
+manipul resourc represent
+client hold represent resourc includ metadata attach enough inform modifi delet resourc
+selfdescript messag
+messag includ enough inform describ process messag exampl parser invok may specifi internet media type previous known mime type respons also explicit indic cacheabl
+hypermedia engin applic state hateoa
+client make state transit action dynam identifi within hypermedia server eg hyperlink within hypertext except simpl fix entri point applic client assum particular action avail particular resourc beyond describ represent previous receiv server
+appli web servicesedit
+web servic api adher rest architectur constraint call rest api httpbase rest api defin aspect
+base uri httpexamplecomresourc
+internet media type data often json valid internet media type eg xml atom microformat imag etc
+standard http method eg get put post delet
+hypertext link refer state
+hypertext link referencerel resourc
+exampleedit
+follow tabl show http method typic use implement rest api
+put delet method refer idempot mean oper produc result matter mani time repeat get method safe method nullipot mean call produc sideeffect word retriev access record chang
+unlik soapbas web servic offici standard rest web api rest architectur style soap protocol even though rest standard per se rest implement make use standard http uri json xml
+see alsoedit
+creat read updat delet crud
+domain applic protocol dap
+microservic
+resourceori architectur roa
+resourceori comput roc
+semant url
+serviceori architectur soa
+webori architectur woa
+overview rest api descript languag
+odata protocol rest api
+raml softwar
+rsdl rest servic descript languag
+swagger specif defin interfac
+readingedit
+pautasso cesar wild erik alarcon rosa rest advanc research topic practic applic
+pautasso cesar zimmermann olaf leymann frank april rest web servic vs big web servic make right architectur decis th intern world wide web confer www beij china
+ferreira otavio nov semant web servic rest approach iadi isbn
+referencesedit

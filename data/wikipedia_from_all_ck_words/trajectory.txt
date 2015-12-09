@@ -1,0 +1,72 @@
+a trajectory or flight path is the path that a moving object follows through space as a function of time the object might be a projectile or a satellite for example it can be an orbitthe path of a planet an asteroid or a comet as it travels around a central mass a trajectory can be described mathematically either by the geometry of the path or as the position of the object over time
+in control theory a trajectory is a time-ordered set of states of a dynamical system (see e.g poincar map) in discrete mathematics a trajectory is a sequence of values calculated by the iterated application of a mapping to an element of its source
+== physics of trajectories ==
+a familiar example of a trajectory is the path of a projectile such as a thrown ball or rock in a greatly simplified model the object moves only under the influence of a uniform gravitational force field this can be a good approximation for a rock that is thrown for short distances for example at the surface of the moon in this simple approximation the trajectory takes the shape of a parabola generally when determining trajectories it may be necessary to account for nonuniform gravitational forces and air resistance (drag and aerodynamics) this is the focus of the discipline of ballistics
+one of the remarkable achievements of newtonian mechanics was the derivation of the laws of kepler in the gravitational field of a point mass or a spherically-symmetrical extended mass (such as the sun) the trajectory of a moving object is a conic section usually an ellipse or a hyperbola this agrees with the observed orbits of planets comets and artificial spacecraft to a reasonably good approximation although if a comet passes close to the sun then it is also influenced by other forces such as the solar wind and radiation pressure which modify the orbit and cause the comet to eject material into space
+newton's theory later developed into the branch of theoretical physics known as classical mechanics it employs the mathematics of differential calculus (which was in fact also initiated by newton in his youth) over the centuries countless scientists contributed to the development of these two disciplines classical mechanics became a most prominent demonstration of the power of rational thought i.e reason in science as well as technology it helps to understand and predict an enormous range of phenomena trajectories are but one example
+consider a particle of mass  moving in a potential field  physically speaking mass represents inertia and the field represents external forces of a particular kind known as conservative that is given at every relevant position there is a way to infer the associated force that would act at that position say from gravity not all forces can be expressed in this way however
+the motion of the particle is described by the second-order differential equation
+with
+on the right-hand side the force is given in terms of  the gradient of the potential taken at positions along the trajectory this is the mathematical form of newton's second law of motion force equals mass times acceleration for such situations
+== examples ==
+=== uniform gravity neither drag nor wind ===
+the ideal case of motion of a projectile in a uniform gravitational field in the absence of other forces (such as air drag) was first investigated by galileo galilei to neglect the action of the atmosphere in shaping a trajectory would have been considered a futile hypothesis by practical-minded investigators all through the middle ages in europe nevertheless by anticipating the existence of the vacuum later to be demonstrated on earth by his collaborator evangelista torricelli galileo was able to initiate the future science of mechanics and in a near vacuum as it turns out for instance on the moon his simplified parabolic trajectory proves essentially correct
+in the analysis that follows we derive the equation of motion of a projectile as measured from an inertial frame at rest with respect to the ground to which frame is associated a right-hand co-ordinate system - the origin of which coincides with the point of launch of the projectile the x-axis is parallel to the ground and the y axis perpendicular to it ( parallel to the gravitational field lines ) let be the acceleration of gravity relative to the flat terrain let the initial horizontal speed be and the initial vertical speed be  it will also be shown that the range is  and the maximum altitude is  the maximum range for a given initial speed  is obtained when  i.e the initial angle is 45 degrees this range is  and the maximum altitude at the maximum range is a quarter of that
+==== derivation of the equation of motion ====
+assume the motion of the projectile is being measured from a free fall frame which happens to be at (x,y)=(0,0) at t=0 the equation of motion of the projectile in this frame (by the principle of equivalence) would be  the co-ordinates of this free-fall frame with respect to our inertial frame would be  that is 
+now translating back to the inertial frame the co-ordinates of the projectile becomes that is
+(where v0 is the initial velocity is the angle of elevation and g is the acceleration due to gravity)
+==== range and height ====
+the range r is the greatest distance the object travels along the x-axis in the i sector the initial velocity vi is the speed at which said object is launched from the point of origin the initial angle i is the angle at which said object is released the g is the respective gravitational pull on the object within a null-medium
+the height h is the greatest parabolic height said object reaches within its trajectory
+==== angle of elevation ====
+in terms of angle of elevation and initial speed 
+giving the range as
+this equation can be rearranged to find the angle for a required range
+(equation ii angle of projectile launch)
+note that the sine function is such that there are two solutions for for a given range  the angle giving the maximum range can be found by considering the derivative or with respect to and setting it to zero
+which has a nontrivial solution at  or  the maximum range is then  at this angle  so the maximum height obtained is 
+to find the angle giving the maximum height for a given speed calculate the derivative of the maximum height with respect to  that is which is zero when  so the maximum height is obtained when the projectile is fired straight up
+=== uphill/downhill in uniform gravity in a vacuum ===
+given a hill angle and launch angle as before it can be shown that the range along the hill forms a ratio with the original range along the imaginary horizontal such that
+(equation 11)
+in this equation downhill occurs when is between 0 and -90 degrees for this range of we know and  thus for this range of   thus is a positive value meaning the range downhill is always further than along level terrain the lower level of terrain causes the projectile to remain in the air longer allowing it to travel further horizontally before hitting the ground
+while the same equation applies to projectiles fired uphill the interpretation is more complex as sometimes the uphill range may be shorter or longer than the equivalent range along level terrain equation 11 may be set to (i.e the slant range is equal to the level terrain range) and solving for the critical angle 
+equation 11 may also be used to develop the rifleman's rule for small values of and (i.e close to horizontal firing which is the case for many firearm situations) for small values both and have a small value and thus when multiplied together (as in equation 11) the result is almost zero thus equation 11 may be approximated as
+and solving for level terrain range
+rifleman's rule
+thus if the shooter attempts to hit the level distance r s/he will actually hit the slant target in other words pretend that the inclined target is at a horizontal distance equal to the slant range distance multiplied by the cosine of the inclination angle and aim as if the target were really at that horizontal position."[1]
+==== derivation based on equations of a parabola ====
+the intersect of the projectile trajectory with a hill may most easily be derived using the trajectory in parabolic form in cartesian coordinates (equation 10) intersecting the hill of slope in standard linear form at coordinates 
+(equation 12) where in this case  and
+substituting the value of into equation 10
+(solving above x)
+this value of x may be substituted back into the linear equation 12 to get the corresponding y coordinate at the intercept
+now the slant range is the distance of the intercept from the origin which is just the hypotenuse of x and y
+now is defined as the angle of the hill so by definition of tangent  this can be substituted into the equation for 
+now this can be refactored and the trigonometric identity for may be used
+now the flat range by the previously used trigonometric identity and so
+=== orbiting objects ===
+if instead of a uniform downwards gravitational force we consider two bodies orbiting with the mutual gravitation between them we obtain kepler's laws of planetary motion the derivation of these was one of the major works of isaac newton and provided much of the motivation for the development of differential calculus
+== catching balls ==
+if a projectile such as a baseball or cricket ball travels in a parabolic path with negligible air resistance and if a player is positioned so as to catch it as it descends he sees its angle of elevation increasing continuously throughout its flight the tangent of the angle of elevation is proportional to the time since the ball was sent into the air usually by being struck with a bat even when the ball is really descending near the end of its flight its angle of elevation seen by the player continues to increase the player therefore sees it as if it were ascending vertically at constant speed finding the place from which the ball appears to rise steadily helps the player to position himself correctly to make the catch if he is too close to the batsman who has hit the ball it will appear to rise at an accelerating rate if he is too far from the batsman it will appear to slow rapidly and then to descend
+== notes ==
+== see also ==
+aft-crossing trajectory
+orbit (dynamics)
+orbit (group theory)
+planetary orbit
+porkchop plot
+range of a projectile
+rigid body
+trajectory of a projectile
+== references ==
+== external links ==
+projectile motion flash applet
+trajectory calculator
+an interactive simulation on projectile motion
+projectile lab javascript trajectory simulator
+parabolic projectile motion shooting a harmless tranquilizer dart at a falling monkey by roberto castilla-melndez roxana ramrez-herrera and jos luis gmez-muoz the wolfram demonstrations project
+trajectory scienceworld
+java projectile-motion simulation with first-order air resistance
+java projectile-motion simulation targeting solutions parabola of safety

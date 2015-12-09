@@ -1,0 +1,53 @@
+the ampere (si unit symbol a) often shortened to amp is the si unit of electric current (dimension symbol i) and is one of the seven si base units it is named after andr-marie ampre (17751836) french mathematician and physicist considered the father of electrodynamics
+the ampere is equivalent to one coulomb (roughly 70186241000000000006.2411018 times the elementary charge) per second amperes are used to express flow rate of electric charge for any point experiencing a current if the number of charged particles passing or the charge on the particles is increased the amperes of current at that point will proportionately increase
+the ampere should not be confused with the coulomb (also called ampere-second") or the ampere-hour (ah) the ampere is a unit of current the amount of charge transiting per unit time and the coulomb is a unit of charge when si units are used constant instantaneous and average current are expressed in amperes (as in the charging current is 1.2 a") and the charge accumulated or passed through a circuit over a period of time is expressed in coulombs (as in the battery charge is 700430000000000000030000 c") the relation of the ampere to the coulomb is the same as that of the watt to the joule and that of metre per second to metre
+== definitionedit ==
+ampre's force law states that there is an attractive or repulsive force between two parallel wires carrying an electric current this force is used in the formal definition of the ampere which states that the ampere is the constant current that will produce an attractive force of 2 107 newtons per metre of length between two straight parallel conductors of infinite length and negligible circular cross section placed one metre apart in a vacuum
+the si unit of charge the coulomb is the quantity of electricity carried in 1 second by a current of 1 ampere conversely a current of one ampere is one coulomb of charge going past a given point per second
+in general charge q is determined by steady current i flowing for a time t as q = it
+== historyedit ==
+the ampere was originally defined as one tenth of the unit of electric current in the centimetregramsecond system of units that unit now known as the abampere was defined as the amount of current that generates a force of two dynes per centimetre of length between two wires one centimetre apart the size of the unit was chosen so that the units derived from it in the mksa system would be conveniently sized
+the international ampere was an early realization of the ampere defined as the current that would deposit 69971118000000000000.001118000 grams of silver per second from a silver nitrate solution later more accurate measurements revealed that this current is 69999998500000000000.99985 a
+== realizationedit ==
+the standard ampere is most accurately realized using a watt balance but is in practice maintained via ohm's law from the units of electromotive force and resistance the volt and the ohm since the latter two can be tied to physical phenomena that are relatively easy to reproduce the josephson junction and the quantum hall effect respectively
+at present techniques to establish the realization of an ampere have a relative uncertainty of approximately a few parts in 107 and involve realizations of the watt the ohm and the volt
+== proposed future definitionedit ==
+rather than a definition in terms of the force between two current-carrying wires it has been proposed to define the ampere in terms of the rate of flow of elementary charges since a coulomb is approximately equal to 70186241509300000006.24150931018 elementary charges (such as electrons) one ampere is approximately equivalent to 70186241509300000006.24150931018 elementary charges moving past a boundary in one second or the reciprocal of the value of the elementary charges in coulombs the proposed change would define 1 a as being the current in the direction of flow of a particular number of elementary charges per second in 2005 the international committee for weights and measures (cipm) agreed to study the proposed change the new definition was discussed at the 25th general conference on weights and measures (cgpm) in 2014 but for the time being was not adopted
+== everyday examplesedit ==
+the current drawn by typical constant-voltage energy distribution systems is usually dictated by the power (watts) consumed by the system and the operating voltage for this reason the examples given below are grouped by voltage level
+=== portable gadgetsedit ===
+hearing aid (typically 1 mw at 1.4 v) 0.7 ma
+=== motor vehicles 12 v dcedit ===
+a typical motor vehicle has a 12 v battery the various accessories that are powered by the battery might include
+instrument panel light (typically 2 w) 166 ma
+headlights (typically 60 w) 5 a each
+starter motor (typically 12 kw) 80160 a
+=== north american domestic supply 120 v acedit ===
+most united states canada and mexico domestic power suppliers run at 120 v
+household circuit breakers typically provide a maximum of 15 a or 20 a of current to a given set of outlets
+22-inch/56-centimeter portable television (35 w) 290 ma
+tungsten light bulb (60100 w) 500830 ma
+toaster kettle (1.5 kw) 12.5 a
+hair dryer (1.8 kw) 15 a
+=== european & commonwealth domestic supply 230-240 v acedit ===
+most european domestic power supplies run at 230 v and most commonwealth domestic power supplies run at 240 v for the same amount of power (in watts) the current drawn by a particular european or commonwealth appliance (in europe or a commonwealth country) will be less than for an equivalent north american appliance typical circuit breakers will provide 16 a
+the current drawn by a number of typical appliances are
+22-inch/56-centimeter portable television (35 w) 145150 ma
+tungsten light bulb (60100 w) 240450 ma
+compact fluorescent lamp (1130 w) 56112 ma
+toaster kettle (2 kw) 9 a
+immersion heater (4.6 kw) 1920 a
+== see alsoedit ==
+ammeter
+ampacity (current-carrying capacity)
+electric current
+electric shock
+hydraulic analogy
+magnetic constant
+orders of magnitude (current)
+== notesedit ==
+== referencesedit ==
+== external linksedit ==
+the nist reference on constants units and uncertainty
+nist definition of ampere and 0
+tutorial video explaining amperes and current

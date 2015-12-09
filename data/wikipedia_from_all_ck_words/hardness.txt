@@ -1,0 +1,59 @@
+hardness is a measure of how resistant solid matter is to various kinds of permanent shape change when a compressive force is applied some materials such as metal are harder than others macroscopic hardness is generally characterized by strong intermolecular bonds but the behavior of solid materials under force is complex therefore there are different measurements of hardness scratch hardness indentation hardness and rebound hardness
+hardness is dependent on ductility elastic stiffness plasticity strain strength toughness viscoelasticity and viscosity
+common examples of hard matter are ceramics concrete certain metals and superhard materials which can be contrasted with soft matter
+== measuring hardnessedit ==
+there are three main types of hardness measurements scratch indentation and rebound within each of these classes of measurement there are individual measurement scales for practical reasons conversion tables are used to convert between one scale and another
+=== scratch hardnessedit ===
+scratch hardness is the measure of how resistant a sample is to fracture or permanent plastic deformation due to friction from a sharp object the principle is that an object made of a harder material will scratch an object made of a softer material when testing coatings scratch hardness refers to the force necessary to cut through the film to the substrate the most common test is mohs scale which is used in mineralogy one tool to make this measurement is the sclerometer
+another tool used to make these tests is the pocket hardness tester this tool consists of a scale arm with graduated markings attached to a four-wheeled carriage a scratch tool with a sharp rim is mounted at a predetermined angle to the testing surface in order to use it a weight of known mass is added to the scale arm at one of the graduated markings the tool is then drawn across the test surface the use of the weight and markings allows a known pressure to be applied without the need for complicated machinery
+=== indentation hardnessedit ===
+indentation hardness measures the resistance of a sample to material deformation due to a constant compression load from a sharp object they are primarily used in engineering and metallurgy fields the tests work on the basic premise of measuring the critical dimensions of an indentation left by a specifically dimensioned and loaded indenter
+common indentation hardness scales are rockwell vickers shore and brinell
+=== rebound hardnessedit ===
+rebound hardness also known as dynamic hardness measures the height of the bounce of a diamond-tipped hammer dropped from a fixed height onto a material this type of hardness is related to elasticity the device used to take this measurement is known as a scleroscope
+two scales that measures rebound hardness are the leeb rebound hardness test and bennett hardness scale
+== hardeningedit ==
+there are five hardening processes hall-petch strengthening work hardening solid solution strengthening precipitation hardening and martensitic transformation
+== physicsedit ==
+in solid mechanics solids generally have three responses to force depending on the amount of force and the type of material
+they exhibit elasticitythe ability to temporarily change shape but return to the original shape when the pressure is removed hardness in the elastic rangea small temporary change in shape for a given forceis known as stiffness in the case of a given object or a high elastic modulus in the case of a material
+they exhibit plasticitythe ability to permanently change shape in response to the force but remain in one piece the yield strength is the point at which elastic deformation gives way to plastic deformation deformation in the plastic range is non-linear and is described by the stress-strain curve this response produces the observed properties of scratch and indentation hardness as described and measured in materials science some materials exhibit both elasticity and viscosity when undergoing plastic deformation this is called viscoelasticity
+they fracturesplit into two or more pieces
+strength is a measure of the extent of a material's elastic range or elastic and plastic ranges together this is quantified as compressive strength shear strength tensile strength depending on the direction of the forces involved ultimate strength is an engineering measure of the maximum load a part of a specific material and geometry can withstand
+brittleness in technical usage is the tendency of a material to fracture with very little or no detectable plastic deformation beforehand thus in technical terms a material can be both brittle and strong in everyday usage brittleness usually refers to the tendency to fracture under a small amount of force which exhibits both brittleness and a lack of strength (in the technical sense) for perfectly brittle materials yield strength and ultimate strength are the same because they do not experience detectable plastic deformation the opposite of brittleness is ductility
+the toughness of a material is the maximum amount of energy it can absorb before fracturing which is different from the amount of force that can be applied toughness tends to be small for brittle materials because elastic and plastic deformations allow materials to absorb large amounts of energy
+hardness increases with decreasing particle size this is known as the hall-petch relationship however below a critical grain-size hardness decreases with decreasing grain size this is known as the inverse hall-petch effect
+hardness of a material to deformation is dependent on its microdurability or small-scale shear modulus in any direction not to any rigidity or stiffness properties such as its bulk modulus or young's modulus stiffness is often confused for hardness some materials are stiffer than diamond (e.g osmium) but are not harder and are prone to spalling and flaking in squamose or acicular habits
+=== mechanisms and theoryedit ===
+the key to understanding the mechanism behind hardness is understanding the metallic microstructure or the structure and arrangement of the atoms at the atomic level in fact most important metallic properties critical to the manufacturing of todays goods are determined by the microstructure of a material at the atomic level the atoms in a metal are arranged in an orderly three-dimensional array called a crystal lattice in reality however a given specimen of a metal likely never contains a consistent single crystal lattice a given sample of metal will contain many grains with each grain having a fairly consistent array pattern at an even smaller scale each grain contains irregularities
+there are two types of irregularities at the grain level of the microstructure that are responsible for the hardness of the material these irregularities are point defects and line defects a point defect is an irregularity located at a single lattice site inside of the overall three-dimensional lattice of the grain there are three main point defects if there is an atom missing from the array a vacancy defect is formed if there is a different type of atom at the lattice site that should normally be occupied by a metal atom a substitutional defect is formed if there exists an atom in a site where there should normally not be an interstitial defect is formed this is possible because space exists between atoms in a crystal lattice while point defects are irregularities at a single site in the crystal lattice line defects are irregularities on a plane of atoms dislocations are a type of line defect involving the misalignment of these planes in the case of an edge dislocation a half plane of atoms is wedged between two planes of atoms in the case of a screw dislocation two planes of atoms are offset with a helical array running between them
+in glasses hardness seems to depend linearly on the number of topological constraints acting between the atoms of the network hence the rigidity theory has allowed predicting hardness values with respect to composition
+dislocations provide a mechanism for planes of atoms to slip and thus a method for plastic or permanent deformation planes of atoms can flip from one side of the dislocation to the other effectively allowing the dislocation to traverse through the material and the material to deform permanently the movement allowed by these dislocations causes a decrease in the material's hardness
+the way to inhibit the movement of planes of atoms and thus make them harder involves the interaction of dislocations with each other and interstitial atoms when a dislocation intersects with a second dislocation it can no longer traverse through the crystal lattice the intersection of dislocations creates an anchor point and does not allow the planes of atoms to continue to slip over one another a dislocation can also be anchored by the interaction with interstitial atoms if a dislocation comes in contact with two or more interstitial atoms the slip of the planes will again be disrupted the interstitial atoms create anchor points or pinning points in the same manner as intersecting dislocations
+by varying the presence of interstitial atoms and the density of dislocations a particular metal's hardness can be controlled although seemingly counter-intuitive as the density of dislocations increases there are more intersections created and consequently more anchor points similarly as more interstitial atoms are added more pinning points that impede the movements of dislocations are formed as a result the more anchor points added the harder the material will become
+== see alsoedit ==
+hardness comparison
+vickers hardness test
+brinell hardness test
+hardness of ceramics
+toughness
+schmidt hammer
+roll hardness tester
+tablet hardness testing
+persoz pendulum
+=== other strengthening mechanismsedit ===
+grain boundary strengthening
+precipitation hardening
+solid solution strengthening
+work hardening
+== referencesedit ==
+== further readingedit ==
+chinn r l (2009) hardness bearings and the rockwells advanced materials & processes 167 (10) 2931
+davis j r (ed.) (2002) surface hardening of steels understanding the basics materials park oh asm international
+dieter george e (1989) mechanical metallurgy si metric adaptation maidenhead uk mcgraw-hill education 0-07-100406-8
+malzbender j (2003) comment on hardness definitions. journal of the european ceramics society 23 (9) doi 10.1016/s0955-2219(02)00354-0
+revankar g (2003) introduction to hardness testing. mechanical testing and evaluation asm online vol 8
+== external linksedit ==
+an introduction to materials hardness
+guidelines to hardness testing
+testing the hardness of metals

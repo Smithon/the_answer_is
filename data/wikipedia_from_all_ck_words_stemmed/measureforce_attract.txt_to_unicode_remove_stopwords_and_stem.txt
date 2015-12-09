@@ -1,0 +1,93 @@
+mathemat specif topolog surfac twodimension topolog manifold familiar exampl aris boundari solid object ordinari threedimension euclidean space r sphere hand surfac klein bottl cannot embed threedimension euclidean space without introduc singular selfintersect
+say surfac twodimension mean point coordin patch twodimension coordin system defin exampl surfac earth ideal twodimension sphere latitud longitud provid twodimension coordin except pole along th meridian
+concept surfac find applic physic engin comput graphic mani disciplin primarili repres surfac physic object exampl analyz aerodynam properti airplan central consider flow air along surfac
+definit first exampl
+topolog surfac topolog space everi point open neighbourhood homeomorph open subset euclidean plane e neighborhood togeth correspond homeomorph known coordin chart chart neighborhood inherit standard coordin euclidean plane coordin known local coordin homeomorph lead us describ surfac local euclidean
+write subject often assum explicit implicit topolog space surfac also nonempti second countabl hausdorff also often assum surfac consider connect
+rest articl assum unless specifi otherwis surfac nonempti hausdorff second countabl connect
+general topolog surfac boundari hausdorff topolog space everi point open neighbourhood homeomorph open subset closur upper halfplan h c homeomorph also known coordin chart boundari upper halfplan xaxi point surfac map via chart xaxi term boundari point collect point known boundari surfac necessarili onemanifold union close curv hand point map xaxi interior point collect interior point interior surfac alway nonempti close disk simpl exampl surfac boundari boundari disc circl
+term surfac use without qualif refer surfac without boundari particular surfac empti boundari surfac usual sens surfac empti boundari compact known close surfac twodimension sphere twodimension torus real project plane exampl close surfac
+mbius strip surfac distinct clockwis counterclockwis defin local global general surfac said orient contain homeomorph copi mbius strip intuit two distinct side exampl sphere torus orient real project plane real project plane one point remov homeomorph open mbius strip
+differenti algebra geometri extra structur ad upon topolog surfac ad structur smooth structur make possibl defin differenti map surfac riemannian metric make possibl defin length angl surfac complex structur make possibl defin holomorph map surfac case surfac call riemann surfac algebra structur make possibl detect singular selfintersect cusp cannot describ sole term under topolog
+extrins defin surfac embed
+histor surfac initi defin subspac euclidean space often surfac locus zero certain function usual polynomi function definit consid surfac part larger euclidean space term extrins
+previous section surfac defin topolog space certain properti name hausdorff local euclidean topolog space consid subspac anoth space sens definit given definit mathematician use present intrins
+surfac defin intrins requir satisfi ad constraint subspac euclidean space may seem possibl surfac defin intrins surfac extrins sens howev whitney embed theorem assert everi surfac fact embed homeomorph euclidean space fact e extrins intrins approach turn equival
+fact compact surfac either orient boundari embed e hand real project plane compact nonorient without boundari cannot embed e see gramain steiner surfac includ boy surfac roman surfac crosscap model real project plane e boy surfac immers surfac model singular point intersect
+alexand horn sphere wellknown patholog embed twospher threespher
+chosen embed surfac anoth space regard extrins inform essenti surfac exampl torus embed e standard manner look like bagel knot manner see figur two embed tori homeomorph isotop topolog equival embed
+imag continu inject function r higherdimension rn said parametr surfac imag socal x y direct domain r variabl parametr imag parametr surfac need topolog surfac surfac revolut view special kind parametr surfac
+f smooth function r r whose gradient nowher zero locus zero f defin surfac known implicit surfac condit nonvanish gradient drop zero locus may develop singular
+construct polygon
+close surfac construct orient polygon even number side call fundament polygon surfac pairwis identif edg exampl polygon attach side match label b b arrow point direct yield indic surfac
+fundament polygon written symbol follow begin vertex proceed around perimet polygon either direct return start vertex travers record label edg order expon edg point opposit direct travers four model travers clockwis start upper left yield
+sphere
+real project plane
+torus
+klein bottl
+note sphere project plane realiz quotient gon torus klein bottl requir gon squar
+express thus deriv fundament polygon surfac turn sole relat present fundament group surfac polygon edg label generat consequ seifertvan kampen theorem
+glu edg polygon special kind quotient space process quotient concept appli greater general produc new altern construct surfac exampl real project plane obtain quotient sphere identifi pair opposit point sphere anoth exampl quotient connect sum
+connect sum
+connect sum two surfac m n denot m n obtain remov disk glu along boundari compon result boundari disk circl boundari compon circl euler characterist m n sum euler characterist summand minus two
+sphere ident element connect sum mean m m delet disk sphere leav disk simpli replac disk delet m upon glu
+connect summat torus also describ attach handl summand m m orient m connect sum associ connect sum finit collect surfac welldefin
+connect sum two real project plane p p klein bottl k connect sum real project plane klein bottl homeomorph connect sum real project plane torus formula p k p thus connect sum three real project plane homeomorph connect sum real project plane torus connect sum involv real project plane nonorient
+close surfac
+close surfac surfac compact without boundari exampl space like sphere torus klein bottl exampl nonclos surfac open disk sphere punctur cylind sphere two punctur mbius strip
+classif close surfac
+classif theorem close surfac state connect close surfac homeomorph member one three famili
+sphere
+connect sum g tori
+connect sum k real project plane
+surfac first two famili orient conveni combin two famili regard sphere connect sum tori number g tori involv call genus surfac sphere torus euler characterist respect general euler characterist connect sum g tori g
+surfac third famili nonorient euler characterist real project plane general euler characterist connect sum k k
+follow close surfac determin homeomorph two piec inform euler characterist whether orient word euler characterist orient complet classifi close surfac homeomorph
+close surfac multipl connect compon classifi class connect compon thus one general assum surfac connect
+monoid structur
+relat classif connect sum close surfac homeomorph form commut monoid oper connect sum inde manifold fix dimens ident sphere real project plane torus generat monoid singl relat p p p p may also written p k p sinc k p p relat sometim known dyck theorem walther von dyck prove dyck tripl cross surfac p p p accord call dyck surfac
+geometr connectsum torus add handl end attach side surfac connectsum klein bottl k add handl two end attach opposit side orient surfac presenc project plane p surfac orient notion side differ attach torus attach klein bottl explain relat
+surfac boundari
+compact surfac possibl boundari simpli close surfac finit number hole open disc remov thus connect compact surfac classifi number boundari compon genus correspond close surfac equival number boundari compon orient euler characterist genus compact surfac defin genus correspond close surfac
+classif follow almost immedi classif close surfac remov open disc close surfac yield compact surfac circl boundari compon remov k open disc yield compact surfac k disjoint circl boundari compon precis locat hole irrelev homeomorph group act ktransit connect manifold dimens least
+convers boundari compact surfac close manifold therefor disjoint union finit number circl fill circl disk formal take cone yield close surfac
+uniqu compact orient surfac genus g k boundari compon often denot exampl studi map class group
+riemann surfac
+close relat exampl classif compact manifold classif compact riemann surfac ie compact complex manifold note sphere torus complex manifold fact algebra varieti sinc everi complex manifold orient connect sum project plane complex manifold thus compact riemann surfac character topolog simpli genus genus count number hole manifold sphere genus onehol torus genus etc
+noncompact surfac
+noncompact surfac difficult classifi simpl exampl noncompact surfac obtain punctur remov finit set point close manifold hand open subset compact surfac noncompact surfac consid exampl complement cantor set sphere otherwis known cantor tree surfac howev everi noncompact surfac subset compact surfac two canon counterexampl jacob ladder loch ness monster noncompact surfac infinit genus
+noncompact surfac m nonempti space end em inform speak describ way surfac goe infin space em alway topolog equival close subspac cantor set m may finit countabl infinit number nh handl well finit countabl infinit number np project plane nh np finit two number topolog type space end classifi surfac m topolog equival either nh np infinit topolog type m depend two number also infinit one approach space end general th topolog type m determin four subspac em limit point infinit mani handl infinit mani project plane limit point handl limit point project plane limit point neither
+surfac even second countabl
+exist necessarili noncompact topolog surfac countabl base topolog perhap simplest exampl cartesian product long line space real number
+anoth surfac countabl base topolog requir axiom choic prove exist prfer manifold describ simpl equat show realanalyt surfac prfer manifold may thought upper half plane togeth one addit tongu tx hang direct point x real x
+tibor rad prove theorem noncompact riemann surfac ie onedimension complex manifold necessarili second countabl contrast exist prfer surfac show exist twodimension complex manifold necessarili dimension real manifold countabl base nrealdimension realanalyt manifold q extend ncomplexdimension complex manifold w contain q realanalyt submanifold
+proof
+classif close surfac known sinc today number proof exist
+topolog combinatori proof general reli difficult result everi compact manifold homeomorph simplici complex interest right common proof classif seifert threlfal bring everi triangul surfac standard form simplifi proof avoid standard form discov john h conway circa call zero irrelev proof zip proof present franci week
+geometr proof yield stronger geometr result uniform theorem origin proven riemann surfac felix klein paul koeb henri poincar
+surfac geometri
+polyhedra boundari cube among first surfac encount geometri also possibl defin smooth surfac point neighborhood diffeomorph open set e elabor allow calculus appli surfac prove mani result
+two smooth surfac diffeomorph homeomorph analog result hold higherdimension manifold thus close surfac classifi diffeomorph euler characterist orient
+smooth surfac equip riemannian metric foundat import differenti geometri riemannian metric endow surfac notion geodes distanc angl area also give rise gaussian curvatur describ curv bent surfac point curvatur rigid geometr properti preserv general diffeomorph surfac howev famous gaussbonnet theorem close surfac state integr gaussian curvatur k entir surfac determin euler characterist
+result exemplifi deep relationship geometri topolog surfac lesser extent higherdimension manifold
+anoth way surfac aris geometri pass complex domain complex onemanifold smooth orient surfac also call riemann surfac complex nonsingular algebra curv view complex manifold riemann surfac
+everi close orient surfac admit complex structur complex structur close orient surfac correspond conform equival class riemannian metric surfac one version uniform theorem due poincar state riemannian metric orient close surfac conform equival essenti uniqu metric constant curvatur provid start point one approach teichmller theori provid finer classif riemann surfac topolog one euler characterist alon
+complex surfac complex twomanifold thus real fourmanifold surfac sens articl neither algebra curv defin field complex number algebra surfac defin field real number
+see also
+surfac area
+volum form volum surfac en
+poincar metric metric properti riemann surfac
+area element area differenti element surfac
+roman surfac
+boy surfac
+tetrahemihexahedron
+perimet
+note
+refer
+extern link
+classif surfac jordan curv theorem home page andrew ranicki
+math surfac galleri surfac java applet live rotat view
+math surfac anim javascript canva html ten surfac rotat view
+classif surfac lectur note zfiedorowicz
+histori art surfac mathemat model
+manifold manifold atlas

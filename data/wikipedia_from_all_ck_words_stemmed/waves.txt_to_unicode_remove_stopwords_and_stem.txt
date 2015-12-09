@@ -1,0 +1,150 @@
+physic wave oscil accompani transfer energi travel space mass frequenc refer addit time wave motion transfer energi one point anoth may may displac particl transmiss mediumthat littl associ mass transport wave consist instead oscil vibrat physic quantiti around almost fix locat
+two main type wave mechan wave propag medium substanc medium deform deform revers owe restor forc result deform exampl sound wave propag via air molecul collid neighbor air molecul collid also bounc away restor forc keep molecul continu travel direct wave
+second main type wave electromagnet wave requir medium instead consist period oscil electr magnet field generat charg particl therefor travel vacuum type wave vari wavelength includ radio wave microwav infrar radiat visibl light ultraviolet radiat xray gamma ray
+wave describ wave equat set disturb proceed time mathemat form equat vari depend type wave behavior particl quantum mechan describ wave addit gravit wave also travel space result vibrat movement gravit field
+wave transvers longitudin transvers wave occur disturb creat oscil perpendicular propag energi transfer longitudin wave occur oscil parallel direct energi propag mechan wave transvers longitudin electromagnet wave transvers free space
+general featur
+singl allencompass definit term wave straightforward vibrat defin backandforth motion around refer valu howev vibrat necessarili wave attempt defin necessari suffici characterist qualifi phenomenon call wave result fuzzi border line
+term wave often intuit understood refer transport spatial disturb general accompani motion medium occupi space whole wave energi vibrat move away sourc form disturb within surround medium hall p howev motion problemat stand wave exampl wave string energi move direct equal electromagnet eg light wave vacuum concept medium appli interact target key wave detect practic applic water wave ocean surfac gamma wave light wave emit sun microwav use microwav oven radar equip radio wave broadcast radio station sound wave generat radio receiv telephon handset live creatur voic mention wave phenomena
+may appear descript wave close relat physic origin specif instanc wave process exampl acoust distinguish optic sound wave relat mechan rather electromagnet wave transfer caus vibrat concept mass momentum inertia elast becom therefor crucial describ acoust distinct optic wave process differ origin introduc certain wave characterist particular properti medium involv exampl case air vortic radiat pressur shock wave etc case solid rayleigh wave dispers
+properti howev although usual describ term origin may general wave reason wave theori repres particular branch physic concern properti wave process independ physic origin exampl base mechan origin acoust wave move disturb spacetim exist medium involv neither infinit stiff infinit pliabl part make medium rigid bound would vibrat one delay transmiss vibrat therefor wave motion hand part independ would transmiss vibrat wave motion although statement meaningless case wave requir medium reveal characterist relev wave regardless origin within wave phase vibrat posit within vibrat cycl differ adjac point space vibrat reach point differ time
+mathemat descript onedimension wave
+wave equat
+consid travel transvers wave may puls string medium consid string singl spatial dimens consid wave travel
+direct space eg let posit direct right negat direct left
+constant amplitud
+constant veloc
+independ wavelength dispers
+independ amplitud linear media nonlinear
+constant waveform shape
+wave describ twodimension function
+waveform travel right
+waveform travel left
+general dalembert formula
+repres two compon waveform travel medium opposit direct general represent wave obtain partial differenti equat
+general solut base upon duhamel principl
+wave form
+form shape f dalembert formula involv argument x vt constant valu argument correspond constant valu f constant valu occur x increas rate vt increas wave shape like function f move posit xdirect veloc v g propag speed negat xdirect
+case period function f period fx vt fx vt period f space mean snapshot wave given time find wave vari period space period wavelength wave similar fashion period f impli period time well fx vt fx vt provid vt observ wave fix locat x find wave undul period time period v
+amplitud modul
+amplitud wave may constant case wave cw continu wave may modul vari time andor posit outlin variat amplitud call envelop wave mathemat modul wave written form
+amplitud envelop wave wavenumb phase group veloc see wavelengthindepend equat simplifi
+show envelop move group veloc retain shape otherwis case group veloc vari wavelength puls shape chang manner often describ use envelop equat
+phase veloc group veloc
+two veloc associ wave phase veloc group veloc understand one must consid sever type waveform simplif examin restrict one dimens
+basic wave form plane wave may express form
+relat usual sine cosin form use euler formula rewrit argument make clear express describ vibrat wavelength travel xdirect constant phase veloc
+type wave consid one local structur describ envelop may express mathemat exampl
+ak integr invers fourier transform ak function exhibit sharp peak region wave vector k surround point k k exponenti form
+ao magnitud exampl common choic ao gaussian wave packet
+determin spread kvalu k n amplitud wave
+exponenti function insid integr oscil rapid argument say k vari rapid exponenti cancel interfer destruct contribut littl howev except occur locat argument exponenti vari slowli observ basi method stationari phase evalu integr condit vari slowli rate chang k small rate variat
+evalu made k k ak center result show posit x phase chang slowli posit appreci move time speed call group veloc
+group veloc therefor depend upon dispers relat connect k exampl quantum mechan energi particl repres wave packet e km consequ wave situat group veloc
+show veloc local particl quantum mechan group veloc group veloc vari k shape wave packet broaden time particl becom less local word veloc constitu wave wave packet travel rate vari wavelength move faster other cannot maintain interfer pattern wave propag
+sinusoid wave
+mathemat basic wave spatial onedimension sine wave harmon wave sinusoid amplitud describ equat
+maximum amplitud wave maximum distanc highest point disturb medium crest equilibrium point one wave cycl illustr right maximum vertic distanc baselin wave
+space coordin
+time coordin
+wavenumb
+angular frequenc
+phase constant
+unit amplitud depend type wave transvers mechan wave eg wave string amplitud express distanc eg meter longitudin mechan wave eg sound wave use unit pressur eg pascal electromagnet wave form transvers vacuum wave express amplitud term electr field eg voltsmet
+wavelength distanc two sequenti crest trough equival point general measur meter wavenumb spatial frequenc wave radian per unit distanc typic per meter associ wavelength relat
+period time one complet cycl oscil wave frequenc number period per unit time per second typic measur hertz relat
+word frequenc period wave reciproc
+angular frequenc repres frequenc radian per second relat frequenc period
+wavelength sinusoid waveform travel constant speed given
+call phase speed magnitud phase veloc wave wave frequenc
+wavelength use concept even wave period space exampl ocean wave approach shore incom wave undul vari local wavelength depend part depth sea floor compar wave height analysi wave base upon comparison local wavelength local water depth
+although arbitrari wave shape propag unchang lossless linear timeinvari system presenc dispers sine wave uniqu shape propag unchang phase amplitud make easi analyz due kramerskronig relat linear medium dispers also exhibit loss sine wave propag dispers medium attenu certain frequenc rang depend upon medium sine function period sine wave sinusoid wavelength space period time
+sinusoid defin time distanc wherea physic situat usual deal wave exist limit span space durat time fortun arbitrari wave shape decompos infinit set sinusoid wave use fourier analysi result simpl case singl sinusoid wave appli general case particular mani media linear near calcul arbitrari wave behavior found ad respons individu sinusoid wave use superposit principl find solut general waveform medium nonlinear respons complex wave cannot determin sinewav decomposit
+plane wave
+stand wave
+stand wave also known stationari wave wave remain constant posit phenomenon occur medium move opposit direct wave aris stationari medium result interfer two wave travel opposit direct
+sum two counterpropag wave equal amplitud frequenc creat stand wave stand wave common aris boundari block propag wave thus caus wave reflect therefor introduc counterpropag wave exampl violin string displac transvers wave propag string held place bridg nut wave reflect back bridg nut two oppos wave antiphas cancel produc node halfway two node antinod two counterpropag wave enhanc maxim net propag energi time
+physic properti
+wave exhibit common behavior number standard situat e g
+transmiss media
+wave normal move straight line ie rectilinear transmiss medium media classifi one follow categori
+bound medium finit extent otherwis unbound medium
+linear medium amplitud differ wave particular point medium ad
+uniform medium homogen medium physic properti unchang differ locat space
+anisotrop medium one physic properti differ one direct
+isotrop medium physic properti direct
+absorpt
+absorpt wave mean kind wave strike matter absorb matter wave natur frequenc imping upon atom electron atom set vibrat motion wave given frequenc strike materi electron vibrat frequenc electron absorb energi wave transform vibrat motion
+reflect
+wave strike reflect surfac chang direct angl made incid wave line normal surfac equal angl made reflect wave normal line
+interfer
+wave encount combin superposit creat new wave call interfer pattern import interfer pattern occur wave phase
+refract
+refract phenomenon wave chang speed mathemat mean size phase veloc chang typic refract occur wave pass one medium anoth amount wave refract materi given refract index materi direct incid refract relat refract indic two materi snell law
+diffract
+wave exhibit diffract encount obstacl bend wave spread emerg open diffract effect pronounc size obstacl open compar wavelength wave
+polar
+wave polar oscil one direct plane wave polar use polar filter polar transvers wave describ direct oscil plane perpendicular direct travel
+longitudin wave sound wave exhibit polar wave direct oscil along direct travel
+dispers
+wave undergo dispers either phase veloc group veloc depend wave frequenc dispers easili seen let white light pass prism result produc spectrum colour rainbow isaac newton perform experi light prism present find optick white light consist sever colour colour cannot decompos
+mechan wave
+wave string
+speed transvers wave travel along vibrat string v direct proport squar root tension string linear mass densiti
+linear densiti mass per unit length string
+acoust wave
+acoust sound wave travel speed given
+squar root adiabat bulk modulus divid ambient fluid densiti see speed sound
+water wave
+rippl surfac pond actual combin transvers longitudin wave therefor point surfac follow orbit path
+sounda mechan wave propag gase liquid solid plasma
+inerti wave occur rotat fluid restor corioli effect
+ocean surfac wave perturb propag water
+seismic wave
+shock wave
+wave traffic propag differ densiti motor vehicl forth model kinemat wave
+metachron wave refer appear travel wave produc coordin sequenti action
+worth note massenergi equival equat solv form
+electromagnet wave
+radio micro infrar visibl uv
+electromagnet wave consist two wave oscil electr magnet field electromagnet wave travel direct right angl oscil direct field th centuri jame clerk maxwel show vacuum electr magnet field satisfi wave equat speed equal speed light emerg idea light electromagnet wave electromagnet wave differ frequenc thus wavelength give rise various type radiat radio wave microwav infrar visibl light ultraviolet xray
+quantum mechan wave
+schrdinger equat describ wavelik behavior particl quantum mechan solut equat wave function use describ probabl densiti particl
+de brogli wave
+loui de brogli postul particl momentum wavelength
+h planck constant p magnitud momentum particl hypothesi basi quantum mechan nowaday wavelength call de brogli wavelength exampl electron crt display de brogli wavelength m
+wave repres particl travel kdirect express wave function follow
+wavelength determin wave vector k
+momentum
+howev wave like definit wavelength local space cannot repres particl local space local particl de brogli propos superposit differ wavelength rang around central valu wave packet waveform often use quantum mechan describ wave function particl wave packet wavelength particl precis local wavelength deviat either side main wavelength valu
+repres wave function local particl wave packet often taken gaussian shape call gaussian wave packet gaussian wave packet also use analyz water wave
+exampl gaussian wavefunct might take form
+initi time central wavelength relat central wave vector k k well known theori fourier analysi heisenberg uncertainti principl case quantum mechan narrow rang wavelength necessari produc local wave packet local envelop larger spread requir wavelength fourier transform gaussian gaussian given gaussian
+fourier transform
+gaussian space therefor made wave
+number wave wavelength k
+paramet decid spatial spread gaussian along xaxi fourier transform show spread wave vector k determin smaller extent space larger extent k henc k
+graviti wave
+graviti wave wave generat fluid medium interfac two media forc graviti buoyanc tri restor equilibrium rippl pond one exampl
+gravit wave
+research believ gravit wave also travel space although gravit wave never direct detect gravit wave disturb curvatur spacetim predict einstein theori general relat
+wkb method
+nonuniform medium wavenumb k depend locat well frequenc phase term kx typic replac integr kxdx accord wkb method nonuniform travel wave common mani physic problem includ mechan cochlea wave hang rope
+see also
+refer
+sourc
+extern link
+interact visual represent wave
+linear nonlinear wave
+scienc aid wave propertiesconcis guid aim teen
+easi javascript simul model one dimension wave interfer
+simul diffract water wave pass gap
+simul interfer water wave
+simul longitudin travel wave
+simul stationari wave string
+simul transvers travel wave
+sound amazinga alevel learn resourc sound wave
+chapter onlin textbook
+simul wave string
+longitudin transvers mechan wave
+mit opencoursewar vibrat wave free independ studi cours video lectur assign lectur note exam

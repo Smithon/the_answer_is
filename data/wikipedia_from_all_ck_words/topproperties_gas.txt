@@ -1,0 +1,121 @@
+subtraction is a mathematical operation that represents the operation of removing objects from a collection it is signified by the minus sign () for example in the picture on the right there are 5 2 applesmeaning 5 apples with 2 taken away which is a total of 3 apples therefore 5 2 = 3 besides counting fruits subtraction can also represent combining other physical and abstract quantities using different kinds of objects including negative numbers fractions irrational numbers vectors decimals functions and matrices
+subtraction follows several important patterns it is anticommutative meaning that changing the order changes the sign of the answer it is not associative meaning that when one subtracts more than two numbers the order in which subtraction is performed matters subtraction of 0 does not change a number subtraction also obeys predictable rules concerning related operations such as addition and multiplication all of these rules can be proven starting with the subtraction of integers and generalizing up through the real numbers and beyond general binary operations that continue these patterns are studied in abstract algebra
+performing subtraction is one of the simplest numerical tasks subtraction of very small numbers is accessible to young children in primary education students are taught to subtract numbers in the decimal system starting with single digits and progressively tackling more difficult problems
+== notation and terminology ==
+subtraction is written using the minus sign  between the terms that is in infix notation the result is expressed with an equals sign for example
+(verbally two minus one equals one")
+(verbally four minus two equals two")
+(verbally six minus three equals three")
+(verbally four minus six equals negative two")
+there are also situations where subtraction is understood even though no symbol appears
+a column of two numbers with the lower number in red usually indicates that the lower number in the column is to be subtracted with the difference written below under a line this is most common in accounting
+formally the number being subtracted is known as the subtrahend while the number it is subtracted from is the minuend the result is the difference
+all of this terminology derives from latin subtraction is an english word derived from the latin verb subtrahere which is in turn a compound of sub from under and trahere to pull thus to subtract is to draw from below take away using the gerundive suffix -nd results in subtrahend thing to be subtracted likewise from minuere to reduce or diminish one gets minuend thing to be diminished
+== of integers and real numbers ==
+=== integers ===
+imagine a line segment of length b with the left end labeled a and the right end labeled c starting from a it takes b steps to the right to reach c this movement to the right is modeled mathematically by addition
+a + b = c
+from c it takes b steps to the left to get back to a this movement to the left is modeled by subtraction
+c b = a
+now a line segment labeled with the numbers 1 2 and 3 from position 3 it takes no steps to the left to stay at 3 so 3 0 = 3 it takes 2 steps to the left to get to position 1 so 3 2 = 1 this picture is inadequate to describe what would happen after going 3 steps to the left of position 3 to represent such an operation the line must be extended
+to subtract arbitrary natural numbers one begins with a line containing every natural number (0 1 2 3 4 5 6 ) from 3 it takes 3 steps to the left to get to 0 so 3 3 = 0 but 3 4 is still invalid since it again leaves the line the natural numbers are not a useful context for subtraction
+the solution is to consider the integer number line (... 3 2 1 0 1 2 3 ) from 3 it takes 4 steps to the left to get to 1
+3 4 = 1
+=== natural numbers ===
+subtraction of natural numbers is not closed the difference is not a natural number unless the minuend is greater than or equal to the subtrahend for example 26 cannot be subtracted from 11 to give a natural number such a case uses one of two approaches
+say that 26 cannot be subtracted from 11 subtraction becomes a partial function
+give the answer as an integer representing a negative number so the result of subtracting 26 from 11 is
+=== real numbers ===
+subtraction of real numbers is defined as addition of signed numbers specifically a number is subtracted by adding its additive inverse then we have 3 = 3 + () this helps to keep the ring of real numbers simple by avoiding the introduction of new operators such as subtraction ordinarily a ring only has two operations defined on it in the case of the integers these are addition and multiplication a ring already has the concept of additive inverses but it does not have any notion of a separate subtraction operation so the use of signed addition as subtraction allows us to apply the ring axioms to subtraction without needing to prove anything
+== properties ==
+=== anticommutativity ===
+subtraction is anti-commutative meaning that if one reverses the terms in a difference left-to-right the result is the negative of the original result symbolically if a and b are any two numbers then
+a b = (b a)
+=== non-associativity ===
+subtraction is non-associative which comes up when one tries to define repeated subtraction should the expression
+a b c
+be defined to mean (a b) c or a (b c) these two possibilities give different answers to resolve this issue one must establish an order of operations with different orders giving different results
+=== predecessor ===
+in the context of integers subtraction of one also plays a special role for any integer a the integer (a 1) is the largest integer less than a also known as the predecessor of a
+== units of measurement ==
+when subtracting two numbers with units of measurement such as kilograms or pounds they must have the same unit in most cases the difference will have the same unit as the original numbers
+=== percentages ===
+changes in percentages can be reported in at least two forms percentage change and percentage point change percentage change represents the relative change between the two quantities as a percentage while percentage point change is simply the number obtained by subtracting the two percentages
+as an example suppose that 30% of widgets made in a factory are defective six months later 20% of widgets are defective the percentage change is -33 1/3% while the percentage point change is -10 percentage points
+== in computing ==
+the method of complements is a technique used to subtract one number from another using only addition of positive numbers this method was commonly used in mechanical calculators and is still used in modern computers
+to subtract a binary number y (the subtrahend) from another number x (the minuend) the ones complement of y is added to x and one is added to the sum the leading digit 1 of the result is then discarded
+the method of complements is especially useful in binary (radix 2) since the ones complement is very easily obtained by inverting each bit (changing 0 to 1 and vice versa) and adding 1 to get the two's complement can be done by simulating a carry into the least significant bit for example
+01100100 (x equals decimal 100)
+- 00010110 (y equals decimal 22)
+becomes the sum
+01100100 (x)
++ 11101001 (ones complement of y)
++ 1 (to get the two's complement)
+101001110
+dropping the initial 1 gives the answer 01001110 (equals decimal 78)
+== the teaching of subtraction in schools ==
+methods used to teach subtraction to elementary school vary from country to country and within a country different methods are in fashion at different times in what is in the u.s. called traditional mathematics a specific process is taught to students at the end of the 1st year or during the 2nd year for use with multi-digit whole numbers and is extended in either the fourth or fifth grade to include decimal representations of fractional numbers
+=== in america ===
+almost all american schools currently teach a method of subtraction using borrowing or regrouping (the decomposition algorithm) and a system of markings called crutches although a method of borrowing had been known and published in textbooks previously the use of crutches in american schools spread after william a brownell published a study claiming that crutches were beneficial to students using this method this system caught on rapidly displacing the other methods of subtraction in use in america at that time
+=== in europe ===
+some european schools employ a method of subtraction called the austrian method also known as the additions method there is no borrowing in this method there are also crutches (markings to aid memory) which vary by country
+=== comparing the two main methods ===
+both these methods break up the subtraction as a process of one digit subtractions by place value starting with a least significant digit a subtraction of subtrahend
+sj sj1  s1
+from minuend
+mk mk1  m1
+where each si and mi is a digit proceeds by writing down m1 s1 m2 s2 and so forth as long as si does not exceed mi otherwise mi is increased by 10 and some other digit is modified to correct for this increase the american method corrects by attempting to decrease the minuend digit mi+1 by one (or continuing the borrow leftwards until there is a non-zero digit from which to borrow) the european method corrects by increasing the subtrahend digit si+1 by one
+example 704 512
+the minuend is 704 the subtrahend is 512 the minuend digits are m3 = 7 m2 = 0 and m1 = 4 the subtrahend digits are s3 = 5 s2 = 1 and s1 = 2 beginning at the one's place 4 is not less than 2 so the difference 2 is written down in the result's one place in the ten's place 0 is less than 1 so the 0 is increased by 10 and the difference with 1 which is 9 is written down in the ten's place the american method corrects for the increase of ten by reducing the digit in the minuend's hundreds place by one that is the 7 is struck through and replaced by a 6 the subtraction then proceeds in the hundreds place where 6 is not less than 5 so the difference is written down in the result's hundred's place we are now done the result is 192
+the austrian method does not reduce the 7 to 6 rather it increases the subtrahend hundred's digit by one a small mark is made near or below this digit (depending on the school) then the subtraction proceeds by asking what number when increased by 1 and 5 is added to it makes 7 the answer is 1 and is written down in the result's hundred's place
+there is an additional subtlety in that the student always employs a mental subtraction table in the american method the austrian method often encourages the student to mentally use the addition table in reverse in the example above rather than adding 1 to 5 getting 6 and subtracting that from 7 the student is asked to consider what number when increased by 1 and 5 is added to it makes 7
+== subtraction by hand ==
+=== austrian method ===
+example
+=== subtraction from left to right ===
+example
+=== american method ===
+in this method each digit of the subtrahend is subtracted from the digit above it starting from right to left if the top number is too small to subtract the bottom number from it we add 10 to it this 10 is borrowed from the top digit to the left which we subtract 1 from then we move on to subtracting the next digit and borrowing as needed until every digit has been subtracted example
+=== trade first ===
+a variant of the american method where all borrowing is done before all subtraction
+example
+=== partial differences ===
+the partial differences method is different from other vertical subtraction methods because no borrowing or carrying takes place in their place one places plus or minus signs depending on whether the minuend is greater or smaller than the subtrahend the sum of the partial differences is the total difference
+example
+=== nonvertical methods ===
+==== counting up ====
+instead of finding the difference digit by digit one can count up the numbers between the subtrahend and the minuend
+example
+1234 567 = can be found by the following steps
+567 + 3 = 570
+570 + 30 = 600
+600 + 400 = 1000
+1000 + 234 = 1234
+add up the value from each step to get the total difference 3 + 30 + 400 + 234 = 667
+==== breaking up the subtraction ====
+another method that is useful for mental arithmetic is to split up the subtraction into small steps
+example
+1234 567 = can be solved in the following way
+1234 500 = 734
+734 60 = 674
+674 7 = 667
+==== same change ====
+the same change method uses the fact that adding or subtracting the same number from the minuend and subtrahend does not change the answer one adds the amount needed to get zeros in the subtrahend
+example
+1234 567 = can be solved as follows
+1234 567 = 1237 570 = 1267 600 = 667
+== see also ==
+decrement
+elementary arithmetic
+method of complements
+negative number
+== references ==
+== bibliography ==
+brownell w a (1939) learning as reorganization an experimental study in third-grade arithmetic duke university press
+subtraction in the united states an historical perspective susan ross mary pratt-cotter the mathematics educator vol 8 no 1 (original publication) and vol 10 no 1 (reprint.) pdf
+== external links ==
+hazewinkel michiel ed (2001) subtraction encyclopedia of mathematics springer isbn 978-1-55608-010-4
+printable worksheets subtraction worksheets one digit subtraction two digit subtraction and four digit subtraction
+subtraction game at cut-the-knot
+subtraction on a japanese abacus selected from abacus mystery of the bead

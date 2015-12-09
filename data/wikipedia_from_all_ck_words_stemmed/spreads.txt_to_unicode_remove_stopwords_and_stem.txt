@@ -1,0 +1,88 @@
+mathemat especi elementari arithmet divis denot arithmet oper specif b time c equal written
+b c
+b zero divid b equal c written
+instanc
+sinc
+express call dividend b call divisor c call quotient express also call numer b also call denomin
+conceptu divis integ view either two distinct relat way quotit partit
+partit involv take set size form b group equal size size group form c quotient b
+quotit quotat divis also sometim spell quotit involv take set size form group size b number group size form c quotient b divis give result multipl commut
+teach divis usual lead concept fraction introduc school pupil unlik addit subtract multipl set integ close divis divid two integ may result remaind complet divis remaind number system extend includ fraction ration number general call
+notationedit
+divis often shown algebra scienc place dividend divisor horizont line also call fraction bar exampl divid b written
+read loud divid b b b way express divis one line write dividend numer slash divisor denomin like
+usual way specifi divis comput program languag sinc easili type simpl sequenc ascii charact mathemat softwar gnu octav allow operand written revers order use backslash divis oper
+typograph variat halfway two form use solidus fraction slash elev dividend lower divisor
+ab
+form use display fraction fraction divis express dividend divisor integ typic call numer denomin implic divis must evalu second way show divis use obelus divis sign common arithmet manner
+form infrequ except elementari arithmet iso state use obelus also use alon repres divis oper instanc label key calcul
+nonenglishspeak cultur divid b written b notat introduc william oughtr clavi mathematica later popular gottfri wilhelm leibniz howev english usag colon restrict express relat concept ratio b
+elementari class countri notat use denot divid b especi discuss long divis similar less common short divis shown exampl page notat first introduc michael stifel arithmetica integra publish
+computingedit
+manual methodsedit
+divis often introduc notion share set object exampl pile sweet number equal portion distribut object sever time round share portion lead idea chunk ie divis repeat subtract
+systemat effici also formalis rulebas remov overal holist pictur divis achiev person know multipl tabl divid two integ use pencil paper use method short divis divisor simpl long divis use larger integ divisor dividend fraction part express decim fraction one continu algorithm past one place far desir divisor fraction part restat problem move decim right number divisor fraction
+person calcul divis abacus repeat place dividend abacus subtract divisor offset digit result count number divis possibl offset
+person use logarithm tabl divid two number subtract two number logarithm look antilogarithm result
+person calcul divis slide rule align divisor c scale dividend d scale quotient found d scale align left index c scale user respons howev mental keep track decim point
+comput comput assistanceedit
+modern comput comput divis method faster long divis see divis algorithm
+modular arithmet number multipl invers respect modulus calcul divis multipl case approach use comput fast divis instruct
+propertiesedit
+divis rightdistribut addit subtract mean
+way multipl divis leftdistribut ie
+unlik multipl
+euclidean divisionedit
+euclidean divis mathemat formul outcom usual process divis integ assert given two integ dividend b divisor b uniqu integ q quotient r remaind bq r r b b denot absolut valu b
+integersedit
+divis integ close apart divis zero undefin quotient integ unless dividend integ multipl divisor exampl cannot divid give integ case use one five approach
+say cannot divid divis becom partial function
+give approxim answer decim fraction mix number approach usual taken numer comput
+give answer fraction repres ration number result divis usual result fraction simplifi result divis also simplif may done factor greatest common divisor
+give answer integ quotient remaind make distinct previous case divis two integ result sometim call euclidean divis basi euclidean algorithm
+give integ quotient answer sometim call integ divis
+divid integ comput program requir special care program languag c treat integ divis case answer integ languag matlab everi comput algebra system return ration number answer case languag also provid function get result case either direct result case
+name symbol use integ divis includ div definit vari regard integ divis dividend divisor negat round may toward zero call tdivis toward fdivis rarer style occur see modulo oper detail
+divis rule sometim use quick determin whether one integ divid exact anoth
+ration numbersedit
+result divid two ration number anoth ration number divisor divis two ration number pq rs defin
+four quantiti integ p may definit ensur divis invers oper multipl
+real numbersedit
+divis two real number result anoth real number divisor defin ab c cb b
+zeroedit
+divis number zero divisor zero undefin zero multipli finit number alway result product zero entri express calcul produc error messag
+complex numbersedit
+divid two complex number result anoth complex number divisor defin
+four quantiti p q r real number r may
+divis complex number express polar form simpler definit
+four quantiti p q r real number r may
+polynomialsedit
+one defin divis oper polynomi one variabl field case integ one remaind see euclidean divis polynomi handwritten comput polynomi long divis synthet divis
+matricesedit
+one defin divis oper matric usual way defin b ab b denot invers b far common write ab explicit avoid confus
+left right divisionedit
+matrix multipl commut one also defin left divis socal backslashdivis b ab well defin b need exist howev need exist avoid confus divis defin b ab sometim call right divis slashdivis context
+note left right divis defin way abc general abc abc abc abc acb abc bac
+pseudoinverseedit
+avoid problem andor b exist divis also defin multipl pseudoinvers ie b ab b ab b denot pseudoinvers b
+abstract algebraedit
+abstract algebra matrix algebra quaternion algebra fraction typic defin presum invert element ie exist multipl invers multipl ident integr domain element may exist divis still perform equat form left right cancel respect general divis sens cancel done ring aforement cancel properti ring finit applic pigeonhol principl everi nonzero element ring invert divis nonzero element possibl ring learn algebra technic sens divis oper refer page divis algebra particular bott period use show real norm divis algebra must isomorph either real number r complex number c quaternion h octonion o
+calculusedit
+deriv quotient two function given quotient rule
+see alsoedit
+ad sunzi divis algorithm
+divis two
+field
+fraction mathemat
+galley divis
+group
+invers element
+order oper
+quasigroup left divis
+repeat decim
+referencesedit
+extern linksedit
+divis planetmathorg
+divis japanes abacus select abacus mysteri bead
+chines short divis techniqu suan pan
+rule divis

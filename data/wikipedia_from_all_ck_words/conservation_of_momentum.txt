@@ -1,0 +1,165 @@
+in classical mechanics linear momentum or translational momentum (pl momenta si unit kg m/s or equivalently n s) is the product of the mass and velocity of an object for example a heavy truck moving rapidly has a large momentumit takes a large or prolonged force to get the truck up to this speed and it takes a large or prolonged force to bring it to a stop afterwards if the truck were lighter or moving more slowly then it would have less momentum
+like velocity linear momentum is a vector quantity possessing a direction as well as a magnitude
+where p is the three-dimensional vector stating the object's momentum in the three directions of three-dimensional space v is the three-dimensional velocity vector giving the object's rate of movement in each direction and m is the object's mass
+linear momentum is also a conserved quantity meaning that if a closed system is not affected by external forces its total linear momentum cannot change
+in classical mechanics conservation of linear momentum is implied by newton's laws it also holds in special relativity (with a modified formula) and with appropriate definitions a (generalized) linear momentum conservation law holds in electrodynamics quantum mechanics quantum field theory and general relativity it is ultimately an expression of one of the fundamental symmetries of space and time that of translational symmetry
+== newtonian mechanics ==
+momentum has a direction as well as magnitude quantities that have both a magnitude and a direction are known as vector quantities because momentum has a direction it can be used to predict the resulting direction of objects after they collide as well as their speeds below the basic properties of momentum are described in one dimension the vector equations are almost identical to the scalar equations (see multiple dimensions)
+=== single particle ===
+the momentum of a particle is traditionally represented by the letter p it is the product of two quantities the mass (represented by the letter m) and velocity (v)
+the units of momentum are the product of the units of mass and velocity in si units if the mass is in kilograms and the velocity in meters per second then the momentum is in kilogram meters/second (kg m/s) an equivalent derived unit is the newton second (1 n s = 1 kg m/s) in cgs units if the mass is in grams and the velocity in centimeters per second then the momentum is in gram centimeters/second (g cm/s) or dyne seconds (1 dyne s = 1 g m/s)
+being a vector momentum has magnitude and direction for example a 1 kg model airplane traveling due north at 1 m/s in straight and level flight has a momentum of 1 kg m/s due north measured from the ground
+=== many particles ===
+the momentum of a system of particles is the sum of their momenta if two particles have masses m1 and m2 and velocities v1 and v2 the total momentum is
+the momenta of more than two particles can be added in the same way
+a system of particles has a center of mass a point determined by the weighted sum of their positions
+if all the particles are moving the center of mass will generally be moving as well (unless the system is in pure rotation around it) if the center of mass is moving at velocity vcm the momentum is
+this is known as euler's first law
+=== relation to force ===
+if a force f is applied to a particle for a time interval t the momentum of the particle changes by an amount
+in differential form this is newton's second law the rate of change of the momentum of a particle is proportional to the force f acting on it
+if the force depends on time the change in momentum (or impulse) between times t1 and t2 is
+under the assumption of constant mass m it is equivalent to write
+so the force is equal to mass times acceleration
+example a model airplane of 1 kg accelerates from rest to a velocity of 6 m/s due north in 2 s the net force required to produce this acceleration is 3 newtons due north the change in momentum is 6 kg m/s the rate of change of momentum is 3 (kgm/s)/s = 3 n
+=== conservation ===
+in a closed system (one that does not exchange any matter with its surroundings and is not acted on by external forces) the total momentum is constant this fact known as the law of conservation of momentum is implied by newton's laws of motion suppose for example that two particles interact because of the third law the forces between them are equal and opposite if the particles are numbered 1 and 2 the second law states that f1 = dp1/dt and f2 = dp2/dt therefore
+with the negative sign indicating that the forces oppose equivalently
+if the velocities of the particles are u1 and u2 before the interaction and afterwards they are v1 and v2 then
+this law holds no matter how complicated the force is between particles similarly if there are several particles the momentum exchanged between each pair of particles adds up to zero so the total change in momentum is zero this conservation law applies to all interactions including collisions and separations caused by explosive forces it can also be generalized to situations where newton's laws do not hold for example in the theory of relativity and in electrodynamics
+=== dependence on reference frame ===
+momentum is a measurable quantity and the measurement depends on the motion of the observer for example if an apple is sitting in a glass elevator that is descending an outside observer looking into the elevator sees the apple moving so to that observer the apple has a non-zero momentum to someone inside the elevator the apple does not move so it has zero momentum the two observers each have a frame of reference in which they observe motions and if the elevator is descending steadily they will see behavior that is consistent with those same physical laws
+suppose a particle has position x in a stationary frame of reference from the point of view of another frame of reference moving at a uniform speed u the position (represented by a primed coordinate) changes with time as
+this is called a galilean transformation if the particle is moving at speed dx/dt = v in the first frame of reference in the second it is moving at speed
+since u does not change the accelerations are the same
+thus momentum is conserved in both reference frames moreover as long as the force has the same form in both frames newton's second law is unchanged forces such as newtonian gravity which depend only on the scalar distance between objects satisfy this criterion this independence of reference frame is called newtonian relativity or galilean invariance
+a change of reference frame can often simplify calculations of motion for example in a collision of two particles a reference frame can be chosen where one particle begins at rest another commonly used reference frame is the center of mass frame - one that is moving with the center of mass in this frame the total momentum is zero
+=== application to collisions ===
+by itself the law of conservation of momentum is not enough to determine the motion of particles after a collision another property of the motion kinetic energy must be known this is not necessarily conserved if it is conserved the collision is called an elastic collision if not it is an inelastic collision
+==== elastic collisions ====
+an elastic collision is one in which no kinetic energy is lost perfectly elastic collisions can occur when the objects do not touch each other as for example in atomic or nuclear scattering where electric repulsion keeps them apart a slingshot maneuver of a satellite around a planet can also be viewed as a perfectly elastic collision from a distance a collision between two pool balls is a good example of an almost totally elastic collision due to their high rigidity but when bodies come in contact there is always some dissipation
+a head-on elastic collision between two bodies can be represented by velocities in one dimension along a line passing through the bodies if the velocities are u1 and u2 before the collision and v1 and v2 after the equations expressing conservation of momentum and kinetic energy are
+a change of reference frame can often simplify the analysis of a collision for example suppose there are two bodies of equal mass m one stationary and one approaching the other at a speed v (as in the figure) the center of mass is moving at speed v/2 and both bodies are moving towards it at speed v/2 because of the symmetry after the collision both must be moving away from the center of mass at the same speed adding the speed of the center of mass to both we find that the body that was moving is now stopped and the other is moving away at speed v the bodies have exchanged their velocities regardless of the velocities of the bodies a switch to the center of mass frame leads us to the same conclusion therefore the final velocities are given by
+in general when the initial velocities are known the final velocities are given by
+if one body has much greater mass than the other its velocity will be little affected by a collision while the other body will experience a large change
+==== inelastic collisions ====
+in an inelastic collision some of the kinetic energy of the colliding bodies is converted into other forms of energy such as heat or sound examples include traffic collisions in which the effect of lost kinetic energy can be seen in the damage to the vehicles electrons losing some of their energy to atoms (as in the franckhertz experiment) and particle accelerators in which the kinetic energy is converted into mass in the form of new particles
+in a perfectly inelastic collision (such as a bug hitting a windshield) both bodies have the same motion afterwards if one body is motionless to begin with the equation for conservation of momentum is
+so
+in a frame of reference moving at the speed v) the objects are brought to rest by the collision and 100% of the kinetic energy is converted
+one measure of the inelasticity of the collision is the coefficient of restitution cr defined as the ratio of relative velocity of separation to relative velocity of approach in applying this measure to ball sports this can be easily measured using the following formula
+the momentum and energy equations also apply to the motions of objects that begin together and then move apart for example an explosion is the result of a chain reaction that transforms potential energy stored in chemical mechanical or nuclear form into kinetic energy acoustic energy and electromagnetic radiation rockets also make use of conservation of momentum propellant is thrust outward gaining momentum and an equal and opposite momentum is imparted to the rocket
+=== multiple dimensions ===
+real motion has both direction and velocity and must be represented by a vector in a coordinate system with x y z axes velocity has components vx in the x direction vy in the y direction vz in the z direction the vector is represented by a boldface symbol
+similarly the momentum is a vector quantity and is represented by a boldface symbol
+the equations in the previous sections work in vector form if the scalars p and v are replaced by vectors p and v each vector equation represents three scalar equations for example
+represents three equations
+the kinetic energy equations are exceptions to the above replacement rule the equations are still one-dimensional but each scalar represents the magnitude of the vector for example
+each vector equation represents three scalar equations often coordinates can be chosen so that only two components are needed as in the figure each component can be obtained separately and the results combined to produce a vector result
+a simple construction involving the center of mass frame can be used to show that if a stationary elastic sphere is struck by a moving sphere the two will head off at right angles after the collision (as in the figure)
+=== objects of variable mass ===
+the concept of momentum plays a fundamental role in explaining the behavior of variable-mass objects such as a rocket ejecting fuel or a star accreting gas in analyzing such an object one treats the object's mass as a function that varies with time m(t) the momentum of the object at time t is therefore p(t) = m(t)v(t) one might then try to invoke newton's second law of motion by saying that the external force f on the object is related to its momentum p(t) by f = dp/dt but this is incorrect as is the related expression found by applying the product rule to d(mv)/dt
+(incorrect)
+this equation does not correctly describe the motion of variable-mass objects the correct equation is
+where u is the velocity of the ejected/accreted mass as seen in the object's rest frame this is distinct from v which is the velocity of the object itself as seen in an inertial frame
+this equation is derived by keeping track of both the momentum of the object as well as the momentum of the ejected/accreted mass when considered together the object and the mass constitute a closed system in which total momentum is conserved
+== relativistic mechanics ==
+=== lorentz invariance ===
+newtonian physics assumes that absolute time and space exist outside of any observer this gives rise to the galilean invariance described earlier it also results in a prediction that the speed of light can vary from one reference frame to another this is contrary to observation in the special theory of relativity einstein keeps the postulate that the equations of motion do not depend on the reference frame but assumes that the speed of light c is invariant as a result position and time in two reference frames are related by the lorentz transformation instead of the galilean transformation
+consider for example a reference frame moving relative to another at velocity v in the x direction the galilean transformation gives the coordinates of the moving frame as
+while the lorentz transformation gives
+where is the lorentz factor
+newton's second law with mass fixed is not invariant under a lorentz transformation however it can be made invariant by making the inertial mass m of an object a function of velocity
+m0 is the object's invariant mass
+the modified momentum
+obeys newton's second law
+within the domain of classical mechanics relativistic momentum closely approximates newtonian momentum at low velocity m0v is approximately equal to m0v the newtonian expression for momentum
+=== four-vector formulation ===
+in the theory of special relativity physical quantities are expressed in terms of four-vectors that include time as a fourth coordinate along with the three space coordinates these vectors are generally represented by capital letters for example r for position the expression for the four-momentum depends on how the coordinates are expressed time may be given in its normal units or multiplied by the speed of light so that all the components of the four-vector have dimensions of length if the latter scaling is used an interval of proper time  defined by
+is invariant under lorentz transformations (in this expression and in what follows the (+ ) metric signature has been used different authors use different conventions) mathematically this invariance can be ensured in one of two ways by treating the four-vectors as euclidean vectors and multiplying time by 1 or by keeping time a real quantity and embedding the vectors in a minkowski space in a minkowski space the scalar product of two four-vectors u = (u0,u1,u2,u3) and v = (v0,v1,v2,v3) is defined as
+in all the coordinate systems the (contravariant) relativistic four-velocity is defined by
+and the (contravariant) four-momentum is
+where m0 is the invariant mass if r = (ct,x,y,z) (in minkowski space) then
+using einstein's mass-energy equivalence e = mc2 this can be rewritten as
+thus conservation of four-momentum is lorentz-invariant and implies conservation of both mass and energy
+the magnitude of the momentum four-vector is equal to m0c
+and is invariant across all reference frames
+the relativistic energymomentum relationship holds even for massless particles such as photons by setting m0 = 0 it follows that
+in a game of relativistic billiards if a stationary particle is hit by a moving particle in an elastic collision the paths formed by the two afterwards will form an acute angle this is unlike the non-relativistic case where they travel at right angles
+== generalized coordinates ==
+newton's laws can be difficult to apply to many kinds of motion because the motion is limited by constraints for example a bead on an abacus is constrained to move along its wire and a pendulum bob is constrained to swing at a fixed distance from the pivot many such constraints can be incorporated by changing the normal cartesian coordinates to a set of generalized coordinates that may be fewer in number refined mathematical methods have been developed for solving mechanics problems in generalized coordinates they introduce a generalized momentum also known as the canonical or conjugate momentum that extends the concepts of both linear momentum and angular momentum to distinguish it from generalized momentum the product of mass and velocity is also referred to as mechanical kinetic or kinematic momentum the two main methods are described below
+=== lagrangian mechanics ===
+in lagrangian mechanics a lagrangian is defined as the difference between the kinetic energy t and the potential energy v
+if the generalized coordinates are represented as a vector q = (q1 q2   qn) and time differentiation is represented by a dot over the variable then the equations of motion (known as the lagrange or eulerlagrange equations) are a set of n equations
+if a coordinate qi is not a cartesian coordinate the associated generalized momentum component pi does not necessarily have the dimensions of linear momentum even if qi is a cartesian coordinate pi will not be the same as the mechanical momentum if the potential depends on velocity some sources represent the kinematic momentum by the symbol 
+in this mathematical framework a generalized momentum is associated with the generalized coordinates its components are defined as
+each component pj is said to be the conjugate momentum for the coordinate qj
+now if a given coordinate qi does not appear in the lagrangian (although its time derivative might appear) then
+this is the generalization of the conservation of momentum
+even if the generalized coordinates are just the ordinary spatial coordinates the conjugate momenta are not necessarily the ordinary momentum coordinates an example is found in the section on electromagnetism
+=== hamiltonian mechanics ===
+in hamiltonian mechanics the lagrangian (a function of generalized coordinates and their derivatives) is replaced by a hamiltonian that is a function of generalized coordinates and momentum the hamiltonian is defined as
+where the momentum is obtained by differentiating the lagrangian as above the hamiltonian equations of motion are
+as in lagrangian mechanics if a generalized coordinate does not appear in the hamiltonian its conjugate momentum component is conserved
+=== symmetry and conservation ===
+conservation of momentum is a mathematical consequence of the homogeneity (shift symmetry) of space (position in space is the canonical conjugate quantity to momentum) that is conservation of momentum is a consequence of the fact that the laws of physics do not depend on position this is a special case of noether's theorem
+== electromagnetism ==
+in newtonian mechanics the law of conservation of momentum can be derived from the law of action and reaction which states that every force has a reciprocating equal and opposite force under some circumstances moving charged particles can exert forces on each other in non-opposite directions moreover maxwell's equations the foundation of classical electrodynamics are lorentz-invariant nevertheless the combined momentum of the particles and the electromagnetic field is conserved
+=== vacuum ===
+in maxwell's equations the forces between particles are mediated by electric and magnetic fields the electromagnetic force (lorentz force) on a particle with charge q due to a combination of electric field e and magnetic field (as given by the b-field b) is
+this force imparts a momentum to the particle so by newton's second law the particle must impart a momentum to the electromagnetic fields
+in a vacuum the momentum per unit volume is
+where 0 is the vacuum permeability and c is the speed of light the momentum density is proportional to the poynting vector s which gives the directional rate of energy transfer per unit area
+if momentum is to be conserved in a volume v changes in the momentum of matter through the lorentz force must be balanced by changes in the momentum of the electromagnetic field and outflow of momentum if pmech is the momentum of all the particles in a volume v and the particles are treated as a continuum then newton's second law gives
+the electromagnetic momentum is
+and the equation for conservation of each component i of the momentum is
+the term on the right is an integral over the surface s representing momentum flow into and out of the volume and nj is a component of the surface normal of s the quantity tij is called the maxwell stress tensor defined as
+=== media ===
+the above results are for the microscopic maxwell equations applicable to electromagnetic forces in a vacuum (or on a very small scale in media) it is more difficult to define momentum density in media because the division into electromagnetic and mechanical is arbitrary the definition of electromagnetic momentum density is modified to
+where the h-field h is related to the b-field and the magnetization m by
+the electromagnetic stress tensor depends on the properties of the media
+=== particle in field ===
+if a charged particle q moves in an electromagnetic field neither its kinetic momentum mv nor its canonical momentum is conserved
+==== lagrangian and hamiltonian formulation ====
+the kinetic momentum p is different from the canonical momentum p (synonymous with the generalized momentum) conjugate to the ordinary position coordinates r because p includes a contribution from the electric potential (r t) and vector potential a(r t)
+where = v is the velocity (see time derivative) q is the electric charge of the particle and = (1 /c2)12 is the lorentz factor see also electromagnetism (momentum) if neither nor a depends on position p is conserved
+the classical hamiltonian for a particle in any field equals the total energy of the system the kinetic energy t = p2/2m (where p2 = p p see dot product) plus the potential energy v for a particle in an electromagnetic field the potential energy is v = e and since the kinetic energy t always corresponds to the kinetic momentum p replacing the kinetic momentum by the above equation (p = p qa) leads to the hamiltonian in the table
+these lagrangian and hamiltonian expressions can derive the lorentz force
+==== canonical commutation relations ====
+the kinetic momentum (p above) satisfies the commutation relation
+where j k l are indices labelling vector components bl is a component of the magnetic field and kjl is the levi-civita symbol here in 3 dimensions
+== quantum mechanics ==
+in quantum mechanics momentum is defined as an operator on the wave function the heisenberg uncertainty principle defines limits on how accurately the momentum and position of a single observable system can be known at once in quantum mechanics position and momentum are conjugate variables
+for a single particle described in the position basis the momentum operator can be written as
+where is the gradient operator is the reduced planck constant and i is the imaginary unit this is a commonly encountered form of the momentum operator though the momentum operator in other bases can take other forms for example in momentum space the momentum operator is represented as
+where the operator p acting on a wave function (p) yields that wave function multiplied by the value p in an analogous fashion to the way that the position operator acting on a wave function (x) yields that wave function multiplied by the value x
+for both massive and massless objects relativistic momentum is related to the de broglie wavelength by
+electromagnetic radiation (including visible light ultraviolet light and radio waves) is carried by photons even though photons (the particle aspect of light) have no mass they still carry momentum this leads to applications such as the solar sail the calculation of the momentum of light within dielectric media is somewhat controversial (see abrahamminkowski controversy)
+== deformable bodies and fluids ==
+=== conservation in a continuum ===
+in fields such as fluid dynamics and solid mechanics it is not feasible to follow the motion of individual atoms or molecules instead the materials must be approximated by a continuum in which there is a particle or fluid parcel at each point that is assigned the average of the properties of atoms in a small region nearby in particular it has a density and velocity v that depend on time t and position r the momentum per unit volume is v
+consider a column of water in hydrostatic equilibrium all the forces on the water are in balance and the water is motionless on any given drop of water two forces are balanced the first is gravity which acts directly on each atom and molecule inside the gravitational force per unit volume is g where g is the gravitational acceleration the second force is the sum of all the forces exerted on its surface by the surrounding water the force from below is greater than the force from above by just the amount needed to balance gravity the normal force per unit area is the pressure p the average force per unit volume inside the droplet is the gradient of the pressure so the force balance equation is
+if the forces are not balanced the droplet accelerates this acceleration is not simply the partial derivative v/t because the fluid in a given volume changes with time instead the material derivative is needed
+applied to any physical quantity the material derivative includes the rate of change at a point and the changes due to advection as fluid is carried past the point per unit volume the rate of change in momentum is equal to dv/dt this is equal to the net force on the droplet
+forces that can change the momentum of a droplet include the gradient of the pressure and gravity as above in addition surface forces can deform the droplet in the simplest case a shear stress  exerted by a force parallel to the surface of the droplet is proportional to the rate of deformation or strain rate such a shear stress occurs if the fluid has a velocity gradient because the fluid is moving faster on one side than another if the speed in the x direction varies with z the tangential force in direction x per unit area normal to the z direction is
+where is the viscosity this is also a flux or flow per unit area of x-momentum through the surface
+including the effect of viscosity the momentum balance equations for the incompressible flow of a newtonian fluid are
+these are known as the navierstokes equations
+the momentum balance equations can be extended to more general materials including solids for each surface with normal in direction i and force in direction j there is a stress component ij the nine components make up the cauchy stress tensor  which includes both pressure and shear the local conservation of momentum is expressed by the cauchy momentum equation
+where f is the body force
+the cauchy momentum equation is broadly applicable to deformations of solids and liquids the relationship between the stresses and the strain rate depends on the properties of the material (see types of viscosity)
+=== acoustic waves ===
+a disturbance in a medium gives rise to oscillations or waves that propagate away from their source in a fluid small changes in pressure p can often be described by the acoustic wave equation
+where c is the speed of sound in a solid similar equations can be obtained for propagation of pressure (p-waves) and shear (s-waves)
+the flux or transport per unit area of a momentum component vj by a velocity vi is equal to vjvj in the linear approximation that leads to the above acoustic equation the time average of this flux is zero however nonlinear effects can give rise to a nonzero average it is possible for momentum flux to occur even though the wave itself does not have a mean momentum
+== history of the concept ==
+in about 530 a.d. working in alexandria byzantine philosopher john philoponus developed a concept of momentum in his commentary to aristotle's physics aristotle claimed that everything that is moving must be kept moving by something for example a thrown ball must be kept moving by motions of the air most writers continued to accept aristotle's theory until the time of galileo but a few were skeptical philoponus pointed out the absurdity in aristotle's claim that motion of an object is promoted by the same air that is resisting its passage he proposed instead that an impetus was imparted to the object in the act of throwing it ibn sn (also known by his latinized name avicenna) read philoponus and published his own theory of motion in the book of healing in 1020 he agreed that an impetus is imparted to a projectile by the thrower but unlike philoponus who believed that it was a temporary virtue that would decline even in a vacuum he viewed it as a persistent requiring external forces such as air resistance to dissipate it the work of philoponus and possibly that of ibn sn was read and refined by the european philosophers peter olivi and jean buridan buridan who in about 1350 was made rector of the university of paris referred to impetus being proportional to the weight times the speed moreover buridan's theory was different from his predecessor's in that he did not consider impetus to be self-dissipating asserting that a body would be arrested by the forces of air resistance and gravity which might be opposing its impetus
+ren descartes believed that the total quantity of motion in the universe is conserved where the quantity of motion is understood as the product of size and speed this should not be read as a statement of the modern law of momentum since he had no concept of mass as distinct from weight and size and more importantly he believed that it is speed rather than velocity that is conserved so for descartes if a moving object were to bounce off a surface changing its direction but not its speed there would be no change in its quantity of motion galileo later in his two new sciences used the italian word impeto
+leibniz in his discourse on metaphysics gave an argument against descartes construction of the conservation of the quantity of motion using an example of dropping blocks of different sizes different distances he points out that force is conserved but quantity of motion construed as the product of size and speed of an object is not conserved
+the first correct statement of the law of conservation of momentum was by english mathematician john wallis in his 1670 work mechanica sive de motu tractatus geometricus the initial state of the body either of rest or of motion will persist and if the force is greater than the resistance motion will result wallis uses momentum and vis for force newton's philosophi naturalis principia mathematica when it was first published in 1687 showed a similar casting around for words to use for the mathematical momentum his definition ii defines quantitas motus quantity of motion as arising from the velocity and quantity of matter conjointly which identifies it as momentum thus when in law ii he refers to mutatio motus change of motion being proportional to the force impressed he is generally taken to mean momentum and not motion it remained only to assign a standard term to the quantity of motion the first use of momentum in its proper mathematical sense is not clear but by the time of jenning's miscellanea in 1721 four years before the final edition of newton's principia mathematica momentum m or quantity of motion was being defined for students as a rectangle the product of q and v where q is quantity of material and v is velocity s/t
+== see also ==
+== references ==
+=== citations ===
+== bibliography ==
+== external links ==
+conservation of momentum a chapter from an online textbook

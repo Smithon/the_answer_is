@@ -1,0 +1,76 @@
+in optics a prism is a transparent optical element with flat polished surfaces that refract light at least two of the flat surfaces must have an angle between them the exact angles between the surfaces depend on the application the traditional geometrical shape is that of a triangular prism with a triangular base and rectangular sides and in colloquial use prism usually refers to this type some types of optical prism are not in fact in the shape of geometric prisms prisms can be made from any material that is transparent to the wavelengths for which they are designed typical materials include glass plastic and fluorite
+a dispersive prism can be used to break light up into its constituent spectral colors (the colors of the rainbow) furthermore prisms can be used to reflect light or to split light into components with different polarizations
+== how prisms workedit ==
+light changes speed as it moves from one medium to another (for example from air into the glass of the prism) this speed change causes the light to be refracted and to enter the new medium at a different angle (huygens principle) the degree of bending of the light's path depends on the angle that the incident beam of light makes with the surface and on the ratio between the refractive indices of the two media (snell's law) the refractive index of many materials (such as glass) varies with the wavelength or color of the light used a phenomenon known as dispersion this causes light of different colors to be refracted differently and to leave the prism at different angles creating an effect similar to a rainbow this can be used to separate a beam of white light into its constituent spectrum of colors prisms will generally disperse light over a much larger frequency bandwidth than diffraction gratings making them useful for broad-spectrum spectroscopy furthermore prisms do not suffer from complications arising from overlapping spectral orders which all gratings have
+prisms are sometimes used for the internal reflection at the surfaces rather than for dispersion if light inside the prism hits one of the surfaces at a sufficiently steep angle total internal reflection occurs and all of the light is reflected this makes a prism a useful substitute for a mirror in some situations
+=== deviation angle and dispersionedit ===
+ray angle deviation and dispersion through a prism can be determined by tracing a sample ray through the element and using snell's law at each interface for the prism shown at right the indicated angles are given by
+all angles are positive in the direction shown in the image for a prism in air  defining  the deviation angle is given by
+if the angle of incidence and prism apex angle are both small and if the angles are expressed in radians this allows the nonlinear equation in the deviation angle to be approximated by
+the deviation angle depends on wavelength through n so for a thin prism the deviation angle varies with wavelength according to
+== prisms and the nature of lightedit ==
+before isaac newton it was believed that white light was colorless and that the prism itself produced the color newton's experiments demonstrated that all the colors already existed in the light in a heterogeneous fashion and that corpuscles (particles) of light were fanned out because particles with different colors traveled with different speeds through the prism it was only later that young and fresnel combined newton's particle theory with huygens wave theory to show that color is the visible manifestation of light's wavelength
+newton arrived at his conclusion by passing the red color from one prism through a second prism and found the color unchanged from this he concluded that the colors must already be present in the incoming light thus the prism did not create colors but merely separated colors that are already there he also used a lens and a second prism to recompose the spectrum back into white light this experiment has become a classic example of the methodology introduced during the scientific revolution the results of this experiment dramatically transformed the field of metaphysics leading to john locke's primary vs secondary quality distinction
+newton discussed prism dispersion in great detail in his book opticks he also introduced the use of more than one prism to control dispersion newton's description of his experiments on prism dispersion was qualitative and is quite readable a quantitative description of multiple-prism dispersion was not needed until multiple prism laser beam expanders were introduced in the 1980s
+== types of prismsedit ==
+=== dispersive prismsedit ===
+dispersive prisms are used to break up light into its constituent spectral colors because the refractive index depends on frequency the white light entering the prism is a mixture of different frequencies each of which gets bent slightly differently blue light is slowed down more than red light and will therefore be bent more than red light
+triangular prism
+abbe prism
+pellinbroca prism
+amici prism
+compound prism
+grism a dispersive prism with a diffraction grating on its surface
+=== reflective prismsedit ===
+reflective prisms are used to reflect light in order to flip invert rotate deviate or displace the light beam they are typically used to erect the image in binoculars or single-lens reflex cameras without the prisms the image would be upside down for the user many reflective prisms use total internal reflection to achieve high reflectivity
+the most common reflective prisms are
+porro prism
+porroabbe prism
+amici roof prism
+pentaprism and roof pentaprism
+abbekoenig prism
+schmidtpechan prism
+bauernfeind prism
+dove prism
+retroreflector prism
+==== beam-splitting prismsedit ====
+some reflective prisms are used for splitting a beam into two or more beams
+beam splitter cube
+dichroic prism
+=== polarizing prismsedit ===
+there are also polarizing prisms which can split a beam of light into components of varying polarization these are typically made of a birefringent crystalline material
+nicol prism
+wollaston prism
+nomarski prism a variant of the wollaston prism with advantages in microscopy
+rochon prism
+snarmont prism
+glanfoucault prism
+glantaylor prism
+glanthompson prism
+=== deflecting prismsedit ===
+wedge prisms are used to deflect a beam of light by a fixed angle a pair of such prisms can be used for beam steering by rotating the prisms the beam can be deflected into any desired angle within a conical field of regard the most commonly found implementation is a risley prism pair two wedge prisms can also be used as an anamorphic pair to change the shape of a beam this is used to make a round beam from the elliptical output of a laser diode
+rhomboid prisms are used to laterally displace a beam of light without inverting the image
+deck prisms were used on sailing ships to bring daylight below deck since candles and kerosene lamps are a fire hazard on wooden ships
+== in optometryedit ==
+by shifting corrective lenses off axis images seen through them can be displaced in the same way that a prism displaces images eye care professionals use prisms as well as lenses off axis to treat various orthoptics problems
+diplopia (double vision)
+positive and negative fusion problems
+positive relative accommodation and negative relative accommodation problems
+prism spectacles with a single prism perform a relative displacement of the two eyes thereby correcting eso- exo hyper- or hypotropia
+in contrast spectacles with prisms of equal power for both eyes called yoked prisms (also conjugate prisms ambient lenses or performance glasses) shift the visual field of both eyes to the same extent
+== see alsoedit ==
+minimum deviation
+multiple-prism dispersion theory
+prism compressor
+prism dioptre
+prism spectrometer
+prism (geometry)
+theory of colours
+triangular prism (geometry)
+superprism
+eyeglass prescription
+== referencesedit ==
+== further readingedit ==
+hecht eugene (2001) optics (4th ed.) pearson education isbn 0-8053-8566-5
+== external linksedit ==
+java applet of refraction through a prism

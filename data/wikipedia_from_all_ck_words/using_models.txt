@@ -1,0 +1,23 @@
+engineering statistics combines engineering and statistics
+design of experiments (doe) is a methodology for formulating scientific and engineering problems using statistical models the protocol specifies a randomization procedure for the experiment and specifies the primary data-analysis particularly in hypothesis testing in a secondary analysis the statistical analyst further examines the data to suggest other questions and to help plan future experiments in engineering applications the goal is often to optimize a process or product rather than to subject a scientific hypothesis to test of its predictive adequacy the use of optimal (or near optimal) designs reduces the cost of experimentation
+quality control and process control use statistics as a tool to manage conformance to specifications of manufacturing processes and their products
+time and methods engineering use statistics to study repetitive operations in manufacturing in order to set standards and find optimum (in some sense) manufacturing procedures
+reliability engineering which measures the ability of a system to perform for its intended function (and time) and has tools for improving performance
+probabilistic design involving the use of probability in product and system design
+system identification uses statistical methods to build mathematical models of dynamical systems from measured data system identification also includes the optimal design of experiments for efficiently generating informative data for fitting such models
+== notes ==
+^ a b c box g e. hunter,w.g. hunter j.s. hunter,w.g. statistics for experimenters design innovation and discovery 2nd edition wiley 2005 isbn 0-471-71813-0
+^ a b c d e wu c f jeff and hamada michael (2002) experiments planning analysis and parameter design optimization wiley isbn 0-471-25511-4
+^ a b c logothetis n and wynn h p (1989) quality through design experimental design off-line quality control and taguchi's contributions oxford u p isbn 0-19-851993-1
+^ hogg robert v and ledolter j (1992) applied statistics for engineers and physical scientists macmillan new york
+^ walpole ronald myers raymond ye keying probability and statistics for engineers and scientists pearson education 2002 7th edition pg 237
+^ atkinson a c and donev a n and tobias r d (2007) optimum experimental designs with sas oxford university press pp 511+xvi isbn 978-0-19-929660-6
+^ barlow richard e (1998) engineering reliability asa-siam series on statistics and applied probability society for industrial and applied mathematics (siam) philadelphia pa american statistical association alexandria va pp xx+199 isbn 0-89871-405-2 mr 1621421
+^ nelson wayne b. (2004) accelerated testing - statistical models test plans and data analysis john wiley & sons new york isbn 0-471-69736-2
+^ logowynn
+^ goodwin graham c and payne robert l (1977) dynamic system identification experiment design and data analysis academic press isbn 0-12-289750-1
+^ walter ric and pronzato luc (1997) identification of parametric models from experimental data springer
+== references ==
+atkinson a c and donev a n and tobias r d (2007) optimum experimental designs with sas oxford university press pp 511+xvi isbn 978-0-19-929660-6
+box g e. hunter,w.g. hunter j.s. hunter,w.g. statistics for experimenters design innovation and discovery 2nd edition wiley 2005 isbn 0-471-71813-0
+logothetis n and wynn h p (1989) quality through design experimental design off-line quality control and taguchi's contributions oxford u p isbn 0-19-851993-1

@@ -1,0 +1,92 @@
+lives (lives editing system) /lavz/ is a free video editing software and vj tool released under the gnu general public license version 3 or later there are binary versions available for most popular gnu/linux distributions (including debian ubuntu fedora suse gentoo slackware arch linux and mandriva) there are also ports for bsd and it will run under solaris and irix it has been compiled under os x leopard but not thoroughly tested on that platform
+== development ==
+the main developer of lives is gabriel finch (a.k.a salsaman) who is also a video artist and international vj
+the project began in late 2002 and the 1.0.0 version was released in july 2009
+on the freecode site lives is listed as the most popular non-linear video editing software
+lives was nominated for the category of best project for multimedia in the sourceforge community choice awards 2009
+the lives application allows the user to manipulate video in realtime and in non-realtime the application also has features which go beyond traditional video editing applications - for example it can be controlled and monitored remotely over a network and it has facilities for streaming to and from another copy of lives it is resolution and frame rate independent
+lives uses a system of plugins for effects decoders encoders and video playback the apis for these are now well defined and the application can be easily extended
+== interface ==
+lives has two main interfaces the clip editor which serves as a repository of video and audio material and the multitrack window where multiple clips can be positioned on the timeline
+the clip editor allows free playback at variable play rates applying of multiple realtime effects and mixing of clips this mode is mainly used by vjs video editors can also use this interface to prepare the clips before entering into multitrack mode
+in multitrack mode the individual clips can be arranged in layers on the timeline further effects and transitions can be applied here and the audio can be mixed down the entire timeline can then be rendered creating a new clip
+rendering previews are shown in real time
+== features ==
+lives features include
+loading and editing of almost any video format (via mplayer decoder)
+some formats can be opened instantly using decoder plugins (e.g flv asf dv webm and ogg/theora)
+smooth playback at variable frame rates forward and in reverse display framerate can be controlled independently of playback framerate
+frame accurate cutting and pasting within and between clips
+saving/re-encoding of clips selections and individual frames
+lossless backup/restore
+streaming input and output
+real time blending of clips (various chroma and luma blends)
+can handle in/out streams in lives to lives or yuv4mpeg format streams can be piped from stdout into other applications
+support for live firewire and tv card inputs
+internal support for rgb24 rgba32 yuva yuv yuv422 yuv420 (jpeg and mpeg) yuyv yuv411 and uyvy palettes one step conversion with chroma super and subsampling is implemented
+ability to edit many filetypes and sources including remotely located files (with mplayer/ffmpeg libraries) and directories of images (rotoscoping)
+real time capture/recording of interactive (via mouseclicks) external windows
+encode to any of the 50+ output formats which are now supported (e.g mjpeg mpeg4 mpeg1/2 h264 webm vcd svcd dvd x264/blu-ray ogg/mp4 ogm matroska mkv dv swf ogg theora dirac mng snow xvid flash and even animated gif and pdf)
+resampling of video (time stretching) to any frame rate (1 to 200 frame/s - accurate to 8 decimal places) option to auto-resample or speed up/slow down between clips
+rotation resizing and trimming of video clips
+deinterlacing subtitle removal auto deinterlacing for dv can be enabled
+can load mp3 vorbis mod it xm and wav audio files
+lives can also load audio tracks directly off cd to use with video
+sample accurate cutting and pasting of audio within and between clips
+resampling of audio (rate channels sample size signedness and endianness) audio is auto-resampled between clips
+able to record from any external audio source
+fade in/fade out feature for clips
+audio speed and direction can be smoothly adjusted both in real time and when rendering
+hundreds of effects including random/targeted zooming panning of video colour cycling and colorisation/colour filtering and colour correction
+ladspa support for audio effects
+merging/compositing of frames is possible e.g frame-in-frame fade in/out and transparency
+real time previews as the effect is processing
+support for the frei0r 1.1 and 1.2 effect plugin architectures libvisual plugins and projectm plugins
+multiple real time effects are possible during playback (vj mode) these can also be rendered to frames
+multitrack window with drag and drop
+intelligent screen organisation - shows you only the information which is relevant no more and no less
+support for an almost limitless number of tracks and effects
+non-destructive editing in the multitrack window with multiple levels of undo/redo
+full automation/interpolation of effect parameters
+support for stereo backing audio track + stereo audio track per video track
+automatic gain control
+realtime mixing/previewing of audio
+channel mixer volume control + fine grained time variable per-channel volume and pan control
+auto-transitioning of audio with video
+auto-transitioning of video in multitrack mode (optional)
+full crash recovery
+configurable multi-monitor screen placement
+simple and intuitive menu layout
+drag and drop interface
+remote monitoring and control (via open sound control) of the application can be enabled
+vj functions can be controlled via keyboard joystick or midi controller
+i18n text support translations into at least french czech german japanese dutch portuguese spanish italian russian turkish hungarian slovak simplified chinese finnish ukrainian arabic estonian uzbek and hebrew are included
+support for audio output through pulse audio
+support for audio output through jack
+jack transport support (master or client)
+support for srt and sub subtitle files
+vloopback/vloopback2 output for video (linux only)
+support for unicap compatible devices
+full integration with upcoming videojack standard
+rfx builder allows rapid prototyping of new effects transitions generators utilities and tools custom rfx scripts can be exported to share with others or downloaded and imported test scripts are run in a sandbox to allow safe testing of new plugins
+midi sequence synchronisation (start/stop)
+shuttle controls for firewire cameras/recorders can grab from dv and hdv formats
+== gallery ==
+== notes ==
+^ license page for lives
+^ lives 1.3.10 vj software on mac osx (unix/darwin) (english) alza tu voz linux
+^ 824 projects tagged video freecode
+== further reading ==
+the book video wiedergabe bearbeitung und streaming unter linux open source press contains a chapter on lives
+interview with the author for linux bg magazine original english version
+the lives video editor and vj tool turns 1.0 linux journal july 2009
+review of lives 1.0.0-pre1 for linux journal
+review of lives on linux insider january 2012
+lives lives is a video editing system (masters dissertation) october 2013
+== external links ==
+the lives homepage
+lives on sourceforge.net
+lives manual (html version)
+video tutorial for lives part 1 of 4
+lives episode on hackerpublicradio.org (mp3 audio)
+project statistics on openhub.net

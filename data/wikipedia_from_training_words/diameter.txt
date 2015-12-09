@@ -1,0 +1,29 @@
+in geometry the diameter of a circle is any straight line segment that passes through the center of the circle and whose endpoints lie on the circle it can also be defined as the longest chord of the circle both definitions are also valid for the diameter of a sphere the word diameter is derived from greek (diametros) diameter of a circle from - (dia-) across through + (metron) measure it is often abbreviated dia dia d or 
+in more modern usage the length of a diameter is also called the diameter in this sense one speaks of the diameter rather than a diameter (which refers to the line itself) because all diameters of a circle or sphere have the same length this being twice the radius r
+for a convex shape in the plane the diameter is defined to be the largest distance that can be formed between two opposite parallel lines tangent to its boundary and the width is defined to be the smallest such distance both quantities can be calculated efficiently using rotating calipers for a curve of constant width such as the reuleaux triangle the width and diameter are the same because all such pairs of parallel tangent lines have the same distance
+for an ellipse the standard terminology is different a diameter of an ellipse is any chord passing through the midpoint of the ellipse for example conjugate diameters have the property that a tangent line to the ellipse at the endpoint of one of them is parallel to the other one the longest diameter is called the major axis
+== generalizations ==
+the definitions given above are only valid for circles spheres and convex shapes however they are special cases of a more general definition that is valid for any kind of n-dimensional convex or non-convex object such as a hypercube or a set of scattered points the diameter of a subset of a metric space is the least upper bound of the set of all distances between pairs of points in the subset so if a is the subset the diameter is
+sup { d(x y) | x y a } 
+if the distance function d is viewed here as having codomain r (the set of all real numbers) this implies that the diameter of the empty set (the case a = ) equals (negative infinity) some authors prefer to treat the empty set as a special case assigning it a diameter equal to 0 which corresponds to taking the codomain of d to be the set of nonnegative reals
+for any solid object or set of scattered points in n-dimensional euclidean space the diameter of the object or set is the same as the diameter of its convex hull in medical parlance concerning a lesion or in geology concerning a rock the diameter of an object is the supremum of the set of all distances between pairs of points in the object
+in differential geometry the diameter is an important global riemannian invariant
+in plane geometry a diameter of a conic section is typically defined as any chord which passes through the conic's centre such diameters are not necessarily of uniform length except in the case of the circle which has eccentricity e = 0
+== diameter symbol ==
+the symbol or variable for diameter  is similar in size and design to  the latin small letter o with stroke in unicode it is defined as u+2300 diameter sign (html &#8960;) on an apple macintosh the diameter symbol can be entered via the character palette (this is opened by pressing opt cmdt in most applications) where it can be found in the technical symbols category
+the character will sometimes not display correctly however since many fonts do not include it in most situations the letter is acceptable which is unicode 0248 (hexadecimal 00f8) it can be obtained in unix-like operating systems using a compose key by pressing in sequence composedi and on a macintosh by pressing opt o (in both cases that is the letter o not the number 0)
+in latex the symbol is achieved with the command \diameter which is part of the wasysym package
+the diameter symbol is distinct from the empty set symbol  from an (italic) uppercase phi  and from the nordic vowel 
+== see also ==
+angular diameter
+conjugate diameters
+caliper micrometer tools for measuring diameters
+diameter of a group a concept in group theory
+eratosthenes who calculated the diameter of the earth around 240 bc
+graph or network diameter
+hydraulic diameter
+inside diameter
+jung's theorem an inequality relating the diameter to the radius of the smallest enclosing ball
+sauter mean diameter
+tangent lines to circles
+== notes ==

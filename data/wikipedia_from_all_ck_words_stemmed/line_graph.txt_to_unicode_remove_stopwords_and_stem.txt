@@ -1,0 +1,80 @@
+mathemat disciplin graph theori line graph undirect graph g anoth graph lg repres adjac edg g name line graph come paper harari norman although whitney krausz use construct term use line graph includ cover graph deriv edgetovertex dual conjug repres graph obrazom well edg graph interchang graph adjoint graph deriv graph
+hassler whitney prove one except case structur connect graph g recov complet line graph mani properti line graph follow translat properti under graph vertic edg whitney theorem translat also done direct line graph clawfre line graph bipartit graph perfect line graph character nine forbidden subgraph recogn linear time
+various general line graph also studi includ line graph line graph line graph multigraph line graph hypergraph line graph weight graph
+formal definit
+given graph g line graph lg graph
+vertex lg repres edg g
+two vertic lg adjac correspond edg share common endpoint incid g
+intersect graph edg g repres edg set two endpoint
+exampl
+follow figur show graph left blue vertic line graph right green vertic vertex line graph shown label pair endpoint correspond edg origin graph instanc green vertex right label correspond edg left blue vertic green vertex adjac three green vertic correspond edg share endpoint blue graph correspond edg share endpoint blue graph
+properti
+translat properti under graph
+properti graph g depend adjac edg may translat equival properti lg depend adjac vertic instanc match g set edg two adjac correspond set vertic lg two adjac independ set
+thus
+line graph connect graph connect g connect contain path connect two edg translat path lg contain two vertic lg howev graph g isol vertic therefor disconnect may nevertheless connect line graph
+line graph articul point under graph bridg neither endpoint degre one
+graph g n vertic m edg number vertic line graph lg m number edg lg half sum squar degre vertic g minus m
+maximum independ set line graph correspond maximum match origin graph sinc maximum match may found polynomi time may maximum independ set line graph despit hard maximum independ set problem general famili graph
+edg chromat number graph g equal vertex chromat number line graph lg
+line graph edgetransit graph vertextransit properti use generat famili graph like petersen graph vertextransit cayley graph g edgetransit graph least five vertic bipartit odd vertex degre lg vertextransit noncayley graph
+graph g euler cycl g connect even number edg vertex line graph g hamiltonian howev hamiltonian cycl line graph come euler cycl way instanc line graph hamiltonian graph g hamiltonian regardless whether g also eulerian
+two simpl graph isomorph line graph also isomorph whitney graph isomorph theorem provid convers
+context complex network theori line graph random network preserv mani properti network smallworld properti exist short path pair vertic shape degre distribut evan lambiott observ method find vertex cluster complex network appli line graph use cluster edg instead
+whitney isomorph theorem
+line graph two connect graph isomorph under graph isomorph except case triangl graph k claw k isomorph line graph isomorph
+well k k except small graph properti line graph higher degre symmetri graph instanc diamond graph k two triangl share edg four graph automorph line graph k eight illustr diamond graph shown rotat graph degre symmetri graph symmetri line graph howev except case four vertic strengthen version whitney isomorph theorem state connect graph four vertic onetoon correspond isomorph graph isomorph line graph
+analogu whitney isomorph theorem proven line graph multigraph complic case
+strong regular perfect line graph
+line graph complet graph kn also known triangular graph johnson graph jn complement kneser graph kgn triangular graph character spectra except n may also character except k strong regular graph paramet srgnn n n three strong regular graph paramet spectrum lk chang graph may obtain graph switch lk
+line graph bipartit graph perfect see knig theorem line graph bipartit graph form one key build block perfect graph use proof strong perfect graph theorem special case graph rook graph line graph complet bipartit graph like line graph complet graph character one except number vertic number edg number share neighbor adjac nonadjac point one except case lk share paramet shrikhand graph side bipartit number vertic graph strong regular
+general graph g said line perfect lg perfect graph line perfect graph exact graph contain simpl cycl odd length greater three equival graph line perfect biconnect compon either bipartit form k tetrahedron kn book one triangl share common edg everi line perfect graph perfect
+relat graph famili
+line graph clawfre graph graph without induc subgraph form threeleaf tree clawfre graph general everi connect line graph lg even number edg perfect match equival mean under graph g even number edg edg partit twoedg path
+line graph tree exact clawfre block graph graph use solv problem extrem graph theori construct graph given number edg vertic whose largest tree induc subgraph small possibl
+eigenvalu adjac matrix line graph least reason graph whose eigenvalu properti call general line graph
+character recognit
+cliqu partit
+arbitrari graph g arbitrari vertex v g set edg incid v correspond cliqu line graph lg cliqu form way partit edg lg vertex lg belong exact two two cliqu correspond two endpoint correspond edg g
+exist partit cliqu use character line graph graph l line graph graph multigraph possibl find collect cliqu l allow cliqu singl vertic partit edg l vertex l belong exact two cliqu line graph graph rather multigraph set cliqu satisfi addit condit two vertic l two cliqu given famili cliqu under graph g l line graph recov make one vertex g cliqu edg g vertex l endpoint two cliqu contain vertex l strong version whitney isomorph theorem under graph g four vertic one partit type
+exampl character use show follow graph line graph
+exampl edg go upward left right central degreefour vertex cliqu common therefor partit graph edg cliqu would least one cliqu three edg three cliqu would intersect central vertex violat requir vertex appear exact two cliqu thus graph shown line graph
+forbidden subgraph
+altern character line graph proven beinek report earlier without proof beinek show nine minim graph line graph graph line graph one nine graph induc subgraph graph line graph subset vertic induc one nine graph exampl four topmost vertic induc claw complet bipartit graph k shown top left illustr forbidden subgraph therefor beinek character exampl cannot line graph graph minimum degre least six subgraph left right column figur need character line graph multigraph may similar character three beinek nine forbidden subgraph
+algorithm
+roussopoulo lehot describ linear time algorithm recogn line graph reconstruct origin graph syso general method direct graph degiorgi simon describ effici data structur maintain dynam graph subject vertex insert delet maintain represent input line graph exist time proport number chang edg step
+algorithm roussopoulo lehot base character line graph involv odd triangl triangl line graph properti exist anoth vertex adjac odd number triangl vertic howev algorithm degiorgi simon use whitney isomorph theorem complic need recogn delet caus remain graph becom line graph special static recognit problem insert need perform algorithm perform follow step
+construct input graph l ad vertic one time step choos vertex add adjac least one previouslyad vertex ad vertic l maintain graph g l lg algorithm ever fail find appropri graph g input line graph algorithm termin
+ad vertex v graph lg g four fewer vertic might case line graph represent uniqu case augment graph small enough represent line graph found brute forc search constant time
+ad vertex v larger graph l equal line graph anoth graph g let subgraph g form edg correspond neighbor v l check vertex cover consist one vertex two nonadjac vertic two vertic cover augment g ad edg correspond v connect two vertic one vertex cover add new vertex g adjac vertex
+step either take constant time involv find vertex cover constant size within graph whose size proport number neighbor v thus total time whole algorithm proport sum number neighbor vertic handshak lemma proport number input edg
+iter line graph oper
+van rooij wilf consid sequenc graph
+show g finit connect graph four possibl behavior possibl sequenc
+g cycl graph lg subsequ graph sequenc isomorph g connect graph lg isomorph g
+g claw k lg subsequ graph sequenc triangl
+g path graph subsequ graph sequenc shorter path eventu sequenc termin empti graph
+remain case size graph sequenc eventu increas without bound
+g connect classif appli separ compon g
+connect graph path suffici high number iter line graph oper produc graph hamiltonian
+general
+medial graph convex polyhedra
+planar graph g maximum vertex degre three line graph planar everi planar embed g extend embed lg howev exist planar graph higher degre whose line graph nonplanar includ exampl star k gem graph form ad two noncross diagon within regular pentagon convex polyhedra vertex degre four
+altern construct medial graph coincid line graph planar graph maximum degre three alway planar vertic line graph potenti fewer edg two vertic medial graph adjac correspond two edg consecut face planar embed medial graph dual graph plane graph medial graph origin plane graph
+regular polyhedra simpl polyhedra medial graph oper repres geometr oper cut vertex polyhedron plane midpoint incid edg oper known various second truncat degener truncat rectif
+total graph
+total graph tg graph g vertic element vertic edg g edg two element whenev either incid adjac total graph may also obtain subdivid edg g take squar subdivid graph
+multigraph
+concept line graph g may natur extend case g multigraph case character graph simplifi character term cliqu partit longer need prevent two vertic belong cliqu character forbidden graph fewer forbidden graph
+howev multigraph larger number pair nonisomorph graph line graph instanc complet bipartit graph kn line graph dipol graph shannon multigraph number edg nevertheless analogu whitney isomorph theorem still deriv case
+line digraph
+also possibl general line graph direct graph g direct graph direct line graph line digraph one vertex edg g two vertic repres direct edg u v w x g connect edg uv wx line digraph v w edg line digraph g repres lengthtwo direct path g de bruijn graph may form repeat process form direct line graph start complet direct graph
+weight line graph
+line graph lg vertex degre k origin graph g creat kk edg line graph mani type analysi mean high degre node g repres line graph lg instanc consid random walk vertic origin graph g pass along edg e frequenc f hand edg e map uniqu vertex say v line graph lg perform type random walk vertic line graph frequenc v visit complet differ f edg e g connect node degre ok travers ok frequent line graph lg put anoth way whitney graph isomorph theorem guarante line graph almost alway encod topolog origin graph g faith guarante dynam two graph simpl relationship one solut construct weight line graph line graph weight edg sever natur way instanc edg d e graph g incid vertex v degre k line graph lg edg connect two vertic d e given weight k way everi edg g provid neither end connect vertex degre strength line graph lg correspond two end edg g straightforward extend definit weight line graph case origin graph g direct even weight principl case ensur line graph lg reflect dynam well topolog origin graph g
+line graph hypergraph
+edg hypergraph may form arbitrari famili set line graph hypergraph intersect graph set famili
+note
+refer
+extern link
+line graph inform system graph class inclus last visit sep
+weisstein eric w line graph mathworld

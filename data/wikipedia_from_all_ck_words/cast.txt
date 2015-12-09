@@ -1,0 +1,102 @@
+acoustics is the interdisciplinary science that deals with the study of all mechanical waves in gases liquids and solids including topics such as vibration sound ultrasound and infrasound a scientist who works in the field of acoustics is an acoustician while someone working in the field of acoustics technology may be called an acoustical engineer the application of acoustics is present in almost all aspects of modern society with the most obvious being the audio and noise control industries
+hearing is one of the most crucial means of survival in the animal world and speech is one of the most distinctive characteristics of human development and culture accordingly the science of acoustics spreads across many facets of human societymusic medicine architecture industrial production warfare and more likewise animal species such as songbirds and frogs use sound and hearing as a key element of mating rituals or marking territories art craft science and technology have provoked one another to advance the whole as in many other fields of knowledge robert bruce lindsay's wheel of acoustics is a well accepted overview of the various fields in acoustics
+the word acoustic is derived from the greek word (akoustikos) meaning of or for hearing ready to hear and that from (akoustos) heard audible which in turn derives from the verb (akouo) i hear
+the latin synonym is sonic after which the term sonics used to be a synonym for acoustics and later a branch of acoustics frequencies above and below the audible range are called ultrasonic and infrasonic respectively
+== historyedit ==
+=== early research in acousticsedit ===
+in the 6th century bc the ancient greek philosopher pythagoras wanted to know why some combinations of musical sounds seemed more beautiful than others and he found answers in terms of numerical ratios representing the harmonic overtone series on a string he is reputed to have observed that when the lengths of vibrating strings are expressible as ratios of integers (e.g 2 to 3 3 to 4) the tones produced will be harmonious and the smaller the integers the more harmonious the sounds if for example a string of a certain length would sound particularly harmonious with a string of twice the length (other factors being equal) in modern parlance if a string sounds the note c when plucked a string twice as long will sound a c an octave lower in one system of musical tuning the tones in between are then given by 16:9 for d 8:5 for e 3:2 for f 4:3 for g 6:5 for a and 16:15 for b in ascending order
+aristotle (384-322 bc) understood that sound consisted of contractions and expansions of the air falling upon and striking the air which is next to it... a very good expression of the nature of wave motion
+in about 20 bc the roman architect and engineer vitruvius wrote a treatise on the acoustic properties of theaters including discussion of interference echoes and reverberationthe beginnings of architectural acoustics in book v of his de architectura (the ten books of architecture) vitruvius describes sound as a wave comparable to a water wave extended to three dimensions which when interrupted by obstructions would flow back and break up following waves he described the ascending seats in ancient theaters as designed to prevent this deterioration of sound and also recommended bronze vessels of appropriate sizes be placed in theaters to resonate with the fourth fifth and so on up to the double octave in order to resonate with the more desirable harmonious notes
+the physical understanding of acoustical processes advanced rapidly during and after the scientific revolution mainly galileo galilei (15641642) but also marin mersenne (15881648) independently discovered the complete laws of vibrating strings (completing what pythagoras and pythagoreans had started 2000 years earlier) galileo wrote waves are produced by the vibrations of a sonorous body which spread through the air bringing to the tympanum of the ear a stimulus which the mind interprets as sound a remarkable statement that points to the beginnings of physiological and psychological acoustics experimental measurements of the speed of sound in air were carried out successfully between 1630 and 1680 by a number of investigators prominently mersenne meanwhile newton (16421727) derived the relationship for wave velocity in solids a cornerstone of physical acoustics (principia 1687)
+=== age of enlightenment and onwardedit ===
+the eighteenth century saw major advances in acoustics as mathematicians applied the new techniques of calculus to elaborate theories of sound wave propagation in the nineteenth century the major figures of mathematical acoustics were helmholtz in germany who consolidated the field of physiological acoustics and lord rayleigh in england who combined the previous knowledge with his own copious contributions to the field in his monumental work the theory of sound (1877) also in the 19th century wheatstone ohm and henry developed the analogy between electricity and acoustics
+the twentieth century saw a burgeoning of technological applications of the large body of scientific knowledge that was by then in place the first such application was sabines groundbreaking work in architectural acoustics and many others followed underwater acoustics was used for detecting submarines in the first world war sound recording and the telephone played important roles in a global transformation of society sound measurement and analysis reached new levels of accuracy and sophistication through the use of electronics and computing the ultrasonic frequency range enabled wholly new kinds of application in medicine and industry new kinds of transducers (generators and receivers of acoustic energy) were invented and put to use
+== fundamental concepts of acousticsedit ==
+=== definitionedit ===
+acoustics is defined by ansi/asa s1.1-2013 as (a) science of sound including its production transmission and effects including biological and psychological effects (b) those qualities of a room that together determine its character with respect to auditory effects.
+the study of acoustics revolves around the generation propagation and reception of mechanical waves and vibrations
+the steps shown in the above diagram can be found in any acoustical event or process there are many kinds of cause both natural and volitional there are many kinds of transduction process that convert energy from some other form into sonic energy producing a sound wave there is one fundamental equation that describes sound wave propagation the acoustic wave equation but the phenomena that emerge from it are varied and often complex the wave carries energy throughout the propagating medium eventually this energy is transduced again into other forms in ways that again may be natural and/or volitionally contrived the final effect may be purely physical or it may reach far into the biological or volitional domains the five basic steps are found equally well whether we are talking about an earthquake a submarine using sonar to locate its foe or a band playing in a rock concert
+the central stage in the acoustical process is wave propagation this falls within the domain of physical acoustics in fluids sound propagates primarily as a pressure wave in solids mechanical waves can take many forms including longitudinal waves transverse waves and surface waves
+acoustics looks first at the pressure levels and frequencies in the sound wave and how the wave interacts with the environment this interaction can be described as either a diffraction interference or a reflection or a mix of the three if several media are present a refraction can also occur transduction processes are also of special importance to acoustics
+=== wave propagation pressure levelsedit ===
+in fluids such as air and water sound waves propagate as disturbances in the ambient pressure level while this disturbance is usually small it is still noticeable to the human ear the smallest sound that a person can hear known as the threshold of hearing is nine orders of magnitude smaller than the ambient pressure the loudness of these disturbances is called the sound pressure level (spl) and is measured on a logarithmic scale in decibels
+=== wave propagation frequencyedit ===
+physicists and acoustic engineers tend to discuss sound pressure levels in terms of frequencies partly because this is how our ears interpret sound what we experience as higher pitched or lower pitched sounds are pressure vibrations having a higher or lower number of cycles per second in a common technique of acoustic measurement acoustic signals are sampled in time and then presented in more meaningful forms such as octave bands or time frequency plots both of these popular methods are used to analyze sound and better understand the acoustic phenomenon
+the entire spectrum can be divided into three sections audio ultrasonic and infrasonic the audio range falls between 20 hz and 20,000 hz this range is important because its frequencies can be detected by the human ear this range has a number of applications including speech communication and music the ultrasonic range refers to the very high frequencies 20,000 hz and higher this range has shorter wavelengths which allow better resolution in imaging technologies medical applications such as ultrasonography and elastography rely on the ultrasonic frequency range on the other end of the spectrum the lowest frequencies are known as the infrasonic range these frequencies can be used to study geological phenomena such as earthquakes
+analytic instruments such as the spectrum analyzer facilitate visualization and measurement of acoustic signals and their properties the spectrogram produced by such an instrument is a graphical display of the time varying pressure level and frequency profiles which give a specific acoustic signal its defining character
+=== transduction in acousticsedit ===
+a transducer is a device for converting one form of energy into another in an electroacoustic context this means converting sound energy into electrical energy (or vice versa) electroacoustic transducers include loudspeakers microphones hydrophones and sonar projectors these devices convert a sound pressure wave to or from an electric signal the most widely used transduction principles are electromagnetism electrostatics and piezoelectricity
+the transducers in most common loudspeakers (e.g woofers and tweeters) are electromagnetic devices that generate waves using a suspended diaphragm driven by an electromagnetic voice coil sending off pressure waves electret microphones and condenser microphones employ electrostaticsas the sound wave strikes the microphone's diaphragm it moves and induces a voltage change the ultrasonic systems used in medical ultrasonography employ piezoelectric transducers these are made from special ceramics in which mechanical vibrations and electrical fields are interlinked through a property of the material itself
+== acousticianedit ==
+an acoustician is an expert in the science of sound
+=== educationedit ===
+there are many types of acoustician but they usually have a bachelor's degree or higher qualification some possess a degree in acoustics while others enter the discipline via studies in fields such as physics or engineering much work in acoustics requires a good grounding in mathematics and science many acoustic scientists work in research and development some conduct basic research to advance our knowledge of the perception (e.g hearing psychoacoustics or neurophysiology) of speech music and noise other acoustic scientists advance understanding of how sound is affected as it moves through environments e.g underwater acoustics architectural acoustics or structural acoustics others areas of work are listed under subdisciplines below acoustic scientists work in government university and private industry laboratories many go on to work in acoustical engineering some positions such as faculty (academic staff) require a doctor of philosophy
+== subdisciplinesedit ==
+these subdisciplines are a slightly modified list from the pacs (physics and astronomy classification scheme) coding used by the acoustical society of america
+=== archaeoacousticsedit ===
+archaeoacoustics is the study of sound within archaeology this typically involves studying the acoustics of archaeological sites and artefacts
+=== aeroacousticsedit ===
+aeroacoustics is the study of noise generated by air movement for instance via turbulence and the movement of sound through the fluid air this knowledge is applied in acoustical engineering to study how to quieten aircraft aeroacoustics is important to understanding how wind musical instruments work
+=== acoustic signal processingedit ===
+acoustic signal processing is the electronic manipulation of acoustic signals applications include active noise control design for hearing aids or cochlear implants echo cancellation music information retrieval and perceptual coding (e.g mp3 or opus)
+=== architectural acousticsedit ===
+architectural acoustics (also known as building acoustics) involves the scientific understanding of how to achieve a good sound within a building it typically involves the study of speech intelligibility speech privacy and music quality in the built environment
+=== bioacousticsedit ===
+bioacoustics is the scientific study of the hearing and calls of animal calls as well as how animals are affected by the acoustic and sounds of their habitat
+=== electroacousticsedit ===
+this subdiscipline is concerned with the recording manipulation and reproduction of audio using electronics this might include products such as mobile phones large scale public address systems or virtual reality systems in research laboratories
+=== environmental noise and soundscapesedit ===
+environmental acoustics is concerned with noise and vibration caused by railways road traffic aircraft industrial equipment and recreational activities the main aim of these studies is to reduce levels of environmental noise and vibration research work now also has a focus on the positive use of sound in urban environments soundscapes and tranquility
+=== musical acousticsedit ===
+musical acoustics is the study of the physics of acoustic instruments the audio signal processing used in electronic music the computer analysis of music and composition and the perception and cognitive neuroscience of music
+=== psychoacousticsedit ===
+psychoacoustics explains how humans respond to sounds
+=== speechedit ===
+acousticians study the production processing and perception of speech speech recognition and speech synthesis are two important areas of speech processing using computers the subject also overlaps with the disciplines of physics physiology psychology and linguistics
+=== ultrasonicsedit ===
+ultrasonics deals with sounds at frequencies too high to be heard by humans specialisms include medical ultrasonics (including medical ultrasonography) sonochemistry material characterisation and underwater acoustics (sonar)
+=== underwater acousticsedit ===
+underwater acoustics is the scientific study of natural and man-made sounds underwater applications include sonar to locate submarines underwater communication by whales climate change monitoring by measuring sea temperatures acoustically sonic weapons and marine bioacoustics
+=== vibration and dynamicsedit ===
+this is the study of how mechanical systems vibrate and interact with their surroundings applications might include ground vibrations from railways vibration isolation to reduce vibration in operating theatres studying how vibration can damage health (vibration white finger) vibration control to protect a building from earthquakes or measuring how structure-borne sound moves through buildings
+== professional societiesedit ==
+the acoustical society of america (asa)
+institute of electrical and electronics engineers (ieee)
+institute of acoustics (ioa uk)
+the audio engineering society (aes)
+american society of mechanical engineers noise control and acoustics division (asme-ncad)
+international commission for acoustics (ica)
+american institute of aeronautics and astronautics aeroacoustics (aiaa)
+== academic journalsedit ==
+acta acustica united with acustica
+applied acoustics
+journal of the acoustical society of america (jasa)
+journal of the acoustical society of america express letters (jasa-el)
+journal of the audio engineering society
+journal of sound and vibration (jsv)
+journal of vibration and acoustics american society of mechanical engineers
+ultrasonics (journal)
+== see alsoedit ==
+== notes and referencesedit ==
+== further readingedit ==
+benade arthur h (1976) fundamentals of musical acoustics new york oxford university press oclc 2270137
+s.v biryukov y.v gulyaev v.v krylov and v.p plessky (1995) surface acoustic waves in inhomogeneous media springer
+m crocker (editor) 1994 encyclopedia of acoustics (interscience)
+falkovich g (2011) fluid mechanics a short course for physicists cambridge university press isbn 978-1-107-00575-4
+f fahy and p gardonio (2007) sound and structural vibration radiation transmission and response 2nd edition academic press
+m.c junger and d feit (1986) sound structures and their interaction 2nd edition mit press
+l e kinsler a r frey a b coppens and j v sanders 1999 fundamentals of acoustics fourth edition (wiley)
+mason w.p. thurston r.n physical acoustics (1981)
+philip m morse and k uno ingard 1986 theoretical acoustics (princeton university press) isbn 0-691-08425-4
+allan d pierce 1989 acoustics an introduction to its physical principles and applications (acoustical society of america) isbn 0-88318-612-8
+d r raichel 2006 the science and applications of acoustics second edition (springer) isbn 0-387-30089-9
+rayleigh j w s (1894) the theory of sound new york dover isbn 0-8446-3028-4
+e skudrzyk 1971 the foundations of acoustics basic mathematics and basic acoustics (springer)
+stephens r w b. bate a e (1966) acoustics and vibrational physics (2nd ed.) london edward arnold
+wilson charles e (2006) noise control (revised ed.) malabar fl krieger publishing company isbn 1-57524-237-0 oclc 59223706
+== external linksedit ==
+acoustical society of america
+institute of acoustic in uk
+national council of acoustical consultants
+international commission for acoustics
+institute of noise control engineers

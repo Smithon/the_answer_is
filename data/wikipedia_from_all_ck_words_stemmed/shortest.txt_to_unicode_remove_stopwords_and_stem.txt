@@ -1,0 +1,85 @@
+graph theori shortest path problem problem find path two vertic node graph sum weight constitu edg minim
+problem find shortest path two intersect road map graph vertic correspond intersect edg correspond road segment weight length road segment may model special case shortest path problem graph
+definit
+shortest path problem defin graph whether undirect direct mix defin undirect graph direct graph definit path requir consecut vertic connect appropri direct edg
+two vertic adjac incid common edg path undirect graph sequenc vertic adjac path call path length variabl number relat posit sequenc need relat canon label vertic
+let edg incid given realvalu weight function undirect simpl graph shortest path path possibl minim sum edg graph unit weight equival find path fewest edg
+problem also sometim call singlepair shortest path problem distinguish follow variat
+singlesourc shortest path problem find shortest path sourc vertex v vertic graph
+singledestin shortest path problem find shortest path vertic direct graph singl destin vertex v reduc singlesourc shortest path problem revers arc direct graph
+allpair shortest path problem find shortest path everi pair vertic v v graph
+general signific effici algorithm simplist approach run singlepair shortest path algorithm relev pair vertic
+algorithm
+import algorithm solv problem
+dijkstra algorithm solv singlesourc shortest path problem
+bellmanford algorithm solv singlesourc problem edg weight may negat
+search algorithm solv singl pair shortest path use heurist tri speed search
+floydwarshal algorithm solv pair shortest path
+johnson algorithm solv pair shortest path may faster floydwarshal spars graph
+viterbi algorithm solv shortest stochast path problem addit probabilist weight node
+addit algorithm associ evalu may found cherkasski goldberg radzik
+singlesourc shortest path
+undirect graph
+unweight graph
+direct acycl graph
+algorithm use topolog sort solv singlesourc shortest path problem linear time e v weight dag
+direct graph nonneg weight
+follow tabl taken schrijver green background indic asymptot best bound tabl
+planar direct graph nonneg weight
+direct graph arbitrari weight
+planar direct graph arbitrari weight
+allpair shortest path
+allpair shortest path problem find shortest path everi pair vertic v v graph allpair shortest path problem unweight direct graph introduc shimbel observ could solv linear number matrix multipl take total time ov
+undirect graph
+direct graph
+applic
+shortest path algorithm appli automat find direct physic locat drive direct web map websit like mapquest googl map applic fast special algorithm avail
+one repres nondeterminist abstract machin graph vertic describ state edg describ possibl transit shortest path algorithm use find optim sequenc choic reach certain goal state establish lower bound time need reach given state exampl vertic repres state puzzl like rubik cube direct edg correspond singl move turn shortest path algorithm use find solut use minimum possibl number move
+network telecommun mindset shortest path problem sometim call mindelay path problem usual tie widest path problem exampl algorithm may seek shortest mindelay widest path widest shortest mindelay path
+lightheart applic game six degre separ tri find shortest path graph like movi star appear film
+applic often studi oper research includ plant facil layout robot transport vlsi design
+road network
+road network consid graph posit weight node repres road junction edg graph associ road segment two junction weight edg may correspond length associ road segment time need travers segment cost travers segment use direct edg also possibl model oneway street graph special sens edg import other long distanc travel eg highway properti formal use notion highway dimens great number algorithm exploit properti therefor abl comput shortest path lot quicker would possibl general graph
+algorithm work two phase first phase graph preprocess without know sourc target node second phase queri phase phase sourc target node knownth idea road network static preprocess phase done use larg number queri road network
+algorithm fastest known queri time call hub label abl comput shortest path road network europ usa fraction microsecond techniqu use
+alt
+arc flag
+contract hierarchi
+transit node rout
+reach base prune
+label
+relat problem
+shortest path problem comput geometri see euclidean shortest path
+travel salesman problem problem find shortest path goe everi vertex exact return start unlik shortest path problem solv polynomi time graph without negat cycl travel salesman problem npcomplet believ effici solvabl larg set data see p np problem problem find longest path graph also npcomplet
+canadian travel problem stochast shortest path problem general either graph isnt complet known mover chang time action travers probabilist
+shortest multipl disconnect path represent primit path network within framework reptat theori
+widest path problem seek path minimum label edg larg possibl
+linear program formul
+natur linear program formul shortest path problem given simpl compar use linear program discret optim howev illustr connect concept
+given direct graph v sourc node target node cost wij edg j consid program variabl xij
+minim subject
+intuit behind indic variabl whether edg j part shortest path wish select set edg minim weight subject constraint set form path repres equal constraint vertic except number incom outcom edg part path must ie path
+lp special properti integr specif everi basic optim solut one exist variabl equal set edg whose variabl equal form st dipath see ahuja et al one proof although origin approach date back midth centuri
+dual linear program
+maxim yt ys subject ij yj yi wij
+feasibl dual correspond concept consist heurist algorithm shortest path feasibl dual y reduc cost nonneg essenti run dijkstra algorithm reduc cost
+general algebra framework semir algebra path problem
+mani problem frame form shortest path suitabl substitut notion addit along path take minimum general approach consid two oper semir semir multipl done along path addit path general framework known algebra path problem
+classic shortestpath algorithm new one formul solv linear system algebra structur
+recent even general framework solv much less obvious relat problem develop banner valuat algebra
+see also
+pathfind
+ieee aq
+flow network
+shortest path tree
+euclidean shortest path
+minplus matrix multipl
+bidirect search algorithm find shortest path two vertic direct graph
+refer
+note
+bibliographi
+miss refer
+dantzig
+read
+frigioni d marchettispaccamela nanni u fulli dynam output bound singl sourc shortest path problem proc th annu acmsiam symp discret algorithm atlanta ga pp
+dreyfus e octob apprais shortest path algorithm pdf report project rand unit state air forc rmpr dtic ad

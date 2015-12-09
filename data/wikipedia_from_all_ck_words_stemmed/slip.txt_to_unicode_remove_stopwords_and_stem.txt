@@ -1,0 +1,20 @@
+serial line internet protocol also slip encapsul internet protocol design work serial port modem connect document rfc person comput slip larg replac pointtopoint protocol ppp better engin featur requir ip address configur set establish microcontrol howev slip still prefer way encapsul ip packet due small overhead
+peopl refer success wide use rfc serial line internet protocol rick adam slip avoid confus propos protocol name slip protocol includ much complic rfc appendix d serial line interfac protocol
+descript
+slip modifi standard tcpip datagram
+append special end byte distinguish datagram boundari byte stream
+end byte occur data sent two byte sequenc esc escend sent instead
+esc byte occur data two byte sequenc esc escesc sent
+variant protocol may begin well end packet end
+slip requir serial port configur data bit pariti either eia hardwar flow control clocal mode wire nullmodem uart oper set
+slip provid error detect reliant upper layer protocol therefor slip satisfactori errorpron dialup connect howev still use test oper system respons capabl load look floodp statist
+cslip
+version slip header compress call compress slip cslip compress algorithm use cslip known van jacobson tcpip header compress cslip effect data payload packet independ compress serial line modem use transmiss reduc transmiss control protocol tcp header twenti byte seven byte cslip effect user datagram protocol udp datagram
+see also
+slirp
+kaq
+direct cabl connect
+inband signal
+kiss tnc
+extern link
+b rfc requir internet standard pointtopoint protocol

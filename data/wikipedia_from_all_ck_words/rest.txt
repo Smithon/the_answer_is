@@ -1,0 +1,65 @@
+in computing representational state transfer (rest) is the software architectural style of the world wide web rest gives a coordinated set of constraints to the design of components in a distributed hypermedia system that can lead to a higher-performing and more maintainable architecture
+to the extent that systems conform to the constraints of rest they can be called restful restful systems typically but not always communicate over hypertext transfer protocol (http) with the same http verbs (get post put delete etc.) which web browsers use to retrieve web pages and to send data to remote servers rest interfaces with external systems using resources identified by uniform resource identifier (uri) for example /people/tom which can be operated upon using standard verbs such as delete /people/tom
+rest was initially proposed by roy thomas fielding in his 2000 phd dissertation architectural styles and the design of network-based software architectures fielding developed the rest architectural style in parallel with http 1.1 of 1996-1999 based on the existing design of http 1.0 of 1996
+== architectural propertiesedit ==
+the architectural properties affected by the constraints of the rest architectural style are
+performance - component interactions can be the dominant factor in user-perceived performance and network efficiency
+scalability to support large numbers of components and interactions among components roy fielding one of the principal authors of the http specification describes rest's effect on scalability thus
+simplicity of interfaces
+modifiability of components to meet changing needs (even while the application is running)
+visibility of communication between components by service agents
+portability of components by moving program code with the data
+reliability is the resistance to failure at the system level in the presence of failures within components connectors or data
+== architectural constraintsedit ==
+the architectural properties of rest are realized by applying specific interaction constraints to components connectors and data elements one can characterise applications conforming to the rest constraints described in this section as restful if a service violates any of the required constraints it cannot be considered restful complying with these constraints and thus conforming to the rest architectural style enables any kind of distributed hypermedia system to have desirable non-functional properties such as performance scalability simplicity modifiability visibility portability and reliability
+the formal rest constraints are
+=== clientserveredit ===
+a uniform interface separates clients from servers this separation of concerns means that for example clients are not concerned with data storage which remains internal to each server so that the portability of client code is improved servers are not concerned with the user interface or user state so that servers can be simpler and more scalable servers and clients may also be replaced and developed independently as long as the interface between them is not altered
+=== statelessedit ===
+the clientserver communication is further constrained by no client context being stored on the server between requests each request from any client contains all the information necessary to service the request and session state is held in the client the session state can be transferred by the server to another service such as a database to maintain a persistent state for a period and allow authentication the client begins sending requests when it is ready to make the transition to a new state while one or more requests are outstanding the client is considered to be in transition the representation of each application state contains links that may be used the next time the client chooses to initiate a new state-transition
+=== cacheableedit ===
+as on the world wide web clients and intermediaries can cache responses responses must therefore implicitly or explicitly define themselves as cacheable or not to prevent clients from reusing stale or inappropriate data in response to further requests well-managed caching partially or completely eliminates some clientserver interactions further improving scalability and performance
+=== layered systemedit ===
+a client cannot ordinarily tell whether it is connected directly to the end server or to an intermediary along the way intermediary servers may improve system scalability by enabling load balancing and by providing shared caches they may also enforce security policies
+=== code on demand (optional)edit ===
+servers can temporarily extend or customize the functionality of a client by the transfer of executable code examples of this may include compiled components such as java applets and client-side scripts such as javascript code on demand is the only optional constraint of the rest architecture
+=== uniform interfaceedit ===
+the uniform interface constraint is fundamental to the design of any rest service the uniform interface simplifies and decouples the architecture which enables each part to evolve independently the four constraints for this uniform interface are
+identification of resources
+individual resources are identified in requests for example using uris in web-based rest systems the resources themselves are conceptually separate from the representations that are returned to the client for example the server may send data from its database as html xml or json none of which are the server's internal representation
+manipulation of resources through these representations
+when a client holds a representation of a resource including any metadata attached it has enough information to modify or delete the resource
+self-descriptive messages
+each message includes enough information to describe how to process the message for example which parser to invoke may be specified by an internet media type (previously known as a mime type) responses also explicitly indicate their cacheability
+hypermedia as the engine of application state (hateoas)
+clients make state transitions only through actions that are dynamically identified within hypermedia by the server (e.g. by hyperlinks within hypertext) except for simple fixed entry points to the application a client does not assume that any particular action is available for any particular resources beyond those described in representations previously received from the server
+== applied to web servicesedit ==
+web service apis that adhere to the rest architectural constraints are called restful apis http-based restful apis are defined with these aspects
+base uri such as http://example.com/resources/
+an internet media type for the data this is often json but can be any other valid internet media type (e.g. xml atom microformats images etc.)
+standard http methods (e.g. get put post or delete)
+hypertext links to reference state
+hypertext links to reference-related resources
+=== exampleedit ===
+the following table shows the http methods that are typically used to implement a restful api
+the put and delete methods are referred to as idempotent meaning that the operation will produce the same result no matter how many times it is repeated the get method is a safe method (or nullipotent) meaning that calling it produces no side-effects in other words retrieving or accessing a record does not change it
+unlike soap-based web services there is no official standard for restful web apis this is because rest is an architectural style while soap is a protocol even though rest is not a standard per se most restful implementations make use of standards such as http uri json and xml
+== see alsoedit ==
+create read update and delete (crud)
+domain application protocol (dap)
+microservices
+resource-oriented architecture (roa)
+resource-oriented computing (roc)
+semantic urls
+service-oriented architecture (soa)
+web-oriented architecture (woa)
+overview of restful api description languages
+odata protocol for rest apis
+raml (software)
+rsdl (restful service description language)
+swagger specification for defining interfaces
+== further readingedit ==
+pautasso cesare wilde erik alarcon rosa (2014) rest advanced research topics and practical applications
+pautasso cesare zimmermann olaf leymann frank (april 2008) restful web services vs big web services making the right architectural decision 17th international world wide web conference (www2008) (beijing china)
+ferreira otavio (nov 2009) semantic web services a restful approach iadis isbn 978-972-8924-93-5
+== referencesedit ==

@@ -1,0 +1,65 @@
+in mathematics mean has several different definitions depending on the context
+in probability and statistics mean and expected value are used synonymously to refer to one measure of the central tendency either of a probability distribution or of the random variable characterized by that distribution in the case of a discrete probability distribution of a random variable x the mean is equal to the sum over every possible value weighted by the probability of that value that is it is computed by taking the product of each possible value x of x and its probability p(x) and then adding all these products together giving  an analogous formula applies to the case of a continuous probability distribution not every probability distribution has a defined mean see the cauchy distribution for an example moreover for some distributions the mean is infinite for example when the probability of the value is for n = 1 2 3 
+for a data set the terms arithmetic mean mathematical expectation and sometimes average are used synonymously to refer to a central value of a discrete set of numbers specifically the sum of the values divided by the number of values the arithmetic mean of a set of numbers x1 x2  xn is typically denoted by  pronounced x bar if the data set were based on a series of observations obtained by sampling from a statistical population the arithmetic mean is termed the sample mean (denoted ) to distinguish it from the population mean (denoted or )
+for a finite population the population mean of a property is equal to the arithmetic mean of the given property while considering every member of the population for example the population mean height is equal to the sum of the heights of every individual divided by the total number of individuals the sample mean may differ from the population mean especially for small samples the law of large numbers dictates that the larger the size of the sample the more likely it is that the sample mean will be close to the population mean
+outside of probability and statistics a wide range of other notions of mean are often used in geometry and analysis examples are given below
+== types of meanedit ==
+=== pythagorean meansedit ===
+==== arithmetic mean (am)edit ====
+the arithmetic mean (or simply mean") of a sample  usually denoted by  is the sum of the sampled values divided by the number of items in the sample
+for example the arithmetic mean of five values 4 36 45 50 75 is
+==== geometric mean (gm)edit ====
+the geometric mean is an average that is useful for sets of positive numbers that are interpreted according to their product and not their sum (as is the case with the arithmetic mean) e.g rates of growth
+for example the geometric mean of five values 4 36 45 50 75 is
+==== harmonic mean (hm)edit ====
+the harmonic mean is an average which is useful for sets of numbers which are defined in relation to some unit for example speed (distance per unit of time)
+for example the harmonic mean of the five values 4 36 45 50 75 is
+==== relationship between am gm and hmedit ====
+am gm and hm satisfy these inequalities
+equality holds only when all the elements of the given sample are equal
+=== statistical locationedit ===
+in descriptive statistics the mean may be confused with the median mode or mid-range as any of these may be called an average (more formally a measure of central tendency) the mean of a set of observations is the arithmetic average of the values however for skewed distributions the mean is not necessarily the same as the middle value (median) or the most likely value (mode) for example mean income is typically skewed upwards by a small number of people with very large incomes so that the majority have an income lower than the mean by contrast the median income is the level at which half the population is below and half is above the mode income is the most likely income and favors the larger number of people with lower incomes while the median and mode are often more intuitive measures for such skewed data many skewed distributions are in fact best described by their mean including the exponential and poisson distributions
+=== mean of a probability distributionedit ===
+the mean of a probability distribution is the long-run arithmetic average value of a random variable having that distribution in this context it is also known as the expected value for a discrete probability distribution the mean is given by  where the sum is taken over all possible values of the random variable and is the probability mass function for a continuous distribution the mean is  where is the probability density function in all cases including those in which the distribution is neither discrete nor continuous the mean is the lebesgue integral of the random variable with respect to its probability measure the mean need not exist or be finite for some probability distributions the mean is infinite (+ or ) while others have no mean
+=== generalized meansedit ===
+==== power meanedit ====
+the generalized mean also known as the power mean or hlder mean is an abstraction of the quadratic arithmetic geometric and harmonic means it is defined for a set of n positive numbers xi by
+by choosing different values for the parameter m the following types of means are obtained
+==== -meanedit ====
+this can be generalized further as the generalized f-mean
+and again a suitable choice of an invertible will give
+=== weighted arithmetic meanedit ===
+the weighted arithmetic mean (or weighted average) is used if one wants to combine average values from samples of the same population with different sample sizes
+the weights represent the sizes of the different samples in other applications they represent a measure for the reliability of the influence upon the mean by the respective values
+=== truncated meanedit ===
+sometimes a set of numbers might contain outliers i.e. data values which are much lower or much higher than the others often outliers are erroneous data caused by artifacts in this case one can use a truncated mean it involves discarding given parts of the data at the top or the bottom end typically an equal amount at each end and then taking the arithmetic mean of the remaining data the number of values removed is indicated as a percentage of total number of values
+=== interquartile meanedit ===
+the interquartile mean is a specific example of a truncated mean it is simply the arithmetic mean after removing the lowest and the highest quarter of values
+assuming the values have been ordered so is simply a specific example of a weighted mean for a specific set of weights
+=== mean of a functionedit ===
+in some circumstances mathematicians may calculate a mean of an infinite (even an uncountable) set of values this can happen when calculating the mean value of a function  intuitively this can be thought of as calculating the area under a section of a curve and then dividing by the length of that section this can be done crudely by counting squares on graph paper or more precisely by integration the integration formula is written as
+care must be taken to make sure that the integral converges but the mean may be finite even if the function itself tends to infinity at some points
+=== mean of anglesedit ===
+sometimes the usual calculations of means fail on cyclical quantities such as angles times of day and other situations where modular arithmetic is used for those quantities it might be appropriate to use a mean of circular quantities to take account of the modular values or to adjust the values before calculating the mean
+=== frchet meanedit ===
+the frchet mean gives a manner for determining the center of a mass distribution on a surface or more generally riemannian manifold unlike many other means the frchet mean is defined on a space whose elements cannot necessarily be added together or multiplied by scalars it is sometimes also known as the karcher mean (named after hermann karcher)
+=== other meansedit ===
+== distribution of the sample meanedit ==
+the arithmetic mean of a population or population mean is denoted  the sample mean (the arithmetic mean of a sample of values drawn from the population) makes a good estimator of the population mean as its expected value is equal to the population mean (that is it is an unbiased estimator) the sample mean is a random variable not a constant since its calculated value will randomly differ depending on which members of the population are sampled and consequently it will have its own distribution for a random sample of n observations from a normally distributed population the sample mean distribution is normally distributed with mean and variance as follows
+often since the population variance is an unknown parameter it is estimated by the mean sum of squares when this estimated value is used the distribution of the sample mean is no longer a normal distribution but rather a student's t distribution with n 1 degrees of freedom
+== see alsoedit ==
+central tendency
+descriptive statistics
+kurtosis
+law of averages
+mean value theorem
+median
+mode (statistics)
+summary statistics
+taylor's law
+== referencesedit ==
+== external linksedit ==
+weisstein eric w. mean mathworld
+weisstein eric w. arithmetic mean mathworld
+comparison between arithmetic and geometric mean of two numbers
+some relationships involving means

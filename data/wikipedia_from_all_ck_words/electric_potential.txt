@@ -1,0 +1,45 @@
+an electric potential (also called the electric field potential or the electrostatic potential) is the amount of electric potential energy that a unitary point electric charge would have if located at any point in space and is equal to the work done by an electric field in carrying a unit of positive charge from infinity to that point
+according to theoretical electromagnetics electric potential is a scalar quantity denoted by (phi) e or v equal to the electric potential energy of any charged particle at any location (measured in joules) divided by the charge of that particle (measured in coulombs) by dividing out the charge on the particle a remainder is obtained that is a property of the electric field itself
+this value can be calculated in either a static (time-invariant) or a dynamic (varying with time) electric field at a specific time in units of joules per coulomb (j c1) or volts (v) the electric potential at infinity is assumed to be zero
+a generalized electric scalar potential is also used in electrodynamics when time-varying electromagnetic fields are present but this can not be so simply calculated the electric potential and the magnetic vector potential together form a four vector so that the two kinds of potential are mixed under lorentz transformations
+== introductionedit ==
+classical mechanics explores concepts such as force energy potential etc force and potential energy are directly related a net force acting on any object will cause it to accelerate as an object moves in the direction in which the force accelerates it its potential energy decreases the gravitational potential energy of a cannonball at the top of a hill is greater than at the base of the hill as it rolls downhill its potential energy decreases being translated to motion inertial (kinetic) energy
+it is possible to define the potential of certain force fields so that the potential energy of an object in that field depends only on the position of the object with respect to the field two such force fields are the gravitational field and an electric field (in the absence of time-varying magnetic fields) such fields must affect objects due to the intrinsic properties of the object (e.g. mass or charge) and the position of the object
+objects may possess a property known as electric charge and an electric field exerts a force on charged objects if the charged object has a positive charge the force will be in the direction of the electric field vector at that point while if the charge is negative the force will be in the opposite direction the magnitude of the force is given by the quantity of the charge multiplied by the magnitude of the electric field vector
+== electrostaticsedit ==
+the electric potential at a point r in a static electric field e is given by the line integral
+where c is an arbitrary path connecting the point with zero potential to r when the curl e is zero the line integral above does not depend on the specific path c chosen but only on its endpoints in this case the electric field is conservative and determined by the gradient of the potential
+then by gauss's law the potential satisfies poisson's equation
+where is the total charge density (including bound charge) and denotes the divergence
+the concept of electric potential is closely linked with potential energy a test charge q has an electric potential energy ue given by
+the potential energy and hence also the electric potential is only defined up to an additive constant one must arbitrarily choose a position where the potential energy and the electric potential are zero
+these equations cannot be used if the curl e 0 i.e. in the case of a nonconservative electric field (caused by a changing magnetic field see maxwell's equations) the generalization of electric potential to this case is described below
+=== electric potential due to a point chargeedit ===
+the electric potential created by a point charge q at a distance r from the charge (relative to the potential at infinity) can be shown to be
+where 0 is the electric constant (permittivity of vacuum) this is known as the coulomb potential
+the electric potential due to a system of point charges is equal to the sum of the point charges individual potentials this fact simplifies calculations significantly since addition of potential (scalar) fields is much easier than addition of the electric (vector) fields
+the equation given above for the electric potential (and all the equations used here) are in the forms required by si units in some other (less common) systems of units such as cgs-gaussian many of these equations would be altered
+== generalization to electrodynamicsedit ==
+when time-varying magnetic fields are present (which is true whenever there are time-varying electric fields and vice versa) it is not possible to describe the electric field simply in terms of a scalar potential v because the electric field is no longer conservative is path-dependent because (faraday's law of induction)
+instead one can still define a scalar potential by also including the magnetic vector potential a in particular a is defined to satisfy
+where b is the magnetic field because the divergence of the magnetic field is always zero due to the absence of magnetic monopoles such an a can always be found given this the quantity
+is a conservative field by faraday's law and one can therefore write
+where v is the scalar potential defined by the conservative field f
+the electrostatic potential is simply the special case of this definition where a is time-invariant on the other hand for time-varying fields
+unlike electrostatics
+== unitsedit ==
+the si unit of electric potential is the volt (in honor of alessandro volta) which is why a difference in electric potential between two points is known as voltage older units are rarely used today variants of the centimeter gram second system of units included a number of different units for electric potential including the abvolt and the statvolt
+== galvani potential versus electrochemical potentialedit ==
+inside metals (and other solids and liquids) the energy of an electron is affected not only by the electric potential but also by the specific atomic environment that it is in when a voltmeter is connected between two different types of metal it measures not the electric potential difference but instead the potential difference corrected for the different atomic environments the quantity measured by a voltmeter is called electrochemical potential or fermi level while the pure unadjusted electric potential is sometimes called galvani potential the terms voltage and electric potential are a bit ambiguous in that in practice they can refer to either of these in different contexts
+== see alsoedit ==
+absolute electrode potential
+electrochemical potential
+electrode potential
+gluon field
+linardwiechert potential
+mathematical descriptions of the electromagnetic field
+voltage or (electric) potential difference
+== referencesedit ==
+griffiths david j (1998) introduction to electrodynamics (3rd ed.) prentice hall isbn 0-13-805326-x
+jackson john david (1999) classical electrodynamics (3rd ed.) usa john wiley & sons inc isbn 978-0-471-30932-1
+wangsness roald k (1986) electromagnetic fields (2nd. revised illustrated ed.) wiley isbn 978-0-471-81186-2

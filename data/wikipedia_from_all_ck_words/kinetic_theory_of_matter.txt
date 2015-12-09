@@ -1,0 +1,109 @@
+this article applies to gases see also kinetic theory of solids
+the kinetic theory describes a gas as a large number of submicroscopic particles (atoms or molecules) all of which are in constant random motion the rapidly moving particles constantly collide with each other and with the walls of the container kinetic theory explains macroscopic properties of gases such as pressure temperature viscosity thermal conductivity and volume by considering their molecular composition and motion the theory posits that gas pressure is due to the impacts on the walls of a container of molecules or atoms moving at different velocities
+kinetic theory defines temperature in its own way not identical with the thermodynamic definition
+under a microscope the molecules making up a liquid are too small to be visible but the jittering motion of pollen grains or dust particles can be seen known as brownian motion it results directly from collisions between the grains or particles and liquid molecules as analyzed by albert einstein in 1905 this experimental evidence for kinetic theory is generally seen as having confirmed the concrete material existence of atoms and molecules
+== assumptions ==
+the theory for ideal gases makes the following assumptions
+the gas consists of very small particles known as molecules this smallness of their size is such that the total volume of the individual gas molecules added up is negligible compared to the volume of the smallest open ball containing all the molecules this is equivalent to stating that the average distance separating the gas particles is large compared to their size
+these particles have the same mass
+the number of molecules is so large that statistical treatment can be applied
+these molecules are in constant random and rapid motion
+the rapidly moving particles constantly collide among themselves and with the walls of the container all these collisions are perfectly elastic this means the molecules are considered to be perfectly spherical in shape and elastic in nature
+except during collisions the interactions among molecules are negligible (that is they exert no forces on one another.)
+this implies
+1 relativistic effects are negligible
+2 quantum-mechanical effects are negligible this means that the inter-particle distance is much larger than the thermal de broglie wavelength and the molecules are treated as classical objects
+3 because of the above two their dynamics can be treated classically this means the equations of motion of the molecules are time-reversible
+the average kinetic energy of the gas particles depends only on the absolute temperature of the system the kinetic theory has its own definition of temperature not identical with the thermodynamic definition
+the time during collision of molecule with the container's wall is negligible as compared to the time between successive collisions
+because they have mass the gas molecules will be affected by gravity
+more modern developments relax these assumptions and are based on the boltzmann equation these can accurately describe the properties of dense gases because they include the volume of the molecules the necessary assumptions are the absence of quantum effects molecular chaos and small gradients in bulk properties expansions to higher orders in the density are known as virial expansions
+an important book on kinetic theory is that by chapman and cowling an important approach to the subject is called chapmanenskog theory there have been many modern developments and there is an alternative approach developed by grad based on moment expansions in the other limit for extremely rarefied gases the gradients in bulk properties are not small compared to the mean free paths this is known as the knudsen regime and expansions can be performed in the knudsen number
+== properties ==
+=== pressure and kinetic energy ===
+pressure is explained by kinetic theory as arising from the force exerted by molecules or atoms impacting on the walls of a container consider a gas of n molecules each of mass m enclosed in a cuboidal container of volume v=l3 when a gas molecule collides with the wall of the container perpendicular to the x coordinate axis and bounces off in the opposite direction with the same speed (an elastic collision) then the momentum lost by the particle and gained by the wall is
+where vx is the x-component of the initial velocity of the particle
+the particle impacts one specific side wall once every
+(where l is the distance between opposite walls)
+the force due to this particle is
+the total force on the wall is
+where the bar denotes an average over the n particles since the assumption is that the particles move in random directions we will have to conclude that if we divide the velocity vectors of all particles in three mutually perpendicular directions the average value along each direction must be equal (though their proportions are arbitrary for individual particles) that is
+we can rewrite the force as
+this force is exerted on an area l2 therefore the pressure of the gas is
+where v=l3 is the volume of the box the ratio n=n/v is the number density of the gas (the mass density =nm is less convenient for theoretical derivations on atomic level) using n we can rewrite the pressure as
+this is a first non-trivial result of the kinetic theory because it relates pressure a macroscopic property to the average (translational) kinetic energy per molecule which is a microscopic property
+=== temperature and kinetic energy ===
+rewriting the above result for the pressure as  we may combine it with the ideal gas law
+where is the boltzmann constant and the absolute temperature defined by the ideal gas law to obtain
+which leads to the expression of the average kinetic energy of a molecule
+the kinetic energy of the system is n times that of a molecule namely  then the temperature takes the form
+which becomes
+eq.(3) is one important result of the kinetic theory the average molecular kinetic energy is proportional to the ideal gas law's absolute temperature from eq.(1) and eq.(3) we have
+thus the product of pressure and volume per mole is proportional to the average (translational) molecular kinetic energy
+eq.(1) and eq.(4) are called the classical results which could also be derived from statistical mechanics for more details see
+since there are degrees of freedom in a monatomic-gas system with particles the kinetic energy per degree of freedom per molecule is
+in the kinetic energy per degree of freedom the constant of proportionality of temperature is 1/2 times boltzmann constant in addition to this the temperature will decrease when the pressure drops to a certain point this result is related to the equipartition theorem
+as noted in the article on heat capacity diatomic gases should have 7 degrees of freedom but the lighter gases act as if they have only 5
+thus the kinetic energy per kelvin (monatomic ideal gas) is
+per mole 12.47 j
+per molecule 20.7 yj = 129 ev
+at standard temperature (273.15 k) we get
+per mole 3406 j
+per molecule 5.65 zj = 35.2 mev
+=== collisions with container ===
+one can calculate the number of atomic or molecular collisions with a wall of a container per unit area per unit time
+assuming an ideal gas a derivation results in an equation for total number of collisions per unit time per area
+this quantity is also known as the impingement rate in vacuum physics
+=== speed of molecules ===
+from the kinetic energy formula it can be shown that
+with v in m/s t in kelvins and m is the molecular mass (kg) the most probable speed is 81.6% of the rms speed and the mean speeds 92.1% (isotropic distribution of speeds)
+see root-mean-square speed
+=== transport properties ===
+the kinetic theory of gases deals not only with gases in thermodynamic equilibrium but also very importantly with gases not in thermodynamic equilibrium this means considering what are known as transport properties such a viscosity and thermal conductivity
+== history ==
+in approximately 50 bce the roman philosopher lucretius proposed that apparently static macroscopic bodies were composed on a small scale of rapidly moving atoms all bouncing off each other this epicurean atomistic point of view was rarely considered in the subsequent centuries when aristotlean ideas were dominant
+in 1738 daniel bernoulli published hydrodynamica which laid the basis for the kinetic theory of gases in this work bernoulli posited the argument still used to this day that gases consist of great numbers of molecules moving in all directions that their impact on a surface causes the gas pressure that we feel and that what we experience as heat is simply the kinetic energy of their motion the theory was not immediately accepted in part because conservation of energy had not yet been established and it was not obvious to physicists how the collisions between molecules could be perfectly elastic
+other pioneers of the kinetic theory (which were neglected by their contemporaries) were mikhail lomonosov (1747) georges-louis le sage (ca 1780 published 1818) john herapath (1816) and john james waterston (1843) which connected their research with the development of mechanical explanations of gravitation in 1856 august krnig (probably after reading a paper of waterston) created a simple gas-kinetic model which only considered the translational motion of the particles
+in 1857 rudolf clausius according to his own words independently of krnig developed a similar but much more sophisticated version of the theory which included translational and contrary to krnig also rotational and vibrational molecular motions in this same work he introduced the concept of mean free path of a particle in 1859 after reading a paper by clausius james clerk maxwell formulated the maxwell distribution of molecular velocities which gave the proportion of molecules having a certain velocity in a specific range this was the first-ever statistical law in physics in his 1873 thirteen page article molecules maxwell states we are told that an atom is a material point invested and surrounded by potential forces and that when flying molecules strike against a solid body in constant succession it causes what is called pressure of air and other gases. in 1871 ludwig boltzmann generalized maxwell's achievement and formulated the maxwellboltzmann distribution also the logarithmic connection between entropy and probability was first stated by him
+in the beginning of the twentieth century however atoms were considered by many physicists to be purely hypothetical constructs rather than real objects an important turning point was albert einstein's (1905) and marian smoluchowski's (1906) papers on brownian motion which succeeded in making certain accurate quantitative predictions based on the kinetic theory
+== see also ==
+bogoliubov-born-green-kirkwood-yvon hierarchy of equations
+boltzmann equation
+collision theory
+critical temperature
+gas laws
+heat
+maxwellboltzmann distribution
+mixmaster dynamics
+thermodynamics
+vlasov equation
+== references ==
+clausius r (1857) ueber die art der bewegung welche wir wrme nennen annalen der physik 176 (3) 353379 bibcode:1857anp...176..353c doi:10.1002/andp.18571760302
+de groot s r. w a van leeuwen and ch g van weert (1980) relativistic kinetic theory north-holland amsterdam
+einstein a (1905) ber die von der molekularkinetischen theorie der wrme geforderte bewegung von in ruhenden flssigkeiten suspendierten teilchen (pdf) annalen der physik 17 (8) 549560 bibcode:1905anp...322..549e doi:10.1002/andp.19053220806
+grad harold (1949) on the kinetic theory of rarefied gases. communications on pure and applied mathematics 2 (4) 331407 doi:10.1002/cpa.3160020403
+herapath j (1816) on the physical properties of gases annals of philosophy (robert baldwin) 5660
+herapath j (1821) on the causes laws and phenomena of heat gases gravitation annals of philosophy (baldwin cradock and joy) 9 273293
+krnig a (1856) grundzge einer theorie der gase annalen der physik 99 (10) 315322 bibcode:1856anp...175..315k doi:10.1002/andp.18561751008
+le sage g.-l (1818) physique mcanique des georges-louis le sage in prvost pierre deux traites de physique mcanique geneva & paris j.j paschoud pp 1186
+liboff r l (1990) kinetic theory prentice-hall englewood cliffs n j
+lomonosov m (1970) [1758] on the relation of the amount of material and weight in henry m leicester mikhail vasil'evich lomonosov on the corpuscular theory cambridge harvard university press pp 224233
+mahon basil (2003) the man who changed everything the life of james clerk maxwell hoboken new jersey wiley isbn 0-470-86171-1
+maxwell james clerk (1873) molecules ( scholar search) nature 417 (6892) 903 bibcode:2002natur.417..903m doi:10.1038/417903a pmid 12087385
+smoluchowski m (1906) zur kinetischen theorie der brownschen molekularbewegung und der suspensionen annalen der physik 21 (14) 756780 bibcode:1906anp...326..756v doi:10.1002/andp.19063261405
+waterston john james (1843) thoughts on the mental functions (reprinted in his papers 3 167 183.)
+williams m m r (1971) mathematical methods in particle transport theory butterworths london
+== endnotes ==
+== further reading ==
+sydney chapman and t.g cowling (1939/1970) the mathematical theory of non-uniform gases an account of the kinetic theory of viscosity thermal conduction and diffusion in gases (first edition 1939 second edition 1952) third edition 1970 prepared in co-operation with d burnett cambridge university press london
+j.o hirschfelder c.f curtiss and r.b bird (1964) molecular theory of gases and liquids second edition (wiley)
+r.l liboff (2003) kinetic theory classical quantum and relativistic descriptions third edition (springer)
+== external links ==
+early theories of gases
+thermodynamics - a chapter from an online textbook
+temperature and pressure of an ideal gas the equation of state on project physnet
+introduction to the kinetic molecular theory of gases from the upper canada district school board
+java animation illustrating the kinetic theory from university of arkansas
+flowchart linking together kinetic theory concepts from hyperphysics
+interactive java applets allowing high school students to experiment and discover how various factors affect rates of chemical reactions
+https://www.youtube.com/watch?v=47bf13o8pb8&list=uuxrjjddeqlggjjbp1smnh8a a demonstration apparatus for the thermal agitation in gases

@@ -1,0 +1,105 @@
+in statistics a likelihood function (often simply the likelihood) is a function of the parameters of a statistical model likelihood functions play a key role in statistical inference especially methods of estimating a parameter from a set of statistics in informal contexts likelihood is often used as a synonym for probability. but in statistical usage a distinction is made depending on the roles of the outcome or parameter probability is used when describing a function of the outcome given a fixed parameter value for example if a coin is flipped 10 times and it is a fair coin what is the probability of it landing heads-up every time likelihood is used when describing a function of a parameter given an outcome for example if a coin is flipped 10 times and it has landed heads-up 10 times what is the likelihood that the coin is fair
+== definition ==
+the likelihood of a set of parameter value   given outcomes x is equal to the probability of those observed outcomes given those parameter values that is
+the likelihood function is defined differently for discrete and continuous probability distributions
+=== discrete probability distribution ===
+let x be a random variable with a discrete probability distribution p depending on a parameter  then the function
+considered as a function of  is called the likelihood function (of  given the outcome x of x) sometimes the probability on the value x of x for the parameter value is written as  often written as to emphasize that this differs from which is not a conditional probability because is a parameter and not a random variable
+=== continuous probability distribution ===
+let x be a random variable with a continuous probability distribution with density function f depending on a parameter  then the function
+considered as a function of  is called the likelihood function (of  given the outcome x of x) sometimes the density function for the value x of x for the parameter value is written as  but should not be confused with which should not be considered a conditional probability density
+for discussion about making inferences via likelihood functions see the method of maximum likelihood and likelihood-ratio testing
+== log-likelihood ==
+for many applications the natural logarithm of the likelihood function called the log-likelihood is more convenient to work with because the logarithm is a monotonically increasing function the logarithm of a function achieves its maximum value at the same points as the function itself and hence the log-likelihood can be used in place of the likelihood in maximum likelihood estimation and related techniques finding the maximum of a function often involves taking the derivative of a function and solving for the parameter being maximized and this is often easier when the function being maximized is a log-likelihood rather than the original likelihood function
+for example some likelihood functions are for the parameters that explain a collection of statistically independent observations in such a situation the likelihood function factors into a product of individual likelihood functions the logarithm of this product is a sum of individual logarithms and the derivative of a sum of terms is often easier to compute than the derivative of a product in addition several common distributions have likelihood functions that contain products of factors involving exponentiation the logarithm of such a function is a sum of products again easier to differentiate than the original function
+edwards established the axiomatic basis for use of the log-likelihood ratio as a measure of relative support for one hypothesis against another the support function is then the natural logarithm of the likelihood function both terms are used in phylogenetics but were not adopted in a general treatment of the topic of statistical evidence
+=== example the gamma distribution ===
+the gamma distribution has two parameters and  the likelihood function is
+finding the maximum likelihood estimate of for a single observed value x looks rather daunting its logarithm is much simpler to work with
+maximizing the log-likelihood first requires taking the partial derivative with respect to 
+if there are a number of independent observations x1  xn then the joint log-likelihood will be the sum of individual log-likelihoods and the derivative of this sum will be a sum of derivatives of each individual log-likelihood
+to complete the maximization procedure for the joint log-likelihood the equation is set to zero and solved for 
+here denotes the maximum-likelihood estimate and is the sample mean of the observations
+== likelihood function of a parameterized model ==
+among many applications we consider here one of broad theoretical and practical importance given a parameterized family of probability density functions (or probability mass functions in the case of discrete distributions)
+where is the parameter the likelihood function is
+written
+where x is the observed outcome of an experiment in other words when f(x | ) is viewed as a function of x with fixed it is a probability density function and when viewed as a function of with x fixed it is a likelihood function
+this is not the same as the probability that those parameters are the right ones given the observed sample attempting to interpret the likelihood of a hypothesis given observed evidence as the probability of the hypothesis is a common error with potentially disastrous consequences in medicine engineering or jurisprudence see prosecutor's fallacy for an example of this
+from a geometric standpoint if we consider f (x ) as a function of two variables then the family of probability distributions can be viewed as a family of curves parallel to the x-axis while the family of likelihood functions are the orthogonal curves parallel to the -axis
+=== likelihoods for continuous distributions ===
+the use of the probability density instead of a probability in specifying the likelihood function above may be justified in a simple way suppose that instead of an exact observation x the observation is the value in a short interval (xj1 xj) with length j where the subscripts refer to a predefined set of intervals then the probability of getting this observation (of being in interval j) is approximately
+where x* can be any point in interval j then recalling that the likelihood function is defined up to a multiplicative constant it is just as valid to say that the likelihood function is approximately
+and then on considering the lengths of the intervals to decrease to zero
+=== likelihoods for mixed continuousdiscrete distributions ===
+the above can be extended in a simple way to allow consideration of distributions which contain both discrete and continuous components suppose that the distribution consists of a number of discrete probability masses pk() and a density f(x | ) where the sum of all the p's added to the integral of f is always one assuming that it is possible to distinguish an observation corresponding to one of the discrete probability masses from one which corresponds to the density component the likelihood function for an observation from the continuous component can be dealt with as above by setting the interval length short enough to exclude any of the discrete masses for an observation from the discrete component the probability can either be written down directly or treated within the above context by saying that the probability of getting an observation in an interval that does contain a discrete component (of being in interval j which contains discrete component k) is approximately
+where can be any point in interval j then on considering the lengths of the intervals to decrease to zero the likelihood function for an observation from the discrete component is
+where k is the index of the discrete probability mass corresponding to observation x
+the fact that the likelihood function can be defined in a way that includes contributions that are not commensurate (the density and the probability mass) arises from the way in which the likelihood function is defined up to a constant of proportionality where this constant can change with the observation x but not with the parameter 
+== example 1 ==
+let be the probability that a certain coin lands heads up (h) when tossed so the probability of getting two heads in two tosses (hh) is  if  then the probability of seeing two heads is 0.25
+another way of saying this is that the likelihood that  given the observation hh is 0.25 that is
+but this is not the same as saying that the probability that  given the observation hh is 0.25 the probability of observing hh given that  is 1 but it is not true that the probability that  given the observation hh is 1 two heads in a row does not prove that the coin always comes up heads because two heads in a row is possible for any 
+the likelihood function is not a probability density function the integral of a likelihood function is not in general 1 in this example the integral of the likelihood over the interval [0 1] in is 1/3 demonstrating that the likelihood function cannot be interpreted as a probability density function for 
+== example 2 ==
+consider a jar containing n lottery tickets numbered from 1 through n if you pick a ticket randomly then you get positive integer n with probability 1/n if n n and with probability zero if n > n this can be written
+where the iverson bracket [n n] is 1 when n n and 0 otherwise when considered a function of n for fixed n this is the probability distribution but when considered a function of n for fixed n this is a likelihood function the maximum likelihood estimate for n is n0 = n (by contrast the unbiased estimate is 2n 1)
+this likelihood function is not a probability distribution because the total
+is a divergent series
+suppose however that you pick two tickets rather than one
+the probability of the outcome {n1 n2} where n1 < n2 is
+when considered a function of n for fixed n2 this is a likelihood function the maximum likelihood estimate for n is n0 = n2
+this time the total
+is a convergent series and so this likelihood function can be normalized into a probability distribution
+if you pick 3 or more tickets the likelihood function has a well defined mean value which is larger than the maximum likelihood estimate if you pick 4 or more tickets the likelihood function has a well defined standard deviation too
+== relative likelihood ==
+=== relative likelihood function ===
+suppose that the maximum likelihood estimate for is  relative plausibilities of other values may be found by comparing the likelihood of those other values with the likelihood of  the relative likelihood of is defined as
+a 10% likelihood region for is
+and more generally a p% likelihood region for is defined to be
+if is a single real parameter a p% likelihood region will typically comprise an interval of real values in that case the region is called a likelihood interval
+likelihood intervals can be compared to confidence intervals if is a single real parameter then under certain conditions a 14.7% likelihood interval for will be the same as a 95% confidence interval in a slightly different formulation suited to the use of log-likelihoods (see wilks theorem) the test-statistic is twice the difference in log-likelihoods and the probability distribution of the test statistic is approximately a chi-squared distribution with degrees-of-freedom (df) equal to the difference in df's between the two models (therefore the e2 likelihood interval is the same as the 0.954 confidence interval assuming difference in df's to be 1)
+the idea of basing an interval estimate on the relative likelihood goes back to fisher in 1956 and has been used by many authors since then a likelihood interval can be used without claiming any particular coverage probability as such it differs from confidence intervals
+=== relative likelihood of models ===
+the definition of relative likelihood can be generalized to compare different statistical models this generalization is based on aic (akaike information criterion) or sometimes aicc (akaike information criterion with correction)
+suppose that for some dataset we have two statistical models m1 and m2 also suppose that aic(m1) aic(m2) then the relative likelihood of m2 with respect to m1 is defined to be
+exp((aic(m1)aic(m2))/2)
+to see that this is a generalization of the earlier definition suppose that we have some model m with a (possibly multivariate) parameter  then for any  set m2 = m() and also set m1 = m() the general definition now gives the same result as the earlier definition
+== likelihoods that eliminate nuisance parameters ==
+in many cases the likelihood is a function of more than one parameter but interest focuses on the estimation of only one or at most a few of them with the others being considered as nuisance parameters several alternative approaches have been developed to eliminate such nuisance parameters so that a likelihood can be written as a function of only the parameter (or parameters) of interest the main approaches being marginal conditional and profile likelihoods
+these approaches are useful because standard likelihood methods can become unreliable or fail entirely when there are many nuisance parameters or when the nuisance parameters are high-dimensional this is particularly true when the nuisance parameters can be considered to be missing data they represent a non-negligible fraction of the number of observations and this fraction does not decrease when the sample size increases often these approaches can be used to derive closed-form formulae for statistical tests when direct use of maximum likelihood requires iterative numerical methods these approaches find application in some specialized topics such as sequential analysis
+=== conditional likelihood ===
+sometimes it is possible to find a sufficient statistic for the nuisance parameters and conditioning on this statistic results in a likelihood which does not depend on the nuisance parameters
+one example occurs in 22 tables where conditioning on all four marginal totals leads to a conditional likelihood based on the non-central hypergeometric distribution this form of conditioning is also the basis for fisher's exact test
+=== marginal likelihood ===
+sometimes we can remove the nuisance parameters by considering a likelihood based on only part of the information in the data for example by using the set of ranks rather than the numerical values another example occurs in linear mixed models where considering a likelihood for the residuals only after fitting the fixed effects leads to residual maximum likelihood estimation of the variance components
+=== profile likelihood ===
+when the likelihood function depends on many parameters depending on the application we might be interested in only a subset of these parameters it is often possible to reduce the number of the uninteresting (nuisance) parameters by writing them as functions of the parameters of interest for example the functions might be the value of the nuisance parameter which maximizes the likelihood given the value of the other (interesting) parameters
+this procedure is called concentration of the parameters and results in the concentrated likelihood function also occasionally known as the maximized likelihood function but most often called the profile likelihood function it is then possible (and simpler) to find the values of the parameters which maximizes the profile likelihood function (similar to the maximum likelihood)
+for example consider a regression analysis model with normally distributed errors the most likely value of the error variance is the variance of the residuals the residuals depend on all other parameters hence the variance parameter can be written as a function of the other parameters
+unlike conditional and marginal likelihoods profile likelihood methods can always be used even when the profile likelihood cannot be written down explicitly however the profile likelihood is not a true likelihood as it is not based directly on a probability distribution and this leads to some less satisfactory properties attempts have been made to improve this resulting in modified profile likelihood
+the idea of profile likelihood can also be used to compute confidence intervals that often have better small-sample properties than those based on asymptotic standard errors calculated from the full likelihood in the case of parameter estimation in partially observed systems the profile likelihood can be also used for identifiability analysis results from profile likelihood analysis can be incorporated in uncertainty analysis of model predictions
+=== partial likelihood ===
+a partial likelihood is a factor component of the likelihood function that isolates the parameters of interest it is a key component of the proportional hazards model
+== historical remarks ==
+likelihood (eikos versimilis) captures the idea that something is likely to happen or to have happened as a formal concept it has appeared in jurisprudence commerce and scholasticism long before it was given a rigorous mathematical foundation in english likelihood has been distinguished as being related to but weaker than probability since its earliest uses the comparison of hypotheses by evaluating likelihoods has been used for centuries for example by john milton in areopagitica (1644) when greatest likelihoods are brought that such things are truly and really in those persons to whom they are ascribed
+in the netherlands christiaan huygens used the concept of likelihood in his book van rekeningh in spelen van geluck ("on reasoning in games of chance") in 1657
+in danish likelihood was used by thorvald n thiele in 1889
+in english likelihood appears in many writings by charles sanders peirce where model-based inference (usually abduction but sometimes including induction) is distinguished from statistical procedures based on objective randomization peirce's preference for randomization-based inference is discussed in illustrations of the logic of science (18771878) and a theory of probable inference (1883)
+probabilities that are strictly objective and at the same time very great although they can never be absolutely conclusive ought nevertheless to influence our preference for one hypothesis over another but slight probabilities even if objective are not worth consideration and merely subjective likelihoods should be disregarded altogether for they are merely expressions of our preconceived notions (7.227 in his collected papers)
+but experience must be our chart in economical navigation and experience shows that likelihoods are treacherous guides nothing has caused so much waste of time and means in all sorts of researchers as inquirers becoming so wedded to certain likelihoods as to forget all the other factors of the economy of research so that unless it be very solidly grounded likelihood is far better disregarded or nearly so and even when it seems solidly grounded it should be proceeded upon with a cautious tread with an eye to other considerations and recollection of the disasters caused. (essential peirce volume 2 pages 108109)
+like thiele peirce considers the likelihood for a binomial distribution peirce uses the logarithm of the odds-ratio throughout his career peirce's propensity for using the log odds is discussed by stephen stigler
+in great britain likelihood was popularized in mathematical statistics by ronald fisher in 1922 on the mathematical foundations of theoretical statistics in that paper fisher also uses the term method of maximum likelihood fisher argues against inverse probability as a basis for statistical inferences and instead proposes inferences based on likelihood functions fisher's use of likelihood fixed the terminology that is used by statisticians throughout the world
+in 2010 the intergovernmental panel on climate change published the following likelihood scale for use in its fifth assessment report
+== see also ==
+== notes ==
+== references ==
+hald a (1998) a history of mathematical statistics from 1750 to 1930 john wiley & sons isbn 0-471-17912-4 
+hald a (1999) on the history of maximum likelihood in relation to inverse probability and least squares statistical science 14 (2) 214222 doi:10.1214/ss/1009212248 jstor 2676741 
+pratt j w (may 1976) f y edgeworth and r a fisher on the efficiency of maximum likelihood estimation the annals of statistics 4 (3) 501514 doi:10.1214/aos/1176343457 jstor 2958222 
+stigler s m (1978) francis ysidro edgeworth statistician journal of the royal statistical society series a 141 (3) 287322 doi:10.2307/2344804 jstor 2344804 
+stigler s m (1986) the history of statistics the measurement of uncertainty before 1900 harvard university press isbn 0-674-40340-1 
+stigler s m (1999) statistics on the table the history of statistical concepts and methods harvard university press isbn 0-674-83601-4 
+== external links ==
+likelihood function at planetmath
+likelihood function at wolfram mathworld

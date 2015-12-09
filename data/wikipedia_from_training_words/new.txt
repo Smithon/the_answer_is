@@ -1,0 +1,112 @@
+design is the creation of a plan or convention for the construction of an object or a system (as in architectural blueprints engineering drawings business processes circuit diagrams and sewing patterns) design has different connotations in different fields (see design disciplines below) in some cases the direct construction of an object (as in pottery engineering management cowboy coding and graphic design) is also considered to be design
+designing often necessitates considering the aesthetic functional economic and sociopolitical dimensions of both the design object and design process it may involve considerable research thought modeling interactive adjustment and re-design meanwhile diverse kinds of objects may be designed including clothing graphical user interfaces skyscrapers corporate identities business processes and even methods of designing
+thus design may be a substantive referring to a categorical abstraction of a created thing or things (the design of something) or a verb for the process of creation as is made clear by grammatical context
+== definitions ==
+more formally design has been defined as follows
+(noun) a specification of an object manifested by an agent intended to accomplish goals in a particular environment using a set of primitive components satisfying a set of requirements subject to constraints
+(verb transitive) to create a design in an environment (where the designer operates)
+another definition for design is a roadmap or a strategic approach for someone to achieve a unique expectation it defines the specifications plans parameters costs activities processes and how and what to do within legal political social environmental safety and economic constraints in achieving that objective
+here a specification can be manifested as either a plan or a finished product and primitives are the elements from which the design object is composed
+with such a broad denotation there is no universal language or unifying institution for designers of all disciplines this allows for many differing philosophies and approaches toward the subject (see philosophies and studies of design below)
+the person designing is called a designer which is also a term used for people who work professionally in one of the various design areas usually also specifying which area is being dealt with (such as a fashion designer concept designer or web designer) a designer's sequence of activities is called a design process the scientific study of design is called design science
+== design as a process ==
+substantial disagreement exists concerning how designers in many fields whether amateur or professional alone or in teams produce designs dorst and dijkhuis argued that there are many ways of describing design processes and discussed two basic and fundamentally different ways both of which have several names the prevailing view has been called the rational model technical problem solving and the reason-centric perspective the alternative view has been called reflection-in-action evolutionary design co-evolution and the action-centric perspective
+=== the rational model ===
+the rational model was independently developed by simon and pahl and beitz it posits that
+designers attempt to optimize a design candidate for known constraints and objectives
+the design process is plan-driven
+the design process is understood in terms of a discrete sequence of stages
+the rational model is based on a rationalist philosophy and underlies the waterfall model systems development life cycle and much of the engineering design literature according to the rationalist philosophy design is informed by research and knowledge in a predictable and controlled manner technical rationality is at the center of the process
+==== example sequence of stages ====
+typical stages consistent with the rational model include the following
+pre-production design
+design brief or parti pris an early (often the beginning) statement of design goals
+analysis analysis of current design goals
+research investigating similar design solutions in the field or related topics
+specification specifying requirements of a design solution for a product (product design specification) or service
+problem solving conceptualizing and documenting design solutions
+presentation presenting design solutions
+design during production
+development continuation and improvement of a designed solution
+testing in situ testing a designed solution
+post-production design feedback for future designs
+implementation introducing the designed solution into the environment
+evaluation and conclusion summary of process and results including constructive criticism and suggestions for future improvements
+redesign any or all stages in the design process repeated (with corrections made) at any time before during or after production
+each stage has many associated best practices
+==== criticism of the rational model ====
+the rational model has been widely criticized on two primary grounds
+designers do not work this way extensive empirical evidence has demonstrated that designers do not act as the rational model suggests
+unrealistic assumptions goals are often unknown when a design project begins and the requirements and constraints continue to change
+=== the action-centric model ===
+the action-centric perspective is a label given to a collection of interrelated concepts which are antithetical to the rational model it posits that
+designers use creativity and emotion to generate design candidates
+the design process is improvised
+no universal sequence of stages is apparent analysis design and implementation are contemporary and inextricably linked
+the action-centric perspective is based on an empiricist philosophy and broadly consistent with the agile approach and amethodical development substantial empirical evidence supports the veracity of this perspective in describing the actions of real designers like the rational model the action-centric model sees design as informed by research and knowledge however research and knowledge are brought into the design process through the judgment and common sense of designers by designers thinking on their feet more than through the predictable and controlled process stipulated by the rational model designers context-dependent experience and professional judgment take center stage more than technical rationality
+==== descriptions of design activities ====
+at least two views of design activity are consistent with the action-centric perspective both involve three basic activities
+in the reflection-in-action paradigm designers alternate between framing making moves and evaluate moves. framing refers to conceptualizing the problem i.e. defining goals and objectives a move is a tentative design decision the evaluation process may lead to further moves in the design
+in the sensemaking-coevolution-implementation framework designers alternate between its three titular activities sensemaking includes both framing and evaluating moves implementation is the process of constructing the design object coevolution is the process where the design agent simultaneously refines its mental picture of the design object based on its mental picture of the context and vice versa.
+the concept of the design cycle describes the reflective and repetitive structure of design processes assuming that this structure is underlying all such processes the design cycle is understood as a circular time structure which may start with the thinking of an idea then expressing it by the use of visual and/or verbal means of communication (design tools) the sharing and perceiving of the expressed idea and finally starting a new cycle with the critical rethinking of the perceived idea anderson points out that this concept emphasizes the importance of the means of expression which at the same time are means of perception of any design ideas
+==== criticism of the action-centric perspective ====
+as this perspective is relatively new it has not yet encountered much criticism one possible criticism is that it is less intuitive than the rational model
+== design disciplines ==
+== philosophies and studies of design ==
+there are countless philosophies for guiding design as the design values and its accompanying aspects within modern design vary both between different schools of thought and among practicing designers design philosophies are usually for determining design goals a design goal may range from solving the least significant individual problem of the smallest element to the most holistic influential utopian goals design goals are usually for guiding design however conflicts over immediate and minor goals may lead to questioning the purpose of design perhaps to set better long term or ultimate goals
+=== philosophies for guiding design ===
+design philosophies are fundamental guiding principles that dictate how a designer approaches his/her practice reflections on material culture and environmental concerns (sustainable design) can guide a design philosophy one example is the first things first manifesto which was launched within the graphic design community and states we propose a reversal of priorities in favor of more useful lasting and democratic forms of communication a mindshift away from product marketing and toward the exploration and production of a new kind of meaning the scope of debate is shrinking it must expand consumerism is running uncontested it must be challenged by other perspectives expressed in part through the visual languages and resources of design.
+in the sciences of the artificial by polymath herbert a simon the author asserts design to be a meta-discipline of all professions engineers are not the only professional designers everyone designs who devises courses of action aimed at changing existing situations into preferred ones the intellectual activity that produces material artifacts is no different fundamentally from the one that prescribes remedies for a sick patient or the one that devises a new sales plan for a company or a social welfare policy for a state design so construed is the core of all professional training it is the principal mark that distinguishes the professions from the sciences schools of engineering as well as schools of architecture business education law and medicine are all centrally concerned with the process of design.
+=== approaches to design ===
+a design approach is a general philosophy that may or may not include a guide for specific methods some are to guide the overall goal of the design other approaches are to guide the tendencies of the designer a combination of approaches may be used if they don't conflict
+some popular approaches include
+kiss principle (keep it simple stupid) which strives to eliminate unnecessary complications
+there is more than one way to do it (timtowtdi) a philosophy to allow multiple methods of doing the same thing
+use-centered design which focuses on the goals and tasks associated with the use of the artifact rather than focusing on the end user
+user-centered design which focuses on the needs wants and limitations of the end user of the designed artifact
+critical design uses designed artifacts as an embodied critique or commentary on existing values morals and practices in a culture
+service design designing or organizing the experience around a product the service associated with a product's use
+transgenerational design the practice of making products and environments compatible with those physical and sensory impairments associated with human aging and which limit major activities of daily living
+speculative design the speculative design process doesnt necessarily define a specific problem to solve but establishes a provocative starting point from which a design process emerges the result is an evolution of fluctuating iteration and reflection using designed objects to provoke questions and stimulate discussion in academic and research settings
+=== methods of designing ===
+design methods is a broad area that focuses on
+exploring possibilities and constraints by focusing critical thinking skills to research and define problem spaces for existing products or servicesor the creation of new categories (see also brainstorming)
+redefining the specifications of design solutions which can lead to better guidelines for traditional design activities (graphic industrial architectural etc.)
+managing the process of exploring defining creating artifacts continually over time
+prototyping possible scenarios or solutions that incrementally or significantly improve the inherited situation
+trendspotting understanding the trend process
+== terminology ==
+the word design is often considered ambiguous as it is applied differently in a varying contexts
+=== design and art ===
+today the term design is widely associated with the applied arts as initiated by raymond loewy and teachings at the bauhaus and ulm school of design (hfg ulm) in germany during the 20th century
+the boundaries between art and design are blurred largely due to a range of applications both for the term art and the term design applied arts has been used as an umbrella term to define fields of industrial design graphic design fashion design etc the term decorative arts is a traditional term used in historical discourses to describe craft objects and also sits within the umbrella of applied arts in graphic arts (2d image making that ranges from photography to illustration) the distinction is often made between fine art and commercial art based on the context within which the work is produced and how it is traded
+to a degree some methods for creating work such as employing intuition are shared across the disciplines within the applied arts and fine art mark getlein suggests the principles of design are almost instinctive built-in natural and part of our sense of rightness'. however the intended application and context of the resulting works will vary greatly
+=== design and engineering ===
+in engineering design is a component of the engineering process many overlapping methods and processes can be seen when comparing product design industrial design and engineering the american heritage dictionary defines design as to conceive or fashion in the mind invent, and to formulate a plan and defines engineering as the application of scientific and mathematical principles to practical ends such as the design manufacture and operation of efficient and economical structures machines processes and systems. both are forms of problem-solving with a defined distinction being the application of scientific and mathematical principles the increasingly scientific focus of engineering in practice however has raised the importance of new more human-centered fields of design how much science is applied in a design is a question of what is considered science along with the question of what is considered science there is social science versus natural science scientists at xerox parc made the distinction of design versus engineering at moving minds versus moving atoms (probably in cotradiction to the origin of term engineering - engineer from latin in genio in meaning of a genius what assumes existence of a mind not of an atom")
+=== design and production ===
+the relationship between design and production is one of planning and executing in theory the plan should anticipate and compensate for potential problems in the execution process design involves problem-solving and creativity in contrast production involves a routine or pre-planned process a design may also be a mere plan that does not include a production or engineering processes although a working knowledge of such processes is usually expected of designers in some cases it may be unnecessary and/or impractical to expect a designer with a broad multidisciplinary knowledge required for such designs to also have a detailed specialized knowledge of how to produce the product
+design and production are intertwined in many creative professional careers meaning problem-solving is part of execution and the reverse as the cost of rearrangement increases the need for separating design from production increases as well for example a high-budget project such as a skyscraper requires separating (design) architecture from (production) construction a low-budget project such as a locally printed office party invitation flyer can be rearranged and printed dozens of times at the low cost of a few sheets of paper a few drops of ink and less than one hour's pay of a desktop publisher
+this is not to say that production never involves problem-solving or creativity nor that design always involves creativity designs are rarely perfect and are sometimes repetitive the imperfection of a design may task a production position (e.g production artist construction worker) with utilizing creativity or problem-solving skills to compensate for what was overlooked in the design process likewise a design may be a simple repetition (copy) of a known preexisting solution requiring minimal if any creativity or problem-solving skills from the designer
+=== process design ===
+process design (in contrast to design process mentioned above) refers to the planning of routine steps of a process aside from the expected result processes (in general) are treated as a product of design not the method of design the term originated with the industrial designing of chemical processes with the increasing complexities of the information age consultants and executives have found the term useful to describe the design of business processes as well as manufacturing processes
+== see also ==
+design elements and principles
+== footnotes ==
+== bibliography ==
+beck k. beedle m. van bennekum a. cockburn a. cunningham w. fowler m. grenning j. highsmith j. hunt a. jeffries r. kern j. marick b. martin r.c. mellor s. schwaber k. sutherland j. and thomas d manifesto for agile software development 2001
+bourque p. and dupuis r (eds.) guide to the software engineering body of knowledge (swebok) ieee computer society press 2004 isbn 0-7695-2330-7
+brooks f.p the design of design essays from a computer scientist addison-wesley professional 2010 isbn 0-201-36298-8
+cross n. dorst k. and roozenburg n research in design thinking delft university press delft 1992 isbn 90-6275-796-0
+dorst k. and cross n (2001) creativity in the design process co-evolution of problem-solution design studies 22 (2) 425437 doi:10.1016/0142-694x(94)00012-3
+dorst k. and dijkhuis j comparing paradigms for describing design activity, design studies (16:2) 1995 pp 261274
+faste r (2001) the human challenge in engineering design (pdf) international journal of engineering education 17 (45) 327331
+gnshirt c. tools for ideas an introduction to architectural design translated by michael robinson basel boston berlin birkhuser 2007 isbn 978-3-7643-7577-5
+mccracken d.d. and jackson m.a (1982) life cycle concept considered harmful sigsoft software engineering notes 7 (2) 2932 doi:10.1145/1005937.1005943
+newell a. and simon h human problem solving prentice-hall inc. 1972
+pahl g. and beitz w engineering design a systematic approach springer-verlag london 1996 isbn 3-540-19917-9
+pahl g. beitz w. feldhusen j. and grote k.-h engineering design a systematic approach (3rd ed.) springer-verlag 2007 isbn 1-84628-318-3
+ralph p comparing two software design process theories, international conference on design science research in information systems and technology (desrist 2010) springer st gallen switzerland 2010 pp 139153
+royce w.w managing the development of large software systems concepts and techniques, proceedings of wescon 1970
+schn d.a the reflective practitioner how professionals think in action basic books usa 1983
+simon h.a the sciences of the artificial mit press cambridge ma usa 1996 isbn 0-262-69191-4
+truex d. baskerville r. and travis j (2000) amethodical systems development the deferred meaning of systems development methods accounting management and information technologies 10 (1) 5379 doi:10.1016/s0959-8022(99)00009-0

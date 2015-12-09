@@ -1,0 +1,67 @@
+rust is an iron oxide usually red oxide formed by the redox reaction of iron and oxygen in the presence of water or air moisture several forms of rust are distinguishable both visually and by spectroscopy and form under different circumstances rust consists of hydrated iron(iii) oxides fe2o3nh2o and iron(iii) oxide-hydroxide (feo(oh) fe(oh)3)
+given sufficient time oxygen and water any iron mass will eventually convert entirely to rust and disintegrate surface rust is flaky and friable and it provides no protection to the underlying iron unlike the formation of patina on copper surfaces rusting is the common term for corrosion of iron and its alloys such as steel many other metals undergo equivalent corrosion but the resulting oxides are not commonly called rust
+other forms of rust exist like the result of reactions between iron and chloride in an environment deprived of oxygen rebar used in underwater concrete pillars is an example which generates green rust
+== chemical reactionsedit ==
+rust is another name for iron oxide which occurs when iron or an alloy that contains iron like steel is exposed to oxygen and moisture for a long period of time over time the oxygen combines with the metal at an atomic level forming a new compound called an oxide and weakening the bonds of the metal itself although some people refer to rust generally as oxidation that term is much more general although rust forms when iron undergoes oxidation not all oxidation forms rust only iron or alloys that contain iron can rust but other metals can corrode in similar ways
+the main catalyst for the rusting process is water iron or steel structures might appear to be solid but water molecules can penetrate the microscopic pits and cracks in any exposed metal the hydrogen atoms present in water molecules can combine with other elements to form acids which will eventually cause more metal to be exposed if chloride ions are present as is the case with saltwater the corrosion is likely to occur more quickly meanwhile the oxygen atoms combine with metallic atoms to form the destructive oxide compound as the atoms combine they weaken the metal making the structure brittle and crumbly
+=== oxidation of ironedit ===
+when impure (cast) iron is in contact with water oxygen other strong oxidants or acids it rusts if salt is present for example in seawater or salt spray the iron tends to rust more quickly as a result of electrochemical reactions iron metal is relatively unaffected by pure water or by dry oxygen as with other metals like aluminium a tightly adhering oxide coating a passivation layer protects the bulk iron from further oxidation the conversion of the passivating ferrous oxide layer to rust results from the combined action of two agents usually oxygen and water
+other degrading solutions are sulfur dioxide in water and carbon dioxide in water under these corrosive conditions iron hydroxide species are formed unlike ferrous oxides the hydroxides do not adhere to the bulk metal as they form and flake off from the surface fresh iron is exposed and the corrosion process continues until either all of the iron is consumed or all of the oxygen water carbon dioxide or sulfur dioxide in the system are removed or consumed
+when iron rusts the oxides take up more volume than the original metal this expansion can generate enormous forces damaging structures made with iron see economic effect for more details
+=== associated reactionsedit ===
+the rusting of iron is an electrochemical process that begins with the transfer of electrons from iron to oxygen the iron is the reducing agent (gives up electrons) while the oxygen is the oxidising agent (gains electrons) the rate of corrosion is affected by water and accelerated by electrolytes as illustrated by the effects of road salt on the corrosion of automobiles the key reaction is the reduction of oxygen
+o2 + 4e + 2h2o 4oh
+because it forms hydroxide ions this process is strongly affected by the presence of acid indeed the corrosion of most metals by oxygen is accelerated at low ph providing the electrons for the above reaction is the oxidation of iron that may be described as follows
+fe fe2+ + 2e
+the following redox reaction also occurs in the presence of water and is crucial to the formation of rust
+4fe2+ + o2 4fe3+ + 2o2
+in addition the following multistep acid-base reactions affect the course of rust formation
+fe2+ + 2h2o fe(oh)2 + 2h+
+fe3+ + 3h2o fe(oh)3 + 3h+
+as do the following dehydration equilibria
+fe(oh)2 feo + h2o
+fe(oh)3 feo(oh) + h2o
+2feo(oh) fe2o3 + h2o
+from the above equations it is also seen that the corrosion products are dictated by the availability of water and oxygen with limited dissolved oxygen iron(ii)-containing materials are favoured including feo and black lodestone or magnetite (fe3o4) high oxygen concentrations favour ferric materials with the nominal formulae fe(oh)3-xox/2 the nature of rust changes with time reflecting the slow rates of the reactions of solids
+furthermore these complex processes are affected by the presence of other ions such as ca2+ both of which serve as an electrolyte and thus accelerate rust formation or combine with the hydroxides and oxides of iron to precipitate a variety of ca-fe-o-oh species
+onset of rusting can also be detected in laboratory with the use of ferroxyl indicator solution the solution detects both fe2+ ions and hydroxyl ions formation of fe2+ ions and hydroxyl ions are indicated by blue and pink patches respectively
+== preventionedit ==
+because of the widespread use and importance of iron and steel products the prevention or slowing of rust is the basis of major economic activities in a number of specialized technologies a brief overview of methods is presented here for detailed coverage see the cross-referenced articles
+rust is permeable to air and water therefore the interior metallic iron beneath a rust layer continues to corrode rust prevention thus requires coatings that preclude rust formation
+=== rust-resistant alloysedit ===
+stainless steel forms a passivation layer of chromium(iii) oxide similar passivation behavior occurs with magnesium titanium zinc zinc oxides aluminium polyaniline and other electroactive conductive polymers
+special weathering steel alloys such as cor-ten rust at a much slower rate than normal because the rust adheres to the surface of the metal in a protective layer designs using this material must include measures that avoid worst-case exposures since the material still continues to rust slowly even under near-ideal conditions
+=== galvanizationedit ===
+galvanization consists of an application on the object to be protected of a layer of metallic zinc by either hot-dip galvanizing or electroplating zinc is traditionally used because it is cheap adheres well to steel and provides cathodic protection to the steel surface in case of damage of the zinc layer in more corrosive environments (such as salt water) cadmium plating is preferred galvanization often fails at seams holes and joints where there are gaps in the coating in these cases the coating still provides some partial cathodic protection to iron by acting as a galvanic anode and corroding itself instead of the underlying protected metal the protective zinc layer is consumed by this action and thus galvanization provides protection only for a limited period of time
+more modern coatings add aluminium to the coating as zinc-alume aluminium will migrate to cover scratches and thus provide protection for a longer period these approaches rely on the aluminium and zinc oxides re-protecting a once-scratched surface rather than oxidizing as a sacrificial anode as in traditional galvanized coatings in some cases such as very aggressive environments or long design life both zinc and a coating are applied to provide enhanced corrosion protection
+typical galvanization of steel products which are to subject to normal day to day weathering in an outside environment consists of a hot dipped 85 m zinc coating under normal weather conditions this will deteriorate at a rate of 1 m per year giving approximately 85 years of protection
+=== cathodic protectionedit ===
+cathodic protection is a technique used to inhibit corrosion on buried or immersed structures by supplying an electrical charge that suppresses the electro-chemical reaction if correctly applied corrosion can be stopped completely in its simplest form it is achieved by attaching a sacrificial anode thereby making the iron or steel the cathode in the cell formed the sacrificial anode must be made from something with a more negative electrode potential than the iron or steel commonly zinc aluminium or magnesium the sacrificial anode will eventually corrode away ceasing its protective action unless it is replaced in a timely manner
+cathodic protection can also be provided by using a special-purpose electrical device to appropriately induce an electric charge
+=== coatings and paintingedit ===
+rust formation can be controlled with coatings such as paint lacquer or varnish that isolate the iron from the environment large structures with enclosed box sections such as ships and modern automobiles often have a wax-based product (technically a slushing oil") injected into these sections such treatments usually also contain rust inhibitors covering steel with concrete can provide some protection to steel because of the alkaline ph environment at the steel-concrete interface however rusting of steel in concrete can still be a problem as expanding rust can fracture or slowly explode concrete from within
+as a closely related example iron bars were used to reinforce stonework of the parthenon in athens greece but caused extensive damage by rusting swelling and shattering the marble components of the building
+when only temporary protection is needed for storage or transport a thin layer of oil grease or a special mixture such as cosmoline can be applied to an iron surface such treatments are extensively used when mothballing a steel ship automobile or other equipment for long-term storage
+special anti-seize lubricant mixtures are available and are applied to metallic threads and other precision machined surfaces to protect them from rust these compounds usually contain grease mixed with copper zinc or aluminum powder and other proprietary ingredients
+=== bluingedit ===
+bluing is a technique that can provide limited resistance to rusting for small steel items such as firearms for it to be successful a water-displacing oil is rubbed onto the blued steel and other steel
+=== inhibitorsedit ===
+corrosion inhibitors such as gas-phase or volatile inhibitors can be used to prevent corrosion inside sealed systems they are not effective when air circulation disperses them and brings in fresh oxygen and moisture
+=== humidity controledit ===
+rust can be avoided by controlling the moisture in the atmosphere an example of this is the use of silica gel packets to control humidity in equipment shipped by sea
+== treatmentedit ==
+rust removal from small iron or steel objects by electrolysis can be done in a home workshop using simple materials such as a plastic bucket tap water lengths of rebar washing soda baling wire and a battery charger
+rust may be treated with commercial products known as rust converter which contain tannic acid which combines with rust
+== economic effectedit ==
+rust is associated with degradation of iron-based tools and structures as rust has a much higher volume than the originating mass of iron its build-up can also cause failure by forcing apart adjacent parts a phenomenon sometimes known as rust packing it was the cause of the collapse of the mianus river bridge in 1983 when the bearings rusted internally and pushed one corner of the road slab off its support
+rust was an important factor in the silver bridge disaster of 1967 in west virginia when a steel suspension bridge collapsed in less than a minute killing 46 drivers and passengers on the bridge at the time the kinzua bridge in pennsylvania was blown down by a tornado in 2003 largely because the central base bolts holding the structure to the ground had rusted away leaving the bridge anchored by gravity alone
+reinforced concrete is also vulnerable to rust damage internal pressure caused by expanding corrosion of concrete-covered steel and iron can cause the concrete to spall creating severe structural problems it is one of the most common failure modes of reinforced concrete bridges and buildings
+structural failures caused by rust
+== cultural symbolismedit ==
+rust is a commonly used metaphor for slow decay due to neglect since it gradually converts robust iron and steel metal into a soft crumbling powder a wide section of the industrialized american midwest and american northeast once dominated by steel foundries the automotive industry and other manufacturers has experienced harsh economic cutbacks that have caused the region to be dubbed the rust belt
+in music literature and art rust is associated with images of faded glory neglect decay and ruin
+== galleryedit ==
+== referencesedit ==
+== external linksedit ==
+corrosion case studies analysis of corrosion
+corrosion doctors rusting article

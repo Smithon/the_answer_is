@@ -1,0 +1,50 @@
+the melting point (or rarely liquefaction point) of a solid is the temperature at which it changes state from solid to liquid at atmospheric pressure at the melting point the solid and liquid phase exist in equilibrium the melting point of a substance depends on pressure and is usually specified at standard pressure when considered as the temperature of the reverse change from liquid to solid it is referred to as the freezing point or crystallization point because of the ability of some substances to supercool the freezing point is not considered as a characteristic property of a substance when the characteristic freezing point of a substance is determined in fact the actual methodology is almost always the principle of observing the disappearance rather than the formation of ice that is the melting point
+== examplesedit ==
+for most substances melting and freezing points are approximately equal for example the melting point and freezing point of mercury is 234.32 kelvins (38.83 c or 37.89 f) however certain substances possess differing solid-liquid transition temperatures for example agar melts at 85 c (185 f) and solidifies from 31 c to 40 c (89.6 f to 104 f) such direction dependence is known as hysteresis
+the melting point of ice at 1 atmosphere of pressure is very close to 0 c (32 f 273.15 k) this is also known as the ice point in the presence of nucleating substances the freezing point of water is the same as the melting point but in the absence of nucleators water can supercool to 42 c (43.6 f 231 k) before freezing
+the chemical element with the highest melting point is tungsten at 3687 k (3414 c 6177 f) making it excellent for use as filaments in light bulbs the often-cited carbon does not melt at ambient pressure but sublimes at about 4000 k a liquid phase only exists above pressures of 10 mpa and estimated 43004700 k (see carbon phase diagram) tantalum hafnium carbide (ta4hfc5) is a refractory compound with a very high melting point of 4215 k (3942 c 7128 f) at the other end of the scale helium does not freeze at all at normal pressure even at temperatures very close to absolute zero pressures over 20 times normal atmospheric pressure are necessary
+== melting point measurementsedit ==
+many laboratory techniques exist for the determination of melting points a kofler bench is a metal strip with a temperature gradient (range from room temperature to 300 c) any substance can be placed on a section of the strip revealing its thermal behaviour at the temperature at that point differential scanning calorimetry gives information on melting point together with its enthalpy of fusion
+a basic melting point apparatus for the analysis of crystalline solids consists of an oil bath with a transparent window (most basic design a thiele tube) and a simple magnifier the several grains of a solid are placed in a thin glass tube and partially immersed in the oil bath the oil bath is heated (and stirred) and with the aid of the magnifier (and external light source) melting of the individual crystals at a certain temperature can be observed in large/small devices the sample is placed in a heating block and optical detection is automated
+the measurement can also be made continuously with an operating process for instance oil refineries measure the freeze point of diesel fuel online meaning that the sample is taken from the process and measured automatically this allows for more frequent measurements as the sample does not have to be manually collected and taken to a remote laboratory
+== thermodynamicsedit ==
+not only is heat required to raise the temperature of the solid to the melting point but the melting itself requires heat called the heat of fusion
+from a thermodynamics point of view at the melting point the change in gibbs free energy (g) of the material is zero but the enthalpy (h) and the entropy (s) of the material are increasing (h s > 0) melting phenomenon happens when the gibbs free energy of the liquid becomes lower than the solid for that material at various pressures this happens at a specific temperature it can also be shown that
+here t s and h are respectively the temperature at the melting point change of entropy of melting and the change of enthalpy of melting
+the melting point is sensitive to extremely large changes in pressure but generally this sensitivity is orders of magnitude less than that for the boiling point because the solid-liquid transition represents only a small change in volume if as observed in most cases a substance is more dense in the solid than in the liquid state the melting point will increase with increases in pressure otherwise the reverse behavior occurs notably this is the case of water as illustrated graphically to the right but also of si ge ga bi with extremely large changes in pressure substantial changes to the melting point are observed for example the melting point of silicon at ambient pressure (0.1 mpa) is 1415 c but at pressures in excess of 10 gpa it decreases to 1000 c
+melting points are often used to characterize organic and inorganic compounds and to ascertain their purity the melting point of a pure substance is always higher and has a smaller range than the melting point of an impure substance or more generally of mixtures the higher the quantity of other components the lower the melting point and the broader will be the melting point range often referred to as the pasty range the temperature at which melting begins for a mixture is known as the solidus while the temperature where melting is complete is called the liquidus eutectics are special types of mixtures that behave like single phases they melt sharply at a constant temperature to form a liquid of the same composition alternatively on cooling a liquid with the eutectic composition will solidify as uniformly dispersed small (fine-grained) mixed crystals with the same composition
+in contrast to crystalline solids glasses do not possess a melting point on heating they undergo a smooth glass transition into a viscous liquid upon further heating they gradually soften which can be characterized by certain softening points
+== freezing-point depressionedit ==
+the freezing point of a solvent is depressed when another compound is added meaning that a solution has a lower freezing point than a pure solvent this phenomenon is used in technical applications to avoid freezing for instance by adding salt or ethylene glycol to water
+== carnelley's ruleedit ==
+in organic chemistry carnelley's rule established in 1882 by thomas carnelley stated that high molecular symmetry is associated with high melting point carnelley based his rule on examination of 15,000 chemical compounds for example for three structural isomers with molecular formula c5h12 the melting point increases in the series isopentane 160 c (113 k) n-pentane 129.8 c (143 k) and neopentane 16.4 c (256.8 k) likewise in xylenes and also dichlorobenzenes the melting point increases in the order meta ortho and then para pyridine has a lower symmetry than benzene hence its lower melting point but the melting point again increases with diazine and triazines many cage-like compounds like adamantane and cubane with high symmetry have relatively high melting points
+a high melting point results from a high heat of fusion a low entropy of fusion or a combination of both in highly symmetrical molecules the crystal phase is densely packed with many efficient intermolecular interactions resulting in a higher enthalpy change on melting
+== predicting the melting point of substances (lindemann's criterion)edit ==
+an attempt to predict the bulk melting point of crystalline materials was first made in 1910 by frederick lindemann the idea behind the theory was the observation that the average amplitude of thermal vibrations increases with increasing temperature melting initiates when the amplitude of vibration becomes large enough for adjacent atoms to partly occupy the same space the lindemann criterion states that melting is expected when the root mean square vibration amplitude exceeds a threshold value
+assuming that all atoms in a crystal vibrate with the same frequency  the average thermal energy can be estimated using the equipartition theorem as
+where m is the atomic mass is the frequency u is the average vibration amplitude kb is the boltzmann constant and t is the absolute temperature if the threshold value of u2 is c2a2 where c is the lindemann constant and a is the atomic spacing then the melting point is estimated as
+several other expressions for the estimated melting temperature can be obtained depending on the estimate of the average thermal energy another commonly used expression for the lindemann criterion is
+from the expression for the debye frequency for  we have
+where d is the debye temperature and h is the planck constant values of c range from 0.150.3 for most materials
+== melting point open dataedit ==
+in february 2011 alfa aesar released over 10,000 melting points of compounds from their catalog as open data these data have been curated and are freely available for download these data have been used to create a random forest model for melting point prediction which is now available as a free-to-use webservice highly curated and open melting point data are also available from nature precedings
+== see alsoedit ==
+liquidus
+list of elements by melting point
+melting points of the elements (data page)
+phases of matter
+triple point
+slip melting point
+solidus temperature
+melting
+heat
+pressure
+zone melting
+phase diagram
+== referencesedit ==
+== bibliographyedit ==
+haynes william m. ed (2011) crc handbook of chemistry and physics (92nd ed.) crc press isbn 1439855110
+== external linksedit ==
+melting and boiling point tables vol 1 by thomas carnelley (harrison london 18851887)
+melting and boiling point tables vol 2 by thomas carnelley (harrison london 18851887)
+ons melting point explorer over 10,000 open data melting points

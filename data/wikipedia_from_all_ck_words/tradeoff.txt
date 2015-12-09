@@ -1,0 +1,59 @@
+a trade-off (or tradeoff) is a situation that involves losing one quality or aspect of something in return for gaining another quality or aspect more colloquially if one thing increases some other thing must decrease tradeoffs can occur for many reasons including simple physics (into a given amount of space you can fit many small objects or fewer large objects) the idea of a tradeoff often implies a decision to be made with full comprehension of both the upside and downside of a particular choice such as when a person decides whether to invest in stocks (more risky but with a greater potential return) versus bonds (generally safer but lower potential returns)
+the term is also used widely in an evolutionary context in which case natural selection and sexual selection act as the ultimate decision-makers in biology the concepts of tradeoffs and constraints are often closely related in economics a trade-off is commonly expressed as opportunity cost which is the preferred alternative when taking an economic decision
+== examples from common lifeedit ==
+the concept of a tradeoff is often used to describe situations in everyday life the old saying do not put all of your eggs into one basket implies a tradeoff with respect to spreading risk as when buys a mutual fund composed of many stocks rather than only one or a few stocks similarly trash cans can be small or large a large trash can does not need to be put out for pickup so often but it may become so heavy when full that one risks injury when trying to move it
+in cold climates mittens serve well to keep the hands warm but they do not allow the hands to function as well as do gloves in a like fashion warm coats are often bulky and hence difficult to store or even to hang up
+when copying music from compact disks to a computer lossy compression formats such as mp3 are used routinely to save harddisk space but information is thrown away to the detriment of sound quality lossless compression schemes such as flac or alac are a compromise solution
+large cars can carry many people but they also tend to be heavy (and often not very aerodynamic) and hence have relatively poor fuel economy
+in the olympics the best sprinters are not the same individuals as the best marathoners a tradeoff based on various morphological physiological (e.g. variation in muscle fiber type) and possibly motivational factors
+== tradeoffs in economicsedit ==
+in economics the term is expressed as opportunity cost referring to the most preferred alternative given up a tradeoff then involves a sacrifice that must be made to obtain a certain product service or experience rather than others that could be made or obtained using the same required resources for a person going to a basketball game their opportunity cost is the money and time expended as compared with the alternative of watching a particular television program at home
+many factors affect the tradeoff environment within a particular country including availability of raw materials a skilled labor force machinery for producing a product technology and capital market rate to produce that product on reasonable time scale and so forth
+== tradeoffs in other specific fieldsedit ==
+in biology and microbiology tradeoffs occur when a beneficial change in one trait is linked to a detrimental change in another trait
+tradeoffs are important in engineering for example in electrical engineering negative feedback is used in amplifiers to trade gain for other desirable properties such as improved bandwidth stability of the gain and/or bias point noise immunity and reduction of nonlinear distortion the golden gate bridge is a prime rare example where few engineering and aesthetic tradeoffs had to be made
+in demography tradeoff examples may include maturity fecundity parental care parity senescence and mate choice for example the higher the fecundity (# of offspring) the lower the parental care parental care as a function of fecundity would show a negative sloped linear graph
+in computer science tradeoffs are viewed as a tool of the trade a program can often run faster if it uses more memory (a space-time tradeoff) consider the following examples
+by compressing an image you can reduce transmission time/costs at the expense of cpu time to perform the compression and decompression depending on the compression method this may also involve the tradeoff of a loss in image quality
+by using a lookup table you may be able to reduce cpu time at the expense of space to hold the table e.g to determine the parity of a byte you can either look at each bit individually (using shifts and masks) or use a 256-entry table giving the parity for each possible bit-pattern or combine the upper and lower nibbles and use a 16-entry table
+for some situations (e.g string manipulation) a compiler may be able to use inline code for greater speed or call run-time routines for reduced memory the user of the compiler should be able to indicate whether speed or space is more important
+the software engineering institute have a specific method for analysing tradeoffs called the architectural tradeoff analysis method or atam
+strategy board games often involve tradeoffs for example in chess you might trade a pawn for an improved position in go you might trade thickness for influence
+ethics often involves competing interests that must be traded off against each other such as the interests of different people or different principles (e.g is it ethical to use information resulting from nazi human experiments to prevent disease today?)
+in medicine patients and physicians are often faced with difficult decisions involving tradeoff one example is localized prostate cancer where patients need to weigh the possibility of a prolonged life expectancy against possible stressful treatment side-effects (patient trade-off)
+governmental tradeoffs are among the most controversial political and social difficulties of any time all of politics can be viewed as a series of tradeoffs based upon which core values are most core to the most people or politicians political campaigns also involve tradeoffs as when attack ads may energize the political base but alienate undecided voters
+with work schedules employees will often use a tradeoff of 9/80 where an 80-hour work period is compressed from a traditional 10 working days to 9 to facilitate an off-friday
+== analytical methods to support a trade studyedit ==
+trade studies are essentially decision-making exercises in the faa systems handbook the decision analysis matrix (aka pugh's method) is suggested to support the activities but this method can not support uncertainty a mix of quantitative and qualitative information or teams to manage uncertainty the authors suggest supplementing point estimates of the outcome variables for each alternative with computed or estimated uncertainty ranges the standard approach to trade studies an incose paper from 2004 suggests a similar approach
+in the nasa systems engineering handbook nasa suggests using multi-attribute utility theoretic (maut) or the analytic hierarchy process (ahp) but these too are not good with uncertainty mixed information and teams the authors suggest using probability based methods to maximize utility when uncertainty predominates but give little detail on how to approach this
+in many situations linear programming methods like the simplex algorithm can be used but these too do not support uncertainty another approach to supporting trade studies with uncertain information is to use the bayesian methods
+== see alsoedit ==
+architecture tradeoff analysis method
+biological constraints
+carrier's constraint
+detection error tradeoff
+evolutionary medicine
+evolutionary physiology
+patient trade-off
+spacetime tradeoff
+time-trade-off
+trade-off theory of capital structure
+williamson trade-off model
+== further readingedit ==
+alexander r mcn 1985 the ideal and the feasible physical constraints on evolution biol j linn soc 26:345-358
+bennett a f. lenski r e 2007 an experimental test of evolutionary trade-offs during temperature adaptation proc natl acad sci usa 104:8649-8654
+campbell d e. and j s kelly 1994 trade-off theory the american economic review 84:422-426
+haak d c. mcginnis l a. levey d j. tewksbury j j 2012 why are not all chilies hot a trade-off limits pungency proc r soc b biol sci 279:2012-2017
+roff d a. fairbairn d j 2007 the evolution of tradeoffs where are we j evol biol 20:433-447
+stearns s c 1989 trade-offs in life-history evolution functional ecology 3:259-268
+== referencesedit ==
+^ garland t. jr 2014 quick guide tradeoffs current biology 24:r60-r61
+^ tradeoffs and constraints
+^ tradeoffs and constraints
+^ http://www.psychologytoday.com/blog/headshrinkers-guide-the-galaxy/201109/life-is-series-trade-offs
+^ http://sophistpundit.blogspot.com/2009/10/all-of-life-is-trade-offs.html
+^ keen e c (2014) tradeoffs in bacteriophage life histories bacteriophage 4 (1) e28365 doi:10.4161/bact.28365 pmc 3942329 pmid 24616839
+^ national airspace system engineering manual version 3.1 section 4.6 trade studies federal aviation administration 2006
+^ felix a (2004) standard approach to trade studies a process improvement model that enables systems engineers to provide information to the project manager by going beyond the summary matrix (pdf) incose
+^ nasa systems engineering handbook section 6.8.2.2 trade studies (pdf) nasa 2007
+^ ullman d g. b p spiegel (2006) trade studies with uncertain information (pdf) sixteenth annual international symposium of the international council on systems engineering (incose)

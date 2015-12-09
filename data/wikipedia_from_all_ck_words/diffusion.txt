@@ -1,0 +1,164 @@
+diffusion is the net movement of molecules or atoms from a region of high concentration to a region of low concentration this is also referred to as the movement of a substance down a concentration gradient a gradient is the change in the value of a quantity (e.g. concentration pressure temperature) with the change in another variable (usually distance) for example a change in concentration over a distance is called a concentration gradient a change in pressure over a distance is called a pressure gradient and a change in temperature over a distance is a called a temperature gradient
+the word diffusion is derived from the latin word diffundere which means to spread out (if a substance is spreading out it is moving from an area of high concentration to an area of low concentration) a distinguishing feature of diffusion is that it results in mixing or mass transport without requiring bulk motion (bulk flow) thus diffusion should not be confused with convection or advection which are other transport phenomena that utilize bulk motion to move particles from one place to another
+== diffusion vs bulk flow ==
+an example of a situation in which bulk flow and diffusion can be differentiated is the mechanism by which oxygen enters the body during external respiration (breathing) the lungs are located in the thoracic cavity which is expanded as the first step in external respiration this expansion leads to an increase in volume of the alveoli in the lungs which causes a decrease in pressure in the alveoli this creates a pressure gradient between the air outside the body (relatively high pressure) and the alveoli (relatively low pressure) the air moves down the pressure gradient through the airways of the lungs and into the alveoli until the pressure of the air and that in the alveoli are equal (i.e. the movement of air by bulk flow stops once there is no longer a pressure gradient)
+the air arriving in the alveoli has a higher concentration of oxygen than the stale air in the alveoli the increase in oxygen concentration creates a concentration gradient for oxygen between the air in the alveoli and the blood in the capillaries that surround the alveoli oxygen then moves by diffusion down the concentration gradient into the blood the other consequence of the air arriving in alveoli is that the concentration of carbon dioxide in the alveoli decreases (air has a very low concentration of carbon dioxide compared to the blood in the body) this creates a concentration gradient for carbon dioxide to diffuse from the blood into the alveoli
+the blood is then transported around the body by the pumping action of the heart as the left ventricle of the heart contracts the volume decreases which causes the pressure in the ventricle to increase this creates a pressure gradient between the heart and the capillaries and blood moves through blood vessels by bulk flow (down the pressure gradient) as the thoracic cavity contracts during expiration the volume of the alveoli decreases and creates a pressure gradient between the alveoli and the air outside the body and air moves by bulk flow down the pressure gradient
+== diffusion in the context of different disciplines ==
+the concept of diffusion is widely used in physics (particle diffusion) chemistry biology sociology economics and finance (diffusion of people ideas and of price values) however in each case the object (e.g. atom idea etc.) that is undergoing diffusion is spreading out from a point or location at which there is a higher concentration of that object
+there are two ways to introduce the notion of diffusion either a phenomenological approach starting with fick's laws of diffusion and their mathematical consequences or a physical and atomistic one by considering the random walk of the diffusing particles
+in the phenomenological approach diffusion is the movement of a substance from a region of high concentration to a region of low concentration without bulk motion according to fick's laws the diffusion flux is proportional to the negative gradient of concentrations it goes from regions of higher concentration to regions of lower concentration some time later various generalizations of fick's laws were developed in the frame of thermodynamics and non-equilibrium thermodynamics
+from the atomistic point of view diffusion is considered as a result of the random walk of the diffusing particles in molecular diffusion the moving molecules are self-propelled by thermal energy random walk of small particles in suspension in a fluid was discovered in 1827 by robert brown the theory of the brownian motion and the atomistic backgrounds of diffusion were developed by albert einstein the concept of diffusion is typically applied to any subject matter involving random walks in ensembles of individuals
+in biology the terms net movement or net diffusion are often used when considering the movement of ions or molecules by diffusion for example oxygen can diffuse through cell membranes and if there is a higher concentration of oxygen outside the cell than inside oxygen molecules will diffuse into the cell however because the movement of molecules is random occasionally oxygen molecules will move out of the cell (against the concentration gradient) because there are more oxygen molecules outside the cell the probability that oxygen molecules will enter the cell is higher than the probability that oxygen molecules will leave the cell therefore the net movement of oxygen molecules (the difference between the number of molecules either entering or leaving the cell) will be into the cell in other words there will be a net movement of oxygen molecules down the concentration gradient
+== history of diffusion in physics ==
+in the scope of time diffusion in solids was used long before the theory of diffusion was created for example pliny the elder had previously described the cementation process which produces steel from the element iron (fe) through carbon diffusion another example is well known for many centuries the diffusion of colours of stained glass or earthenware and chinese ceramics
+in modern science the first systematic experimental study of diffusion was performed by thomas graham he studied diffusion in gases and the main phenomenon was described by him in 18311833
+...gases of different nature when brought into contact do not arrange themselves according to their density the heaviest undermost and the lighter uppermost but they spontaneously diffuse mutually and equally through each other and so remain in the intimate state of mixture for any length of time
+the measurements of graham contributed to james clerk maxwell deriving in 1867 the coefficient of diffusion for co2 in air the error rate is less than 5%
+in 1855 adolf fick the 26-year-old anatomy demonstrator from zrich proposed his law of diffusion he used graham's research stating his goal as the development of a fundamental law for the operation of diffusion in a single element of space he asserted a deep analogy between diffusion and conduction of heat or electricity creating a formalism that is similar to fourier's law for heat conduction (1822) and ohm's law for electric current (1827)
+robert boyle demonstrated diffusion in solids in the 17th century by penetration of zinc into a copper coin nevertheless diffusion in solids was not systematically studied until the second part of the 19th century william chandler roberts-austen the well-known british metallurgist and former assistant of thomas graham studied systematically solid state diffusion on the example of gold in lead in 1896 
+ my long connection with graham's researches made it almost a duty to attempt to extend his work on liquid diffusion to metals.
+in 1858 rudolf clausius introduced the concept of the mean free path in the same year james clerk maxwell developed the first atomistic theory of transport processes in gases the modern atomistic theory of diffusion and brownian motion was developed by albert einstein marian smoluchowski and jean-baptiste perrin ludwig boltzmann in the development of the atomistic backgrounds of the macroscopic transport processes introduced the boltzmann equation which has served mathematics and physics with a source of transport process ideas and concerns for more than 140 years
+in 19201921 george de hevesy measured self-diffusion using radioisotopes he studied self-diffusion of radioactive isotopes of lead in liquid and solid lead
+yakov frenkel (sometimes jakov/jacov frenkel) proposed and elaborated in 1926 the idea of diffusion in crystals through local defects (vacancies and interstitial atoms) he concluded the diffusion process in condensed matter is an ensemble of elementary jumps and quasichemical interactions of particles and defects he introduced several mechanisms of diffusion and found rate constants from experimental data
+some time later carl wagner and walter h schottky developed frenkel's ideas about mechanisms of diffusion further presently it is universally recognized that atomic defects are necessary to mediate diffusion in crystals
+henry eyring with co-authors applied his theory of absolute reaction rates to frenkel's quasichemical model of diffusion the analogy between reaction kinetics and diffusion leads to various nonlinear versions of fick's law
+== basic models of diffusion ==
+=== diffusion flux ===
+each model of diffusion expresses the diffusion flux through concentrations densities and their derivatives flux is a vector  the transfer of a physical quantity through a small area with normal per time is
+where is the inner product and is the little-o notation if we use the notation of vector area then
+the dimension of the diffusion flux is [flux]=[quantity]/([time][area]) the diffusing physical quantity may be the number of particles mass energy electric charge or any other scalar extensive quantity for its density  the diffusion equation has the form
+where is intensity of any local source of this quantity (the rate of a chemical reaction for example) for the diffusion equation the no-flux boundary conditions can be formulated as on the boundary where is the normal to the boundary at point 
+=== fick's law and equations ===
+fick's first law the diffusion flux is proportional to the negative of the concentration gradient
+the corresponding diffusion equation (fick's second law) is
+where is the laplace operator
+=== onsager's equations for multicomponent diffusion and thermodiffusion ===
+fick's law describes diffusion of an admixture in a medium the concentration of this admixture should be small and the gradient of this concentration should be also small the driving force of diffusion in fick's law is the antigradient of concentration 
+in 1931 lars onsager included the multicomponent transport processes in the general context of linear non-equilibrium thermodynamics for multi-component transport
+where is the flux of the ith physical quantity (component) and is the jth thermodynamic force
+the thermodynamic forces for the transport processes were introduced by onsager as the space gradients of the derivatives of the entropy density s (he used the term force in quotation marks or driving force")
+where are the thermodynamic coordinates for the heat and mass transfer one can take (the density of internal energy) and is the concentration of the ith component the corresponding driving forces are the space vectors
+because
+where t is the absolute temperature and is the chemical potential of the ith component it should be stressed that the separate diffusion equations describe the mixing or mass transport without bulk motion therefore the terms with variation of the total pressure are neglected it is possible for diffusion of small admixtures and for small gradients
+for the linear onsager equations we must take the thermodynamic forces in the linear approximation near equilibrium
+where the derivatives of s are calculated at equilibrium n* the matrix of the kinetic coefficients should be symmetric (onsager reciprocal relations) and positive definite (for the entropy growth)
+the transport equations are
+here all the indexes i j k=0,1,2 are related to the internal energy (0) and various components the expression in the square brackets is the matrix of the diffusion (i,k>0) thermodiffusion (i>0 k=0 or k>0 i=0) and thermal conductivity (i=k=0) coefficients
+under isothermal conditions t=const the relevant thermodynamic potential is the free energy (or the free entropy) the thermodynamic driving forces for the isothermal diffusion are antigradients of chemical potentials  and the matrix of diffusion coefficients is
+(i,k>0)
+there is intrinsic arbitrariness in the definition of the thermodynamic forces and kinetic coefficients because they are not measurable separately and only their combinations can be measured for example in the original work of onsager the thermodynamic forces include additional multiplier t whereas in the course of theoretical physics this multiplier is omitted but the sign of the thermodynamic forces is opposite all these changes are supplemented by the corresponding changes in the coefficients and do not effect the measurable quantities
+=== nondiagonal diffusion must be nonlinear ===
+the formalism of linear irreversible thermodynamics (onsager) generates the systems of linear diffusion equations in the form
+if the matrix of diffusion coefficients is diagonal then this system of equations is just a collection of decoupled fick's equations for various components assume that diffusion is non-diagonal for example  and consider the state with  at this state  if at some points then becomes negative at these points in a short time therefore linear non-diagonal diffusion does not preserve positivity of concentrations non-diagonal equations of multicomponent diffusion must be non-linear
+=== einstein's mobility and teorell formula ===
+the einstein relation (kinetic theory) connects the diffusion coefficient and the mobility (the ratio of the particle's terminal drift velocity to an applied force)
+where d is the diffusion constant is the mobility kb is boltzmann's constant t is the absolute temperature
+below to combine in the same formula the chemical potential and the mobility we use for mobility the notation 
+the mobilitybased approach was further applied by t teorell in 1935 he studied the diffusion of ions through a membrane he formulated the essence of his approach in the formula
+the flux is equal to mobilityconcentrationforce per gram ion
+this is the so-called teorell formula
+the force under isothermal conditions consists of two parts
+diffusion force caused by concentration gradient
+electrostatic force caused by electric potential gradient
+here r is the gas constant t is the absolute temperature n is the concentration the equilibrium concentration is marked by a superscript eq q is the charge and is the electric potential
+the simple but crucial difference between the teorell formula and the onsager laws is the concentration factor in the teorell expression for the flux in the einstein teorell approach if for the finite force the concentration tends to zero then the flux also tends to zero whereas the onsager equations violate this simple and physically obvious rule
+the general formulation of the teorell formula for non-perfect systems under isothermal conditions is
+where is the chemical potential 0 is the standard value of the chemical potential the expression is the so-called activity it measures the effective concentration of a species in a non-ideal mixture in this notation the teorell formula for the flux has a very simple form
+the standard derivation of the activity includes a normalization factor and for small concentrations  where is the standard concentration therefore this formula for the flux describes the flux of the normalized dimensionless quantity 
+==== teorell formula for multicomponent diffusion ====
+the teorell formula with combination of onsager's definition of the diffusion force gives
+where is the mobility of the ith component is its activity is the matrix of the coefficients is the thermodynamic diffusion force  for the isothermal perfect systems  therefore the einstein-teorell approach gives the following multicomponent generalization of the fick's law for multicomponent diffusion
+where is the matrix of coefficients the chapman-enskog formulas for diffusion in gases include exactly the same terms earlier such terms were introduced in the maxwellstefan diffusion equation
+=== jumps on the surface and in solids ===
+diffusion of reagents on the surface of a catalyst may play an important role in heterogeneous catalysis the model of diffusion in the ideal monolayer is based on the jumps of the reagents on the nearest free places this model was used for co on pt oxidation under low gas pressure
+the system includes several reagents on the surface their surface concentrations are  the surface is a lattice of the adsorption places each reagent molecule fills a place on the surface some of the places are free the concentration of the free paces is  the sum of all (including free places) is constant the density of adsorption places b
+the jump model gives for the diffusion flux of (i=1,...,n)
+the corresponding diffusion equation is
+due to the conservation law and we have the system of m diffusion equations for one component we get fick's law and linear equations because  for two and more components the equations are nonlinear
+if all particles can exchange their positions with their closest neighbours then a simple generalization gives
+where is a symmetric matrix of coefficients which characterize the intensities of jumps the free places (vacancies) should be considered as special particles with concentration 
+various versions of these jump models are also suitable for simple diffusion mechanisms in solids
+=== diffusion in porous media ===
+for diffusion in porous media the basic equations are
+where d is the diffusion coefficient n is the concentration m>0 (usually m>1 the case m=1 corresponds to fick's law)
+for diffusion of gases in porous media this equation is the formalisation of darcy's law the velocity of a gas in the porous media is
+where k is the permeability of the medium is the viscosity and p is the pressure the flux j=nv and for darcy's law gives the equation of diffusion in porous media with m=+1
+for underground water infiltration the boussinesq approximation gives the same equation with m=2
+for plasma with the high level of radiation the zeldovich-raizer equation gives m>4 for the heat transfer
+== diffusion in physics ==
+=== elementary theory of diffusion coefficient in gases ===
+the diffusion coefficient is the coefficient in the fick's first law  where j is the diffusion flux (amount of substance) per unit area per unit time n (for ideal mixtures) is the concentration x is the position [length]
+let us consider two gases with molecules of the same diameter d and mass m (self-diffusion) in this case the elementary mean free path theory of diffusion gives for the diffusion coefficient
+where kb is the boltzmann constant t is the temperature p is the pressure is the mean free path and vt is the mean thermal speed
+we can see that the diffusion coefficient in the mean free path approximation grows with t as t3/2 and decreases with p as 1/p if we use for p the ideal gas law p=rnt with the total concentration n then we can see that for given concentration n the diffusion coefficient grows with t as t1/2 and for given temperature it decreases with the total concentration as 1/n
+for two different gases a and b with molecular masses ma mb and molecular diameters da db the mean free path estimate of the diffusion coefficient of a in b and b in a is
+=== the theory of diffusion in gases based on boltzmann's equation ===
+in boltzmann's kinetics of the mixture of gases each gas has its own distribution function  where t is the time moment x is position and c is velocity of molecule of the ith component of the mixture each component has its mean velocity  if the velocities do not coincide then there exists diffusion
+in the chapman-enskog approximation all the distribution functions are expressed through the densities of the conserved quantities
+individual concentrations of particles (particles per volume)
+density of moment (mi is the ith particle mass)
+density of kinetic energy 
+the kinetic temperature t and pressure p are defined in 3d space as
+ 
+where is the total density
+for two gases the difference between velocities is given by the expression
+where is the force applied to the molecules of the ith component and is the thermodiffusion ratio
+the coefficient d12 is positive this is the diffusion coefficient four terms in the formula for c1-c2 describe four main effects in the diffusion of gases
+describes the flux of the first component from the areas with the high ratio n1/n to the areas with lower values of this ratio (and analogously the flux of the second component from high n2/n to low n2/n because n2/n=1-n1/n)
+describes the flux of the heavier molecules to the areas with higher pressure and the lighter molecules to the areas with lower pressure this is barodiffusion
+describes diffusion caused by the difference of the forces applied to molecules of different types for example in the earth's gravitational field the heavier molecules should go down or in electric field the charged molecules should move until this effect is not equilibrated by the sum of other terms this effect should not be confused with barodiffusion caused by the pressure gradient
+describes thermodiffusion the diffusion flux caused by the temperature gradient
+all these effects are called diffusion because they describe the differences between velocities of different components in the mixture therefore these effects cannot be described as a bulk transport and differ from advection or convection
+in the first approximation
+for rigid spheres
+for repulsing force 
+the number is defined by quadratures (formulas (3.7) (3.9) ch 10 of the classical chapman and cowling book)
+we can see that the dependence on t for the rigid spheres is the same as for the simple mean free path theory but for the power repulsion laws the exponent is different dependence on a total concentration n for a given temperature has always the same character 1/n
+in applications to gas dynamics the diffusion flux and the bulk flow should be joined in one system of transport equations the bulk flow describes the mass transfer its velocity v is the mass average velocity it is defined through the momentum density and the mass concentrations
+where is the mass concentration of the ith species is the mass density
+by definition the diffusion velocity of the ith component is   the mass transfer of the ith component is described by the continuity equation
+where is the net mass production rate in chemical reactions 
+in these equations the term describes advection of the ith component and the term represents diffusion of this component
+in 1948 wendell h furry proposed to use the form of the diffusion rates found in kinetic theory as a framework for the new phenomenological approach to diffusion in gases this approach was developed further by f.a williams and s.h lam for the diffusion velocities in multicomponent gases (n components) they used
+here is the diffusion coefficient matrix is the thermal diffusion coefficient is the body force per unite mass acting on the ith species is the partial pressure fraction of the ith species (and is the partial pressure) is the mass fraction of the ith species and 
+== random walk (random motion) ==
+one common misconception is that individual atoms ions or molecules move randomly which they do not in the animation on the right the ion on in the left panel has a random motion but this motion is not random as it is the result of collisions with other ions as such the movement of a single atom ion or molecule within a mixture just appears to be random when viewed in isolation the movement of a substance within a mixture by random walk is governed by the kinetic energy within the system that can be affected by changes in concentration pressure or temperature
+=== separation of diffusion from convection in gases ===
+while brownian motion of multi-molecular mesoscopic particles (like pollen grains studied by brown) is observable under an optical microscope molecular diffusion can only be probed in carefully controlled experimental conditions since graham experiments it is well known that avoiding of convection is necessary and this may be a non-trivial task
+under normal conditions molecular diffusion dominates only on length scales between nanometer and millimeter on larger length scales transport in liquids and gases is normally due to another transport phenomenon convection and to study diffusion on the larger scale special efforts are needed
+therefore some often cited examples of diffusion are wrong if cologne is sprayed in one place it will soon be smelled in the entire room but a simple calculation shows that this can't be due to diffusion convective motion persists in the room because the temperature inhomogeneity if ink is dropped in water one usually observes an inhomogeneous evolution of the spatial distribution which clearly indicates convection (caused in particular by this dropping)
+in contrast heat conduction through solid media is an everyday occurrence (e.g a metal spoon partly immersed in a hot liquid) this explains why the diffusion of heat was explained mathematically before the diffusion of mass
+=== other types of diffusion ===
+anisotropic diffusion also known as the perona-malik equation enhances high gradients
+anomalous diffusion in porous medium
+atomic diffusion in solids
+eddy diffusion in coarse-grained description of turbulent flow
+effusion of a gas through small holes
+electronic diffusion resulting in an electric current called the diffusion current
+facilitated diffusion present in some organisms
+gaseous diffusion used for isotope separation
+heat equation diffusion of thermal energy
+it diffusion mathematisation of brownian motion continuous stochastic process
+knudsen diffusion of gas in long pores with frequent wall collisions
+momentum diffusion ex the diffusion of the hydrodynamic velocity field
+photon diffusion
+plasma diffusion
+random walk model for diffusion
+reverse diffusion against the concentration gradient in phase separation
+rotational diffusion random reorientations of molecules
+surface diffusion diffusion of adparticles on a surface
+turbulent diffusion transport of mass heat or momentum within a turbulent fluid
+== see also ==
+advection
+diffusion-limited aggregation
+fick's laws of diffusion
+false diffusion
+isobaric counterdiffusion
+sorption
+== references ==
+== external links ==
+diffusion in a bipolar junction transistor demo
+diffusion furnace for doping of semiconductor wafers pocl3 doping of silicon
+a java applet implementing diffusion
+[1]

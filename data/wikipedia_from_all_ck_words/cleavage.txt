@@ -1,0 +1,90 @@
+a microscope (from the ancient greek  mikrs small and  skopen to look or see") is an instrument used to see objects that are too small for the naked eye the science of investigating small objects using such an instrument is called microscopy microscopic means invisible to the eye unless aided by a microscope
+there are many types of microscopes the most common (and the first to be invented) is the optical microscope which uses light to image the sample other major types of microscopes are the electron microscope (both the transmission electron microscope and the scanning electron microscope) the ultramicroscope and the various types of scanning probe microscope
+on october 8 2014 the nobel prize in chemistry was awarded to eric betzig william moerner and stefan hell for the development of super-resolved fluorescence microscopy, which brings optical microscopy into the nanodimension
+== historyedit ==
+the first microscope to be developed was the optical microscope although the original inventor is not easy to identify evidence points to the first compound microscope appearing in the netherlands by the 1620s with a likely inventor being cornelis drebbel counter claims include it being invented by hans lippershey (who obtained the first telescope patent) and what may be a dubious claim by zacharias janssen's son that his father invented the microscope and telescope giovanni faber coined the name microscope for galileo galilei's compound microscope in 1625 (galileo had called it the occhiolino or little eye")
+=== rise of modern light microscopyedit ===
+the first detailed account of the interior construction of living tissue based on the use of a microscope did not appear until 1644 in giambattista odierna's l'occhio della mosca or the fly's eye
+it was not until the 1660s and 1670s that the microscope was used extensively for research in italy the netherlands and england marcelo malpighi in italy began the analysis of biological structures beginning with the lungs robert hooke's micrographia had a huge impact largely because of its impressive illustrations the greatest contribution came from antonie van leeuwenhoek who discovered red blood cells and spermatozoa and helped popularise microscopy as a technique on 9 october 1676 van leeuwenhoek reported the discovery of micro-organisms
+the performance of light microscopy depends as much on how the sample is illuminated as on how it is observed early instruments were limited until this principle was fully appreciated and developed and until electric lamps were available as light sources the first piece of fiction to involve the microcosm was probably fitz-james o'brien's the diamond lens, which tells the story of a scientist who invents a powerful microscope and discovers a beautiful woman living in a microscopic world inside a drop of water in 1893 august khler developed a key principle of sample illumination khler illumination which is central to achieving the theoretical limits of light microscopy this method of sample illumination produces even lighting and overcomes the limited contrast and resolution imposed by early techniques of sample illumination further developments in sample illumination came from the discovery of phase contrast by frits zernike in 1953 and differential interference contrast illumination by georges nomarski in 1955 both of which allow imaging of unstained transparent samples
+=== electron microscopyedit ===
+in the early 20th century a significant alternative to light microscopy was developed using electrons rather than light to generate the image ernst ruska started development of the first electron microscope in 1931 which was the transmission electron microscope (tem) the transmission electron microscope works on the same principle as an optical microscope but uses electrons in the place of light and electromagnets in the place of glass lenses use of electrons instead of light allows a much higher resolution
+development of the transmission electron microscope was quickly followed in 1935 by the development of the scanning electron microscope by max knoll
+electron microscopes quickly became popular following the second world war ernst ruska working at siemens developed the first commercial transmission electron microscope and major scientific conferences on electron microscopy started being held in the 1950s in 1965 the first commercial scanning electron microscope was developed by professor sir charles oatley and his postgraduate student gary stewart and marketed by the cambridge instrument company as the stereoscan
+=== scanning probe microscopyedit ===
+the 1980s saw the development of the first scanning probe microscopes the first was the scanning tunneling microscope in 1981 developed by gerd binnig and heinrich rohrer this was closely followed in 1986 with gerd binnig quate and gerber's invention of the atomic force microscope
+=== fluorescence and light microscopyedit ===
+the most recent developments in light microscope largely centre on the rise of fluorescence microscopy in biology during the last decades of the 20th century particularly in the post-genomic era many techniques for fluorescent labeling of cellular structures were developed the main groups of techniques are small chemical staining of cellular structures for example dapi to label dna use of antibodies conjugated to fluorescent reporters see immunofluorescence and fluorescent proteins such as green fluorescent protein these techniques use these different fluorophores for analysis of cell structure at a molecular level in both live and fixed samples
+the rise of fluorescence microscopy drove the development of a major modern microscope design the confocal microscope the principle was patented in 1957 by marvin minsky although laser technology limited practical application of the technique it was not until 1978 when thomas and christoph cremer developed the first practical confocal laser scanning microscope and the technique rapidly gained popularity through the 1980s
+much current research (in the early 21st century) on optical microscope techniques is focused on development of superresolution analysis of fluorescently labeled samples structured illumination can improve resolution by around two to four times and techniques like stimulated emission depletion microscopy are approaching the resolution of electron microscopes
+== typesedit ==
+microscopes can be separated into several different classes one grouping is based on what interacts with the sample to generate the image i.e. light or photons (optical microscopes) electrons (electron microscopes) or a probe (scanning probe microscopes) alternatively microscopes can be classed on whether they analyse the sample via a scanning point (confocal optical microscopes scanning electron microscopes and scanning probe microscopes) or analyse the sample all at once (wide field optical microscope and transmission electron microscopes)
+wide field optical microscopes and transmission electron microscopes both use the theory of lenses (optics for light microscopes and electromagnet lenses for electron microscopes) in order to magnify the image generated by the passage of a wave transmitted through the sample or reflected by the sample the waves used are electromagnetic (in optical microscopes) or electron beams (in electron microscopes) resolution in these microscopes is limited by the wavelength of the radiation used to image the sample where shorter wavelengths allow for a higher resolution
+scanning optical and electron microscopes like the confocal microscope and scanning electron microscope use lenses to focus a spot of light or electrons onto the sample then analyze the reflected or transmitted waves the point is then scanned over the sample to analyze a rectangular region magnification of the image is achieved by displaying the data from scanning a physically small sample area on a relatively large screen these microscopes have the same resolution limit as wide field optical probe and electron microscopes
+scanning probe microscopes also analyze a single point in the sample and then scan the probe over a rectangular sample region to build up an image as these microscopes do not use electromagnetic or electron radiation for imaging they are not subject to the same resolution limit as the optical and electron microscopes described above
+=== opticaledit ===
+the most common type of microscope (and the first invented) is the optical microscope this is an optical instrument containing one or more lenses producing an enlarged image of a sample placed in the focal plane optical microscopes have refractive glass and occasionally of plastic or quartz to focus light into the eye or another light detector mirror-based optical microscopes operate in the same manner typical magnification of a light microscope assuming visible range light is up to 1250x with a theoretical resolution limit of around 0.250 micrometres or 250 nanometres this limits the practical magnification limit to ~1500x specialized techniques (e.g. scanning confocal microscopy vertico smi) may exceed this magnification but the resolution is diffraction limited the use of shorter wavelengths of light such as the ultraviolet is one way to improve the spatial resolution of the optical microscope as are devices such as the near-field scanning optical microscope.sarfus a recent optical technique increases the sensitivity of standard optical microscope to a point it becomes possible to directly visualize nanometric films (down to 0.3 nanometre) and isolated nano-objects (down to 2 nm-diameter) the technique is based on the use of non-reflecting substrates for cross-polarized reflected light microscopy
+ultraviolet light enables the resolution of microscopic features as well as to image samples that are transparent to the eye near infrared light can be used to visualize circuitry embedded in bonded silicon devices since silicon is transparent in this region of wavelengths
+in fluorescence microscopy many wavelengths of light ranging from the ultraviolet to the visible can be used to cause samples to fluoresce to allow viewing by eye or with the use of specifically sensitive cameras
+phase contrast microscopy is an optical microscopy illumination technique in which small phase shifts in the light passing through a transparent specimen are converted into amplitude or contrast changes in the image the use of phase contrast does not require staining to view the slide this microscope technique made it possible to study the cell cycle in live cells
+the traditional optical microscope has more recently evolved into the digital microscope in addition to or instead of directly viewing the object through the eyepieces a type of sensor similar to those used in a digital camera is used to obtain an image which is then displayed on a computer monitor these sensors may use cmos or charge-coupled device (ccd) technology depending on the application
+=== electronedit ===
+three major types of electron microscopes exist
+scanning electron microscope (sem) looks at the surface of bulk objects by scanning the surface with a fine electron beam see also environmental scanning electron microscope (esem)
+transmission electron microscope (tem) passes electrons through the sample analogous to basic optical microscopy this requires careful sample preparation since electrons are scattered so strongly by most materials.this is a scientific device that allows people to see objects that could normally not be seen by the naked or unaided eye
+hybrid instruments combination of both types
+=== scanning probeedit ===
+afm atomic force microscopy
+beem ballistic electron emission microscopy
+efm electrostatic force microscope
+estm electrochemical scanning tunneling microscope
+fmm force modulation microscopy
+kpfm kelvin probe force microscopy
+mfm magnetic force microscopy
+mrfm magnetic resonance force microscopy
+nsom near-field scanning optical microscopy (or snom scanning near-field optical microscopy)
+pfm piezo force microscopy
+pstm photon scanning tunneling microscopy
+ptms photothermal microspectroscopy/microscopy
+sap scanning atom probe
+scm scanning capacitance microscopy
+secm scanning electrochemical microscopy
+sgm scanning gate microscopy
+sicm scanning ion-conductance microscopy
+spsm spin polarized scanning tunneling microscopy
+sthm scanning thermal microscopy
+stm scanning tunneling microscopy
+svm scanning voltage microscopy
+shpm scanning hall probe microscopy
+ssm scanning squid microscope
+rtm recurrence tracking microscope
+of these techniques afm and stm are the most commonly used
+=== other typesedit ===
+scanning acoustic microscopes use sound waves to measure variations in acoustic impedance similar to sonar in principle they are used for such jobs as detecting defects in the subsurfaces of materials including those found in integrated circuits on february 4 2013 australian engineers built a quantum microscope which provides unparalleled precision
+== see alsoedit ==
+3d printed microscope
+bright field microscopy
+confocal microscopy
+dark field microscopy
+digital microscope
+electron microscope
+fluorescence interference contrast microscopy
+fluorescence microscope
+laser capture microdissection
+microscope image processing
+microscope slide
+microscopy
+multifocal plane microscopy
+phase contrast microscopy
+timeline of microscope technology
+x-ray microscope
+== referencesedit ==
+== external linksedit ==
+microscopy laboratory in a study guide to the science of botany at wikibooks
+milestones in light microscopy nature publishing
+faq on optical microscopes
+nikon microscopyu tutorials from nikon
+molecular expressions  exploring the world of optics and microscopy florida state university
+microscopes made from bamboo at nature.com
+audio microscope glossary
+billings microscope collection catalogue national museum of health and medicine

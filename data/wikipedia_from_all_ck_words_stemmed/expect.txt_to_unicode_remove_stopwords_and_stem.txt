@@ -1,0 +1,40 @@
+expect extens tcl script languag written libe program autom interact program expos text termin interfac expect origin written unix system also avail microsoft window system use autom control interact applic telnet ftp passwd fsck rlogin tip ssh other expect use pseudo termin unix emul consol window start target program communic human would via termin consol interfac tk anoth tcl extens use provid gui
+basicsedit
+expect regular express pattern match general program capabl allow simpl script intellig control program telnet ftp ssh lack program languag macro program mechan
+usageedit
+expect serv glue link exist util togeth general idea tri figur make expect util system exist tool rather figur solv problem insid expect
+key usag expect involv commerci softwar product mani product provid type commandlin interfac usual lack power need write script built servic user administ product compani often spend resourc fulli implement robust script languag expect script spawn shell look environment variabl perform unix command retriev inform enter product commandlin interfac arm necessari inform achiev user goal look inform insid product commandlin interfac script make intellig decis action take
+everi time expect oper complet result store local variabl call expectout allow script harvest inform feed back user also allow condit behavior send next base circumst
+common use expect set test suit whether program util embed system dejagnu test suit written use expect use test use extens test gcc well suit test remot target embed develop
+one autom generat expect script use tool call autoexpect tool observ action generat expect script use heurist though generat code may larg somewhat cryptic one alway tweak generat script get exact code
+anoth exampl script autom ftp
+exampl autom sftp password
+note use password commandlin argument like exampl huge secur hole user machin read password run ps howev add code prompt password rather give password argument secur see exampl
+anoth exampl autom ssh login user machin
+alternativesedit
+various project implement expectlik function languag c java perl python rubi general exact clone origin expect concept tend similar
+cedit
+expectnet expect function c net
+dotnetexpect expectinspir consol autom librari net
+javaedit
+expectj attempt java clone origin expect
+expectj java implement unix expect util
+expectforjava pure java implement expect tool
+perledit
+expectpm perl modul newest version metacpanorg
+pythonedit
+pexpect python modul control interact program pseudotermin
+winpexpect port pexpect window platform
+rubyedit
+rexpect drop replac expectrb modul standard librari
+expectr interact cisco io iosxr junip juno cli
+shelledit
+empti expectlik util run interact command unix shellscript
+referencesedit
+readingedit
+libe explor expect tclbase tool autom interact program oreilli associ inc isbn
+advanc program expect bulletproof interfac
+extern linksedit
+offici websit
+expect sourceforg current releas
+expect page tcler wiki

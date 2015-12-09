@@ -1,0 +1,32 @@
+a generalization (or generalisation) is a concept in the inductive sense of that word or an extension of the concept to less-specific criteria generalizations posit the existence of a domain or set of elements as well as one or more common characteristics shared by those elements (thus creating a conceptual model) as such they are the essential basis of all valid deductive inferences the process of verification is necessary to determine whether a generalization holds true for any given situation
+the concept of generalization has broad application in many related disciplines sometimes having a specialized context or meaning
+of any two related concepts such as a and b a is a generalization of b and b is a special case of a if and only if
+every instance of concept b is also an instance of concept a and
+there are instances of concept a which are not instances of concept b
+for instance animal is a generalization of bird because every bird is an animal and there are animals which are not birds (dogs for instance) (see also specialisation (biology))
+== hypernym and hyponymedit ==
+the relation of generalization to specialization (or particularization) is reflected in the contrasting words hypernym and hyponym a hypernym as a generic stands for a class or group of equally ranked itemsfor example tree stands for equally ranked items such as peach and oak and ship stands for equally ranked items such as cruiser and steamer in contrast a hyponym is one of the items included in the generic such as peach and oak which are included in tree and cruiser and steamer which are included in ship a hypernym is superordinate to a hyponym and a hyponym is subordinate to a hypernym
+== examplesedit ==
+=== biological generalizationedit ===
+an animal is a generalization of a mammal a bird a fish an amphibian and a reptile
+=== cartographic generalization of geo-spatial dataedit ===
+generalization has a long history in cartography as an art of creating maps for different scale and purpose cartographic generalization is the process of selecting and representing information of a map in a way that adapts to the scale of the display medium of the map in this way every map has to some extent been generalized to match the criteria of display this includes small cartographic scale maps which cannot convey every detail of the real world cartographers must decide and then adjust the content within their maps to create a suitable and useful map that conveys geospatial information within their representation of the world
+generalization is meant to be context-specific that is to say correctly generalized maps are those that emphasize the most important map elements while still representing the world in the most faithful and recognizable way the level of detail and importance in what is remaining on the map must outweigh the insignificance of items that were generalized as to preserve the distinguishing characteristics of what makes the map useful and important
+=== geometric generalizationsedit ===
+a polygon is a generalization of a 3-sided triangle a 4-sided quadrilateral and so on to n sides a hypercube is a generalization of a 2-dimensional square a 3-dimensional cube and so on to n dimensions
+== see alsoedit ==
+abstraction
+ceteris paribus
+ethical generalization
+class diagram
+external validity (scientific studies)
+faulty generalization
+generic (disambiguation)
+generic antecedent
+hasty generalization
+inheritance (object-oriented programming)
+mutatis mutandis
+-onym
+ramerdouglaspeucker algorithm
+semantic compression
+specialization (logic) the opposite process

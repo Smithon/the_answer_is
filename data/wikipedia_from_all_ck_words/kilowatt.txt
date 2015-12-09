@@ -1,0 +1,53 @@
+the watt (symbol w) is a derived unit of power in the international system of units (si) named after the scottish engineer james watt (17361819) the unit is defined as joule per second and can be used to express the rate of energy conversion or transfer with respect to time it has dimensions of l2mt3
+== examplesedit ==
+when an object's velocity is held constant at one meter per second against constant opposing force of one newton the rate at which work is done is 1 watt
+in terms of electromagnetism one watt is the rate at which work is done when one ampere (a) of current flows through an electrical potential difference of one volt (v)
+two additional unit conversions for watt can be found using the above equation and ohm's law
+where ohm () is the si derived unit of electrical resistance
+a person having a mass of 100 kilograms who climbs a 3-meter-high ladder in 5 seconds is doing work at a rate of about 600 watts mass times acceleration due to gravity times height divided by the time it takes to lift the object to the given height gives the rate of doing work or power
+a laborer over the course of an 8-hour day can sustain an average output of about 75 watts higher power levels can be achieved for short intervals and by athletes
+== origin and adoption as an si unitedit ==
+the watt is named after the scottish scientist james watt for his contributions to the development of the steam engine the measurement unit was recognized by the second congress of the british association for the advancement of science in 1882 concurrent with the start of commercial power production from both water and steam in 1960 the 11th general conference on weights and measures adopted it for the measurement of power into the international system of units (si)
+== multiplesedit ==
+for additional examples of magnitude for multiples and submultiples of the watt see orders of magnitude (power)
+=== femtowattedit ===
+the femtowatt is equal to one quadrillionth (1015) of a watt technologically important powers that are measured in femtowatts are typically found in reference(s) to radio and radar receivers for example meaningful fm tuner performance figures for sensitivity quieting and signal-to-noise require that the rf energy applied to the antenna input be specified these input levels are often stated in dbf (decibels referenced to 1 femtowatt) this is 0.2739 microvolt across a 75-ohm load or 0.5477 microvolt across a 300-ohm load the specification takes into account the rf input impedance of the tuner
+=== picowattedit ===
+the picowatt is equal to one trillionth (1012) of a watt technologically important powers that are measured in picowatts are typically used in reference to radio and radar receivers acoustics and in the science of radio astronomy
+=== nanowattedit ===
+the nanowatt is equal to one billionth (109) of a watt important powers that are measured in nanowatts are also typically used in reference to radio and radar receivers
+=== microwattedit ===
+the microwatt is equal to one millionth (106) of a watt important powers that are measured in microwatts are typically stated in medical instrumentation systems such as the eeg and the ecg in a wide variety of scientific and engineering instruments and also in reference to radio and radar receivers compact solar cells for devices such as calculators and watches are typically measured in microwatts
+=== milliwattedit ===
+the milliwatt is equal to one thousandth (103) of a watt a typical laser pointer outputs about five milliwatts of light power whereas a typical hearing aid for people uses less than one milliwatt
+=== kilowattedit ===
+the kilowatt is equal to one thousand (103) watts or one sthene-metre per second this unit is typically used to express the output power of engines and the power of electric motors tools machines and heaters it is also a common unit used to express the electromagnetic power output of broadcast radio and television transmitters
+one kilowatt is approximately equal to 1.34 horsepower a small electric heater with one heating element can use 1.0 kilowatt which is equivalent to the power of a household in the united states averaged over the entire year
+also kilowatts of light power can be measured in the output pulses of some lasers
+a surface area of one square meter on earth receives typically about one kilowatt of sunlight from the sun (the solar irradiance) (on a clear day at mid day close to the equator)
+=== megawattedit ===
+the megawatt is equal to one million (106) watts many events or machines produce or sustain the conversion of energy on this scale including lightning strikes large electric motors large warships such as aircraft carriers cruisers and submarines large server farms or data centers and some scientific research equipment such as supercolliders and the output pulses of very large lasers a large residential or commercial building may use several megawatts in electric power and heat on railways modern high-powered electric locomotives typically have a peak power output of 5 or 6 mw although some produce much more the eurostar for example uses more than 12 mw while heavy diesel-electric locomotives typically produce/use 3 to 5 mw u.s nuclear power plants have net summer capacities between about 500 and 1300 mw
+the earliest citing of the megawatt in the oxford english dictionary (oed) is a reference in the 1900 webster's international dictionary of english language the oed also states that megawatt appeared in a 28 november 1947 article in the journal science (506:2)
+=== gigawattedit ===
+the gigawatt is equal to one billion (109) watts or 1 gigawatt = 1000 megawatts this unit is often used for large power plants or power grids for example by the end of 2010 power shortages in china's shanxi province were expected to increase to 56 gw and the installed capacity of wind power in germany was 25.8 gw the largest unit (out of four) of the belgian nuclear plant doel has a peak output of 1.04 gw hvdc converters have been built with power ratings of up to 2 gw the london array the world's largest offshore wind farm is designed to produce a gigawatt of power
+=== terawattedit ===
+the terawatt is equal to one trillion (1012) watts the total power used by humans worldwide is commonly measured in terawatts (see primary energy) the most powerful lasers from the mid-1960s to the mid-1990s produced power in terawatts but only for nanosecond time frames the average lightning strike peaks at 1 terawatt but these strikes only last for 30 microseconds
+=== petawattedit ===
+the petawatt is equal to one quadrillion (1015) watts and can be produced by the current generation of lasers for time-scales on the order of picoseconds (1012 s) one such laser is the lawrence livermore's nova laser which achieved a power output of 1.25 pw (70151250000000000001.251015 w) by a process called chirped pulse amplification the duration of the pulse was roughly 0.5 ps (698750000000000000051013 s) giving a total energy of 600 j or enough energy to power a 100 w light bulb for six seconds another example is the laser for fast ignition experiments (lfex) at the institute of laser engineering (ile) osaka university which achieved a power output of 2 pw (701520000000000000021015 w) for a duration of approximately 1 ps
+based on the average total solar irradiance of 1.366 kw/m2 the total power of sunlight striking earth's atmosphere is estimated at 174 pw (see solar constant)
+== electrical and thermal wattsedit ==
+in the electric power industry megawatt electrical (mwe or mwe) is electric power while megawatt thermal or thermal megawatt (mwt mwt or mwth mwth) refers to thermal power produced other si prefixes are sometimes used for example gigawatt electrical (gwe) watt electrical and watt thermal are not si units the international bureau of weights and measures states that further information about a quantity should not be attached to the unit symbol but instead to the quantity symbol (i.e. pthermal = 270 w rather than p = 270 wth) and regards these symbols as incorrect
+for example the embalse nuclear power plant in argentina uses a fission reactor to generate 2109 mwt of heat which creates steam to drive a turbine which generates 648 mwe of electricity (a numerical energy conversion efficiency of 648/2109 = 0.307 or 30.7%) the difference is due to the inefficiency of steam-turbine generators and the limitations of the theoretical rankine cycle
+== confusion of watts watt-hours and watts per houredit ==
+the terms power and energy are frequently confused power is the rate at which energy is generated or consumed and hence is measured in units (e.g watts) that represent energy per unit time
+for example when a light bulb with a power rating of 100w is turned on for one hour the energy used is 100 watt hours (wh) 0.1 kilowatt hour or 360 kj this same amount of energy would light a 40-watt bulb for 2.5 hours or a 50-watt bulb for 2 hours a power station would be rated in multiples of watts but its annual energy sales would be in multiples of watt hours a kilowatt hour is the amount of energy equivalent to a steady power of 1 kilowatt running for 1 hour or 3.6 mj (1000 watts 3600 seconds (i.e. 60 seconds per minute 60 minutes per hour) = 3,600,000 joules = 3.6 mj)
+terms such as watts per hour are often misused when watts would be correct watts per hour properly refers to the change of power per hour watts per hour (w/h) might be useful to characterize the ramp-up behavior of power plants for example a power plant that reaches a power output of 1 mw from 0 mw in 15 minutes has a ramp-up rate of 4 mw/h hydroelectric power plants have a very high ramp-up rate which makes them particularly useful in peak load and emergency situations
+major energy production or consumption is often expressed as terawatt hours for a given period that is often a calendar year or financial year one terawatt hour is equal to a sustained power of approximately 114 megawatts for a period of one year
+the watt second is a unit of energy equal to the joule one kilowatt hour is 3,600,000 watt seconds the watt second is used for example to rate the energy storage of flash lamps used in photography although the term joule is generally employed
+== see alsoedit ==
+== notesedit ==
+== referencesedit ==
+== external linksedit ==
+borvon grard history of the electrical units fr free 
+nelson robert a (february 2000) the international system of units its history and use in science and industry via satellite ati courses 
+power conversion online conversion kids news room 

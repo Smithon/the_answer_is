@@ -1,0 +1,56 @@
+in mathematics a percentage is a number or ratio expressed as a fraction of 100 it is often denoted using the percent sign % or the abbreviations pct. pct sometimes the abbreviation pc is also used a percentage is a dimensionless number (pure number)
+== examples ==
+for example 45% (read as forty-five percent") is equal to 45100 or 0.45 a related system which expresses a number as a fraction of 1,000 uses the terms per mil and millage percentages are used to express how large or small one quantity is relative to another quantity the first quantity usually represents a part of or a change in the second quantity for example an increase of $0.15 on a price of $2.50 is an increase by a fraction of 0.152.50 = 0.06 expressed as a percentage this is therefore a 6% increase while percentage values are often between 0 and 100 there is no restriction and one may for example refer to 111% or 35% especially for percent changes and comparisons
+== history ==
+in ancient rome long before the existence of the decimal system computations were often made in fractions which were multiples of 1100 for example augustus levied a tax of 1100 on goods sold at auction known as centesima rerum venalium computation with these fractions was similar to computing percentages as denominations of money grew in the middle ages computations with a denominator of 100 became more standard and from the late 15th century to the early 16th century it became common for arithmetic texts to include such computations many of these texts applied these methods to profit and loss interest rates and the rule of three by the 17th century it was standard to quote interest rates in hundredths
+== percent sign ==
+the term per cent is derived from the latin per centum meaning by the hundred the sign for per cent evolved by gradual contraction of the italian term per cento meaning for a hundred the per was often abbreviated as p. and eventually disappeared entirely the cento was contracted to two circles separated by a horizontal line from which the modern % symbol is derived
+== calculations ==
+the percent value is computed by multiplying the numeric value of the ratio by 100 for example to find 50 apples as a percentage of 1250 apples first compute the ratio 501250 = 0.04 and then multiply by 100 to obtain 4% the percent value can also be found by multiplying first so in this example the 50 would be multiplied by 100 to give 5,000 and this result would be divided by 1250 to give 4%
+to calculate a percentage of a percentage convert both percentages to fractions of 100 or to decimals and multiply them for example 50% of 40% is
+50100 40100 = 0.50 0.40 = 0.20 = 20100 = 20%
+it is not correct to divide by 100 and use the percent sign at the same time (e.g 25% = 25100 = 0.25 not 25%100 which actually is 25100/100 = 0.0025 a term such as 100100% would also be incorrect this would be read as 1 percent even if the intent was to say 100%.)
+whenever we talk about a percentage it is important to specify what it is relative to i.e what is the total that corresponds to 100% the following problem illustrates this point
+in a certain college 60% of all students are female and 10% of all students are computer science majors if 5% of female students are computer science majors what percentage of computer science majors are female
+we are asked to compute the ratio of female computer science majors to all computer science majors we know that 60% of all students are female and among these 5% are computer science majors so we conclude that 60100 5100 = 3100 or 3% of all students are female computer science majors dividing this by the 10% of all students that are computer science majors we arrive at the answer 3%10% = 30100 or 30% of all computer science majors are female
+this example is closely related to the concept of conditional probability
+== percentage increase and decrease ==
+sometimes due to inconsistent usage it is not always clear from the context what a percentage is relative to when speaking of a 10% rise or a 10% fall in a quantity the usual interpretation is that this is relative to the initial value of that quantity for example if an item is initially priced at $200 and the price rises 10% (an increase of $20) the new price will be $220 note that this final price is 110% of the initial price (100% + 10% = 110%)
+some other examples of percent changes
+an increase of 100% in a quantity means that the final amount is 200% of the initial amount (100% of initial + 100% of increase = 200% of initial) in other words the quantity has doubled
+an increase of 800% means the final amount is 9 times the original (100% + 800% = 900% = 9 times as large)
+a decrease of 60% means the final amount is 40% of the original (100% 60% = 40%)
+a decrease of 100% means the final amount is zero (100% 100% = 0%)
+in general a change of x percent in a quantity results in a final amount that is 100 + x percent of the original amount (equivalently 1 + 0.01x times the original amount)
+== compounding percentages ==
+it is important to understand that percent changes as they have been discussed here do not add in the usual way if applied sequentially for example if the 10% increase in price considered earlier (on the $200 item raising its price to $220) is followed by a 10% decrease in the price (a decrease of $22) the final price will be $198 not the original price of $200 the reason for the apparent discrepancy is that the two percent changes (+10% and 10%) are measured relative to different quantities ($200 and $220 respectively) and thus do not cancel out
+in general if an increase of x percent is followed by a decrease of x percent and the initial amount was p the final amount is p(1 + 0.01x)(1 0.01x) = p(1 (0.01x)2) thus the net change is an overall decrease by x percent of x percent (the square of the original percent change when expressed as a decimal number) thus in the above example after an increase and decrease of x = 10 percent the final amount $198 was 10% of 10% or 1% less than the initial amount of $200 the net change is the same for a decrease of x percent followed by an increase of x percent the final amount is p(1 + 0.01x)(1 0.01x) = p(1 (0.01x)2)
+this can be expanded for a case where you do not have the same percent change if the initial percent change is x and the second percent change is y and the initial amount was p then the final amount is p(1 + 0.01x)(1 + 0.01y) to change the above example after an increase of x = 10 percent and decrease of y = 5 percent the final amount $209 is 4.5% more than the initial amount of $200
+as shown above percent changes can be applied in any order and have the same effect
+in the case of interest rates a very common but mathematically incorrect way to state that an interest rate rose from 10% to 15% for example is to say that the interest rate increased by 5 percent when in fact what is meant is that the interest rate increased by 5 percentage points (pp) as a result people often don't understand until later the shocking truth that their monthly payments on a loan will increase by 20 percent when banks or journalists (incorrectly) talk about a 2% increase when they actually mean an increase from 10% to 12% the same confusion between the different concepts of percent(age) and percentage points causes major misunderstandings when journalists regularly incorrectly report about election results for example in talking about bonds it is common to refer to an increase of one percentage point as an increase of 100 basis points
+== word and symbol ==
+in british english percent is sometimes written as two words (per cent although percentage and percentile are written as one word) in american english percent is the most common variant (but cf per mille written as two words)
+in the early part of the twentieth century there was a dotted abbreviation form per cent. as opposed to per cent the form per cent. is still in use as a part of the highly formal language found in certain documents like commercial loan agreements (particularly those subject to or inspired by common law) as well as in the hansard transcripts of british parliamentary proceedings the term has been attributed to latin per centum the concept of considering values as parts of a hundred is originally greek the symbol for percent (%) evolved from a symbol abbreviating the italian per cento in some other languages the form prosent is used instead some languages use both a word derived from percent and an expression in that language meaning the same thing e.g romanian procent and la sut (thus 10 % can be read or sometimes written ten for [each] hundred similarly with the english one out of ten) other abbreviations are rarer but sometimes seen
+grammar and style guides often differ as to how percentages are to be written for instance it is commonly suggested that the word percent (or per cent) be spelled out in all texts as in 1 percent and not 1% other guides prefer the word to be written out in humanistic texts but the symbol to be used in scientific texts most guides agree that they always be written with a numeral as in 5 percent and not five percent the only exception being at the beginning of a sentence ten percent of all writers love style guides. decimals are also to be used instead of fractions as in 3.5 percent of the gain and not 3 1/2 percent of the gain it is also widely accepted to use the percent symbol (%) in tabular and graphic material
+in line with common english practice style guidessuch as the chicago manual of stylegenerally state that the number and percent sign are written without any space in between however the international system of units and the iso 31-0 standard require a space
+== related units ==
+percentage point
+per mille () 1 part in 1,000
+basis point () 1 part in 10,000
+per cent mille (pcm) 1 part in 100,000
+parts-per notation
+grade (slope)
+per-unit system
+== other uses ==
+the word percentage is often a misnomer in the context of sports statistics when the referenced number is expressed as a decimal proportion not a percentage the phoenix suns shaquille o'neal led the nba with a 609 field goal percentage (fg%) during the 200809 season. (o'neal made 60.9% of his shots not 0.609%.) likewise the winning percentage of a team the fraction of matches that the club has won is also usually expressed as a decimal proportion a team that has a 500 winning percentage has won 50% of their matches the practice is probably related to the similar way that batting averages are quoted
+as percent it is used to describe the steepness of the slope of a road or railway formula for which is 100 rise/run which could also be expressed as the tangent of the angle of inclination times 100 this is the ratio of distances a vehicle would advance vertically and horizontally respectively when going up- or downhill expressed in percent
+percentage is also used to express composition of a mixture by mass percent and mole percent
+== practical applications ==
+baker percentage
+volume percent
+== see also ==
+annual percentage rate
+percent difference
+percentage change
+proportion
+== references ==

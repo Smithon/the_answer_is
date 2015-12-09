@@ -1,0 +1,85 @@
+conversion of units is the conversion between different units of measurement for the same quantity typically through multiplicative conversion factors
+== techniques ==
+=== process ===
+the process of conversion depends on the specific situation and the intended purpose this may be governed by regulation contract technical specifications or other published standards engineering judgment may include such factors as
+the precision and accuracy of measurement and the associated uncertainty of measurement
+the statistical confidence interval or tolerance interval of the initial measurement
+the number of significant figures of the measurement
+the intended use of the measurement including the engineering tolerances
+historical definitions of the units and their derivatives used in old measurements e.g. international foot vs us survey foot
+some conversions from one system of units to another need to be exact without increasing or decreasing the precision of the first measurement this is sometimes called soft conversion it does not involve changing the physical configuration of the item being measured
+by contrast a hard conversion or an adaptive conversion may not be exactly equivalent it changes the measurement to convenient and workable numbers and units in the new system it sometimes involves a slightly different configuration or size substitution of the item nominal values are sometimes allowed and used
+=== multiplication factors ===
+conversion between units in the metric system can be discerned by their prefixes (for example 1 kilogram = 1000 grams 1 milligram = 0.001 grams) and are thus not listed in this article exceptions are made if the unit is commonly known by another name (for example 1 micron = 106 metre)
+=== table ordering ===
+within each table the units are listed alphabetically and the si units (base or derived) are highlighted
+== tables of conversion factors ==
+this article gives lists of conversion factors for each of a number of physical quantities which are listed in the index for each physical quantity a number of different units (some only of historical interest) are shown and expressed in terms of the corresponding si unit
+=== length ===
+=== area ===
+=== volume ===
+=== plane angle ===
+=== solid angle ===
+=== mass ===
+notes
+see weight for detail of mass/weight distinction and conversion
+avoirdupois is a system of mass based on a pound of 16 ounces while troy weight is the system of mass where 12 troy ounces equals one troy pound
+in this table the unit gee is used to denote standard gravity in order to avoid confusion with the g symbol for grams
+in physics the pound of mass is sometimes written lbm to distinguish it from the pound-force (lbf) it should not be read as the mongrel unit pound metre
+=== density ===
+=== time ===
+=== frequency ===
+=== speed or velocity ===
+a velocity consists of a speed combined with a direction the speed part of the velocity takes units of speed
+=== flow (volume) ===
+=== acceleration ===
+=== force ===
+see also conversion between weight (force) and mass
+=== pressure or mechanical stress ===
+=== torque or moment of force ===
+=== energy ===
+=== power or heat flow rate ===
+=== action ===
+=== dynamic viscosity ===
+=== kinematic viscosity ===
+=== electric current ===
+=== electric charge ===
+=== electric dipole ===
+=== electromotive force electric potential difference ===
+=== electrical resistance ===
+=== capacitance ===
+=== magnetic flux ===
+=== magnetic flux density ===
+=== inductance ===
+=== temperature ===
+=== information entropy ===
+often information entropy is measured in shannons whereas the (discrete) storage space of digital devices is measured in bits thus uncompressed redundant data occupy more than one bit of storage per shannon of information entropy the multiples of a bit listed above are usually used with this meaning other times the bit is used as a measure of information entropy and is thus a synonym of shannon
+=== luminous intensity ===
+the candela is the preferred nomenclature for the si unit
+=== luminance ===
+=== luminous flux ===
+=== illuminance ===
+=== radiation - source activity ===
+please note that although becquerel (bq) and hertz (hz) both ultimately refer to the same si base unit (s1) hz is used only for periodic phenomena and bq is only used for stochastic processes associated with radioactivity
+=== radiation - exposure ===
+the roentgen is not an si unit and the nist strongly discourages its continued use
+=== radiation - absorbed dose ===
+=== radiation - equivalent dose ===
+although the definitions for sievert (sv) and gray (gy) would seem to indicate that they measure the same quantities this is not the case the effect of receiving a certain dose of radiation (given as gy) is variable and depends on many factors thus a new unit was needed to denote the biological effectiveness of that dose on the body this is known as the equivalent dose and is shown in sv the general relationship between absorbed dose and equivalent dose can be represented as
+h = q d
+where h is the equivalent dose d is the absorbed dose and q is a dimensionless quality factor thus for any quantity of d measured in gy the numerical value for h measured in sv may be different
+== software tools ==
+there are many conversion tools they are found in the function libraries of applications such as spreadsheets databases in calculators and in macro packages and plugins for many other applications such as the mathematical scientific and technical applications
+there are many standalone applications that offer the thousands of the various units with conversions for example the free software movement offers a command line utility gnu units for linux and windows
+== see also ==
+== notes and references ==
+notes
+== external links ==
+statutory instrument 1995 no 1804 units of measurement regulations 1995 from legislation.gov.uk
+how many a dictionary of units of measurement
+nist fundamental physical constants non-si units pdf (35.7 kb)
+nist guide to si units many conversion factors listed
+the unified code for units of measure
+units symbols and conversions xml dictionary
+units of measurement software at dmoz
+units of measurement online conversion at dmoz

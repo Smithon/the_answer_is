@@ -1,0 +1,35 @@
+revolutions per minute (abbreviated rpm rpm rev/min r/min) is a measure of the frequency of rotation specifically the number of rotations around a fixed axis in one minute it is used as a measure of rotational speed of a mechanical component in the french language tr/mn (tours par minute) is the common abbreviation the german language uses the abbreviation u/min or u/min (umdrehungen pro minute)
+== international system of unitsedit ==
+according to the international system of units (si) rpm is not a unit this is because the word revolution is a semantic annotation rather than a unit the annotation is instead done as a subscript of the formula sign if needed because of the measured physical quantity the formula sign has to be f for (rotational) frequency and or for angular velocity the corresponding basic si derived unit is s1 or hz when measuring angular speed the unit radians per second is used
+here the sign (correspondent) is used instead of = (equal) formally hertz (hz) and radian per second (rad/s) are two different names for the same si unit s1 however they are used for two different but proportional isq quantities frequency and angular frequency (angular speed magnitude of angular velocity) the conversion between a frequency f (measured in hertz) and an angular velocity (measured in radians per second) are
+thus a disc rotating at 60 rpm is said to be rotating at either 2 rad/s or 1 hz where the former measures the angular velocity and the latter reflects the number of revolutions per second
+if the non-si unit rpm is considered a unit of frequency then  if it instead is considered a unit of angular velocity and the word revolution is considered to mean 2 radians then 
+== examplesedit ==
+on many kinds of disc recording media the rotational speed of the medium under the read head is a standard given in rpm gramophone (phonograph) records for example typically rotate steadily at 16 23 33 13 45 or 78 rpm (518 59 34 or 1.3 hz respectively)
+modern ultrasonic dental drills can rotate at up to 800,000 rpm (13.3 khz)
+the second hand of a conventional analogue clock rotates at 1 rpm
+audio cd players read their discs at a precise constant rate (4.3218 mbit/s of raw physical data for 1.4112 mbit/s (176.4 kb/s) of usable audio data) and thus must vary the disc's rotational speed from 8 hz (480 rpm) when reading at the innermost edge to 3.5 hz (210 rpm) at the outer edge
+dvd players also usually read discs at a constant linear rate the disc's rotational speed varies from 25.5 hz (1530 rpm) when reading at the innermost edge to 10.5 hz (630 rpm) at the outer edge
+a washing machine's drum may rotate at 500 to 2000 rpm (833 hz) during the spin cycles
+a power generation turbine (with a 2 pole alternator) rotates at 3000 rpm (50 hz) or 3600 rpm (60 hz) depending on country see ac power plugs and sockets
+modern automobile engines are typically operated around 20003000 rpm (3350 hz) when cruising with a minimum (idle) speed around 750900 rpm (12.515 hz) and an upper limit anywhere from 4500 to 10,000 rpm (75166 hz) for a road car or nearly 20,000 rpm for racing engines such as those in formula 1 cars (currently limited to 15,000 rpm) the exhaust note of v8 f1 cars have a much higher pitch than an i4 engine because each of the cylinders of a four-stroke engine fires once for every two revolutions of the crankshaft thus an eight-cylinder engine turning 300 times per second will have an exhaust note of 1200 hz
+a piston aircraft engine typically rotates at a rate between 2000 and 3000 rpm (3050 hz)
+computer hard drives typically rotate at 5400 or 7200 rpm (90 or 120 hz) the most common speeds for the ata or sata-based drives in consumer models high-performance drives (used in fileservers and enthusiast-gaming pcs) rotate at 10,000 or 15,000 rpm (160 or 250 hz) usually with higher-level sata scsi or fibre channel interfaces and smaller platters to allow these higher speeds the reduction in storage capacity and ultimate outer-edge speed paying off in much quicker access time and average transfer speed thanks to the high spin rate until recently lower-end and power-efficient laptop drives could be found with 4200 or even 3600 rpm spindle speeds (70 and 60 hz) but these have fallen out of favour due to their lower performance improvements in energy efficiency in faster models and the takeup of solid-state drives for use in slimline and ultraportable laptops similar to cd and dvd media the amount of data that can be stored or read for each turn of the disc is greater at the outer edge than near the spindle however hard drives keep a constant rotational speed so the effective data rate is faster at the edge (conventionally the start of the disc opposite to cd/dvd)
+floppy disc drives typically ran at a constant 300 or occasionally 360 rpm (a relatively slow 5 or 6 hz) with a constant per-revolution data density which was simple and inexpensive to implement though inefficient some designs such as those used with older apple computers (lisa early macintosh later ii's) were more complex and used variable rotational speeds and per-track storage density (at a constant read/record rate) to store more data per disc for example between 394 rpm (with 12 sectors per track) and 590 rpm (8 sectors) with the mac's 800 kb double-density drive at a constant 39.4 kb/s (max) vs 300 rpm 720 kb and 23 kb/s (max) for double-density drives in other machines
+a zippe-type centrifuge for enriching uranium spins at 90,000 rpm (1,500 hz) or faster
+gas turbine engines rotate at tens of thousands of rpm jetcat model aircraft turbines are capable of over 100,000 rpm (1,700 hz) with the fastest reaching 165,000 rpm (2,750 hz)
+a flywheel energy storage system works at 60,000200,000 rpm (13 khz) range using a passively magnetic levitated flywheel in vacuum the choice of the flywheel material is not the most dense but the one that pulverises the most safely at surface speeds about 7 times the speed of sound
+a typical 80 mm 30 cfm computer fan will spin at 2,6003,000 rpm on 12 v dc power
+a millisecond pulsar can have near 50,000 rpm
+a turbocharger can reach 290,000 rpm (4,800 hz) while 80,000200,000 rpm (13 khz) is common
+molecular microbiology - molecular engines the rotation rates of bacterial flagella have been measured to be 10,200 rpm (170 hz) for salmonella typhimurium 16,200 rpm (270 hz) for escherichia coli and up to 102,000 rpm (1,700 hz) for polar flagellum of vibrio alginolyticus allowing the latter organism to move in simulated natural conditions at a maximum speed of 540 mm per hour
+== see alsoedit ==
+constant angular velocity or cav used when referring to the speed of gramophone (phonograph) records
+constant linear velocity or clv used when referring to the speed of audio cds
+orders of magnitude (angular velocity)
+radian per second
+rotational speed
+frequency
+turn (geometry)
+redline
+== referencesedit ==

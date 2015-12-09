@@ -1,0 +1,52 @@
+geochronology is the science of determining the age of rocks fossils and sediments using signatures inherent in the rocks themselves absolute geochronology can be accomplished through radioactive isotopes whereas relative geochronology is provided by tools such as palaeomagnetism and stable isotope ratios by combining multiple geochronological (and biostratigraphic) indicators the precision of the recovered age can be improved
+geochronology is different in application from biostratigraphy which is the science of assigning sedimentary rocks to a known geological period via describing cataloguing and comparing fossil floral and faunal assemblages biostratigraphy does not directly provide an absolute age determination of a rock but merely places it within an interval of time at which that fossil assemblage is known to have coexisted both disciplines work together hand in hand however to the point where they share the same system of naming rock layers and the time spans utilized to classify layers within a stratum
+the science of geochronology is the prime tool used in the discipline of chronostratigraphy which attempts to derive absolute age dates for all fossil assemblages and determine the geologic history of the earth and extraterrestrial bodies
+== dating methodsedit ==
+=== radiometric datingedit ===
+by measuring the amount of radioactive decay of a radioactive isotope with a known half-life geologists can establish the absolute age of the parent material a number of radioactive isotopes are used for this purpose and depending on the rate of decay are used for dating different geological periods more slowly decaying isotopes are useful for longer periods of time but less accurate in absolute years with the exception of the radiocarbon method most of these techniques are actually based on measuring an increase in the abundance of a radiogenic isotope which is the decay-product of the radioactive parent isotope two or more radiometric methods can be used in concert to achieve more robust results most radiometric methods are suitable for geological time only but some such as the radiocarbon method and the 40ar/39ar dating method can be extended into the time of early human life and into recorded history
+some of the commonly used techniques are
+radiocarbon dating this technique measures the decay of carbon-14 in organic material and can be best applied to samples younger than about 60,000 years
+uranium-lead dating this technique measures the ratio of two lead isotopes (lead-206 and lead-207) to the amount of uranium in a mineral or rock often applied to the trace mineral zircon in igneous rocks this method is one of the two most commonly used (along with argon-argon dating) for geologic dating uranium-lead dating is applied to samples older than about 1 million years
+uranium-thorium dating this technique is used to date speleothems corals carbonates and fossil bones its range is from a few years to about 700,000 years
+potassium-argon dating and argon-argon dating these techniques date metamorphic igneous and volcanic rocks they are also used to date volcanic ash layers within or overlying paleoanthropologic sites the younger limit of the argon-argon method is a few thousand years
+electron spin resonance (esr) dating
+=== fission-track datingedit ===
+=== cosmogenic nuclide geochronologyedit ===
+a series of related techniques for determining the age at which a geomorphic surface was created (exposure dating) or at which formerly surficial materials were buried (burial dating) exposure dating uses the concentration of exotic nuclides (e.g 10be 26al 36cl) produced by cosmic rays interacting with earth materials as a proxy for the age at which a surface such as an alluvial fan was created burial dating uses the differential radioactive decay of 2 cosmogenic elements as a proxy for the age at which a sediment was screened by burial from further cosmic rays exposure
+=== luminescence datingedit ===
+luminescence dating techniques observe light emitted from materials such as quartz diamond feldspar and calcite many types of luminescence techniques are utilized in geology including optically stimulated luminescence (osl) cathodoluminescence (cl) and thermoluminescence (tl) thermoluminescence and optically stimulated luminescence are used in archaeology to date fired objects such as pottery or cooking stones and can be used to observe sand migration
+=== incremental datingedit ===
+incremental dating techniques allow the construction of year-by-year annual chronologies which can be fixed (i.e linked to the present day and thus calendar or sidereal time) or floating
+dendrochronology
+ice cores
+lichenometry
+varves
+=== paleomagnetic datingedit ===
+a sequence of paleomagnetic poles (usually called virtual geomagnetic poles) which are already well defined in age constitutes an apparent polar wander path (apwp) such path is constructed for a large continental block apwps for different continents can be used as a reference for newly obtained poles for the rocks with unknown age for paleomagnetic dating it is suggested to use the apwp in order to date a pole obtained from rocks or sediments of unknown age by linking the paleopole to the nearest point on the apwp two methods of paleomagnetic dating have been suggested (1) angular method and (2) rotation method first method is used for paleomagnetic dating of rocks inside of the same continental block second method is used for the folded areas where tectonic rotations are possible
+=== magnetostratigraphyedit ===
+magnetostratigraphy determines age from the pattern of magnetic polarity zones in a series of bedded sedimentary and/or volcanic rocks by comparison to the magnetic polarity timescale the polarity timescale has been previously determined by dating of seafloor magnetic anomalies radiometrically dating volcanic rocks within magnetostratigraphic sections and astronomically dating magnetostratigraphic sections
+=== chemostratigraphyedit ===
+global trends in isotope compositions particularly carbon 13 and strontium isotopes can be used to correlate strata
+=== correlation of marker horizonsedit ===
+marker horizons are stratigraphic units of the same age and of such distinctive composition and appearance that despite their presence in different geographic sites there is certainty about their age-equivalence fossil faunal and floral assemblages both marine and terrestrial make for distinctive marker horizons tephrochronology is a method for geochemical correlation of unknown volcanic ash (tephra) to geochemically fingerprinted dated tephra tephra is also often used as a dating tool in archaeology since the dates of some eruptions are well-established
+== differences between chronostratigraphy and geochronologyedit ==
+it is important not to confuse geochronologic and chronostratigraphic units geochronological units are periods of time thus it is correct to say that tyrannosaurus rex lived during the late cretaceous epoch chronostratigraphic units are geological material so it is also correct to say that fossils of the genus tyrannosaurus have been found in the upper cretaceous series in the same way it is entirely possible to go and visit an upper cretaceous series deposit - such as the hell creek deposit where the tyrannosaurus fossils were found - but it is naturally impossible to visit the late cretaceous epoch as that is a period of time
+== see alsoedit ==
+age of the earth
+alfred o c nier
+arthur holmes
+closure temperature
+consilience
+fritz houtermans
+list of geochronologic names
+thermochronology
+thomas edvard krogh
+== referencesedit ==
+== further readingedit ==
+smart p.l. and frances p.d (1991) quaternary dating methods - a user's guide quaternary research association technical guide no.4 isbn 0-907780-08-3
+lowe j.j. and walker m.j.c (1997) reconstructing quaternary environments (2nd edition) longman publishing isbn 0-582-10166-2
+mattinson j m (2013) revolution and evolution 100 years of u-pb geochronology elements 9 53-57
+geochronology bibliography talk:origins archive
+== external linksedit ==
+international commission on stratigraphy
+bgs open data geochronological ontologies

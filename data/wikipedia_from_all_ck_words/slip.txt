@@ -1,0 +1,20 @@
+the serial line internet protocol (also slip) is an encapsulation of the internet protocol designed to work over serial ports and modem connections it is documented in rfc 1055 on personal computers slip has been largely replaced by the point-to-point protocol (ppp) which is better engineered has more features and does not require its ip address configuration to be set before it is established on microcontrollers however slip is still the preferred way of encapsulating ip packets due to its very small overhead
+some people refer to the successful and widely used rfc 1055 serial line internet protocol as rick adams slip to avoid confusion with other proposed protocols named slip those other protocols include the much more complicated rfc 914 appendix d serial line interface protocol
+== description ==
+slip modifies a standard tcp/ip datagram by
+appending a special end byte to it which distinguishes datagram boundaries in the byte stream
+if the end byte occurs in the data to be sent the two byte sequence esc esc_end is sent instead
+if the esc byte occurs in the data the two byte sequence esc esc_esc is sent
+variants of the protocol may begin as well as end packets with end
+slip requires a serial port configuration of 8 data bits no parity and either eia hardware flow control or clocal mode (3-wire null-modem) uart operation settings
+slip does not provide error detection being reliant on upper layer protocols for this therefore slip on its own is not satisfactory over an error-prone dial-up connection it is however still useful for testing operating systems response capabilities under load (by looking at flood-ping statistics)
+== cslip ==
+a version of slip with header compression is called compressed slip (cslip) the compression algorithm used in cslip is known as van jacobson tcp/ip header compression cslip has no effect on the data payload of a packet and is independent of any compression by the serial line modem used for transmission it reduces the transmission control protocol (tcp) header from twenty bytes to seven bytes cslip has no effect on user datagram protocol (udp) datagrams
+== see also ==
+slirp
+ka9q
+direct cable connection
+in-band signaling
+kiss (tnc)
+== external links ==
+^ a b rfc 1547 requirements for an internet standard point-to-point protocol

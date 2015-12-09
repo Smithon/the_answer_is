@@ -1,0 +1,79 @@
+in euclidean plane geometry a rectangle is any quadrilateral with four right angles it can also be defined as an equiangular quadrilateral since equiangular means that all of its angles are equal (360/4 = 90) it can also be defined as a parallelogram containing a right angle a rectangle with four sides of equal length is a square the term oblong is occasionally used to refer to a non-square rectangle a rectangle with vertices abcd would be denoted as abcd
+the word rectangle comes from the latin rectangulus which is a combination of rectus (right) and angulus (angle)
+a so-called crossed rectangle is a crossed (self-intersecting) quadrilateral which consists of two opposite sides of a rectangle along with the two diagonals it is a special case of an antiparallelogram and its angles are not right angles other geometries such as spherical elliptic and hyperbolic have so-called rectangles with opposite sides equal in length and equal angles that are not right angles
+rectangles are involved in many tiling problems such as tiling the plane by rectangles or tiling a rectangle by polygons
+== characterizationsedit ==
+a convex quadrilateral is a rectangle if and only if it is any one of the following
+an equiangular quadrilateral
+a quadrilateral with four right angles
+a parallelogram with at least one right angle
+a parallelogram with diagonals of equal length
+a parallelogram abcd where triangles abd and dca are congruent
+a convex quadrilateral with successive sides a b c d whose area is 
+a convex quadrilateral with successive sides a b c d whose area is
+== classificationedit ==
+=== traditional hierarchyedit ===
+a rectangle is a special case of a parallelogram in which each pair of adjacent sides is perpendicular
+a parallelogram is a special case of a trapezium (known as a trapezoid in north america) in which both pairs of opposite sides are parallel and equal in length
+a trapezium is a convex quadrilateral which has at least one pair of parallel opposite sides
+a convex quadrilateral is
+simple the boundary does not cross itself
+star-shaped the whole interior is visible from a single point without crossing any edge
+=== alternative hierarchyedit ===
+de villiers defines a rectangle more generally as any quadrilateral with axes of symmetry through each pair of opposite sides this definition includes both right-angled rectangles and crossed rectangles each has an axis of symmetry parallel to and equidistant from a pair of opposite sides and another which is the perpendicular bisector of those sides but in the case of the crossed rectangle the first axis is not an axis of symmetry for either side that it bisects
+quadrilaterals with two axes of symmetry each through a pair of opposite sides belong to the larger class of quadrilaterals with at least one axis of symmetry through a pair of opposite sides these quadrilaterals comprise isosceles trapezia and crossed isosceles trapezia (crossed quadrilaterals with the same vertex arrangement as isosceles trapezia)
+== propertiesedit ==
+=== symmetryedit ===
+a rectangle is cyclic all corners lie on a single circle
+it is equiangular all its corner angles are equal (each of 90 degrees)
+it is isogonal or vertex-transitive all corners lie within the same symmetry orbit
+it has two lines of reflectional symmetry and rotational symmetry of order 2 (through 180)
+=== rectangle-rhombus dualityedit ===
+the dual polygon of a rectangle is a rhombus as shown in the table below
+the figure formed by joining in order the midpoints of the sides of a rectangle is a rhombus and vice versa
+=== miscellaneousedit ===
+the two diagonals are equal in length and bisect each other every quadrilateral with both these properties is a rectangle
+a rectangle is rectilinear its sides meet at right angles
+a rectangle in the plane can be defined by five independent degrees of freedom consisting for example of three for position (comprising two of translation and one of rotation) one for shape (aspect ratio) and one for overall size (area)
+two rectangles neither of which will fit inside the other are said to be incomparable
+== formulaeedit ==
+if a rectangle has length and width
+it has area 
+it has perimeter 
+each diagonal has length 
+and when  the rectangle is a square
+== theoremsedit ==
+the isoperimetric theorem for rectangles states that among all rectangles of a given perimeter the square has the largest area
+the midpoints of the sides of any quadrilateral with perpendicular diagonals form a rectangle
+a parallelogram with equal diagonals is a rectangle
+the japanese theorem for cyclic quadrilaterals states that the incentres of the four triangles determined by the vertices of a cyclic quadrilateral taken three at a time form a rectangle
+the british flag theorem states that with vertices denoted a b c and d for any point p on the same plane of a rectangle
+for every convex body c in the plane we can inscribe a rectangle r in c such that a homothetic copy r of r is circumscribed about c and the positive homothety ratio is at most 2 and 
+== crossed rectanglesedit ==
+a crossed (self-intersecting) quadrilateral consists of two opposite sides of a non-self-intersecting quadrilateral along with the two diagonals similarly a crossed rectangle is a crossed quadrilateral which consists of two opposite sides of a rectangle along with the two diagonals it has the same vertex arrangement as the rectangle it appears as two identical triangles with a common vertex but the geometric intersection is not considered a vertex
+a crossed quadrilateral is sometimes likened to a bow tie or butterfly a three-dimensional rectangular wire frame that is twisted can take the shape of a bow tie a crossed rectangle is sometimes called an angular eight
+the interior of a crossed rectangle can have a polygon density of 1 in each triangle dependent upon the winding orientation as clockwise or counterclockwise
+a crossed rectangle is not equiangular the sum of its interior angles (two acute and two reflex) as with any crossed quadrilateral is 720
+a rectangle and a crossed rectangle are quadrilaterals with the following properties in common
+opposite sides are equal in length
+the two diagonals are equal in length
+it has two lines of reflectional symmetry and rotational symmetry of order 2 (through 180)
+== other rectanglesedit ==
+in spherical geometry a spherical rectangle is a figure whose four edges are great circle arcs which meet at equal angles greater than 90 opposite arcs are equal in length the surface of a sphere in euclidean solid geometry is a non-euclidean surface in the sense of elliptic geometry spherical geometry is the simplest form of elliptic geometry
+in elliptic geometry an elliptic rectangle is a figure in the elliptic plane whose four edges are elliptic arcs which meet at equal angles greater than 90 opposite arcs are equal in length
+in hyperbolic geometry a hyperbolic rectangle is a figure in the hyperbolic plane whose four edges are hyperbolic arcs which meet at equal angles less than 90 opposite arcs are equal in length
+== tessellationsedit ==
+the rectangle is used in many periodic tessellation patterns in brickwork for example these tilings
+== squared perfect and other tiled rectanglesedit ==
+a rectangle tiled by squares rectangles or triangles is said to be a squared rectangled or triangulated (or triangled") rectangle respectively the tiled rectangle is perfect if the tiles are similar and finite in number and no two tiles are the same size if two such tiles are the same size the tiling is imperfect in a perfect (or imperfect) triangled rectangle the triangles must be right triangles
+a rectangle has commensurable sides if and only if it is tileable by a finite number of unequal squares the same is true if the tiles are unequal isosceles right triangles
+the tilings of rectangles by other tiles which have attracted the most attention are those by congruent non-rectangular polyominoes allowing all rotations and reflections there are also tilings by congruent polyaboloes
+== see alsoedit ==
+cuboid
+golden rectangle
+hyperrectangle
+== referencesedit ==
+== external linksedit ==
+weisstein eric w. rectangle mathworld
+definition and properties of a rectangle with interactive animation
+area of a rectangle with interactive animation

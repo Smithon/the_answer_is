@@ -1,0 +1,25 @@
+a helix (pl helixes or helices) is a type of smooth space curve i.e a curve in three-dimensional space it has the property that the tangent line at any point makes a constant angle with a fixed line called the axis examples of helices are coil springs and the handrails of spiral staircases a filled-in helix for example a spiral ramp is called a helicoid helices are important in biology as the dna molecule is formed as two intertwined helices and many proteins have helical substructures known as alpha helices the word helix comes from the greek word  twisted curved
+== typesedit ==
+helices can be either right-handed or left-handed with the line of sight along the helix's axis if a clockwise screwing motion moves the helix away from the observer then it is called a right-handed helix if towards the observer then it is a left-handed helix handedness (or chirality) is a property of the helix not of the perspective a right-handed helix cannot be turned to look like a left-handed one unless it is viewed in a mirror and vice versa
+most hardware screw threads are right-handed helices the alpha helix in biology as well as the a and b forms of dna are also right-handed helices the z form of dna is left-handed
+the pitch of a helix is the width of one complete helix turn measured parallel to the axis of the helix
+a double helix consists of two (typically congruent) helices with the same axis differing by a translation along the axis
+a conic helix may be defined as a spiral on a conic surface with the distance to the apex an exponential function of the angle indicating direction from the axis an example is the corkscrew roller coaster at cedar point amusement park
+a circular helix (i.e one with constant radius) has constant band curvature and constant torsion
+a curve is called a general helix or cylindrical helix if its tangent makes a constant angle with a fixed line in space a curve is a general helix if and only if the ratio of curvature to torsion is constant
+a curve is called a slant helix if its principal normal makes a constant angle with a fixed line in space it can be constructed by applying a transformation to the moving frame of a general helix
+some curves found in nature consist of multiple helices of different handedness joined together by transitions known as tendril perversions
+== mathematical descriptionedit ==
+in mathematics a helix is a curve in 3-dimensional space the following parametrisation in cartesian coordinates defines a particular helix probably the simplest equations for one
+as the parameter t increases the point (x(t),y(t),z(t)) traces a right-handed helix of pitch (i.e. slope) 1 and radius 1 about the z-axis in a right-handed coordinate system
+in cylindrical coordinates (r  h) the same helix is parametrised by
+a circular helix of radius a and pitch (or slope) b/a is described by the following parametrisation
+another way of mathematically constructing a helix is to plot the complex-valued function exi as a function of the real number x (see euler's formula) the value of x and the real and imaginary parts of the function value give this plot three real dimensions
+except for rotations translations and changes of scale all right-handed helices are equivalent to the helix defined above the equivalent left-handed helix can be constructed in a number of ways the simplest being to negate any one of the x y or z components
+=== arc length curvature and torsionedit ===
+the length of a circular helix of radius a and pitch (or slope) b/a expressed in rectangular coordinates as
+equals  its curvature is and its torsion is
+== examplesedit ==
+in music pitch space is often modeled with helices or double helices most often extending out of a circle such as the circle of fifths so as to represent octave equivalency
+== see alsoedit ==
+== referencesedit ==

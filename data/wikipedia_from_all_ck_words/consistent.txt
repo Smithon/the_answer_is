@@ -1,0 +1,70 @@
+in classical deductive logic a consistent theory is one that does not contain a contradiction the lack of contradiction can be defined in either semantic or syntactic terms the semantic definition states that a theory is consistent if and only if it has a model i.e there exists an interpretation under which all formulas in the theory are true this is the sense used in traditional aristotelian logic although in contemporary mathematical logic the term satisfiable is used instead the syntactic definition states that a theory is consistent if and only if there is no formula p such that both p and its negation are provable from the axioms of the theory under its associated deductive system
+if these semantic and syntactic definitions are equivalent for any theory formulated using a particular deductive logic the logic is called complete the completeness of the sentential calculus was proved by paul bernays in 1918 and emil post in 1921 while the completeness of predicate calculus was proved by kurt gdel in 1930 and consistency proofs for arithmetics restricted with respect to the induction axiom schema were proved by ackermann (1924) von neumann (1927) and herbrand (1931) stronger logics such as second-order logic are not complete
+a consistency proof is a mathematical proof that a particular theory is consistent the early development of mathematical proof theory was driven by the desire to provide finitary consistency proofs for all of mathematics as part of hilbert's program hilbert's program was strongly impacted by incompleteness theorems which showed that sufficiently strong proof theories cannot prove their own consistency (provided that they are in fact consistent)
+although consistency can be proved by means of model theory it is often done in a purely syntactical way without any need to reference some model of the logic the cut-elimination (or equivalently the normalization of the underlying calculus if there is one) implies the consistency of the calculus since there is obviously no cut-free proof of falsity there is no contradiction in general
+== consistency and completeness in arithmetic and set theory ==
+in theories of arithmetic such as peano arithmetic there is an intricate relationship between the consistency of the theory and its completeness a theory is complete if for every formula in its language at least one of or is a logical consequence of the theory
+presburger arithmetic is an axiom system for the natural numbers under addition it is both consistent and complete
+gdel's incompleteness theorems show that any sufficiently strong effective theory of arithmetic cannot be both complete and consistent gdel's theorem applies to the theories of peano arithmetic (pa) and primitive recursive arithmetic (pra) but not to presburger arithmetic
+moreover gdel's second incompleteness theorem shows that the consistency of sufficiently strong effective theories of arithmetic can be tested in a particular way such a theory is consistent if and only if it does not prove a particular sentence called the gdel sentence of the theory which is a formalized statement of the claim that the theory is indeed consistent thus the consistency of a sufficiently strong effective consistent theory of arithmetic can never be proven in that system itself the same result is true for effective theories that can describe a strong enough fragment of arithmetic including set theories such as zermelofraenkel set theory these set theories cannot prove their own gdel sentences provided that they are consistent which is generally believed
+because consistency of zf is not provable in zf the weaker notion relative consistency is interesting in set theory (and in other sufficiently expressive axiomatic systems) if t is a theory and a is an additional axiom t + a is said to be consistent relative to t (or simply that a is consistent with t) if it can be proved that if t is consistent then t + a is consistent if both a and a are consistent with t then a is said to be independent of t
+== first-order logic ==
+=== notation ===
+(turnstile symbol) in the following context of mathematical logic means provable from that is a b reads b is provable from a (in some specified formal system) -- see list of logic symbols)  in other cases the turnstile symbol may stand to mean infers derived from see list of mathematical symbols
+=== definition ===
+a set of formulas in first-order logic is consistent (written con) if and only if there is no formula such that and  otherwise is inconsistent and is written inc
+is said to be simply consistent if and only if for no formula of  both and the negation of are theorems of 
+is said to be absolutely consistent or post consistent if and only if at least one formula of is not a theorem of 
+is said to be maximally consistent if and only if for every formula  if con () then 
+is said to contain witnesses if and only if for every formula of the form there exists a term such that  see first-order logic
+=== basic results ===
+the following are equivalent
+inc
+for all
+every satisfiable set of formulas is consistent where a set of formulas is satisfiable if and only if there exists a model such that 
+for all and 
+if not  then con
+if con and  then con
+if con  then con or con
+let be a maximally consistent set of formulas and contain witnesses for all and 
+if  then 
+either or 
+if and only if or 
+if and  then 
+if and only if there is a term such that 
+=== henkin's theorem ===
+let be a maximally consistent set of -formulas containing witnesses
+define a binary relation on the set of -terms such that if and only if  and let denote the equivalence class of terms containing  and let where is the set of terms based on the symbol set 
+define the -structure over the term-structure corresponding to by
+for -ary  if and only if 
+for -ary  
+for  
+let be the term interpretation associated with  where 
+for all  if and only if 
+=== sketch of proof ===
+there are several things to verify first that is an equivalence relation then it needs to be verified that (1) (2) and (3) are well defined this falls out of the fact that is an equivalence relation and also requires a proof that (1) and (2) are independent of the choice of class representatives finally can be verified by induction on formulas
+== see also ==
+equiconsistency
+hilbert's problems
+hilbert's second problem
+jan ukasiewicz
+paraconsistent logic
+-consistency
+gentzen's consistency proof
+== footnotes ==
+^ tarski 1946 states it this way a deductive theory is called consistent or non-contradictory if no two asserted statements of this theory contradict each other or in other words if of any two contradictory sentences    at least one cannot be proved, (p 135) where tarski defines contradictory as follows with the help of the word not one forms the negation of any sentence two sentences of which the first is a negation of the second are called contradictory sentences (p 20) this definition requires a notion of proof gdel in his 1931 defines the notion this way the class of provable formulas is defined to be the smallest class of formulas that contains the axioms and is closed under the relation immediate consequence i.e formula c of a and b is defined as an immediate consequence in terms of modus ponens or substitution cf gdel 1931 van heijenoort 1967:601 tarski defines proof informally as statements follow one another in a definite order according to certain principles    and accompanied by considerations intended to establish their validity[true conclusion for all true premises -- reichenbach 1947:68] cf tarski 1946:3 kleene 1952 defines the notion with respect to either an induction or as to paraphrase) a finite sequence of formulas such that each formula in the sequence is either an axiom or an immediate consequence of the preceding formulas a proof is said to be a proof of its last formula and this formula is said to be (formally) provable or be a (formal) theorem cf kleene 1952:83
+^ paraconsistent logic tolerates contradictions but toleration of contradiction does not entail consistency
+^ van heijenoort 1967:265 states that bernays determined the independence of the axioms of principia mathematica a result not published until 1926 but he says nothing about bernays proving their consistency
+^ post proves both consistency and completeness of the propositional calculus of pm cf van heijenoort's commentary and post's 1931 introduction to a general theory of elementary propositons in van heijenoort 1967:264ff also tarski 1946:134ff
+^ cf van heijenoort's commentary and gdel's 1930 the completeness of the axioms of the functional calculus of logic in van heijenoort 1967:582ff
+^ cf van heijenoort's commentary and herbrand's 1930 on the consistency of arithmetic in van heijenoort 1967:618ff
+== references ==
+stephen kleene 1952 10th impression 1991 introduction to metamathematics north-holland publishing company amsterday new york isbn 0-7204-2103-9
+hans reichenbach 1947 elements of symbolic logic dover publications inc new york isbn 0-486-24004-5
+alfred tarski 1946 introduction to logic and to the methodology of deductive sciences second edition dover publications inc. new york isbn 0-486-28462-x
+jean van heijenoort 1967 from frege to gdel a source book in mathematical logic harvard university press cambridge ma isbn 0-674-32449-8 (pbk.)
+the cambridge dictionary of philosophy consistency
+h.d ebbinghaus j flum w thomas mathematical logic
+jevons w.s. 1870 elementary lessons in logic
+== external links ==
+chris mortensen inconsistent mathematics stanford encyclopedia of philosophy

@@ -1,0 +1,90 @@
+in economics utility is a measure of preferences over some set of goods and services the concept is an important underpinning of rational choice theory
+utility is an important concept in economics and game theory because it represents satisfaction experienced by the consumer of a good a good is something that satisfies human wants since one cannot directly measure benefit satisfaction or happiness from a good or service economists instead have devised ways of representing and measuring utility in terms of economic choices that can be measured economists have attempted to perfect highly abstract methods of comparing utilities by observing and calculating economic choices in the simplest sense economists consider utility to be revealed in people's willingness to pay different amounts for different goods
+== applicationsedit ==
+utility is usually applied by economists in such constructs as the indifference curve which plot the combination of commodities that an individual or a society would accept to maintain a given level of satisfaction utility and indifference curves are used by economists to understand the underpinnings of demand curves which are half of the supply and demand analysis that is used to analyze the workings of goods markets
+individual utility and social utility can be construed as the value of a utility function and a social welfare function respectively when coupled with production or commodity constraints under some assumptions these functions can be used to analyze pareto efficiency such as illustrated by edgeworth boxes in contract curves such efficiency is a central concept in welfare economics
+in finance utility is applied to generate an individual's price for an asset called the indifference price utility functions are also related to risk measures with the most common example being the entropic risk measure
+== revealed preferenceedit ==
+it was recognized that utility could not be measured or observed directly so instead economists devised a way to infer underlying relative utilities from observed choice these revealed preferences as they were named by paul samuelson were revealed e.g in people's willingness to pay
+utility is taken to be correlative to desire or want it has been already argued that desires cannot be measured directly but only indirectly by the outward phenomena to which they give rise and that in those cases with which economics is chiefly concerned the measure is found in the price which a person is willing to pay for the fulfillment or satisfaction of his desire
+== utility functionsedit ==
+there has been some controversy over the question whether the utility of a commodity can be measured or not at one time it was assumed that the consumer was able to say exactly how much utility he got from the commodity the economists who made this assumption belonged to the cardinalist school of economics today utility functions expressing utility as a function of the amounts of the various goods consumed are treated as either cardinal or ordinal depending on whether they are or are not interpreted as providing more information than simply the rank ordering of preferences over bundles of goods such as information on the strength of preferences
+=== cardinal utilityedit ===
+when cardinal utility is used the magnitude of utility differences is treated as an ethically or behaviorally significant quantity for example suppose a cup of orange juice has utility of 120 utils a cup of tea has a utility of 80 utils and a cup of water has a utility of 40 utils with cardinal utility it can be concluded that the cup of orange juice is better than the cup of tea by exactly the same amount by which the cup of tea is better than the cup of water one cannot conclude however that the cup of tea is two thirds as good as the cup of juice because this conclusion would depend not only on magnitudes of utility differences but also on the zero of utility
+neoclassical economics has largely retreated from using cardinal utility functions as the basis of economic behavior a notable exception is in the context of analyzing choice under conditions of risk (see below)
+sometimes cardinal utility is used to aggregate utilities across persons to create a social welfare function the argument against this is that interpersonal comparisons of utility are meaningless because there is no simple way to interpret how different people value consumption bundles
+=== ordinal utilityedit ===
+when ordinal utilities are used differences in utils (values taken on by the utility function) are treated as ethically or behaviorally meaningless the utility index encodes a full behavioral ordering between members of a choice set but tells nothing about the related strength of preferences in the above example it would only be possible to say that juice is preferred to tea to water but no more
+ordinal utility functions are unique up to increasing monotone transformations for example if a function is taken as ordinal it is equivalent to the function  because taking the 3rd power is an increasing monotone transformation this means that the ordinal preference induced by these functions is the same in contrast cardinal utilities are unique only up to increasing linear transformations so if is taken as cardinal it is not equivalent to 
+=== preferences and utility functionsedit ===
+although preferences are the conventional foundation of microeconomics it is often convenient to represent preferences with a utility function and analyze human behavior indirectly with utility functions let x be the consumption set the set of all mutually-exclusive baskets the consumer could conceivably consume the consumer's utility function ranks each package in the consumption set if the consumer strictly prefers x to y or is indifferent between them then 
+for example suppose a consumer's consumption set is x = {nothing 1 apple,1 orange 1 apple and 1 orange 2 apples 2 oranges} and its utility function is u(nothing) = 0 u(1 apple) = 1 u(1 orange) = 2 u(1 apple and 1 orange) = 4 u(2 apples) = 2 and u(2 oranges) = 3 then this consumer prefers 1 orange to 1 apple but prefers one of each to 2 oranges
+in micro-economic models there are usually a finite set of l commodities and a consumer may consume an arbitrary amount of each commodity this gives a consumption set of  and each package is a vector containing the amounts of each commodity in the previous example we might say there are two commodities apples and oranges if we say apples is the first commodity and oranges the second then the consumption set and u(0 0) = 0 u(1 0) = 1 u(0 1) = 2 u(1 1) = 4 u(2 0) = 2 u(0 2) = 3 as before note that for u to be a utility function on x it must be defined for every package in x
+a utility function represents a preference relation on x iff for every  implies  if u represents  then this implies is complete and transitive and hence rational
+=== examples of utility function formsedit ===
+in order to simplify calculations various alternative assumptions have been made concerning details of human preferences and these imply various alternative utility functions such as
+ces (constant elasticity of substitution or isoelastic) utility
+isoelastic utility
+exponential utility
+quasilinear utility
+homothetic preferences
+uzawa utility function
+stonegeary utility function
+gorman polar form
+greenwoodhercowitzhuffman preferences
+kingplosserrebelo preferences
+hyperbolic absolute risk aversion
+most utility functions used in modeling or theory are well-behaved they are usually monotonic and quasi-concave however it is possible for preferences not to be representable by a utility function an example is lexicographic preferences which are not continuous and cannot be represented by a continuous utility function
+== expected utilityedit ==
+the expected utility theory deals with the analysis of choices among risky projects with (possibly multidimensional) outcomes
+the st petersburg paradox was first proposed by nicholas bernoulli in 1713 and solved by daniel bernoulli in 1738 d bernoulli argued that the paradox could be resolved if decision-makers displayed risk aversion and argued for a logarithmic cardinal utility function
+the first important use of the expected utility theory was that of john von neumann and oskar morgenstern who used the assumption of expected utility maximization in their formulation of game theory
+=== von neumannmorgenstern expected utilityedit ===
+von neumann and morgenstern addressed situations in which the outcomes of choices are not known with certainty but have probabilities attached to them
+a notation for a lottery is as follows if options a and b have probability p and 1 p in the lottery we write it as a linear combination
+more generally for a lottery with many possible options
+where 
+by making some reasonable assumptions about the way choices behave von neumann and morgenstern showed that if an agent can choose between the lotteries then this agent has a utility function such that the desirability of an arbitrary lottery can be calculated as a linear combination of the utilities of its parts with the weights being their probabilities of occurring
+this is called the expected utility theorem the required assumptions are four axioms about the properties of the agent's preference relation over simple lotteries which are lotteries with just two options writing to mean a is weakly preferred to b ('a is preferred at least as much as b') the axioms are
+completeness for any two simple lotteries and  either or (or both in which case they are viewed as equally desirable)
+transitivity for any three lotteries  if and  then 
+convexity/continuity (archimedean property) if  then there is a between 0 and 1 such that the lottery is equally desirable as 
+independence for any three lotteries and any probability p if and only if  intuitively if the lottery formed by the probabilistic combination of and is no more preferable than the lottery formed by the same probabilistic combination of and then and only then 
+axioms 3 and 4 enable us to decide about the relative utilities of two assets or lotteries
+in more formal language a von neumannmorgenstern utility function is a function from choices to the real numbers
+which assigns a real number to every outcome in a way that captures the agent's preferences over simple lotteries under the four assumptions mentioned above the agent will prefer a lottery to a lottery if and only if for the utility function characterizing that agent the expected utility of is greater than the expected utility of 
+repeating in category language is a morphism between the category of preferences with uncertainty and the category of reals as an additive group
+of all the axioms independence is the most often discarded a variety of generalized expected utility theories have arisen most of which drop or relax the independence axiom
+=== utility as probability of successedit ===
+castagnoli and licalzi and bordley and licalzi (2000) provided another interpretation for von neumann and morgenstern's theory specifically for any utility function there exists a hypothetical reference lottery with the expected utility of an arbitrary lottery being its probability of performing no worse than the reference lottery suppose success is defined as getting an outcome no worse than the outcome of the reference lottery then this mathematical equivalence means that maximizing expected utility is equivalent to maximizing the probability of success in many contexts this makes the concept of utility easier to justify and to apply for example a firm's utility might be the probability of meeting uncertain future customer expectations
+== indirect utilityedit ==
+an indirect utility function gives the optimal attainable value of a given utility function which depends on the prices of the goods and the income or wealth level that the individual possesses
+=== utility of moneyedit ===
+one use of the indirect utility concept is the notion of the utility of money the (indirect) utility function for money is a nonlinear function that is bounded and asymmetric about the origin the utility function is concave in the positive region reflecting the phenomenon of diminishing marginal utility the boundedness reflects the fact that beyond a certain point money ceases being useful at all as the size of any economy at any point in time is itself bounded the asymmetry about the origin reflects the fact that gaining and losing money can have radically different implications both for individuals and businesses the non-linearity of the utility function for money has profound implications in decision making processes in situations where outcomes of choices influence utility through gains or losses of money which are the norm in most business settings the optimal choice for a given decision depends on the possible outcomes of all other decisions in the same time-period
+== discussion and criticismedit ==
+cambridge economist joan robinson famously criticized utility for being a circular concept utility is the quality in commodities that makes individuals want to buy them and the fact that individuals want to buy commodities shows that they have utility robinson also pointed out that because the theory assumes that preferences are fixed this means that utility is not a testable assumption this is because if we take changes in peoples behavior in relation to a change in prices or a change in the underlying budget constraint we can never be sure to what extent the change in behavior was due to the change in price or budget constraint and how much was due to a change in preferences this criticism is similar to that of the philosopher hans albert who argued that the ceteris paribus conditions on which the marginalist theory of demand rested on rendered the theory itself an empty tautology and completely closed to experimental testing in essence demand and supply curve (theoretical line of quantity of a product which would have been offered or requested for given price) is purely ontological and could never been demonstrated empirically
+another criticism comes from the assertion that neither cardinal nor ordinal utility is empirically observable in the real world in the case of cardinal utility it is impossible to measure the level of satisfaction quantitatively when someone consumes or purchases an apple in case of ordinal utility it is impossible to determine what choices were made when someone purchases for example an orange any act would involve preference over a vast set of choices (such as apple orange juice other vegetable vitamin c tablets exercise not purchasing etc.)
+other questions of what arguments ought to enter into a utility function are difficult to answer yet seem necessary to understanding utility whether people gain utility from coherence of wants beliefs or a sense of duty is key to understanding their behavior in the utility organon likewise choosing between alternatives is itself a process of determining what to consider as alternatives a question of choice within uncertainty
+an evolutionary psychology perspective is that utility may be better viewed as due to preferences that maximized evolutionary fitness in the ancestral environment but not necessarily in the current one
+== see alsoedit ==
+utility maximization problem
+marginal utility
+law of demand
+== referencesedit ==
+== further readingedit ==
+anand paul (1993) foundations of rational choice under risk oxford oxford university press isbn 0-19-823303-5
+fishburn peter c (1970) utility theory for decision making huntington ny robert e krieger isbn 0-88275-736-9
+georgescu-roegen nicholas (aug 1936) the pure theory of consumer's behavior quarterly journal of economics 50 (4) 545593 doi:10.2307/1891094 jstor 1891094
+gilboa itzhak (2009) theory of decision under uncertainty cambridge cambridge university press isbn 978-0-521-74123-1
+kreps david m (1988) notes on the theory of choice boulder co west-view press isbn 0-8133-7553-3
+nash john f (1950) the bargaining problem econometrica 18 (2) 155162 doi:10.2307/1907266 jstor 1907266
+neumann john von & morgenstern oskar (1944) theory of games and economic behavior princeton nj princeton university press
+nicholson walter (1978) micro-economic theory (second ed.) hinsdale dryden press pp 5387 isbn 0-03-020831-9
+plous s (1993) the psychology of judgement and decision making new york mcgraw-hill isbn 0-07-050477-6
+== external linksedit ==
+definition of utility by investopedia
+anatomy of cobb-douglas type utility functions in 3d
+anatomy of ces type utility functions in 3d
+simpler definition with example from investopedia
+maximization of originality - redefinition of classic utility
+utility model of marketing - form place time possession and perhaps also task

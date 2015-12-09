@@ -1,0 +1,94 @@
+data structure alignment is the way data is arranged and accessed in computer memory it consists of two separate but related issues data alignment and data structure padding when a modern computer reads from or writes to a memory address it will do this in word sized chunks (e.g 4 byte chunks on a 32-bit system) or larger data alignment means putting the data at a memory address equal to some multiple of the word size which increases the system's performance due to the way the cpu handles memory to align the data it may be necessary to insert some meaningless bytes between the end of the last data structure and the start of the next which is data structure padding
+for example when the computer's word size is 4 bytes (a byte means 8 bits on most machines but could be different on some systems) the data to be read should be at a memory address which is some multiple of 4 when this is not the case e.g the data starts at address 14 instead of 16 then the computer has to read two or more 4 byte chunks and do some calculation before the requested data has been read or it may generate an alignment fault even though the previous data structure end is at address 13 the next data structure should start at address 16 two padding bytes are inserted between the two data structures at addresses 14 and 15 to align the next data structure at address 16
+although data structure alignment is a fundamental issue for all modern computers many computer languages and computer language implementations handle data alignment automatically ada pl/i certain c and c++ implementations d and assembly language allow at least partial control of data structure padding which may be useful in certain special circumstances
+== definitions ==
+a memory address a is said to be n-byte aligned when a is a multiple of n bytes (where n is a power of 2) in this context a byte is the smallest unit of memory access i.e each memory address specifies a different byte an n-byte aligned address would have log2(n) least-significant zeros when expressed in binary
+the alternate wording b-bit aligned designates a b/8 byte aligned address (ex 64-bit aligned is 8 bytes aligned)
+a memory access is said to be aligned when the datum being accessed is n bytes long and the datum address is n-byte aligned when a memory access is not aligned it is said to be misaligned note that by definition byte memory accesses are always aligned
+a memory pointer that refers to primitive data that is n bytes long is said to be aligned if it is only allowed to contain addresses that are n-byte aligned otherwise it is said to be unaligned a memory pointer that refers to a data aggregate (a data structure or array) is aligned if (and only if) each primitive datum in the aggregate is aligned
+note that the definitions above assume that each primitive datum is a power of two bytes long when this is not the case (as with 80-bit floating-point on x86) the context influences the conditions where the datum is considered aligned or not
+data structures can be stored in memory on the stack with a static size known as bounded or on the heap with a dynamic size known as unbounded
+== problems ==
+a computer accesses memory by a single memory word at a time as long as the memory word size is at least as large as the largest primitive data type supported by the computer aligned accesses will always access a single memory word this may not be true for misaligned data accesses
+if the highest and lowest bytes in a datum are not within the same memory word the computer must split the datum access into multiple memory accesses this requires a lot of complex circuitry to generate the memory accesses and coordinate them to handle the case where the memory words are in different memory pages the processor must either verify that both pages are present before executing the instruction or be able to handle a tlb miss or a page fault on any memory access during the instruction execution
+when a single memory word is accessed the operation is atomic i.e the whole memory word is read or written at once and other devices must wait until the read or write operation completes before they can access it this may not be true for unaligned accesses to multiple memory words e.g the first word might be read by one device both words written by another device and then the second word read by the first device so that the value read is neither the original value nor the updated value although such failures are rare they can be very difficult to identify
+== architectures ==
+=== risc ===
+most risc processors will generate an alignment fault when a load or store instruction accesses a misaligned address this allows the operating system to emulate the misaligned access using other instructions for example the alignment fault handler might use byte loads or stores (which are always aligned) to emulate a larger load or store instruction
+some architectures like mips have special unaligned load and store instructions one unaligned load instruction gets the bytes from the memory word with the lowest byte address and another gets the bytes from the memory word with the highest byte address similarly store-high and store-low instructions store the appropriate bytes in the higher and lower memory words respectively
+the alpha architecture has a two-step approach to unaligned loads and stores the first step is to load the upper and lower memory words into separate registers the second step is to extract or modify the memory words using special low/high instructions similar to the mips instructions an unaligned store is completed by storing the modified memory words back to memory the reason for this complexity is that the original alpha architecture could only read or write 32-bit or 64-bit values this proved to be a severe limitation that often led to code bloat and poor performance to address this limitation an extension called the byte word extensions (bwx) was added to the original architecture it consisted of instructions for byte and word loads and stores
+because these instructions are larger and slower than the normal memory load and store instructions they should only be used when necessary some c and c++ compilers have an unaligned attribute that can be applied to pointers that need the unaligned instructions
+=== x86 ===
+while the x86 architecture originally did not require aligned memory access and still works without it sse2 instructions on x86 cpus do require the data to be 128-bit (16-byte) aligned and there can be substantial performance advantages from using aligned data on these architectures however there are also instructions for unaligned access such as movdqu furthermore load and store operations are generally only atomic when they are properly aligned
+=== compatibility ===
+the advantage to supporting unaligned access is that it is easier to write compilers that do not need to align memory at the expense of the cost of slower access one way to increase performance in risc processors which are designed to maximize raw performance is to require data to be loaded or stored on the natural boundary for the data so though memory is commonly addressed by 8-bit bytes loading a 32-bit integer would be required to start at every 32 bits on a 32-bit machine and loading a 64-bit integer or floating point number would be required to start at every 64 bits on a 64-bit machine the processor could flag a fault if it were asked to load a number which was not on such a boundary but this would result in a slower call to a routine which would need to figure out which word or words contained the data and extract the equivalent value
+== data structure padding ==
+although the compiler (or interpreter) normally allocates individual data items on aligned boundaries data structures often have members with different alignment requirements to maintain proper alignment the translator normally inserts additional unnamed data members so that each member is properly aligned in addition the data structure as a whole may be padded with a final unnamed member this allows each member of an array of structures to be properly aligned
+padding is only inserted when a structure member is followed by a member with a larger alignment requirement or at the end of the structure by changing the ordering of members in a structure it is possible to change the amount of padding required to maintain alignment for example if members are sorted by descending alignment requirements a minimal amount of padding is required the minimal amount of padding required is always less than the largest alignment in the structure computing the maximum amount of padding required is more complicated but is always less than the sum of the alignment requirements for all members minus twice the sum of the alignment requirements for the least aligned half of the structure members
+although c and c++ do not allow the compiler to reorder structure members to save space other languages might it is also possible to tell most c and c++ compilers to pack the members of a structure to a certain level of alignment e.g pack(2) means align data members larger than a byte to a two-byte boundary so that any padding members are at most one byte long
+one use for such packed structures is to conserve memory for example a structure containing a single byte and a four-byte integer would require three additional bytes of padding a large array of such structures would use 37.5% less memory if they are packed although accessing each structure might take longer this compromise may be considered a form of space-time tradeoff
+although use of packed structures is most frequently used to conserve memory space it may also be used to format a data structure for transmission using a standard protocol however in this usage care must also be taken to ensure that the values of the struct members are stored with the endianness required by the protocol (often network byte order) which may be different from the endianness used natively by the host machine
+=== computing padding ===
+the following formulas provide the number of padding bytes required to align the start of a data structure (where mod is the modulo operator)
+# pseudo-code see actual code below
+padding = (align - (offset mod align)) mod align
+new offset = offset + padding = offset + (align - (offset mod align)) mod align
+for example the padding to add to offset 0x59d for a structure aligned to every 4 bytes is 3 the structure will then start at 0x5a0 which is a multiple of 4 note that when offset already is a multiple of align the second modulo in (align - (offset mod align)) mod align is required to get a padding of 0
+since the alignment is by definition a power of two the modulo operation can be reduced to a bitwise boolean and operation the following formulas provide the new offset (where & is a bitwise and and ~ a bitwise not)
+padding = align - (offset & (align - 1)) = (-offset) & (align - 1)
+new offset = (offset + align - 1) & ~(align - 1)
+== typical alignment of c structs on x86 ==
+data structure members are stored sequentially in memory so that in the structure below the member data1 will always precede data2 and data2 will always precede data3
+if the type short is stored in two bytes of memory then each member of the data structure depicted above would be 2-byte aligned data1 would be at offset 0 data2 at offset 2 and data3 at offset 4 the size of this structure would be 6 bytes
+the type of each member of the structure usually has a default alignment meaning that it will unless otherwise requested by the programmer be aligned on a pre-determined boundary the following typical alignments are valid for compilers from microsoft (visual c++) borland/codegear (c++builder) digital mars (dmc) and gnu (gcc) when compiling for 32-bit x86
+a char (one byte) will be 1-byte aligned
+a short (two bytes) will be 2-byte aligned
+an int (four bytes) will be 4-byte aligned
+a long (four bytes) will be 4-byte aligned
+a float (four bytes) will be 4-byte aligned
+a double (eight bytes) will be 8-byte aligned on windows and 4-byte aligned on linux (8-byte with -malign-double compile time option)
+a long long (eight bytes) will be 8-byte aligned
+a long double (ten bytes with c++builder and dmc eight bytes with visual c++ twelve bytes with gcc) will be 8-byte aligned with c++builder 2-byte aligned with dmc 8-byte aligned with visual c++ and 4-byte aligned with gcc
+any pointer (four bytes) will be 4-byte aligned (e.g. char* int*)
+the only notable differences in alignment for an lp64 64-bit system when compared to a 32-bit system are
+a long (eight bytes) will be 8-byte aligned
+a double (eight bytes) will be 8-byte aligned
+a long double (eight bytes with visual c++ sixteen bytes with gcc) will be 8-byte aligned with visual c++ and 16-byte aligned with gcc
+any pointer (eight bytes) will be 8-byte aligned
+some data types are dependent on the implementation
+here is a structure with members of various types totaling 8 bytes before compilation
+after compilation the data structure will be supplemented with padding bytes to ensure a proper alignment for each of its members
+the compiled size of the structure is now 12 bytes it is important to note that the last member is padded with the number of bytes required so that the total size of the structure should be a multiple of the largest alignment of any structure member (alignment(int) in this case which = 4 on linux-32bit/gcc)
+in this case 3 bytes are added to the last member to pad the structure to the size of a 12 bytes (alignment(int) 3)
+in this example the total size of the structure sizeof(finalpad) = 8 not 5 (so that the size is a multiple of 4 (alignment of float))
+in this example the total size of the structure sizeof(finalpadshort) = 6 not 5 (not 8 either) (so that the size is a multiple of 2 (alignment(short) = 2 on linux-32bit/gcc))
+it is possible to change the alignment of structures to reduce the memory they require (or to conform to an existing format) by reordering structure members or changing the compilers alignment (or packing) of structure members
+the compiled size of the structure now matches the pre-compiled size of 8 bytes note that padding1[1] has been replaced (and thus eliminated) by data4 and padding2[3] is no longer necessary as the structure is already aligned to the size of a long word
+the alternative method of enforcing the mixeddata structure to be aligned to a one byte boundary will cause the pre-processor to discard the pre-determined alignment of the structure members and thus no padding bytes would be inserted
+while there is no standard way of defining the alignment of structure members some compilers use #pragma directives to specify packing inside source files here is an example
+this structure would have a compiled size of 6 bytes on a 32-bit system the above directives are available in compilers from microsoft[1] borland gnu[2] and many others
+another example
+=== default packing and #pragma pack ===
+on some microsoft compilers particularly for the risc processor there is an unexpected relationship between project default packing (the /zp directive) and the #pragma pack directive the #pragma pack directive can only be used to reduce the packing size of a structure from the project default packing this leads to interoperability problems with library headers which use for example #pragma pack(8) if the project packing is smaller than this for this reason setting the project packing to any value other than the default of 8 bytes would break the #pragma pack directives used in library headers and result in binary incompatibilities between structures this limitation is not present when compiling for x86
+== allocating memory aligned to cache lines ==
+it would be beneficial to allocate memory aligned to cache lines if an array is partitioned for more than one thread to operate on having the sub-array boundaries unaligned to cache lines could lead to performance degradation here is an example to allocate memory (double array of size 10) aligned to cache of 64 bytes
+== hardware significance of alignment requirements ==
+alignment concerns can affect areas much larger than a c structure when the purpose is the efficient mapping of that area through a hardware address translation mechanism (pci remapping operation of a mmu)
+for instance on a 32-bit operating system a 4 kb page is not just an arbitrary 4 kb chunk of data instead it is usually a region of memory that's aligned on a 4 kb boundary this is because aligning a page on a page-sized boundary lets the hardware map a virtual address to a physical address by substituting the higher bits in the address rather than doing complex arithmetic
+example assume that we have a tlb mapping of virtual address 0x2cfc7000 to physical address 0x12345000 (note that both these addresses are aligned at 4 kb boundaries.) accessing data located at virtual address va=0x2cfc7abc causes a tlb resolution of 0x2cfc7 to 0x12345 to issue a physical access to pa=0x12345abc here the 20/12-bit split luckily matches the hexadecimal representation split at 5/3 digits the hardware can implement this translation by simply combining the first 20 bits of the physical address (0x12345) and the last 12 bits of the virtual address (0xabc) this is also referred to as virtually indexed (abc) physically tagged (12345)
+a block of data of size 2^(n+1)-1 always has one sub-block of size 2^n aligned on 2^n bytes
+this is how a dynamic allocator that has no knowledge of alignment can be used to provide aligned buffers at the price of a factor two in data loss
+== see also ==
+stride of an array
+type punning
+== references ==
+== further reading ==
+bryant randal e. david o'hallaron (2003) computer systems a programmer's perspective (2003 ed.) upper saddle river nj pearson education isbn 0-13-034074-x
+== external links ==
+ibm developerworks article on data alignment
+msdn article on data alignment
+article on data alignment and data portability
+byte alignment and ordering
+intel itanium architecture software developer's manual
+data alignment when migrating to 64-bit intel architecture
+powerpc microprocessor family the programming environments for 32-bit microprocessors

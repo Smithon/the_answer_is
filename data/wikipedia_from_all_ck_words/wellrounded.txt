@@ -1,0 +1,36 @@
+in mathematics a binary relation r is well-founded (or wellfounded) on a class x if and only if every non-empty subset sx has a minimal element that is some element m of any s is not related by srm (for instance m is not smaller than") for the rest of the s s
+(some authors include an extra condition that r is set-like i.e. that the elements less than any given element form a set.)
+equivalently assuming some choice a relation is well-founded if and only if it contains no countable infinite descending chains that is there is no infinite sequence x0 x1 x2  of elements of x such that xn+1 r xn for every natural number n
+in order theory a partial order is called well-founded if the corresponding strict order is a well-founded relation if the order is a total order then it is called a well-order
+in set theory a set x is called a well-founded set if the set membership relation is well-founded on the transitive closure of x the axiom of regularity which is one of the axioms of zermelofraenkel set theory asserts that all sets are well-founded
+a relation r is converse well-founded upwards well-founded or noetherian on x if the converse relation r1 is well-founded on x in this case r is also said to satisfy the ascending chain condition in the context of rewriting systems a noetherian relation is also called terminating
+== induction and recursion ==
+an important reason that well-founded relations are interesting is because a version of transfinite induction can be used on them if (x r) is a well-founded relation p(x) is some property of elements of x and we want to show that
+p(x) holds for all elements x of x
+it suffices to show that
+if x is an element of x and p(y) is true for all y such that y r x then p(x) must also be true
+that is
+well-founded induction is sometimes called noetherian induction after emmy noether
+on par with induction well-founded relations also support construction of objects by transfinite recursion let (x r) be a set-like well-founded relation and f a function that assigns an object f(x g) to each pair of an element x x and a function g on the initial segment {y y r x} of x then there is a unique function g such that for every x x
+that is if we want to construct a function g on x we may define g(x) using the values of g(y) for y r x
+as an example consider the well-founded relation (n s) where n is the set of all natural numbers and s is the graph of the successor function x x + 1 then induction on s is the usual mathematical induction and recursion on s gives primitive recursion if we consider the order relation (n <) we obtain complete induction and course-of-values recursion the statement that (n <) is well-founded is also known as the well-ordering principle
+there are other interesting special cases of well-founded induction when the well-founded relation is the usual ordering on the class of all ordinal numbers the technique is called transfinite induction when the well-founded set is a set of recursively-defined data structures the technique is called structural induction when the well-founded relation is set membership on the universal class the technique is known as -induction see those articles for more details
+== examples ==
+well-founded relations which are not totally ordered include
+the positive integers {1 2 3 } with the order defined by a < b if and only if a divides b and a b
+the set of all finite strings over a fixed alphabet with the order defined by s < t if and only if s is a proper substring of t
+the set n n of pairs of natural numbers ordered by (n1 n2) < (m1 m2) if and only if n1 < m1 and n2 < m2
+the set of all regular expressions over a fixed alphabet with the order defined by s < t if and only if s is a proper subexpression of t
+any class whose elements are sets with the relation ("is an element of") this is the axiom of regularity
+the nodes of any finite directed acyclic graph with the relation r defined such that a r b if and only if there is an edge from a to b
+examples of relations that are not well-founded include
+the negative integers {-1 -2 -3 } with the usual order since any unbounded subset has no least element
+the set of strings over a finite alphabet with more than one element under the usual (lexicographic) order since the sequence b > ab > aab > aaab > is an infinite descending chain this relation fails to be well-founded even though the entire set has a minimum element namely the empty string
+the rational numbers (or reals) under the standard ordering since for example the set of positive rationals (or reals) lacks a minimum
+== other properties ==
+if (x <) is a well-founded relation and x is an element of x then the descending chains starting at x are all finite but this does not mean that their lengths are necessarily bounded consider the following example let x be the union of the positive integers and a new element  which is bigger than any integer then x is a well-founded set but there are descending chains starting at of arbitrary great (finite) length the chain  n 1 n 2  2 1 has length n for any n
+the mostowski collapse lemma implies that set membership is a universal among the extensional well-founded relations for any set-like well-founded relation r on a class x which is extensional there exists a class c such that (x,r) is isomorphic to (c,)
+== reflexivity ==
+a relation r is said to be reflexive if a r a holds for every a in the domain of the relation every reflexive relation on a nonempty domain has infinite descending chains because any constant sequence is a descending chain for example in the natural numbers with their usual order  we have  to avoid these trivial descending sequences when working with a reflexive relation r it is common to use (perhaps implicitly) the alternate relation r defined such that a r b if and only if a r b and a b in the context of the natural numbers this means that the relation < which is well-founded is used instead of the relation  which is not in some texts the definition of a well-founded relation is changed from the definition above to include this convention
+== references ==
+just winfried and weese martin discovering modern set theory i american mathematical society (1998) isbn 0-8218-0266-6

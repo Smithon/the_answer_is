@@ -1,0 +1,41 @@
+expect an extension to the tcl scripting language written by don libes is a program to automate interactions with programs that expose a text terminal interface expect was originally written in 1990 for unix systems but is now also available for microsoft windows and other systems it is used to automate control of interactive applications such as telnet ftp passwd fsck rlogin tip ssh and others expect uses pseudo terminals (unix) or emulates a console (windows) starts the target program and then communicates with it just as a human would via the terminal or console interface tk another tcl extension can be used to provide a gui
+== basicsedit ==
+expect has regular expression pattern matching and general program capabilities allowing simple scripts to intelligently control programs such as telnet ftp and ssh all of which lack a programming language macros or any other program mechanism
+== usageedit ==
+expect serves as a glue to link existing utilities together the general idea is to try to figure out how to make expect utilize the system's existing tools rather than figure out how to solve a problem inside of expect
+a key usage of expect involves commercial software products many of these products provide some type of command-line interface but these usually lack the power needed to write scripts they were built to service the users administering the product but the company often does not spend the resources to fully implement a robust scripting language an expect script can spawn a shell look up environmental variables perform some unix commands to retrieve more information and then enter into the product's command-line interface armed with the necessary information to achieve the user's goal after looking up information inside the product's command-line interface the script can make an intelligent decision about what action to take if any
+every time an expect operation is completed the results are stored in a local variable called $expect_out this allows the script to harvest information to feed back to the user and it also allows conditional behavior of what to send next based on the circumstances
+a common use of expect is to set up a testing suite whether it be for programs utilities or embedded systems dejagnu is a testing suite written using expect for use in testing it has been used extensively for testing gcc and is very well suited to testing remote targets such as embedded development
+one can automate the generation of an expect script using a tool called autoexpect this tool observes your actions and generates an expect script using heuristics though generated code may be large and somewhat cryptic one can always tweak the generated script to get the exact code
+another example is a script that automates ftp
+below is an example that automates sftp (with password)
+it should be noted that using passwords as command-line arguments like in this example is a huge security hole as any other user on the machine can read this password by running ps you can however add code that will prompt you for your password rather than giving your password as an argument this should be more secure see the example below
+another example of automated ssh login in user machine
+== alternativesedit ==
+various projects implement expect-like functionality in other languages such as c# java perl python and ruby these are generally not exact clones of the original expect but the concepts tend to be very similar
+=== c#edit ===
+expect.net expect functionality for c# (.net)
+dotnetexpect an expect-inspired console automation library for net
+=== javaedit ===
+expect4j an attempt at a java clone of the original expect
+expectj a java implementation of the unix expect utility
+expect-for-java pure java implementation of the expect tool
+=== perledit ===
+expect.pm perl module (newest version at metacpan.org)
+=== pythonedit ===
+pexpect python module for controlling interactive programs in a pseudo-terminal
+winpexpect port of pexpect to the windows platform
+=== rubyedit ===
+rexpect a drop in replacement for the expect.rb module in the standard library
+expect4r interact with cisco ios ios-xr and juniper junos cli
+=== shelledit ===
+empty expect-like utility to run interactive commands in the unix shell-scripts
+== referencesedit ==
+== further readingedit ==
+libes don (1995) exploring expect a tcl-based tool for automating interactive programs o'reilly & associates inc isbn 1-565-92090-2
+advanced programming in expect a bulletproof interface
+== external linksedit ==
+official website
+expect on sourceforge (current release)
+expect page on the tcler's wiki
+[1]

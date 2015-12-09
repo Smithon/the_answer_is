@@ -1,0 +1,53 @@
+petrophysics (from the greek  petra rock and  physis nature") is the study of physical and chemical rock properties and their interactions with fluids
+a major application of petrophysics is in studying reservoirs for the hydrocarbon industry petrophysicists are employed to help reservoir engineers and geoscientists understand the rock properties of the reservoir particularly how pores in the subsurface are interconnected controlling the accumulation and migration of hydrocarbons some of the key properties studied in petrophysics are lithology porosity water saturation permeability and density a key aspect of petrophysics is measuring and evaluating these rock properties by acquiring well log measurements - in which a string of measurement tools are inserted in the borehole core measurements - in which rock samples are retrieved from subsurface and seismic measurements these studies are then combined with geological and geophysical studies and reservoir engineering to give a complete picture of the reservoir
+while most petrophysicists work in the hydrocarbon industry some also work in the mining and water resource industries the properties measured or computed fall into three broad categories conventional petrophysical properties rock mechanical properties and ore quality
+petrophysical studies are used by petroleum engineering geology mineralogy exploration geophysics and other related studies
+== conventional petrophysical properties ==
+most petrophysicists are employed to compute what are commonly called conventional (or reservoir) petrophysical properties these are
+lithology a description of the rock's physical characteristics such as grain size composition and texture by studying the lithology of local geological outcrops and core samples geoscientists can use a combination of log measurements such as natural gamma neutron density and resistivity to determine the lithology down the well
+porosity the percentage of a given volume of rock that is pore space and can therefore contain fluids this is typically calculated using data from an instrument that measures the reaction of the rock to bombardment by neutrons or by gamma rays but can also be derived from sonic and nmr logging
+water saturation the fraction of the pore space occupied by water this is typically calculated using data from an instrument that measures the resistivity of the rock and is known by the symbol 
+permeability the quantity of fluid (usually hydrocarbon) that can flow through a rock as a function of time and pressure related to how interconnected the pores are formation testing is so far the only tool that can directly measure a rock formation's permeability down a well in case of its absence which is common in most cases an estimate for permeability can be derived from empirical relationships with other measurements such as porosity nmr and sonic logging
+thickness of rock with enough permeability to deliver fluids to a well bore this property is often called net reservoir rock in the oil and gas industry another quantity net pay is computed which is the thickness of rock that can deliver hydrocarbons to the well bore at a profitable rate
+reservoir models are built upon their measured and derived properties to estimate the amount of hydrocarbon present in the reservoir the rate at which that hydrocarbon can be produced to the earths surface through wellbores and the fluid flow in rocks in the water resource industry similar models are used to compute how much water can be produced to the surface over long periods of time without depleting the aquifer
+== rock mechanical properties ==
+some petrophysicists use acoustic and density measurements of rocks to compute their mechanical properties and strength they measure the compressional (p) wave velocity of sound through the rock and the shear (s) wave velocity and use these with the density of the rock to compute the rocks compressive strength which is the compressive stress that causes a rock to fail and the rocks flexibility which is the relationship between stress and deformation for a rock converted-wave analysis is also used to determine subsurface lithology and porosity
+these measurements are useful to design programs to drill wells that produce oil and gas the measurements are also used to design dams roads foundations for buildings and many other large construction projects they can also be used to help interpret seismic signals from the earth either man-made seismic signals or those from earthquakes
+== ore quality ==
+bore holes can be drilled into ore bodies (for example coal seams or gold ore) and either rock samples taken to determine the ore or coal quality at each bore hole location or the wells can be wireline logged to make measurements that can be used to infer quality some petrophysicists do this sort of analysis the information is mapped and used to make mine development plans
+== methods of analysis ==
+coring and core analysis is a direct measurement of petrophysical properties in the petroleum industry rock samples are retrieved from subsurface and measured by core labs of oil company or some commercial core measurement service companies this process is time consuming and expensive thus can not be applied to all the wells drilled in a field
+well logging is used as a relatively inexpensive method to obtain petrophysical properties downhole measurement tools are conveyed downhole using either wireline or lwd method
+an example of wireline logs is shown in figure 1 the first track shows the natural gamma radiation level of the rock the gamma radiation level log shows increasing radiation to the right and decreasing radiation to the left the rocks emitting less radiation have more yellow shading the detector is very sensitive and the amount of radiation is very low in clastic rock formations rocks that have smaller amounts of radiation are more likely to be coarser grained and have more pore space rocks with higher amounts of radiation are more likely to have finer grains and less pore space
+the second track over in the plot records the depth below the reference point which is usually the kelly bush or rotary table in feet so these rocks are 11,900 feet below the surface of earth
+in the third track the electrical resistivity of the rock is presented the water in this rock is salty and the salt in the water causes the water to be electrically conductive such that lower resistivity is caused by increasing water saturation and decreasing hydrocarbon saturation
+the fourth track shows the computed water saturation both as total water (including the water bound to the rock) in magenta and the effective water or water that is free to flow in black both quantities are given as a fraction of the total pore space
+the fifth track shows the fraction of the total rock that is pore space filled with fluids the display of the pore space is divided into green for oil and blue for movable water the black line shows the fraction of the pore space which contains either water or oil that can move or be produced in addition to what is included in blackline the magenta line includes the water that is permanently bound to the rock
+the last track is a representation of the solid portion of the rock the yellow pattern represents the fraction of the rock (excluding fluids) that is composed of coarser grained sandstone the gray pattern represents the fraction of rock that is composed of finer grained shale the sandstone is the part of the rock that contains the producible hydrocarbons and water
+== rock volumetric model for shaly sand formation ==
+symbols and definitions
+the following definition and petrophysics model are a typical shaly sand formation model which assumes 1 shale is composed of silt clay and their bounded water which will not flow 2 hydrocarbon are stored only in pore space in sand matrix
+t - total porosity (phit) which includes the pore space in sand and shale
+sw - total water saturation the fraction of the pore space occupied by water
+e - effective shale corrected porosity which includes only the pore space in sand the pore space in shale which is filled with bounded water is excluded
+swe - effective shale corrected water saturation the volumetric fraction of e which is occupied by water
+vsh - volumetric fraction of shale this includes medium to very fine silt plus clay and the shale bound water
+sh - shale porosity volumetric fraction of pore space in shale these pore space is filled with bounded water by definition
+key equations
+(1-e-vsh) + vsh + e*swe + e*(1-swe) = 1
+sandstone matrix volume + shale volume + water volume in sand + hydrocarbon volume in sand = total rock volume
+e = t vsh *sh
+== see also ==
+formation evaluation
+gardner's relation
+archie's law
+society of petrophysicists and well log analysts
+== references ==
+guguen yves palciauskas victor (1994) introduction to the physics of rocks princeton university press isbn 978-0-691-03452-2
+mavko gary mukerji tapan dvorkin jack (2003) the rock physics handbook cambridge university press isbn 978-0-521-54344-6
+santamarina j carlos klein katherine a. fam moheb a (2001) soils and waves particulate materials behavior characterization and process monitoring john wiley & sons ltd. isbn 978-0-471-49058-6
+tiab djebbar donaldson erle c petrophysics theory and practice of measuring reservoir rock and fluid transport properties (3rd ed.) oxford gulf professional pub isbn 978-0-12-383848-3
+== external links ==
+petrophysics forum
+crains petrophysical handbook
+rockphysicists

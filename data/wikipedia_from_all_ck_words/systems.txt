@@ -1,0 +1,105 @@
+a system is a set of interacting or interdependent component parts forming a complex/intricate whole
+every system is delineated by its spatial and temporal boundaries surrounded and influenced by its environment described by its structure and purpose and expressed in its functioning
+fields that study the general properties of systems include systems science systems theory systems modeling systems engineering cybernetics dynamical systems thermodynamics complex systems system analysis and design and systems architecture they investigate the abstract properties of systems matter and organization looking for concepts and principles that are independent of domain substance type or temporal scale
+some systems share common characteristics including
+a system has structure it contains parts (or components) that are directly or indirectly related to each other
+a system has behavior it exhibits processes that fulfill its function or purpose
+a system has interconnectivity the parts and processes are connected by structural and/or behavioral relationships
+a system's structure and behavior may be decomposed via subsystems and sub-processes to elementary parts and process steps
+a system has behavior that in relativity to its surroundings may be categorized as both fast and strong
+the term system may also refer to a set of rules that governs structure and/or behavior alternatively and usually in the context of complex social systems the term institution is used to describe the set of rules that govern structure and/or behavior
+== etymology ==
+the term system comes from the latin word systma in turn from greek systma whole compounded of several parts or members system literary composition
+== history ==
+according to marshall mcluhan
+system means something to look at you must have a very high visual gradient to have systematization in philosophy before descartes there was no system plato had no system aristotle had no system
+in the 19th century the french physicist nicolas lonard sadi carnot who studied thermodynamics pioneered the development of the concept of a system in the natural sciences in 1824 he studied the system which he called the working substance (typically a body of water vapor) in steam engines in regards to the system's ability to do work when heat is applied to it the working substance could be put in contact with either a boiler a cold reservoir (a stream of cold water) or a piston (to which the working body could do work by pushing on it) in 1850 the german physicist rudolf clausius generalized this picture to include the concept of the surroundings and began to use the term working body when referring to the system
+the biologist ludwig von bertalanffy (1901-1972) became one of the pioneers of the general systems theory in 1945 he introduced models principles and laws that apply to generalized systems or their subclasses irrespective of their particular kind the nature of their component elements and the relation or forces between them
+norbert wiener (1894-1964) and ross ashby (1903-1972) who pioneered the use of mathematics to study systems carried out significant development in the concept of a system
+in the 1980s john h holland (1929- ) murray gell-mann (1929- ) and others coined the term complex adaptive system at the interdisciplinary santa fe institute
+== system concepts ==
+environment and boundaries
+systems theory views the world as a complex system of interconnected parts we scope a system by defining its boundary this means choosing which entities are inside the system and which are outside part of the environment we then make simplified representations (models) of the system in order to understand it and to predict or impact its future behavior these models may define the structure and/or the behavior of the system
+natural and human-made systems
+there are natural and human-made (designed) systems natural systems may not have an apparent objective but their outputs can be interpreted as purposes human-made systems are made with purposes that are achieved by the delivery of outputs their parts must be related they must be designed to work as a coherent entity else they would be two or more distinct systems
+theoretical framework
+an open system exchanges matter and energy with its surroundings most systems are open systems like a car coffeemaker or computer a closed system exchanges energy but not matter with its environment like earth or the project biosphere2 or 3 an isolated system exchanges neither matter nor energy with its environment a theoretical example of such system is the universe
+process and transformation process
+an open system can also be viewed as a bounded transformation process that is a black box that is a process or collection of processes that transforms inputs into outputs inputs are consumed outputs are produced the concept of input and output here is very broad e.g. an output of a passenger ship is the movement of people from departure to destination
+subsystem
+a subsystem is a set of elements which is a system itself and a component of a larger system
+system model
+a system comprises multiple views for the man-made systems it may be such views as concept analysis design implementation deployment structure behavior input data and output data views a system model is required to describe and represent all these multiple views
+systems architecture
+a systems architecture using one single integrated model for the description of multiple views such as concept analysis design implementation deployment structure behavior input data and output data views is a kind of system model
+== elements of a system an example ==
+following are considered as the elements of a system in terms of information systems
+input
+output
+processor
+control
+feedback
+boundary and interface
+environment
+1 input input involves capturing and assembling elements that enter the system to be processed the inputs are said to be fed to the systems in order to get the output for example input of a computer system is an input unit consisting of various input devices like a keyboard mouse joystick etc
+2 output those elements that exists in the system due to the processing of the inputs is known as output a major objective of a system is to produce output that has value to its user the output of the system maybe in the form of cash information knowledge reports documents etc the system is defined as output is required from it it is the anticipatory recognition of output that helps in defining the input of the system for example output of a computer system is an output unit consisting of various output devices like the screen and the printer etc
+3 processor(s) the processor is the element of a system that involves the actual transformation of input into output it is the operational component of a system for example processor of a computer system is central processing unit that further consists of arithmetic and logic unit (alu) control unit and memory unit etc
+4 control the control element guides the system it is the decision-making sub-system that controls the pattern of activities governing input,processing and output it also keeps the system within the boundary set for example,control in a computer system is maintained by the control unit that controls and coordinates various units by means of passing different signals through wires
+5 feedback control in a dynamic system is achieved by feedback feedback measures output against a standard input in some form of cybernetic procedure that includes communication and control the feedback may generally be of three types viz. positive negative and informational the positive feedback motivates the system the negative indicates need of an action the feedback is a reactive form of control outputs from the process of the system are fed back to the control mechanism the control mechanism then adjusts the control signals to the process on the basis of the data it receives feedforward is a protective form of control for example in a computer system when logical decisions are taken the logic unit concludes by comparing the calculated results and the required results
+6 boundary and interface a system should be defined by its boundaries - the limits that identify its components processes and interrelationships when it interfaces with another system for example in a computer system there is a boundary for the number of bits the memory size etc that is responsible for different levels of accuracy on different machines (like 16-bit 32-bit etc.) the interface in a computer system may be a cui (character user interface) or a gui (graphical user interface)
+7 environment the environment is the supersystem within which an organisation operates it excludes input processes and outputs it is the source of external elements that impinge on the system for example if the results calculated/the output generated by the computer system are to be used for decision-making purposes in the factory in a business concern in an organisation in a school in a college or in a government office then the system is same but its environment is different
+== types of systems ==
+systems are classified in different ways
+physical or abstract systems
+open or closed systems
+man-made information systems
+formal information systems
+informal information systems
+computer-based information systems
+real-time system
+physical systems are tangible entities that may be static or dynamic in operation
+an open system has many interfaces with its environment i.e system that interacts freely with its environment taking input and returning output it permits interaction across its boundary it receives inputs from and delivers outputs to the outside a closed system does not interact with the environment changes in the environment and adaptability are not issues for closed system
+== analysis of systems ==
+evidently there are many types of systems that can be analyzed both quantitatively and qualitatively for example with an analysis of urban systems dynamics [a.w steiss] defines five intersecting systems including the physical subsystem and behavioral system for sociological models influenced by systems theory where kenneth d bailey defines systems in terms of conceptual concrete and abstract systems either isolated closed or open walter f buckley defines social systems in sociology in terms of mechanical organic and process models bela h banathy cautions that with any inquiry into a system that understanding the type of system is crucial and defines natural and designed systems
+systems that are purposed by man inherently have a major flaw they must have a starting assumption(s) in which this starting assumption(s) is used to build further knowledge upon this starting assumption(s) is not inherently bad but it is used as the foundation of the system and as it is assumed to be true and not definitively so then the system is not as structurally sound as perceived to be for example in geometry (a subsystem of math) this is highly evident when one goes through the process of taking theorems and extrapolates proofs from those set theorems
+in offering these more global definitions the author maintains that it is important not to confuse one for the other the theorist explains that natural systems include sub-atomic systems living systems the solar system the galactic system and the universe designed systems are our creations our physical structures hybrid systems which include natural and designed systems and our conceptual knowledge the human element of organization and activities are emphasized with their relevant abstract systems and representations a key consideration in making distinctions among various types of systems is to determine how much freedom the system has to select purpose goals methods tools etc and how widely is the freedom to select itself distributed (or concentrated) in the system
+george j klir maintains that no classification is complete and perfect for all purposes, and defines systems in terms of abstract real and conceptual physical systems bounded and unbounded systems discrete to continuous pulse to hybrid systems etc the interaction between systems and their environments are categorized in terms of relatively closed and open systems it seems most unlikely that an absolutely closed system can exist or if it did that it could be known by us important distinctions have also been made between hard and soft systems hard systems are technical in nature and amenable to methods such as systems engineering operations research and quantitative systems analysis soft systems involve people and organisations and are commonly associated with concepts developed by peter checkland and brian wilson through soft systems methodology (ssm) involving methods such as action research and emphasizing participatory designs where hard systems might be identified as more scientific, the distinction between them is actually often hard to define
+=== cultural system ===
+a cultural system may be defined as the interaction of different elements of culture while a cultural system is quite different from a social system sometimes both systems together are referred to as the sociocultural system a major concern in the social sciences is the problem of order
+=== economic system ===
+an economic system is a mechanism (social institution) which deals with the production distribution and consumption of goods and services in a particular society the economic system is composed of people institutions and their relationships to resources such as the convention of property it addresses the problems of economics like the allocation and scarcity of resources
+== application of the system concept ==
+systems modeling is generally a basic principle in engineering and in social sciences the system is the representation of the entities under concern hence inclusion to or exclusion from system context is dependent of the intention of the modeler
+no model of a system will include all features of the real system of concern and no model of a system must include all entities belonging to a real system of concern
+=== systems in information and computer science ===
+in computer science and information science system is a software system which has components as its structure and observable inter-process communications as its behavior again an example will illustrate there are systems of counting as with roman numerals and various systems for filing papers or catalogues and various library systems of which the dewey decimal system is an example this still fits with the definition of components which are connected together (in this case in order to facilitate the flow of information)
+system can also be used referring to a framework be it software or hardware designed to allow software programs to run see platform
+=== systems in engineering and physics ===
+in engineering and physics a physical system is the portion of the universe that is being studied (of which a thermodynamic system is one major example) engineering also has the concept of a system that refers to all of the parts and interactions between parts of a complex project systems engineering refers to the branch of engineering that studies how this type of system should be planned designed implemented built and maintained
+=== systems in social and cognitive sciences and management research ===
+social and cognitive sciences recognize systems in human person models and in human societies they include human brain functions and human mental processes as well as normative ethics systems and social/cultural behavioral patterns
+in management science operations research and organizational development (od) human organizations are viewed as systems (conceptual systems) of interacting components such as subsystems or system aggregates which are carriers of numerous complex business processes (organizational behaviors) and organizational structures organizational development theorist peter senge developed the notion of organizations as systems in his book the fifth discipline
+systems thinking is a style of thinking/reasoning and problem solving it starts from the recognition of system properties in a given problem it can be a leadership competency some people can think globally while acting locally such people consider the potential consequences of their decisions on other parts of larger systems this is also a basis of systemic coaching in psychology
+organizational theorists such as margaret wheatley have also described the workings of organizational systems in new metaphoric contexts such as quantum physics chaos theory and the self-organization of systems
+=== pure logical systems ===
+there is also such a thing as a logical system the most obvious example is the calculus developed simultaneously by leibniz and isaac newton another example is george boole's boolean operators other examples have related specifically to philosophy biology or cognitive science maslow's hierarchy of needs applies psychology to biology by using pure logic numerous psychologists including carl jung and sigmund freud have developed systems which logically organize psychological domains such as personalities motivations or intellect and desire often these domains consist of general categories following a corollary such as a theorem logic has been applied to categories such as taxonomy ontology assessment and hierarchies
+=== systems applied to strategic thinking ===
+in 1988 military strategist john a warden iii introduced his five ring system model in his book the air campaign contending that any complex system could be broken down into five concentric rings each ringleadership processes infrastructure population and action unitscould be used to isolate key elements of any system that needed change the model was used effectively by air force planners in the first gulf war in the late 1990s warden applied this five ring model to business strategy
+== see also ==
+== references ==
+== bibliography ==
+alexander backlund (2000) the definition of system in kybernetes vol 29 nr 4 pp 444451
+kenneth d bailey (1994) sociology and the new systems theory toward a theoretical synthesis new york state of new york press
+bela h banathy (1997) a taste of systemics isss the primer project
+walter f buckley (1967) sociology and modern systems theory new jersey englewood cliffs
+peter checkland (1997) systems thinking systems practice chichester john wiley & sons ltd
+michel crozier erhard friedberg (1981) actors and systems chicago university press
+robert l flood (1999) rethinking the fifth discipline learning within the unknowable london routledge
+george j klir (1969) approach to general systems theory 1969
+brian wilson (1980) systems concepts methodologies and applications john wiley
+brian wilson (2001) soft systems methodologyconceptual model building and its contribution j.h.wiley
+beynon-davies p (2009) business information + systems palgrave basingstoke isbn 978-0-230-20368-6
+== external links ==
+definitions of systems and models by michael pidwirny 19992007
+publications with the title system (16002008) by roland mller
+definitionen von system (15722002) by roland mller (most in german)

@@ -1,0 +1,8 @@
+in statistics a data point or observation is a set of one or more measurements on a single member of a statistical population for example in a study of the determinants of money demand with the unit of observation being the individual a data point might be the values of income wealth age of individual number of dependents statistical inference about the population would be conducted using a statistical sample consisting of various such data points
+in addition in statistical graphics a data point may be an individual item with a statistical display such points may relate to either a single member of a population or to a summary statistic calculated for a given subpopulation
+== discussion ==
+the measurements contained in a data point are formally typed where here type is used in a way compatible with datatype in computing so that the type of measurement can specify whether the measurement results in a boolean value from {yes no} an integer or real number the identity of some category or some vector or array
+the implication of point is often that the data may be plotted in a graphic display but in many cases the data are processed numerically before that is done in the context of statistical graphics measured values for individuals or summary statistics for different subpopulations are displayed as separate symbols within a display since such symbols can differ by shape size and colour a single data point within a display can convey multiple aspects of the set of measurements for an individual or subpopulation
+== see also ==
+data
+unit of observation

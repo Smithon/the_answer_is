@@ -1,0 +1,45 @@
+numer model solar system set mathemat equat solv give approxim posit planet function time attempt creat model establish general field celesti mechan result simul compar past measur check accuraci use predict futur posit main use therefor prepar almanac
+older effort
+simul done either cartesian spheric coordin former easier extrem calcul intens practic electron comput latter use former time strict speak much less calcul intens possibl start simpl approxim add perturb much need reach want accuraci
+essenc mathemat simul solar system form nbodi problem symbol n repres number bodi grow quit larg one includ sun planet dozen moon countless planetoid comet forth howev influenc sun bodi larg influenc bodi small problem reduc analyt solvabl bodi problem result planet orbit simpl descript posit function time solv influenc moon planet ad small correct small compar full planetari orbit correct might still sever degre larg measur made accuraci better
+although method longer use simul still use find approxim ephemeri one take relat simpl main solut perhap add largest perturb arriv without much effort want planetari posit disadvantag perturb theori advanc mathemat
+modern method
+modern method consist numer integr dimension space one start high accuraci valu posit x y z veloc vx vy vz bodi involv also mass bodi known acceler ax ay az calcul newton law gravit bodi attract bodi total acceler sum attract next one choos small timestep appli newton second law motion acceler multipli give correct veloc veloc multipli give correct posit procedur repeat bodi
+result new valu posit veloc bodi use new valu one start whole calcul next timestep repeat procedur often enough one end descript posit bodi time
+advantag method comput easi job yield high accur result bodi time away complex difficult procedur determin perturb disadvantag one must start high accur figur first place result drift away realiti time one get x y z posit often first transform practic eclipt equatori coordin use noth approach one want know posit one planet one particular time planet intermedi timestep calcul
+integr
+previous section assum acceler remain constant small timestep calcul reduc simpli addit v r forth realiti case except one take small number step taken would prohibit high time posit chang acceler valu acceler determin instantan posit evid full integr need
+sever method avail first notic need equat
+equat describ acceler bodi run n exercis particular bodi j vector equat split equat x y z compon yield
+addit relationship
+likewis y z
+former equat gravit may look forebod calcul problem latter equat motion law seem simpler yet cannot calcul comput cannot integr cannot work infinitesim valu instead dt use bring result variabl left
+rememb still function time simplest way solv euler algorithm essenc linear addit describ limit dimens general comput languag
+aold gravitationfunctionxold
+xnew xold vold dt
+vnew vold aold dt
+essenc acceler use whole durat timestep one begin timestep simpl method high accuraci much better result achiev take mean acceler averag begin valu expect unperturb end valu
+aold gravitationfunctionxold
+xexpect xold vold dt
+aexpect gravitationfunctionxexpect
+vnew vold aold aexpect dt
+xnew xold vnew vold dt
+cours still better result expect take intermedi valu happen use rungekutta method especi one grade use
+complet differ method use taylor seri case write
+rather develop higher deriv r one develop r v r write write factor f g seri
+advanc method easili allow solar system calcul stepsiz day yet yield satisfactori result
+approxim
+calcul acceler gravit attract bodi bodi taken account consequ amount calcul simul goe squar number bodi doubl number bodi increas work factor four increas accuraci simul decim taken also smaller timestep quick increas amount work evid trick appli reduc amount work trick given
+far import trick use proper integr method alreadi outlin
+choic unit import rather work si unit would make valu extrem small extrem larg unit scale neighbourhood exampl distanc solar system astronom unit straightforward done one almost certain see simul abort middl calcul float point overflow underflow bad still accuraci like get lost due truncat error
+n larg much solar system simul galaxi simul customari creat dynam group bodi bodi particular direct larg distanc refer bodi calcul moment taken togeth gravit attract averag whole group
+total amount energi angular momentum close system conserv quantiti calcul amount everi time step simul program increas stepsiz chang signific reduc start combin bodi group previous appli larger thus less timestep faraway bodi closer one also possibl
+allow excess rapid chang acceler particular bodi close refer bodi customari introduc small soft paramet e
+complic
+highest possibl accuraci need thing becom much complex case comet nongravit forc radiat pressur gas drag must taken account case mercuri planet long term calcul relativist effect cannot ignor also total energi longer constant four vector energi linear momentum finit speed light also make import allow lighttim effect classic relativist planet longer consid particl shape densiti must also consid exampl flatten earth caus precess caus axial tilt chang affect longterm movement planet long term model ten million year possibl due stabil solar system
+see also
+ephemeri
+astronom algorithm
+vsop planet
+refer
+boulet dan l method orbit determin microcomput richmond virginia willmannbel inc isbn oclc

@@ -1,0 +1,109 @@
+a calendar is a system of organizing days for social religious commercial or administrative purposes this is done by giving names to periods of time typically days weeks months and years a date is the designation of a single specific day within such a system a calendar is also a physical record (often paper) of such a system a calendar can also mean a list of planned events such as a court calendar or a partly or fully chronological list of documents such as a calendar of wills
+periods in a calendar (such as years and months) are usually though not necessarily synchronized with the cycle of the sun or the moon the most common type of pre-modern calendar was the lunisolar calendar lunar calendar that compensates by adding an intercalary months to remain synchronised with the solar year over the long term the calendar in most widespread use today is the gregorian calendar introduced in the 16th century as a modification of the julian calendar which was itself a modification of the ancient roman calendar the term calendar itself is taken from calendae the term for the first day of the month in the roman calendar related to the verb calare to call out referring to the calling of the new moon when it was first seen latin calendarium meant account book register (as accounts were settled and debts were collected on the calends of each month) the latin term was adopted in old french as calendier and from there in middle english as calender by the 13th century (the spelling calendar is early modern)
+== history ==
+the course of the sun and the moon are the most evident forms of timekeeping and the year and lunation were most commonly used in pre-modern societies worldwide as time units nevertheless the roman calendar contained very ancient remnants of a pre-etruscan 10-month solar year the first recorded calendars date to the bronze age dependent on the development of writing in the ancient near east the egyptian and sumerian calendars
+a larger number of calendar systems of the ancient near east becomes accessible in the iron age based on the babylonian calendar this includes the calendar of the persian empire which in turn gave rise to the zoroastrian calendar as well as the hebrew calendar
+a great number of hellenic calendars develop in classical greece and with the hellenistic period also influence calendars outside of the immediate sphere of greek influence giving rise to the various hindu calendars as well as to the ancient roman calendar
+calendars in antiquity were lunisolar depending on the introduction of intercalary months to align the solar and the lunar years this was mostly based on observation but there may have been early attempts to model the pattern of intercalation algorithmically as evidenced in the fragmentary 2nd-century coligny calendar
+the roman calendar was reformed by julius caesar in 45 bc the julian calendar was no longer dependent on the observation of the new moon but simply followed an algorithm of introducing a leap day every four years this created a dissociation of the calendar month from the lunation
+the islamic calendar is based on the prohibition of intercalation (nasi') by muhammad in islamic tradition dated to a sermon held on 9 dhu al-hijjah ah 10 (julian date 6 march 632) this resulted in an observationally based lunar calendar shifting relative to the seasons of the solar year
+=== modern reforms ===
+the first calendar reform of the early modern era was the gregorian calendar introduced in 1582 based on the observation of a long-term shift between the julian calendar and the solar year
+there have been a number of modern proposals for reform of the calendar such as the world calendar international fixed calendar holocene calendar and recently the hanke-henry permanent calendar such ideas are mooted from time to time but fail to gain traction because of the loss of continuity massive upheaval in implementation and religious objections
+== calendar systems ==
+a full calendar system has a different calendar date for every day thus the week cycle is by itself not a full calendar system neither is a system to name the days within a year without a system for identifying the years
+the simplest calendar system just counts time periods from a reference date this applies for the julian day or unix time virtually the only possible variation is using a different reference date in particular one less distant in the past to make the numbers smaller computations in these systems are just a matter of addition and subtraction
+other calendars have one (or multiple) larger units of time
+calendars that contain one level of cycles
+week and weekday this system (without year the week number keeps on increasing) is not very common
+year and ordinal date within the year e.g. the iso 8601 ordinal date system
+calendars with two levels of cycles
+year month and day most systems including the gregorian calendar (and its very similar predecessor the julian calendar) the islamic calendar the solar hijri calendar and the hebrew calendar
+year week and weekday e.g. the iso week date
+cycles can be synchronized with periodic phenomena
+lunar calendars are synchronized to the motion of the moon (lunar phases) an example is the islamic calendar
+solar calendars are based on perceived seasonal changes synchronized to the apparent motion of the sun an example is the persian calendar
+lunisolar calendars are based on a combination of both solar and lunar reckonings examples include the traditional calendar of china the hindu calendar in india and the hebrew calendar
+there are some calendars that appear to be synchronized to the motion of venus such as some of the ancient egyptian calendars synchronization to venus appears to occur primarily in civilizations near the equator
+the week cycle is an example of one that is not synchronized to any external phenomenon (although it may have been derived from lunar phases beginning anew every month)
+very commonly a calendar includes more than one type of cycle or has both cyclic and acyclic elements
+most calendars incorporate more complex cycles for example the vast majority of them track years months weeks and days the seven day week is practically universal though its use varies it has run uninterrupted for millennia
+=== solar calendars ===
+solar calendars assign a date to each solar day a day may consist of the period between sunrise and sunset with a following period of night or it may be a period between successive events such as two sunsets the length of the interval between two such successive events may be allowed to vary slightly during the year or it may be averaged into a mean solar day other types of calendar may also use a solar day
+=== lunar calendars ===
+not all calendars use the solar year as a unit a lunar calendar is one in which days are numbered within each lunar phase cycle because the length of the lunar month is not an even fraction of the length of the tropical year a purely lunar calendar quickly drifts against the seasons which don't vary much near the equator it does however stay constant with respect to other phenomena notably tides an example is the islamic calendar alexander marshack in a controversial reading believed that marks on a bone baton (c 25,000 bc) represented a lunar calendar other marked bones may also represent lunar calendars similarly michael rappenglueck believes that marks on a 15,000-year-old cave painting represent a lunar calendar
+=== lunisolar calendars ===
+a lunisolar calendar is a lunar calendar that compensates by adding an extra month as needed to realign the months with the seasons an example is the hebrew calendar which uses a 19-year cycle
+== calendar subdivisions ==
+nearly all calendar systems group consecutive days into months and also into years in a solar calendar a year approximates earth's tropical year (that is the time it takes for a complete cycle of seasons) traditionally used to facilitate the planning of agricultural activities in a lunar calendar the month approximates the cycle of the moon phase consecutive days may be grouped into other periods such as the week
+because the number of days in the tropical year is not a whole number a solar calendar must have a different number of days in different years this may be handled for example by adding an extra day in leap years the same applies to months in a lunar calendar and also the number of months in a year in a lunisolar calendar this is generally known as intercalation even if a calendar is solar but not lunar the year cannot be divided entirely into months that never vary in length
+cultures may define other units of time such as the week for the purpose of scheduling regular activities that do not easily coincide with months or years many cultures use different baselines for their calendars starting years for example the year in japan is based on the reign of the current emperor 2006 was year 18 of the emperor akihito
+== other calendar types ==
+=== arithmetic and astronomical calendars ===
+an astronomical calendar is based on ongoing observation examples are the religious islamic calendar and the old religious jewish calendar in the time of the second temple such a calendar is also referred to as an observation-based calendar the advantage of such a calendar is that it is perfectly and perpetually accurate the disadvantage is that working out when a particular date would occur is difficult
+an arithmetic calendar is one that is based on a strict set of rules an example is the current jewish calendar such a calendar is also referred to as a rule-based calendar the advantage of such a calendar is the ease of calculating when a particular date occurs the disadvantage is imperfect accuracy furthermore even if the calendar is very accurate its accuracy diminishes slowly over time owing to changes in earth's rotation this limits the lifetime of an accurate arithmetic calendar to a few thousand years after then the rules would need to be modified from observations made since the invention of the calendar
+=== complete and incomplete calendars ===
+calendars may be either complete or incomplete complete calendars provide a way of naming each consecutive day while incomplete calendars do not the early roman calendar which had no way of designating the days of the winter months other than to lump them together as winter is an example of an incomplete calendar while the gregorian calendar is an example of a complete calendar
+== calendars in use ==
+the primary practical use of a calendar is to identify days to be informed about and/or to agree on a future event and to record an event that has happened days may be significant for agricultural civil religious or social reasons for example a calendar provides a way to determine when to start planting or harvesting which days are religious or civil holidays which days mark the beginning and end of business accounting periods and which days have legal significance such as the day taxes are due or a contract expires also a calendar may by identifying a day provide other useful information about the day such as its season
+calendars are also used to help people manage their personal schedules time and activities particularly when individuals have numerous work school and family commitments people frequently use multiple systems and may keep both a business and family calendar to help prevent them from overcommitting their time
+calendars are also used as part of a complete timekeeping system date and time of day together specify a moment in time in the modern world timekeepers can show time date and weekday
+=== gregorian calendar ===
+the gregorian calendar is the de facto international standard and is used almost everywhere in the world for civil purposes it is a purely solar calendar with a cycle of leap days in a 400-year cycle designed to keep the duration of the year aligned with the solar year
+each gregorian year has either 365 or 366 days (the leap day being inserted as 29 february) amounting to an average gregorian year of 365.2425 days (compared to a solar year of 365.2422 days) it was introduced in 1582 as a refinement to the julian calendar which had been in use throughout the european middle ages amounting to a 0.002% correction in the length of the year
+during the early modern period however its adoption was mostly limited to roman catholic nations but by the 19th century it became widely adopted worldwide for the sake of convenience in international trade the last european country to adopt the reform was greece in 1923
+the calendar epoch used by the gregorian calendar is the dionysian era inherited from the medieval convention associated with the julian calendar the year number is variously given as ad (for anno domini) or ce (for common era)
+=== religious calendars ===
+the most important use of pre-modern calendars is keeping track of the liturgical year and the observation of religious feast days
+while the gregorian calendar is itself historically motivated in relation to the calculation of the easter date it is now in worldwide secular use as the de facto standard alongside the use of the gregorian calendar for secular matters there remain a number of calendars in use for religious purposes
+eastern christians use the julian calendar that of the old orthodox church
+the islamic calendar or hijri calendar is a lunar calendar consisting of 12 lunar months in a year of 354 or 355 days it is used to date events in most of the muslim countries (concurrently with the gregorian calendar) and used by muslims everywhere to determine the proper day on which to celebrate islamic holy days and festivals its epoch is the hijra (corresponding to year 622 of the dionysian era) with an annual drift of 11 or 12 days the seasonal relation is repeated approximately each 33 islamic years
+various hindu calendars remain in use in the indian subcontinent including the nepali calendar bengali calendar malayalam calendar tamil calendar vikrama samvat used in northern india and shalivahana calendar in the deccan states
+the buddhist calendar and the traditional lunisolar calendars of cambodia laos myanmar sri lanka and thailand are also based on an older version of the hindu calendar
+most of the hindu calendars are inherited from a system first enunciated in vedanga jyotisha of lagadha standardized in the srya siddhnta and subsequently reformed by astronomers such as ryabhaa (ad 499) varhamihira (6th century) and bhskara ii (12th century)
+the hebrew calendar is used by jews worldwide for religious and cultural affairs also influences civil matters in israel (such as national holidays) and can be used there for business dealings (such as for the dating of checks)
+bah's worldwide use the bah calendar
+=== national calendars ===
+the chinese hebrew hindu and julian calendars are widely used for religious and/or social purposes
+the iranian (persian) calendar is used in iran and some parts of afghanistan the ethiopian calendar or ethiopic calendar is the principal calendar used in ethiopia and eritrea with the oromo calendar also in use in some areas in neighboring somalia the somali calendar co-exists alongside the gregorian and islamic calendars in thailand where the thai solar calendar is used the months and days have adopted the western standard although the years are still based on the traditional buddhist calendar
+=== fiscal calendars ===
+a fiscal calendar generally means the accounting year of a government or a business it is used for budgeting keeping accounts and taxation it is a set of 12 months that may start at any date in a year the us government's fiscal year starts on 1 october and ends on 30 september the government of india's fiscal year starts on 1 april and ends on 31 march small traditional businesses in india start the fiscal year on diwali festival and end the day before the next year's diwali festival
+in accounting (and particularly accounting software) a fiscal calendar (such as a 4/4/5 calendar) fixes each month at a specific number of weeks to facilitate comparisons from month to month and year to year january always has exactly 4 weeks (sunday through saturday) february has 4 weeks march has 5 weeks etc note that this calendar will normally need to add a 53rd week to every 5th or 6th year which might be added to december or might not be depending on how the organization uses those dates there exists an international standard way to do this (the iso week) the iso week starts on a monday and ends on a sunday week 1 is always the week that contains 4 january in the gregorian calendar
+== formats ==
+the term calendar applies not only to a given scheme of timekeeping but also to a specific record or device displaying such a scheme for example a desktop calendar or wall calendar etc
+in a paper calendar one or two sheets can show a single day a week a month or a year if a sheet is for a single day it easily shows the date and the weekday if a sheet is for multiple days it shows a conversion table to convert from weekday to date and back with a special pointing device or by crossing out past days it may indicate the current date and weekday this is the most common usage of the word
+in the usa sunday is considered the first day of the week and so appears on the far left and saturday the last day of the week appearing on the far right in britain the weekend may appear at the end of the week so the first day is monday and the last day is sunday the us calendar display is also used in britain
+it is common to display the gregorian calendar in separate monthly grids of seven columns (from monday to sunday or sunday to saturday depending on which day is considered to start the week this varies according to country) and five to six rows (or rarely four rows when the month of february contains 28 days beginning on the first day of the week) with the day of the month numbered in each cell beginning with 1 the sixth row is sometimes eliminated by marking 23/30 and 24/31 together as necessary
+when working with weeks rather than months a continuous format is sometimes more convenient where no blank cells are inserted to ensure that the first day of a new month begins on a fresh row
+=== calendaring software ===
+calendaring software provides users with an electronic version of a calendar and may additionally provide an appointment book address book and/or contact list calendaring is a standard feature of many pdas edas and smartphones the software may be a local package designed for individual use (e.g. lightning extension for mozilla thunderbird microsoft outlook without exchange server or windows calendar) or may be a networked package that allows for the sharing of information between users (e.g. mozilla sunbird windows live calendar google calendar or microsoft outlook with exchange server)
+== see also ==
+list of calendars
+advent calendar
+calendar reform
+calendrical calculation
+docket (court)
+history of calendars
+list of international common standards
+list of unofficial observances by date
+real-time clock (rtc) which underlies the calendar software on modern computers
+unit of time
+== sources ==
+birashk ahmad (1993) a comparative calendar of the iranian muslim lunar and christian eras for three thousand years mazda publishers isbn 0-939214-95-4
+dershowitz nachum reingold edward m (1997) calendrical calculations cambridge university press isbn 0-521-56474-3 with online calculator
+zerubavel eviatar (1985) the seven day circle the history and meaning of the week university of chicago press isbn 0-226-98165-7
+doggett le (1992) calendars in seidelmann p kenneth explanatory supplement to the astronomical almanac university science books isbn 0-935702-68-7
+rni bjrnsson (1995) [1977] high days and holidays in iceland reykjavk ml og menning isbn 9979-3-0802-8 oclc 186511596
+richards eg (1998) mapping time the calendar and its history oxford university press isbn 0-19-850413-6
+rose lynn e (1999) sun moon and sothis kronos press isbn 0-917994-15-9
+spier arthur (1986) the comprehensive hebrew calendar feldheim publishers isbn 0-87306-398-8
+dieter schuh (1973) untersuchungen zur geschichte der tibetischen kalenderrechnung (in german) wiesbaden franz steiner verlag oclc 1150484
+== further reading ==
+fraser julius thomas (1987) time the familiar stranger (illustrated ed.) amherst univ of massachusetts press isbn 0-87023-576-1 oclc 15790499
+whitrow gerald james (2003) what is time? oxford oxford university press isbn 0-19-860781-4 oclc 265440481
+== references ==
+== external links ==
+calendar encyclopedia americana 1920
+calendar encyclopdia britannica (11th ed.) 1911
+calendar faq
+invention of calendar in ancient times an educational web site

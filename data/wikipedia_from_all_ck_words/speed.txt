@@ -1,0 +1,37 @@
+in everyday use and in kinematics the speed of an object is the magnitude of its velocity (the rate of change of its position) it is thus a scalar quantity the average speed of an object in an interval of time is the distance travelled by the object divided by the duration of the interval the instantaneous speed is the limit of the average speed as the duration of the time interval approaches zero
+like velocity speed has the dimensions of a length divided by a time the si unit of speed is the metre per second but the most common unit of speed in everyday usage is the kilometre per hour or in the us and the uk miles per hour for air and marine travel the knot is commonly used
+the fastest possible speed at which energy or information can travel according to special relativity is the speed of light in a vacuum c = 7008299792458000000299792458 metres per second (approximately 70082997222222222221079000000 km/h or 7008299963840000000671000000 mph) matter cannot quite reach the speed of light as this would require an infinite amount of energy in relativity physics the concept of rapidity replaces the classical idea of speed
+== definition ==
+the italian physicist galileo galilei is credited with being the first to measure speed by considering the distance covered and the time it takes galileo defined speed as the distance covered per unit of time in equation form this is
+where is speed is distance and is time a cyclist who covers 30 metres in a time of 2 seconds for example has a speed of 15 metres per second objects in motion often have variations in speed (a car might travel along a street at 50 km/h slow to 0 km/h and then reach 30 km/h)
+in mathematical terms the speed is defined as the magnitude of the velocity  that is the derivative of the position with respect to time
+if is the length of the path travelled until time  the speed equals the time derivative of 
+in the special case where the velocity is constant (that is constant speed in a straight line) this can be simplified to  the average speed over a finite time interval is the total distance travelled divided by the time duration
+=== instantaneous speed ===
+by looking at a speedometer one can read the speed of a car at any instant or its instantaneous speed a car travelling at 50 km/h generally goes for less than one hour at a constant speed but if it did go at that speed for a full hour it would travel 50 km if the vehicle continued at that speed for half an hour it would cover half that distance (25 km) if it continued for only one minute it would cover about 833 m
+=== average speed ===
+different from instantaneous speed average speed is defined as the total distance covered over the time interval for example if a distance of 80 kilometres is driven in 1 hour the average speed is 80 kilometres per hour likewise if 320 kilometres are travelled in 4 hours the average speed is also 80 kilometres per hour when a distance in kilometres (km) is divided by a time in hours (h) the result is in kilometres per hour (km/h) average speed does not describe the speed variations that may have taken place during shorter time intervals (as it is the entire distance covered divided by the total time of travel) and so average speed is often quite different from a value of instantaneous speed if the average speed and the time of travel are known the distance travelled can be calculated by rearranging the definition to
+using this equation for an average speed of 80 kilometres per hour on a 4-hour trip the distance covered is found to be 320 kilometres
+expressed in graphical language the slope of a tangent line at any point of a distance-time graph is the instantaneous speed at this point while the slope of a chord line of the same graph is the average speed during the time interval covered by the chord
+=== tangential speed ===
+linear speed is the distance travelled per unit of time while tangential speed (or tangential velocity) is the linear speed of something moving along a circular path a point on the outside edge of a merry-go-round or turntable travels a greater distance in one complete rotation than a point nearer the center travelling a greater distance in the same time means a greater speed and so linear speed is greater on the outer edge of a rotating object than it is closer to the axis this speed along a circular path is known as tangential speed because the direction of motion is tangent to the circumference of the circle for circular motion the terms linear speed and tangential speed are used interchangeably and both use units of m/s km/h and others
+rotational speed (or angular speed) involves the number of revolutions per unit of time all parts of a rigid merry-go-round or turntable turn about the axis of rotation in the same amount of time thus all parts share the same rate of rotation or the same number of rotations or revolutions per unit of time it is common to express rotational rates in revolutions per minute (rpm) or in terms of the number of radians turned in a unit of time there are little more than 6 radians in a full rotation (2 radians exactly) when a direction is assigned to rotational speed it is known as rotational velocity or angular velocity rotational velocity is a vector whose magnitude is the rotational speed
+tangential speed and rotational speed are related the greater the rpms the larger the speed in metres per second tangential speed is directly proportional to rotational speed at any fixed distance from the axis of rotation however tangential speed unlike rotational speed depends on radial distance (the distance from the axis) for a platform rotating with a fixed rotational speed the tangential speed in the centre is zero towards the edge of the platform the tangential speed increases proportional to the distance from the axis in equation form
+where v is tangential speed and (greek letter omega) is rotational speed one moves faster if the rate of rotation increases (a larger value for ) and one also moves faster if movement farther from the axis occurs (a larger value for r) move twice as far from the rotational axis at the centre and you move twice as fast move out three times as far and you have three times as much tangential speed in any kind of rotating system tangential speed depends on how far you are from the axis of rotation
+when proper units are used for tangential speed v rotational speed  and radial distance r the direct proportion of v to both r and becomes the exact equation
+thus tangential speed will be directly proportional to r when all parts of a system simultaneously have the same  as for a wheel disk or rigid wand
+== units ==
+units of speed include
+metres per second (symbol m s1 or m/s) the si derived unit
+kilometres per hour (symbol km/h)
+miles per hour (symbol mi/h or mph)
+knots (nautical miles per hour symbol kn or kt)
+feet per second (symbol fps or ft/s)
+mach number (dimensionless) speed divided by the speed of sound
+in natural units (dimensionless) speed divided by the speed of light in vacuum (symbol c = 7008299792458000000299792458 m/s)
+(values in bold face are exact.)
+== examples of different speeds ==
+vehicles often have a speedometer to measure the speed they are moving
+== see also ==
+== references ==
+richard p feynman robert b leighton matthew sands the feynman lectures on physics volume i section 8-2 addison-wesley reading massachusetts (1963) isbn 0-201-02116-1

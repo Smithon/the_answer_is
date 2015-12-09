@@ -1,0 +1,82 @@
+probabl measur likeli event occur probabl quantifi number indic imposs indic certainti higher probabl event certain event occur simpl exampl toss fair unbias coin sinc two outcom equal probabl probabl head equal probabl tail probabl chanc either head tail
+concept given axiomat mathemat formal probabl theori see probabl axiom use wide area studi mathemat statist financ gambl scienc particular physic artifici intelligencemachin learn comput scienc game theori philosophi exampl draw infer expect frequenc event probabl theori also use describ under mechan regular complex system
+interpretationsedit
+deal experi random welldefin pure theoret set like toss fair coin probabl numer describ number desir outcom divid total number outcom toss fair coin twice yield headhead probabl four outcom headhead headtail tailshead tailstail equal like occur come practic applic howev two major compet categori probabl interpret whose adher possess differ view fundament natur probabl
+objectivist assign number describ object physic state affair popular version object probabl frequentist probabl claim probabl random event denot relat frequenc occurr experi outcom repeat experi interpret consid probabl relat frequenc long run outcom modif propens probabl interpret probabl tendenc experi yield certain outcom even perform
+subjectivist assign number per subject probabl ie degre belief degre belief interpret price would buy sell bet pay unit util e e popular version subject probabl bayesian probabl includ expert knowledg well experiment data produc probabl expert knowledg repres subject prior probabl distribut data incorpor likelihood function product prior likelihood normal result posterior probabl distribut incorpor inform known date start arbitrari subject probabl group agent bayesian claim agent eventu suffici similar assess probabl given enough evid see cromwel rule
+etymologyedit
+word probabl deriv latin probabilita also mean probiti measur author wit legal case europ often correl witnesss nobil sens differ much modern mean probabl contrast measur weight empir evid arriv induct reason statist infer
+historyedit
+scientif studi probabl modern develop gambl show interest quantifi idea probabl millennia exact mathemat descript aros much later reason cours slow develop mathemat probabl wherea game chanc provid impetus mathemat studi probabl fundament issu still obscur superstit gambler
+accord richard jeffrey middl seventeenth centuri term probabl latin probabili meant approv appli sens univoc opinion action probabl action opinion one sensibl peopl would undertak hold circumst howev legal context especi probabl could also appli proposit good evid
+sixteenth centuri italian polymath gerolamo cardano demonstr efficaci defin odd ratio favour unfavour outcom impli probabl event given ratio favour outcom total number possibl outcom asid elementari work cardano doctrin probabl date correspond pierr de fermat blais pascal christiaan huygen gave earliest known scientif treatment subject jakob bernoulli ar conjectandi posthum abraham de moivr doctrin chanc treat subject branch mathemat see ian hack emerg probabl jame franklin scienc conjectur histori earli develop concept mathemat probabl
+theori error may trace back roger cotess opera miscellanea posthum memoir prepar thoma simpson print first appli theori discuss error observ reprint memoir lay axiom posit negat error equal probabl certain assign limit defin rang error simpson also discuss continu error describ probabl curv
+first two law error propos origin pierresimon laplac first law publish state frequenc error could express exponenti function numer magnitud error disregard sign second law error propos laplac state frequenc error exponenti function squar error second law error call normal distribut gauss law difficult histor attribut law gauss spite wellknown precoc probabl made discoveri two year old
+daniel bernoulli introduc principl maximum product probabl system concurr error
+adrienmari legendr develop method least squar introduc nouvell mthode pour la dtermin des orbit des comt new method determin orbit comet ignor legendr contribut irishamerican writer robert adrain editor analyst first deduc law facil error
+constant depend precis observ scale factor ensur area curv equal gave two proof second essenti john herschel gauss gave first proof seem known europ third adrain proof given laplac gauss jame ivori hagen friedrich bessel w f donkin morgan crofton contributor elli de morgan glaisher giovanni schiaparelli peterss formula r probabl error singl observ well known
+nineteenth centuri author general theori includ laplac sylvestr lacroix littrow adolph quetelet richard dedekind helmert hermann laurent liagr didion karl pearson augustus de morgan georg bool improv exposit theori
+andrey markov introduc notion markov chain play import role stochast process theori applic modern theori probabl base measur theori develop andrey kolmogorov
+geometr side see integr geometri contributor educ time influenti miller crofton mccoll wolstenholm watson artema martin
+theoryedit
+like theori theori probabl represent probabilist concept formal termsthat term consid separ mean formal term manipul rule mathemat logic result interpret translat back problem domain
+least two success attempt formal probabl name kolmogorov formul cox formul kolmogorov formul see probabl space set interpret event probabl measur class set cox theorem probabl taken primit analyz emphasi construct consist assign probabl valu proposit case law probabl except technic detail
+method quantifi uncertainti dempstershaf theori possibl theori essenti differ compat law probabl usual understood
+applicationsedit
+probabl theori appli everyday life risk assess trade financi market govern appli probabilist method environment regul call pathway analysi good exampl effect perceiv probabl widespread middl east conflict oil priceswhich rippl effect economi whole assess commod trader war like vs less like send price signal trader opinion accord probabl neither assess independ necessarili ration theori behavior financ emerg describ effect groupthink price polici peac conflict
+addit financi assess probabl use analyz trend biolog eg diseas spread well ecolog eg biolog punnett squar financ risk assess use statist tool calcul likelihood undesir event occur assist implement protocol avoid encount circumst
+discoveri rigor method assess combin probabl assess chang societi import citizen understand probabl assess made contribut decis
+anoth signific applic probabl theori everyday life reliabl mani consum product automobil consum electron use reliabl theori product design reduc probabl failur failur probabl may influenc manufactur decis product warranti
+cach languag model statist languag model use natur languag process also exampl applic probabl theori
+mathemat treatmentedit
+consid experi produc number result collect result call sampl space experi power set sampl space form consid differ collect possibl result exampl roll die produc six possibl result one collect possibl result give odd number dice thus subset element power set sampl space dice roll collect call event case event dice fall odd number result actual occur fall given event event said occur
+probabl way assign everi event valu zero one requir event made possibl result exampl event assign valu one qualifi probabl assign valu must satisfi requir look collect mutual exclus event event common result eg event mutual exclus probabl least one event occur given sum probabl individu event
+probabl event written mathemat definit probabl extend infinit sampl space even uncount sampl space use concept measur
+opposit complement event event event occur often denot probabl given pnot pa exampl chanc roll six sixsid die chanc roll six see complementari event complet treatment
+two event b occur singl perform experi call intersect joint probabl b denot
+independ eventsedit
+two event b independ joint probabl
+exampl two coin flip chanc head
+mutual exclus eventsedit
+either event event b occur singl perform experi call union event b denot two event mutual exclus probabl either occur
+exampl chanc roll sixsid die
+mutual exclus eventsedit
+event mutual exclus
+exampl draw singl card random regular deck card chanc get heart face card jqk one card deck heart face card possibl includ includ heart face card count
+condit probabilityedit
+condit probabl probabl event given occurr event b condit probabl written read probabl given b defin
+formal undefin express howev possibl defin condit probabl zeroprob event use algebra event aris continu random variabl
+exampl bag red ball blue ball ball total probabl take red ball howev take second ball probabl either red ball blue ball depend ball previous taken red ball taken probabl pick red ball would sinc red blue ball would remain
+invers probabilityedit
+probabl theori applic bay rule relat odd event event prior posterior condit anoth event odd event simpli ratio probabl two event arbitrarili mani event interest two rule rephras posterior proport prior time likelihood proport symbol mean left hand side proport ie equal constant time right hand side vari fix given lee bertsch mcgrayn form goe back laplac cournot see fienberg see invers probabl bay rule
+summari probabilitiesedit
+relat randomnessedit
+determinist univers base newtonian concept would probabl condit known laplac demon situat sensit initi condit exceed abil measur ie know case roulett wheel forc hand period forc known number ball stop would certainti though practic matter would like true roulett wheel exact level thoma bass newtonian casino reveal cours also assum knowledg inertia friction wheel weight smooth round ball variat hand speed turn forth probabilist descript thus use newtonian mechan analyz pattern outcom repeat roll roulett wheel physicist face situat kinet theori gase system determinist principl complex number molecul typic order magnitud avogadro constant statist descript properti feasibl
+probabl theori requir describ quantum phenomena revolutionari discoveri earli th centuri physic random charact physic process occur subatom scale govern law quantum mechan object wave function evolv determinist accord copenhagen interpret deal probabl observ outcom explain wave function collaps observ made howev loss determin sake instrument meet univers approv albert einstein famous remark letter max born convinc god play dice like einstein erwin schrdinger discov wave function believ quantum mechan statist approxim under determinist realiti modern interpret quantum decoher account subject probabilist behavior
+see alsoedit
+chanc disambigu
+class membership probabl
+equiprob
+heurist judgment decisionmak
+probabl theori
+statist
+estim
+estim theori
+notesedit
+bibliographyedit
+kallenberg o probabilist symmetri invari principl springer verlag new york pp isbn
+kallenberg o foundat modern probabl nd ed springer seri statist pp isbn
+olofsson peter probabl statist stochast process wileyintersci pp isbn
+extern linksedit
+virtual laboratori probabl statist univ alahuntsvill
+probabl time bbc inourtimeprob listen
+probabl statist ebook
+edwin thompson jayn probabl theori logic scienc preprint washington univers html index link postscript file pdf first three chapter
+peopl histori probabl statist univ southampton
+probabl statist earliest use page univ southampton
+earliest use symbol probabl statist earliest use various mathemat symbol
+tutori probabl bay theorem devis firstyear oxford univers student
+pdf file antholog chanc oper ubuweb
+introduct probabl ebook charl grinstead lauri snell sourc gnu free document licens
+english italian bruno de finetti probabilit e induzion bologna clueb isbn digit version
+richard p feynman lectur probabl

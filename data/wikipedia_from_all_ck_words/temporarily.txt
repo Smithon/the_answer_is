@@ -1,0 +1,60 @@
+in reliability theory and reliability engineering the term availability has the following meanings
+the degree to which a system subsystem or equipment is in a specified operable and committable state at the start of a mission when the mission is called for at an unknown i.e a random time simply put availability is the proportion of time a system is in a functioning condition this is often described as a mission capable rate mathematically this is expressed as 100% minus unavailability
+the ratio of (a) the total time a functional unit is capable of being used during a given interval to (b) the length of the interval
+for example a unit that is capable of being used 100 hours per week (168 hours) would have an availability of 100/168 however typical availability values are specified in decimal (such as 0.9998) in high availability applications a metric known as nines corresponding to the number of nines following the decimal point is used with this convention five nines equals 0.99999 (or 99.999%) availability
+== introductionedit ==
+availability of a system is typically measured as a factor of its reliability - as reliability increases so does availability
+availability of a system may also be increased by the strategy of focusing on increasing testability diagnostics and maintainability and not on reliability improving maintainability during the early design phase is generally easier than reliability (and testability & diagnostics) maintainability estimates (item repair [by replacement] rates) are also generally more accurate however because the uncertainties in the reliability estimates (and also in diagnostic times) are in most cases very large it is likely to dominate the availability (and the prediction uncertainty) problem even while maintainability levels are very high furthermore when reliability is not under control then many and different sorts of issues may arise for example
+the need for complex testability (built in test sensors hardware and software) requirements
+the need for detailed diagnostic procedures
+manpower (maintainers / customer service capability) availability
+spare part availability
+dead on arrival (doa's) issues (non-quality impact on system availability)
+logistic delays of spares or manpower due to any reason
+lack of repair facilities and tools - also for software (e.g situation dod f22 raptor fighter program)
+lack of repair knowledge and expert-personnel
+extensive retro-fit and complex configuration management costs and others
+the problem of unreliability may also become out of control due to the domino effect of maintenance induced failures after repairs and more and more increasing efforts of problem solving re-engineering en service efforts only focusing on maintainability is therefore not enough
+if failures are prevented none of the others are of any importance and therefore reliability is generally regarded as the most important part of availability
+reliability needs to be evaluated and improved related to both availability and the cost of ownership (due to cost of spare parts maintenance man-hours transport costs storage cost part obsolete risks etc.) often a trade-off is needed between the two there might be a maximum ratio between availability and cost of ownership testability of a system should also be addressed in the availability plan as this is the link between reliability and maintainability the maintenance strategy can influence the reliability of a system (e.g by preventive and/or predictive maintenance) although it can never bring it above the inherent reliability so maintainability and maintenance strategies influences the availability of a system in theory this can be almost unlimited if one would be able to always repair any fault in an infinitely short time this is in practice impossible repair-ability is always limited due to testability manpower and logistic considerations reliability is not limited (reliable items can be made that outlast the life of a machine with almost 100% certainty) for high levels of system availability (e.g the availability of engine trust in an aircraft) the use of redundacy may be the only option refer to reliability engineering
+an availability plan should clearly provide a strategy for availability control whether only availability or also cost of ownership is more important depends on the use of the system for example a system that is a critical link in a production system - e.g a big oil platform is normally allowed to have a very high cost of ownership if this translates to even a minor increase in availability as the unavailability of the platform results in a massive loss of revenue which can easily exceed the high cost of ownership a proper reliability plan should always address ramt analysis in its total context ramt stands in this case for reliability availability maintainability/maintenance and testability in context to the customer needs
+== representationedit ==
+the most simple representation for availability is as a ratio of the expected value of the uptime of a system to the aggregate of the expected values of up and down time or
+if we define the status function as
+therefore the availability a(t) at time t>0 is represented by
+average availability must be defined on an interval of the real line if we consider an arbitrary constant  then average availability is represented as
+limiting (or steady-state) availability is represented by
+limiting average availability is also defined on an interval as
+availability is the probability that an item will be in an operable and commitable state at the start of a mission when the mission is called for at a random time and is generally defined as uptime divided by total time (uptime plus downtime)
+=== definitions within systems engineeringedit ===
+availability inherent (ai) the probability that an item will operate satisfactorily at a given point in time when used under stated conditions in an ideal support environment it excludes logistics time waiting or administrative downtime and preventive maintenance downtime it includes corrective maintenance downtime inherent availability is generally derived from analysis of an engineering design and is calculated as the mean time to failure (mttf) divided by the mean time to failure plus the mean time to repair (mttr) it is based on quantities under control of the designer
+availability achieved (aa) the probability that an item will operate satisfactorily at a given point in time when used under stated conditions in an ideal support environment (i.e. that personnel tools spares etc are instantaneously available) it excludes logistics time and waiting or administrative downtime it includes active preventive and corrective maintenance downtime
+availability operational (ao) the probability that an item will operate satisfactorily at a given point in time when used in an actual or realistic operating and support environment it includes logistics time ready time and waiting or administrative downtime and both preventive and corrective maintenance downtime this value is equal to the mean time between failure (mtbf) divided by the mean time between failure plus the mean downtime (mdt) this measure extends the definition of availability to elements controlled by the logisticians and mission planners such as quantity and proximity of spares tools and manpower to the hardware item
+refer to systems engineering for more details
+=== exampleedit ===
+if we are using equipment which has a mean time to failure (mttf) of 81.5 years and mean time to repair (mttr) of 1 hour
+mttf in hours = 81.5*365*24=713940 (this is a reliability parameter and often has a high level of uncertainty!)
+inherent availability (ai) = mttf/(mttf+mttr) = 713940/713941 =99.999859%
+inherent unavailability = 0.000141%
+outage due to equipment in hours per year = 1/rate = 1/mttf = 0.01235 hours per year
+== literatureedit ==
+availability is well established in the literature of stochastic modeling and optimal maintenance barlow and proschan [1975] define availability of a repairable system as the probability that the system is operating at a specified time t. blanchard [1998] gives a qualitative definition of availability as a measure of the degree of a system which is in the operable and committable state at the start of mission when the mission is called for at an unknown random point in time. this definition comes from the mil-std-721 lie hwang and tillman [1977] developed a complete survey along with a systematic classification of availability
+availability measures are classified by either the time interval of interest or the mechanisms for the system downtime if the time interval of interest is the primary concern we consider instantaneous limiting average and limiting average availability the aforementioned definitions are developed in barlow and proschan [1975] lie hwang and tillman [1977] and nachlas [1998] the second primary classification for availability is contingent on the various mechanisms for downtime such as the inherent availability achieved availability and operational availability (blanchard [1998] lie hwang and tillman [1977]) mi [1998] gives some comparison results of availability considering inherent availability
+availability considered in maintenance modeling can be found in barlow and proschan [1975] for replacement models fawzi and hawkes [1991] for an r-out-of-n system with spares and repairs fawzi and hawkes [1990] for a series system with replacement and repair iyer [1992] for imperfect repair models murdock [1995] for age replacement preventive maintenance models nachlas [1998 1989] for preventive maintenance models and wang and pham [1996] for imperfect maintenance models
+== applicationsedit ==
+availability is used extensively in power plant engineering for example the north american electric reliability corporation implemented the generating availability data system in 1982
+== see alsoedit ==
+reliability engineering
+safety engineering
+list of system quality attributes
+spurious trip level
+condition-based maintenance
+fault reporting
+high availability
+rams
+== referencesedit ==
+this article incorporates public domain material from the general services administration document federal standard 1037c (in support of mil-std-188)
+== external linksedit ==
+reliability and availability basics
+system reliability and availability
+availability and the different ways to calculate it

@@ -1,0 +1,61 @@
+mathemat combin way select item collect unlik permut order select matter smaller case possibl count number combin exampl given three fruit say appl orang pear three combin two drawn set appl pear appl orang pear orang formal kcombin set subset k distinct element set n element number kcombin equal binomi coeffici
+written use factori whenev zero set kcombin set sometim denot
+combin refer combin n thing taken k time without repetit refer combin repetit allow term kselect kmultiset kcombin repetit often use exampl possibl two one kind fruit would select one two appl one two orang one two pear
+although set three fruit small enough write complet list combin larg set becom impract exampl poker hand describ combin k card card deck n card hand distinct order card hand matter combin chanc draw one hand random
+number kcombin
+number kcombin given set n element often denot elementari combinator text variat even latter form standard french romanian russian chines polish text number howev occur mani mathemat context denot often read n choos k notabl occur coeffici binomi formula henc name binomi coeffici one defin natur number k relat
+clear k n see coeffici count kcombin one first consid collect n distinct variabl xs label element expand product element
+n distinct term correspond subset subset give product correspond variabl xs set xs equal unlabel variabl x product becom xn term kcombin becom xk coeffici power result equal number kcombin
+binomi coeffici comput explicit various way get expans xn one use addit basic case alreadi given recurs relat
+follow xn xn x lead construct pascal triangl
+determin individu binomi coeffici practic use formula
+numer give number kpermut n ie sequenc k distinct element denomin give number kpermut give kcombin order ignor
+k exceed n formula contain factor common numer denomin cancel give relat
+express symmetri evid binomi formula also understood term kcombin take complement combin n kcombin
+final formula exhibit symmetri direct merit easi rememb
+n denot factori n obtain previous formula multipli denomin numer n k certain inferior method comput formula
+last formula understood direct consid n permut element permut give kcombin select first k element mani duplic select combin permut first k element among final n k element among produc combin explain divis formula
+formula follow relat adjac number pascal triangl three direct
+togeth basic case allow success comput respect number combin set row pascal triangl kcombin set grow size combin complement fix size n k
+exampl count combin
+specif exampl one comput number fivecard hand possibl standard fiftytwo card deck
+altern one may use formula term factori cancel factor numer part factor denomin multipl remain factor requir
+anoth altern comput equival first base write
+give
+evalu follow order comput use integ arithmet reason divis occur intermedi result produc binomi coeffici remaind ever occur
+use symmetr formula term factori without perform simplif give rather extens calcul
+enumer kcombin
+one enumer kcombin given set n element fix order establish biject interv integ set kcombin assum order instanc n two natur possibl order kcombin compar smallest element first illustr compar largest element first latter option advantag ad new largest element chang initi part enumer add new kcombin larger set previous one repeat process enumer extend indefinit kcombin ever larger set moreov interv integ taken start kcombin given place enumer comput easili biject obtain known combinatori number system also known rankrank unrank comput mathemat
+mani way enumer k combin one way visit binari number less choos number k nonzero bit although ineffici even small n eg n would requir visit one million number maximum number allow k combin thousand k posit bit number specif kcombin set n anoth simpl faster way track k index number element select start k zerobas k onebas first allow kcombin repeat move next allow kcombin increment first index number less index number follow minus one increment last index number long lower n zerobas n onebas
+number combin repetit
+kcombin repetit kmulticombin multisubset size k set given sequenc k necessarili distinct element order taken account two sequenc one obtain permut term defin multiset word number way sampl k element set n element allow duplic ie replac disregard differ order eg associ index element think element type object let denot number element type multisubset number multisubset size k number nonneg integ solut diophantin equat
+n element number kmultisubset denot
+notat analog binomi coeffici count ksubset express n multichoos k also given binomi coeffici
+relationship easili seen use represent known star bar solut diophantin equat repres star separ bar star anoth separ total number star represent k number bar n sinc separ need end thus string k n symbol star bar correspond solut k star string solut repres choos k k n posit place star fill remain posit bar exampl solut equat repres
+number string number way place star posit number multisubset set element
+binomi coeffici sever relationship multichoos express exampl
+ident follow interchang star bar represent
+exampl count multisubset
+exampl four type donut n menu choos want three donut k number way choos donut repetit calcul
+result verifi list multisubset set display follow tabl second column show nonneg integ solut equat last column give star bar represent solut
+number kcombin k
+number kcombin k number subset set n element sever way see number n term combin sum nth row count binomi coeffici pascal triangl combin subset enumer digit set base number count n digit posit item set n
+given card number distinct combin subset includ empti set
+repres subset order base number
+probabl sampl random combin
+various algorithm pick random combin given set list reject sampl extrem slow larg sampl size one way select kcombin effici popul size n iter across element popul step pick element dynam chang probabl see reservoir sampl
+see also
+note
+refer
+benjamin arthur quinn jennif j proof realli count art combinatori proof dolciani mathemat exposit mathemat associ america isbn
+brualdi richard introductori combinator th ed pearson prentic hall isbn
+erwin kreyszig advanc engin mathemat john wiley son inc
+mazur david r combinator guid tour mathemat associ america isbn
+ryser herbert john combinatori mathemat carus mathemat monograph mathemat associ america
+extern link
+topcod tutori combinator
+c code generat combin n element chosen k
+mani common type permut combin math problem detail solut
+unknown formula combin choic repeat order matter
+combin repetit akshatha ag smitha b
+dice roll given sum problem applic combin repetit roll multipl dice

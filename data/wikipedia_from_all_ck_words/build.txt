@@ -1,0 +1,85 @@
+in geometry a square is a regular quadrilateral which means that it has four equal sides and four equal angles (90-degree angles or right angles) it can also be defined as a rectangle in which two adjacent sides have equal length a square with vertices abcd would be denoted abcd
+the square is the n=2 case of the families of n-hypercubes and n-orthoplexes
+a square has schlfli symbol {4} a truncated square t{4} is an octagon {8} an alternated square h{4} is a digon {2}
+== characterizations ==
+a convex quadrilateral is a square if and only if it is any one of the following
+a rectangle with two adjacent equal sides
+a quadrilateral with four equal sides and four right angles
+a parallelogram with one right angle and two adjacent equal sides
+a rhombus with a right angle
+a rhombus with all angles equal
+a quadrilateral where the diagonals are equal and are the perpendicular bisectors of each other i.e a rhombus with equal diagonals
+== perimeter and area ==
+the perimeter of a square whose four sides have length is
+and the area a is
+in classical times the second power was described in terms of the area of a square as in the above formula this led to the use of the term square to mean raising to the second power
+the area can also be calculated using the diagonal d according to
+in terms of the circumradius r the area of a square is
+since the area of the circle is the square fills approximately 0.6366 of its circumscribed circle
+in terms of the inradius r the area of the square is
+a convex quadrilateral with successive sides a b c d is a square if and only if
+== properties ==
+a square is a special case of a rhombus (equal sides opposite equal angles) a kite (two pairs of adjacent equal sides) a parallelogram (opposite sides parallel) a quadrilateral or tetragon (four-sided polygon) and a rectangle (opposite sides equal right-angles) and therefore has all the properties of all these shapes namely
+the diagonals of a square bisect each other and meet at 90
+the diagonals of a square bisect its angles
+opposite sides of a square are both parallel and equal in length
+all four angles of a square are equal (each is 360/4 = 90 so every angle of a square is a right angle.)
+all four sides of a square are equal
+the diagonals of a square are equal
+== coordinates and equations ==
+the coordinates for the vertices of a square with vertical and horizontal sides centered at the origin and with side length 2 are (1 1) while the interior of this square consists of all points (xi yi) with 1 < xi < 1 and 1 < yi < 1 the equation
+specifies the boundary of this square this equation means x2 or y2 whichever is larger equals 1. the circumradius of this square (the radius of a circle drawn through the square's vertices) is half the square's diagonal and equals  then the circumcircle has the equation
+alternatively the equation
+can also be used to describe the boundary of a square with center coordinates (a b) and a horizontal or vertical radius of r
+== construction ==
+the animation at the right shows how to construct a square using a compass and straightedge this is possible as 4 = 22 a power of two
+== symmetry ==
+the square has dih4 symmetry order 8 there are 2 dihedral subgroups dih2 dih1 and 3 cyclic subgroups z4 z2 and z1
+these 6 symmetries express 8 distinct symmetries on a square john conway labels these by a letter and group order
+each subgroup symmetry allows one or more degrees of freedom for irregular quadrilaterals r8 is full symmetry of the square and a1 is no symmetry d4 is the symmetry of a rectangle and p4 is the symmetry of a rhombus these two forms are duals of each other and have half the symmetry order of the square d2 is the symmetry of an isosceles trapezoid and p2 is the symmetry of a kite g2 defines the geometry of a parallelogram
+only the g4 subgroup has no degrees of freedom but can seen as a square with directed edges
+== other facts ==
+the diagonals of a square are (about 1.414) times the length of a side of the square this value known as the square root of 2 or pythagoras constant was the first number proven to be irrational
+a square can also be defined as a parallelogram with equal diagonals that bisect the angles
+if a figure is both a rectangle (right angles) and a rhombus (equal edge lengths) then it is a square
+if a circle is circumscribed around a square the area of the circle is (about 1.5708) times the area of the square
+if a circle is inscribed in the square the area of the circle is (about 0.7854) times the area of the square
+a square has a larger area than any other quadrilateral with the same perimeter
+a square tiling is one of three regular tilings of the plane (the others are the equilateral triangle and the regular hexagon)
+the square is in two families of polytopes in two dimensions hypercube and the cross polytope the schlfli symbol for the square is {4}
+the square is a highly symmetric object there are four lines of reflectional symmetry and it has rotational symmetry of order 4 (through 90 180 and 270) its symmetry group is the dihedral group d4
+if the inscribed circle of a square abcd has tangency points e on ab f on bc g on cd and h on da then for any point p on the inscribed circle
+== squares inscribed in triangles ==
+every acute triangle has three inscribed squares (squares in its interior such that all four of a square's vertices lie on a side of the triangle so two of them lie on the same side and hence one side of the square coincides with part of a side of the triangle) in a right triangle two of the squares coincide and have a vertex at the triangle's right angle so a right triangle has only two distinct inscribed squares an obtuse triangle has only one inscribed square with a side coinciding with part of the triangle's longest side
+the fraction of the triangle's area that is filled by the square is no more than 1/2
+== squaring the circle ==
+squaring the circle is the problem proposed by ancient geometers of constructing a square with the same area as a given circle by using only a finite number of steps with compass and straightedge
+in 1882 the task was proven to be impossible as a consequence of the lindemannweierstrass theorem which proves that pi () is a transcendental number rather than an algebraic irrational number that is it is not the root of any polynomial with rational coefficients
+== non-euclidean geometry ==
+in non-euclidean geometry squares are more generally polygons with 4 equal sides and equal angles
+in spherical geometry a square is a polygon whose edges are great circle arcs of equal distance which meet at equal angles unlike the square of plane geometry the angles of such a square are larger than a right angle larger spherical squares have larger angles
+in hyperbolic geometry squares with right angles do not exist rather squares in hyperbolic geometry have angles of less than right angles larger hyperbolic squares have smaller angles
+examples
+== crossed square ==
+a crossed square is a faceting of the square a self-intersecting polygon created by removing two opposite edges of a square and reconnecting by its two diagonals it has half the symmetry of the square dih2 order 4 it has the same vertex arrangement as the square and is vertex-transitive it appears as two 45-45-90 triangle with a common vertex but the geometric intersection is not considered a vertex
+a crossed square is sometimes likened to a bow tie or butterfly the crossed rectangle is related as a faceting of the rectangle both special cases of crossed quadrilaterals
+the interior of a crossed square can have a polygon density of 1 in each triangle dependent upon the winding orientation as clockwise or counterclockwise
+a square and a crossed square have the following properties in common
+opposite sides are equal in length
+the two diagonals are equal in length
+it has two lines of reflectional symmetry and rotational symmetry of order 2 (through 180)
+it exists in the vertex figure of a uniform star polyhedra the tetrahemihexahedron
+== graphs ==
+the k4 complete graph is often drawn as a square with all 6 edges connected this graph also represents an orthographic projection of the 4 vertices and 6 edges of the regular 3-simplex (tetrahedron)
+== see also ==
+cube
+pythagorean theorem
+square lattice
+squircle
+unit square
+== references ==
+== external links ==
+animated course (construction circumference area)
+weisstein eric w. square mathworld
+definition and properties of a square with interactive applet
+animated applet illustrating the area of a square

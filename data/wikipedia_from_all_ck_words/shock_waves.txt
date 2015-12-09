@@ -1,0 +1,114 @@
+in physics a shock wave or shock is a type of propagating disturbance when a wave moves faster than the local speed of sound in a fluid it is a shock wave like an ordinary wave a shock wave carries energy and can propagate through a medium however it is characterized by an abrupt nearly discontinuous change in pressure temperature and density of the medium in supersonic flows expansion is achieved through an expansion fan
+unlike solitons (another kind of nonlinear wave) the energy of a shock wave dissipates relatively quickly with distance also the accompanying expansion wave approaches and eventually merges with the shock wave partially cancelling it out thus the sonic boom associated with the passage of a supersonic aircraft is the sound wave resulting from the degradation and merging of the shock wave and the expansion wave produced by the aircraft
+when a shock wave passes through matter energy is preserved but entropy increases this change in the matter's properties manifests itself as a decrease in the energy which can be extracted as work and as a drag force on supersonic objects shock waves are strongly irreversible processes
+== terminology ==
+shock waves can be
+normal at 90 (perpendicular) to the shock medium's flow direction
+oblique at an angle to the direction of flow
+bow occurs upstream of the front (bow) of a blunt object when the upstream flow velocity exceeds mach 1
+some other terms
+shock front an alternative name for the shock wave itself
+contact front in a shock wave caused by a driver gas (for example the impact of a high explosive on the surrounding air) the boundary between the driver (explosive products) and the driven (air) gases the contact front trails the shock front
+== in supersonic flows ==
+the abruptness of change in the features of the medium that characterize shock waves can be viewed as a phase transition the pressure-time diagram of a supersonic object propagating shows how the transition induced by a shock wave is analogous to a dynamic phase transition
+when an object (or disturbance) moves faster than the information about it can be propagated into the surrounding fluid fluid near the disturbance cannot react or get out of the way before the disturbance arrives in a shock wave the properties of the fluid (density pressure temperature flow velocity mach number) change almost instantaneously measurements of the thickness of shock waves in air have resulted in values around 200 nm (about 105 in) which is on the same order of magnitude as the mean free gas molecule path in reference to the continuum this implies the shock wave can be treated as either a line or a plane if the flow field is two-dimensional or three-dimensional respectively
+shock waves form when the speed of a fluid changes by more than the speed of sound at the region where this occurs sound waves travelling against the flow reach a point where they cannot travel any further upstream and the pressure progressively builds in that region a high pressure shock wave rapidly forms
+shock waves are not conventional sound waves a shock wave takes the form of a very sharp change in the gas properties shock waves in air are heard as a loud crack or snap noise over longer distances a shock wave can change from a nonlinear wave into a linear wave degenerating into a conventional sound wave as it heats the air and loses energy the sound wave is heard as the familiar thud or thump of a sonic boom commonly created by the supersonic flight of aircraft
+the shock wave is one of several different ways in which a gas in a supersonic flow can be compressed some other methods are isentropic compressions including prandtl-meyer compressions the method of compression of a gas results in different temperatures and densities for a given pressure ratio which can be analytically calculated for a non-reacting gas a shock wave compression results in a loss of total pressure meaning that it is a less efficient method of compressing gases for some purposes for instance in the intake of a scramjet the appearance of pressure-drag on supersonic aircraft is mostly due to the effect of shock compression on the flow
+== normal shocks ==
+in elementary fluid mechanics utilizing ideal gases a shock wave is treated as a discontinuity where entropy increases over a nearly infinitesimal region since no fluid flow is discontinuous a control volume is established around the shock wave with the control surfaces that bound this volume parallel to the shock wave (with one surface on the pre-shock side of the fluid medium and one on the post-shock side) the two surfaces are separated by a very small depth such that the shock itself is entirely contained between them at such control surfaces momentum mass flux and energy are constant within combustion detonations can be modelled as heat introduction across a shock wave it is assumed the system is adiabatic (no heat exits or enters the system) and no work is being done the rankinehugoniot conditions arise from these considerations
+taking into account the established assumptions in a system where the downstream properties are becoming subsonic the upstream and downstream flow properties of the fluid are considered isentropic since the total amount of energy within the system is constant the stagnation enthalpy remains constant over both regions though entropy is increasing this must be accounted for by a drop in stagnation pressure of the downstream fluid
+== other shocks ==
+=== oblique shocks ===
+when analyzing shock waves in a flow field which are still attached to the body the shock wave which is deviating at some arbitrary angle from the flow direction is termed oblique shock these shocks require a component vector analysis of the flow doing so allows for the treatment of the flow in an orthogonal direction to the oblique shock as a normal shock
+=== bow shocks ===
+when an oblique shock is likely to form at an angle which can not remain on the surface a nonlinear phenomenon arises where the shock wave will form a continuous pattern around the body these are termed bow shocks in these cases the 1d flow model is not valid and a complex analysis is needed to predict the pressure forces which are exerted on the surface
+== shock waves due to nonlinear steepening ==
+shock waves can form due to steepening of ordinary waves the best-known example of this phenomenon is ocean waves that form breakers on the shore in shallow water the speed of surface waves is dependent on the depth of the water an incoming ocean wave has a slightly higher wave speed near the crest of each wave than near the troughs between waves because the wave height is not infinitesimal compared to the depth of the water the crests overtake the troughs until the leading edge of the wave forms a vertical face and spills over to form a turbulent shock (a breaker) that dissipates the wave's energy as sound and heat
+similar phenomena affect strong sound waves in gas or plasma due to the dependence of the sound speed on temperature and pressure strong waves heat the medium near each pressure front due to adiabatic compression of the air itself so that high pressure fronts outrun the corresponding pressure troughs while shock formation by this process does not normally happen to sound waves in earth's atmosphere it is thought to be one mechanism by which the solar chromosphere and corona are heated via waves that propagate up from the solar interior
+== analogies ==
+a shock wave may be described as the furthest point upstream of a moving object which knows about the approach of the object in this description the shock wave position is defined as the boundary between the zone having no information about the shock-driving event and the zone aware of the shock-driving event analogous with the light cone described in the theory of special relativity
+to produce a shock wave an object in a given medium (such as air or water) must travel faster than the local speed of sound in the case of an aircraft travelling at high subsonic speed regions of air around the aircraft may be travelling at exactly the speed of sound so that the sound waves leaving the aircraft pile up on one another similar to a traffic jam on a motorway when a shock wave forms the local air pressure increases and then spreads out sideways because of this amplification effect a shock wave can be very intense more like an explosion when heard at a distance (not coincidentally since explosions create shock waves)
+analogous phenomena are known outside fluid mechanics for example particles accelerated beyond the speed of light in a refractive medium (where the speed of light is less than that in a vacuum such as water) create visible shock effects a phenomenon known as cherenkov radiation
+== phenomena types ==
+below are a number of examples of shock waves broadly grouped with similar shock phenomena
+=== moving shock ===
+usually consists of a shockwave propagating into a stationary medium
+in this case the gas ahead of the shock is stationary (in the laboratory frame) and the gas behind the shock can be supersonic in the laboratory frame the shock propagates with a wavefront which is normal (at right angles) to the direction of flow the speed of the shock is a function of the original pressure ratio between the two bodies of gas
+moving shocks are usually generated by the interaction of two bodies of gas at different pressure with a shock wave propagating into the lower pressure gas and an expansion wave propagating into the higher pressure gas
+examples balloon bursting shock tube shock wave from explosion
+=== detonation wave ===
+a detonation wave is essentially a shock supported by a trailing exothermic reaction it involves a wave travelling through a highly combustible or chemically unstable medium such as an oxygen-methane mixture or a high explosive the chemical reaction of the medium occurs following the shock wave and the chemical energy of the reaction drives the wave forward
+a detonation wave follows slightly different rules from an ordinary shock since it is driven by the chemical reaction occurring behind the shock wavefront in the simplest theory for detonations an unsupported self-propagating detonation wave proceeds at the chapman-jouguet flow velocity a detonation will also cause a shock of type 1 above to propagate into the surrounding air due to the overpressure induced by the explosion
+when a shockwave is created by high explosives such as tnt (which has a detonation velocity of 6,900 m/s) it will always travel at high supersonic velocity from its point of origin
+=== bow shock (detached shock) ===
+these shocks are curved and form a small distance in front of the body directly in front of the body they stand at 90 degrees to the oncoming flow and then curve around the body detached shocks allow the same type of analytic calculations as for the attached shock for the flow near the shock they are a topic of continuing interest because the rules governing the shock's distance ahead of the blunt body are complicated and are a function of the body's shape additionally the shock standoff distance varies drastically with the temperature for a non-ideal gas causing large differences in the heat transfer to the thermal protection system of the vehicle see the extended discussion on this topic at atmospheric reentry these follow the strong-shock solutions of the analytic equations meaning that for some oblique shocks very close to the deflection angle limit the downstream mach number is subsonic see also bow shock or oblique shock
+such a shock occurs when the maximum deflection angle is exceeded a detached shock is commonly seen on blunt bodies but may also be seen on sharp bodies at low mach numbers
+examples space return vehicles (apollo space shuttle) bullets the boundary (bow shock) of a magnetosphere the name bow shock comes from the example of a bow wave the detached shock formed at the bow (front) of a ship or boat moving through water whose slow surface wave speed is easily exceeded (see ocean surface wave)
+=== attached shock ===
+these shocks appear as attached to the tip of sharp bodies moving at supersonic speeds
+examples supersonic wedges and cones with small apex angles
+the attached shock wave is a classic structure in aerodynamics because for a perfect gas and inviscid flow field an analytic solution is available such that the pressure ratio temperature ratio angle of the wedge and the downstream mach number can all be calculated knowing the upstream mach number and the shock angle smaller shock angles are associated with higher upstream mach numbers and the special case where the shock wave is at 90 to the oncoming flow (normal shock) is associated with a mach number of one these follow the weak-shock solutions of the analytic equations
+=== in rapid granular flows ===
+shock waves can also occur in rapid flows of dense granular materials down inclined channels or slopes strong shocks in rapid dense granular flows can be studied theoretically and analyzed to compare with experimental data consider a configuration in which the rapidly moving material down the chute impinges on an obstruction wall erected perpendicular at the end of a long and steep channel impact leads to a sudden change in the flow regime from a fast moving supercritical thin layer to a stagnant thick heap this flow configuration is particularly interesting because it is analogous to some hydraulic and aerodynamic situations associated with flow regime changes from supercritical to subcritical flows
+=== in astrophysics ===
+astrophysical environments feature many different types of shock waves some common examples are supernovae shock waves or blast waves travelling through the interstellar medium the bow shock caused by the earth's magnetic field colliding with the solar wind and shock waves caused by galaxies colliding with each other another interesting type of shock in astrophysics is the quasi-steady reverse shock or termination shock that terminates the ultra relativistic wind from young pulsars
+==== meteor entering events ====
+the tunguska event and the 2013 russian meteor event are the best documented evidence of the shock wave produced by a massive meteoroid
+when the 2013 meteor entered into the earths atmosphere with an energy release equivalent to 100 or more kilotons of tnt dozens of times more powerful than the atomic bomb dropped on hiroshima the meteor's shock wave produced damages as in a supersonic jet's flyby (directly underneath the meteor's path) and as a detonation wave with the circular shock wave centred at the meteor explosion causing multiple instances of broken glass in the city of chelyabinsk and neighbouring areas (pictured)
+== technological applications ==
+in the examples below the shock wave is controlled produced by (ex airfoil) or in the interior of a technological device like a turbine
+=== recompression shock ===
+these shocks appear when the flow over a transonic body is decelerated to subsonic speeds
+examples transonic wings turbines
+where the flow over the suction side of a transonic wing is accelerated to a supersonic speed the resulting re-compression can be by either prandtl-meyer compression or by the formation of a normal shock this shock is of particular interest to makers of transonic devices because it can cause separation of the boundary layer at the point where it touches the transonic profile this can then lead to full separation and stall on the profile higher drag or shock-buffet a condition where the separation and the shock interact in a resonance condition causing resonating loads on the underlying structure
+=== pipe flow ===
+this shock appears when supersonic flow in a pipe is decelerated
+examples
+in supersonic propulsion -- ramjet scramjet unstart
+in flow control -- needle valve choked venturi
+in this case the gas ahead of the shock is supersonic (in the laboratory frame) and the gas behind the shock system is either supersonic (oblique shocks) or subsonic (a normal shock) (although for some oblique shocks very close to the deflection angle limit the downstream mach number is subsonic.) the shock is the result of the deceleration of the gas by a converging duct or by the growth of the boundary layer on the wall of a parallel duct
+=== combustion engines ===
+the wave disk engine (also named radial internal combustion wave rotor") is a kind of pistonless rotary engine that utilizes shock waves to transfer energy between a high-energy fluid to a low-energy fluid thereby increasing both temperature and pressure of the low-energy fluid
+== shock capturing and detection ==
+advanced techniques are needed to capture shock waves and to detect shock waves in both numerical computations and experimental observations
+computational fluid dynamics is commonly used to obtain the flow field with shock waves though shock waves are sharp discontinuities in numerical solutions of fluid flow with discontinuities (shock wave contact discontinuity or slip line) the shock wave can be smoothed out by low-order numerical method (due to numerical dissipation) or there are spurious oscillations near shock surface by high-order numerical method (due to gibbs phenomena)
+there exist some other discontinuities in fluid flow than the shock wave the slip surface (3d) or slip line (2d) is a plane across which the tangent velocity is discontinuous while pressure and normal velocity are continuous across the contact discontinuity the pressure and velocity are continuous and the density is discontinuous a strong expansion wave or shear layer may also contain high gradient regions which appear to be a discontinuity some common features of these flow structures and shock waves and the insufficient aspects of numerical and experimental tools lead to two important problems in practices (1) some shock waves can not be detected or their positions are detected wrong (2) some flow structures which are not shock waves are wrongly detected to be shock waves
+in fact correct capturing and detection of shock waves are important since shock waves have the following influences (1) causing loss of total pressure which may be a concern related to scramjet engine performance (2)providing lift for wave-rider configuration as the oblique shock wave at lower surface of the vehicle can produce high pressure to generate lift (3)leading to wave drag of high-speed vehicle which is harmful to vehicle performance (4)inducing severe pressure load and heat flux e.g the type iv shockshock interference could yield a 17 times heating increase at vehicle surface (5)interacting with other structures such as boundary layers to produce new flow structures such as flow separation transition etc
+== see also ==
+atmospheric focusing
+atmospheric reentry
+erenkov radiation
+explosion
+hydraulic jump
+joulethomson effect
+kerners breakdown minimization principle
+mach wave
+magnetopause
+moreton wave
+normal shock tables
+oblique shock
+prandtlmeyer expansion fan
+shocks and discontinuities (mhd)
+shock (mechanics)
+sonic boom
+three-phase traffic theory
+traffic congestion reconstruction with kerner's three-phase theory
+supercritical airfoil
+undercompressive shock wave
+unstart
+shock diamond
+== references ==
+== external links ==
+nasa glenn research center information on
+oblique shocks
+multiple crossed shocks
+expansion fans
+selkirk college aviation intranet high speed (supersonic) flight
+energy loss in a shock wave normal and oblique shock waves
+formation of a normal shock wave
+fundamentals of compressible flow 2007
+kb commercial finite-element educational software to simulate shocks and detonations
+nasa 2015 schlieren image shock wave t-38c
+== further reading ==
+krehl peter o k (2011) shock wave physics and detonation physics a stimulus for the emergence of numerous new branches in science and engineering european physical journal h 36 85 bibcode:2011epjh...36...85k doi:10.1140/epjh/e2011-10037-x

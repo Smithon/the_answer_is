@@ -1,0 +1,50 @@
+in mathematics a function f from a set x to a set y is surjective (or onto) or a surjection if every element y in y has a corresponding element x in x such that f(x) = y the function f may map more than one element of x to the same element of y
+the term surjective and the related terms injective and bijective were introduced by nicolas bourbaki the pseudonym for a group of mainly french 20th-century mathematicians who wrote a series of books presenting an exposition of modern advanced mathematics beginning in 1935 the french prefix sur means over or above and relates to the fact that the image of the domain of a surjective function completely covers the function's codomain
+== definitionedit ==
+a surjective function is a function whose image is equal to its codomain equivalently a function f with domain x and codomain y is surjective if for every y in y there exists at least one x in x with  surjections are sometimes denoted by a two-headed rightwards arrow (u+21a0 rightwards two headed arrow) as in f  x y
+symbolically
+if  then is said to be surjective if
+== examplesedit ==
+for any set x the identity function idx on x is surjective
+the function f  z {0,1} defined by f(n) = n mod 2 (that is even integers are mapped to 0 and odd integers to 1) is surjective
+the function f  r r defined by f(x) = 2x + 1 is surjective (and even bijective) because for every real number y we have an x such that f(x) = y an appropriate x is (y 1)/2
+the function f  r r defined by f(x) = x3 3x is surjective because the pre-image of any real number y is the solution set of the cubic polynomial equation x3 3x y = 0 and every cubic polynomial with real coefficients has at least one real root however this function is not injective (and hence not bijective) since e.g the pre-image of y = 2 is {x = 1 x = 2} (in fact the pre-image of this function for every y 2 y 2 has more than one element.)
+the function g  r r defined by g(x) = x2 is not surjective because there is no real number x such that x2 = 1 however the function g  r r0+ defined by g(x) = x2 (with restricted codomain) is surjective because for every y in the nonnegative real codomain y there is at least one x in the real domain x such that x2 = y
+the natural logarithm function ln  (0,+) r is a surjective and even bijective mapping from the set of positive real numbers to the set of all real numbers its inverse the exponential function is not surjective as its range is the set of positive real numbers and its domain is usually defined to be the set of all real numbers the matrix exponential is not surjective when seen as a map from the space of all nn matrices to itself it is however usually defined as a map from the space of all nn matrices to the general linear group of degree n i.e the group of all nn invertible matrices under this definition the matrix exponential is surjective for complex matrices although still not surjective for real matrices
+the projection from a cartesian product a b to one of its factors is surjective unless the other factor is empty
+in a 3d video game vectors are projected onto a 2d flat screen by means of a surjective function
+== propertiesedit ==
+a function is bijective if and only if it is both surjective and injective
+if (as is often done) a function is identified with its graph then surjectivity is not a property of the function itself but rather a relationship between the function and its codomain unlike injectivity surjectivity cannot be read off of the graph of the function alone
+=== surjections as right invertible functionsedit ===
+the function g  y x is said to be a right inverse of the function f  x y if f(g(y)) = y for every y in y (g can be undone by f) in other words g is a right inverse of f if the composition f o g of g and f in that order is the identity function on the domain y of g the function g need not be a complete inverse of f because the composition in the other order g o f may not be the identity function on the domain x of f in other words f can undo or reverse g but cannot necessarily be reversed by it
+every function with a right inverse is necessarily a surjection the proposition that every surjective function has a right inverse is equivalent to the axiom of choice
+if f  x y is surjective and b is a subset of y then f(f 1(b)) = b thus b can be recovered from its preimage f 1(b)
+for example in the first illustration there is some function g such that g(c) = 4 there is also some function f such that f(4) = c it doesn't matter that g(c) can also equal 3 it only matters that f reverses g
+=== surjections as epimorphismsedit ===
+a function f  x y is surjective if and only if it is right-cancellative given any functions g,h  y z whenever g o f = h o f then g = h this property is formulated in terms of functions and their composition and can be generalized to the more general notion of the morphisms of a category and their composition right-cancellative morphisms are called epimorphisms specifically surjective functions are precisely the epimorphisms in the category of sets the prefix epi is derived from the greek preposition meaning over above on
+any morphism with a right inverse is an epimorphism but the converse is not true in general a right inverse g of a morphism f is called a section of f a morphism with a right inverse is called a split epimorphism
+=== surjections as binary relationsedit ===
+any function with domain x and codomain y can be seen as a left-total and right-unique binary relation between x and y by identifying it with its function graph a surjective function with domain x and codomain y is then a binary relation between x and y that is right-unique and both left-total and right-total
+=== cardinality of the domain of a surjectionedit ===
+the cardinality of the domain of a surjective function is greater than or equal to the cardinality of its codomain if f  x y is a surjective function then x has at least as many elements as y in the sense of cardinal numbers (the proof appeals to the axiom of choice to show that a function g  y x satisfying f(g(y)) = y for all y in y exists g is easily seen to be injective thus the formal definition of |y| |x| is satisfied.)
+specifically if both x and y are finite with the same number of elements then f  x y is surjective if and only if f is injective
+=== composition and decompositionedit ===
+the composite of surjective functions is always surjective if f and g are both surjective and the codomain of g is equal to the domain of f then f o g is surjective conversely if f o g is surjective then f is surjective (but g the function applied first need not be) these properties generalize from surjections in the category of sets to any epimorphisms in any category
+any function can be decomposed into a surjection and an injection for any function h  x z there exist a surjection f  x y and an injection g  y z such that h = g o f to see this define y to be the sets h 1(z) where z is in z these sets are disjoint and partition x then f carries each x to the element of y which contains it and g carries each element of y to the point in z to which h sends its points then f is surjective since it is a projection map and g is injective by definition
+=== induced surjection and induced bijectionedit ===
+any function induces a surjection by restricting its codomain to its range any surjective function induces a bijection defined on a quotient of its domain by collapsing all arguments mapping to a given fixed image more precisely every surjection f  a b can be factored as a projection followed by a bijection as follows let a/~ be the equivalence classes of a under the following equivalence relation x ~ y if and only if f(x) = f(y) equivalently a/~ is the set of all preimages under f let p(~)  a a/~ be the projection map which sends each x in a to its equivalence class [x]~ and let fp  a/~ b be the well-defined function given by fp([x]~) = f(x) then f = fp o p(~)
+== see alsoedit ==
+bijection injection and surjection
+cover (algebra)
+covering map
+enumeration
+fiber bundle
+index set
+section (category theory)
+== notesedit ==
+^ injection surjection and bijection earliest uses of some of the words of mathematics tripod 
+^ arrows unicode (pdf) retrieved 2013-05-11
+^ goldblatt robert (2006) [1984] topoi the categorial analysis of logic (revised ed.) dover publications isbn 978-0-486-45026-1 retrieved 2009-11-25
+== referencesedit ==
+bourbaki nicolas (2004) [1968] theory of sets springer isbn 978-3-540-22525-6

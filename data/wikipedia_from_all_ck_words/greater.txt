@@ -1,0 +1,78 @@
+a unit of measurement is a definite magnitude of a physical quantity defined and adopted by convention or by law that is used as a standard for measurement of the same physical quantity any other value of the physical quantity can be expressed as a simple multiple of the unit of measurement
+for example length is a physical quantity the metre is a unit of length that represents a definite predetermined length when we say 10 metres (or 10 m) we actually mean 10 times the definite predetermined length called metre
+the definition agreement and practical use of units of measurement have played a crucial role in human endeavour from early ages up to this day different systems of units used to be very common now there is a global standard the international system of units (si) the modern form of the metric system
+in trade weights and measures is often a subject of governmental regulation to ensure fairness and transparency the international bureau of weights and measures (bipm) is tasked with ensuring worldwide uniformity of measurements and their traceability to the international system of units (si)
+metrology is the science for developing nationally and internationally accepted units of weights and measures
+in physics and metrology units are standards for measurement of physical quantities that need clear definitions to be useful reproducibility of experimental results is central to the scientific method a standard system of units facilitates this scientific systems of units are a refinement of the concept of weights and measures developed long ago for commercial purposes
+science medicine and engineering often use larger and smaller units of measurement than those used in everyday life and indicate them more precisely the judicious selection of the units of measurement can aid researchers in problem solving (see for example dimensional analysis)
+in the social sciences there are no standard units of measurement and the theory and practice of measurement is studied in psychometrics and the theory of conjoint measurement
+== historyedit ==
+a unit of measurement is a standardised quantity of a physical property used as a factor to express occurring quantities of that property units of measurement were among the earliest tools invented by humans primitive societies needed rudimentary measures for many tasks constructing dwellings of an appropriate size and shape fashioning clothing or bartering food or raw materials
+the earliest known uniform systems of weights and measures seem to have all been created sometime in the 4th and 3rd millennia bc among the ancient peoples of mesopotamia egypt and the indus valley and perhaps also elam in persia as well
+weights and measures are mentioned in the bible (leviticus 19:3536) it is a commandment to be honest and have fair measures
+in the magna carta of 1215 (the great charter) with the seal of king john put before him by the barons of england king john agreed in clause 35 there shall be one measure of wine throughout our whole realm and one measure of ale and one measure of cornnamely the london quart;and one width of dyed and russet and hauberk clothsnamely two ells below the selvage...
+== systems of unitsedit ==
+=== traditional systemsedit ===
+historically many of the systems of measurement which had been in use were to some extent based on the dimensions of the human body as a result units of measure could vary not only from location to location but from person to person
+=== metric systemsedit ===
+a number of metric systems of units have evolved since the adoption of the original metric system in france in 1791 the current international standard metric system is the international system of units an important feature of modern systems is standardization each unit has a universally recognized size
+both the imperial units and us customary units derive from earlier english units imperial units were mostly used in the british commonwealth and the former british empire us customary units are still the main system of measurement used in the united states despite congress having legally authorized metric measure on 28 july 1866 some steps towards us metrication have been made particularly the redefinition of basic us and imperial units to derive exactly from si units since the international yard and pound agreement of 1959 the us and imperial inch is now defined as exactly 69982540000000000000.0254 m and the us and imperial avoirdupois pound is now defined as exactly 6999453592370000000453.59237 g
+=== natural systemsedit ===
+while the above systems of units are based on arbitrary unit values formalised as standards some unit values occur naturally in science systems of units based on these are called natural units similar to natural units atomic units (au) are a convenient system of units of measurement used in atomic physics
+also a great number of unusual and non-standard units may be encountered these may include the solar mass (703020000000000000021030 kg) and the megaton (the energy released by detonating one million tons of trinitrotoluene tnt)
+=== legal control of weights and measuresedit ===
+to reduce the incidence of retail fraud many national statutes have standard definitions of weights and measures that may be used (hence statute measure") and these are verified by legal officers
+== base and derived unitsedit ==
+different systems of units are based on different choices of a set of base units the most widely used system of units is the international system of units or si there are seven si base units all other si units can be derived from these base units
+for most quantities a unit is absolutely necessary to communicate values of that physical quantity for example conveying to someone a particular length without using some sort of unit is impossible because a length cannot be described without a reference used to make sense of the value given
+but not all quantities require a unit of their own using physical laws units of quantities can be expressed as combinations of units of other quantities thus only a small set of units is required these units are taken as the base units other units are derived units derived units are a matter of convenience as they can be expressed in terms of basic units which units are considered base units is a matter of choice
+the base units of si are actually not the smallest set possible smaller sets have been defined for example there are unit sets in which the electric and magnetic field have the same unit this is based on physical laws that show that electric and magnetic field are actually different manifestations of the same phenomenon
+== calculations with units of measurementedit ==
+=== units as dimensionsedit ===
+any value of a physical quantity is expressed as a comparison to a unit of that quantity for example the value of a physical quantity z is expressed as the product of a unit [z] and a numerical factor
+for example 2 candlesticks z = 2 [candlestick]
+the multiplication sign is usually left out just as it is left out between variables in scientific notation of formulas the conventions used to express quantities is referred to as quantity calculus in formulas the unit [z] can be treated as if it were a specific magnitude of a kind of physical dimension see dimensional analysis for more on this treatment
+units can only be added or subtracted if they are the same type however units can always be multiplied or divided as george gamow used to explain
+2 candlesticks times 3 cabdrivers = 6 [candlestick][cabdriver]
+a distinction should be made between units and standards a unit is fixed by its definition and is independent of physical conditions such as temperature by contrast a standard is a physical realization of a unit and realizes that unit only under certain physical conditions for example the metre is a unit while a metal bar is a standard one metre is the same length regardless of temperature but a metal bar will be exactly one metre long only at a certain temperature
+there are certain rules that have to be used when dealing with units
+treat units algebraically only add like terms when a unit is divided by itself the division yields a unitless one when two different units are multiplied the result is a new unit referred to by the combination of the units for instance in si the unit of speed is metres per second (m/s) see dimensional analysis a unit can be multiplied by itself creating a unit with an exponent (e.g m2/s2) put simply units obey the laws of indices (see exponentiation.)
+some units have special names however these should be treated like their equivalents for example one newton (n) is equivalent to one kgm/s2 thus a quantity may have several unit designations for example the unit for surface tension can be referred to as either n/m (newtons per metre) or kg/s2 (kilograms per second squared) whether these designations are equivalent is disputed amongst metrologists
+=== expressing a physical value in terms of another unitedit ===
+conversion of units involves comparison of different standard physical values either of a single physical quantity or of a physical quantity and a combination of other physical quantities
+starting with
+just replace the original unit with its meaning in terms of the desired unit  e.g if  then
+now and are both numerical values so just calculate their product
+or which is just mathematically the same thing multiply z by unity the product is still z
+for example you have an expression for a physical value z involving the unit feet per second () and you want it in terms of the unit miles per hour ()
+or as an example using the metric system you have a value of fuel economy in the unit litres per 100 kilometres and you want it in terms of the unit microlitres per metre
+== real-world implicationsedit ==
+one example of the importance of agreed units is the failure of the nasa mars climate orbiter which was accidentally destroyed on a mission to mars in september 1999 instead of entering orbit due to miscommunications about the value of forces different computer programs used different units of measurement (newton versus pound force) considerable amounts of effort time and money were wasted
+on 15 april 1999 korean air cargo flight 6316chinese-{6316}- from shanghai to seoul was lost due to the crew confusing tower instructions (in metres) and altimeter readings (in feet) three crew and five people on the ground were killed thirty-seven were injured
+in 1983 a boeing 767 (which came to be known as the gimli glider) ran out of fuel in mid-flight because of two mistakes in figuring the fuel supply of air canada's first aircraft to use metric measurements this accident was the result of both confusion due to the simultaneous use of metric and imperial measures and confusion of mass and volume measures
+== see alsoedit ==
+list of humorous units of measurement
+list of unusual units of measurement
+gnu units
+unified code for units of measure
+united states customary units
+system of measurement
+unit of account
+== notesedit ==
+== external linksedit ==
+rowlett russ (2005) a dictionary of units of measurement russ rowlett and the university of north carolina at chapel hill
+nist handbook 44 specifications tolerances and other technical requirements for weighing and measuring devices
+official si website
+quantity system framework quantity system library and calculator for units conversions and quantities predictions
+=== historicaledit ===
+arithmetic conventions for conversion between roman [i.e ottoman] and egyptian measurement is a manuscript from 1642 in arabic which is about units of measurement
+=== legaledit ===
+ireland metrology act 1996
+text of the units of measurement regulations 1995 as in force today (including any amendments) within the united kingdom from the uk statute law database
+=== metric information and associationsedit ===
+bipm (official site)
+uk metric association
+us metric association
+the unified code for units of measure (ucum)
+=== imperial measure informationedit ===
+british weights and measures association

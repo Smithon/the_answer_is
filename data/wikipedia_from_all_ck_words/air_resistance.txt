@@ -1,0 +1,91 @@
+in fluid dynamics drag (sometimes called air resistance a type of friction or fluid resistance another type of friction or fluid friction) refers to forces acting opposite to the relative motion of any object moving with respect to a surrounding fluid this can exist between two fluid layers (or surfaces) or a fluid and a solid surface unlike other resistive forces such as dry friction which are nearly independent of velocity drag forces depend on velocity drag force is proportional to the velocity for a laminar flow and the squared velocity for a turbulent flow even though the ultimate cause of a drag is viscous friction the turbulent drag is independent of viscosity
+drag forces always decrease fluid velocity relative to the solid object in the fluid's path
+== examples of drag ==
+examples of drag include the component of the net aerodynamic or hydrodynamic force acting opposite to the direction of movement of the solid object relative to the earth as for cars aircraft and boat hulls or acting in the same geographical direction of motion as the solid as for sails attached to a down wind sail boat or in intermediate directions on a sail depending on points of sail in the case of viscous drag of fluid in a pipe drag force on the immobile pipe decreases fluid velocity relative to the pipe
+== types of drag ==
+types of drag are generally divided into the following categories
+parasitic drag consisting of
+form drag
+skin friction
+interference drag
+lift-induced drag and
+wave drag (aerodynamics) or wave resistance (ship hydrodynamics)
+the phrase parasitic drag is mainly used in aerodynamics since for lifting wings drag is in general small compared to lift for flow around bluff bodies drag is most often dominating and then the qualifier parasitic is meaningless form drag skin friction and interference drag on bluff bodies are not coined as being elements of parasitic drag but directly as elements of drag
+further lift-induced drag is only relevant when wings or a lifting body are present and is therefore usually discussed either in the aviation perspective of drag or in the design of either semi-planing or planing hulls wave drag occurs when a solid object is moving through a fluid at or near the speed of sound in that fluidor in case there is a freely-moving fluid surface with surface waves radiating from the object e.g from a ship
+drag depends on the properties of the fluid and on the size shape and speed of the object one way to express this is by means of the drag equation
+where
+is the drag force
+is the density of the fluid
+is the speed of the object relative to the fluid
+is the cross sectional area and
+is the drag coefficient a dimensionless number
+the drag coefficient depends on the shape of the object and on the reynolds number
+where is some characteristic diameter or linear dimension and is the kinematic viscosity of the fluid (equal to the viscosity divided by the density) at low reynolds number the drag coefficient is asymptotically proportional to the inverse of the reynolds number which means that the drag is proportional to the speed at high reynolds number the drag coefficient is more or less constant the graph to the right shows how the drag coefficient varies with reynolds number for the case of a sphere
+for high velocities (or more precisely at high reynolds number) drag will vary as the square of velocity thus the resultant power needed to overcome this drag will vary as the cube of velocity the standard equation for drag is one half the coefficient of drag multiplied by the fluid mass density the cross sectional area of the specified item and the square of the velocity
+wind resistance is a layman's term for drag its use is often vague and is usually used in a relative sense (e.g a badminton shuttlecock has more wind resistance than a squash ball)
+== drag at high velocity ==
+as mentioned the drag equation with a constant drag coefficient gives the force experienced by an object moving through a fluid at relatively large velocity (i.e high reynolds number re > ~1000) this is also called quadratic drag the equation is attributed to lord rayleigh who originally used l2 in place of a (l being some length)
+see derivation
+the reference area a is often orthographic projection of the objecton a plane perpendicular to the direction of motione.g for objects with a simple shape such as a sphere this is the cross sectional area sometimes different reference areas are given for the same object in which case a drag coefficient corresponding to each of these different areas must be given
+in case of a wing comparison of the drag to the lift force is easiest when the reference areas are the same since then the ratio of drag to lift force is just the ratio of drag to lift coefficient therefore the reference for a wing is often the lifting area ("wing area") rather than the frontal area
+for an object with a smooth surface and non-fixed separation pointslike a sphere or circular cylinderthe drag coefficient may vary with reynolds number re even up to very high values (re of the order 107) for an object with well-defined fixed separation points like a circular disk with its plane normal to the flow direction the drag coefficient is constant for re > 3,500 further the drag coefficient cd is in general a function of the orientation of the flow with respect to the object (apart from symmetrical objects like a sphere)
+=== power ===
+the power required to overcome the aerodynamic drag is given by
+note that the power needed to push an object through a fluid increases as the cube of the velocity a car cruising on a highway at 50 mph (80 km/h) may require only 10 horsepower (7.5 kw) to overcome air drag but that same car at 100 mph (160 km/h) requires 80 hp (60 kw) with a doubling of speed the drag (force) quadruples per the formula exerting four times the force over a fixed distance produces four times as much work at twice the speed the work (resulting in displacement over a fixed distance) is done twice as fast since power is the rate of doing work four times the work done in half the time requires eight times the power
+=== velocity of a falling object ===
+the velocity as a function of time for an object falling through a non-dense medium and released at zero relative-velocity v = 0 at time t = 0 is roughly given by a function involving a hyperbolic tangent (tanh)
+the hyperbolic tangent has a limit value of one for large time t in other words velocity asymptotically approaches a maximum value called the terminal velocity vt
+for a potato-shaped object of average diameter d and of density obj terminal velocity is about
+for objects of water-like density (raindrops hail live objectsmammals birds insects etc.) falling in air near the surface of the earth at sea level terminal velocity is roughly equal to
+with d in metre and vt in m/s for example for a human body ( ~ 0.6 m) ~ 70 m/s for a small animal like a cat ( ~ 0.2 m) ~ 40 m/s for a small bird ( ~ 0.05 m) ~ 20 m/s for an insect ( ~ 0.01 m) ~ 9 m/s and so on terminal velocity for very small objects (pollen etc.) at low reynolds numbers is determined by stokes law
+terminal velocity is higher for larger creatures and thus potentially more deadly a creature such as a mouse falling at its terminal velocity is much more likely to survive impact with the ground than a human falling at its terminal velocity a small animal such as a cricket impacting at its terminal velocity will probably be unharmed this combined with the relative ratio of limb cross-sectional area vs body mass (commonly referred to as the square-cube law) explains why very small animals can fall from a large height and not be harmed
+== very low reynolds numbers stokes drag ==
+the equation for viscous resistance or linear drag is appropriate for objects or particles moving through a fluid at relatively slow speeds where there is no turbulence (i.e low reynolds number ) note that purely laminar flow only exists up to re = 0.1 under this definition in this case the force of drag is approximately proportional to velocity but opposite in direction the equation for viscous resistance is
+where
+is a constant that depends on the properties of the fluid and the dimensions of the object and
+is the velocity of the object
+when an object falls from rest its velocity will be
+which asymptotically approaches the terminal velocity  for a given  heavier objects fall more quickly
+for the special case of small spherical objects moving slowly through a viscous fluid (and thus at small reynolds number) george gabriel stokes derived an expression for the drag constant
+where
+is the stokes radius of the particle and is the fluid viscosity
+the resulting expression for the drag is known as stokes drag
+for example consider a small sphere with radius = 0.5 micrometre (diameter = 1.0 m) moving through water at a velocity of 10 m/s using 103 pas as the dynamic viscosity of water in si units we find a drag force of 0.09 pn this is about the drag force that a bacterium experiences as it swims through water
+== drag in aerodynamics ==
+=== lift-induced drag ===
+lift-induced drag (also called induced drag) is drag which occurs as the result of the creation of lift on a three-dimensional lifting body such as the wing or fuselage of an airplane induced drag consists of two primary components including drag due to the creation of vortices (vortex drag) and the presence of additional viscous drag (lift-induced viscous drag) the vortices in the flow-field present in the wake of a lifting body derive from the turbulent mixing of air of varying pressure on the upper and lower surfaces of the body which is a necessary condition for the creation of lift
+with other parameters remaining the same as the lift generated by a body increases so does the lift-induced drag for an aircraft in flight this means that as the angle of attack and therefore the lift coefficient increases to the point of stall so does the lift-induced drag at the onset of stall lift is abruptly decreased as is lift-induced drag but viscous pressure drag a component of parasite drag increases due to the formation of turbulent unattached flow on the surface of the body
+=== parasitic drag ===
+parasitic drag (also called parasite drag) is drag caused by moving a solid object through a fluid parasitic drag is made up of multiple components including viscous pressure drag (form drag) and drag due to surface roughness (skin friction drag) additionally the presence of multiple bodies in relative proximity may incur so called interference drag which is sometimes described as a component of parasitic drag
+in aviation induced drag tends to be greater at lower speeds because a high angle of attack is required to maintain lift creating more drag however as speed increases the induced drag becomes much less but parasitic drag increases because the fluid is flowing more quickly around protruding objects increasing friction or drag at even higher speeds in the transonic wave drag enters the picture each of these forms of drag changes in proportion to the others based on speed the combined overall drag curve therefore shows a minimum at some airspeed - an aircraft flying at this speed will be at or close to its optimal efficiency pilots will use this speed to maximize endurance (minimum fuel consumption) or maximize gliding range in the event of an engine failure
+=== power curve in aviation ===
+the interaction of parasitic and induced drag vs airspeed can be plotted as a characteristic curve illustrated here in aviation this is often referred to as the power curve and is important to pilots because it shows that below a certain airspeed maintaining airspeed counterintuitively requires more thrust as speed decreases rather than less the consequences of being behind the curve in flight are important and are taught as part of pilot training at the subsonic airspeeds where the u shape of this curve is significant wave drag has not yet become a factor and so it is not shown in the curve
+=== wave drag in transonic and supersonic flow ===
+wave drag (also called compressibility drag) is drag which is created by the presence of a body moving at high speed through a compressible fluid in aerodynamics wave drag consists of multiple components depending on the speed regime of the flight
+in transonic flight (mach numbers greater than about 0.8 and less than about 1.4) wave drag is the result of the formation of shockwaves on the body formed when areas of local supersonic (mach number greater than 1.0) flow are created in practice supersonic flow occurs on bodies traveling well below the speed of sound as the local speed of air on a body increases when it accelerates over the body in this case above mach 1.0 however full supersonic flow over the vehicle will not develop until well past mach 1.0 aircraft flying at transonic speed often incur wave drag through the normal course of operation in transonic flight wave drag is commonly referred to as transonic compressibility drag transonic compressibility drag increases significantly as the speed of flight increases towards mach 1.0 dominating other forms of drag at these speeds
+in supersonic flight (mach numbers greater than 1.0) wave drag is the result of shockwaves present on the body typically oblique shockwaves formed at the leading and trailing edges of the body in highly supersonic flows or in bodies with turning angles sufficiently large unattached shockwaves or bow waves will instead form additionally local areas of transonic flow behind the initial shockwave may occur at lower supersonic speeds and can lead to the development of additional smaller shockwaves present on the surfaces of other lifting bodies similar to those found in transonic flows in supersonic flow regimes wave drag is commonly separated into two components supersonic lift-dependent wave drag and supersonic volume-dependent wave drag
+the closed form solution for the minimum wave drag of a body of revolution with a fixed length was found by sears and haack and is known as the sears-haack distribution similarly for a fixed volume the shape for minimum wave drag is the von karman ogive
+busemann's biplane is not in principle subject to wave drag at all when operated at its design speed but is incapable of generating lift
+== d'alembert's paradox ==
+in 1752 d'alembert proved that potential flow the 18th century state-of-the-art inviscid flow theory amenable to mathematical solutions resulted in the prediction of zero drag this was in contradiction with experimental evidence and became known as d'alembert's paradox in the 19th century the navierstokes equations for the description of viscous flow were developed by saint-venant navier and stokes stokes derived the drag around a sphere at very low reynolds numbers the result of which is called stokes law
+in the limit of high-reynolds numbers the navierstokes equations approach the inviscid euler equations of which the potential-flow solutions considered by d'alembert are solutions however at high reynolds numbers all experiments showed there is drag attempts to construct inviscid steady flow solutions to the euler equations other than the potential flow solutions did not result in realistic results
+the notion of boundary layersintroduced by prandtl in 1904 founded on both theory and experimentsexplained the causes of drag at high reynolds numbers the boundary layer is the thin layer of fluid close to the object's boundary where viscous effects remain important when the viscosity becomes very small (or equivalently the reynolds number becomes very large)
+== drag in space ==
+due to the lack of air in space drag usually does not occur since air resistance is non-existent
+however gravity from nearby planets and planetoids may pull an object which is going in one direction simulating drag
+== see also ==
+== references ==
+== bibliography ==
+french a p (1970) newtonian mechanics (the m.i.t introductory physics series) (1st ed.) w w norton & company inc. new york isbn 978-0-393-09958-4
+g falkovich (2011) fluid mechanics (a short course for physicists) cambridge university press isbn 978-1-107-00575-4
+serway raymond a. jewett john w (2004) physics for scientists and engineers (6th ed.) brooks/cole isbn 978-0-534-40842-8
+tipler paul (2004) physics for scientists and engineers mechanics oscillations and waves thermodynamics (5th ed.) w h freeman isbn 978-0-7167-0809-4
+huntley h e (1967) dimensional analysis dover loc 67-17978
+batchelor george (2000) an introduction to fluid dynamics cambridge mathematical library (2nd ed.) cambridge university press isbn 978-0-521-66396-0 mr 1744638
+clancy l.j (1975) aerodynamics pitman publishing limited london isbn 978-0-273-01120-0
+== external links ==
+educational materials on air resistance
+aerodynamic drag and its effect on the acceleration and top speed of a vehicle
+vehicle aerodynamic drag calculator based on drag coefficient frontal area and speed
+smithsonian national air and space museum's how things fly website
+effect of dimples on a golf ball and a car

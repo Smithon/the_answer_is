@@ -1,0 +1,102 @@
+inference is the act or process of deriving logical conclusions from premises known or assumed to be true the conclusion drawn is also called an idiomatic the laws of valid inference are studied in the field of logic
+alternatively inference may be defined as the non-logical but rational means through observation of patterns of facts to indirectly see new meanings and contexts for understanding of particular use to this application of inference are anomalies and symbols inference in this sense does not draw conclusions but opens new paths for inquiry (see second set of examples.) in this definition of inference there are two types of inference inductive inference and deductive inference unlike the definition of inference in the first paragraph above meaning of word meanings are not tested but meaningful relationships are articulated
+human inference (i.e how humans draw conclusions) is traditionally studied within the field of cognitive psychology artificial intelligence researchers develop automated inference systems to emulate human inference
+statistical inference uses mathematics to draw conclusions in the presence of uncertainty this generalizes deterministic reasoning with the absence of uncertainty as a special case statistical inference uses quantitative or qualitative (categorical) data which may be subject to random variation
+== examples ==
+greek philosophers defined a number of syllogisms correct three part inferences that can be used as building blocks for more complex reasoning we begin with a famous example
+all men are mortal
+socrates is a man
+therefore socrates is mortal
+the reader can check that the premises and conclusion are true but logic is concerned with inference does the truth of the conclusion follow from that of the premises
+the validity of an inference depends on the form of the inference that is the word valid does not refer to the truth of the premises or the conclusion but rather to the form of the inference an inference can be valid even if the parts are false and can be invalid even if some parts are true but a valid form with true premises will always have a true conclusion
+for example consider the form of the following symbological track
+all meat comes from animals
+beef is a type of meat
+therefore beef comes from an animal
+if the premises are true then the conclusion is necessarily true too
+now we turn to an invalid form
+all a are b
+c is a b
+therefore c is an a
+to show that this form is invalid we demonstrate how it can lead from true premises to a false conclusion
+all apples are fruit (correct)
+bananas are fruit (correct)
+therefore bananas are apples (wrong)
+a valid argument with false premises may lead to a false conclusion
+all tall people are greek
+john lennon was tall
+therefore john lennon was greek (wrong)
+when a valid argument is used to derive a false conclusion from false premises the inference is valid because it follows the form of a correct inference
+a valid argument can also be used to derive a true conclusion from false premises
+all tall people are musicians (although wrong)
+john lennon was tall (right valid)
+therefore john lennon was a musician (right)
+in this case we have two false premises that imply a true conclusion
+=== example for definition #2 ===
+evidence it is the early 1950s and you are an american stationed in the soviet union you read in the moscow newspaper that a soccer team from a small city in siberia starts winning game after game the team even defeats the moscow team inference the small city in siberia is not a small city anymore the soviets are working on their own nuclear or high-value secret weapons program
+knowns the soviet union is a command economy people and material are told where to go and what to do the small city was remote and historically had never distinguished itself its soccer season was typically short because of the weather
+explanation in a command economy people and material are moved where they are needed large cities might field good teams due to the greater availability of high quality players and teams that can practice longer (weather facilities) can reasonably be expected to be better in addition you put your best and brightest in places where they can do the most goodsuch as on high-value weapons programs it is an anomaly for a small city to field such a good team the anomaly (i.e the soccer scores and great soccer team) indirectly described a condition by which the observer inferred a new meaningful patternthat the small city was no longer small why would you put a large city of your best and brightest in the middle of nowhere to hide them of course
+== incorrect inference ==
+an incorrect inference is known as a fallacy philosophers who study informal logic have compiled large lists of them and cognitive psychologists have documented many biases in human reasoning that favor incorrect reasoning
+== automatic logical inference ==
+ai systems first provided automated logical inference and these were once extremely popular research topics leading to industrial applications under the form of expert systems and later business rule engines more recent work on automated theorem proving has had a stronger basis in formal logic
+an inference system's job is to extend a knowledge base automatically the knowledge base (kb) is a set of propositions that represent what the system knows about the world several techniques can be used by that system to extend kb by means of valid inferences an additional requirement is that the conclusions the system arrives at are relevant to its task
+=== example using prolog ===
+prolog (for programming in logic") is a programming language based on a subset of predicate calculus its main job is to check whether a certain proposition can be inferred from a kb (knowledge base) using an algorithm called backward chaining
+let us return to our socrates syllogism we enter into our knowledge base the following piece of code
+mortal(x) - man(x)
+man(socrates)
+( here - can be read as if generally if p q (if p then q) then in prolog we would code q:-p (q if p).)
+this states that all men are mortal and that socrates is a man now we can ask the prolog system about socrates
+- mortal(socrates)
+(where - signifies a query can mortal(socrates) be deduced from the kb using the rules) gives the answer yes
+on the other hand asking the prolog system the following
+- mortal(plato)
+gives the answer no
+this is because prolog does not know anything about plato and hence defaults to any property about plato being false (the so-called closed world assumption) finally - mortal(x) (is anything mortal) would result in yes (and in some implementations yes x=socrates)prolog can be used for vastly more complicated inference tasks see the corresponding article for further examples
+=== use with the semantic web ===
+recently automatic reasoners found in semantic web a new field of application being based upon description logic knowledge expressed using one variant of owl can be logically processed i.e. inferences can be made upon it
+=== bayesian statistics and probability logic ===
+philosophers and scientists who follow the bayesian framework for inference use the mathematical rules of probability to find this best explanation the bayesian view has a number of desirable featuresone of them is that it embeds deductive (certain) logic as a subset (this prompts some writers to call bayesian probability probability logic following e t jaynes)
+bayesians identify probabilities with degrees of beliefs with certainly true propositions having probability 1 and certainly false propositions having probability 0 to say that it's going to rain tomorrow has a 0.9 probability is to say that you consider the possibility of rain tomorrow as extremely likely
+through the rules of probability the probability of a conclusion and of alternatives can be calculated the best explanation is most often identified with the most probable (see bayesian decision theory) a central rule of bayesian inference is bayes theorem
+see bayesian inference for examples
+=== nonmonotonic logic ===
+a relation of inference is monotonic if the addition of premises does not undermine previously reached conclusions otherwise the relation is nonmonotonic deductive inference is monotonic if a conclusion is reached on the basis of a certain set of premises then that conclusion still holds if more premises are added
+by contrast everyday reasoning is mostly nonmonotonic because it involves risk we jump to conclusions from deductively insufficient premises we know when it is worth or even necessary (e.g in medical diagnosis) to take the risk yet we are also aware that such inference is defeasiblethat new information may undermine old conclusions various kinds of defeasible but remarkably successful inference have traditionally captured the attention of philosophers (theories of induction peirce's theory of abduction inference to the best explanation etc.) more recently logicians have begun to approach the phenomenon from a formal point of view the result is a large body of theories at the interface of philosophy logic and artificial intelligence
+== see also ==
+== references ==
+== further reading ==
+inductive inference
+carnap rudolf jeffrey richard c. eds (1971) studies in inductive logic and probability 1 the university of california press
+jeffrey richard c. ed (1979) studies in inductive logic and probability 2 the university of california press
+angluin dana (1976) an application of the theory of computational complexity to the study of inductive inference (ph.d.) university of california at berkeley
+angluin dana (1980) inductive inference of formal languages from positive data (pdf) information and control 45 117135 doi:10.1016/s0019-9958(80)90285-5
+angluin dana smith carl h (sep 1983) inductive inference theory and methods (pdf) computing surveys 15 (3) 237269 doi:10.1145/356914.356918
+gabbay dov m. hartmann stephan woods john eds (2009) inductive logic handbook of the history of logic 10 elsevier
+goodman nelson (1973) fact fiction and forecast bobbs-merrill co inc
+abductive inference
+o'rourke p. josephson j. eds (1997) automated abduction inference to the best explanation aaai press
+psillos stathis (2009) gabbay dov m. hartmann stephan woods john eds an explorer upon untrodden ground peirce on abduction (pdf) handbook of the history of logic 10 elsevier pp 117152
+ray oliver (dec 2005) hybrid abductive inductive learning (ph.d.) university of london imperial college citeseerx 10.1.1.66.1877
+psychological investigations about human reasoning
+deductive
+johnson-laird philip nicholas byrne ruth m j (1992) deduction erlbaum
+byrne ruth m j. johnson-laird p n (2009) if and the problems of conditional reasoning (pdf) trends in cognitive science 13 (7) 282287 doi:10.1016/j.tics.2009.04.003
+knauff markus fangmeier thomas ruff christian c. johnson-laird p n (2003) reasoning models and images behavioral measures and cortical activity (pdf) journal of cognitive neuroscience 15 (4) 559573 doi:10.1162/089892903321662949
+johnson-laird philip n (1995) gazzaniga m s. ed mental models deductive reasoning and the brain (pdf) mit press pp 9991008
+khemlani sangeet johnson-laird p n (2008) illusory inferences about embedded disjunctions proceedings of the 30th annual conference of the cognitive science society washington/dc (pdf) pp 21282133
+statistical
+mccloy rachel byrne ruth m j. johnson-laird philip n (2009) understanding cumulative risk (pdf) the quarterly journal of experimental psychology 18
+johnson-laird philip n (1994) mental models and probabilistic thinking (pdf) cognition 50 189209 doi:10.1016/0010-0277(94)90028-0 
+analogical
+burns b d (1996) meta-analogical transfer transfer between episodes of analogical reasoning journal of experimental psychology learning memory and cognition 22 (4) 10321048 doi:10.1037/0278-7393.22.4.1032
+spatial
+jahn georg knauff markus johnson-laird p n (2007) preferred mental models in reasoning about spatial relations (pdf) memory & cognition 35 (8) 20752087 doi:10.3758/bf03192939
+knauff markus johnson-laird p n (2002) visual imagery can impede reasoning (pdf) memory & cognition 30 (3) 363371 doi:10.3758/bf03194937
+waltz james a. knowlton barbara j. holyoak keith j. boone kyle b. mishkin fred s. de menezes santos marcia thomas carmen r. miller bruce l (mar 1999) a system for relational reasoning in human prefrontal cortex (pdf) psychological science 10 (2) 119125 doi:10.1111/1467-9280.00118
+moral
+bucciarelli monica khemlani sangeet johnson-laird p n (feb 2008) the psychology of moral reasoning (pdf) judgment and decision making 3 (2) 121139
+== external links ==
+inference at philpapers
+inference at the indiana philosophy ontology project

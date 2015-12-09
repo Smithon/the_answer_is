@@ -1,0 +1,39 @@
+the coefficient of relationship is a measure of the degree of consanguinity (or biological relationship) between two individuals a coefficient of inbreeding can be calculated for an individual as a measure for the amount of pedigree collapse within that individual's genealogy the term coefficient of relationship was defined by sewall wright in 1922 and was derived from his definition of the coefficient of inbreeding of 1921 the measure is most commonly used in genetics and genealogy
+in general the higher the level of inbreeding the closer the coefficient of relationship approaches a value of 1 expressed as a percentage and approaches a value of 0 for individuals with arbitrarily remote common ancestors
+== coefficient of inbreedingedit ==
+the coefficient of inbreeding ("f") is a measure of the likelihood of genetic effects due to inbreeding to be expected based on a known pedigree (i.e a fully documented genealogy e.g due to a fixed system of breeding) the measure expresses the expected percentage of homozygosity arising from a given system of breeding
+for a given gene with equally common dominant and recessive variants a and a a random-bred stock will be 50% homozygous (25% aa and 25% aa) while a closely inbred population will be 100% homozygous (100% aa or 100% aa) the coefficient of inbreeding f is thus designed to run from 0 for an expected 50% homozygosis to 1 for an expected 100% homozygosis f=2h-1 where h is the chance of finding homozygosis in this gene
+note that f is an expectation value for an unspecified hypothetical perfectly mendelian gene its definition holds regardless of whether the organism's genome actually contains such a gene therefore the coefficient of inbreeding is a statistical value derived from the individual's pedigree and cannot be verified or measured exactly by looking at the individual's genome
+the coefficient of relationship ("r") between two individuals b and c is obtained by a summation of coefficients calculated for every line by which they are connected to their common ancestors each such line connects the two individuals via a common ancestor passing through no individual which is not a common ancestor more than once a path coefficient between an ancestor a and an offspring o separated by n generations is given as
+pao= 2n((1+fa)/(1+fo))
+where fa and fo are the coefficients of inbreeding for a and o respectively
+the coefficient of relationship rbc is now obtained by summing over all path coefficients
+rbc = pabpac
+by assuming that the pedigree can be traced back to a sufficiently remote population of perfectly random-bred stock (fa=0) the definition of r may be simplified to
+rbc = p 2l(p)
+where p enumerates all paths connecting b and c with unique common ancestors (i.e all paths terminate at a common ancestor and may not pass through a common ancestor to a common ancestor's ancestor) and l(p) is the length of the path p
+to given an (artificial) example assuming that two individuals share the same 32 ancestors of n=5 generations ago but do not have any common ancestors at four or fewer generations ago their coefficient of relationship would be
+r = 2n22n = 2n which is because n = 5
+r = 252-10 = 2-5 = 1/32 which is approximately 0.0313 or 3%
+individuals for which the same situation applies for their 1024 ancestors of ten generations ago would have a coefficient of r = 210 = 0.1% if follows that the value of r can be given to an accuracy of a few percent if the family tree of both individuals is known for a depth of five generations and to an accuracy of a tenth of a percent if the known depth is at least ten generations the contribution to r from common ancestors of 20 generations ago (corresponding to roughly 500 years in human genealogy or the contribution from common descent from a medieval population) falls below one part-per-million
+== human relationshipsedit ==
+the coefficient of relationship is sometimes used to express degrees of kinship in numerical terms in human genealogy
+in human relationships the value of the coefficient of relationship is usually calculated based on the knowledge of a full family tree extending to a comparatively small number of generations perhaps of the order of three or four as explained above the value for the coefficient of relationship so calculated is thus a lower bound with an actual value that may be up to a few percent higher the value is accurate to within 1% if the full family tree of both individuals is known to a depth of seven generations
+most incest laws concern the relationships where r = 25% or higher although many ignore the rare case of double first cousins some jurisdictions also prohibit sexual relations or marriage between cousins of various degree or individuals related only through adoption or affinity whether there is any likelihood of conception is generally considered irrelevant
+== see alsoedit ==
+effective population size
+f-statistics
+genetic distance
+identity by descent
+malecot's method of coancestry
+== referencesedit ==
+== bibliographyedit ==
+wright sewall (1921) systems of mating (pdf) genetics 6 111178 five papers
+i) the biometric relations between offspring and parent
+ii) the effects of inbreeding on the genetic composition of a population
+iii) assortative mating based on somatic resemblance
+iv) the effects of selection
+v) general considerations
+wright sewall (1922) coefficients of inbreeding and relationship american naturalist 56 330338 doi:10.1086/279872
+malcot g (1948) les mathmatiques de lhrdit masson et cie paris lange k (1997) mathematical and statistical methods for genetic analysis springer-verlag new-york
+oliehoek pieter jack j windig johan a m van arendonk piter bijma (may 2006) estimating relatedness between individuals in general populations with a focus on their use in conservation programs genetics 173 483496 doi:10.1534/genetics.105.049940 pmc 1461426 pmid 16510792 retrieved 17 april 2011

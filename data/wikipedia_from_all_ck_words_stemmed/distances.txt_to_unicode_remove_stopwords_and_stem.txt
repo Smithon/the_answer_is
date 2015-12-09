@@ -1,0 +1,60 @@
+distanc numer descript far apart object physic everyday usag distanc may refer physic length estim base criteria eg two counti mathemat distanc function metric general concept physic distanc metric function behav accord specif set rule concret way describ mean element space close far away case distanc b interchang distanc b
+mathematicsedit
+geometryedit
+analyt geometri distanc two point xyplan found use distanc formula distanc x y x y given
+similar given point x y z x y z threespac distanc
+formula easili deriv construct right triangl leg hypotenus anoth leg orthogon plane contain st triangl appli pythagorean theorem studi complic geometri call common type distanc euclidean distanc deriv pythagorean theorem hold noneuclidean geometri distanc formula also expand arclength formula
+distanc euclidean spaceedit
+euclidean space rn distanc two point usual given euclidean distanc norm distanc distanc base norm sometim use instead
+point x x xn point y y yn minkowski distanc order p pnorm distanc defin
+p need integ cannot less otherwis triangl inequ hold
+norm distanc euclidean distanc general pythagorean theorem two coordin would obtain distanc two point measur ruler intuit idea distanc
+norm distanc colour call taxicab norm manhattan distanc distanc car would drive citi laid squar block oneway street
+infin norm distanc also call chebyshev distanc d minimum number move king requir travel two squar chessboard
+pnorm rare use valu p infin see super ellips
+physic space euclidean distanc way natur one case length rigid bodi chang rotat
+variat formul distanceedit
+euclidean distanc two point space may written variat form distanc minimum valu integr
+trajectori path two point valu integr d repres length trajectori distanc minim valu integr obtain optim trajectori familiar euclidean case integr optim trajectori simpli straight line well known shortest path two point straight line straight line formal obtain solv eulerlagrang equat function noneuclidean manifold curv space natur space repres metric tensor integrand modifi einstein summat convent use
+general higherdimension objectsedit
+euclidean distanc two object may also general case object longer point higherdimension manifold space curv addit talk distanc two point one discuss concept distanc two string sinc new object dealt extend object point anymor addit concept nonextens curvatur constraint nonloc interact enforc noncross becom central notion distanc distanc two manifold scalar quantiti result minim general distanc function repres transform two manifold
+doubl integr general distanc function two polym conform spatial paramet pseudotim mean polymerstr conform time parameter along string length similar trajectori infinitesim segment string transform entir string conform conform term cofactor lagrang multipli role ensur length polym remain transform two discret polym inextens minimaldist transform longer involv pure straightlin motion even euclidean metric potenti applic general distanc problem protein fold general distanc analog nambugoto action string theori howev exact correspond euclidean distanc space inequival spacetim distanc minim classic relativist string
+algebra distanceedit
+metric often use comput vision minim least squar estim curv surfac given equat conic homogen coordin algebra distanc point curv simpli may serv initi guess geometr distanc refin estim curv accur method nonlinear least squar
+general metricedit
+mathemat particular geometri distanc function given set m function d m m r r denot set real number satisfi follow condit
+dxi dxi x y distanc posit two differ point zero precis point
+symmetr dxi dyx distanc x y either direct
+satisfi triangl inequ dxz dxi dyz distanc two point shortest distanc along path distanc function known metric togeth set make metric space
+exampl usual definit distanc two real number x y dxi x y definit satisfi three condit correspond standard topolog real line distanc given set definit choic anoth possibl choic defin dxi x y otherwis also defin metric give complet differ topolog discret topolog definit number cannot arbitrarili close
+distanc set point setedit
+various distanc definit possibl object exampl celesti bodi one confus surfacetosurfac distanc centertocent distanc former much less latter leo first tend quot altitud otherwis eg earthmoon distanc latter
+two common definit distanc two nonempti subset given set
+one version distanc two nonempti set infimum distanc two respect point everyday mean word ie
+symmetr premetr collect set touch overlap separ distanc two differ touch overlap set zero also hemimetr ie triangl inequ hold except special case therefor special case distanc make collect set metric space
+hausdorff distanc larger two valu one supremum point rang one set infimum second point rang set distanc point valu likewis defin role two set swap distanc make set nonempti compact subset metric space metric space
+distanc point set infimum distanc point set correspond distanc accord firstment definit distanc set set contain point set
+term definit hausdorff distanc simplifi larger two valu one supremum point rang one set distanc point set valu likewis defin role two set swap
+graph theoryedit
+graph theori distanc two vertic length shortest path vertic
+distanc versus direct distanc displacementedit
+distanc cannot negat distanc travel never decreas distanc scalar quantiti magnitud wherea displac vector quantiti magnitud direct direct distanc posit zero negat scalar quantiti
+distanc cover vehicl exampl record odomet person anim object along curv path point point b distinguish straightlin distanc b exampl whatev distanc cover round trip b back displac zero start end point coincid general straightlin distanc equal distanc travel except journey straight line
+direct distanceedit
+direct distanc distanc direct sens determin along straight line along curv line direct distanc point c point direct b line ab euclidean vector space distanc c c fall ray ab negat distanc c fall ray ba ie c side b
+direct distanc along curv line vector repres segment curv line defin endpoint b specif inform indic sens direct ideal real motion one endpoint segment see figur instanc label two endpoint b indic sens order sequenc b assum impli start point
+displacementedit
+displac see special kind direct distanc defin mechan direct distanc call displac distanc along straight line minimum distanc b b posit occupi particl two differ instant time impli motion particl distanc travel particl must alway greater equal displac equal occur particl move along straight path
+anoth kind direct distanc two differ particl point mass given time instanc distanc center graviti earth center graviti moon b strict impli motion b fall categori
+distancesedit
+canberra distanc
+chebyshev distanc
+estatist energi statist function distanc statist observ
+ham distanc lee distanc use code theori
+kullbackleibl distanc measur differ two probabl distribut
+levenshtein distanc
+mahalanobi distanc use statist
+circular distanc distanc travel wheel circumfer wheel radius assum radius revolut wheel equival distanc radian engin often use frequenc
+see alsoedit
+referencesedit
+deza e deza m dictionari distanc elsevi isbn

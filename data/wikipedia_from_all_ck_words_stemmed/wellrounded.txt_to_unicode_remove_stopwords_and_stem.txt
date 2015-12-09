@@ -1,0 +1,35 @@
+mathemat binari relat r wellfound wellfound class x everi nonempti subset sx minim element element m relat srm instanc m smaller rest
+author includ extra condit r setlik ie element less given element form set
+equival assum choic relat wellfound contain countabl infinit descend chain infinit sequenc x x x element x xn r xn everi natur number n
+order theori partial order call wellfound correspond strict order wellfound relat order total order call wellord
+set theori set x call wellfound set set membership relat wellfound transit closur x axiom regular one axiom zermelofraenkel set theori assert set wellfound
+relat r convers wellfound upward wellfound noetherian x convers relat r wellfound x case r also said satisfi ascend chain condit context rewrit system noetherian relat also call termin
+induct recurs
+import reason wellfound relat interest version transfinit induct use x r wellfound relat px properti element x want show
+px hold element x x
+suffic show
+x element x py true y y r x px must also true
+wellfound induct sometim call noetherian induct emmi noether
+par induct wellfound relat also support construct object transfinit recurs let x r setlik wellfound relat f function assign object fx g pair element x x function g initi segment y y r x x uniqu function g everi x x
+want construct function g x may defin gx use valu gy y r x
+exampl consid wellfound relat n n set natur number graph successor function x x induct usual mathemat induct recurs give primit recurs consid order relat n obtain complet induct courseofvalu recurs statement n wellfound also known wellord principl
+interest special case wellfound induct wellfound relat usual order class ordin number techniqu call transfinit induct wellfound set set recursivelydefin data structur techniqu call structur induct wellfound relat set membership univers class techniqu known induct see articl detail
+exampl
+wellfound relat total order includ
+posit integ order defin b divid b b
+set finit string fix alphabet order defin proper substr
+set n n pair natur number order n n m m n m n m
+set regular express fix alphabet order defin proper subexpress
+class whose element set relat element axiom regular
+node finit direct acycl graph relat r defin r b edg b
+exampl relat wellfound includ
+negat integ usual order sinc unbound subset least element
+set string finit alphabet one element usual lexicograph order sinc sequenc b ab aab aaab infinit descend chain relat fail wellfound even though entir set minimum element name empti string
+ration number real standard order sinc exampl set posit ration real lack minimum
+properti
+x wellfound relat x element x descend chain start x finit mean length necessarili bound consid follow exampl let x union posit integ new element bigger integ x wellfound set descend chain start arbitrari great finit length chain n n length n n
+mostowski collaps lemma impli set membership univers among extension wellfound relat setlik wellfound relat r class x extension exist class c xr isomorph c
+reflex
+relat r said reflex r hold everi domain relat everi reflex relat nonempti domain infinit descend chain constant sequenc descend chain exampl natur number usual order avoid trivial descend sequenc work reflex relat r common use perhap implicit altern relat r defin r b r b b context natur number mean relat wellfound use instead relat text definit wellfound relat chang definit includ convent
+refer
+winfri wees martin discov modern set theori american mathemat societi isbn

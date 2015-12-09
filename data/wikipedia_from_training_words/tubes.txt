@@ -1,0 +1,54 @@
+in science a formula is a concise way of expressing information symbolically as in a mathematical or chemical formula the informal use of the term formula in science refers to the general construct of a relationship between given quantities the plural of formula can be spelled either as formulas or formulae (from the original latin)
+in mathematics a formula is an entity constructed using the symbols and formation rules of a given logical language for example determining the volume of a sphere requires a significant amount of integral calculus or its geometrical analogue the method of exhaustion but having done this once in terms of some parameter (the radius for example) mathematicians have produced a formula to describe the volume this particular formula is
+v = 4/3 r3
+having obtained this result and knowing the radius of any sphere in question we can quickly and easily determine its volume note that the volume v and the radius r are expressed as single letters instead of words or phrases this convention while less important in a relatively simple formula means that mathematicians can more quickly manipulate larger and more complex formulas mathematical formulas are often algebraic closed form and/or analytical
+in modern chemistry a chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound using a single line of chemical element symbols numbers and sometimes other symbols such as parentheses brackets and plus (+) and minus () signs for example h2o is the chemical formula for water specifying that each molecule consists of two hydrogen (h) atoms and one oxygen (o) atom similarly o
+3 denotes an ozone molecule consisting of three oxygen atoms and having a net negative charge
+in a general context formulas are applied to provide a mathematical solution for real world problems some may be general f = ma which is one expression of newton's second law is applicable to a wide range of physical situations other formulas may be specially created to solve a particular problem for example using the equation of a sine curve to model the movement of the tides in a bay in all cases however formulas form the basis for calculations
+expressions are distinct from formulas in that they cannot contain an equals sign (=) whereas formulas are comparable to sentences expressions are more like phrases
+== chemical formulasedit ==
+a chemical formula identifies each constituent element by its chemical symbol and indicates the proportionate number of atoms of each element in empirical formulas these proportions begin with a key element and then assign numbers of atoms of the other elements in the compound as ratios to the key element for molecular compounds these ratio numbers can all be expressed as whole numbers for example the empirical formula of ethanol may be written c2h6o because the molecules of ethanol all contain two carbon atoms six hydrogen atoms and one oxygen atom some types of ionic compounds however cannot be written with entirely whole-number empirical formulas an example is boron carbide whose formula of cbn is a variable non-whole number ratio with n ranging from over 4 to more than 6.5
+when the chemical compound of the formula consists of simple molecules chemical formulas often employ ways to suggest the structure of the molecule these types of formulas are variously known as molecular formulas and condensed formulas a molecular formula enumerates the number of atoms to reflect those in the molecule so that the molecular formula for glucose is c6h12o6 rather than the glucose empirical formula which is ch2o except for very simple substances molecular chemical formulas lack needed structural information and are ambiguous
+== in computingedit ==
+in computing a formula typically describes a calculation such as addition to be performed on one or more variables a formula is often implicitly provided in the form of a computer instruction such as
+degrees celsius = (5/9)*(degrees fahrenheit - 32)
+in computer spreadsheet software a formula indicating how to compute the value of a cell say a3 is written such as
+=a1+a2
+where a1 and a2 refer to other cells (column a row 1 or 2) within the spreadsheet this is a shortcut for the paper form a3 = a1+a2 where a3 is by convention omitted because the result is always stored in the cell itself and stating its name would be redundant
+== formulae with prescribed unitsedit ==
+a physical quantity can be expressed as the product of a number and a physical unit a formula expresses a relationship between physical quantities a necessary condition for a formula to be valid is that all terms have the same dimension meaning every term in the formula could be potentially converted to contain the identical unit (or product of identical units)
+in the example above for the volume of a sphere we may wish to compute with r = 2.0 cm which yields
+there is vast educational training about retaining units in computations and converting units to a desirable form such as in units conversion by factor-label
+the vast majority of computations with measurements are done in computer programs with no facility for retaining a symbolic computation of the units only the numerical quantity is used in the computation this requires that the universal formula be converted to a formula that is intended to be used only with prescribed units meaning the numerical quantity is implicitly assumed to be multiplying a particular unit the requirements about the prescribed units must be given to users of the input and the output of the formula
+for example suppose the formula is to require that  where tbsp is the u.s tablespoon (as seen in conversion of units) and vol is the name for the number used by the computer similarly the formula is to require  the derivation of the formula proceeds as
+given that  the formula with prescribed units is
+the formula is not complete without words such as vol is volume in tbsp and rad is radius in cm other possible words are vol is the ratio of to tbsp and rad is the ratio of to cm.
+the formula with prescribed units could also appear with simple symbols perhaps even the identical symbols as in the original dimensional formula
+and the accompanying words could be where v is volume (tbsp) and r is radius (cm)
+if the physical formula is not dimensionally homogeneous and therefore erroneous the falsehood becomes apparent in the impossibility to derive a formula with prescribed units it would not be possible to derive a formula consisting only of numbers and dimensionless ratios
+=== in scienceedit ===
+formulae used in science almost always require a choice of units formulae are used to express relationships between various quantities such as temperature mass or charge in physics supply profit or demand in economics or a wide range of other quantities in other disciplines
+an example of a formula used in science is boltzmann's entropy formula in statistical thermodynamics it is a probability equation relating the entropy s of an ideal gas to the quantity w which is the number of microstates corresponding to a given macrostate
+(1) s= k ln w
+where k is boltzmann's constant equal to 1.38062 x 1023 joule/kelvin and w is the number of microstates consistent with the given macrostate
+== see alsoedit ==
+formula editor
+formula (mathematical logic)
+formula unit
+formulae of shapes
+mathematical notation
+symbol (chemical element)
+== referencesedit ==
+^ oxford dictionaries formula
+^ rautenberg wolfgang (2010) a concise introduction to mathematical logic (3rd ed.) new york ny springer science+business media doi:10.1007/978-1-4419-1221-3 isbn 978-1-4419-1220-6
+^ smith david e (1958) history of mathematics new york dover publications isbn 0-486-20430-8
+^ why do mathematicians use single letter variables? math.stackexchange.com 28 february 2011 retrieved 31 december 2013
+^ atkins p.w. overton t. rourke j. weller m and armstrong f shriver and atkins inorganic chemistry (4th edition) 2006 (oxford university press) isbn 0-19-926463-5
+^ hamilton a.g (1988) logic for mathematicians (2nd ed.) cambridge cambridge university press isbn 978-0-521-36865-0
+^ lindeburg michael r (1998) engineering unit conversions fourth edition professional publications isbn 159126099x
+^ to derive v ~= 33.51 cm3 (2.045 cu in) then calculate the formula for volume 4/3 3.1415926535897 2.03 or ~= 33.51032163829 and round to 2 decimal digits
+^ to derive vol ~= 0.2833 rad3 the tbsp is divided out as 4/3 3.1415926535897 / 14.787 ~= 0.2832751879885 and rounded to 4 decimal digits
+^ haynes william m. ed (2013) [1914] crc handbook of chemistry and physics 94th edition boca raton crc press isbn 1466571144
+== external linksedit ==
+fxsolver online formula database and graphing calculator for mathematics,natural science and engineering
+vcalc a webpage with a user-modifiable equation and formula library

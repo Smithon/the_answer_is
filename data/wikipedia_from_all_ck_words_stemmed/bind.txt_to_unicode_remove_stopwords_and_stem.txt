@@ -1,0 +1,31 @@
+bind band name nemdi wide use domain name system dns softwar internet unixlik oper system de facto standard
+softwar origin design univers california berkeley ucb earli name origin acronym berkeley internet name domain reflect applic use within ucb softwar consist promin dns server compon call name contract form name daemon addit suit contain various administr tool dns resolv interfac librari latest version bind bind first releas
+start internet softwar consortium isc develop new softwar suit initi call bind releas version project renam bundi termin isc involv project
+databas support
+earlier version bind offer mechan store retriev zone data anyth flat text file bind dlz provid compiletim option zone storag varieti databas format includ ldap berkeley db postgresql mysql odbc
+bind plan make data store modular varieti databas may connect
+secur
+bind bind releas serious secur vulner use strong discourag bind complet rewrit part mitig ongo secur issu
+secur issu discov bind patch public disclos keep common principl open sourc softwar complet list secur defect discov disclos bind maintain internet system consortium current author softwar
+histori
+origin written four graduat student comput system research group univers california berkeley ucb bind first releas berkeley softwar distribut bsd paul vixi start maintain work digit equip corpor internet system consortium maintain updat write new version bind
+bind written dougla terri mark painter david riggl songnian zhou earli univers california berkeley result darpa grant acronym bind berkeley internet name domain technic paper publish
+version bind maintain comput system research group csrg uc berkeley
+mid paul vixi dec took bind develop releas version paul vixi continu work bind leav dec bind version sponsor vixi enterpris vixi eventu found isc becam entiti respons bind version start
+bind releas isc may
+version develop nominum inc isc outsourc contract first version releas octob written scratch part address architectur difficulti audit earlier bind code base also support dnssec dns secur extens import featur bind includ tsig nsupdat ipv rndc remot name daemon control view multiprocessor support improv portabl architectur rndc use share secret provid encrypt local remot termin session develop bind took place combin commerci militari contract featur bind fund unix vendor want ensur bind stay competit microsoft dns offer dnssec featur fund us militari regard dns secur import bind releas septemb
+isc start effort develop new version softwar suit call bind addit dns servic bind suit also includ ipv ipv dhcp server compon april bind releas isc conclud develop work project renam project bundi move sourc code repositori github develop outsid public effort bundi communitysupport web site httpbundydnsd isc discontinu involv project due costcut measur develop dhcp compon split becom new kea project
+see also
+comparison dns server softwar
+dns manag softwar
+zone file
+refer
+read
+liu cricket albitz paul may dns bind th edit isbn
+jeremi c reed ed septemb bind dns administr refer book name server oper dns configur use bind isbn
+extern link
+offici bind site internet system consortium iscorg
+cricket liu interview dns bind th edit
+histori bind
+bundi project
+creat new bind zonefil

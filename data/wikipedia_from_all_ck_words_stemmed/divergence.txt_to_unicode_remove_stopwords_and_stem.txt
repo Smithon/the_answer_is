@@ -1,0 +1,72 @@
+vector calculus diverg vector oper measur magnitud vector field sourc sink given point term sign scalar technic diverg repres volum densiti outward flux vector field infinitesim volum around given point
+exampl consid air heat cool relev vector field exampl veloc move air point air heat region expand direct veloc field point outward region therefor diverg veloc field region would posit valu region sourc air cool contract diverg negat valu region sink
+definit divergenceedit
+physic term diverg threedimension vector field extent vector field flow behav like sourc sink given point local measur outgoingnessth extent exit infinitesim region space enter diverg nonzero point must sourc sink posit note imagin vector field like veloc vector field fluid motion use term flow sink
+rigor diverg vector field f point p defin limit net flow f across smooth boundari threedimension region v divid volum v v shrink p formal
+v volum v sv boundari v integr surfac integr n outward unit normal surfac result div f function p definit also becom explicit visibl div f seen sourc densiti flux f
+light physic interpret vector field constant zero diverg call incompress solenoid case net flow occur across close surfac
+intuit sum sourc minus sum sink give net flow outward region made precis diverg theorem
+applic cartesian coordinatesedit
+let x y z system cartesian coordin dimension euclidean space let j k correspond basi unit vector
+diverg continu differenti vector field f u v j w k equal scalarvalu function
+although express term coordin result invari orthogon transform physic interpret suggest
+common notat diverg f conveni mnemon dot denot oper reminisc dot product take compon see del appli compon f sum result appli oper differ multipli compon consid abus notat
+diverg continu differenti secondord tensor field firstord tensor field
+cylindr coordinatesedit
+vector express cylindr coordin
+ea unit vector direct diverg
+spheric coordinatesedit
+spheric coordin angl z axi rotat around z axi diverg read
+decomposit theoremedit
+shown stationari flux vr least two time continu differenti vanish suffici fast r decompos irrot part er sourcefre part br moreov part explicit determin respect sourcedens see circul densiti see articl curl
+irrot part one
+sourcefre part b similar written one replac scalar potenti r vector potenti ar term sourcedens divv circulationdens v
+decomposit theorem fact byproduct stationari case electrodynam special case general helmholtz decomposit work dimens greater three well
+propertiesedit
+follow properti deriv ordinari differenti rule calculus import diverg linear oper ie
+vector field f g real number b
+product rule follow type scalar valu function f vector field
+suggest notat
+anoth product rule cross product two vector field f g three dimens involv curl read follow
+laplacian scalar field diverg field gradient
+diverg curl vector field three dimens equal zero
+vector field f zero diverg defin ball r exist vector field g ball f curlg region r complic latter statement might fals see poincar lemma degre failur truth statement measur homolog chain complex
+first map gradient second curl third diverg serv nice quantif complicated under region u begin main motiv de rham cohomolog
+relat exterior derivativeedit
+one express diverg particular case exterior deriv take form form r defin current two form
+measur amount stuff flow surfac per unit time stuff fluid densiti move local veloc f exterior deriv given
+thus diverg vector field f express
+superscript one two music isomorph hodg dual note howev work current two form exterior deriv usual easier work vector field diverg unlik diverg exterior deriv commut chang curvilinear coordin system
+generalizationsedit
+diverg vector field defin number dimens
+euclidean coordin system defin
+appropri express complic curvilinear coordin
+case one dimens vector field simpli regular function diverg simpli deriv
+n diverg linear oper satisfi product rule
+scalarvalu function
+diverg defin manifold dimens n volum form densiti eg riemannian lorentzian manifold generalis construct two form vector field manifold vector field x defin n form obtain contract x diverg function defin
+standard formula lie deriv allow us reformul
+mean diverg measur rate expans volum element let flow vector field
+riemannian lorentzian manifold diverg respect metric volum form comput term levi civita connect
+second express contract vector field valu form last express tradit coordin express use physicist
+equival express without use connect
+metric denot partial deriv respect coordin
+diverg also generalis tensor einstein notat diverg contravari vector given
+covari deriv
+equival author defin diverg mix tensor use music notat
+pqtensor p contravari vector q covari one defin diverg pqtensor
+trace covari deriv first two covari indic
+see alsoedit
+curl
+del cylindr spheric coordin
+diverg theorem
+gradient
+laplacian
+notesedit
+referencesedit
+brewer jess h diverg vector field vector calculus retriev
+theresa m korn korn granino arthur mathemat handbook scientist engin definit theorem formula refer review new york dover public pp isbn
+extern linksedit
+hazewinkel michiel ed diverg encyclopedia mathemat springer isbn
+idea diverg vector field
+khan academi diverg video lesson

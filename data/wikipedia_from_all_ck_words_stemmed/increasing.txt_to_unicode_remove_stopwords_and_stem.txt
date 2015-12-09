@@ -1,0 +1,58 @@
+mathemat monoton function monoton function function order set preserv given order concept first aros calculus later general abstract set order theori
+monoton calculus analysisedit
+calculus function defin subset real number real valu call monoton either entir increas decreas call monoton increas also increas nondecreas one preserv order see figur likewis function call monoton decreas also decreas nonincreas whenev revers order see figur
+order definit monoton replac strict order one obtain stronger requir function properti call strict increas invert order symbol one find correspond concept call strict decreas function strict increas decreas onetoon equal either monoton either thus equal
+function discret set consid combinator alway obvious increas decreas taken includ possibl repeat valu success argument one find term weak increas weak decreas stress possibl
+term nondecreas nonincreas confus much weaker negat qualif decreas increas exampl function figur first fall rise fall therefor decreas increas neither nondecreas nonincreas
+term monoton transform also possibl caus confus refer transform strict increas function notabl case econom respect ordin properti util function preserv across monoton transform see also monoton prefer
+function said absolut monoton interv deriv order nonneg point interv
+basic applic resultsedit
+follow properti true monoton function
+limit right left everi point domain
+limit posit negat infin either real number
+jump discontinu
+countabl mani discontinu domain
+properti reason monoton function use technic work analysi two fact function
+monoton function defin interv differenti almost everywher ie set number differenti lebesgu measur zero addit result cannot improv countabl see cantor function
+monoton function defin interv riemann integr
+import applic monoton function probabl theori random variabl cumul distribut function monoton increas function
+function unimod monoton increas point mode monoton decreas
+strict monoton function inject domain rang invers function
+monoton topologyedit
+map f x y said monoton fiber connect ie element y y possibl empti set fy connect
+monoton function analysisedit
+function analysi topolog vector space x possibl nonlinear oper x x said monoton oper
+kachurovskii theorem show convex function banach space monoton oper deriv
+subset g x x said monoton set everi pair uw uw g
+g said maxim monoton maxim among monoton set sens set inclus graph monoton oper gt monoton set monoton oper said maxim monoton graph maxim monoton set
+monoton order theoryedit
+order theori deal arbitrari partial order set preorder set addit real number definit monoton relev case well howev term increas decreas avoid sinc convent pictori represent appli order total furthermor strict relat littl use mani nontot order henc addit terminolog introduc
+monoton function also call isoton orderpreserv dual notion often call antiton antimonoton orderrevers henc antiton function f satisfi properti
+x y impli fx fy
+x y domain composit two monoton map also monoton
+constant function monoton antiton convers f monoton antiton domain f lattic f must constant
+monoton function central order theori appear articl subject exampl special applic found place notabl special monoton function order embed function x y fx fy order isomorph surject order embed
+monoton context search algorithmsedit
+context search algorithm monoton also call consist condit appli heurist function heurist hn monoton everi node n everi successor n n generat action estim cost reach goal n greater step cost get n plus estim cost reach goal n
+form triangl inequ n n goal gn closest n everi monoton heurist also admiss monoton stricter requir admiss heurist algorithm algorithm consid optim monoton
+boolean functionsedit
+boolean algebra monoton function one ai bi b b bn ie cartesian product n order coordinatewis fa fb bn word boolean function monoton everi combin input switch one input fals true caus output switch fals true true fals graphic mean boolean function monoton hass diagram dual venn diagram red vertex connect higher white vertex
+monoton boolean function precis defin express combin input may appear use oper particular forbidden instanc least two abc hold monoton function abc sinc written instanc b c b c
+number function n variabl known dedekind number n
+see alsoedit
+monoton cubic interpol
+pseudomonoton oper
+total monoton
+notesedit
+bibliographyedit
+bartl robert g element real analysi second ed
+grtzer georg lattic theori first concept distribut lattic isbn
+pemberton malcolm rau nichola mathemat economist introductori textbook manchest univers press isbn
+renardi michael roger robert c introduct partial differenti equat text appli mathemat second ed new york springerverlag p isbn
+riesz frigy bla szkefalvinagi function analysi courier dover public isbn
+russel stuart j norvig peter artifici intellig modern approach rd ed upper saddl river new jersey prentic hall isbn
+simon carl p blume lawrenc april mathemat economist first ed isbn definit
+extern linksedit
+hazewinkel michiel ed monoton function encyclopedia mathemat springer isbn
+converg monoton sequenc anik debnath thoma roxlo harker school wolfram demonstr project
+weisstein eric w monoton function mathworld

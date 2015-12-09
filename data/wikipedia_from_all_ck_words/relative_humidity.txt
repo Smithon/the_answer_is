@@ -1,0 +1,76 @@
+relative humidity (abbreviated rh) is the ratio of the partial pressure of water vapor to the equilibrium vapor pressure of water at the same temperature relative humidity depends on temperature and the pressure of the system of interest
+== definitionedit ==
+the relative humidity of an air-water mixture is defined as the ratio of the partial pressure of water vapor in the mixture to the equilibrium vapor pressure of water at a given temperature
+relative humidity is normally expressed as a percentage a higher percentage means that the air-water mixture is more humid
+== significanceedit ==
+=== climate controledit ===
+climate control refers to the control of temperature and relative humidity for human comfort health and safety for the technical requirements of machines and processes and in buildings vehicles and other enclosed spaces
+=== comfortedit ===
+humans are sensitive to humidity because the human body uses evaporative cooling enabled by perspiration as the primary mechanism to rid itself of waste heat perspiration evaporates from the skin more slowly under humid conditions than under arid conditions because humans perceive a low rate of heat transfer from the body to be equivalent to a higher air temperature the body experiences greater distress of waste heat burden at high humidity than at lower humidity given equal temperatures
+for example if the air temperature is 24 c (75 f) and the relative humidity is zero percent then the air temperature feels like 21 c (69 f) if the relative humidity is 100 percent at the same air temperature then it feels like 27 c (80 f) in other words if the air is 24 c (75 f) and contains saturated water vapor then the human body cools itself at the same rate as it would if it were 27 c (80 f) and dry the heat index and the humidex are indices that reflect the combined effect of temperature and humidity on the cooling effect of the atmosphere on the human body
+humans can be comfortable within a wide range of humidities depending on the temperaturefrom thirty to seventy percentbut ideally between 50% and 60%
+=== buildingsedit ===
+for climate control in buildings using hvac systems the key is to maintain the relative humidity at a comfortable rangelow enough to be comfortable but high enough to avoid problems associated with very dry air
+when the temperature is high and the relative humidity is low evaporation of water is rapid soil dries wet clothes hung on a line or rack dry quickly and perspiration readily evaporates from the skin wooden furniture can shrink causing the paint that covers these surfaces to fracture
+when the temperature is low and the relative humidity is high evaporation of water is slow when relative humidity approaches 100 percent condensation can occur on surfaces leading to problems with mold corrosion decay and other moisture-related deterioration
+certain production and technical processes and treatments in factories laboratories hospitals and other facilities require specific relative humidity levels to be maintained using humidifiers dehumidifiers and associated control systems
+=== vehiclesedit ===
+the basic principles for buildings above also apply to vehicles in addition there may be safety considerations for instance high humidity inside a vehicle can lead to problems of condensation such as misting of windshields and shorting of electrical components
+in sealed vehicles and pressure vessels such as pressurized airliners submersibles and spacecraft these considerations may be critical to safety and complex environmental control systems including equipment to maintain pressure are needed airliners operate with low internal relative humidity often under 10% especially on long flights the low humidity is a consequence of drawing in the very cold air with a low absolute humidity which is found at airliner cruising altitudes subsequent warming of this air lowers its relative humidity this causes discomfort such as sore eyes dry skin and drying out of mucosa but humidifiers are not employed to raise it to comfortable mid-range levels because the volume of water required to be carried on board can be a significant weight penalty as airliners descend from colder altitudes into warmer air (perhaps even flying through clouds a few thousand feet above the ground) the ambient relative humidity can increase dramatically some of this moist air is usually drawn into the pressurized aircraft cabin and into other non-pressurized areas of the aircraft and condenses on the cold aircraft skin liquid water can usually be seen running along the aircraft skin both on the inside and outside of the cabin because of the drastic changes in relative humidity inside the vehicle components must be qualified to operate in those environments the recommended environmental qualifications for most commercial aircraft components is listed in rtca do-160
+=== aviationedit ===
+cold humid air can promote the formation of ice which is a danger to aircraft as it affects the wing profile and increases weight carbureted engines have a further danger of ice forming inside the carburetor aviation weather reports (metars) therefore include an indication of relative humidity usually in the form of the dew point
+in addition air with higher humidity is less dense providing lower lift and lower propeller or turbine efficiency (this is somewhat offset by decreased drag) pilots must take humidity into account when calculating takeoff distances because high humidity will require longer runways and will decrease the climb gradient
+density altitude is the altitude relative to the standard atmosphere conditions (international standard atmosphere) at which the air density would be equal to the indicated air density at the place of observation or in other words the height when measured in terms of the density of the air rather than the distance from the ground density altitude is the pressure altitude adjusted for non-standard temperature
+an increase in temperature and to a much lesser degree humidity will cause an increase in density altitude thus in hot and humid conditions the density altitude at a particular location may be significantly higher than the true altitude
+== measurementedit ==
+a hygrometer (illustrated) is a device used for measuring the humidity of air
+the humidity of an air-water vapor mixture is determined through the use of psychrometric charts if both the dry bulb temperature (t) and the wet bulb temperature (tw) of the mixture are known these quantities are readily estimated by using a sling psychrometer
+there are several empirical formulas that can be used to estimate the equilibrium vapor pressure of water vapor as a function of temperature the antoine equation is among the least complex of these having only three parameters (a b and c) other formulas such as the goff-gratch equation and the magnus-tetens approximation are more complicated but yield better accuracy
+the formula presented by buck is commonly encountered in the literature and provides a reasonable balance between complexity and accuracy
+where is the dry bulb temperature expressed in degrees celsius (c) is the absolute pressure expressed in millibar and is the equilibrium vapor pressure expressed in millibars buck has reported that the maximum relative error is less than 0.20% between -20c and +50c when this particular form of the generalized formula is used to estimate the equilibrium vapor pressure of water
+== misconceptionedit ==
+the notion of air holding water vapor or being saturated by it is often mentioned in connection with the concept of relative humidity this however is misleadingthe amount of water vapor that enters (or can enter) a given space at a given temperature is independent of the amount of air (nitrogen oxygen etc.) that is present indeed a vacuum has the same equilibrium capacity to hold water vapor as the same volume filled with air both are given by the equilibrium vapor pressure of water at the given temperature
+== pressure dependenceedit ==
+the relative humidity of an air-water system is dependent not only on the temperature but also on the absolute pressure of the system of interest this dependence is demonstrated by considering the air-water system shown below the system is closed (i.e. no matter enters or leaves the system)
+if the system at state a is isobarically heated (heating with no change in system pressure) then the relative humidity of the system decreases because the equilibrium vapor pressure of water increases with increasing temperature this is shown in state b
+if the system at state a is isothermally compressed (compressed with no change in system temperature) then the relative humidity of the system increases because the partial pressure of water in the system increases with the volume reduction this is shown in state c above 202.64 kpa the rh would exceed 100% and water may begin to condense
+if the pressure of state a was changed by simply adding more dry air without changing the volume the relative humidity would not change
+therefore a change in relative humidity can be explained by a change in system temperature a change in the volume of the system or change in both of these system properties
+=== enhancement factoredit ===
+the enhancement factor is defined as the ratio of the saturated vapor pressure of water in moist air to the saturated vapor pressure of pure water
+the enhancement factor is equal to unity for ideal gas systems however in real systems the interaction effects between gas molecules result in a small increase of the equilibrium vapor pressure of water in air relative to equilibrium vapor pressure of pure water vapor therefore the enhancement factor is normally slightly greater than unity for real systems
+the enhancement factor is commonly used to correct the equilibrium vapor pressure of water vapor when empirical relationships such as those developed by wexler goff and gratch are used to estimate the properties of psychrometric systems
+buck has reported that at sea level the vapor pressure of water in saturated moist air amounts to an increase of approximately 0.5% over the equilibrium vapor pressure of pure water
+== related conceptsedit ==
+the term relative humidity is reserved for systems of water vapor in air the term relative saturation is used to describe the analogous property for systems consisting of a condensable phase other than water in a non-condensable phase other than air
+== other important factsedit ==
+a gas in this context is referred to as saturated when the vapor pressure of water in the air is at the equilibrium vapor pressure for water vapor at the temperature of the gas and water vapor mixture liquid water (and ice at the appropriate temperature) will fail to lose mass through evaporation when exposed to saturated air it may also correspond to the possibility of dew or fog forming within a space that lacks temperature differences among its portions for instance in response to decreasing temperature fog consists of very minute droplets of liquid primarily held aloft by isostatic motion (in other words the droplets fall through the air at terminal velocity but as they are very small this terminal velocity is very small too so it doesn't look to us like they are falling and they seem to be held aloft)
+the statement that relative humidity (rh%) can never be above 100% while a fairly good guide is not absolutely accurate without a more sophisticated definition of humidity than the one given here an arguable exception is the wilson cloud chamber which uses in nuclear physics experiments an extremely brief state of supersaturation to accomplish its function
+for a given dew point and its corresponding absolute humidity the relative humidity will change inversely albeit nonlinearly with the temperature this is because the partial pressure of water increases with temperature the operative principle behind everything from hair dryers to dehumidifiers
+due to the increasing potential for a higher water vapor partial pressure at higher air temperatures the water content of air at sea level can get as high as 3% by mass at 30 c (86 f) compared to no more than about 0.5% by mass at 0 c (32 f) this explains the low levels (in the absence of measures to add moisture) of humidity in heated structures during winter resulting in dry skin itchy eyes and persistence of static electric charges even with saturation (100% relative humidity) outdoors heating of infiltrated outside air that comes indoors raises its moisture capacity which lowers relative humidity and increases evaporation rates from moist surfaces indoors (including human bodies and household plants.)
+similarly during summer in humid climates a great deal of liquid water condenses from air cooled in air conditioners warmer air is cooled below its dew point and the excess water vapor condenses this phenomenon is the same as that which causes water droplets to form on the outside of a cup containing an ice-cold drink
+a useful rule of thumb is that the maximum absolute humidity doubles for every 20 f or 10 c increase in temperature thus the relative humidity will drop by a factor of 2 for each 20 f or 10 c increase in temperature assuming conservation of absolute moisture for example in the range of normal temperatures air at 68 f or 20 c and 50% relative humidity will become saturated if cooled to 50 f or 10 c its dew point and 41 f or 5 c air at 80% relative humidity warmed to 68 f or 20 c will have a relative humidity of only 29% and feel dry by comparison thermal comfort standard ashrae 55 requires systems designed to control humidity to maintain a dew point of 16.8 c (62.2 f) though no lower humidity limit is established
+water vapor is a lighter gas than other gaseous components of air at the same temperature so humid air will tend to rise by natural convection this is a mechanism behind thunderstorms and other weather phenomena relative humidity is often mentioned in weather forecasts and reports as it is an indicator of the likelihood of precipitation dew or fog in hot summer weather it also increases the apparent temperature to humans (and other animals) by hindering the evaporation of perspiration from the skin as the relative humidity rises this effect is calculated as the heat index or humidex
+a device used to measure humidity is called a hygrometer one used to regulate it is called a humidistat or sometimes hygrostat (these are analogous to a thermometer and thermostat for temperature respectively.)
+== see alsoedit ==
+humidity
+absolute humidity
+specific humidity
+concentration
+heat index
+dew point
+dew point depression
+humidity buffering
+humidity indicator
+humidity indicator card
+hygrometer
+psychrometrics
+saturation vapor density
+water activity
+== referencesedit ==
+himmelblau david m (1989) basic principles and calculations in chemical engineering prentice hall isbn 0-13-066572-x
+perry r.h and green d.w (1997) perry's chemical engineers handbook (7th edition) mcgraw-hill isbn 0-07-049841-5
+== external linksedit ==
+glossary definition of psychrometric tables - national snow and ice data center
+bad clouds faq psu.edu
+simulation of the indoors/outdoors change relationship

@@ -1,0 +1,41 @@
+in physics and electrical engineering a conductor is an object or type of material that allows the flow of electrical current in one or more directions a wire is an electrical conductor that can carry electricity along its length
+in metals such as copper or aluminum the mobile charged particles are electrons positive charges may also be mobile such as the cationic electrolyte(s) of a battery or the mobile protons of the proton conductor of a fuel cell insulators are non-conducting materials with few mobile charges that support only insignificant electric currents
+== wire size ==
+wires are conductors that let electricity travel through them to get to a lamp or charger wires are measured by their cross sectional area in many countries the size is expressed in square millimetres in north america conductors are measured by american wire gauge for smaller ones and circular mils for larger ones
+== conductance ==
+the resistance of a given conductor depends on the material it is made of and on its dimensions for a given material the resistance is inversely proportional to the cross-sectional area for example a thick copper wire has lower resistance than an otherwise-identical thin copper wire also for a given material the resistance is proportional to the length for example a long copper wire has higher resistance than an otherwise-identical short copper wire the resistance r and conductance g of a conductor of uniform cross section therefore can be computed as
+where is the length of the conductor measured in metres [m] a is the cross-section area of the conductor measured in square metres [m] (sigma) is the electrical conductivity measured in siemens per meter (sm1) and (rho) is the electrical resistivity (also called specific electrical resistance) of the material measured in ohm-metres (m) the resistivity and conductivity are proportionality constants and therefore depend only on the material the wire is made of not the geometry of the wire resistivity and conductivity are reciprocals  resistivity is a measure of the material's ability to oppose electric current
+this formula is not exact it assumes the current density is totally uniform in the conductor which is not always true in practical situations however this formula still provides a good approximation for long thin conductors such as wires
+another situation this formula is not exact for is with alternating current (ac) because the skin effect inhibits current flow near the center of the conductor then the geometrical cross-section is different from the effective cross-section in which current actually flows so the resistance is higher than expected similarly if two conductors are near each other carrying ac current their resistances increase due to the proximity effect at commercial power frequency these effects are significant for large conductors carrying large currents such as busbars in an electrical substation or large power cables carrying more than a few hundred amperes
+== conductor materials ==
+conduction materials include metals electrolytes superconductors semiconductors plasmas and some nonmetallic conductors such as graphite and conductive polymers
+copper has a high conductivity annealed copper is the international standard to which all other electrical conductors are compared the main grade of copper used for electrical applications such as building wire motor windings cables and busbars is electrolytic-tough pitch (etp) copper (cw004a or astm designation c100140) this copper has an electrical conductivity of at least 101% iacs (international annealed copper standard) if high conductivity copper must be welded or brazed or used in a reducing atmosphere then oxygen-free high conductivity copper (cw008a or astm designation c10100) may be used because of its ease of connection by soldering or clamping copper is still the most common choice for most light-gauge wires
+silver is more conductive than copper but due to cost it is not practical in most cases however it is used in specialized equipment such as satellites and as a thin plating to mitigate skin effect losses at high frequencies
+aluminum wire which has 61% of the conductivity of copper has been used in building wiring for its lower cost by weight aluminum has higher conductivity than copper but it has properties that cause problems when used for building wiring it can form a resistive oxide within connections that makes wiring terminals heat aluminum can creep slowly deforming under load eventually causing device connections to loosen and also has a different coefficient of thermal expansion compared to materials used for connections this accelerates the loosening of connections these effects can be avoided by using wiring devices approved for use with aluminum
+aluminum wires used for low voltage distribution such as buried cables and service drops require use of compatible connectors and installation methods to prevent heating at joints aluminum is also the most common metal used in high-voltage transmission lines in combination with steel as structural reinforcement anodized aluminum surfaces are not conductive this affects the design of electrical enclosures that require the enclosure to be electrically connected
+organic compounds such as octane which has 8 carbon atoms and 18 hydrogen atoms cannot conduct electricity oils are hydrocarbons since carbon has the property of tetracovalency and forms covalent bonds with other elements such as hydrogen since it does not lose or gain electrons thus does not form ions covalent bonds are simply the sharing of electrons hence there is no separation of ions when electricity is passed through it so the liquid (oil or any organic compound) cannot conduct electricity
+while pure water is not an electrical conductor even a small portion of impurities such as salt can rapidly transform it into a conductor
+== conductor ampacity ==
+the ampacity of a conductor that is the amount of current it can carry is related to its electrical resistance a lower-resistance conductor can carry a larger value of current the resistance in turn is determined by the material the conductor is made from (as described above) and the conductor's size for a given material conductors with a larger cross-sectional area have less resistance than conductors with a smaller cross-sectional area
+for bare conductors the ultimate limit is the point at which power lost to resistance causes the conductor to melt aside from fuses most conductors in the real world are operated far below this limit however for example household wiring is usually insulated with pvc insulation that is only rated to operate to about 60 c therefore the current in such wires must be limited so that it never heats the copper conductor above 60 c causing a risk of fire other more expensive insulation such as teflon or fiberglass may allow operation at much higher temperatures
+the american wire gauge article contains a table showing allowable ampacities for a variety of copper wire sizes
+== isotropy ==
+if an electric field is applied to a material and the resulting induced electric current is in the same direction the material is said to be an isotropic electrical conductor if the resulting electric current is in a different direction from the applied electric field the material is said to be an anisotropic electrical conductor
+== bibliography ==
+=== pioneering and historical books ===
+william henry preece on electrical conductors 1883
+oliver heaviside electrical papers macmillan 1894
+=== reference books ===
+annual book of astm standards electrical conductors american society for testing and materials (every year)
+iet wiring regulations institution for engineering and technology wiringregulations.net
+== references ==
+== external links ==
+bbc key stage 2 bitesize electrical conductors
+gsu hyperphysics conductors and insulators
+== see also ==
+stephen gray (scientist) first to identify electrical conductors and insulators
+resistivity
+charge transfer complex
+bundle conductor
+superconductivity
+semiconductor

@@ -1,0 +1,83 @@
+a membrane is a selective barrier it allows some things to pass through but stops others such things may be molecules ions or other small particles biological membranes include cell membranes (outer coverings of cells or organelles that allow passage of certain constituents) nuclear membranes which cover a cell nucleus and tissue membranes such as mucosae and serosae synthetic membranes are made by humans for use in laboratories and industry (such as chemical plants) the influent of an artificial membrane is known as the feed-stream the liquid that passes through the membrane is known as the permeate and the liquid containing the retained constituents is the retentate or concentrate
+these concept of a membrane has been known since the eighteenth century but was used little outside of the laboratory until the end of world war ii drinking water supplies in europe had been compromised by the war and membrane filters were used to test for water safety however due to the lack of reliability slow operation reduced selectivity and elevated costs membranes were not widely exploited the first use of membranes on a large scale was with micro-filtration and ultra-filtration technologies since the 1980s these separation processes along with electrodialysis are employed in large plants and today a number of experienced companies serve the market
+the degree of selectivity of a membrane depends on the membrane pore size depending on the pore size they can be classified as microfiltration (mf) ultrafiltration (uf) nanofiltration (nf) and reverse osmosis (ro) membranes membranes can also be of various thickness with homogeneous or heterogeneous structure membranes can be neutral or charged and particle transport can be active or passive the latter can be facilitated by pressure concentration chemical or electrical gradients of the membrane process membranes can be generally classified into synthetic membranes and biological membranes
+== membrane processes classificationedit ==
+=== microfiltration (mf)edit ===
+microfiltration removes particles higher than 0,08-2 m and operates within a range of 7-100 kpa microfiltration is used to remove residual suspended solids (ss) to remove bacteria in order to condition the water for effective disinfection and as a pre-treatment step for reverse osmosis
+relatively recent developments are membrane bioreactors (mbr) which combine microfiltration and a bioreactor for biological treatment
+=== ultrafiltration (uf)edit ===
+ultrafiltration removes particles higher than 0,005-2 m and operates within a range of 70-700kpa ultrafiltration is used for many of the same applications as microfiltration some ultrafiltration membranes have also been used to remove dissolved compounds with high molecular weight such as proteins and carbohydrates in addition they are able to remove viruses and some endotoxins
+=== nanofiltration (nf)edit ===
+nanofiltration is also known as loose ro and can reject particles smaller than 0,001 m nanofiltration is used for the removal of selected dissolved constituents from wastewater nf is primarily developed as a membrane softening process which offers an alternative to chemical softening
+likewise nanofiltration can be used as a pre-treatment before directed reverse osmosis the main objectives of nf pre-treatment are (1) minimize particulate and microbial fouling of the ro membranes by removal of turbidity and bacteria (2) prevent scaling by removal of the hardness ions (3) lower the operating pressure of the ro process by reducing the feed-water total dissolved solids (tds) concentration
+=== reverse osmosis (ro)edit ===
+reverse osmosis is commonly used for desalination as well ro is commonly used for the removal of dissolved constituents from wastewater remaining after advanced treatment with microfiltration ro excludes ions but requires high pressures to produce deionized water (850-7000 kpa)
+== membrane configurationsedit ==
+in the membrane field the term module is used to describe a complete unit composed of the membranes the pressure support structure the feed inlet the outlet permeate and retentate streams and an overall support structure the principal types of membrane modules are
+tubular where membranes are placed inside a support porous tubes and these tubes are placed together in a cylindrical shell to form the unit module tubular devices are primarily used in micro and ultra filtration applications because of their ability to handle process streams with high solids and high viscosity properties as well as for their relative ease of cleaning
+hollow fiber membrane consists of a bundle of hundreds to thousands of hollow fibers the entire assembly is inserted into a pressure vessel the feed can be applied to the inside of the fiber (inside-out flow) or the outside of the fiber (outside-in flow)
+spiral wound where a flexible permeate spacer is placed between two flat membranes sheet a flexible feed spacer is added and the flat sheets are rolled into a circular configuration
+plate and frame consist of a series of flat membrane sheets and support plates the water to be treated passes between the membranes of two adjacent membrane assemblies the plate supports the membranes and provides a channel for the permeate to flow out of the unit module
+ceramic and polymeric flat sheet membranes and modules flat sheet membranes are typically built-into a submerged vacuum driven filtration systems which consist of stacks of modules each with a number of sheets filtration mode is outside-in where the water passes through the membrane and is collected in permeate channels cleaning can be performed by aeration back wash and cip
+== membrane process operationedit ==
+the key elements of any membrane process relate to the influence of the following parameters on the overall permeate flux are
+the membrane permeability (k)
+the operational driving force per unit membrane area (trans membrane pressure tmp)
+the fouling and subsequent cleaning of the membrane surface
+=== flux pressure permeabilityedit ===
+the total permeate flow from a membrane system is given by following equation
+where qp is the permeate stream flowrate [kgs1] fw is the water flux rate [kgm2s1] and a is the membrane area [m2]
+the permeability (k) [ms2bar1] of a membrane is given by the next equation
+the transmembrane pressure (tmp) is given by the following expression
+where ptmp is the transmembrane pressure [kpa] pf the inlet pressure of feed stream [kpa] pc the pressure of concentrate stream [kpa] pp the pressure if permeate stream [kpa]
+the rejection (r) could be defined as the amount of particles that have been removed from the feedwater
+the corresponding mass balance equations are
+in order to control the operation of a membrane process two modes with respect to the flux and to the tmp (trans membrane pressure) can be used these modes are (1) constant tmp and (2) constant flux
+the operation modes will be affected when the rejected materials and particles in the retentate tend to accumulate in the membrane at a given tmp the flux of water through the membrane will decrease and at a given flux the tmp will increase reducing the permeability (k) this phenomenon is known as fouling and it is the main limitation to membrane process operation
+=== dead-end and cross-flow operation modesedit ===
+two operation modes for membranes can be used these modes are
+dead end filtration where all the feed applied to the membrane passes through it obtaining a permeate since there is no concentrate stream all the particles are retained in the membrane raw feed-water is sometimes used to flush the accumulated material from the membrane surface
+cross-flow filtration where the feed water is pumped with a cross flow tangential to the membrane and a concentrate and permeate streams are obtained this model implies that for a flow of feed-water across the membrane only a fraction is converted to permeate product this parameter is termed conversion or recovery (s) the recovery will be reduced if the permeate is further used for maintaining processes operation usually for membrane cleaning
+filtration leads to an increase of the resistance against the flow in the case of dead-end filtration process the resistance increases according to the thickness of the cake formed on the membrane as a consequence the permeability (k) and the flux rapidly decrease proportionally to the solids concentration [1] and thus requiring a periodic cleaning
+for cross-flow processes the deposition of material will continue until the forces of the binding cake to the membrane will be balanced by the forces of the fluid at this point cross-flow filtration will reach a steady-state condition [2] and thus the flux will remain constant with time therefore this configuration will demand less periodic cleaning
+== foulingedit ==
+fouling can be defined as the potential deposition and accumulation of constituents in the feed stream on the membrane
+fouling can take place through a number of physicochemical and biological mechanisms which are related to the increase deposition of solid material onto the membrane surface the main mechanisms by which fouling can occur are
+build-up of constituents of the feedwater on the membrane which causes a resistance to flow this build-up can be divided into different types
+pore narrowing which consists of solid material that it has been attached to the interior surface of the pores
+pore blocking occurs when the particles of the feed-water become stuck in the pores of the membrane
+gel/cake layer formation takes places when the solid matter in the feed is larger than the pore sizes of the membrane
+formation of chemical precipitates known as scaling
+colonization of the membrane or biofouling takes place when microorganisms grow on the membrane surface
+=== fouling control and mitigationedit ===
+since fouling is an important consideration in the design and operation of membrane systems as it affects pre-treatment needs cleaning requirements operating conditions cost and performance it should prevented and if necessary removed optimizing the operation conditions is important to prevent fouling however if fouling have already take place it should be removed by using physical or chemical cleaning
+physical cleaning techniques for membrane include membrane relaxation and membrane backwashing
+back-washing or back-flushing consist of pumping the permeate in the reverse direction through the membrane back-washing removes successfully most of the reversible fouling caused by pore blocking backwashing can also be enhanced by flushing air through the membrane backwashing increase the operating costs since energy is required to achieve a pressure suitable for permeate flow reversion
+membrane relaxation consists of pausing the filtration during a period of time and thus there is no need for permeate flow reversion relaxation allows filtration to be maintained for longer period of time before the chemical cleaning of the membrane
+back pulsing high frequency back pulsing resulting in efficient removal of dirt layer this method is most commonly used for ceramic membranes [3]
+recent studies have assessed to combine relaxation and backwashing for optimum results
+chemical cleaning relaxation and backwashing effectiveness will decrease with operation time as more irreversible fouling accumulates on the membrane surface therefore besides the physical cleaning chemical cleaning may also be recommended they include
+chemical enhanced backwash that is a low concentration of chemical cleaning agent is added during the backwashing period
+chemical cleaning where the main cleaning agents are sodium hypochlorite (for organic fouling) and citric acid (for inorganic fouling) it should be point out though that every membrane supplier proposes their own chemical cleaning recipes which differ mainly in terms of concentration and methods
+optimizing the operation condition several mechanisms can be carried out to optimize the operation conditions of the membrane to prevent fouling for instance
+reducing flux the flux always reduces fouling but obviously it impacts on capital cost since it demands more membrane area it consists of working at sustainable flux which can be defined as the flux for which the tmp increases gradually at an acceptable rate such that chemical cleaning is not necessary
+using cross-flow filtration instead of dead-end in cross-flow filtration only a thin layer is deposited on the membrane since not all the particles are retained on the membrane but the concentrate removes them
+pre-treatment of the feed water is used to reduce the suspended solids and bacterial content of the feed-water flocculants and coagulants are also used like ferric chloride and aluminum sulfate that once dissolved in the water adsorbs materials such as suspended solids colloids and soluble organic
+== applicationsedit ==
+distinct features of membranes are responsible for the interest in using them as additional unit operation for separation processes in fluid processes some advantages noted include
+less energy-intensive since they do not require major phase changes
+do not demand adsorbents or solvents which may be expensive or difficult to handle
+equipment simplicity and modularity which facilitates the incorporation of more efficient membranes
+membranes are used with pressure as the driving processes in membrane filtration of solutes and in reverse osmosis in dialysis and pervaporation the chemical potential along a concentration gradient is the driving force also pertraction as a membrane assisted extraction process relies on the gradient in chemical potential
+however their overwhelming success in biological systems is not matched by their application the main reasons for this are named
+foulingthe decrease of function with use
+prohibitive cost per membrane area
+lack of solvent resistant materials
+scale up risks
+== referencesedit ==
+== external linksedit ==
+klm technology group membrane technology
+== bibliographyedit ==
+metcalf and eddy wastewater engineering treatment and reuse mcgraw-hill book company new york fourth edition 2004
+paula van den brink frank vergeldt henk van as arie zwijnenburg hardy temmink mark c.m.van loosdrecht potential of mechanical cleaning of membranes from a membrane bioreactor journal of membrane science 429 2013 259-267
+simon judd the memrabne bioreactor book principles and applications of membrane bioreactors for water and wastewater treatment elsevier 2010

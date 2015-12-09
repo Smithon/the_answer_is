@@ -1,0 +1,54 @@
+a cylinder (from greek kulindros roller tumbler") is one of the most basic curvilinear geometric shapes the surface formed by the points at a fixed distance from a given straight line the axis of the cylinder the solid enclosed by this surface and by two planes perpendicular to the axis is also called a cylinder the surface area and the volume of a cylinder have been known since deep antiquity
+== common useedit ==
+in common use a cylinder is taken to mean a finite section of a right circular cylinder i.e. the cylinder with the generating lines perpendicular to the bases with its ends closed to form two circular surfaces as in the figure (right) if the ends are not closed one obtains an open cylinder whose surface is topologically equivalent to an open annulus
+if the cylinder has a radius r and length (height) h then its volume is given by
+v = r2h
+and its surface area is
+the area of the top (r2) +
+the area of the bottom (r2) +
+the area of the side (2rh)
+therefore an open cylinder without the top or bottom has surface area (lateral area)
+a = 2rh
+the surface including the top and bottom as well as the lateral area is called a closed cylinder its surface area is
+a = 2r2 + 2rh = 2r(r + h) = d(r + h)
+where d is the diameter
+for a given volume the closed cylinder with the smallest surface area has h = 2r equivalently for a given surface area the closed cylinder with the largest volume has h = 2r i.e the cylinder fits snugly in a cube (height = diameter)
+=== volumeedit ===
+having a right circular cylinder with a height h units and a base of radius r units with the coordinate axes chosen so that the origin is at the center of one base and the height is measured along the positive x-axis a plane section at a distance of x units from the origin has an area of a(x) square units where
+or
+an element of volume is a right cylinder of base area awi square units and a thickness of ix units thus if v cubic units is the volume of the right circular cylinder by riemann sums
+using cylindrical coordinates the volume can be calculated by integration over
+=== surface areaedit ===
+the formula for finding the surface area of a cylinder is with h as height r as radius and s as surface area is or with b as base area and l as lateral area
+=== cylindric sectionsedit ===
+cylindric sections are the intersections of cylinders with planes for a right circular cylinder there are four possibilities a plane tangent to the cylinder meets the cylinder in a single straight line segment moved while parallel to itself the plane either does not intersect the cylinder or intersects it in two parallel line segments all other planes intersect the cylinder in an ellipse or when they are perpendicular to the axis of the cylinder in a circle
+eccentricity e of the cylindric section and semi-major axis a of the cylindric section depend on the radius of the cylinder r and the angle between the secant plane and cylinder axis in the following way
+== other types of cylindersedit ==
+in differential geometry a cylinder is defined more broadly as any ruled surface spanned by a one-parameter family of parallel lines a cylinder whose cross section is an ellipse parabola or hyperbola is called an elliptic cylinder parabolic cylinder or hyperbolic cylinder respectively
+an elliptic cylinder is a quadric surface with the following equation in cartesian coordinates
+this equation is for an elliptic cylinder a generalization of the ordinary circular cylinder (a = b) elliptic cylinders are also known as cylindroids but that name is ambiguous as it can also refer to the plcker conoid the volume of an elliptic cylinder with height h is  even more general than the elliptic cylinder is the generalized cylinder the cross-section can be any curve
+the cylinder is a degenerate quadric because at least one of the coordinates (in this case z) does not appear in the equation
+an oblique cylinder has the top and bottom surfaces displaced from one another
+there are other more unusual types of cylinders these are the imaginary elliptic cylinders
+the hyperbolic cylinder
+and the parabolic cylinder
+== about an arbitrary axisedit ==
+consider an infinite cylinder whose axis lies along the vector
+we make use of spherical coordinates
+these variables can be used to define a and b the orthogonal vectors that form the basis for the cylinder
+with these defined we may use the familiar formula for a cylinder
+where r is the radius of the cylinder these results are usually derived using rotation matrices
+== projective geometryedit ==
+in projective geometry a cylinder is simply a cone whose apex is at infinity
+this is useful in the definition of degenerate conics which require considering the cylindrical conics
+== related polyhedraedit ==
+a cylinder can be seen as a polyhedral limiting case of an n-gonal prism where n approaches infinity it can also be seen as a dual of a bicone as an infinite-sided bipyramid
+== see alsoedit ==
+cylindrical coordinate system
+rotation of axes
+steinmetz solid the intersection of two or three perpendicular cylinders
+translation of axes
+== referencesedit ==
+== external linksedit ==
+surface area of a cylinder at mathguide
+volume of a cylinder at mathguide

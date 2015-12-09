@@ -1,0 +1,58 @@
+in mathematics a monotonic function (or monotone function) is a function between ordered sets that preserves the given order this concept first arose in calculus and was later generalized to the more abstract setting of order theory
+== monotonicity in calculus and analysisedit ==
+in calculus a function defined on a subset of the real numbers with real values is called monotonic if and only if it is either entirely increasing or decreasing it is called monotonically increasing (also increasing or nondecreasing) if for all and such that one has  so preserves the order (see figure 1) likewise a function is called monotonically decreasing (also decreasing or nonincreasing) if whenever  then  so it reverses the order (see figure 2)
+if the order in the definition of monotonicity is replaced by the strict order  then one obtains a stronger requirement a function with this property is called strictly increasing again by inverting the order symbol one finds a corresponding concept called strictly decreasing functions that are strictly increasing or decreasing are one-to-one (because for not equal to  either or and so by monotonicity either or  thus is not equal to )
+when functions between discrete sets are considered in combinatorics it is not always obvious that increasing and decreasing are taken to include the possibility of repeating the same value at successive arguments so one finds the terms weakly increasing and weakly decreasing to stress this possibility
+the terms non-decreasing and non-increasing should not be confused with the (much weaker) negative qualifications not decreasing and not increasing for example the function of figure 3 first falls then rises then falls again it is therefore not decreasing and not increasing but it is neither non-decreasing nor non-increasing
+the term monotonic transformation can also possibly cause some confusion because it refers to a transformation by a strictly increasing function notably this is the case in economics with respect to the ordinal properties of a utility function being preserved across a monotonic transform (see also monotone preferences)
+a function is said to be absolutely monotonic over an interval if the derivatives of all orders of are nonnegative at all points on the interval
+=== some basic applications and resultsedit ===
+the following properties are true for a monotonic function 
+has limits from the right and from the left at every point of its domain
+has a limit at positive or negative infinity () of either a real number  or 
+can only have jump discontinuities
+can only have countably many discontinuities in its domain
+these properties are the reason why monotonic functions are useful in technical work in analysis two facts about these functions are
+if is a monotonic function defined on an interval  then is differentiable almost everywhere on  i.e the set of numbers in such that is not differentiable in has lebesgue measure zero in addition this result cannot be improved to countable see cantor function
+if is a monotonic function defined on an interval  then is riemann integrable
+an important application of monotonic functions is in probability theory if is a random variable its cumulative distribution function is a monotonically increasing function
+a function is unimodal if it is monotonically increasing up to some point (the mode) and then monotonically decreasing
+when is a strictly monotonic function then is injective on its domain and if is the range of  then there is an inverse function on for 
+== monotonicity in topologyedit ==
+a map f  x y is said to be monotone if each of its fibers is connected i.e for each element y in y the (possibly empty) set f1(y) is connected
+== monotonicity in functional analysisedit ==
+in functional analysis on a topological vector space x a (possibly non-linear) operator t  x x is said to be a monotone operator if
+kachurovskii's theorem shows that convex functions on banach spaces have monotonic operators as their derivatives
+a subset g of x x is said to be a monotone set if for every pair [u1,w1] and [u2,w2] in g
+g is said to be maximal monotone if it is maximal among all monotone sets in the sense of set inclusion the graph of a monotone operator g(t) is a monotone set a monotone operator is said to be maximal monotone if its graph is a maximal monotone set
+== monotonicity in order theoryedit ==
+order theory deals with arbitrary partially ordered sets and preordered sets in addition to real numbers the above definition of monotonicity is relevant in these cases as well however the terms increasing and decreasing are avoided since their conventional pictorial representation does not apply to orders that are not total furthermore the strict relations < and > are of little use in many non-total orders and hence no additional terminology is introduced for them
+a monotone function is also called isotone or order-preserving the dual notion is often called antitone anti-monotone or order-reversing hence an antitone function f satisfies the property
+x y implies f(x) f(y)
+for all x and y in its domain the composite of two monotone mappings is also monotone
+a constant function is both monotone and antitone conversely if f is both monotone and antitone and if the domain of f is a lattice then f must be constant
+monotone functions are central in order theory they appear in most articles on the subject and examples from special applications are found in these places some notable special monotone functions are order embeddings (functions for which x y if and only if f(x) f(y)) and order isomorphisms (surjective order embeddings)
+== monotonicity in the context of search algorithmsedit ==
+in the context of search algorithms monotonicity (also called consistency) is a condition applied to heuristic functions a heuristic h(n) is monotonic if for every node n and every successor n of n generated by any action a the estimated cost of reaching the goal from n is no greater than the step cost of getting to n plus the estimated cost of reaching the goal from n 
+this is a form of triangle inequality with n n and the goal gn closest to n because every monotonic heuristic is also admissible monotonicity is a stricter requirement than admissibility in some heuristic algorithms such as a* the algorithm can be considered optimal if it is monotonic
+== boolean functionsedit ==
+in boolean algebra a monotonic function is one such that for all ai and bi in {0,1} if a1 b1 a2 b2  an bn (i.e the cartesian product {0 1}n is ordered coordinatewise) then f(a1  an) f(b1  bn) in other words a boolean function is monotonic if for every combination of inputs switching one of the inputs from false to true can only cause the output to switch from false to true and not from true to false graphically this means that a boolean function is monotonic when in its hasse diagram (dual of its venn diagram) there is no 1 (red vertex) connected to a higher 0 (white vertex)
+the monotonic boolean functions are precisely those that can be defined by an expression combining the inputs (which may appear more than once) using only the operators and and or (in particular not is forbidden) for instance at least two of a,b,c hold is a monotonic function of a,b,c since it can be written for instance as ((a and b) or (a and c) or (b and c))
+the number of such functions on n variables is known as the dedekind number of n
+== see alsoedit ==
+monotone cubic interpolation
+pseudo-monotone operator
+total monotonicity
+== notesedit ==
+== bibliographyedit ==
+bartle robert g (1976) the elements of real analysis (second ed.)
+grtzer george (1971) lattice theory first concepts and distributive lattices isbn 0-7167-0442-0
+pemberton malcolm rau nicholas (2001) mathematics for economists an introductory textbook manchester university press isbn 0-7190-3341-1
+renardy michael and rogers robert c (2004) an introduction to partial differential equations texts in applied mathematics 13 (second ed.) new york springer-verlag p 356 isbn 0-387-00444-0
+riesz frigyes and bla szkefalvi-nagy (1990) functional analysis courier dover publications isbn 978-0-486-66289-3
+russell stuart j. norvig peter (2010) artificial intelligence a modern approach (3rd ed.) upper saddle river new jersey prentice hall isbn 978-0-13-604259-4
+simon carl p. blume lawrence (april 1994) mathematics for economists (first ed.) isbn 978-0-393-95733-4 (definition 9.31)
+== external linksedit ==
+hazewinkel michiel ed (2001) monotone function encyclopedia of mathematics springer isbn 978-1-55608-010-4
+convergence of a monotonic sequence by anik debnath and thomas roxlo (the harker school) wolfram demonstrations project
+weisstein eric w. monotonic function mathworld

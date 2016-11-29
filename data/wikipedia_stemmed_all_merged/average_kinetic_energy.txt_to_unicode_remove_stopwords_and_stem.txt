@@ -1,0 +1,81 @@
+mechan virial theorem provid general equat relat averag time total kinet energi stabl system consist n particl bound potenti forc total potenti energi angl bracket repres averag time enclos quantiti mathemat theorem state
+fk repres forc kth particl locat posit rk word virial righthand side equat deriv vis latin word forc energi given technic definit rudolf clausius
+signific virial theorem allow averag total kinet energi calcul even complic system defi exact solut consid statist mechan averag total kinet energi relat temperatur system equipartit theorem howev virial theorem depend notion temperatur hold even system thermal equilibrium virial theorem general various way notabl tensor form
+forc two particl system result potenti energi vr r n proport power n interparticl distanc r virial theorem take simpl form
+thus twice averag total kinet energi equal n time averag total potenti energi wherea vr repres potenti energi two particl vtot repres total potenti energi system ie sum potenti energi vr pair particl system common exampl system star held togeth graviti n equal
+although virial theorem depend averag total kinet potenti energi present postpon averag last step
+histori
+rudolf clausius deliv lectur mechan theorem applic heat associ natur medic scienc lower rhine follow year studi thermodynam lectur state mean vis viva system equal virial averag kinet energi equal averag potenti energi virial theorem obtain direct lagrang ident appli classic gravit dynam origin form includ lagrang essay problem three bodi publish karl jacobi general ident n bodi present form laplac ident close resembl classic virial theorem howev interpret lead develop equat differ sinc time develop statist dynam yet unifi separ studi thermodynam classic dynam theorem later util popular general develop jame clerk maxwel lord rayleigh henri poincar subrahmanyan chandrasekhar enrico fermi paul ledoux eugen parker fritz zwicki first use virial theorem deduc exist unseen matter call dark matter anoth exampl mani applic virial theorem use deriv chandrasekhar limit stabil white dwarf star
+statement deriv
+collect n point particl scalar moment inertia origin defin equat
+mk rk repres mass posit kth particl rkrk posit vector magnitud scalar g defin equat
+pk momentum vector kth particl assum mass constant g onehalf time deriv moment inertia
+turn time deriv g written
+mk mass kth particl net forc particl total kinet energi system
+connect potenti energi particl
+total forc particl k sum forc particl j system
+forc appli particl j particl k henc virial written
+sinc particl act ie whenev
+assum newton third law motion hold ie equal opposit reaction
+often happen forc deriv potenti energi v function distanc rjk point particl j k sinc forc negat gradient potenti energi case
+clear equal opposit forc appli particl particl j may confirm explicit calcul henc
+thus
+special case powerlaw forc
+common special case potenti energi v two particl proport power n distanc r
+coeffici expon n constant case virial given equat
+vtot total potenti energi system
+thus
+gravit system expon n equal give lagrang ident
+deriv lagrang extend jacobi
+time averag
+averag deriv time defin
+obtain exact equat
+virial theorem state
+mani reason averag time deriv might vanish ie one oftencit reason appli stabli bound system ie system hang togeth forev whose paramet finit case veloc coordin particl system upper lower limit gbound bound two extrem gmin gmax averag goe zero limit long time
+even averag time deriv g approxim zero virial theorem hold degre approxim
+powerlaw forc expon n general equat hold
+gravit attract n equal averag kinet energi equal half averag negat potenti energi
+general result use complex gravit system solar system galaxi
+simpl applic virial theorem concern galaxi cluster region space unusu full galaxi safe assum togeth long time virial theorem appli doppler measur give lower bound relat veloc virial theorem give lower bound total mass cluster includ dark matter
+averag need taken time ensembl averag also taken equival result
+quantum mechan
+although origin deriv classic mechan virial theorem also hold quantum mechan first shown fock
+evalu commut hamiltonian product posit oper momentum oper particl
+sum particl one find commut
+kinet energi lefthand side equat accord heisenberg equat motion expect valu time deriv vanish stationari state henc obtain quantum virial theorem
+special relat
+singl particl special relat case instead true
+last express simplifi either
+thus condit describ earlier section includ newton third law motion despit relat time averag particl power law potenti
+particular ratio kinet energi potenti energi longer fix necessarili fall interv
+relativist system exhibit larger ratio
+general
+lord rayleigh publish general virial theorem henri poincar appli form virial theorem problem determin cosmolog stabil variat form virial theorem develop ledoux tensor form virial theorem develop parker chandrasekhar fermi follow general virial theorem establish pollard case invers squar law statement true boundari term otherwis must ad ref
+inclus electromagnet field
+virial theorem extend includ electr magnet field result
+moment inertia g momentum densiti electromagnet field kinet energi fluid u random thermal energi particl wm electr magnet energi content volum consid final pik fluidpressur tensor express local move coordin system
+tik electromagnet stress tensor
+plasmoid finit configur magnet field plasma virial theorem easi see configur expand contain extern forc finit configur without pressurebear wall magnet coil surfac integr vanish sinc term right hand side posit acceler moment inertia also posit also easi estim expans time total mass m confin within radius r moment inertia rough mr left hand side virial theorem mr term right hand side add pr p larger plasma pressur magnet pressur equat two term solv find
+cs speed ion acoust wave alfvn wave magnet pressur higher plasma pressur thus lifetim plasmoid expect order acoust alfvn transit time
+astrophys
+virial theorem frequent appli astrophys especi relat gravit potenti energi system kinet thermal energi common virial relat
+mass radius veloc temperatur constant newton constant boltzmann constant proton mass note relat approxim often lead numer factor eg neglect entir
+galaxi cosmolog virial mass radius
+astronomi mass size galaxi general overdens often defin term virial radius virial mass respect galaxi overdens continu fluid high extend even infin modelseg isotherm sphere hard defin specif finit measur mass size virial theorem relat concept provid often conveni mean quantifi properti
+galaxi dynam mass galaxi often infer measur rotat veloc gas star assum circular keplerian orbit use virial theorem dispers veloc use similar way take kinet energi per particl system potenti energi per particl u gmr write
+radius veloc dispers measur mass within radius virial mass radius general defin radius veloc dispers maximum ie
+numer approxim made addit approxim natur definit orderun proport constant often omit equat relat thus accur order magnitud sens use selfconsist
+altern definit virial mass radius often use cosmolog use refer radius sphere center galaxi galaxi cluster within virial equilibrium hold sinc radius difficult determin observ often approxim radius within averag densiti greater specifi factor critic densiti hubbl paramet gravit constant common although most arbitrari choic factor case virial radius approxim virial mass defin relat radius
+see also
+virial coeffici
+virial stress
+virial mass
+derrick theorem pohozaev ident
+equipartit theorem
+refer
+read
+goldstein h classic mechan nd ed addisonwesley isbn
+collin g w virial theorem stellar astrophys pachart press
+extern link
+virial theorem mathpag
+gravit contract star format georgia state univers

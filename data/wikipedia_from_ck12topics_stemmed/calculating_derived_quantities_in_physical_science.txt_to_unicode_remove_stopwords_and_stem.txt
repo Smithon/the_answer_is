@@ -1,0 +1,90 @@
+ohm law state current conductor two point direct proport voltag across two point introduc constant proport resist one arriv usual mathemat equat describ relationship
+current conductor unit amper v voltag measur across conductor unit volt r resist conductor unit ohm specif ohm law state r relat constant independ current
+law name german physicist georg ohm treatis publish describ measur appli voltag current simpl electr circuit contain various length wire present slight complex equat one see histori section explain experiment result equat modern form ohm law
+physic term ohm law also use refer various general law origin formul ohm simplest exampl
+j current densiti given locat resist materi e electr field locat sigma materialdepend paramet call conduct reformul ohm law due gustav kirchhoff
+histori
+januari georg ohm work henri cavendish experi leyden jar glass tube vari diamet length fill salt solut measur current note strong shock felt complet circuit bodi cavendish wrote veloc current vari direct degre electrif voltag communic result scientist time result unknown maxwel publish
+ohm work resist year publish result book die galvanisch kett mathematisch bearbeitet galvan circuit investig mathemat drew consider inspir fourier work heat conduct theoret explan work experi initi use voltaic pile later use thermocoupl provid stabl voltag sourc term intern resist constant voltag use galvanomet measur current knew voltag thermocoupl termin proport junction temperatur ad test wire vari length diamet materi complet circuit found data could model equat
+x read galvanomet l length test conductor depend thermocoupl junction temperatur b constant entir setup ohm determin law proport publish result
+ohm law probabl import earli quantit descript physic electr consid almost obvious today ohm first publish work case critic react treatment subject hostil call work web nake fanci german minist educ proclaim professor preach heresi unworthi teach scienc prevail scientif philosophi germani time assert experi need perform develop understand natur natur well order scientif truth may deduc reason alon also ohm brother martin mathematician battl german educ system factor hinder accept ohm work work becom wide accept fortun ohm receiv recognit contribut scienc well die
+ohm law known wide consid prove altern barlow law discredit term real applic telegraph system design discuss samuel f b mors
+old term electr conduct mho invers resist unit ohm still use new name siemen adopt honor ernst werner von siemen siemen prefer formal paper
+discov current practic resistor actual statist fluctuat depend temperatur even voltag resist exact constant fluctuat known johnsonnyquist nois due discret natur charg thermal effect impli measur current voltag taken suffici short period time yield ratio vi fluctuat valu r impli time averag ensembl averag measur current ohm law remain correct averag current case ordinari resist materi
+ohm work long preced maxwel equat understand frequencydepend effect ac circuit modern develop electromagnet theori circuit theori contradict ohm law evalu within appropri limit
+scope
+ohm law empir law general mani experi shown current approxim proport electr field materi less fundament maxwel equat alway obey given materi break strongenough electr field materi interest electr engin nonohm weak field
+ohm law observ wide rang length scale earli th centuri thought ohm law would fail atom scale experi born expect research demonstr ohm law work silicon wire small four atom wide one atom high
+microscop origin
+depend current densiti appli electr field essenti quantum mechan natur see classic quantum conduct qualit descript lead ohm law base upon classic mechan use drude model develop paul drude
+drude model treat electron charg carrier like pinbal bounc among ion make structur materi electron acceler opposit direct electr field averag electr field locat collis though electron deflect random direct veloc much larger veloc gain electr field net result electron take zigzag path due collis general drift direct oppos electr field
+drift veloc determin electr current densiti relationship e independ collis drude calcul averag drift veloc p ee p averag momentum e charg electron averag time collis sinc momentum current densiti proport drift veloc current densiti becom proport appli electr field lead ohm law
+hydraul analog
+hydraul analog sometim use describ ohm law water pressur measur pascal psi analog voltag establish water pressur differ two point along horizont pipe caus water flow water flow rate liter per second analog current coulomb per second final flow restrictorssuch apertur place pipe point water pressur measuredar analog resistor say rate water flow apertur restrictor proport differ water pressur across restrictor similar rate flow electr charg electr current electr resistor proport differ voltag measur across resistor
+flow pressur variabl calcul fluid flow network use hydraul ohm analog method appli steadi transient flow situat linear laminar flow region poiseuill law describ hydraul resist pipe turbul flow region pressureflow relat becom nonlinear
+hydraul analog ohm law use exampl approxim blood flow circulatori system
+circuit analysi
+circuit analysi three equival express ohm law use interchang
+equat quot sourc defin relationship ohm law three quot deriv proport form even two correspond ohm origin statement may sometim given
+interchang equat may repres triangl v voltag place top section current place left section r resist place right line divid left right section indic multipl divid top bottom section indic divis henc divis bar
+resist circuit
+resistor circuit element imped passag electr charg agreement ohm law design specif resist valu r schemat diagram resistor shown zigzag symbol element resistor conductor behav accord ohm law oper rang refer ohmic devic ohmic resistor ohm law singl valu resist suffic describ behavior devic rang
+ohm law hold circuit contain resist element capacit induct form drive voltag current regardless whether drive voltag current constant dc timevari ac instant time ohm law valid circuit
+resistor seri parallel may group togeth singl equival resist order appli ohm law analyz circuit
+reactiv circuit timevari signal
+reactiv element capacitor inductor transmiss line involv circuit ac timevari voltag current appli relationship voltag current becom solut differenti equat ohm law defin direct appli sinc form contain resist valu r complex imped may contain capacit c induct l
+equat timeinvari ac circuit take form ohm law howev variabl general complex number current voltag waveform complex exponenti
+approach voltag current waveform take form time complex paramet complex scalar linear timeinvari system current voltag express paramet input system allow timevari complex exponenti term cancel system describ algebra term complex scalar current voltag waveform
+complex general resist imped usual denot z shown inductor
+capacitor
+write
+v complex scalar voltag current respect z complex imped
+form ohm law z take place r general simpler form z complex real part respons dissip heat
+general ac circuit z vari strong frequenc paramet also relationship voltag current
+common case steadi sinusoid paramet taken correspond complex sinusoid real part complex current voltag waveform describ actual sinusoid current voltag circuit differ phase due differ complex scalar
+linear approxim
+ohm law one basic equat use analysi electr circuit appli metal conductor circuit compon resistor specif made behaviour ubiquit electr engin materi compon obey ohm law describ ohmic mean produc valu resist r vi regardless valu v appli whether appli voltag current dc direct current either posit negat polar ac altern current
+true ohmic devic valu resist calcul r vi regardless valu appli voltag v ratio vi constant current plot function voltag curv linear straight line voltag forc valu v voltag v divid measur current equal r current forc valu measur voltag v divid current also r sinc plot versus v straight line also true set two differ voltag v v appli across given devic resist r produc current vr vr ratio vvii also constant equal r oper delta use repres differ quantiti write v vv ii summar truli ohmic devic resist r vi vi r appli voltag current differ set appli voltag current
+howev compon electr circuit obey ohm law relationship current voltag iv curv nonlinear nonohm exampl pn junction diod curv right seen figur current increas linear appli voltag diod one determin valu current given valu appli voltag v curv ohm law sinc valu resist constant function appli voltag current increas signific appli voltag posit negat ratio vi point along nonlinear curv sometim call static chordal dc resist seen figur valu total v total vari depend particular point along nonlinear curv chosen mean dc resist vi point curv would determin appli ac signal peak amplitud v volt amp center point along curv measur vi howev diod applic ac signal appli devic small possibl analyz circuit term dynam smallsign increment resist defin one slope vi curv averag valu dc oper point voltag one deriv current respect voltag suffici small signal dynam resist allow ohm law small signal resist calcul approxim one slope line drawn tangenti vi curv dc oper point
+temperatur effect
+ohm law sometim state conductor given state electromot forc proport current produc resist ratio appli electromot forc voltag current vari current strength qualifi given state usual interpret mean constant temperatur sinc resist materi usual temperatur depend conduct current relat joul heat conduct bodi accord joul first law temperatur conduct bodi may chang carri current depend resist temperatur therefor make resist depend upon current typic experiment setup make law form difficult direct verifi maxwel other work sever method test law experiment control heat effect
+relat heat conduct
+ohm principl predict flow electr charg ie current electr conductor subject influenc voltag differ jeanbaptistejoseph fourier principl predict flow heat heat conductor subject influenc temperatur differ
+equat describ phenomena equat variabl take differ mean two case specif solv heat conduct fourier problem temperatur drive forc flux heat rate flow driven quantiti ie heat energi variabl also solv analog electr conduct ohm problem electr potenti drive forc electr current rate flow driven quantiti ie charg variabl
+basi fourier work clear concept definit thermal conduct assum els flux heat strict proport gradient temperatur although undoubt true small temperatur gradient strict proport behavior lost real materi eg one thermal conduct function temperatur subject larg temperatur gradient
+similar assumpt made statement ohm law thing alik strength current point proport gradient electr potenti accuraci assumpt flow proport gradient readili test use modern measur method electr case heat case
+version
+ohm law form extrem use equat field electricalelectron engin describ voltag current resist interrel macroscop level common circuit element electr circuit physicist studi electr properti matter microscop level use close relat general vector equat sometim also refer ohm law variabl close relat v r scalar variabl ohm law function posit within conductor physicist often use continuum form ohm law
+e electr field vector unit volt per meter analog v ohm law unit volt j current densiti vector unit amper per unit area analog ohm law unit amper greek rho resist unit ohmmet analog r ohm law unit ohm equat sometim written j e greek sigma conduct reciproc
+voltag two point defin
+element path along integr electr field vector e appli e field uniform orient along length conductor shown figur defin voltag v usual convent opposit direct field see figur understand voltag v measur differenti across length conductor allow us drop symbol vector equat reduc scalar equat
+sinc e field uniform direct wire length conductor uniform consist resist current densiti j also uniform crosssect area orient direct wire length may write
+substitut result e j respect continuum form shown begin section
+electr resist uniform conductor given term resist
+l length conductor si unit meter crosssect area round wire r r radius unit meter squar resist unit ohmmet
+substitut r equat equat preced continuum form ohm law uniform field uniform current densiti orient along length conductor reduc familiar form
+perfect crystal lattic low enough thermal motion deviat period structur would resist real metal crystallograph defect impur multipl isotop thermal motion atom electron scatter result resist flow
+complex general form ohm law import condens matter physic studi properti matter particular electron structur broad term fall topic constitut equat theori transport coeffici
+magnet effect
+extern bfield present conductor rest move veloc v extra term must ad account current induc lorentz forc charg carrier
+rest frame move conductor term drop v contradict electr field rest frame differ efield lab frame e e vb electr magnet field relat see lorentz transform
+current j altern appli voltag efield vari time reactanc must ad resist account selfinduct see electr imped reactanc may strong frequenc high conductor coil
+conduct fluid
+conduct fluid plasma similar effect consid fluid move veloc magnet field relat motion induc electr field exert electr forc charg particl give rise electr current equat motion electron gas number densiti written
+charg mass veloc electron respect also frequenc collis electron ion veloc field sinc electron small mass compar ion ignor left hand side equat write
+use definit current densiti also put electr conduct equat also equival written
+electr resist also common write instead confus sinc notat use magnet diffus defin
+see also
+fick law diffus
+hopkinson law ohm law magnet
+maximum power transfer theorem
+norton theorem
+sheet resist
+superposit theorem
+thermal nois
+thvenin theorem
+refer
+extern link
+john c shedd mayo d hersheyth histori ohm law popular scienc decemb page bonnier corpor issn give histori ohm investig prior work ohm fals equat first paper illustr ohm experiment apparatus
+morton l schagrin resist ohm law american journal physic juli volum issu pp explor conceptu chang under ohm experiment work
+kenneth l caneva ohm georg simon complet dictionari scientif biographi

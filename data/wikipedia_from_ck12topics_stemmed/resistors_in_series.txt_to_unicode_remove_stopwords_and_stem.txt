@@ -1,0 +1,163 @@
+resistor passiv twotermin electr compon implement electr resist circuit element resistor act reduc current flow time act lower voltag level within circuit electron circuit resistor use limit current flow adjust signal level bias activ element termin transmiss line among use highpow resistor dissip mani watt electr power heat may use part motor control power distribut system test load generat fix resistor resist chang slight temperatur time oper voltag variabl resistor use adjust circuit element volum control lamp dimmer sens devic heat light humid forc chemic activ
+resistor common element electr network electron circuit ubiquit electron equip practic resistor discret compon compos various compound form resistor also implement within integr circuit
+electr function resistor specifi resist common commerci resistor manufactur rang nine order magnitud nomin valu resist fall within manufactur toler
+electron symbol notationedit
+two typic schemat diagram symbol follow
+notat state resistor valu circuit diagram vari european notat bs avoid use decim separ replac decim separ si prefix symbol particular valu exampl k circuit diagram indic resistor valu k addit zero impli tighter toler exampl m valu express without need si prefix r use instead decim separ exampl r indic r indic use si prefix symbol letter r circumv problem decim separ tend disappear photocopi print circuit diagram
+theori operationedit
+ohm lawedit
+behavior ideal resistor dictat relationship specifi ohm law
+ohm law state voltag v across resistor proport current constant proport resist r exampl ohm resistor attach across termin volt batteri current amper flow resistor
+practic resistor also induct capacit also affect relat voltag current altern current circuit
+ohm symbol si unit electr resist name georg simon ohm ohm equival volt per amper sinc resistor specifi manufactur larg rang valu deriv unit milliohm m kilohm k megohm m also common usag
+seri parallel resistorsedit
+total resist resistor connect seri sum individu resist valu
+total resist resistor connect parallel reciproc sum reciproc individu resistor
+exampl ohm resistor connect parallel ohm resistor ohm resistor produc invers ohm resist ohm
+resistor network combin parallel seri connect broken smaller part either one complex network resistor cannot resolv manner requir sophist circuit analysi general y transform matrix method use solv problem
+power dissipationedit
+instant power p watt consum resistor resist r ohm calcul v volt voltag across resistor amp current flow use ohm law two form deriv power convert heat must dissip resistor packag temperatur rise excess
+resistor rate accord maximum power dissip discret resistor solidst electron system typic rate watt usual absorb much less watt electr power requir littl attent power rate
+resistor requir dissip substanti amount power particular use power suppli power convers circuit power amplifi general refer power resistor design loos appli resistor power rate watt greater power resistor physic larger may use prefer valu color code extern packag describ
+averag power dissip resistor power rate damag resistor may occur perman alter resist distinct revers chang resist due temperatur coeffici warm excess power dissip may rais temperatur resistor point burn circuit board adjac compon even caus fire flameproof resistor fail open circuit overheat danger
+sinc poor air circul high altitud high oper temperatur may occur resistor may specifi higher rate dissip experienc servic
+resistor maximum voltag rate may limit power dissip higher resist valu
+nonid propertiesedit
+practic resistor seri induct small parallel capacit specif import highfrequ applic lownois amplifi preamp nois characterist resistor may issu
+temperatur coeffici resist may also concern precis applic
+unwant induct excess nois temperatur coeffici main depend technolog use manufactur resistor normal specifi individu particular famili resistor manufactur use particular technolog famili discret resistor also character accord form factor size devic posit lead termin relev practic manufactur circuit use
+practic resistor also specifi maximum power rate must exceed anticip power dissip resistor particular circuit main concern power electron applic resistor higher power rate physic larger may requir heat sink highvoltag circuit attent must sometim paid rate maximum work voltag resistor minimum work voltag given resistor failur account resistor maximum rate may caus resistor inciner current run
+fix resistoredit
+lead arrangementsedit
+throughhol compon typic lead pronounc ldz leav bodi axial line parallel part longest axi other lead come bodi radial instead compon may smt surfac mount technolog high power resistor may one lead design heat sink
+carbon compositionedit
+carbon composit resistor consist solid cylindr resist element embed wire lead metal end cap lead wire attach bodi resistor protect paint plastic earli thcenturi carbon composit resistor uninsul bodi lead wire wrap around end resist element rod solder complet resistor paint colorcod valu
+resist element made mixtur fine ground powder carbon insul materi usual ceram resin hold mixtur togeth resist determin ratio fill materi powder ceram carbon higher concentr carbon good conductor result lower resist carbon composit resistor common use earlier popular general use type better specif toler voltag depend stress carbon composit resistor chang valu stress overvoltag moreov intern moistur content exposur length time humid environ signific solder heat creat nonrevers chang resist valu carbon composit resistor poor stabil time consequ factori sort best toler resistor howev never subject overvoltag overh remark reliabl consid compon size
+carbon composit resistor still avail compar quit cost valu rang fraction ohm megohm due high price resistor longer use applic howev use power suppli weld control
+carbon pileedit
+carbon pile resistor made stack carbon disk compress two metal contact plate adjust clamp pressur chang resist plate resistor use adjust load requir exampl test automot batteri radio transmitt carbon pile resistor also use speed control small motor household applianc sew machin handheld mixer rate hundr watt carbon pile resistor incorpor automat voltag regul generat carbon pile control field current maintain relat constant voltag principl also appli carbon microphon
+carbon filmedit
+carbon film deposit insul substrat helix cut creat long narrow resist path vari shape coupl resist amorph carbon rang m provid wide rang resist valu compar carbon composit featur low nois precis distribut pure graphit without bind carbon film resistor featur power rate rang w w c resist avail rang ohm megohm carbon film resistor oper temperatur rang c c volt maximum work voltag rang special carbon film resistor use applic requir high puls stabil
+print carbon resistoredit
+carbon composit resistor print direct onto print circuit board pcb substrat part pcb manufactur process although techniqu common hybrid pcb modul also use standard fibreglass pcbs toler typic quit larg order typic applic would noncrit pullup resistor
+thick thin filmedit
+thick film resistor becam popular smd surfac mount devic resistor today type resist element thick film time thicker thin film princip differ film appli cylind axial resistor surfac smd resistor
+thin film resistor made sputter method vacuum deposit resist materi onto insul substrat film etch similar manner old subtract process make print circuit board surfac coat photosensit materi cover pattern film irradi ultraviolet light expos photosensit coat develop under thin film etch away
+thick film resistor manufactur use screen stencil print process
+time sputter perform control thick thin film accur control type materi also usual differ consist one ceram cermet conductor tantalum nitrid tan ruthenium oxid ruo
+lead oxid pbo bismuth ruthen bi
+ru
+o
+nickel chromium nicr bismuth irid bi
+ir
+o
+resist thin thick film resistor manufactur high accur usual trim accur valu abras laser trim thin film resistor usual specifi toler temperatur coeffici ppmk also much lower nois level level time less thick film resistor
+thick film resistor may use conduct ceram mix sinter powder glass carrier liquid composit screenprint composit glass conduct ceram cermet materi fuse bake oven c
+thick film resistor first manufactur toler standard toler improv last decad temperatur coeffici thick film resistor high typic ppmk kelvin f temperatur chang chang resist
+thin film resistor usual far expens thick film resistor exampl smd thin film resistor toler ppmk temperatur coeffici bought full size reel quantiti twice cost ppmk thick film resistor
+metal filmedit
+common type axiallead resistor today metalfilm resistor metal electrod leadless face melf resistor often use technolog also cylindr shape design surfac mount note type resistor eg carbon composit also avail melf packag
+metal film resistor usual coat nickel chromium nicr might coat cermet materi list thin film resistor unlik thin film resistor materi may appli use differ techniqu sputter though one techniqu also unlik thinfilm resistor resist valu determin cut helix coat rather etch similar way carbon resistor made result reason toler temperatur coeffici general ppmk metal film resistor possess good nois characterist low nonlinear due low voltag coeffici also benefici tight toler low temperatur coeffici longterm stabil
+metal oxid filmedit
+metaloxid film resistor made metal oxid result higher oper temperatur greater stabilityreli metal film use applic high endur demand
+wire woundedit
+wirewound resistor common made wind metal wire usual nichrom around ceram plastic fiberglass core end wire solder weld two cap ring attach end core assembl protect layer paint mold plastic enamel coat bake high temperatur resistor design withstand unusu high temperatur c wire lead low power wirewound resistor usual mm diamet tin eas solder higher power wirewound resistor either ceram outer case aluminum outer case top insul layer use outer case ceram resistor sometim describ cement resistor though actual contain tradit cement aluminumcas type design attach heat sink dissip heat rate power depend use suitabl heat sink eg w power rate resistor overheat fraction power dissip use heat sink larg wirewound resistor may rate watt
+wirewound resistor coil undesir induct type resistor although wind wire section altern revers direct minim induct techniqu employ bifilar wind flat thin former reduc crosssect area coil demand circuit resistor ayrtonperri wind use
+applic wirewound resistor similar composit resistor except high frequenc high frequenc respons wirewound resistor substanti wors composit resistor
+foil resistoredit
+primari resist element foil resistor special alloy foil sever micromet thick sinc introduct foil resistor best precis stabil resistor avail one import paramet influenc stabil temperatur coeffici resist tcr tcr foil resistor extrem low improv year one rang ultraprecis foil resistor offer tcr ppmc toler longterm stabil year ppm year ppm improv fold hermet seal stabil load hour thermal emf vc nois db voltag coeffici ppmv induct h capacit pf
+ammet shuntsedit
+ammet shunt special type currentsens resistor four termin valu milliohm even microohm currentmeasur instrument usual accept limit current measur high current current pass shunt across voltag drop measur interpret current typic shunt consist two solid metal block sometim brass mount insul base block solder braze one strip low temperatur coeffici resist tcr manganin alloy larg bolt thread block make current connect much smaller screw provid volt meter connect shunt rate fullscal current often voltag drop mv rate current meter adapt shunt full current rate use appropri mark dial face chang need made part meter
+grid resistoredit
+heavyduti industri highcurr applic grid resistor larg convectioncool lattic stamp metal alloy strip connect row two electrod industri grade resistor larg refriger design handl amper current rang resist extend lower ohm use applic dynam brake load bank locomot tram neutral ground industri ac distribut control load crane heavi equip load test generat harmon filter electr substat
+term grid resistor sometim use describ resistor type connect control grid vacuum tube resistor technolog electron circuit topolog
+special varietiesedit
+cermet
+phenol
+tantalum
+water resistor
+variabl resistorsedit
+adjust resistorsedit
+resistor may one fix tap point resist chang move connect wire differ termin wirewound power resistor tap point slide along resist element allow larger smaller part resist use
+continu adjust resist valu oper equip requir slide resist tap connect knob access oper devic call rheostat two termin
+potentiometersedit
+potentiomet pot threetermin resistor continu adjust tap point control rotat shaft knob linear slider call potentiomet connect adjust voltag divid provid variabl potenti termin connect tap point volum control audio devic common use potentiomet typic low power potentiomet construct flat resist element carbon composit metal film conduct plastic springi phosphor bronz wiper contact move along surfac altern construct resist wire wound form wiper slide axial along coil lower resolut sinc wiper move resist chang step equal resist singl turn
+highresolut multiturn potentiomet use precis applic wirewound resist element typic wound helic mandrel wiper move helic track control turn make continu contact wire includ conductiveplast resist coat wire improv resolut typic offer ten turn shaft cover full rang usual set dial includ simpl turn counter graduat dial typic achiev three digit resolut electron analog comput use quantiti set coeffici delayedsweep oscilloscop recent decad includ one panel
+resist decad boxesedit
+resist decad box resistor substitut box unit contain resistor mani valu one mechan switch allow one various discret resist offer box dial usual resist accur high precis rang laboratorycalibr grade accuraci part per million field grade inexpens box lesser accuraci also avail type offer conveni way select quick chang resist laboratori experiment develop work without need attach resistor one one even stock valu rang resist provid maximum resolut accuraci character box exampl one box offer resist megohm maximum resolut ohm accuraci
+special devicesedit
+various devic whose resist chang various quantiti resist ntc thermistor exhibit strong negat temperatur coeffici make use measur temperatur sinc resist larg allow heat due passag current also common use prevent excess current surg equip power similar resist humistor vari humid one sort photodetector photoresistor resist vari illumin
+strain gaug invent edward e simmon arthur c ruge type resistor chang valu appli strain singl resistor may use pair half bridg four resistor connect wheatston bridg configur strain resistor bond adhes object subject mechan strain strain gaug filter amplifi analogdigit convert strain object measur
+relat recent invent use quantum tunnel composit sens mechan stress pass current whose magnitud vari factor respons chang appli pressur
+measurementedit
+valu resistor measur ohmmet may one function multimet usual probe end test lead connect resistor simpl ohmmet may appli voltag batteri across unknown resistor intern resistor known valu seri produc current drive meter movement current accord ohm law invers proport sum intern resist resistor test result analog meter scale nonlinear calibr infin ohm digit multimet use activ electron may instead pass specifi current test resist voltag generat across test resist case linear proport resist measur display either case lowresist rang meter pass much current test lead highresist rang order voltag present reason level general volt still measur
+measur lowvalu resistor fractionalohm resistor accept accuraci requir fourtermin connect one pair termin appli known calibr current resistor pair sens voltag drop across resistor laboratori qualiti ohmmet especi milliohmmet even better digit multimet sens use four input termin purpos may use special test lead two socal kelvin clip pair jaw insul one side clip appli measur current connect sens voltag drop resist calcul use ohm law measur voltag divid appli current
+standardsedit
+product resistorsedit
+resistor characterist quantifi report use various nation standard us milstd contain relev test method standard refer
+various standard specifi properti resistor use equip
+bs
+eiar
+milprf
+milprf fix power establish reliabl
+milprf surfacemount thick thin film
+milprf
+milr standard cancel
+milr fix general purpos establish reliabl
+milprf zero ohm jumper
+ul fuse temperatur limit resistor
+unit state militari procur milr standard
+resist standardsedit
+primari standard resist mercuri ohm initi defin column mercuri cm long squar millimet crosssect degre celsius difficulti precis measur physic constant replic standard result variat much ppm mercuri ohm replac precis machin plate manganin sinc intern resist standard base quantiz hall effect discov klaus von klitz won nobel prize physic
+resistor extrem high precis manufactur calibr laboratori use may four termin use one pair carri oper current pair measur voltag drop elimin error caus voltag drop across lead resist charg flow voltag sens lead import small valu resistor ohm lead resist signific even compar respect resist standard valu
+resistor markingedit
+axial resistor use pattern color stripe indic resist also indic toler may also extend show temperatur coeffici reliabl class case usual tan brown blue green though color occasion found dark red dark gray power rate usual mark deduc size
+color band carbon resistor three four five six band first two band repres first two digit measur valu ohm third band three fourband resistor repres multipli fourth band denot toler absent denot five six colorband resistor third band third digit fourth band multipli fifth toler sixth band repres temperatur coeffici sixband resistor
+surfacemount resistor mark numer big enough permit mark morerec small size impract mark
+earli th centuri resistor essenti uninsul dip paint cover entir bodi colorcod second color paint appli one end element color dot band middl provid third digit rule bodi tip dot provid two signific digit valu decim multipli sequenc default toler closertoler resistor silver goldcolor paint end
+prefer valuesedit
+earli resistor made less arbitrari round number seri might etc resistor manufactur subject certain percentag toler make sens manufactur valu correl toler actual valu resistor overlap slight neighbor wider space leav gap narrow space increas manufactur inventori cost provid resistor less interchang
+logic scheme produc resistor rang valu increas geometr progress valu greater predecessor fix multipli percentag chosen match toler rang exampl toler make sens resistor time predecessor cover decad valu practic factor use give valu decad decad rang increas factor exampl round practic follow preced scheme adopt e seri iec prefer number valu also e e e e e seri compon progress finer resolut differ valu within decad actual valu use iec list prefer number
+resistor ohm would expect valu ohm e neighbor ohm sensibl space e use compon e e e e e better resistor manufactur valu milliohm gigaohm iec rang appropri toler manufactur may sort resistor toleranceclass base measur accord select ohm resistor toler might lie around ohm one would expect bellcurv rather two group either high low closer ohm resistor factori measur less would mark sold resistor toler better design circuit may becom consider
+earlier power wirewound resistor brown vitreousenamel type howev made differ system prefer valu mention first sentenc section
+smt resistorsedit
+surfac mount resistor larger size metric print numer valu code relat use axial resistor standardtoler surfacemount technolog smt resistor mark threedigit code first two digit first two signific digit valu third digit power ten number zero exampl
+resist less ohm written final zero repres ten power zero exampl
+sometim valu mark prevent mistak
+resist less ohm r indic posit decim point radix point exampl
+precis resistor mark fourdigit code first three digit signific figur fourth power ten exampl
+sometim appear valu surfacemount zeroohm link sinc approxim zero resist
+recent surfacemount resistor small physic permit practic mark appli
+industri type designationedit
+format two lettersspaceresist valu three digitnospacetoler codenumer one digit
+electr thermal noiseedit
+amplifi faint signal often necessari minim electron nois particular first stage amplif dissip element even ideal resistor natur produc random fluctuat voltag nois across termin johnsonnyquist nois fundament nois sourc depend upon temperatur resist resistor predict fluctuationdissip theorem use larger valu resist produc larger voltag nois wherea smaller valu resist current nois given temperatur
+thermal nois practic resistor may also larger theoret predict increas typic frequencydepend excess nois practic resistor observ current flow specifi unit vvdecad v nois per volt appli across resistor per decad frequenc vvdecad valu frequent given db resistor nois index db exhibit v rms excess nois volt across resistor frequenc decad excess nois thus exampl f nois thickfilm carbon composit resistor generat excess nois type low frequenc wirewound thinfilm resistor often use better nois characterist carbon composit resistor exhibit nois index db bulk metal foil resistor may nois index db usual make excess nois metal foil resistor insignific thin film surfac mount resistor typic lower nois better thermal stabil thick film surfac mount resistor excess nois also sizedepend general excess nois reduc physic size resistor increas multipl resistor use parallel independ fluctuat resist smaller compon tend averag
+exampl nois per se resistor may act thermocoupl produc small dc voltag differenti across due thermoelectr effect end differ temperatur induc dc voltag degrad precis instrument amplifi particular voltag appear junction resistor lead circuit board resistor bodi common metal film resistor show effect magnitud vc carbon composit resistor exhibit thermoelectr offset high vc wherea special construct resistor reduc number vc applic thermoelectr effect may becom import care taken mount resistor horizont avoid temperatur gradient mind air flow board
+failur modesedit
+failur rate resistor proper design circuit low compar electron compon semiconductor electrolyt capacitor damag resistor often occur due overh averag power deliv great exceed abil dissip heat specifi resistor power rate may due fault extern circuit frequent caus failur anoth compon transistor short circuit connect resistor oper resistor close power rate limit resistor lifespan caus signific chang resist safe design general use overr resistor power applic avoid danger
+lowpow thinfilm resistor damag longterm highvoltag stress even maximum specifi voltag maximum power rate often case startup resistor feed smps integr circuit
+overh carbonfilm resistor may decreas increas resist carbon film composit resistor fail open circuit run close maximum dissip also possibl less like metal film wirewound resistor
+also failur resistor due mechan stress advers environment factor includ humid enclos wirewound resistor corrod
+surfac mount resistor known fail due ingress sulfur intern makeup resistor sulfur chemic react silver layer produc nonconduct silver sulfid resistor imped goe infin sulfur resist anticorros resistor sold automot industri militari applic astm b industri standard test part suscept sulfur
+altern failur mode encount larg valu resistor use hundr kilohm higher resistor specifi maximum power dissip also maximum voltag drop exceed voltag caus resistor degrad slowli reduc resist voltag drop across larg valu resistor exceed power dissip reach limit valu sinc maximum voltag specifi common encount resistor hundr volt problem applic voltag encount
+variabl resistor also degrad differ manner typic involv poor contact wiper bodi resist may due dirt corros typic perceiv crackl contact resist fluctuat especi notic devic adjust similar crackl caus poor contact switch like switch potentiomet extent selfclean run wiper across resist may improv contact potentiomet seldom adjust especi dirti harsh environ like develop problem selfclean contact insuffici improv usual obtain use contact cleaner also known tuner cleaner spray crackl nois associ turn shaft dirti potentiomet audio circuit volum control great accentu undesir dc voltag present often indic failur dc block capacitor circuit
+see alsoedit
+thermistor
+piezoresistor
+circuit design
+dummi load
+electr imped
+ironhydrogen resistor
+shot nois
+trimmer electron
+referencesedit
+extern linksedit
+termin resistor ultraprecis resistor work
+beginn guid potentiomet includ descript differ taper
+color code resist calcul archiv wayback machin
+resistor type matter
+standard resistor capacitor valu industri manufactur
+ask applic engin differ type resistor
+resistor use
+thick film resistor heater

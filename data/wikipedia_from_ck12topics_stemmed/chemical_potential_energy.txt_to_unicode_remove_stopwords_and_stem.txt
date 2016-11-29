@@ -1,0 +1,115 @@
+physic potenti energi energi object due posit forc field system due configur part common type includ gravit potenti energi object depend mass distanc center mass anoth object elast potenti energi extend spring electr potenti energi electr charg electr field unit energi intern system unit si joul symbol j
+term potenti energi introduc th centuri scottish engin physicist william rankin although link greek philosoph aristotl concept potenti potenti energi associ forc act bodi way depend bodi posit space forc repres vector everi point space form vector field forc forc field
+work forc field act bodi move start end posit determin two posit depend trajectori bodi function known potenti energi evalu two posit determin work furthermor forc field determin potenti energi describ deriv potenti
+overview
+potenti energi store energi object energi virtu object posit relat object potenti energi often associ restor forc spring forc graviti action stretch spring lift mass perform extern forc work forc field potenti work store forc field said store potenti energi extern forc remov forc field act bodi perform work move bodi back initi posit reduc stretch spring caus bodi fall
+formal definit potenti energi energi differ energi object given posit energi refer posit
+various type potenti energi associ particular type forc exampl work elast forc call elast potenti energi work gravit forc call gravit potenti energi work coulomb forc call electr potenti energi work strong nuclear forc weak nuclear forc act baryon charg call nuclear potenti energi work intermolecular forc call intermolecular potenti energi chemic potenti energi energi store fossil fuel work coulomb forc rearrang mutual posit electron nuclei atom molecul thermal energi usual two compon kinet energi random motion particl potenti energi mutual posit
+forc deriv potenti also call conserv forc work done conserv forc
+chang potenti energi associ forc negat sign provid convent work done forc field increas potenti energi work done forc field decreas potenti energi common notat potenti energi u v ep
+work potenti energi
+potenti energi close link forc work done forc bodi move b depend path point work forc measur assign scalar valu everi point space defin scalar potenti field case forc defin negat vector gradient potenti field
+work appli forc independ path work done forc evalu start end trajectori point applic mean function u x call potenti evalu two point xa xb obtain work trajectori two point tradit defin function negat sign posit work reduct potenti
+c trajectori taken b work done independ path taken express true trajectori c b
+function ux call potenti energi associ appli forc exampl forc potenti energi graviti spring forc
+deriv potenti
+section relationship work potenti energi present detail line integr defin work along curv c take special form forc f relat scalar field x
+case work along curv given
+evalu use gradient theorem obtain
+show forc deriv scalar field work forc along curv c comput evalu scalar field start point end point b curv mean work integr depend path b said independ path
+potenti energi ux tradit defin negat scalar field work forc field decreas potenti energi
+case applic del oper work function yield
+forc f said deriv potenti also necessarili impli f must conserv vector field potenti u defin forc f everi point x space set forc call forc field
+comput potenti energi
+given forc field fx evalu work integr use gradient theorem use find scalar function associ potenti energi done introduc parameter curv trt aa bb comput
+forc field f let v drdt gradient theorem yield
+power appli bodi forc field obtain gradient work potenti direct veloc v point applic
+exampl work comput potenti function graviti spring forc
+potenti energi near earth graviti
+classic physic graviti exert constant downward forc f fz center mass bodi move near surfac earth work graviti bodi move along trajectori rt xt yt zt track roller coaster calcul use veloc vvx vy vz obtain
+integr vertic compon veloc vertic distanc notic work graviti depend vertic movement curv rt
+function
+call potenti energi near earth graviti field
+potenti energi linear spring
+horizont spring exert forc f kx proport deflect x direct work spring bodi move along space curv st xt yt zt calcul use veloc v vx vy vz obtain
+conveni consid contact spring occur integr product distanc x xveloc xvx x
+function
+call potenti energi linear spring
+elast potenti energi potenti energi elast object exampl bow catapult deform tension compress stress formal terminolog aris consequ forc tri restor object origin shape often electromagnet forc atom molecul constitut object stretch releas energi transform kinet energi
+potenti energi gravit forc two bodi
+gravit potenti energi two bodi space obtain forc exert mass m anoth mass m given
+r posit vector m m
+also express
+vector length point m m
+let mass m move veloc v work graviti mass move posit rt rt given
+notic posit veloc mass m given
+er et radial tangenti unit vector direct relat vector m m use simplifi formula work graviti
+calcul use fact
+function
+gravit potenti function also known gravit potenti energi negat sign follow convent work gain loss potenti energi
+potenti energi electrostat forc two bodi
+electrostat forc exert charg q anoth charg q given
+r posit vector q q vacuum permitt may also written use coulomb constant ke
+work w requir move q point b electrostat forc field given potenti function
+refer level
+potenti energi function state system defin relat particular state refer state alway real state may also limit distanc bodi tend infin provid energi involv tend limit finit case inversesquar law forc arbitrari refer state could use therefor chosen base conveni
+typic potenti energi system depend relat posit compon refer state also express term relat posit
+gravit potenti energi
+gravit energi potenti energi associ gravit forc work requir elev object earth graviti potenti energi due elev posit call gravit potenti energi evidenc water elev reservoir kept behind dam object fall one point anoth point insid gravit field forc graviti posit work object gravit potenti energi decreas amount
+consid book place top tabl book rais floor tabl extern forc work gravit forc book fall back floor fall energi book receiv provid gravit forc thus book fall tabl potenti energi goe acceler mass book convert kinet energi book hit floor kinet energi convert heat deform sound impact
+factor affect object gravit potenti energi height relat refer point mass strength gravit field thus book lie tabl less gravit potenti energi book top taller cupboard less gravit potenti energi heavier book lie tabl object certain height moon surfac less gravit potenti energi height earth surfac moon graviti weaker note height common sens term cannot use gravit potenti energi calcul graviti assum constant follow section provid detail
+local approxim
+strength gravit field vari locat howev chang distanc small relat distanc center sourc gravit field variat field strength neglig assum forc graviti particular object constant near surfac earth exampl assum acceler due graviti constant g ms standard graviti case simpl express gravit potenti energi deriv use w fd equat work equat
+amount gravit potenti energi possess elev object equal work done graviti lift work done equal forc requir move upward multipli vertic distanc move rememb w fd upward forc requir move constant veloc equal weight mg object work done lift height h product mgh thus account mass graviti altitud equat
+u potenti energi object relat earth surfac m mass object g acceler due graviti h altitud object m express kilogram g ms h metr u calcul joul
+henc potenti differ
+general formula
+howev larg variat distanc approxim g constant longer valid use calculus general mathemat definit work determin gravit potenti energi comput potenti energi integr gravit forc whose magnitud given newton law gravit respect distanc r two bodi use definit gravit potenti energi system mass m m distanc r use gravit constant g
+k arbitrari constant depend choic datum potenti measur choos convent k ie relat point infin make calcul simpler albeit cost make u negat physic reason see
+given formula u total potenti energi system n bodi found sum pair two bodi potenti energi system two bodi
+consid system bodi combin set small particl bodi consist appli previous particl level get negat gravit bind energi potenti energi strong negat total potenti energi system bodi sinc also includ negat gravit bind energi bodi potenti energi system bodi negat energi need separ bodi infin gravit bind energi energi need separ particl infin
+therefor
+choos convent gravit energi negat
+potenti energi differ gravit potenti energi matter physic purpos choic zero point arbitrari given reason criterion prefer one particular finit r anoth seem two reason choic distanc u becom zero choic infin may seem peculiar consequ gravit energi alway negat may seem counterintuit choic allow gravit potenti energi valu finit albeit negat
+singular formula gravit potenti energi mean appar reason altern choic convent would result potenti energi posit infinit larg nonzero valu r would make calcul involv sum differ potenti energi beyond possibl real number system sinc physicist abhor infin calcul r alway nonzero practic choic infin far prefer choic even idea negat energi graviti well appear peculiar first
+negat valu gravit energi also deeper implic make seem reason cosmolog calcul total energi univers meaning consid see inflat theori
+use
+gravit potenti energi number practic use notabl generat pumpedstorag hydroelectr exampl dinorwig wale two lake one higher elev time surplus electr requir compar cheap water pump higher lake thus convert electr energi run pump gravit potenti energi time peak demand electr water flow back electr generat turbin convert potenti energi kinet energi back electr process complet effici origin energi surplus electr fact lost friction
+gravit potenti energi also use power clock fall weight oper mechan
+also use counterweight lift elev crane sash window
+roller coaster entertain way util potenti energi chain use move car inclin build gravit potenti energi energi convert kinet energi fall
+anoth practic use util gravit potenti energi descend perhap coast downhil transport descent automobil truck railroad train bicycl airplan fluid pipelin case kinet energi obtain potenti energi descent may use start ascend next grade happen road undul frequent dip commerci store energi form rail car rais higher elev convert electr energi need electr grid undertaken unit state system call advanc rail energi storag are
+inform gravit potenti energi storag
+chemic potenti energi
+chemic potenti energi form potenti energi relat structur arrang atom molecul arrang may result chemic bond within molecul otherwis chemic energi chemic substanc transform form energi chemic reaction exampl fuel burn chemic energi convert heat case digest food metabol biolog organ green plant transform solar energi chemic energi process known photosynthesi electr energi convert chemic energi electrochem reaction
+similar term chemic potenti use indic potenti substanc undergo chang configur form chemic reaction spatial transport particl exchang reservoir etc
+electr potenti energi
+object potenti energi virtu electr charg sever forc relat presenc two main type kind potenti energi electrostat potenti energi electrodynam potenti energi also sometim call magnet potenti energi
+electrostat potenti energi
+electrostat potenti energi two bodi space obtain forc exert charg q anoth charg q given
+r posit vector q q vacuum permitt may also written use coulomb constant ke
+electr charg object assum rest potenti energi due posit relat charg object electrostat potenti energi energi electr charg particl rest electr field defin work must done move infinit distanc away present locat adjust nonelectr forc object energi general nonzero anoth electr charg object nearbi
+work w requir move q point b electrostat forc field given potenti function
+relat quantiti call electr potenti common denot v voltag equal electr potenti energi per unit charg
+magnet potenti energi
+energi magnet moment m extern produc magnet bfield b potenti energi
+magnet m field
+integr space equival m nonzero magnet potenti energi form energi relat distanc magnet materi also orient align materi within field exampl needl compass lowest magnet potenti energi align north south pole earth magnet field needl move outsid forc torqu exert magnet dipol needl earth magnet field caus move back align magnet potenti energi needl highest field direct earth magnet field two magnet potenti energi relat distanc also depend orient opposit pole held apart potenti energi highest near edg attract lowest pull togeth convers like pole highest potenti energi forc togeth lowest spring apart
+nuclear potenti energi
+nuclear potenti energi potenti energi particl insid atom nucleus nuclear particl bound togeth strong nuclear forc weak nuclear forc provid potenti energi certain kind radioact decay beta decay
+nuclear particl like proton neutron destroy fission fusion process collect less mass individu free mass differ liber heat radiat nuclear reaction heat radiat miss mass often escap system measur energi sun exampl form energi convers sun process hydrogen fusion convert million tonn solar matter per second electromagnet energi radiat space
+forc potenti potenti energi
+potenti energi close link forc work done forc bodi move b depend path point work forc measur assign scalar valu everi point space defin scalar potenti field case forc defin negat vector gradient potenti field
+exampl graviti conserv forc associ potenti gravit potenti often denot correspond energi per unit mass function posit gravit potenti energi two particl mass m m separ distanc r
+gravit potenti specif energi two bodi
+reduc mass
+work done graviti move infinitesim mass point point b work done go back way total work done move b return
+potenti redefin potenti b constant ie number posit negat must b work done go b
+practic term mean one set zero anywher one like one may set zero surfac earth may find conveni set zero infin express given earlier section
+conserv forc express languag differenti geometri close form euclidean space contract de rham cohomolog vanish everi close form also exact form express gradient scalar field give mathemat justif fact conserv forc gradient potenti field
+note
+refer
+serway raymond jewett john w physic scientist engin th ed brookscol cengag isbn
+tipler paul physic scientist engin mechan oscil wave thermodynam th ed w h freeman isbn
+extern link
+potenti energi

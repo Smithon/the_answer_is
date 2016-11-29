@@ -1,0 +1,136 @@
+rate law rate equat chemic reaction equat link reaction rate concentr pressur reactant constant paramet normal rate coeffici partial reaction order mani reaction rate given power law
+b express concentr speci b respect usual mole per liter molar m expon x y partial reaction order must determin experiment often equal stoichiometr coeffici constant k rate coeffici rate constant reaction valu coeffici k may depend condit temperatur ionic strength surfac area adsorb light irradi
+elementari reaction consist singl step order equal molecular predict collis theori exampl bimolecular elementari reaction b product second order overal first order reactant rate equat multistep reaction order step equal molecular general true overal rate
+rate equat reaction assum multistep mechan often deriv theoret use quasisteadi state assumpt under elementari reaction compar experiment rate equat test assum mechan equat may involv fraction order may depend concentr intermedi speci
+rate equat differenti equat integr obtain integr rate equat link concentr reactant product time
+zero order reactionsedit
+zero order reaction rate independ concentr reactant increas concentr react speci speed rate reaction ie amount substanc react proport time zero order reaction typic found materi requir reaction proceed surfac catalyst satur reactant rate law zero order reaction
+r reaction rate k reaction rate coeffici unit concentr time zeroth order reaction occur close system net buildup intermedi reaction occur shown solv mass balanc equat system
+differenti equat integr give equat often call integr zero order rate law
+repres concentr chemic interest particular time repres initi concentr
+reaction zero order concentr data plot versus time result straight line plot vs time give straight line slope
+halflif reaction describ time need half reactant deplet halflif involv nuclear decay first order reaction zero order reaction halflif given
+exampl zero order reaction
+revers haber process
+order reaction cannot deduc chemic equat reaction
+first order reactionsedit
+first order reaction depend concentr one reactant unimolecular reaction reactant present zero order rate law reaction first order respect reactant
+k first order rate constant unit
+integr first order rate law
+plot vs time give straight line slope
+halflif first order reaction independ start concentr given
+exampl reaction first order respect reactant
+properti first order reaction kineticsedit
+integr first order rate law
+usual written form exponenti decay equat
+differ equival way consid first order kinet follow exponenti decay equat rewritten
+correspond specif time period integ correspond number time period end time period fraction reactant popul remain relat amount present start time period
+time period fraction origin reactant popul
+correspond fraction reactant popul break time period equat indic fraction total amount reactant popul break time period independ initi amount present chosen time period correspond fraction popul break time period exact amount present start time period ie time period correspond halflif first order reaction
+averag rate reaction nth time period given
+therefor amount remain end time period relat averag rate time period reactant popul start time period
+sinc fraction reactant popul break time period express
+amount reactant break time period relat averag rate time period
+amount remain end time period relat amount present start time period accord
+equat recurs allow calcul amount present number time period without need rate constant provid averag rate time period known
+second order reactionsedit
+second order reaction depend concentr one second order reactant two first order reactant
+reaction rate given
+last equat stem definit rate law respect reactant
+consid reaction b
+second order reaction involv one reagent must mean term definit rate law deriv b respect time equal one half deriv respect time b appear disappear thus speed disappear twice speed b appear disappear group two b appear group one deriv b respect time equal minus one half deriv respect time
+take account definit rate equat relationship rate reaction term concentr given reagent say ra make express equival find
+thus deriv respect time must halv obtain rate disappear
+integr second order rate law respect
+b must differ obtain integr equat
+halflif equat second order reaction depend one second order reactant reaction halflif progress doubl concentr reactant fall half initi valu
+anoth way present rate law take log side
+exampl second order reaction
+pseudofirst orderedit
+measur second order reaction rate reactant b problemat concentr two reactant must follow simultan difficult measur one calcul differ less precis common solut problem pseudofirst order approxim
+concentr one reactant remain constant suppli great excess concentr absorb within rate constant obtain pseudo first order reaction constant fact depend concentr one reactant exampl b remain constant
+k kob unit express obtain ident first order express
+one way obtain pseudofirst order reaction use larg excess one reactant ba would work previous exampl reaction progress small amount reactant consum concentr consid stay constant collect mani reaction differ excess concentr b plot versus b give regular second order rate constant slope
+exampl hydrolysi ester dilut miner acid follow pseudofirst order kinet concentr water present larg excess
+chcooch ho chcooh choh
+summari reaction order nedit
+elementari reaction step order call ternari reaction rare unlik occur howev overal reaction compos sever elementari step cours includ noninteg order
+m stand concentr molar mol l time k reaction rate constant halflif first order reaction often express k ln
+equilibrium reaction oppos reactionsedit
+pair forward revers reaction may defin equilibrium process exampl b react x y vice versa u v stoichiometr coeffici
+reaction rate express reaction assum one elementari express
+k rate coeffici reaction consum b k rate coeffici backward reaction consum x y produc b
+constant k k relat equilibrium coeffici reaction k follow relationship set r balanc
+simpl exampleedit
+simpl equilibrium two speci
+reaction start initi concentr initi concentr b time
+constant k equilibrium express
+concentr b equilibrium respect
+concentr time relat concentr b time equilibrium reaction equat
+note term present simpl exampl initi concentr b
+appli even time infin ie equilibrium reach
+follow definit k
+therefor
+equat allow us uncoupl system differenti equat allow us solv concentr alon
+reaction equat given previous
+deriv negat rate reaction go b therefor concentr decreas simplifi annot let x concentr time let concentr equilibrium
+sinc
+reaction rate becom
+result
+plot negat natur logarithm concentr time minus concentr equilibrium versus time give straight line slope kf kb measur ae valu k two reaction rate constant known
+general simpl exampleedit
+concentr time differ simplif invalid system differenti equat must solv howev system also solv exact yield follow general express
+equilibrium constant close uniti reaction rate fast instanc conform analysi molecul method requir determin rate constant instanc complet lineshap analysi nmr spectroscopi
+consecut reactionsedit
+rate constant follow reaction rate equat
+reactant
+reactant b
+product c
+individu concentr scale total popul reactant becom probabl linear system differenti equat formul master equat differenti equat solv analyt integr rate equat
+steadi state approxim lead similar result easier way
+parallel competit reactionsedit
+substanc react simultan give two differ product parallel competit reaction said take place
+two first order reaction
+constant rate equat
+integr rate equat
+one import relationship case
+one first order one second order reaction
+case studi bimolecular reaction simultan hydrolysi treat pseudo order one take place hydrolysi complic studi reaction kinet reactant spent parallel reaction exampl react r give product c meanwhil hydrolysi reaction take away amount give b byproduct rate equat pseudo first order constant
+integr rate equat main product c equival concentr b relat c
+integr equat analyt obtain process assum therefeor previous equat c use low concentr c compar
+stoichiometr reaction networksedit
+general descript chemic reaction network consid number distinct chemic speci react via reaction chemic equat th reaction written generic form
+often written equival form
+reaction index run
+denot th chemic speci
+rate constant th reaction
+stoichiometr coeffici reactant product respect
+rate reaction infer law mass action
+denot flux molecul per unit time unit volum vector concentr note definit includ elementari reaction
+zero order reaction
+first order reaction
+singl
+second order reaction
+exact two ie bimolecular reaction singl ie dimer reaction
+discuss detail one defin stoichiometr matrix
+denot net extend molecul reaction reaction rate equat written general form
+note product stoichiometr matrix vector reaction rate function particular simpl solut exist equilibrium system compos mere revers reaction case rate forward backward reaction equal principl call detail balanc note detail balanc properti stoichiometr matrix alon depend particular form rate function case detail balanc violat common studi flux balanc analysi develop understand metabol pathway
+general dynam unimolecular conversionedit
+general unimolecular reaction involv interconvers differ speci whose concentr time denot analyt form timeevolut speci found let rate constant convers speci speci denot construct rateconst matrix whose entri
+also let vector concentr function time
+let vector one
+let ident matrix
+let function take vector construct diagon matrix whose ondiagon entri vector
+let invers laplac transform
+timeevolv state given
+thus provid relat initi condit system state time
+see alsoedit
+michaelismenten kinet
+petersen matrix
+reactiondiffus equat
+reaction surfac rate equat reaction least one reactant adsorb onto surfac
+reaction progress kinet analysi
+reaction rate
+reaction rate constant
+steadi state approxim
+referencesedit

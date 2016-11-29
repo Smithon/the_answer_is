@@ -1,0 +1,143 @@
+round numer valu mean replac anoth valu approxim equal shorter simpler explicit represent exampl replac fraction express
+round often done obtain valu easier report communic origin round also import avoid mislead precis report comput number measur estim exampl quantiti comput known accur within hundr unit better state
+hand round exact number introduc roundoff error report result round almost unavoid report mani comput especi divid two number integ fixedpoint arithmet comput mathemat function squar root logarithm sine use float point represent fix number signific digit sequenc calcul round error general accumul certain illcondit case may make result meaningless
+accur round transcendent mathemat function difficult number extra digit need calcul resolv whether round cannot known advanc problem known tablemak dilemma
+round mani similar quantize occur physic quantiti must encod number digit signal
+wavi equal sign sometim use indic round exact number exampl
+type roundingedit
+typic round problem
+approxim irrat number fraction eg
+approxim fraction period decim expans finit decim fraction eg
+replac ration number fraction smaller numer denomin eg
+replac fraction decim number one fewer digit eg dollar dollar
+replac decim integ integ trail zero eg peopl peopl general
+replac valu multipl specifi amount eg second second multipl
+round specifi incrementedit
+common type round round integ general integ multipl increment round whole tenth second hundredth dollar whole multipl inch whole dozen thousand etc
+general round number x multipl specifi increment m entail follow step
+divid x m let result y
+round y integ valu call q
+multipli q m obtain round valu z
+exampl round x dollar whole cent ie multipl entail comput y xm round y integ q final comput z qm
+round predetermin number signific digit increment m depend magnitud number round round result
+increment m normal finit fraction whatev number system use repres number display human usual mean decim number system m integ time power like intermedi valu store digit comput often mean binari number system m integ time power
+abstract singleargu round function return integ arbitrari real valu least dozen distinct concret definit present round integ section abstract twoargument round function formal defin mani case use implicit valu m increment reduc equival abstract singleargu function also dozen distinct concret definit
+round integeredit
+basic form round replac arbitrari number integ follow round mode concret implement abstract singleargu round function present use previous section
+mani way round number y integ q common one
+round take floor round toward minus infin q largest integ exceed y
+round take ceil round toward plus infin q smallest integ less y
+round toward zero truncat round away infin q integ part y without fraction digit
+round away zero round toward infin y integ q y els q integ closest y q
+round nearest q integ closest y see tiebreak rule
+first four method call direct round displac origin number y round valu q direct toward away limit valu
+y posit rounddown roundtowardszero roundup roundawayfromzero y negat rounddown roundawayfromzero roundup roundtowardszero case y integ q y
+mani calcul done sequenc choic round method signific effect result famous instanc involv new index set vancouv stock exchang initi set three decim place accuraci month fallen wherea stock price general increas period problem caus index recalcul thousand time daili alway round decim place way round error accumul recalcul better round gave index valu end period
+tiebreakingedit
+round number y nearest integ requir tiebreak rule case y exact halfway two integ fraction part y exact
+round half upedit
+follow tiebreak rule call round half round half toward posit infin wide use mani disciplin halfway valu y alway round
+fraction y exact q y
+exampl rule valu get round get round
+howev program languag java defin halfup round half away zero
+fraction roundoff error introduc round nearest method would symmetr everi fraction get round complementari fraction name get round amount round larg set number random fraction part round error would statist compens expect averag valu round number would equal expect valu origin number
+howev round half tiebreak rule symmetr fraction exact alway get round asymmetri introduc posit bias roundoff error exampl fraction y consist three random decim digit expect valu q higher expect valu y reason roundtonearest round half rule also ambigu known asymmetr round
+one reason round posit decim first figur decim point need examin exampl look alon determin number round case true negat decim fraction figur valu need examin determin round lower
+round half downedit
+one may also use round half round half toward negat infin oppos common round half
+fraction y exact q y
+exampl get round get round
+round half tiebreak rule symmetr fraction exact alway get round asymmetri introduc negat bias roundoff error exampl fraction y consist three random decim digit expect valu q lower expect valu y reason roundtonearest round half rule also ambigu known asymmetr round
+round half toward zeroedit
+one may also round half toward zero round half away infin oppos convent round half away zero
+fraction y exact q y y posit q y y negat
+exampl get round get round
+method also treat posit negat valu symmetr therefor free overal bias origin number posit negat equal probabl
+round half away zeroedit
+tiebreak method common taught use round half away zero round half toward infin name
+fraction y exact q y y posit q y y negat
+exampl get round get round
+method treat posit negat valu symmetr therefor free overal bias origin number posit negat equal probabl
+often use currenc convers price round amount first convert smallest signific subdivis currenc cent euro easi explain consid first fraction digit independ supplementari precis digit sign amount strict equival pay recipi amount
+round half evenedit
+tiebreak rule less bias round half even name
+fraction y q even integ nearest y
+thus exampl becom becom
+method treat posit negat valu symmetr therefor free sign bias import reason distribut y valu expect averag valu round number origin number howev rule introduc towardszero bias y even towardsinfin bias odd
+variant roundtonearest method also call unbias round converg round statistician round dutch round gaussian round oddeven round banker round
+default round mode use ieee comput function oper
+round half oddedit
+similar tiebreak rule round half odd
+fraction y q odd integ nearest y
+thus exampl becom becom
+method also treat posit negat valu symmetr therefor free sign bias import reason distribut y valu expect averag valu round number origin number howev rule introduc towardszero bias y odd towardsinfin bias even
+variant almost never use comput except situat one want avoid round zero avoid increas scale float point number limit expon rang round half even non infinit number would round infin small denorm valu would round normal nonzero valu effect mode prefer preserv exist scale tie number avoid rang result possibl even base number system binari decim
+stochast roundingedit
+anoth unbias tiebreak method stochast round
+fraction part y choos q random among y y equal probabl
+like roundhalftoeven rule essenti free overal bias also fair among even odd q valu hand introduc random compon result perform comput twice data may yield two differ result also open nonconsci bias human rather comput devic chanc random decid direct round
+altern tiebreakingedit
+one method obscur round half altern
+fraction part altern round round first occurr fraction part round second occurr round forth
+suppress random compon result occurr fraction part effect number still introduc posit negat bias accord direct round assign first occurr total number occurr odd
+dither error diffusionedit
+digitis continu signal exampl imag sound overal effect number measur import accuraci individu measur circumst dither relat techniqu error diffus normal use relat techniqu call pulsewidth modul use achiev analogu type output inerti devic rapid puls power variabl duti cycl
+error diffus tri ensur error averag minim deal gentl slope one zero output would zero first term sum error current valu becom greater case output differ subtract error far floydsteinberg dither popular error diffus procedur digitis imag
+round simpl fractionsedit
+context desir round given number x neat fraction nearest fraction z mn whose numer m denomin n exceed given maximum problem fair distinct round valu fix number decim binari digit multipl given unit m problem relat farey sequenc sternbrocot tree continu fraction
+scale roundingedit
+type round also name round logarithm scale variant round specifi increment round logarithm scale accomplish take log amount normal round nearest valu log scale
+exampl resistor suppli prefer number logarithm scale exampl resistor accuraci suppli nomin valu etc calcul indic resistor ohm requir log log log logarithm closer logarithm therefor ohm resistor would first choic consider
+round avail valueedit
+finish lumber write paper capacitor mani product usual sold standard size
+mani design procedur describ calcul approxim valu round standard size use phrase round nearest standard valu round nearest standard valu round nearest standard valu
+set prefer valu equal space logarithm scale choos closest prefer valu given valu seen kind scale round round valu direct calcul
+floatingpoint roundingedit
+floatingpoint arithmet round aim turn given valu x valu z specifi number signific digit word z multipl number m depend magnitud x number m power base usual floatingpoint represent
+apart detail variant round discuss appli round floatingpoint number well algorithm round present scale round section constant scale factor integ base b
+result round result would overflow result direct round either appropri sign infin highest represent posit finit number lowest represent negat finit number x negat depend direct round result overflow usual case round nearest alway appropri infin
+doubl roundingedit
+round number twice success differ precis latter precis coarser guarante give result round final precis except case direct round instanc round one decim give round integ use round half even would give round integ direct borman chatfield discuss implic doubl round compar data round one decim place specif limit express use integ
+martinez v allstat sendejo v farmer litig insur compani argu doubl round premium permiss fact requir us court rule insur compani order adopt rule ensur singl round
+comput languag ieee standard dictat straightforward calcul result round twice particular problem java design run ident differ machin special program trick use achiev x float point java languag chang allow differ result differ matter requir strictfp qualifi use result conform accur
+exact comput round arithmeticedit
+possibl use round arithmet evalu exact valu function discret domain rang exampl know integ n perfect squar comput squar root convert n floatingpoint valu x comput approxim squar root y x float point round y nearest integ q n big floatingpoint roundoff error y less round valu q exact squar root n modern comput method may much faster comput squar root n allinteg algorithm
+tablemak dilemmaedit
+william kahan coin term tablemak dilemma unknown cost round transcendent function
+nobodi know much would cost comput yw correct round everi two floatingpoint argument overunderflow instead reput math librari comput elementari transcendent function most within slight half ulp almost alway well within one ulp cant yw round within half ulp like sqrt nobodi know much comput would cost general way exist predict mani extra digit carri comput transcendent express round correct preassign number digit even fact true finit number extra digit ultim suffic may deep theorem
+ieee float point standard guarante add subtract multipli divid fuse multiplyadd squar root float point remaind give correct round result infinit precis oper guarante given standard complex function typic accur within last bit best howev standard guarante conform implement give correct round result respect activ round mode implement function howev option
+use gelfondschneid theorem lindemannweierstrass theorem mani standard elementari function prove return transcendent result given ration nonzero argument therefor alway possibl correct round function howev determin limit given precis accur result need comput correct round result guarante may demand lot comput time
+packag offer correct round gnu mpfr packag give correct round arbitrari precis result librari implement elementari function correct round doubl precis
+ibm libultim round nearest
+sun microsystemss libmcr round mode
+crlibm written arnair team lip en lyon support round mode prove
+exist comput number round valu never determin matter mani digit calcul specif instanc cannot given follow undecid halt problem instanc goldbach conjectur true unprov result round follow valu next integ cannot determin n n first even number greater sum two prime number result number exist number exist valu round howev approxim given precis even conjectur unprov
+historyedit
+concept round old perhap older even concept divis ancient clay tablet found mesopotamia contain tabl round valu reciproc squar root base round approxim length year length month also ancientse base exampl
+roundtoeven method serv astm e standard sinc origin term unbias round statistician round fair selfexplanatori th edit probabl theori error robert simpson woodward call comput rule indic common use human comput calcul mathemat tabl churchil eisenhart indic practic alreadi well establish data analysi
+origin term banker round remain obscur round method ever standard bank evid prove extrem difficult find contrari section european commiss report introduct euro round currenc amount suggest previous standard approach round bank specifi halfway amount round
+round method use floatingpoint comput arithmet usual fix hardwar poor document inconsist differ brand model comput situat chang ieee float point standard adopt comput manufactur standard allow user choos among sever round mode case specifi precis result round featur made numer comput predict machineindepend made possibl effici consist implement interv arithmet
+round function program languagesedit
+program languag provid function special syntax round fraction number various way earliest numer languag fortran c would provid one method usual truncat toward zero default method could impli certain context assign fraction number integ variabl use fraction number index array kind round program explicit exampl round posit number nearest integ could implement ad truncat
+last decad howev syntax andor standard librari languag common provid least four basic round function nearest toward zero tiebreak method may vari depend languag version andor may select programm sever languag follow lead ieee floatingpoint standard defin function take doubl precis float argument return result type may convert integ necessari approach may avoid spurious overflow sinc floatingpoint type larger rang integ type languag php provid function round valu specifi number decim digit eg addit mani languag provid printf similar string format function allow one convert fraction number string round userspecifi number decim place precis hand truncat round zero still default round method use mani languag especi divis two integ valu
+opposit css svg defin specif maximum precis number measur treat expos dom idl interfac string infinit precis discrimin integ float point valu howev implement languag typic convert number ieee doubl float point expos comput digit limit precis notabl within standard javascript ecmascript interfac bind
+round standardsedit
+disciplin institut issu standard direct round
+us weather observationsedit
+guidelin issu mid us offic feder coordin meteorolog determin weather data round nearest round number round half tiebreak rule exampl round integ becom becom prior date tiebreak rule round half away zero
+negat zero meteorologyedit
+meteorologist may write indic temperatur degre exclus round integ notat use negat sign consid import matter small magnitud exampl round temperatur celsius scale zero indic freez
+see alsoedit
+gal accur tabl
+interv arithmet
+iso
+kahan summat algorithm
+nearest integ function
+truncat
+signeddigit represent
+swedish round avoid use coin extrem low valu
+referencesedit
+extern linksedit
+weisstein eric w round mathworld
+introduct differ round algorithm access general audienc especi use studi comput scienc electron
+implement custom round procedur microsoft

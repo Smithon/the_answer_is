@@ -1,0 +1,108 @@
+thermodynam heat engin system convert heat thermal energi mechan energi use mechan work bring work substanc higher state temperatur lower state temperatur heat sourc generat thermal energi bring work substanc high temperatur state work substanc generat work work bodi engin transfer heat colder sink reach low temperatur state process thermal energi convert work exploit properti work substanc work substanc system nonzero heat capac usual gas liquid
+general engin convert energi mechan work heat engin distinguish type engin fact effici fundament limit carnot theorem although effici limit drawback advantag heat engin form energi easili convert heat process like exotherm reaction combust absorpt light energet particl friction dissip resist sinc heat sourc suppli thermal energi engin thus power virtual kind energi heat engin versatil wide rang applic
+heat engin often confus cycl attempt mimic typic describ physic devic term engin use describ model term cycl use
+overview
+thermodynam heat engin often model use standard engin model otto cycl theoret model refin augment actual data oper engin use tool indic diagram sinc actual implement heat engin exact match under thermodynam cycl one could say thermodynam cycl ideal case mechan engin case fulli understand engin effici requir gain good understand possibl simplifi ideal theoret model practic nuanc actual mechan engin discrep two
+general term larger differ temperatur hot sourc cold sink larger potenti thermal effici cycl earth cold side heat engin limit close ambient temperatur environ much lower kelvin effort improv thermodynam effici various heat engin focus increas temperatur sourc within materi limit maximum theoret effici heat engin engin ever attain equal temperatur differ hot cold end divid temperatur hot end express absolut temperatur kelvin
+effici various heat engin propos use today larg rang
+percent percent wast heat use low qualiti heat otec ocean power propos
+percent automot gasolin engin
+percent supercrit coalfir power station avedr power station
+percent steamcool combin cycl gas turbin
+process gain effici lack thereof temperatur drop across signific energi may use auxiliari equip pump effect reduc effici
+power
+heat engin character specif power typic given kilowatt per litr engin displac us also horsepow per cubic inch result offer approxim peak power output engin confus fuel effici sinc high effici often requir lean fuelair ratio thus lower power densiti modern highperform car engin make excess kwl hpin
+everyday exampl
+exampl everyday heat engin includ steam engin exampl train diesel engin gasolin petrol engin automobil common toy also heat engin drink bird also stirl engin heat engin familiar heat engin power expans heat gase general surround heat sink provid relat cool gase heat expand rapid drive mechan motion engin
+exampl heat engin
+import note although cycl typic combust locat intern extern often implement exampl john ericsson develop extern heat engin run cycl much like earlier diesel cycl addit extern heat engin often implement open close cycl
+earth heat engin
+earth atmospher hydrosphereearth heat enginear coupl process constant even solar heat imbal evapor surfac water convect rainfal wind ocean circul distribut heat around globe
+hadley system provid exampl heat engin hadley circul identifi rise warm moist air equatori region descent colder air subtrop correspond thermal driven direct circul consequ net product kinet energi
+phasechang cycl
+cycl engin work fluid gase liquid engin convert work fluid gas liquid liquid gas generat work fluid expans compress
+rankin cycl classic steam engin
+regen cycl steam engin effici rankin cycl
+organ rankin cycl coolant chang phase temperatur rang ice hot liquid water
+vapor liquid cycl drink bird injector minto wheel
+liquid solid cycl frost heav water chang ice liquid back lift rock cm
+solid gas cycl dri ice cannon dri ice sublim gas
+gason cycl
+cycl engin work fluid alway gas ie phase chang
+carnot cycl carnot heat engin
+ericsson cycl calor ship john ericsson
+stirl cycl stirl engin thermoacoust devic
+intern combust engin ice
+otto cycl eg gasolinepetrol engin highspe diesel engin
+diesel cycl eg lowspe diesel engin
+atkinson cycl atkinson engin
+brayton cycl joul cycl origin ericsson cycl gas turbin
+lenoir cycl eg puls jet engin
+miller cycl
+liquid cycl
+cycl engin work fluid alway like liquid
+stirl cycl malon engin
+heat regen cyclon
+electron cycl
+johnson thermoelectr energi convert
+thermoelectr peltierseebeck effect
+thermogalvan cell
+thermion emiss
+thermotunnel cool
+magnet cycl
+thermomagnet motor tesla
+cycl use refriger
+domest refriger exampl heat pump heat engin revers work use creat heat differenti mani cycl run revers move heat cold side hot side make cold side cooler hot side hotter intern combust engin version cycl natur revers
+refriger cycl includ
+vaporcompress refriger
+stirl cryocool
+gasabsorpt refriger
+air cycl machin
+vuilleumi refriger
+magnet refriger
+evapor heat engin
+barton evapor engin heat engin base cycl produc power cool moist air evapor water hot dri air
+mesoscop heat engin
+mesoscop heat engin nanoscal devic may serv goal process heat flux perform use work small scale potenti applic includ eg electr cool devic mesoscop heat engin work per cycl oper fluctuat due thermal nois exact equal relat averag expon work perform heat engin heat transfer hotter heat bath relat transform carnot inequ exact equal
+effici
+effici heat engin relat much use work output given amount heat energi input
+law thermodynam
+work extract engin negat sinc work done engin
+heat energi taken high temperatur system negat sinc heat extract sourc henc posit
+heat energi deliv cold temperatur system posit sinc heat ad sink
+word heat engin absorb heat energi high temperatur heat sourc convert part use work deliv rest cold temperatur heat sink
+general effici given heat transfer process whether refriger heat pump engin defin inform ratio get put
+case engin one desir extract work put heat transfer
+theoret maximum effici heat engin depend temperatur oper effici usual deriv use ideal imaginari heat engin carnot heat engin although engin use differ cycl also attain maximum effici mathemat revers process chang entropi cold reservoir negat hot reservoir ie keep overal chang entropi zero thus
+absolut temperatur hot sourc cold sink usual measur kelvin note posit negat revers workextract process entropi overal increas rather move hot highentropi system cold lowentropi one decreas entropi heat sourc increas heat sink
+reason behind maxim effici goe follow first assum effici heat engin carnot engin possibl could driven revers heat pump mathemat analysi use show assum combin would result net decreas entropi sinc second law thermodynam statist improb point exclus carnot effici theoret upper bound reliabl effici process
+empir heat engin ever shown run greater effici carnot cycl heat engin
+figur figur show variat carnot cycl effici figur indic effici chang increas heat addit temperatur constant compressor inlet temperatur figur indic effici chang increas heat reject temperatur constant turbin inlet temperatur
+endorevers heat engin
+carnot effici criterion heat engin perform fact natur maxim effici carnot cycl must oper infinitesim temperatur gradient transfer heat two bodi differ temperatur irrevers therefor carnot effici express appli infinitesim limit major problem object heat engin output sort power infinitesim power usual sought
+differ measur ideal heat engin effici given consider endorevers thermodynam cycl ident carnot cycl except two process heat transfer revers callen
+note unit k r
+model better job predict well realworld heat engin callen see also endorevers thermodynam
+shown endorevers effici much close model observ data
+histori
+heat engin known sinc antiqu made use devic time industri revolut th centuri continu develop today
+heat engin enhanc
+engin studi various heat engin cycl extens effort improv amount usabl work could extract given power sourc carnot cycl limit cannot reach gasbas cycl engin work least two way possibl go around limit one way get better effici without bend rule
+increas temperatur differ heat engin simplest way increas hot side temperatur approach use modern combinedcycl gas turbin unfortun physic limit melt point materi use build engin environment concern regard nox product restrict maximum temperatur workabl heat engin modern gas turbin run temperatur high possibl within rang temperatur necessari maintain accept nox output anoth way increas effici lower output temperatur one new method use mix chemic work fluid exploit chang behavior mixtur one famous socal kalina cycl use mix ammonia water work fluid mixtur allow cycl generat use power consider lower temperatur process
+exploit physic properti work fluid common exploit use water socal critic point socal supercrit steam behavior fluid critic point chang radic materi water carbon dioxid possibl exploit chang behavior extract greater thermodynam effici heat engin even use fair convent brayton rankin cycl newer promis materi applic co xenon also consid applic although littl toxic
+exploit chemic properti work fluid fair new novel exploit use exot work fluid advantag chemic properti one nitrogen dioxid toxic compon smog natur dimer dinitrogen tetraoxid low temperatur compress heat increas temperatur caus break apart two molecul lower molecular weight work fluid drastic increas effici cycl expand turbin cool heat sink make recombin fed back compressor anoth cycl speci aluminium bromid albr nocl gai investig use date drawback warrant use despit effici gain realiz
+heat engin process
+process one follow
+isotherm constant temperatur maintain heat ad remov heat sourc sink
+isobar constant pressur
+isometricisochor constant volum also refer isovolumetr
+adiabat heat ad remov system adiabat process
+isentrop revers adiabat process heat ad remov isentrop process
+see also
+heat pump
+reciproc engin general descript mechan piston engin
+thermosynthesi
+timelin heat engin technolog
+refer
+kroemer herbert kittel charl thermal physic nd ed w h freeman compani isbn
+callen herbert b thermodynam introduct thermostatist nd ed john wiley son inc isbn

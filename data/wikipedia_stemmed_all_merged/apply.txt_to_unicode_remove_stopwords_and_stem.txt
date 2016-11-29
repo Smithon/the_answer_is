@@ -1,0 +1,53 @@
+mathemat comput scienc appli function appli function argument central program languag deriv lambda calculus lisp scheme also function languag particular role studi denot semant comput program continu function complet partial order
+categori theori appli import cartesian close categori thus also topo theori univers morphism right adjoint curri
+program
+comput program appli appli function list argument eval appli two interdepend compon evalappli cycl essenc evalu lisp describ sicp
+appli function
+appli also name special function mani languag take function list use list function argument list function call element list argument import languag variad function way call function indetermin compil time number argument
+common lisp scheme
+common lisp appli function appli function list argument note variad function take number argument
+similar scheme
+c
+c bind use either via std namespac via boost namespac
+c java
+c java variad argument simpli collect array caller explicit pass array place variad argument done variad paramet possibl appli array argument nonvariad paramet without use reflect ambigu case aris caller want pass array one argument rather use array list argument case caller cast array object prevent compil use appli interpret
+go
+go type variad argument simpli collect slice caller explicit pass slice place variad argument append slice argument done variad paramet caller appli array argument nonvariad paramet without use reflect
+stringfoo bar
+variadicfunc
+haskel
+haskel function may appli simpl juxtaposit
+haskel syntax may also interpret paramet curri function turn exampl func param return anoth function accept one fewer paramet appli param function paramet
+javascript
+javascript function object appli method first argument valu keyword insid function second list argument
+lua
+lua appli written way
+perl
+perl array hash express automat flatten singl list evalu list context argument list function
+php
+php appli call calluserfuncarray
+python rubi
+python rubi asterisk notat use defin variad function use call function sequenc array respect
+python origin appli function deprec favour asterisk remov
+r
+r docal construct execut function call name function list argument pass
+smalltalk
+smalltalk block function object valuewithargu method take array argument
+tcl
+sinc tcl function appli argument appli command
+function two element list arg bodi three element list arg bodi namespac
+univers properti
+consid function bracket notat denot space function b mean curri uniqu function appli provid univers morphism
+equival one commut diagram
+notat space function b occur common comput scienc categori theori howev known exponenti object written common notat differ well exampl appli often call eval even though comput scienc thing eval distinguish appli evalu quot string form function argument rather applic function argument
+also categori theori curri common denot written curryg notat conflict use lambda calculus lambda use denot free variabl notat chang account adjoint appli curri express commut diagram
+articl exponenti object cartesian close categori provid precis discuss categorytheoret formul idea thus use lambda accident cartesianclos categori provid general natur set lambda calculus
+topolog properti
+order theori categori complet partial order endow scott topolog curri appli continu function scott continu properti help establish foundat valid studi denot semant comput program
+refer
+harold abelson gerald jay sussman juli sussman structur interpret comput program mit press isbn see section metacircular evalu
+httpwwwboostorgdoclibslibsbindbindhtmlwithfunct
+nonessenti builtin function python librari refer februari retriev may
+appli tcl document retriev june
+saunder mac lane categori theori
+hp barendregt lambda calculus northholland isbn

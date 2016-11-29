@@ -1,0 +1,42 @@
+mathemat analysi maxima minima plural maximum minimum function known collect extrema plural extremum largest smallest valu function either within given rang local relat extrema entir domain function global absolut extrema pierr de fermat one first mathematician propos general techniqu adequ find maxima minima function
+defin set theori maximum minimum set greatest least element set respect unbound infinit set set real number minimum maximum
+definitionedit
+realvalu function f defin domain x global absolut maximum point x fx fx x x similar function global absolut minimum point x fx fx x x valu function maximum point call maximum valu function valu function minimum point call minimum valu function
+domain x metric space f said local relat maximum point point x exist fx fx x x within distanc x similar function local minimum point x fx fx x x within distanc x similar definit use x topolog space sinc definit given rephras term neighbourhood note global maximum point alway local maximum point similar minimum point
+global local case concept strict extremum defin exampl x strict global maximum point x x x x fx fx x strict local maximum point exist x x within distanc x x x fx fx note point strict global maximum point uniqu global maximum point similar minimum point
+continu realvalu function compact domain alway maximum point minimum point import exampl function whose domain close bound interv real number see graph
+find function maxima minimaedit
+find global maxima minima goal mathemat optim function continu close interv extrem valu theorem global maxima minima exist furthermor global maximum minimum either must local maximum minimum interior domain must lie boundari domain method find global maximum minimum look local maxima minima interior also look maxima minima point boundari take largest smallest one
+local extrema differenti function found fermat theorem state must occur critic point one distinguish whether critic point local maximum local minimum use first deriv test second deriv test higherord deriv test given suffici differenti
+function defin piecewis one find maximum minimum find maximum minimum piec separ see one largest smallest
+examplesedit
+function x uniqu global minimum x
+function x global minima maxima although first deriv x x inflect point
+function uniqu global maximum x e see figur right
+function xx uniqu global maximum posit real number x e
+function x x first deriv x second deriv x set first deriv solv x give stationari point sign second deriv see local maximum local minimum note function global maximum minimum
+function x global minimum x cannot found take deriv deriv exist x
+function cosx infinit mani global maxima infinit mani global minima
+function cosx x infinit mani local maxima minima global maximum minimum
+function cosxx x global maximum x boundari global minimum near x local maximum near x local minimum near x see figur top page
+function x x x defin close interv segment local maximum x local minimum x global maximum x global minimum x
+function one variableedit
+function one variabl similar condit appli exampl enlarg figur right necessari condit local maximum similar function one variabl first partial deriv z variabl maxim zero maximum glow dot top figur second partial deriv negat necessari suffici condit local maximum possibl saddl point use condit solv maximum function z must also differenti throughout second partial deriv test help classifi point relat maximum relat minimum contrast substanti differ function one variabl function one variabl identif global extrema exampl bound differenti function f defin close interv real line singl critic point local minimum also global minimum use intermedi valu theorem roll theorem prove reductio ad absurdum two dimens argument fail function
+show critic point local minimum howev cannot global one
+maxima minima functionaledit
+domain function extremum found consist function ie extremum found function extremum found use calculus variat
+relat setsedit
+maxima minima also defin set general order set greatest element m m maxim element furthermor subset order set m greatest element respect order induc m least upper bound similar result hold least element minim element greatest lower bound
+case general partial order least element smaller confus minim element noth smaller likewis greatest element partial order set poset upper bound set contain within set wherea maxim element m poset element m b b m b least element greatest element poset uniqu poset sever minim maxim element poset one maxim element element mutual compar
+total order set chain element mutual compar set one minim element one maxim element due mutual compar minim element also least element maxim element also greatest element thus total order set simpli use term minimum maximum chain finit alway maximum minimum chain infinit need maximum minimum exampl set natur number maximum though minimum infinit chain bound closur cls set occasion minimum maximum case call greatest lower bound least upper bound set respect
+see alsoedit
+deriv test
+limit superior limit inferior
+mechan equilibrium
+sampl maximum minimum
+saddl point
+referencesedit
+extern linksedit
+maxima minima mathworlda wolfram web resourc
+thoma simpson work maxima minima converg
+applic maxima minima sub page solv problem

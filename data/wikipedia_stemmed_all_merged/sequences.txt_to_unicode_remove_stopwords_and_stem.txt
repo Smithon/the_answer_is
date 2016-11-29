@@ -1,0 +1,156 @@
+mathemat sequenc order collect object repetit allow like set contain member also call element term number element possibl infinit call length sequenc unlik set order matter exact element appear multipl time differ posit sequenc formal sequenc defin function whose domain countabl total order set natur number
+exampl m r y sequenc letter letter m first y last sequenc differ r m y also sequenc contain number two differ posit valid sequenc sequenc finit exampl infinit sequenc even posit integ comput comput scienc finit sequenc sometim call string word list differ name common correspond differ way repres comput memori infinit sequenc also call stream empti sequenc includ notion sequenc may exclud depend context
+exampl notat
+sequenc thought list element particular order sequenc use number mathemat disciplin studi function space mathemat structur use converg properti sequenc particular sequenc basi seri import differenti equat analysi sequenc also interest right studi pattern puzzl studi prime number
+number way denot sequenc use specif type sequenc one way specifi sequenc list element exampl first four odd number form sequenc notat use infinit sequenc well instanc infinit sequenc posit odd integ written list use infinit sequenc pattern easili discern first element way denot sequenc discuss exampl
+import exampl
+mani import integ sequenc prime number natur number bigger divisor take natur order give sequenc studi prime number import applic mathemat specif number theori
+fibonacci number integ sequenc whose element sum previous two element first two element either sequenc
+interest sequenc includ ban number whose spell contain certain letter alphabet instanc eban number contain e form sequenc anoth sequenc base english spell number one base number letter
+list import exampl integ sequenc see onlin encyclopedia integ sequenc
+import exampl sequenc includ one made ration number real number complex number sequenc approach number fact everi real number written limit sequenc ration number fact allow us write real number limit sequenc decim instanc limit sequenc sequenc howev pattern easili discern eye unlik sequenc
+index
+notat use sequenc whose pattern cannot easili guess sequenc pattern digit section focus notat use sequenc map subset natur number general countabl index set see follow section
+term sequenc common denot singl variabl say index n indic nth element sequenc
+index notat use refer sequenc abstract also natur notat sequenc whose element relat index n element posit simpl way instanc sequenc first squar number could written
+repres sequenc notat often simplifi
+subscript k superscript togeth tell us element sequenc ak k
+sequenc index begin end integ infin symbol often use superscript indic sequenc includ integ kvalu start certain one sequenc posit squar denot
+case set index number understood analysi subscript superscript often left one simpli write ak arbitrari sequenc analysi k would understood run howev sequenc often index start zero
+case element sequenc relat natur sequenc integ whose pattern easili infer case index set may impli list first abstract element instanc sequenc squar odd number could denot follow way
+moreov subscript superscript could left third fourth fifth notat index set understood natur number
+final sequenc general denot write set inclus subscript
+set valu index take call index set general order element ak specifi order element index set n index set element ak come element ak sinc n element k come direct element k
+specifi sequenc recurs
+sequenc whose element relat previous element straightforward way often specifi use recurs contrast specif sequenc element term posit
+specifi sequenc recurs requir rule construct consecut element term one addit enough initi element must specifi new element sequenc specifi rule principl mathemat induct use prove sequenc welldefin say everi element sequenc specifi least singl unambigu valu induct also use prove properti sequenc especi sequenc whose natur specif recurs
+fibonacci sequenc defin use recurs rule along two initi element rule element sum previous two element first two element
+first ten term sequenc complic exampl sequenc defin recurs recaman sequenc consid begin section defin recaman sequenc
+result posit alreadi list otherwis
+sequenc specifi rule form equat recurs quit complic exampl sequenc prime number set prime number natur order give sequenc
+one also notic next element sequenc function element write next element
+function notat prove use one want prove global monotoni sequenc
+formal definit basic properti
+mani differ notion sequenc mathemat eg exact sequenc cover definit notat introduc
+formal definit
+sequenc usual defin function whose domain countabl total order set although mani disciplin domain restrict natur number real analysi sequenc function subset natur number real number word sequenc map fn n r recov earlier notat might identifi fn n write n r
+complex analysi sequenc defin map natur number complex number c topolog sequenc often defin function subset natur number topolog space sequenc import concept studi function topolog topolog space import general sequenc call net function possibl uncount direct set topolog space
+finit infinit
+length sequenc defin number term sequenc
+sequenc finit length n also call ntupl finit sequenc includ empti sequenc element
+normal term infinit sequenc refer sequenc infinit one direct finit otherth sequenc first element final element call singl infinit onesid infinit sequenc disambigu necessari contrast sequenc infinit directionsi neither first final elementi call biinfinit sequenc twoway infinit sequenc doubli infinit sequenc function set z integ set instanc sequenc even integ biinfinit sequenc could denot
+one interpret singl infinit sequenc element semigroup ring natur number rn doubli infinit sequenc element group ring integ rz perspect use cauchi product sequenc
+increas decreas
+sequenc said monoton increas term greater equal one sequenc written n n consecut term strict greater previous term sequenc call strict monoton increas sequenc monoton decreas consecut term less equal previous one strict monoton decreas strict less previous sequenc either increas decreas call monoton sequenc special case general notion monoton function
+term nondecreas nonincreas often use place increas decreas order avoid possibl confus strict increas strict decreas respect
+bound
+sequenc real number term certain one less real number m sequenc said bound less word mean m n greater n pair m n m call upper bound likewis real m m n greater n sequenc bound m call lower bound sequenc bound bound sequenc said bound
+type sequenc
+subsequ given sequenc sequenc form given sequenc delet element without disturb relat posit remain element instanc sequenc posit even integ subsequ posit integ posit element chang element delet howev relat posit preserv
+type sequenc easi defin includ
+integ sequenc sequenc whose term integ
+polynomi sequenc sequenc whose term polynomi
+posit integ sequenc sometim call multipl anm pair nm n m coprim instanc sequenc often call multipl na n moreov multipl fibonacci sequenc satisfi recurs relat
+limit converg
+one import properti sequenc converg inform sequenc converg limit continu inform singl infinit sequenc limit approach valu l call limit n becom larg abstract sequenc n run infin understood valu approach l n denot
+precis sequenc converg exist limit l remain an arbitrarili close l n larg enough
+sequenc converg limit converg otherwis diverg
+get arbitrarili larg n write
+case say sequenc diverg converg infin
+becom arbitrarili small negat number larg magnitud n write
+say sequenc diverg converg minus infin
+definit converg
+sequenc written r write index set understood n sequenc common real analysi general type sequenc consid follow section main page limit sequenc
+let sequenc word sequenc said converg exist number l matter close want l say close find natur number n term closer l within l often written compact use symbol instanc
+exist natur number n l l n n
+even compact notat
+differ definit converg onesid sequenc complex analysi metric space absolut valu l interpret distanc complex plane distanc appropri metric respect
+applic import result
+import result converg limit onesid sequenc real number includ follow equal true least side exist discuss exist limit one side impli exist see real analysi text found refer
+limit sequenc uniqu
+provid
+bn n greater n
+squeez theorem n n
+sequenc bound monoton converg
+sequenc converg everi subsequ converg
+cauchi sequenc
+cauchi sequenc sequenc whose term becom arbitrarili close togeth n get larg notion cauchi sequenc import studi sequenc metric space particular real analysi one particular import result real analysi cauchi character converg sequenc
+real number sequenc converg cauchi
+contrast ration number eg sequenc defin x xn xn xn cauchi ration limit cf
+seri
+seri inform speak sum term sequenc ad first n term onesid sequenc form nth term anoth sequenc call seri thus n seri sequenc result anoth sequenc sn given
+also write nth term seri
+concept use talk sequenc converg carri seri sequenc partial sum properti character properti under sequenc last exampl limit exist infinit seri seri creat infinit sequenc written
+use field mathemat
+topolog
+sequenc play import role topolog especi studi metric space instanc
+metric space compact exact sequenti compact
+function metric space anoth metric space continu exact take converg sequenc converg sequenc
+metric space connect space whenev space partit two set one two set contain sequenc converg point set
+topolog space separ exact dens sequenc point
+sequenc general net filter general allow one extend theorem space without metric
+product topolog
+product space sequenc topolog space cartesian product space equip natur topolog call product topolog
+formal given sequenc space defin x
+set sequenc element let canon project written pi x xi product topolog x defin coarsest topolog ie topolog fewest open set project pi continu product topolog sometim call tychonoff topolog
+analysi
+analysi talk sequenc one general consid sequenc form
+say infinit sequenc element index natur number
+may conveni sequenc start index differ exampl sequenc defin xn logn would defin n talk infinit sequenc usual suffici chang much consider assum member sequenc defin least indic larg enough greater given n
+elementari type sequenc numer one sequenc real complex number type general sequenc element vector space analysi vector space consid often function space even general one studi sequenc element topolog space
+sequenc space
+sequenc space vector space whose element infinit sequenc real complex number equival function space whose element function natur number field k real complex number set function natur identifi set possibl infinit sequenc element k turn vector space oper pointwis addit function pointwis scalar multipl sequenc space linear subspac space sequenc space typic equip norm least structur topolog vector space
+import sequenc space analysi p space consist ppower summabl sequenc pnorm special case lp space count measur set natur number import class sequenc like converg sequenc null sequenc form sequenc space respect denot c c sup norm sequenc space also equip topolog pointwis converg becom special kind frchet space call fkspace
+linear algebra
+sequenc field may also view vector vector space specif set fvalu sequenc f field function space fact product space fvalu function set natur number
+abstract algebra
+abstract algebra employ sever type sequenc includ sequenc mathemat object group ring
+free monoid
+set free monoid denot also call kleen star monoid contain finit sequenc string zero element binari oper concaten free semigroup subsemigroup contain element except empti sequenc
+exact sequenc
+context group theori sequenc
+group group homomorph call exact imag rang homomorph equal kernel next
+note sequenc group homomorph may either finit infinit
+similar definit made certain algebra structur exampl one could exact sequenc vector space linear map modul modul homomorph
+spectral sequenc
+homolog algebra algebra topolog spectral sequenc mean comput homolog group take success approxim spectral sequenc general exact sequenc sinc introduct jean leray becom import research tool particular homotopi theori
+set theori
+ordinalindex sequenc general sequenc limit ordin x set index sequenc element x function x terminolog index sequenc ordinari sequenc
+comput
+automata finit state machin typic thought direct graph edg label use specif alphabet familiar type automata transit state state read input letter follow edg match label order input automaton form sequenc call word input word sequenc state encount automaton process word call run nondeterminist automaton may unlabel duplic outedg state give one successor input letter typic thought produc multipl possibl run given word sequenc singl state rather produc singl run sequenc set state howev run occasion use mean latter
+stream
+infinit sequenc digit charact drawn finit alphabet particular interest theoret comput scienc often refer simpli sequenc stream oppos finit string infinit binari sequenc instanc infinit sequenc bit charact drawn alphabet set c infinit binari sequenc sometim call cantor space
+infinit binari sequenc repres formal languag set string set nth bit sequenc nth string shortlex order languag represent use diagon method proof
+type
+sequenc
+arithmet progress
+cauchi sequenc
+farey sequenc
+fibonacci sequenc
+geometr progress
+lookandsay sequenc
+thuemors sequenc
+relat concept
+list comput
+ordinalindex sequenc
+recurs comput scienc
+tupl
+set theori
+oper
+cauchi product
+limit sequenc
+see also
+enumer
+net topolog general sequenc
+onlin encyclopedia integ sequenc
+permut
+recurr relat
+sequenc space
+set mathemat
+refer
+extern link
+dictionari definit sequenc wiktionari
+hazewinkel michiel ed sequenc encyclopedia mathemat springer isbn
+onlin encyclopedia integ sequenc
+journal integ sequenc free
+sequenc planetmathorg

@@ -1,0 +1,60 @@
+reliabl theori reliabl engin term avail follow mean
+degre system subsystem equip specifi oper committ state start mission mission call unknown ie random time simpli put avail proport time system function condit often describ mission capabl rate mathemat express minus unavail
+ratio total time function unit capabl use given interv b length interv
+exampl unit capabl use hour per week hour would avail howev typic avail valu specifi decim high avail applic metric known nine correspond number nine follow decim point use convent five nine equal avail
+introductionedit
+avail system typic measur factor reliabl reliabl increas avail
+avail system may also increas strategi focus increas testabl diagnost maintain reliabl improv maintain earli design phase general easier reliabl testabl diagnost maintain estim item repair replac rate also general accur howev uncertainti reliabl estim also diagnost time case larg like domin avail predict uncertainti problem even maintain level high furthermor reliabl control mani differ sort issu may aris exampl
+need complex testabl built test sensor hardwar softwar requir
+need detail diagnost procedur
+manpow maintain custom servic capabl avail
+spare part avail
+dead arriv doa issu nonqual impact system avail
+logist delay spare manpow due reason
+lack repair facil tool also softwar eg situat dod f raptor fighter program
+lack repair knowledg expertpersonnel
+extens retrofit complex configur manag cost other
+problem unreli may also becom control due domino effect mainten induc failur repair increas effort problem solv reengin en servic effort focus maintain therefor enough
+failur prevent none other import therefor reliabl general regard import part avail
+reliabl need evalu improv relat avail cost ownership due cost spare part mainten manhour transport cost storag cost part obsolet risk etc often tradeoff need two might maximum ratio avail cost ownership testabl system also address avail plan link reliabl maintain mainten strategi influenc reliabl system eg prevent andor predict mainten although never bring inher reliabl maintain mainten strategi influenc avail system theori almost unlimit one would abl alway repair fault infinit short time practic imposs repair alway limit due testabl manpow logist consider reliabl limit reliabl item made outlast life machin almost certainti high level system avail eg avail engin trust aircraft use redundaci may option refer reliabl engin
+avail plan clear provid strategi avail control whether avail also cost ownership import depend use system exampl system critic link product system eg big oil platform normal allow high cost ownership translat even minor increas avail unavail platform result massiv loss revenu easili exceed high cost ownership proper reliabl plan alway address ramt analysi total context ramt stand case reliabl avail maintainabilitymainten testabl context custom need
+representationedit
+simpl represent avail ratio expect valu uptim system aggreg expect valu time
+defin status function
+therefor avail time repres
+averag avail must defin interv real line consid arbitrari constant averag avail repres
+limit steadyst avail repres
+limit averag avail also defin interv
+avail probabl item oper commit state start mission mission call random time general defin uptim divid total time uptim plus downtim
+definit within system engineeringedit
+avail inher ai probabl item oper satisfactorili given point time use state condit ideal support environ exclud logist time wait administr downtim prevent mainten downtim includ correct mainten downtim inher avail general deriv analysi engin design calcul mean time failur mttf divid mean time failur plus mean time repair mttr base quantiti control design
+avail achiev aa probabl item oper satisfactorili given point time use state condit ideal support environ ie personnel tool spare etc instantan avail exclud logist time wait administr downtim includ activ prevent correct mainten downtim
+avail oper ao probabl item oper satisfactorili given point time use actual realist oper support environ includ logist time readi time wait administr downtim prevent correct mainten downtim valu equal mean time failur mtbf divid mean time failur plus mean downtim mdt measur extend definit avail element control logistician mission planner quantiti proxim spare tool manpow hardwar item
+refer system engin detail
+exampleedit
+use equip mean time failur mttf year mean time repair mttr hour
+mttf hour reliabl paramet often high level uncertainti
+inher avail ai mttfmttfmttr
+inher unavail
+outag due equip hour per year rate mttf hour per year
+literatureedit
+avail well establish literatur stochast model optim mainten barlow proschan defin avail repair system probabl system oper specifi time blanchard give qualit definit avail measur degre system oper committ state start mission mission call unknown random point time definit come milstd lie hwang tillman develop complet survey along systemat classif avail
+avail measur classifi either time interv interest mechan system downtim time interv interest primari concern consid instantan limit averag limit averag avail aforement definit develop barlow proschan lie hwang tillman nachla second primari classif avail conting various mechan downtim inher avail achiev avail oper avail blanchard lie hwang tillman mi give comparison result avail consid inher avail
+avail consid mainten model found barlow proschan replac model fawzi hawk routofn system spare repair fawzi hawk seri system replac repair iyer imperfect repair model murdock age replac prevent mainten model nachla prevent mainten model wang pham imperfect mainten model
+applicationsedit
+avail use extens power plant engin exampl north american electr reliabl corpor implement generat avail data system
+see alsoedit
+reliabl engin
+safeti engin
+list system qualiti attribut
+spurious trip level
+conditionbas mainten
+fault report
+high avail
+ram
+referencesedit
+articl incorpor public domain materi general servic administr document feder standard c support milstd
+extern linksedit
+reliabl avail basic
+system reliabl avail
+avail differ way calcul

@@ -1,0 +1,112 @@
+vibrat mechan phenomenon wherebi oscil occur equilibrium point word come latin vibrationem shake brandish oscil may period motion pendulumor random movement tire gravel road
+vibrat desirablefor exampl motion tune fork reed woodwind instrument harmonica mobil phone cone loudspeak
+mani case howev vibrat undesirablewast energi creat unwant sound exampl vibrat motion engin electr motor mechan devic oper typic unwant vibrat caus imbal rotat part uneven friction mesh gear teeth etc care design usual minim unwant vibrat
+studi sound vibrat close relat sound pressur wave generat vibrat structur eg vocal cord pressur wave also induc vibrat structur eg ear drum henc tri reduc nois often problem tri reduc vibrat
+type vibrationedit
+free vibrat occur mechan system set initi input allow vibrat freeli exampl type vibrat pull child back swing let go hit tune fork let ring mechan system vibrat one natur frequenc damp zero
+forc vibrat timevari disturb load displac veloc appli mechan system disturb period steadyst input transient input random input period input harmon nonharmon disturb exampl type vibrat includ shake wash machin due imbal transport vibrat caus truck engin spring road etc vibrat build earthquak linear system frequenc steadyst vibrat respons result applic period harmon input equal frequenc appli forc motion respons magnitud depend actual mechan system
+vibrat testingedit
+vibrat test accomplish introduc forc function structur usual type shaker altern dut devic test attach tabl shaker vibrat test perform examin respons devic test dut defin vibrat environ measur respons may fatigu life reson frequenc squeak rattl sound output nvh squeak rattl test perform special type quiet shaker produc low sound level oper
+relat low frequenc forc servohydraul electrohydraul shaker use higher frequenc electrodynam shaker use general one input control point locat dutsid fixtur kept specifi acceler respons point experi maximum vibrat level reson minimum vibrat level antireson often desir achiev antireson keep system becom noisi reduc strain certain part due vibrat mode caus specif vibrat frequenc
+common type vibrat test servic conduct vibrat test lab sinusoid random sine onefrequencyatatim test perform survey structur respons devic test dut random frequenc test general consid close replic real world environ road input move automobil
+vibrat test conduct singl dut axi time even though realworld vibrat occur various axe simultan milstdg releas late test method call multipl excit test vibrat test fixtur use attach dut shaker tabl must design frequenc rang vibrat test spectrum general smaller fixtur lower frequenc rang design target fixtur design free reson test frequenc rang becom difficult dut get larger test frequenc increas case multipoint control strategi mitig reson may present futur devic specif design trace record vibrat call vibroscop
+vibrat analysisedit
+vibrat analysi va appli industri mainten environ aim reduc mainten cost equip downtim detect equip fault va key compon condit monitor cm program often refer predict mainten pdm common va use detect fault rotat equip fan motor pump gearbox etc unbal misalign roll element bear fault reson condit
+va use unit displac veloc acceler display time waveform twf common spectrum use deriv fast fourier transform twf vibrat spectrum provid import frequenc inform pinpoint faulti compon
+fundament vibrat analysi understood studi simpl massspringdamp model inde even complex structur automobil bodi model summat simpl massspringdamp model massspringdamp model exampl simpl harmon oscil mathemat use describ behavior ident simpl harmon oscil rlc circuit
+note articl includ stepbystep mathemat deriv focus major vibrat analysi equat concept pleas refer refer end articl detail deriv
+free vibrat without dampingedit
+start investig massspringdamp assum damp neglig extern forc appli mass ie free vibrat forc appli mass spring proport amount spring stretch x assum spring alreadi compress due weight mass proport constant k stiff spring unit forcedist eg lbfin nm negat sign indic forc alway oppos motion mass attach
+forc generat mass proport acceler mass given newton second law motion
+sum forc mass generat ordinari differenti equat
+assum initi vibrat begin stretch spring distanc releas solut equat describ motion mass
+solut say oscil simpl harmon motion amplitud frequenc fn number fn call undamp natur frequenc simpl massspr system fn defin
+note angular frequenc f unit radian per second often use equat simplifi equat normal convert ordinari frequenc unit hz equival cycl per second state frequenc system mass stiff system known formula determin frequenc system vibrat set motion initi disturb everi vibrat system one natur frequenc vibrat disturb simpl relat use understand general happen complex system add mass stiff exampl formula explain car truck fulli load suspens feel softer unloadedth mass increas reduc natur frequenc system
+caus system vibrat conserv energi point viewedit
+vibrat motion could understood term conserv energi exampl spring extend valu x therefor potenti energi store spring releas spring tend return unstretch state minimum potenti energi state process acceler mass point spring reach unstretch state potenti energi suppli stretch transform kinet energi mass begin deceler compress spring process transfer kinet energi back potenti thus oscil spring amount transfer back forth kinet energi potenti energi simpl model mass continu oscil forev magnitudebut real system damp alway dissip energi eventu bring spring rest
+free vibrat dampingedit
+viscous damper ad model output forc proport veloc mass damp call viscous model effect fluid within object proport constant c call damp coeffici unit forc veloc lbf n sm
+sum forc mass result follow ordinari differenti equat
+solut equat depend amount damp damp small enough system still vibratesbut eventu time stop vibrat case call underdamp import vibrat analysi damp increas point system longer oscil system reach point critic damp damp increas past critic damp system overdamp valu damp coeffici must reach critic damp mass spring damper model
+character amount damp system ratio call damp ratio also known damp factor critic damp use damp ratio ratio actual damp amount damp requir reach critic damp formula damp ratio mass spring damper model
+exampl metal structur eg airplan fuselag engin crankshaft damp factor less automot suspens rang solut underdamp system mass spring damper model follow
+valu x initi magnitud phase shift determin amount spring stretch formula valu found refer
+damp undamp natur frequenciesedit
+major point note solut exponenti term cosin function exponenti term defin quick system damp larger damp ratio quicker damp zero cosin function oscil portion solut frequenc oscil differ undamp case
+frequenc case call damp natur frequenc relat undamp natur frequenc follow formula
+damp natur frequenc less undamp natur frequenc mani practic case damp ratio relat small henc differ neglig therefor damp undamp descript often drop state natur frequenc eg damp ratio damp natur frequenc less undamp
+plot side present damp ratio effect system ring time often done practic experiment measur free vibrat impact exampl hammer determin natur frequenc system measur rate oscil well damp ratio measur rate decay natur frequenc damp ratio import free vibrat also character system behav forc vibrat
+forc vibrat dampingedit
+behavior spring mass damper model vari addit harmon forc forc type could exampl generat rotat imbal
+sum forc mass result follow ordinari differenti equat
+steadi state solut problem written
+result state mass oscil frequenc f appli forc phase shift
+amplitud vibrat x defin follow formula
+r defin ratio harmon forc frequenc undamp natur frequenc massspringdamp model
+phase shift defin follow formula
+plot function call frequenc respons system present one import featur forc vibrat light damp system forc frequenc near natur frequenc amplitud vibrat get extrem high phenomenon call reson subsequ natur frequenc system often refer reson frequenc rotor bear system rotat speed excit reson frequenc refer critic speed
+reson occur mechan system harm lead eventu failur system consequ one major reason vibrat analysi predict type reson may occur determin step take prevent occur amplitud plot show ad damp signific reduc magnitud vibrat also magnitud reduc natur frequenc shift away forc frequenc chang stiff mass system system cannot chang perhap forc frequenc shift exampl chang speed machin generat forc
+follow point regard forc vibrat shown frequenc respons plot
+given frequenc ratio amplitud vibrat x direct proport amplitud forc eg doubl forc vibrat doubl
+littl damp vibrat phase forc frequenc frequenc ratio r degre phase frequenc ratio r
+r amplitud deflect spring static forc deflect call static deflect henc r effect damper mass minim
+r amplitud vibrat actual less static deflect region forc generat mass f ma domin acceler seen mass increas frequenc sinc deflect seen spring x reduc region forc transmit spring f kx base reduc therefor massspringdamp system isol harmon forc mount base refer vibrat isol interest damp actual reduc effect vibrat isol r damp forc f cv also transmit base
+whatev damp vibrat degre phase forc frequenc frequenc ratio r help come determin natur frequenc system
+whatev damp r vibrat degre phase forc frequenc
+whatev damp r vibrat phase forc frequenc
+caus resonanceedit
+reson simpl understand spring mass view energi storag element mass store kinet energi spring store potenti energi discuss earlier mass spring extern forc act transfer energi back forth rate equal natur frequenc word effici pump energi mass spring requir energi sourc feed energi rate equal natur frequenc appli forc mass spring similar push child swing push need correct moment make swing get higher higher case swing forc appli need high get larg motion must add energi system
+damper instead store energi dissip energi sinc damp forc proport veloc motion damper dissip energi therefor point energi dissip damper equal energi ad forc point system reach maximum amplitud continu vibrat level long forc appli stay damp exist noth dissip energi theoret motion continu grow infin
+appli complex forc massspringdamp modeledit
+previous section simpl harmon forc appli model extend consider use two power mathemat tool first fourier transform take signal function time time domain break harmon compon function frequenc frequenc domain exampl appli forc massspringdamp model repeat follow cycl forc equal newton second forc second type forc shape hz squar wave
+fourier transform squar wave generat frequenc spectrum present magnitud harmon make squar wave phase also generat typic less concern therefor often plot fourier transform also use analyz nonperiod function transient eg impuls random function fourier transform almost alway comput use fast fourier transform fft comput algorithm combin window function
+case squar wave forc first compon actual constant forc newton repres valu hz frequenc spectrum next compon hz sine wave amplitud shown line hz remain compon odd frequenc take infinit amount sine wave generat perfect squar wave henc fourier transform allow interpret forc sum sinusoid forc appli instead complex forc eg squar wave
+previous section vibrat solut given singl harmon forc fourier transform general give multipl harmon forc second mathemat tool principl superposit allow summat solut multipl forc system linear case springmassdamp model system linear spring forc proport displac damp proport veloc rang motion interest henc solut problem squar wave sum predict vibrat one harmon forc found frequenc spectrum squar wave
+frequenc respons modeledit
+solut vibrat problem view inputoutput relat forc input output vibrat repres forc vibrat frequenc domain magnitud phase allow follow relat
+call frequenc respons function also refer transfer function technic accur magnitud phase compon repres complex number real imaginari compon magnitud frequenc respons function frf present earlier massspringdamp system
+phase frf also present earlier
+exampl calcul frf massspringdamp system mass kg spring stiff nmm damp ratio valu spring mass give natur frequenc hz specif system appli hz squar wave earlier allow calcul predict vibrat mass figur illustr result vibrat happen exampl fourth harmon squar wave fall hz frequenc respons massspringdamp therefor output high hz vibrat even though input forc relat low hz harmon exampl highlight result vibrat depend forc function system forc appli
+figur also show time domain represent result vibrat done perform invers fourier transform convert frequenc domain data time domain practic rare done frequenc spectrum provid necessari inform
+frequenc respons function frf necessarili calcul knowledg mass damp stiff systembut measur experiment exampl known forc appli sweep frequenc measur result vibrat frequenc respons function calcul system character techniqu use field experiment modal analysi determin vibrat characterist structur
+multipl degre freedom system mode shapesedit
+simpl massspr damper model foundat vibrat analysi complex system massspringdamp model describ call singl degre freedom sdof model sinc mass assum move complex system system must discret mass move one direct ad degre freedom major concept multipl degre freedom mdof understood look degre freedom model shown figur
+equat motion dof system found
+rewritten matrix format
+compact form matrix equat written
+symmetr matric refer respect mass damp stiff matric matric nxn squar matric n number degre freedom system
+follow analysi involv case damp appli forc ie free vibrat solut viscous damp system somewhat complic
+differenti equat solv assum follow type solut
+note use exponenti solut mathemat trick use solv linear differenti equat use euler formula take real part solut cosin solut dof system exponenti solut use easier manipul mathemat
+equat becom
+sinc cannot equal zero equat reduc follow
+eigenvalu problemedit
+refer eigenvalu problem mathemat put standard format premultipli equat
+solut problem result n eigenvalu ie n correspond number degre freedom eigenvalu provid natur frequenc system eigenvalu substitut back origin set equat valu correspond eigenvalu call eigenvector eigenvector repres mode shape system solut eigenvalu problem quit cumbersom especi problem mani degre freedom fortun math analysi program eigenvalu routin
+eigenvalu eigenvector often written follow matrix format describ modal model system
+simpl exampl use dof model help illustr concept let mass mass kg stiff three spring equal nm mass stiff matrix problem
+eigenvalu problem given eigenvalu routin
+natur frequenc unit hertz rememb
+two mode shape respect natur frequenc given
+sinc system dof system two mode respect natur frequenc shape mode shape vector absolut motion describ relat motion degre freedom case first mode shape vector say mass move togeth phase sinc valu sign case second mode shape vector mass move opposit direct rate
+illustr multipl dof problemedit
+mani degre freedom one method visual mode shape anim exampl anim mode shape shown figur cantilev ibeam case finit element method use generat approxim mass stiff matric solv discret eigenvalu problem note case finit element method provid approxim d electrodynam model exist infinit number vibrat mode frequenc therefor relat simpl model degre freedom henc mani natur frequenc mode shape provid good approxim first natur frequenc mode general first mode import practic applic
+note perform numer approxim mathemat model converg paramet interest must ascertain
+multipl dof problem convert singl dof problemedit
+eigenvector import properti call orthogon properti properti use great simplifi solut multidegre freedom model shown eigenvector follow properti
+diagon matric contain modal mass stiff valu one mode note sinc eigenvector mode shape arbitrarili scale orthogon properti often use scale eigenvector modal mass valu mode equal modal mass matrix therefor ident matrix
+properti use great simplifi solut multidegre freedom model make follow coordin transform
+use coordin transform origin free vibrat differenti equat result follow equat
+take advantag orthogon properti premultipli equat
+orthogon properti simplifi equat
+equat foundat vibrat analysi multipl degre freedom system similar type result deriv damp system key modal mass stiff matric diagon matric therefor equat decoupl word problem transform larg unwieldi multipl degre freedom problem mani singl degre freedom problem solv use method outlin
+solv x replac solv q refer modal coordin modal particip factor
+may clearer understand written
+written form seen vibrat degre freedom linear sum mode shape furthermor much mode particip final vibrat defin q modal particip factor
+see alsoedit
+referencesedit
+readingedit
+extern linksedit
+normal vibrat mode circular membran
+free excel sheet estim modal paramet
+vibrat test

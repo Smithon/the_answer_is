@@ -1,0 +1,92 @@
+live live edit system lavz free video edit softwar vj tool releas gnu general public licens version later binari version avail popular gnulinux distribut includ debian ubuntu fedora suse gentoo slackwar arch linux mandriva also port bsd run solari irix compil os x leopard thorough test platform
+develop
+main develop live gabriel finch aka salsaman also video artist intern vj
+project began late version releas juli
+freecod site live list popular nonlinear video edit softwar
+live nomin categori best project multimedia sourceforg communiti choic award
+live applic allow user manipul video realtim nonrealtim applic also featur go beyond tradit video edit applic exampl control monitor remot network facil stream anoth copi live resolut frame rate independ
+live use system plugin effect decod encod video playback api well defin applic easili extend
+interfac
+live two main interfac clip editor serv repositori video audio materi multitrack window multipl clip posit timelin
+clip editor allow free playback variabl play rate appli multipl realtim effect mix clip mode main use vjs video editor also use interfac prepar clip enter multitrack mode
+multitrack mode individu clip arrang layer timelin effect transit appli audio mix entir timelin render creat new clip
+render preview shown real time
+featur
+live featur includ
+load edit almost video format via mplayer decod
+format open instant use decod plugin eg flv asf dv webm oggtheora
+smooth playback variabl frame rate forward revers display framer control independ playback framer
+frame accur cut past within clip
+savingreencod clip select individu frame
+lossless backuprestor
+stream input output
+real time blend clip various chroma luma blend
+handl inout stream live live yuvmpeg format stream pipe stdout applic
+support live firewir tv card input
+intern support rgb rgba yuva yuv yuv yuv jpeg mpeg yuyv yuv uyvi palett one step convers chroma super subsampl implement
+abil edit mani filetyp sourc includ remot locat file mplayerffmpeg librari directori imag rotoscop
+real time capturerecord interact via mouseclick extern window
+encod output format support eg mjpeg mpeg mpeg h webm vcd svcd dvd xbluray oggmp ogm matroska mkv dv swf ogg theora dirac mng snow xvid flash even anim gif pdf
+resampl video time stretch frame rate frame accur decim place option autoresampl speed upslow clip
+rotat resiz trim video clip
+deinterlac subtitl remov auto deinterlac dv enabl
+load mp vorbi mod xm wav audio file
+live also load audio track direct cd use video
+sampl accur cut past audio within clip
+resampl audio rate channel sampl size signed endian audio autoresampl clip
+abl record extern audio sourc
+fade infad featur clip
+audio speed direct smooth adjust real time render
+hundr effect includ randomtarget zoom pan video colour cycl colorisationcolour filter colour correct
+ladspa support audio effect
+mergingcomposit frame possibl eg frameinfram fade inout transpar
+real time preview effect process
+support freir effect plugin architectur libvisu plugin projectm plugin
+multipl real time effect possibl playback vj mode also render frame
+multitrack window drag drop
+intellig screen organis show inform relev less
+support almost limitless number track effect
+nondestruct edit multitrack window multipl level undoredo
+full automationinterpol effect paramet
+support stereo back audio track stereo audio track per video track
+automat gain control
+realtim mixingpreview audio
+channel mixer volum control fine grain time variabl perchannel volum pan control
+autotransit audio video
+autotransit video multitrack mode option
+full crash recoveri
+configur multimonitor screen placement
+simpl intuit menu layout
+drag drop interfac
+remot monitor control via open sound control applic enabl
+vj function control via keyboard joystick midi control
+text support translat least french czech german japanes dutch portugues spanish italian russian turkish hungarian slovak simplifi chines finnish ukrainian arab estonian uzbek hebrew includ
+support audio output puls audio
+support audio output jack
+jack transport support master client
+support srt sub subtitl file
+vloopbackvloopback output video linux
+support unicap compat devic
+full integr upcom videojack standard
+rfx builder allow rapid prototyp new effect transit generat util tool custom rfx script export share other download import test script run sandbox allow safe test new plugin
+midi sequenc synchronis startstop
+shuttl control firewir camerasrecord grab dv hdv format
+galleri
+note
+licens page live
+live vj softwar mac osx unixdarwin english alza tu voz linux
+project tag video freecod
+read
+book video wiedergab bearbeitung und stream unter linux open sourc press contain chapter live
+interview author linux bg magazin origin english version
+live video editor vj tool turn linux journal juli
+review live pre linux journal
+review live linux insid januari
+live live video edit system master dissert octob
+extern link
+live homepag
+live sourceforgenet
+live manual html version
+video tutori live part
+live episod hackerpublicradioorg mp audio
+project statist openhubnet

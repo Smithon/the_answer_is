@@ -1,0 +1,55 @@
+broadest definit sensor object whose purpos detect event chang environ provid correspond output sensor type transduc sensor may provid various type output typic use electr optic signal exampl thermocoupl generat known voltag output respons temperatur environ mercuryinglass thermomet similar convert measur temperatur expans contract liquid read calibr glass tube
+sensor use everyday object touchsensit elev button tactil sensor lamp dim brighten touch base besid innumer applic peopl never awar advanc micro machineri easytous micro control platform use sensor expand beyond tradit field temperatur pressur flow measur exampl marg sensor moreov analog sensor potentiomet forcesens resistor still wide use applic includ manufactur machineri airplan aerospac car medicin roboticsit also includ daytoday life
+sensor sensit indic much sensor output chang input quantiti measur chang instanc mercuri thermomet move cm temperatur chang c sensit cmc basic slope dydx assum linear characterist sensor also impact measur instanc room temperatur thermomet insert hot cup liquid cool liquid liquid heat thermomet sensor need design small effect measur make sensor smaller often improv may introduc advantag technolog progress allow sensor manufactur microscop scale microsensor use mem technolog case microsensor reach signific higher speed sensit compar macroscop approach
+classif measur error
+good sensor obey follow rule
+sensit measur properti
+insensit properti like encount applic
+influenc measur properti
+sensit defin ratio output signal measur properti exampl sensor measur temperatur voltag output sensit constant unit vk sensor linear ratio constant point measur
+analog sensor signal process use digit equip need convert digit signal use analogtodigit convert
+sensor deviat
+sensor ideal sever type deviat observ
+sensit may practic differ valu specifi call sensit error
+sinc rang output signal alway limit output signal eventu reach minimum maximum measur properti exceed limit full scale rang defin maximum minimum valu measur properti
+output signal zero measur properti zero sensor offset bias defin output sensor zero input
+sensit constant rang sensor call non linear usual defin amount output differ ideal behavior full rang sensor often note percentag full rang
+deviat caus rapid chang measur properti time dynam error often behavior describ bode plot show sensit error phase shift function frequenc period input signal
+output signal slowli chang independ measur properti defin drift telecommun long term drift usual indic slow degrad sensor properti long period time
+nois random deviat signal vari time
+hysteresi error caus measur properti revers direct finit lag time sensor respond creat differ offset error one direct
+sensor digit output output essenti approxim measur properti approxim error also call digit error
+signal monitor digit limit sampl frequenc also caus dynam error variabl ad nois chang period frequenc near multipl sampl rate may induc alias error
+sensor may extent sensit properti properti measur exampl sensor influenc temperatur environ
+deviat classifi systemat error random error systemat error sometim compens mean kind calibr strategi nois random error reduc signal process filter usual expens dynam behavior sensor
+resolut
+resolut sensor smallest chang detect quantiti measur often digit display least signific digit fluctuat indic chang magnitud resolv resolut relat precis measur made exampl scan tunnel probe fine tip near surfac collect electron tunnel current resolv atom molecul
+type
+pressur sensor
+ultrason sensor
+humid sensor
+gas sensor
+pir motion sensor
+acceler sensor
+displac sensor
+sensor natur
+live organ contain biolog sensor function similar mechan devic describ special cell sensit
+light motion temperatur magnet field graviti humid moistur vibrat pressur electr field sound physic aspect extern environ
+physic aspect intern environ stretch motion organ posit appendag propriocept
+environment molecul includ toxin nutrient pheromon
+estim biomolecul interact kinet paramet
+intern metabol indic glucos level oxygen level osmol
+intern signal molecul hormon neurotransmitt cytokin
+differ protein organ environ alien creatur
+chemic sensor
+chemic sensor selfcontain analyt devic provid inform chemic composit environ liquid gas phase inform provid form measur physic signal correl concentr certain chemic speci term analyt two main step involv function chemic sensor name recognit transduct recognit step analyt molecul interact select receptor molecul site includ structur recognit element sensor consequ characterist physic paramet vari variat report mean integr transduc generat output signal chemic sensor base recognit materi biolog natur biosensor howev synthet biomimet materi go substitut extent recognit biomateri sharp distinct biosensor standard chemic sensor superflu typic biomimet materi use sensor develop molecular imprint polym aptam
+biosensor
+biomedicin biotechnolog sensor detect analyt thank biolog compon cell protein nucleic acid biomimet polym call biosensor wherea nonbiolog sensor even organ carbon chemistri biolog analyt refer sensor nanosensor microcantilev terminolog appli vitro vivo applic encapsul biolog compon biosensor present slight differ problem ordinari sensor either done mean semiperm barrier dialysi membran hydrogel d polym matrix either physic constrain sens macromolecul chemic constrain macromolecul bound scaffold
+see also
+refer
+read
+m kretschmar welsbi capacit induct displac sensor sensor technolog handbook j wilson editor newn burlington ma
+c grime e c dickey m v pishko encyclopedia sensor volum set american scientif publish isbn x
+m pohanka o pavli p skladal rapid character monoclon antibodi use piezoelectr immunosensor sensor
+extern link
+httpwwwcbmswedenseimagesseminarieclassdescriptionsidamemspdf

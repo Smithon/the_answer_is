@@ -1,0 +1,23 @@
+mutat genet oper use maintain genet divers one generat popul genet algorithm chromosom next analog biolog mutat mutat alter one gene valu chromosom initi state mutat solut may chang entir previous solut henc ga come better solut use mutat mutat occur evolut accord userdefin mutat probabl probabl set low set high search turn primit random search
+classic exampl mutat oper involv probabl arbitrari bit genet sequenc chang origin state common method implement mutat oper involv generat random variabl bit sequenc random variabl tell whether particular bit modifi mutat procedur base biolog point mutat call singl point mutat type invers float point mutat gene encod restrict permut problem mutat swap invers scrambl
+purpos mutat gas preserv introduc divers mutat allow algorithm avoid local minima prevent popul chromosom becom similar thus slow even stop evolut reason also explain fact ga system avoid take fittest popul generat next rather random semirandom select weight toward fitter
+differ genom type differ mutat type suitabl
+bit string mutat
+mutat bit string ensu bit flip random posit
+exampl
+probabl mutat bit length binari vector thus mutat rate per mutat individu select mutat reach
+flip bit
+mutat oper take chosen genom invert bit ie genom bit chang vice versa
+boundari
+mutat oper replac genom either lower upper bound random use integ float gene
+nonuniform
+probabl amount mutat go next generat increas use nonuniform mutat oper keep popul stagnat earli stage evolut tune solut later stage evolut mutat oper use integ float gene
+uniform
+oper replac valu chosen gene uniform random valu select userspecifi upper lower bound gene mutat oper use integ float gene
+gaussian
+oper add unit gaussian distribut random valu chosen gene fall outsid userspecifi lower upper bound gene new gene valu clip mutat oper use integ float gene
+see also
+genet algorithm
+refer
+bibliographi
+john holland adapt natur artifici system univers michigan press ann arbor michigan isbn

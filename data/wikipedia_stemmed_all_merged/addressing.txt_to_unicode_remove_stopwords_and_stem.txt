@@ -1,0 +1,22 @@
+comput address space defin rang discret address may correspond network host peripher devic disk sector memori cell logic physic entiti
+overviewedit
+softwar program save retriev data unit data must address individu locat number address space avail depend under address structur usual limit
+address space creat combin enough uniqu identifi qualifi make address unambigu within particular address space person physic address address space would combin locat neighborhood town citi countri element address space may element address differ address said space refer differ entiti exampl could multipl build address main street differ town demonstr differ town differ although similar arrang street address space
+address space usual provid allow partit sever region accord mathemat structur case total order memori address simpli chunk nest domain hierarchi appear case direct order tree domain name system directori structur similar hierarch design postal address internet exampl internet assign number author iana alloc rang ip address various registri order enabl manag part global internet address space
+examplesedit
+use address includ limit follow
+memori address main memori memorymap io well virtual memori
+devic address expans bus
+sector address disk drive
+file name particular volum
+various kind network host address comput network
+uniform resourc locat internet
+address map translationedit
+anoth common featur address space map translat often form numer layer usual mean higherlevel address must translat lowerlevel one way exampl file system logic disk oper linear sector number translat absolut lba sector address simpl case via addit partit first sector address disk drive connect via parallel ata must convert logic mean fake cylinderheadsector address due interfac histor shortcom convert back lba disk control final physic cylind head sector number
+domain name system map name networkspecif address usual ip address turn may map link layer network address via address resolut protocol also network address translat may occur edg differ ip space local area network internet
+icon exampl virtualtophys address translat virtual memori differ page virtual address space map either page file main memori physic address space possibl sever numer differ virtual address refer one physic address henc physic byte ram also possibl singl virtual address map zero one one physic address
+see alsoedit
+linear address space
+name space
+virtual
+referencesedit

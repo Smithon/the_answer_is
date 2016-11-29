@@ -1,0 +1,47 @@
+fpplvon krmn equat name august fppl theodor von krmn set nonlinear partial differenti equat describ larg deflect thin flat plate applic rang design submarin hull mechan properti cell wall equat notori difficult solv take follow form
+e young modulus plate materi assum homogen isotrop poisson ratio h thick plate w outofplan deflect plate p extern normal forc per unit area plate cauchi stress tensor indic take valu dimension biharmon oper defin
+equat deriv kinemat assumpt constitut relat plate equat two equat conserv linear momentum two dimens assum outofplan stress zero
+valid fpplvon krmn equat
+fpplvon krmn equat interest pure mathemat point view physic valid equat question ciarlet state twodimension von karman equat plate origin propos von karman play mythic role appli mathemat abund satisfactorili studi mathemat standpoint regard notabl various question exist regular bifurc solut physic sound often serious question reason includ fact
+theori depend approxim geometri clear defin
+given variat stress crosssect assum arbitrarili
+linear constitut relat use correspond known relat well defin measur stress strain
+compon strain arbitrarili ignor
+confus refer deform configur make theori inapplic larg deform appar devis
+condit equat actual applic give reason result solv discuss ciarlet
+equat term airi stress function
+three fpplvon krmn equat reduc two introduc airi stress function
+equat becom
+pure bend
+pure bend thin plate equat equilibrium
+call flexur cylindr rigid plate
+kinemat assumpt kirchhoff hypothesi
+deriv fpplvon krmn equat main kinemat assumpt also known kirchhoff hypothesi surfac normal plane plate remain perpendicular plate deform also assum inplan membran displac chang thick plate neglig assumpt impli displac field u plate express
+form displac field implicit assum amount rotat plate small
+straindisplac relat von krmn strain
+compon threedimension lagrangian green strain tensor defin
+substitut express displac field give
+small strain moder rotat higher order term cannot neglect
+neglect higher order term enforc requir plate chang thick strain tensor compon reduc von krmn strain
+stressstrain relat
+assum cauchi stress tensor compon linear relat von krmn strain hook law plate isotrop homogen plate plane stress condit
+expand term three nonzero stress
+stress result
+stress result plate defin
+therefor
+solut easier find govern equat express term stress result rather inplan stress
+fpplvonkrmn equat term stress result
+fpplvonkrmn equat typic deriv energi approach consid variat intern energi work done extern forc similar approach use write equat term stress result result govern equat
+refer
+fppl vorlesungen ber technisch mechanik bg teubner bd p leipzig germani
+von krmn festigkeitsproblem im maschinenbau encyk d math wiss iv
+e cerda l mahadevan geometri physic wrinkl phys rev lett
+httpfocusapsorgstoryvst
+b c theori elast l d landau e m lifshitz rd ed isbn x
+dimension laplacian defin
+von karman plate equat httpimechanicaorgnod access tue juli
+b ciarlet p g plate junction elast multistructur springerverlag
+ciarlet philipp g justif von krmn equat archiv ration mechan analysi bibcodearrmac doibf
+typic assumpt zero outofplan stress made point
+see also
+plate theori

@@ -1,0 +1,50 @@
+chirp signal frequenc increas upchirp decreas downchirp time sourc term chirp use interchang sweep signal common use sonar radar applic spreadspectrum communic spreadspectrum usag surfac acoust wave saw devic reflect array compressor rac often use generat demodul chirp signal optic ultrashort laser puls also exhibit chirp optic transmiss system interact dispers properti materi increas decreas total puls dispers signal propag name refer chirp sound made bird see bird vocal
+typesedit
+linearedit
+linear chirp instantan frequenc vari linear time
+start frequenc time rate frequenc increas chirp rate
+final frequenc start frequenc time take sweep
+correspond timedomain function phase oscil signal integr frequenc function sinc one expect phase grow like ie deriv phase angular frequenc
+linear chirp result
+initi phase time thus also call quadraticphas signal
+correspond timedomain function sinusoid linear chirp sine phase radian
+frequenc domain instantan frequenc describ equat accompani addit frequenc harmon exist fundament consequ frequenc modul harmon quantifi describ use bessel function howev aid frequenc vs time profil spectrogram one readili see linear chirp spectral compon harmon fundament chirp
+exponentialedit
+geometr chirp also call exponenti chirp frequenc signal vari geometr relationship time word two point waveform chosen time interv kept constant frequenc ratio also constant
+exponenti chirp frequenc signal vari exponenti function time
+start frequenc rate exponenti increas frequenc unlik linear chirp constant chirp rate exponenti chirp exponenti increas chirp rate
+correspond timedomain function phase exponenti chirp integr frequenc
+initi phase
+correspond timedomain function sinusoid exponenti chirp sine phase radian
+case linear chirp instantan frequenc exponenti chirp consist fundament frequenc accompani addit harmon
+generationedit
+chirp signal generat analog circuitri via voltagecontrol oscil vco linear exponenti ramp control voltag also generat digit digit signal processor dsp digit analog convert dac use direct digit synthes dds vari step numer control oscil also generat yig oscil
+relat impuls signaledit
+chirp signal share spectral content impuls signal howev unlik impuls signal spectral compon chirp signal differ phase ie power spectra alik phase spectra distinct dispers signal propag medium may result unintent convers impuls signal chirp hand mani practic applic chirp puls amplifi echoloc system use chirp signal instead impuls inher lower papr
+use occurrencesedit
+chirp modulationedit
+chirp modul linear frequenc modul digit communic patent sidney darlington signific later work perform winkler type modul employ sinusoid waveform whose instantan frequenc increas decreas linear time waveform common refer linear chirp simpli chirp
+henc rate frequenc chang call chirp rate binari chirp modul binari data transmit map bit chirp opposit chirp rate instanc one bit period assign chirp posit rate chirp negat rate chirp heavili use radar applic result advanc sourc transmiss match filter recept linear chirp avail
+chirplet transformedit
+anoth kind chirp project chirp form
+three paramet scale b translat c chirpi project chirp ideal suit imag process form basi project chirplet transform
+key chirpedit
+chang frequenc mors code desir frequenc due poor stabil rf oscil known chirp rst code given append letter c
+chirp rate edit
+chirp rate instantan rate chang frequenc waveform waveform defin
+instantan frequenc defin
+chirp rate defin
+see alsoedit
+chirp spectrum analysi frequenc spectrum chirp signal
+chirp compress inform compress techniqu
+chirp spread spectrum part wireless telecommun standard ieee css see chirp spread spectrum css phi present ieee pa
+chirp mirror
+chirp puls amplif
+chirplet transform signal represent base famili local chirp function member usual express parameter transform
+continuouswav radar
+dispers optic
+puls compress signal process techniqu design maxim sensit resolut radar system modifi transmit puls improv autocorrel properti one way accomplish chirp radar signal also known chirp radar
+sharad
+referencesedit
+extern linksedit
+onlin chirp tone generat wav file output

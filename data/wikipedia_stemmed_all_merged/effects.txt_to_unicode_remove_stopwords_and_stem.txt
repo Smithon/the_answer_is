@@ -1,0 +1,470 @@
+configsi primari configur file dos os oper system special ascii text file contain useraccess setup configur direct evalu oper system boot configsi introduc dos
+usag
+direct file configur dos use devic applic system configsi direct also set memori manag system process configsi file dos proceed load execut command shell specifi shell line configsi commandcom line command shell turn respons process autoexecbat file
+configsi compos most namevalu direct look like variabl assign fact either defin tunabl paramet often result reserv memori load file most devic driver tsrs memori
+dos configsi locat root directori drive system boot
+version dos probe altern filenam take preced default configsi filenam exist
+older version concurr dos support configsi file later version concurr dos concurr dos xm well multius dos system manag real probe cconfigsi c deriv concurr instead configsi version multius dos use filenam cconfigini instead wherea real known look mconfigsi oper system support mani addit differ configur set known msdospc dos store binari repositori name cconfigbin rather cconfigini file typic modifi configur util name configex
+drdos palmdo novel dos opendo drdos higher file name dconfigsi d deriv dr dos present take preced configsi sinc dr dos use conjunct disk compress softwar origin boot drive c would becom drive d load compress driver d file name came handi well common use help maintain multipl configur file multiboot scenario addit opendo dropendo look file name odconfigsi wherea issu drdos higher instead also look drconfigsi dr dos higher sys drext command use chang default file extens exampl sys l dr written volum boot record would look renam modifi ibmbio system file instead default ibmbiocom ibmbio would look ibmdo dconfig instead ibmdoscom dconfigsi multipl parallel set file coexist root directori select via bootload like loader suppli multius dos drdos shell direct enhanc provid mean specifi altern autoexecbat file via pfilenameext specif scenario commandcom accept file extens bat well featur also support dos dr dos higher configsi direct chainfilespec use continu process name file necessarili need resid root directori boot drive drdos higher option support addit paramet chainfilespeclabel jump specif label given file drdos higher support new sys paramet order copi correspond configsi autoexecbat file alongsid system file
+freedo implement similar featur fdconfigsi configur file ptsdos use configpt
+configsi autoexecbat found includ root folder window window boot drive base dos typic file left empti content strict requir run window program version
+window even pars configsi file window boot process load set window registri instead
+hklmsystemcurrentcontrolsetcontrolsessionmanagerenviron
+flexo configsi binari file defin resourc manag devic driver load
+configsi direct
+dr dos higher
+defin label configsi jump target chain drswitch goto gosub switch direct
+dos dr dos higher
+similar rem use also inlin comment follow configsi direct see comment msdospc dos inlinecom ignor put doublequot
+ptsdos
+use lead inlin comment addit direct
+dr dos higher embed dos freedo
+display yesno queri sinc dr dos option messag ask user confirm execut follow configsi direct freedo support option messag option condit conjunct boot menus defin menu menudefault dos higher support similar featur ad correspond configsi direct fe devic devic instead devic variant also support dr dos
+freedo
+uncondit execut follow configsi direct
+abort ptsdos
+specifi program abort error
+accdat msdos higher ignor drdos higher
+configur drive store file access date stamp reserv area directori entri fat file system
+ptsdos
+condit execut atcompat machin
+autocheck ptsdos
+boot manag
+autofail os
+configur verbos error messag
+aux drdos higher
+chang intern default serial devic driver com com aux devic
+availdev dos drdos higher
+disabl avail charact devic outsid phantom dev directori
+basedev os
+load base devic driver memori
+beep drdos higher
+emit short beep even audibl notif disabl via switchesq
+bootnext drmk
+specifi oper system boot
+break dos dr dos higher os
+set clear extend ctrlc check
+buffer dos dr dos higher os
+specifi number disk buffer alloc
+buffershigh msdos drdos higher freedo
+buffer explicit load buffer hma umb like hibuff dr dos higher
+caches embed dos xl
+maximum number byte cach block dynam alloc system pool
+cachettl embed dos xl
+maximum time ms unus cach block return system pool
+cacheflush embed dos xl
+maximum time ms dirti cach block get flush disk
+call os higher
+similar instal dos load program configsi similar run os run foreground halt configsi process return
+capslock drdos higher
+specifi whether keyboard cap lock status turn
+cddname ptsdos
+specifi name cdrom hardwar driver
+cddbuffer ptsdos
+specifi number buffer cdrom access
+chain dr dos higher embed dos
+continu configsi process new file sinc drdos option label
+clock ptsdos
+specifi type clock use system
+cls dr dos higher
+clear screen
+codepag os
+specifi oem codepag
+cmosaddr ptsdos
+specifi address cmos ram
+color ptsdos
+specifi color boot menus
+com drdos higher
+defin count logic order configur io address timeout com devic
+com drdos higher
+defin count logic order configur io address timeout com devic
+com drdos higher
+defin count logic order configur io address timeout com devic
+com drdos higher
+defin count logic order configur io address timeout com devic
+comarea ptsdos
+specifi buffer dma
+comment dos higher rxdos ignor drdos higher embed dos ptsdos
+redefin leadin charact configsi inlinecom caus follow line ignor
+countri dos dos plus fiddload dr dos higher os
+enabl configur intern support
+cpos dr dos higher
+set display cursor specifi posit configur menus
+cpsw msdos ignor drdos higher
+codepag switch support
+cpu ptsdos
+specifi ram refresh speed
+cpu ptsdos
+condit execut cpus
+cpu ptsdos
+condit execut higher cpus
+cpu ptsdos
+condit execut cpus
+cpu ptsdos
+condit execut higher cpus
+cpu ptsdos
+condit execut cpus
+cpu ptsdos
+condit execut higher cpus
+cpu drdos higher ptsdos
+condit execut higher cpus fe cpu devicecdosemmex cpu goto label
+cpu ptsdos
+condit execut higher cpus
+cpu ptsdos
+condit execut cpus
+cpu ptsdos
+condit execut higher cpus
+ddscs edrdo
+configur reloc drive descriptor tabl
+deblock dr dos updat higher
+specifi memori segment address multisector disk data deblock allow
+debug dr dos higher
+enabl intern debugg support
+default ptsdos
+boot manag
+devic dos dos plus fiddload dr dos higher os
+load devic driver memori
+devicehigh dos dr dos higher os
+load devic driver upper memori hidevic dr dos
+devinfo os
+configur countri codepag inform kbd scr lpt lpt lpt devic
+diskcach os ignor drdos higher
+configur cach memori size
+diskett ptsdos
+specifi floppi disk compat mode
+display ptsdos
+specifi display font
+dos dos dr dos higher os
+specifi whether load dos high memori area andor use upper memori similar hidoson dr dos
+dosdata pc dos higher freedo edrdo drmk
+specifi whether load dos tabl buffer fcbs file lastdriv stack upper memori
+dosdir ptsdos
+specifi altern path search dos file
+dpbs drmk
+dpath os higher
+specifi search path data file
+drivattr ptsdos
+specifi physic paramet disk drive
+drivparm dos higher
+defin paramet unrecogn drive
+drswitch dr dos higher
+see switch
+dumpprocess os higher
+enabl specifi drive pdumpnnn error log
+echo dr dos higher ptsdos freedo
+display messag screen
+eecho freedo
+display messag includ ansi escap sequenc
+errex ptsdos
+specifi addit check carri start program
+error dr dos higher
+specifi error return code assum follow
+execaoff ptsdos
+specifi state gate start program
+exit dr dos higher
+finish configsi process end file reach except switch shell direct process condit
+fastopen dr dos higher ptsdos
+specifi size hash tabl fast file open oper work consider differ extern msdospc dos fastopen driver
+fcbs dos dr dos higher os
+specifi number cach fcbs open drdos fcbs file dynam share intern buffer
+fcbshigh msdos drdos higher
+fcbs explicit load fcbs upper memori
+filenam ptsdos
+boot manag
+file dos dr dos higher os
+specifi number file open
+fileshigh msdos drdos higher freedo
+file explicit load file handl upper memori
+forc ptsdos
+includ execut specifi configsi subsect see ignor
+getkey dr dos higher
+wait key timeout set error level ascii code timeout
+goto dr dos higher
+continu configsi process specifi label
+gosub dr dos higher
+continu nest configsi process specifi label return return old locat
+hibuff dr dos higher
+see buffershigh doshighumb dosdata
+hidevic dr dos higher
+see devicehigh
+hido dr dos higher
+see doshighumb
+hifcb dr dos higher edrdo drmk
+see fcbshigh dosdata
+hifil dr dos higher edrdo drmk
+see fileshigh dosdata
+hiinstal dr dos higher
+see installhigh
+hiinstalllast edrdo drmk
+instal tsr program memori like hiinstal instal dos data segment reloc
+hilastdr drdos higher edrdo drmk
+see lastdrivehigh dosumb dosdata
+hishel drdos higher
+see shellhigh
+histack drdos higher edrdo drmk
+see stackshigh dosdata
+histori dr dos higher
+enabl configur consol command line histori buffer extend pattern search function
+hmarea ptsdos
+specifi address hma segment
+idlehalt freedo
+configur hlt energi save
+idtchk ptsdos
+specifi system check boot sector virus
+if msdos ignor drdos higher os
+load instal file system
+ignor ptsdos
+exclud execut specifi configsi subsect see forc
+iopl os
+specifi program would normal run cpus iopl ring allow run ring order direct access hardwar io
+includ dos higher drdos freedo
+includ direct anoth menu block emul use gosub return drdos
+insert drdos higher
+specifi whether keyboard insert mode status turn
+instal dos dr dos higher
+instal tsr program memori
+installhigh dos dr dos higher
+instal tsr program upper memori hiinstal dr dos
+installlast edrdo drmk
+instal tsr program memori like instal instal dos data segment reloc
+irqprior embed dos xl
+rotat pic control interrupt prioriti specifi number get highest prioriti
+keyboard ptsdos
+specifi keyboard layout
+keybuf freedo
+specifi address reloc keyboard buffer
+lastdriv dos dos plus fiddload dr dos higher os
+specifi maximum drive access
+lastdrivehigh msdos drdos higher freedo
+lastdriv explicit load current directori structur cds upper memori
+libpath os
+specifi list search path dlls
+loadfix ptsdos
+specifi old program handl
+lock ptsdos
+specifi number file lock
+logo msdos higher ptsdos ignor drdos higher
+configur boot logo support msdos allow display startup messag conjunct ptsdos boot manag
+lpt drdos higher
+defin count logic order configur io address timeout lpt devic
+lpt drdos higher
+defin count logic order configur io address timeout lpt devic
+lpt drdos higher
+defin count logic order configur io address timeout lpt devic
+lpt version drdos higher
+enabl defin count logic order configur io address timeout lpt devic
+maxwait os
+specifi time wait process get higher prioriti
+memman os
+configur memori alloc strategi
+memori ptsdos
+specifi default dos memori alloc strategi
+menu freedo
+defin menu option
+menucolor dos higher dr dos freedo
+specifi menu color emul use echo drdos
+menudefault dos higher freedo dr dos
+specifi default menu block emul use timeout switch drdos
+menuitem dos higher dr dos freedo
+specifi menu block emul use echo switch drdos
+multitrack dos drdos higher ignor ptsdos
+specifi whether multitrack disk oper use
+nochar drdos higher
+specifi default n charact yesnoresum question
+numlock dos novel dos higher
+specifi whether keyboard num lock status turn
+onerror dr dos higher
+condit execut depend last return codeerror status fe onerror goto failload onerror onerror onerror echo error occur
+paus ptsdos
+similar echo getkey drdos display text wait key press
+pauseonerror os
+specifi user must acknowledg error configsi
+printmonbufs os
+configur buffer size lpt lpt lpt
+pc ptsdos
+condit execut pccompat machin
+prioriti os
+configur prioriti schedul
+prioritydiskio os
+configur prioriti program use disk io
+prn drdos higher
+chang intern default printer devic driver lpt lpt even lpt prn devic
+protecton os
+specifi dos program run
+protshel os
+load user interfac
+ps ptsdos
+condit execut pscompat machin
+ps ptsdos
+condit execut pscompat machin
+quiet ptsdos drmk
+mute display output send stdout
+reipl os higher
+specifi system reboot automat error
+rem dos dr dos higher ignor ptsdos
+allow comment configsi
+reservedrivelett os fixpack higher
+specifi drive letter use local block devic driver
+resumechar drdos higher
+specifi default resum r charact yesnoresum queri
+return dr dos higher
+return nest configsi process previous locat gosub switch direct option return code given otherwis assum
+rmsize os ignor drdos higher
+defin real mode memori size
+run os
+similar call load program configsi similar instal dos call os load program background concurrenti
+savenam ptsdos
+specifi first charact delet file store reserv area directori entri fat file system
+screen freedo ptsdos
+similar videomod ptsdos specifi video mode use freedo ptsdos screen specifi video mode screen access method
+scrollock drdos higher
+specifi whether keyboard scroll lock status turn
+set dos dr dos higher os
+set environ variabl
+shell dos dr dos higher os
+load command interpret shell
+shellhigh drdos higher ptsdos freedo
+shell support addit size paramet defin size prealloc commandcom reloc resid portion hma mh use avoid hma fragment conjunct thirdparti shell cannot load hma shellhigh ptsdos tri load shell umb instead
+shiftstat ptsdos
+specifi state keyboard modifi like shift lock num lock scroll lock insert mode
+shutdown ptsdos
+specifi file close ctrlaltdel
+softreboot ptsdos
+specifi post skip reboot
+stack ignor dr dos higher
+compat dummi dr dos most reentrant differ stack layout
+stack dos novel dos higher ignor dr dos ptsdos
+specifi number stack hardwar interrupt
+stacksiz embed dos xl
+default size size alloc new thread
+stackshigh msdos drdos higher freedo
+stack explicit load buffer upper memori
+storag ptsdos
+boot manag
+string msdos ignor drdos higher
+intern use
+stuba ptsdos
+specifi xms gate control work
+submenu dos higher dr dos freedo
+specifi submenu block emul use cls echo switch drdos
+suppresspopup os higher
+specifi drive log error inform instead display textmod popup screen
+swappath os
+specifi swap file path
+switch dr dos higher
+condit continu nest configsi process one specifi label depend key press return return old locat
+switchar dos dos plus fiddload drdos higher ptsdos freedo rxdos
+defin default switchar use system either
+switch dos novel dos higher ignor ptsdos
+specifi special option
+sxfakehwfpu os warp fixpak higher
+specifi fix fpu round bug activ
+sysboot ptsdos
+specifi file name altern dos oper system boot
+sysgen ptsdos
+configur locat various dos part memori
+sysload ptsdos
+load system altern disk area
+systempool embed dos xl
+size system memori pool system dynam alloc various purpos
+systoumb ptsdos
+specifi dos data code load umb
+thread os
+specifi number concurr thread
+timeout dr dos higher ptsdos
+specifi timeout configsi singlestep switch getkey default answer yesno queri switch select ptsdos support timeout valu
+timeslic os
+configur minimum maximum time slice schedul
+tmpext ptsdos
+specifi file extens temporari file
+trace drdos higher ptsdos os
+global local enabl disabl configsi autoexecbat singlestep execut function os differ signific dos
+tracebuf os
+specifi size trace log buffer
+trapdump os higher
+log detail error inform
+umb embed dos
+configur dos manag use specif segment umb memori
+umbsrv ptsdos
+configur umb server use
+useram ptsdos
+specifi address rang use umb ram
+verifi drdos higher embed dos
+enabl disabl disk write verif
+version freedo embed dos edrdo
+specifi dos version option true dos version report program
+vgascreen ptsdos
+configur vga display status
+videomod ptsdos
+similar screen freedo specifi current video mode
+virtdma ptsdos
+specifi virtual dma use
+vme os
+specifi processor virtual mode extens vme deactiv
+vxd ptsdos
+configur vxd driver window
+window ptsdos
+configur system support window
+xbda edrdo drmk
+configur reloc extend bio data area xbda
+xt ptsdos
+condit execut xtcompat machin
+year drdos higher
+configur builtin year support
+yeschar palmdo dr dos updat novel dos higher
+specifi default yes y charact yesnoresum queri
+zombiedrv ptsdos
+configur delet track
+exampl
+exampl configsi msdos higher
+first line caus dos use high memori area upper memori possibl free convent memori applic use
+second line load himemsi driver enabl dos use high memori area
+third line load emm memori manag emul expand memori command line argument ram allow use upper memori area anoth argument given emmex noem allow use upper memori area without emul expand memori noem switch also free upper memori block
+fourth line load ansisi devic driver upper memori area
+fifth line set maximum number file open
+last line set shell default shell commandcom start cdos work directori environ size byte p indic primari process therefor cannot shut use exit command
+msdos version option dos boot menu configur user could configur number boot configur choos one startup great use various dos applic prefer differ set optim function
+exampl configsi msdos boot menu
+layout dos boot menu fair selfexplanatori menu section defin menu entri option menudefault allow default choic countdown timer start second common area hold line start everi menu choic later win xms area specif configur
+later boot file autoexecbat would receiv chosen select special config environ variabl therebi could branch separ configur area within batch file well
+featur configsi menu describ
+httpdosrsvsnetdospageconfmenuhtm
+general systyp file load configsi exe program version cach softwar smartdrv provid microsoft msdos x lbacach freedo load autoexecbat file howev way load devic driver dynam command line devload dynaload well program file configsi process instal installhigh hiinstal direct
+issu
+system still boot file miss corrupt howev two file essenti complet bootup process occur dos oper system contain inform use custom oper system person use also contain requir differ softwar applic packag dos system would requir troubleshoot either file becam damag corrupt
+configsi contain shell direct file corrupt miss dos typic search commandcom root directori boot drive found version dos start msdos pc dos novel dos higher instead display prompt enter path filenam command processor recoveri prompt also display primari command processor abort due fault exit deliber case commandcom intern exit command disabl shell start p also provid limit mean replac shell without reboot system sinc msdos higher commandcom execut incompat drdos typic resid root drive c dualboot scenario drdos drdos higher longer allow bypass shell direct ctrlfff skiptracestep mode later issu ad ctrlf reinvok former f skip behaviour order allow recoveri problem invalid shell argument well also shell direct could found skip configsi process via ctrlf also ctrlff default file extens chang sys drext user prompt enter valid shell file name tri load commandcom root press enter without specifi file assum former default
+depend version size configsi file limit kilobyt msdospc dos kb recent version wherea file size unlimit drdos former oper system compil file token inmemori represent sort regroup direct process specif order devic driver alway load tsrs wherea drdos interpret file execut direct linebylin therebi give full control load order driver tsrs via devic instal exampl solv load order conflict load program debugg devic driver debug allow adapt user interact chang flow file base condit like processor type instal type key press load input error occur return code given load softwar becom particular use sinc instal also use run nonresid softwar drdos temporari extern program integr configsi control flow
+msdospc dos length shell line limit charact wherea charact possibl later version drdos even accept charact configsi direct accept long filenam
+dual boot dos window x
+instal window preexist doswindow instal configsi autoexecbat renam configdo autoexecdo intend eas dual boot window x dos boot dos temporarili renam configsi autoexecbat backup window version made configw autoexecw file
+caldera drdos instal system alreadi contain window window configsi autoexecbat retain name drdos startup file instal dconfigsi name alreadi use earlier version dr dos autodosbat
+os nt
+os use configsi file extens set configur driver environ graphic part system load
+os subsystem window nt appear configsi os program actual store registri
+mani undocu poor document configsi direct use os
+see also
+autoexecbat
+commandcom
+dos
+ibmbiocom
+ibmdoscom
+iosi
+msdossi
+list dos command
+refer
+b c d e f g h j k matthia paul nwdostip tip trick rund um novel dos mit blick auf undokumentiert detail bug und workaround mpdostip ebook german edit releas ed retriev nwdostiptxt comprehens work novel dos opendo includ descript mani undocu featur intern part author yet larger mpdostipzip collect maintain distribut mani site time provid link point htmlconvert older version nwdostiptxt file
+b caldera inc drdos user guid
+b c d e f g h j k l m n o p q r u v w x y z aa ab paul matthia caldera opendo updat alpha ibmbiocom readmetxt retriev
+b matthia paul nwdostip tip trick rund um novel dos mit blick auf undokumentiert detail bug und workaround mpdostip ebook german edit releas ed
+poarch mad april boot multipl oper system dr multius dos loader util volum number novel archiv origin retriev
+b c d e f g conn rex rawson tom paul matthia dye charl georgiev luchezar dos onlin help
+understand set window millennium edit configsi file
+microsoft window cdrom configtxt file articl revis retriev hard disk specifi whether record date file last access last access date turn drive comput start safe mode maintain floppi disk default syntax accdatedr drive
+configsi statement use os rexx tip trick version retriev januari
+extern link
+inform autoexecbat configsi
+descript window msdos configsi direct
+descript drdos configsi direct incomplet
+descript freedo configsi direct
+ptsdos pro user manual includ descript ptsdos configsi direct incomplet
+inoffiziell deutschsprachig ptsdosfaq ptsfaqd inoffici german ptsdos faq includ configsi direct

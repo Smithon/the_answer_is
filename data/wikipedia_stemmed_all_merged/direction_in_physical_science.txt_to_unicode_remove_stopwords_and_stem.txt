@@ -1,0 +1,23 @@
+free energi perturb fep method base statist mechan use comput chemistri comput free energi differ molecular dynam metropoli mont carlo simul fep method introduc robert w zwanzig accord freeenergi perturb method free energi differ go state state b obtain follow equat known zwanzig equat
+temperatur kb boltzmann constant triangular bracket denot averag simul run state practic one run normal simul state time new configur accept energi state b also comput differ state b may atom type involv case f obtain mutat one molecul onto anoth may differ geometri case one obtain free energi map along one reaction coordin free energi map also known potenti mean forc pmf free energi perturb calcul converg proper differ two state small enough therefor usual necessari divid perturb seri smaller window comput independ sinc need constant communic simul one window next process trivial parallel run window differ cpu known embarrass parallel setup
+fep calcul use studi hostguest bind energet pka predict solvent effect reaction enzymat reaction studi reaction often necessari involv quantummechan represent reaction center molecular mechan forc field use fep simul cant handl break bond hybrid method advantag qm mm calcul call qmmm
+umbrella sampl anoth freeenergi calcul techniqu typic use calcul freeenergi chang associ chang posit coordin oppos chemic coordin although umbrella sampl also use chemic transform chemic coordin treat dynam variabl case lambda dynam approach kong brook altern free energi perturb comput potenti mean forc chemic space thermodynam integr anoth altern probabl effici bennett accept ratio method
+softwar
+sever softwar packag develop help perform fep calcul short list common program
+amber
+boss
+charmm
+desmond
+gromac
+macromodel
+molari
+namd
+tinker
+q
+see also
+thermodynam integr
+umbrella sampl
+refer
+zwanzig r w j chem phys doi
+httpwwwambermdorg
+httplaetrouscedusoftwarehtml

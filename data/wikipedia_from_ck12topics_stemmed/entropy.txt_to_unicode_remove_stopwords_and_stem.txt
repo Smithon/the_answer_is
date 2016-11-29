@@ -1,0 +1,191 @@
+thermodynam entropi usual symbol measur number specif way thermodynam system may arrang common understood measur disord accord second law thermodynam entropi isol system never decreas system spontan proceed toward thermodynam equilibrium configur maximum entropi system isol may decreas entropi provid increas entropi environ least amount sinc entropi state function chang entropi system process goe given initi state given final state whether process revers irrevers howev irrevers process increas combin entropi system environ
+chang entropi system origin defin thermodynam revers process
+absolut temperatur system divid increment revers transfer heat system dq heat transfer sign would revers give decreas entropi system definit sometim call macroscop definit entropi use without regard microscop descript content system concept entropi found general use sever formul entropi discov notic quantiti behav function state consequ second law thermodynam
+entropi extens properti dimens energi divid temperatur unit joul per kelvin j k intern system unit kg m k term base unit entropi pure substanc usual given intens properti either entropi per unit mass si unit j k kg entropi per unit amount substanc si unit j k mol
+absolut entropi rather defin later use either statist mechan third law thermodynam
+modern microscop interpret entropi statist mechan entropi amount addit inform need specifi exact physic state system given thermodynam specif understand role thermodynam entropi various process requir understand inform chang system evolv initi final condit often said entropi express disord random system lack inform second law often seen express fundament postul statist mechan modern definit entropi
+historyedit
+analysi led concept entropi began work french mathematician lazar carnot paper fundament principl equilibrium movement propos machin acceler shock move part repres loss moment activ word natur process exist inher tendenc toward dissip use energi build work lazar son sadi carnot publish reflect motiv power fire posit heatengin whenev calor known heat fall temperatur differ work motiv power produc action fall hot cold bodi made analog water fall water wheel earli insight second law thermodynam carnot base view heat partial earli th centuri newtonian hypothesi heat light type indestruct form matter attract repel matter partial contemporari view count rumford show heat could creat friction cannon bore machin carnot reason bodi work substanc bodi steam return origin state end complet engin cycl chang occur condit work bodi
+first law thermodynam deduc heatfrict experi jame joul express concept energi conserv process first law howev unabl quantifi effect friction dissip
+german physicist rudolf clausius object supposit chang occur work bodi gave chang mathemat interpret question natur inher loss usabl heat work done eg heat produc friction clausius describ entropi transformationcont ie dissip energi use thermodynam system work bodi chemic speci chang state contrast earlier view base theori isaac newton heat indestruct particl mass
+later scientist ludwig boltzmann josiah willard gibb jame clerk maxwel gave entropi statist basi boltzmann visual probabilist way measur entropi ensembl ideal gas particl defin entropi proport logarithm number microst gas could occupi henceforth essenti problem statist thermodynam ie accord erwin schrdinger determin distribut given amount energi e n ident system carathodori link entropi mathemat definit irrevers term trajectori integr
+definit descriptionsedit
+two relat definit entropi thermodynam definit statist mechan definit histor classic thermodynam definit develop first classic thermodynam viewpoint system compos larg number constitu atom molecul state system describ averag thermodynam properti constitu detail system constitu direct consid behavior describ macroscop averag properti eg temperatur pressur entropi heat capac earli classic definit properti system assum equilibrium classic thermodynam definit entropi recent extend area nonequilibrium thermodynam later thermodynam properti includ entropi given altern definit term statist motion microscop constitu system model first classic eg newtonian particl constitut gas later quantummechan photon phonon spin etc statist mechan descript behavior system necessari definit properti system use classic thermodynam becom increas unreli method predict final state system subject process
+function stateedit
+mani thermodynam properti function state mean particular thermodynam state confus microscop state system properti certain valu often two properti system determin state determin properti valu also determin instanc gas particular temperatur pressur state fix valu particular volum determin valu anoth instanc system compos pure substanc singl phase particular uniform temperatur pressur determin thus particular state particular volum also particular entropi fact entropi function state one reason use carnot cycl work fluid return state start cycl henc line integr state function entropi cycl zero
+revers processedit
+entropi defin revers process system time treat uniform state thus uniform temperatur revers ideal real process approxim often present studi exercis revers process entropi behav conserv quantiti chang occur total entropi specif total entropi conserv revers process conserv irrevers process one care system boundari exampl carnot cycl heat flow hot reservoir cold reservoir repres increas entropi work output revers perfect store energi storag mechan repres decreas entropi could use oper heat engin revers return previous state thus total entropi chang still zero time entir process revers process meet requir revers process must treat irrevers process usual complex task irrevers process increas entropi
+heat transfer situat requir two nonisol system thermal contact irrevers heat transfer heat energi irrevers transfer higher temperatur system lower temperatur system combin entropi system increas system definit must absolut temperatur applic within area respect system order calcul entropi transfer thus system higher temperatur th transfer heat dq system lower temperatur tc former lose entropi dqth latter gain entropi dqtc sinc th tc follow dqth dqtc whenc net gain combin entropi
+carnot cycleedit
+concept entropi aros rudolf clausiuss studi carnot cycl carnot cycl heat absorb temperatur hot reservoir isotherm process given heat cold reservoir isotherm process accord carnot principl work produc system temperatur differ work function differ temperatur heat absorb carnot distinguish sinc use incorrect hypothesi calor theori valid henc heat conserv incorrect assumpt equal fact effort clausius kelvin known maximum work system produc product carnot effici heat hot reservoir
+equat
+order deriv carnot effici number less one kelvin evalu ratio work output heat absorb isotherm expans help carnotclapeyron equat contain unknown function known carnot function possibl carnot function could temperatur measur zero temperatur suggest joul letter kelvin allow kelvin establish absolut temperatur scale also known work produc system differ heat hot reservoir heat cold reservoir
+equat
+sinc latter valid entir cycl gave clausius hint stage cycl work heat would equal rather differ would state function would vanish upon complet cycl state function call intern energi becam first law thermodynam
+equat two express give
+impli function state conserv complet cycl carnot cycl clausius call state function entropi one see entropi discov mathemat rather laboratori result mathemat construct easi physic analog make concept somewhat obscur abstract akin concept energi aros
+clausius ask would happen less work produc system predict carnot principl righthand side first equat would upper bound work output system would convert inequ second equat use express work differ heat get heat given cold reservoir carnot cycl denot entropi two state inequ written decreas entropi
+word entropi leav system greater entropi enter system impli irrevers process prevent cycl output maximum amount work predict carnot equat
+carnot cycl effici invalu defin upper bound possibl work output effici classic thermodynam system cycl otto cycl diesel cycl brayton cycl etcetera analyz standpoint carnot cycl machin process claim produc effici greater carnot effici viabl would violat second law thermodynam small number particl system statist thermodynam must use effici devic photovolta cell requir analysi standpoint quantum mechan
+classic thermodynamicsedit
+thermodynam definit entropi develop earli rudolf clausius essenti describ measur entropi isol system thermodynam equilibrium part clausius creat term entropi extens thermodynam variabl shown use character carnot cycl heat transfer along isotherm step carnot cycl found proport temperatur system known absolut temperatur relationship express increment entropi equal ratio increment heat transfer divid temperatur found vari thermodynam cycl eventu return valu end everi cycl thus found function state specif thermodynam state system clausius wrote intent form word entropi similar possibl word energi base term greek trop transform
+clausius base definit revers process also irrevers process chang entropi follow second law thermodynam entropi isol system alway increas differ isol system close system heat may flow isol system heat flow close system possibl nevertheless close isol system inde also open system irrevers thermodynam process may occur
+accord clausius equal revers cyclic process mean line integr pathindepend
+defin state function call entropi satisfi
+find entropi differ two state system integr must evalu revers path initi final state sinc entropi state function entropi chang system irrevers path revers path two state howev entropi chang surround differ
+obtain chang entropi integr formula obtain absolut valu entropi need third law thermodynam state absolut zero perfect crystal
+macroscop perspect classic thermodynam entropi interpret state function thermodynam system properti depend current state system independ state came achiev process system give energi e entropi fall quantiti least tr energi must given system surround unus heat tr temperatur system extern surround otherwis process go forward classic thermodynam entropi system defin thermodynam equilibrium
+statist mechanicsedit
+statist definit develop ludwig boltzmann analyz statist behavior microscop compon system boltzmann show definit entropi equival thermodynam entropi within constant number sinc known boltzmann constant summari thermodynam definit entropi provid experiment definit entropi statist definit entropi extend concept provid explan deeper understand natur
+interpret entropi statist mechan measur uncertainti mixedup phrase gibb remain system observ macroscop properti temperatur pressur volum taken account given set macroscop variabl entropi measur degre probabl system spread differ possibl microst contrast macrost character plain observ averag quantiti microst specifi molecular detail system includ posit veloc everi molecul state avail system appreci probabl greater entropi statist mechan entropi measur number way system may arrang often taken measur disord higher entropi higher disord definit describ entropi proport natur logarithm number possibl microscop configur individu atom molecul system microst could give rise observ macroscop state macrost system constant proport boltzmann constant
+specif entropi logarithm measur number state signific probabl occupi
+kb boltzmann constant equal jk summat possibl microst system pi probabl system ith microst definit assum basi set state pick inform relat phase differ basi set general express
+densiti matrix trace linear algebra matrix logarithm densiti matrix formul need case thermal equilibrium long basi state chosen energi eigenst practic purpos taken fundament definit entropi sinc formula mathemat deriv vice versa
+call fundament assumpt statist thermodynam fundament postul statist mechan occup microst assum equal probabl ie pi number microst assumpt usual justifi isol system equilibrium previous equat reduc
+thermodynam system one volum number molecul intern energi fix microcanon ensembl
+general interpret entropi measur uncertainti system equilibrium state system maxim entropi lost inform initi condit except conserv variabl maxim entropi maxim ignor detail system uncertainti everyday subject kind rather uncertainti inher experiment method interpret model
+interpret model central role determin entropi qualifi given set macroscop variabl deep implic two observ use differ set macroscop variabl observ differ entropi exampl observ use variabl u v w observ b use u v w x chang x observ b caus effect look like violat second law thermodynam observ word set macroscop variabl one choos must includ everyth may chang experi otherwis one might see decreas entropi
+entropi defin markov process revers dynam detail balanc properti
+boltzmann lectur gas theori show express give measur entropi system atom molecul gas phase thus provid measur entropi classic thermodynam
+entropi systemedit
+entropi abovement unexpect obscur integr aris direct carnot cycl revers heat divid temperatur remark function state fundament use
+thermodynam system pressur densiti temperatur tend becom uniform time equilibrium state higher probabl possibl combin microst see statist mechan exampl glass ice water air room temperatur differ temperatur warm room surround cold glass ice water system part room begin equal portion thermal energi warm surround spread cooler system ice water time temperatur glass content temperatur room becom equal entropi room decreas energi dispers ice water howev calcul exampl entropi system ice water increas entropi surround room decreas isol system room ice water taken togeth dispers energi warmer cooler alway result net increas entropi thus univers room ice water system reach temperatur equilibrium entropi chang initi state maximum entropi thermodynam system measur far equal progress
+thermodynam entropi nonconserv state function great import scienc physic chemistri histor concept entropi evolv order explain process permit conserv law occur spontan time revers also permit conserv law system tend progress direct increas entropi isol system entropi never decreas fact sever import consequ scienc first prohibit perpetu motion machin second impli arrow entropi direct arrow time increas entropi correspond irrevers chang system energi expend wast heat limit amount work system
+unlik mani function state entropi cannot direct observ must calcul entropi calcul substanc standard molar entropi absolut zero also known absolut entropi differ entropi refer state defin zero entropi entropi dimens energi divid temperatur unit joul per kelvin jk intern system unit unit heat capac two concept distinct entropi conserv quantiti exampl isol system nonuniform temperatur heat might irrevers flow temperatur becom uniform entropi increas second law thermodynam state close system entropi may increas otherwis remain constant chemic reaction caus chang entropi entropi play import role determin direct chemic reaction spontan proceed
+one dictionari definit entropi measur thermal energi per unit temperatur avail use work instanc substanc uniform temperatur maximum entropi cannot drive heat engin substanc nonuniform temperatur lower entropi heat distribut allow even thermal energi drive heat engin
+special case entropi increas entropi mix occur two differ substanc mix substanc temperatur pressur net exchang heat work entropi chang entir due mix differ substanc statist mechan level result due chang avail volum per particl mix
+second law thermodynamicsedit
+second law thermodynam requir general total entropi system decreas increas entropi system henc system isol environ entropi system tend decreas follow heat flow colder bodi hotter bodi without applic work imposit order colder bodi second imposs devic oper cycl produc net work singl temperatur reservoir product net work requir flow heat hotter reservoir colder reservoir singl expand reservoir undergo adiabat cool perform adiabat work result possibl perpetu motion system follow reduct increas entropi specifi process chemic reaction mean energet effici
+follow second law thermodynam entropi system isol may decreas air condition exampl may cool air room thus reduc entropi air system heat expel room system air condition transport discharg outsid air alway make bigger contribut entropi environ decreas entropi air system thus total entropi room plus entropi environ increas agreement second law thermodynam
+mechan second law conjunct fundament thermodynam relat place limit system abil use work entropi chang system temperatur absorb infinitesim amount heat q revers way given qt explicit energi trs avail use work tr temperatur coldest access reservoir heat sink extern system discuss see exergi
+statist mechan demonstr entropi govern probabl thus allow decreas disord even isol system although possibl event small probabl occur make unlik
+applicationsedit
+fundament thermodynam relationedit
+entropi system depend intern energi extern paramet volum thermodynam limit fact lead equat relat chang intern energi chang entropi extern paramet relat known fundament thermodynam relat volum extern paramet relat
+sinc intern energi fix one specifi entropi volum relat valid even chang one state thermal equilibrium anoth infinitesim larger entropi volum happen nonquasistat way chang system may far thermal equilibrium entropi pressur temperatur may exist
+fundament thermodynam relat impli mani thermodynam ident valid general independ microscop detail system import exampl maxwel relat relat heat capac
+entropi chemic thermodynamicsedit
+thermodynam entropi central chemic thermodynam enabl chang quantifi outcom reaction predict second law thermodynam state entropi isol system combin subsystem studi surround increas spontan chemic physic process clausius equat qrevt introduc measur entropi chang entropi chang describ direct quantifi magnitud simpl chang heat transfer system alway hotter cooler spontan
+thermodynam entropi therefor dimens energi divid temperatur unit joul per kelvin jk intern system unit si
+thermodynam entropi extens properti mean scale size extent system mani process use specifi entropi intens properti independ size specif entropi characterist type system studi specif entropi may express relat unit mass typic kilogram unit jkgk altern chemistri also refer one mole substanc case call molar entropi unit jmolk
+thus one mole substanc k warm surround k sum increment valu qrevt constitut element compound standard molar entropi indic amount energi store substanc k entropi chang also measur mix substanc summat relat quantiti final mixtur
+entropi equal essenti predict extent direct complex chemic reaction applic must incorpor express includ system surround sunivers ssurround system express becom via step gibb free energi equat reactant product system g gibb free energi chang system h enthalpi chang entropi chang
+entropi balanc equat open systemsedit
+chemic engin principl thermodynam common appli open system ie heat work mass flow across system boundari flow heat work ie shaft work pdvdt pressurevolum work across system boundari general caus chang entropi system transfer heat entail entropi transfer absolut thermodynam temperatur system point heat flow mass flow across system boundari also influenc total entropi system account term heat work valid case work heat transfer path physic distinct path entri exit matter system
+deriv general entropi balanc equat start general balanc equat chang extens quantiti thermodynam system quantiti may either conserv energi nonconserv entropi basic generic balanc express state ddt ie rate chang system equal rate enter system boundari minus rate leav system across system boundari plus rate generat within system open thermodynam system heat work transfer path separ path transfer matter use generic balanc equat respect rate chang time extens quantiti entropi entropi balanc equat
+net rate entropi flow due flow mass system entropi per unit mass
+rate entropi flow due flow heat across system boundari
+rate entropi product within system entropi product aris process within system includ chemic reaction intern matter diffus intern heat transfer friction effect viscos occur within system mechan work transfer system
+note also multipl heat flow term replac heat flow temperatur jth heat flow port system
+entropi chang formula simpl processesedit
+certain simpl transform system constant composit entropi chang given simpl formula
+isotherm expans compress ideal gasedit
+expans compress ideal gas initi volum pressur final volum pressur constant temperatur chang entropi given
+number mole gas ideal gas constant equat also appli expans finit vacuum throttl process temperatur intern energi enthalpi ideal gas remain constant
+cool heatingedit
+heat cool system gas liquid solid constant pressur initi temperatur final temperatur entropi chang
+provid constantpressur molar heat capac specif heat cp constant phase transit occur temperatur interv
+similar constant volum entropi chang
+constantvolum heat capac cv constant phase chang
+low temperatur near absolut zero heat capac solid quick drop near zero assumpt constant heat capac appli
+sinc entropi state function entropi chang process temperatur volum vari path divid two step heat constant volum expans constant temperatur ideal gas total entropi chang
+similar temperatur pressur ideal gas vari
+phase transitionsedit
+revers phase transit occur constant temperatur pressur revers heat enthalpi chang transit entropi chang enthalpi chang divid thermodynam temperatur fusion melt solid liquid melt point tm entropi fusion
+similar vapor liquid gas boil point tb entropi vapor
+approach understand entropyedit
+fundament aspect thermodynam physic sever differ approach entropi beyond clausius boltzmann valid
+standard textbook definitionsedit
+follow list addit definit entropi collect textbook
+measur energi dispers specif temperatur
+measur disord univers avail energi system work
+measur system thermal energi per unit temperatur unavail use work
+boltzmann definit entropi measur number possibl microscop state microst system thermodynam equilibrium consist boltzmann definit second law thermodynam need reword entropi increas time though under principl remain
+order disorderedit
+entropi often loos associ amount order disord chao thermodynam system tradit qualit descript entropi refer chang status quo system measur molecular disord amount wast energi dynam energi transform one state form anoth direct sever recent author deriv exact entropi formula account measur disord order atom molecular assembl one simpler entropi orderdisord formula deriv thermodynam physicist peter landsberg base combin thermodynam inform theori argument argu constraint oper system prevent enter one possibl permit state contrast forbidden state measur total amount disord system given
+similar total amount order system given
+cd disord capac system entropi part contain permit ensembl ci inform capac system express similar shannon channel capac co order capac system
+energi dispersaledit
+concept entropi describ qualit measur energi dispers specif temperatur similar term use earli histori classic thermodynam develop statist thermodynam quantum theori entropi chang describ term mix spread total energi constitu system particular quantiz energi level
+ambigu term disord chao usual mean direct oppos equilibrium contribut widespread confus hamper comprehens entropi student second law thermodynam show isol system intern portion differ temperatur tend adjust singl uniform temperatur thus produc equilibrium recent develop educ approach avoid ambigu term describ spread energi dispers lead loss differenti requir work even though total energi remain constant accord first law thermodynam compar discuss next section physic chemist peter atkin exampl previous wrote dispers lead disord state write spontan chang alway accompani dispers energi
+relat entropi energi usefulnessedit
+follow possibl thermal context regard entropi indic measur effect use particular quantiti energi energi suppli high temperatur ie low entropi tend use amount energi avail room temperatur mix hot parcel fluid cold one produc parcel intermedi temperatur overal increas entropi repres loss never replac
+thus fact entropi univers steadili increas mean total energi becom less use eventu lead heat death univers
+entropi adiabat accessibilityedit
+definit entropi base entir relat adiabat access equilibrium state given ehlieb j yngvason approach sever predecessor includ pioneer work constantin carathodori monograph r gile set lieb yngvason one start pick unit amount substanc consider two refer state latter adiabat access former vice versa defin entropi refer state respect entropi state defin largest number adiabat access composit state consist amount state complementari amount state simpl import result within set entropi uniqu determin apart choic unit addit constant chemic element follow properti monoton respect relat adiabat access addit composit system extens scale
+entropi quantum mechanicsedit
+quantum statist mechan concept entropi develop john von neumann general refer von neumann entropi
+densiti matrix tr trace oper
+uphold correspond principl classic limit phase basi state use classic probabl pure random express equival familiar classic definit entropi
+ie basi densiti matrix diagon
+von neumann establish rigor mathemat framework quantum mechan work mathematisch grundlagen der quantenmechanik provid work theori measur usual notion wave function collaps describ irrevers process socal von neumann project measur use concept conjunct densiti matrix extend classic concept entropi quantum domain
+inform theoryedit
+view term inform theori entropi state function simpli amount inform shannon sens would need specifi full microst system left unspecifi macroscop descript
+inform theori entropi measur amount inform miss recept sometim refer shannon entropi shannon entropi broad general concept find applic inform theori well thermodynam origin devis claud shannon studi amount inform transmit messag definit inform entropi howev quit general express term discret set probabl pi
+case transmit messag probabl probabl particular messag actual transmit entropi messag system measur averag amount inform messag case equal probabl ie messag equal probabl shannon entropi bit number yesno question need determin content messag
+question link inform entropi thermodynam entropi debat topic author argu link two argu noth
+express two entropi similar w number microst yield given macrost microst priori probabl probabl pw shannon entropi nat
+entropi measur unit k per nat entropi given
+famous boltzmann entropi formula k boltzmann constant may interpret thermodynam entropi per nat mani way demonstr equival inform entropi physic entropi equival shannon entropi boltzmann entropi nevertheless author argu drop word entropi h function inform theori use shannon term uncertainti instead
+interdisciplinari applic entropyedit
+although concept entropi origin thermodynam construct adapt field studi includ inform theori psychodynam thermoeconomicsecolog econom evolut instanc entrop argument recent propos explain prefer cave spider choos suitabl area lay egg
+thermodynam statist mechan conceptsedit
+entropi unit nonsi unit thermodynam entropi usual denot eu equal one calori per kelvin per mole joul per kelvin per mole
+gibb entropi usual statist mechan entropi thermodynam system
+boltzmann entropi type gibb entropi neglect intern statist correl overal particl distribut
+tsalli entropi general standard boltzmanngibb entropi
+standard molar entropi entropi content one mole substanc condit standard temperatur pressur
+residu entropi entropi present substanc cool arbitrarili close absolut zero
+entropi mix chang entropi two differ chemic substanc compon mix
+loop entropi entropi lost upon bring togeth two residu polym within prescrib distanc
+conform entropi entropi associ physic arrang polym chain assum compact globular state solut
+entrop forc microscop forc reaction tendenc relat system organ chang molecular friction consider statist variat
+free entropi entrop thermodynam potenti analog free energi
+entrop explos explos reactant undergo larg chang volum without releas larg amount heat
+entropi chang chang entropi ds two equilibrium state given heat transfer dqrev divid absolut temperatur system interv
+sackurtetrod entropi entropi monatom classic ideal gas determin via quantum consider
+arrow timeedit
+entropi quantiti physic scienc seem impli particular direct progress sometim call arrow time time progress second law thermodynam state entropi isol system never decreas henc perspect entropi measur thought kind clock
+cosmologyedit
+sinc finit univers isol system second law thermodynam state total entropi constant increas specul sinc th centuri univers fate heat death energi end homogen distribut thermal energi work extract sourc
+univers consid general increas entropi sir roger penros point graviti play import role increas graviti caus dispers matter accumul star collaps eventu black hole entropi black hole proport surfac area black hole event horizon jacob bekenstein stephen hawk shown black hole maximum possibl entropi object equal size make like end point entropyincreas process total effect matter energi trap howev escap energi black hole might possibl due quantum activ see hawk radiat hawk recent chang stanc detail paper larg redefin event horizon black hole
+role entropi cosmolog remain controversi subject sinc time ludwig boltzmann recent work cast doubt heat death hypothesi applic simpl thermodynam model univers general although entropi increas model expand univers maximum possibl entropi rise much rapid move univers heat death time closer result entropi gap push system away posit heat death equilibrium complic factor energi densiti vacuum macroscop quantum effect difficult reconcil thermodynam model make predict largescal thermodynam extrem difficult
+entropi gap wide believ origin open earli rapid exponenti expans univers
+see alsoedit
+notesedit
+referencesedit
+readingedit
+atkin peter julio de paula physic chemistri th ed oxford univers press isbn
+baierlein ralph thermal physic cambridg univers press isbn
+bennaim arieh entropi demystifi world scientif isbn
+callen herbert b thermodynam introduct thermostatist nd ed john wiley son isbn
+chang raymond chemistri th ed new york mcgraw hill isbn
+cutnel john d johnson kenneth j physic th ed john wiley son inc isbn
+dugdal j entropi physic mean nd ed taylor franci uk crc us isbn
+fermi enrico thermodynam prentic hall isbn x
+goldstein martin ing f refriger univers harvard univers press isbn
+gyftopoulo ep gp beretta thermodynam foundat applic dover isbn
+haddad wassim m chellaboina vijaysekhar nersesov sergey g thermodynam dynam system approach princeton univers press isbn
+kroemer herbert charl kittel thermal physic nd ed w h freeman compani isbn
+lambert frank l entropysiteoxyedu
+penros roger road realiti complet guid law univers new york knopf isbn
+reif f fundament statist thermal physic mcgrawhil isbn
+schroeder daniel v introduct thermal physic new york addison wesley longman isbn
+serway raymond physic scientist engin saunder golden subburst seri isbn
+spiraxsarco limit entropi basic understand primer entropi tabl steam engin
+vonbaey han christian maxwel demon warmth dispers time pass random hous isbn
+entropi beginn wikibook
+intuit guid concept entropi aris various sector scienc wikibook
+extern linksedit
+entropi second law thermodynam alevel physic lectur detail deriv entropi base carnot cycl
+khan academi entropi lectur part chemistri playlist
+proof entropi valid state variabl
+thermodynam entropi definit clarif
+reconcil thermodynam state definit entropi
+entropi intuit
+entropi
+second law thermodynam entropi yale oyc lectur part fundament physic phys
+entropi clausius inequ mit ocw lectur part thermodynam kinet spring
+discoveri entropi adam shulman hourlong video januari
+moriarti philip merrifield michael entropi sixti symbol bradi haran univers nottingham
+entropi scholarpedia

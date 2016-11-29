@@ -1,0 +1,200 @@
+transform electr devic transfer electr energi two circuit electromagnet induct electromagnet induct produc electromot forc across conductor expos time vari magnet field common transform use increas decreas voltag altern current electr power applic
+vari current transform primari wind creat vari magnet flux transform core vari magnet field imping transform secondari wind vari magnet field secondari wind induc vari electromot forc emf voltag secondari wind due electromagnet induct make use faraday law discov conjunct high magnet permeabl core properti transform thus design effici chang ac voltag one voltag level anoth within power network
+sinc invent first constant potenti transform transform becom essenti transmiss distribut util altern current electr energi wide rang transform design encount electron electr power applic transform rang size rf transform less cubic centimet volum unit interconnect power grid weigh hundr ton
+basic principlesedit
+ideal transformeredit
+simplif approxim purpos common analyz transform ideal transform model present two imag ideal transform theoret linear transform lossless perfect coupl energi loss flux complet confin within magnet core perfect coupl impli infinit high core magnet permeabl wind induct zero net magnetomot forc
+vari current transform primari wind creat vari magnet flux core vari magnet field imping secondari wind vari magnet field secondari induc vari electromot forc emf voltag secondari wind primari secondari wind wrap around core infinit high magnet permeabl magnet flux pass primari secondari wind voltag sourc connect primari wind load imped connect secondari wind transform current flow indic direct see also polar
+accord faraday law induct sinc magnet flux pass primari secondari wind ideal transform voltag induc wind accord eq secondari wind case accord eq primari wind case primari emf sometim term counter emf accord lenz law state induct emf alway oppos develop chang magnet field
+transform wind voltag ratio thus shown direct proport wind turn ratio accord eq
+accord law conserv energi load imped connect ideal transform secondari wind result conserv appar real reactiv power consist eq
+ideal transform ident shown eq reason approxim typic commerci transform voltag ratio wind turn ratio invers proport correspond current ratio
+ohm law ideal transform ident
+secondari circuit load imped express eq
+appar load imped refer primari circuit deriv eq equal turn ratio squar time secondari circuit load imped
+polarityedit
+dot convent often use transform circuit diagram namepl termin mark defin relat polar transform wind posit increas instantan current enter primari wind dot end induc posit polar voltag secondari wind dot end
+real transformeredit
+deviat idealedit
+ideal transform model neglect follow basic linear aspect real transform
+core loss collect call magnet current loss consist
+hysteresi loss due nonlinear applic voltag appli transform core
+eddi current loss due joul heat core proport squar transform appli voltag
+wherea wind ideal model resist infinit induct wind real transform finit nonzero resist induct associ
+joul loss due resist primari secondari wind
+leakag flux escap core pass one wind result primari secondari reactiv imped
+leakag fluxedit
+ideal transform model assum flux generat primari wind link turn everi wind includ practic flux travers path take outsid wind flux term leakag flux result leakag induct seri mutual coupl transform wind leakag flux result energi altern store discharg magnet field cycl power suppli direct power loss result inferior voltag regul caus secondari voltag direct proport primari voltag particular heavi load transform therefor normal design low leakag induct
+applic increas leakag desir long magnet path air gap magnet bypass shunt may deliber introduc transform design limit shortcircuit current suppli leaki transform may use suppli load exhibit negat resist electr arc mercuri vapor lamp neon sign safe handl load becom period shortcircuit electr arc welder
+air gap also use keep transform satur especi audiofrequ transform circuit dc compon flow wind
+knowledg leakag induct also use transform oper parallel shown percent imped associ wind leakag reactancetoresist xr ratio two transform hypothet exact transform would share power proport respect voltamper rate eg kva unit parallel kva unit larger unit would carri twice current howev imped toler commerci transform signific also z imped xr ratio differ capac transform tend vari correspond kva kva unit valu illustr respect z xr z xr
+equival circuitedit
+refer diagram practic transform physic behavior may repres equival circuit model incorpor ideal transform
+wind joul loss leakag reactanc repres follow seri loop imped model
+primari wind rp xp
+secondari wind rs xs
+normal cours circuit equival transform rs xs practic usual refer primari side multipli imped turn ratio squar npns
+core loss reactanc repres follow shunt leg imped model
+core iron loss rc
+magnet reactanc xm
+rc xm collect term magnet branch model
+core loss caus most hysteresi eddi current effect core proport squar core flux oper given frequenc finit permeabl core requir magnet current im maintain mutual flux core magnet current phase flux relationship two nonlinear due satur effect howev imped equival circuit shown definit linear nonlinear effect typic reflect transform equival circuit sinusoid suppli core flux lag induc emf opencircuit secondari wind magnet branch current equal transform noload current
+result model though sometim term exact equival circuit base linear assumpt retain number approxim analysi may simplifi assum magnet branch imped relat high reloc branch left primari imped introduc error allow combin primari refer secondari resist reactanc simpl summat two seri imped
+transform equival circuit imped transform ratio paramet deriv follow test opencircuit test shortcircuit test wind resist test transform ratio test
+basic transform paramet constructionedit
+effect frequencyedit
+faraday law induct shown eq transform emf vari accord deriv flux respect time ideal transform core behav linear time nonzero frequenc flux real transform core behav nonlinear relat magnet current instantan flux increas beyond finit linear rang result magnet satur associ increas larg magnet current eventu lead transform overh
+emf transform given flux densiti increas frequenc oper higher frequenc transform physic compact given core abl transfer power without reach satur fewer turn need achiev imped howev properti core loss conductor skin effect also increas frequenc aircraft militari equip employ hz power suppli reduc core wind weight convers frequenc use railway electrif system much lower eg hz hz normal util frequenc hz histor reason concern main limit earli electr traction motor transform use stepdown high overhead line voltag eg kv much heavier power rate design higher frequenc
+oper transform design voltag higher frequenc intend lead reduc magnet current lower frequenc magnet current increas oper transform design frequenc may requir assess voltag loss cool establish safe oper practic exampl transform may need equip volt per hertz overexcit relay protect transform overvoltag higher rate frequenc
+one exampl traction transform use electr multipl unit highspe train servic oper across region differ electr standard convert equip traction transform accommod differ input frequenc voltag rang high hz hz rate kv suitabl multipl ac asynchron motor dc convert motor vari harmon mitig filter requir
+larg power transform vulner insul failur due transient voltag highfrequ compon caus switch lightn
+energi lossesedit
+real transform energi loss domin wind resist joul core loss transform effici tend improv increas transform capac effici typic distribut transform percent
+transform loss vari load often use express loss term noload loss fullload loss halfload loss hysteresi eddi current loss constant load level domin overwhelm without load variabl wind joul loss domin increas load increas noload loss signific even idl transform constitut drain electr suppli design energi effici transform lower loss requir larger core goodqual silicon steel even amorph steel core thicker wire increas initi cost choic construct repres tradeoff initi cost oper cost
+transform loss aris
+wind joul loss
+current flow wind conductor caus joul heat frequenc increas skin effect proxim effect caus wind resist henc loss increas
+core loss
+hysteresi loss
+time magnet field revers small amount energi lost due hysteresi within core accord steinmetz formula heat energi due hysteresi given
+hysteresi loss thus given
+f frequenc hysteresi coeffici max maximum flux densiti empir expon vari often given iron
+eddi current loss
+ferromagnet materi also good conductor core made materi also constitut singl shortcircuit turn throughout entir length eddi current therefor circul within core plane normal flux respons resist heat core materi eddi current loss complex function squar suppli frequenc invers squar materi thick eddi current loss reduc make core stack plate electr insul rather solid block transform oper low frequenc use lamin similar core
+magnetostrict relat transform hum
+magnet flux ferromagnet materi core caus physic expand contract slight cycl magnet field effect known magnetostrict friction energi produc audibl nois known main hum transform hum transform hum especi objection transform suppli power frequenc highfrequ flyback transform associ pal system crts
+stray loss
+leakag induct larg lossless sinc energi suppli magnet field return suppli next halfcycl howev leakag flux intercept nearbi conduct materi transform support structur give rise eddi current convert heat also radiat loss due oscil magnet field usual small
+mechan vibrat audibl nois transmiss
+addit magnetostrict altern magnet field caus fluctuat forc primari secondari wind energi incit vibrat transmiss interconnect metalwork thus amplifi audibl transform hum
+core form shell form transformersedit
+closedcor transform construct core form shell form wind surround core transform core form wind surround core transform shell form shell form design may preval core form design distribut transform applic due relat eas stack core around wind coil core form design tend general rule econom therefor preval shell form design high voltag power transform applic lower end voltag power rate rang less equal nomin kv mva higher voltag power rate shell form transform tend preval shell form design tend prefer extrahigh voltag higher mva applic though laborintens manufactur shell form transform character inher better kvatoweight ratio better shortcircuit strength characterist higher immun transit damag
+constructionedit
+coresedit
+lamin steel coresedit
+transform use power audio frequenc typic core made high permeabl silicon steel steel permeabl mani time free space core thus serv great reduc magnet current confin flux path close coupl wind earli transform develop soon realiz core construct solid iron result prohibit eddi current loss design mitig effect core consist bundl insul iron wire later design construct core stack layer thin steel lamin principl remain use lamin insul neighbor thin nonconduct layer insul univers transform equat indic minimum crosssect area core avoid satur
+effect lamin confin eddi current high ellipt path enclos littl flux reduc magnitud thinner lamin reduc loss labori expens construct thin lamin general use highfrequ transform thin steel lamin abl oper khz
+one common design lamin core made interleav stack eshap steel sheet cap ishap piec lead name ei transform design tend exhibit loss econom manufactur cutcor ccore type made wind steel strip around rectangular form bond layer togeth cut two form two c shape core assembl bind two c halv togeth steel strap advantag flux alway orient parallel metal grain reduc reluct
+steel core reman mean retain static magnet field power remov power reappli residu field caus high inrush current effect remain magnet reduc usual cycl appli ac waveform overcurr protect devic fuse must select allow harmless inrush pass transform connect long overhead power transmiss line induc current due geomagnet disturb solar storm caus satur core oper transform protect devic
+distribut transform achiev low noload loss use core made lowloss highperm silicon steel amorph noncrystallin metal alloy higher initi cost core materi offset life transform lower loss light load
+solid coresedit
+powder iron core use circuit switchmod power suppli oper main frequenc ten kilohertz materi combin high magnet permeabl high bulk electr resist frequenc extend beyond vhf band core made nonconduct magnet ceram materi call ferrit common radiofrequ transform also movabl core sometim call slug allow adjust coupl coeffici bandwidth tune radiofrequ circuit
+toroid coresedit
+toroid transform built around ringshap core depend oper frequenc made long strip silicon steel permalloy wound coil powder iron ferrit strip construct ensur grain boundari optim align improv transform effici reduc core reluct close ring shape elimin air gap inher construct ei core crosssect ring usual squar rectangular expens core circular crosssect also avail primari secondari coil often wound concentr cover entir surfac core minim length wire need provid screen minim core magnet field generat electromagnet interfer
+toroid transform effici cheaper lamin ei type similar power level advantag compar ei type includ smaller size half lower weight half less mechan hum make superior audio amplifi lower exterior magnet field one tenth low offload loss make effici standbi circuit singlebolt mount greater choic shape main disadvantag higher cost limit power capac see classif paramet lack residu gap magnet path toroid transform also tend exhibit higher inrush current compar lamin ei type
+ferrit toroid core use higher frequenc typic ten kilohertz hundr megahertz reduc loss physic size weight induct compon drawback toroid transform construct higher labor cost wind necessari pass entir length coil wind core apertur time singl turn ad coil consequ toroid transform rate kva uncommon small distribut transform may achiev benefit toroid core split forc open insert bobbin contain primari secondari wind
+air coresedit
+physic core absolut requisit function transform produc simpli place wind near arrang term aircor transform air compris magnet circuit essenti lossless aircor transform elimin loss due hysteresi core materi leakag induct inevit high result poor regul design unsuit use power distribut howev high bandwidth frequent employ radiofrequ applic satisfactori coupl coeffici maintain care overlap primari secondari wind theyr also use reson transform tesla coil achiev reason low loss spite high leakag induct
+windingsedit
+conduct materi use wind depend upon applic case individu turn must electr insul ensur current travel throughout everi turn small power signal transform current low potenti differ adjac turn small coil often wound enamel magnet wire formvar wire larger power transform oper high voltag may wound copper rectangular strip conductor insul oilimpregn paper block pressboard
+highfrequ transform oper ten hundr kilohertz often wind made braid litz wire minim skineffect proxim effect loss larg power transform use multiplestrand conductor well sinc even low power frequenc nonuniform distribut current would otherwis exist highcurr wind strand individu insul strand arrang certain point wind throughout whole wind portion occupi differ relat posit complet conductor transposit equal current flow strand conductor reduc eddi current loss wind strand conductor also flexibl solid conductor similar size aid manufactur
+wind signal transform minim leakag induct stray capacit improv highfrequ respons coil split section section interleav section wind
+powerfrequ transform may tap intermedi point wind usual higher voltag wind side voltag adjust tap may manual reconnect manual automat switch may provid chang tap automat onload tap changer use electr power transmiss distribut equip arc furnac transform automat voltag regul sensit load audiofrequ transform use distribut audio public address loudspeak tap allow adjust imped speaker centertap transform often use output stage audio power amplifi pushpul circuit modul transform transmitt similar
+drytyp transform wind insul system either standard openwound dipandbak construct higher qualiti design includ vacuum pressur impregn vpi vacuum pressur encapsul vpe cast coil encapsul process vpi process combin heat vacuum pressur use thorough seal bind elimin entrain air void wind polyest resin insul coat layer thus increas resist corona vpe wind similar vpi wind provid protect environment effect water dirt corros ambient multipl dip includ typic term final epoxi coat
+coolingedit
+place cool problem perspect accept rule thumb life expect insul electr machin includ transform halv everi c c increas oper temperatur life expect halv rule hold narrowli increas c c case transform wind cellulos insul
+small drytyp liquidimmers transform often selfcool natur convect radiat heat dissip power rate increas transform often cool forcedair cool forcedoil cool watercool combin larg transform fill transform oil cool insul wind transform oil high refin miner oil cool wind insul circul within transform tank miner oil paper insul system extens studi use year estim power transform surviv year use averag age failur power transform year power transform failur due insul overload failur prolong oper elev temperatur degrad insul properti wind insul dielectr coolant shorten transform life ultim lead catastroph transform failur great bodi empir studi guid transform oil test includ dissolv gas analysi provid valuabl mainten inform underlin need monitor model forecast manag oil wind conductor insul temperatur condit vari possibl difficult power load condit
+build regul mani jurisdict requir indoor liquidfil transform either use dielectr fluid less flammabl oil instal fireresist room aircool dri transform econom elimin cost fireresist transform room
+tank liquid fill transform often radiat liquid coolant circul natur convect fin larg transform employ electr fan forcedair cool pump forcedliquid cool heat exchang watercool oilimmers transform may equip buchholz relay depend sever gas accumul due intern arc use either alarm deenerg transform oilimmers transform instal usual includ fire protect measur wall oil contain firesuppress sprinkler system
+polychlorin biphenyl properti favor use dielectr coolant though concern environment persist led widespread ban use today nontox stabl siliconebas oil fluorin hydrocarbon may use expens fireresist liquid offset addit build cost transform vault pcbs new equip ban use exist equip unit kingdom legisl enact canada essenti ban pcb use transform manufactur import countri maximum allow level pcb contamin exist miner oil transform ppm
+transform instead liquidfil wind enclos seal pressur tank cool nitrogen sulfur hexafluorid gas
+experiment power transform kva rang built liquid nitrogen helium cool superconduct wind elimin wind loss without affect core loss
+insul dryingedit
+construct oilfil transform requir insul cover wind thorough dri residu moistur oil introduc dri carri factori may also requir field servic dri may done circul hot air around core vaporphas dri vpd evapor solvent transfer heat condens coil core
+small transform resist heat inject current wind use heat control well energi effici method call lowfrequ heat lfh sinc current use much lower frequenc power grid normal hz lower frequenc reduc effect induct voltag requir reduc lfh dri method also use servic older transform
+bushingsedit
+larger transform provid highvoltag insul bush made polym porcelain larg bush complex structur sinc must provid care control electr field gradient without let transform leak oil
+classif parametersedit
+transform classifi mani way follow
+power capac fraction voltamper va thousand mva
+duti transform continu shorttim intermitt period vari
+frequenc rang powerfrequ audiofrequ radiofrequ
+voltag class volt hundr kilovolt
+cool type dri liquidimmers selfcool forc aircool liquidimmers forc oilcool watercool
+circuit applic power suppli imped match output voltag current stabil circuit isol
+util puls power distribut rectifi arc furnac amplifi output etc
+basic magnet form core form shell form
+constantpotenti transform descriptor stepup stepdown isol
+general wind configur eic vector group various possibl twowind combin phase design delta wye star zigzag interconnect star autotransform scottt zigzag ground transform wind
+rectifi phaseshift wind configur wind puls wind puls nwind npuls polygon etc
+typesedit
+various specif electr applic design requir varieti transform type although share basic characterist transform principl custom construct electr properti certain instal requir circuit condit
+autotransform transform part wind common primari secondari circuit
+capacitor voltag transform transform capacitor divid use reduc high voltag applic primari wind
+distribut transform power transform intern standard make distinct term distribut transform use distribut energi transmiss line network local consumpt power transform use transfer electr energi generat distribut primari circuit
+phase angl regul transform specialis transform use control flow real power threephas electr transmiss network
+scottt transform transform use phase transform threephas twophas vice versa
+polyphas transform transform one phase
+ground transform transform use ground threephas circuit creat neutral three wire system use wyedelta transform common zigzag ground wind
+leakag transform transform loos coupl wind
+reson transform transform use reson generat high secondari voltag
+audio transform transform use audio equip
+output transform transform use match output valv amplifi load
+instrument transform potenti current transform use accur safe repres voltag current phase posit high voltag high power circuit
+puls transform special smallsign transform use transmit digit signal provid electr isol common use ethernet comput network baset baset baset
+applicationsedit
+transform use increas stepup voltag transmit electr energi long distanc wire wire resist lose energi joul heat rate correspond squar current transform power higher voltag transform enabl econom transmiss power distribut consequ transform shape electr suppli industri permit generat locat remot point demand tini fraction world electr power pass seri transform time reach consum
+transform also use extens electron product decreas stepdown suppli voltag level suitabl low voltag circuit contain transform also electr isol end user contact suppli voltag
+signal audio transform use coupl stage amplifi match devic microphon record player input amplifi audio transform allow telephon circuit carri twoway convers singl pair wire balun transform convert signal referenc ground signal balanc voltag ground extern cabl intern circuit
+historyedit
+discoveri inductionedit
+electromagnet induct principl oper transform discov independ michael faraday joseph henri relationship emf magnet flux equat known faraday law induct
+magnitud emf volt b magnet flux circuit weber
+faraday perform first experi induct coil wire includ wind pair coil around iron ring thus creat first toroid closedcor transform howev appli individu puls current transform never discov relat turn ratio emf wind
+induct coilsedit
+first type transform see wide use induct coil invent rev nichola callan maynooth colleg ireland one first research realiz turn secondari wind relat primari wind larger induc secondari emf induct coil evolv scientist inventor effort get higher voltag batteri sinc batteri produc direct current dc rather ac induct coil reli upon vibrat electr contact regular interrupt current primari creat flux chang necessari induct effort build better induct coil most trial error slowli reveal basic principl transform
+first altern current transformersedit
+effici generat produc altern current ac avail found ac could power induct coil direct without interrupt
+russian engin pavel yablochkov invent light system base set induct coil primari wind connect sourc ac secondari wind could connect sever electr candl arc lamp design coil yablochkov employ function essenti transform
+ganz factori budapest hungari began manufactur equip electr light instal fifti system austriahungari ac system use arc incandesc lamp generat equip
+lucien gaulard john dixon gibb first exhibit devic open iron core call secondari generat london sold idea westinghous compani unit state also exhibit invent turin itali adopt electr light system howev effici opencor bipolar apparatus remain low
+earli seri circuit transform distributionedit
+induct coil open magnet circuit ineffici transfer power load paradigm ac power transmiss high voltag suppli low voltag load seri circuit opencor transform ratio near connect primari seri allow use high voltag transmiss present low voltag lamp inher flaw method turn singl lamp electr devic affect voltag suppli other circuit mani adjust transform design introduc compens problemat characterist seri circuit includ employ method adjust core bypass magnet flux around part coil effici practic transform design appear within decad transform would instrument war current see ac distribut system triumph dc counterpart posit remain domin ever sinc
+closedcor transform parallel power distributionedit
+autumn kroli zipernowski ott blthi miksa dri zbd three engin associ ganz factori determin opencor devic impractic incap reliabl regul voltag joint patent applic novel transform later call zbd transform describ two design close magnet circuit copper wind either wound around iron wire ring core b surround iron wire core two design first applic two basic transform construct common use day class term either core form shell form altern core type shell type b respect see imag ganz factori also autumn made deliveri world first five higheffici ac transform first unit ship septemb first unit manufactur follow specif w hz v ratio onephas shell form
+design magnet flux link primari secondari wind travel almost entir within confin iron core intent path air see toroid core new transform time effici opencor bipolar devic gaulard gibb zbd patent includ two major interrel innov one concern use parallel connect instead seri connect util load concern abil high turn ratio transform suppli network voltag could much higher initi v voltag util load v initi prefer employ parallel connect electr distribut system closedcor transform final made technic econom feasibl provid electr power light home busi public space blthi suggest use close core zipernowski suggest use parallel shunt connect dri perform experi
+transform today design principl discov three engin also popular word transform describ devic alter emf electr current although term alreadi use zbd engin design ganz factori suppli electr equip world first power station use ac generat power parallel connect common electr network steampow romecerchi power plant
+although georg westinghous bought gaulard gibb patent edison electr light compani held option us right zbd transform requir westinghous pursu altern design principl assign william stanley task develop devic commerci use unit state stanley first patent design induct coil singl core soft iron adjust gap regul emf present secondari wind see imag design first use commerci us westinghous intent improv stanley design make unlik zbd type easi cheap produc
+westinghous stanley associ soon develop easier manufactur core consist stack thin eshap iron plate insul thin sheet paper insul materi prewound copper coil could slid place straight iron plate laid creat close magnet circuit westinghous appli patent new lowcost design decemb grant juli
+earli transformersedit
+russianborn engin mikhail dolivodobrovolski develop first threephas transform allgemein elektricittsgesellschaft general electr compani germani
+nikola tesla invent tesla coil aircor dualtun reson transform generat high voltag high frequenc
+see alsoedit
+compens wind
+inductor
+load profil
+magnet core
+magnet
+paraform
+polyphas system
+rectiform
+switchedmod power suppli
+notesedit
+referencesedit
+bibliographyedit
+central electr generat board modern power station practic pergamon isbn
+daniel ar introduct electr machin macmillan isbn
+flanagan william m handbook transform design applic nd ed mcgrawhil isbn
+gottlieb irv practic transform handbook electron radio communic engin elsevi isbn x
+hammond john winthrop men volt stori general electr jb lippincott compani pp see esp
+harlow jame electr power transform engin crc press isbn
+heathcot martin j p transform book th ed newn isbn
+hindmarsh john electr machin applic th ed exet pergamon isbn
+kulkarni sv khapard sa transform engin design practic crc press isbn
+mclaren peter elementari electr power machin elli horwood isbn x
+mclyman colonel william transform inductor design handbook crc isbn
+pansini anthoni electr transform power equip crc press isbn
+ryan hm high voltag engin test crc press isbn
+say mg altern current machin th ed london pitman isbn
+winder jr john j power transform principl applic crc isbn
+extern linksedit
+insid transform compos j b calvert denver univers
+substat transmiss dmoz
+introduct current transform
+transform interact java applet physic fun chuik ng
+hd video tutori transform
+video power transform inrush current damp youtub
+video power transform overexcit damp youtub
+threephas transform circuit circuit
+bibliographi transform book pm balma ieee transform committe
+einschalten des transform german wikipedia articl transform inrush current switch german

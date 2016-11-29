@@ -1,0 +1,26 @@
+flexibl imag transport system fit open standard defin digit file format use storag transmiss process scientif imag fit common use digit file format astronomi unlik mani imag format fit design specif scientif data henc includ mani provis describ photometr spatial calibr inform togeth imag origin metadata
+fit format first standard evolv gradual sinc recent version standard fit design eye toward longterm archiv storag maxim fit alway fit repres requir develop format must backward compat
+major featur fit format imag metadata store humanread ascii header interest user examin header investig file unknown proven inform header design calcul byte offset inform subsequ data unit support direct access data cell fit file consist one header contain ascii card imag charact fixedlength string carri keywordvalu pair interleav data block keywordvalu pair provid inform size origin coordin binari data format freeform comment histori data anyth els creator desir mani keyword reserv fit use standard allow arbitrari use rest namespac
+fit also often use store nonimag data spectra photon list data cube even structur data multit databas fit file may contain sever extens may contain data object exampl possibl store xray infrar exposur file
+imag
+earliest still common use type fit data imag headerdata block term imag somewhat loos appli format support data array arbitrari dimensionnorm imag data usual d d third dimens repres exampl time color plane data may one sever integ floatingpoint format specifi header
+fit imag header contain inform one scientif coordin system overlaid imag imag contain implicit cartesian coordin system describ locat pixel imag scientif use usual requir work world coordin exampl celesti coordin system fit general origin form world coordin system wcs specif becom sophist earli fit imag allow simpl scale factor repres size pixel recent version standard permit multipl nonlinear coordin system repres arbitrari distort imag wcs standard includ mani differ spheric project includ exampl healpix spheric project wide use observ cosmic microwav background radiat
+tabl
+fit also support tabular data name column multidimension row binari ascii tabl format specifi data column tabl differ format other togeth abil string multipl headerdata block togeth allow fit file repres entir relat databas
+use fit file
+fit support avail varieti program languag use scientif work includ c c c fortran igor pro idl java julia labview mathematica matlab perl pdl python r tcl fit support offic nasagsfc maintain list librari platform current support fit
+imag process program imagej gimp photoshop xnview irfanview general read simpl fit imag frequent cannot interpret complex tabl databas scientif team frequent write code interact fit data use tool avail languag choic fit liber softwar use imag scientist european space agenc european southern observatori nasa saoimag ds astronom data visual applic avail mani oss handl imag header
+mani scientif comput environ make use coordin system data fit header display compar rectifi otherwis manipul fit imag exampl coordin transform librari includ pdl plot map librari solarsoft solarphysicsrel softwar tree starlink project ast librari c pyfit packag python merg astropi librari
+current status
+fit standard version offici approv iau fit work group juli
+releas histori
+see also
+fit liber
+hierarch data format hdf
+common data format cdf
+netcdf
+refer
+extern link
+offici websit goddard support offic
+fit birthday announc histor note well event lead birth fit format
+fit io librari list softwar read write fit file various languag

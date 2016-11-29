@@ -1,0 +1,89 @@
+stressenergi tensor sometim stressenergymomentum tensor energymomentum tensor tensor quantiti physic describ densiti flux energi momentum spacetim general stress tensor newtonian physic attribut matter radiat nongravit forc field stressenergi tensor sourc gravit field einstein field equat general relat mass densiti sourc field newtonian graviti
+definitionedit
+stressenergi tensor involv use superscript variabl expon see tensor index notat einstein summat notat cartesian coordin si unit use compon posit fourvector given x x x x y x z time second x y z distanc meter
+stressenergi tensor defin tensor order two give flux th compon momentum vector across surfac constant x coordin theori relat momentum vector taken fourmomentum general relat stressenergi tensor symmetr
+altern theori like einsteincartan theori stressenergi tensor may perfect symmetr nonzero spin tensor geometr correspond nonzero torsion tensor
+identifi compon tensoredit
+stressenergi tensor order two compon display matrix form
+follow k rang
+timetim compon densiti relativist mass ie energi densiti divid speed light squar special interest simpl physic interpret case perfect fluid compon
+electromagnet field otherwis empti space compon
+e b electr magnet field respect
+flux relativist mass across xi surfac equival densiti ith compon linear momentum
+compon
+repres flux ith compon linear momentum across xk surfac particular
+sum repres normal stress call pressur independ direct remain compon
+repres shear stress compar stress tensor
+solid state physic fluid mechan stress tensor defin spatial compon stressenergi tensor proper frame refer word stress energi tensor engin differ stressenergi tensor momentum convect term
+covari mix formsedit
+articl work contravari form stressenergi tensor howev often necessari work covari form
+mix form
+mix tensor densiti
+articl use spacelik sign convent metric signatur
+conserv lawedit
+special relativityedit
+stressenergi tensor conserv noether current associ spacetim translat
+diverg nongravit stressenergi zero word nongravit energi momentum conserv
+graviti neglig use cartesian coordin system spacetim may express term partial deriv
+integr form
+n compact fourdimension region spacetim boundari threedimension hypersurfac element boundari regard outward point normal
+flat spacetim use cartesian coordin one combin symmetri stressenergi tensor one show angular momentum also conserv
+general relativityedit
+graviti nonneglig use arbitrari coordin system diverg stressenergi still vanish case coordin free definit diverg use incorpor covari deriv
+christoffel symbol gravit forc field
+consequ kill vector field conserv law associ symmetri generat kill vector field may express
+integr form
+general relativityedit
+general relat symmetr stressenergi tensor act sourc spacetim curvatur current densiti associ gaug transform graviti general curvilinear coordin transform torsion tensor longer symmetr correspond case nonzero spin tensor einsteincartan graviti theori
+general relat partial deriv use special relat replac covari deriv mean continu equat longer impli nongravit energi momentum express tensor absolut conserv ie gravit field work matter vice versa classic limit newtonian graviti simpl interpret energi exchang gravit potenti energi includ tensor momentum transfer field bodi general relat landaulifshitz pseudotensor uniqu way defin gravit field energi momentum densiti stressenergi pseudotensor made vanish local coordin transform
+curv spacetim spacelik integr depend spacelik slice general fact way defin global energymomentum vector general curv spacetim
+einstein field equationsedit
+general relat stress tensor studi context einstein field equat often written
+ricci tensor ricci scalar tensor contract ricci tensor metric tensor univers gravit constant
+stressenergi special situationsedit
+isol particleedit
+special relat stressenergi noninteract particl mass m trajectori
+veloc vector confus fourveloc
+dirac delta function energi particl
+stressenergi fluid equilibriumedit
+perfect fluid thermodynam equilibrium stressenergi tensor take particular simpl form
+massenergi densiti kilogram per cubic meter hydrostat pressur pascal fluid four veloc reciproc metric tensor
+four veloc satisfi
+inerti frame refer comov fluid better known fluid proper frame refer four veloc
+reciproc metric tensor simpli
+stressenergi tensor diagon matrix
+electromagnet stressenergi tensoredit
+hilbert stressenergi tensor sourcefre electromagnet field
+electromagnet field tensor
+scalar fieldedit
+stressenergi tensor scalar field satisfi kleingordon equat
+variant definit stressenergyedit
+number inequival definit nongravit stressenergi
+hilbert stressenergi tensoredit
+defin function deriv
+nongravit part lagrangian densiti action symmetr gaugeinvari see einsteinhilbert action inform
+canon stressenergi tensoredit
+noether theorem impli conserv current associ translat space time call canon stressenergi tensor general symmetr gaug theori may gaug invari spacedepend gaug transform commut spatial translat
+general relat translat respect coordin system transform covari see section gravit stressenergi pseudotensor
+belinfanterosenfeld stressenergi tensoredit
+presenc spin intrins angular momentum canon noether stress energi tensor fail symmetr belinfanterosenfeld stress energi tensor construct canon stressenergi tensor spin current way symmetr still conserv general relat modifi tensor agre hilbert stressenergi tensor
+gravit stressenergyedit
+equival principl gravit stressenergi alway vanish local chosen point chosen frame therefor gravit stressenergi cannot express nonzero tensor instead use pseudotensor
+general relat mani possibl distinct definit gravit stressenergymomentum pseudotensor includ einstein pseudotensor landaulifshitz pseudotensor landaulifshitz pseudotensor reduc zero event spacetim choos appropri coordin system
+see alsoedit
+cooperstock energyloc hypothesi
+electromagnet stressenergi tensor
+energi condit
+energi densiti electr magnet field
+maxwel stress tensor
+poynt vector
+ricci calculus
+segr classif
+note referencesedit
+pp misner thorn wheeler section symmetri stressenergi tensor begin stressenergi tensor explor symmetr could otherwis one see follow
+charl w misner thorn kip wheeler john gravit san frandisco w h freeman compani isbn
+dinverno ra introduc einstein relat new york oxford univers press isbn
+w wyss energymomentum tensor classic field theori pdf colorado usa
+extern linksedit
+lectur stephan waner
+caltech tutori relat simpl discuss relat stressenergi tensor general relat metric

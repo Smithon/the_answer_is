@@ -1,0 +1,48 @@
+kirchhoff circuit law two equal deal current potenti differ common known voltag lump element model electr circuit first describ german physicist gustav kirchhoff general work georg ohm preced work maxwel wide use electr engin also call kirchhoff rule simpli kirchhoff law
+kirchhoff law understood corollari maxwel equat lowfrequ limit accur dc circuit ac circuit frequenc wavelength electromagnet radiat larg compar circuit
+kirchhoff current law kcledit
+law also call kirchhoff first law kirchhoff point rule kirchhoff junction rule nodal rule
+principl conserv electr charg impli
+node junction electr circuit sum current flow node equal sum current flow node
+equival
+algebra sum current network conductor meet point zero
+recal current sign posit negat quantiti reflect direct toward away node principl state
+n total number branch current flow toward away node
+formula valid complex current
+law base conserv charg wherebi charg measur coulomb product current amper time second
+usesedit
+matrix version kirchhoff current law basi circuit simul softwar spice kirchhoff current law combin ohm law use nodal analysi
+kcl applic lump network irrespect natur network whether unilater bilater activ passiv linear nonlinear
+kirchhoff voltag law kvledit
+law also call kirchhoff second law kirchhoff loop mesh rule kirchhoff second rule
+principl conserv energi impli
+direct sum electr potenti differ voltag around close network zero
+simpli sum emf close loop equival sum potenti drop loop
+algebra sum product resist conductor current close loop equal total emf avail loop
+similar kcl state
+n total number voltag measur voltag may also complex
+law base conserv energi wherebi voltag defin energi per unit charg total amount energi gain per unit charg must equal amount energi lost per unit charg energi charg conserv
+generalizationedit
+lowfrequ limit voltag drop around loop zero includ imaginari loop arrang arbitrarili space limit loop delin circuit element conductor lowfrequ limit corollari faraday law induct one maxwel equat
+practic applic situat involv static electr
+limitationsedit
+kcl kvl depend lump element model applic circuit question model applic law appli
+kcl usual form depend assumpt current flow conductor whenev current flow one end conductor immedi flow end safe assumpt highfrequ ac circuit lump element model longer applic often possibl improv applic kcl consid parasit capacit distribut along conductor signific violat kcl occur even hz high frequenc
+word kcl valid total electr charg remain constant region consid practic case alway kcl appli geometr point investig finit region howev possibl charg densiti within region may chang sinc charg conserv come flow charg across region boundari flow repres net current kcl violat
+kvl base assumpt fluctuat magnet field link close loop safe assumpt highfrequ shortwavelength ac circuit presenc chang magnet field electr field conserv vector field therefor electr field cannot gradient potenti say line integr electr field around loop zero direct contradict kvl
+often possibl improv applic kvl consid parasit induct includ mutual induct distribut along conductor treat imaginari circuit element produc voltag drop equal rateofchang flux
+exampleedit
+assum electr network consist two voltag sourc three resistor
+accord first law
+second law appli close circuit give
+second law appli close circuit give
+thus get linear system equat
+equival
+assum
+solut
+negat sign mean direct opposit assum direct direct defin pictur
+see alsoedit
+faraday law induct
+kirchhoff law disambigu
+lump matter disciplin
+referencesedit

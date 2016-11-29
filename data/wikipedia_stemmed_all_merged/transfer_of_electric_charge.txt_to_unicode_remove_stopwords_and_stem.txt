@@ -1,0 +1,60 @@
+engin physic chemistri studi transport phenomena concern exchang mass energi momentum observ studi system draw field divers continuum mechan thermodynam place heavi emphasi common topic cover mass momentum heat transport share similar mathemat framework parallel exploit studi transport phenomena draw deep mathemat connect often provid use tool analysi one field direct deriv other
+draw theoret foundat principl number field fundament transport theori restat basic conserv law
+fundament analys three subfield mass heat momentum transfer often ground simpl principl sum total quantiti studi must conserv system environ thus differ phenomena lead transport consid individu knowledg sum contribut must equal zero principl use calcul mani relev quantiti exampl fluid mechan common use transport analysi determin veloc profil fluid flow rigid volum
+transport phenomena ubiquit throughout engin disciplin common exampl transport analysi engin seen field process chemic biolog mechan engin subject fundament compon curriculum disciplin involv way fluid mechan heat transfer mass transfer consid part engin disciplin much thermodynam mechan electromagnet
+transport phenomena encompass agent physic chang univers moreov consid fundament build block develop univers respons success life earth howev scope limit relationship transport phenomena artifici engin system
+overviewedit
+physic transport phenomena irrevers process statist natur stem random continu motion molecul most observ fluid everi aspect transport phenomena ground two primari concept conserv law constitut equat conserv law context transport phenomena formul continu equat describ quantiti studi must conserv constitut equat describ quantiti question respond various stimuli via transport promin exampl includ fourier law heat conduct navierstok equat describ respect respons heat flux temperatur gradient relationship fluid flux forc appli fluid equat also demonstr deep connect transport phenomena thermodynam connect explain transport phenomena irrevers almost physic phenomena ultim involv system seek lowest energi state keep principl minimum energi approach state tend achiev true thermodynam equilibrium point longer drive forc system transport ceas various aspect equilibrium direct connect specif transport heat transfer system attempt achiev thermal equilibrium environ mass momentum transport move system toward chemic mechan equilibrium
+exampl transport process includ heat conduct energi transfer fluid flow momentum transfer molecular diffus mass transfer radiat electr charg transfer semiconductor
+transport phenomena wide applic exampl solid state physic motion interact electron hole phonon studi transport phenomena anoth exampl biomed engin transport phenomena interest thermoregul perfus microfluid chemic engin transport phenomena studi reactor design analysi molecular diffus transport mechan metallurgi
+transport mass energi momentum affect presenc extern sourc
+odor dissip slowli may intensifi sourc odor remain present
+rate cool solid conduct heat depend whether heat sourc appli
+gravit forc act rain drop counteract resist drag impart surround air
+common among phenomenaedit
+import principl studi transport phenomena analog phenomena
+diffusionedit
+notabl similar equat momentum energi mass transfer transport diffus illustr follow exampl
+mass spread dissip odor air exampl mass diffus
+energi conduct heat solid materi exampl heat diffus
+momentum drag experienc rain drop fall atmospher exampl momentum diffus rain drop lose momentum surround air viscous stress deceler
+molecular transfer equat newton law fluid momentum fourier law heat fick law mass similar one convert one transfer coeffici anoth order compar three differ transport phenomena
+definit formula given
+great deal effort devot literatur develop analog among three transport process turbul transfer allow predict one other reynold analog assum turbul diffus equal molecular diffus momentum mass dab neglig compar turbul diffus liquid present andor drag present analog valid analog von karman prandtl usual result poor relat
+success wide use analog chilton colburn jfactor analog analog base experiment data gase liquid laminar turbul regim although base experiment data shown satisfi exact solut deriv laminar flow flat plate inform use predict transfer mass
+onsag reciproc relationsedit
+fluid system describ term temperatur matter densiti pressur known temperatur differ lead heat flow warmer colder part system similar pressur differ lead matter flow highpressur lowpressur region reciproc relat remark observ pressur temperatur vari temperatur differ constant pressur caus matter flow convect pressur differ constant temperatur caus heat flow perhap surpris heat flow per unit pressur differ densiti matter flow per unit temperatur differ equal
+equal shown necessari lar onsag use statist mechan consequ time revers microscop dynam theori develop onsag much general exampl capabl treat two thermodynam forc
+momentum transferedit
+momentum transfer fluid treat continu distribut matter studi momentum transfer fluid mechan divid two branch fluid static fluid rest fluid dynam fluid motion fluid flow x direct parallel solid surfac fluid xdirect momentum concentr x random diffus molecul exchang molecul z direct henc xdirect momentum transfer zdirect faster slowermov layer equat momentum transport newton law viscos written follow
+zx flux xdirect momentum z direct momentum diffus z distanc transport diffus densiti viscos newton law simplest relationship flux momentum veloc gradient
+mass transferedit
+system contain two compon whose concentr vari point point natur tendenc mass transfer minim concentr differ within system mass transfer system govern fick first law diffus flux higher concentr lower concentr proport gradient concentr substanc diffus substanc medium mass transfer take place due differ drive forc
+mass transfer action pressur gradientpressur diffus
+forc diffus occur action extern forc
+diffus caus temperatur gradient thermal diffus
+diffus caus differ chemic potenti
+compar fourier law conduct heat
+d diffus constant
+energi transferedit
+process engin involv transfer energi exampl heat cool process stream phase chang distil etc basic principl first law thermodynam express follow static system
+net flux energi system equal conduct time rate chang temperatur respect posit
+system involv either turbul flow complex geometri difficult boundari condit anoth equat would easier use
+surfac area temperatur drive forc q heat flow per unit time h heat transfer coeffici
+within heat transfer two type convect occur
+forc convect occur laminar turbul flow situat laminar flow circular tube sever dimensionless number use nusselt number reynold number prandtl common use equat
+natur free convect function grashof prandtl number complex free convect heat transfer make necessari main use empir relat experiment data
+heat transfer analyz pack bed reactor heat exchang
+see alsoedit
+constitut equat
+continu equat
+wave propag
+puls
+action potenti
+bioheat transfer
+referencesedit
+extern linksedit
+transport phenomena archiv teach archiv materi digit librari pathway
+classic transport phenomena problem solut fluid mechan
+classic transport phenomena problem solut heat transfer
+classic transport phenomena problem solut mass transfer

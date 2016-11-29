@@ -1,0 +1,110 @@
+altern current ac electr current flow electr charg period revers direct wherea direct current dc also dc flow electr charg one direct abbrevi ac dc often use mean simpli altern direct modifi current voltag
+ac form electr power deliv busi resid usual waveform altern current electr power circuit sine wave certain applic differ waveform use triangular squar wave
+audio radio signal carri electr wire also exampl altern current type altern current carri inform encod modul onto ac signal sound audio imag video current typic altern higher frequenc use power transmiss
+transmiss distribut domest power supplyedit
+reason electr power distribut altern current ac voltag may increas decreas transform allow power transmit power line effici high voltag reduc power lost heat due resist wire voltag reduc safe level use custom use higher voltag lead signific effici transmiss power power loss conductor product squar current resist r conductor describ formula
+mean transmit fix power given wire current doubl power loss four time greater
+power transmit equal product current voltag assum phase differ
+thus amount power transmit lower current increas voltag therefor advantag transmit larg amount power distribut power high voltag often hundr kilovolt
+howev high voltag also disadvantag main one increas insul requir general increas difficulti safe handl power plant power generat conveni voltag design generat step high voltag transmiss near load transmiss voltag step voltag use equip consum voltag vari depend countri size load general motor light built use hundr volt phase
+util voltag deliv equip light motor load standard allow rang voltag equip expect oper standard power util voltag percentag toler vari differ main power system found world
+modern highvoltag directcurr hvdc electr power transmiss system contrast common alternatingcurr system mean effici bulk transmiss electr power long distanc hvdc system howev tend expens less effici shorter distanc transform transmiss high voltag direct current feasibl edison westinghous tesla design power system sinc way econom convert ac power dc back necessari voltag
+threephas electr generat common simplest case three separ coil generat stator physic offset angl three current waveform produc equal magnitud phase coil ad opposit space generat phase revers polar simpli wire togeth
+practic higher pole order common use exampl pole machin would coil space advantag lower speed use exampl pole machin run rpm pole machin run rpm produc frequenc much practic larger machin
+load threephas system balanc equal among phase current flow neutral point even worstcas unbalanc linear load neutral current exceed highest phase current nonlinear load eg comput may requir overs neutral bus neutral conductor upstream distribut panel handl harmon harmon caus neutral conductor current level exceed one phase conductor
+threephas util voltag fourwir system often use step threephas transform delta wire primari star wire centerearth secondari often use need neutral suppli side
+smaller custom small vari countri age instal singl phase neutral two phase neutral taken properti larger instal three phase neutral taken main distribut panel threephas main panel singl threephas circuit may lead
+threewir singlephas system singl centertap transform give two live conductor common distribut scheme residenti small commerci build north america arrang sometim incorrect refer two phase similar method use differ reason construct site uk small power tool light suppos suppli local centertap transform voltag v power conductor earth signific reduc risk electr shock event one live conductor becom expos equip fault whilst still allow reason voltag v two conductor run tool
+third wire call bond earth wire often connect noncurrentcarri metal enclosur earth ground conductor provid protect electr shock due accident contact circuit conductor metal chassi portabl applianc tool bond noncurrentcarri metal part one complet system ensur alway low electr imped path ground suffici carri fault current long take system clear fault low imped path allow maximum amount fault current caus overcurr protect devic breaker fuse trip burn quick possibl bring electr system safe state bond wire bond ground main servic panel neutralidentifi conductor present
+ac power suppli frequenciesedit
+frequenc electr system vari countri sometim within countri electr power generat either hertz countri mixtur hz hz suppli notabl electr power transmiss japan
+low frequenc eas design electr motor particular hoist crush roll applic commutatortyp traction motor applic railway howev low frequenc also caus notic flicker arc lamp incandesc light bulb use lower frequenc also provid advantag lower imped loss proport frequenc origin niagara fall generat built produc hz power compromis low frequenc traction heavi induct motor still allow incandesc light oper although notic flicker hz residenti commerci custom niagara fall power convert hz late although hz industri custom still exist start st centuri hz power former hz still use european rail system austria germani norway sweden switzerland
+offshor militari textil industri marin aircraft spacecraft applic sometim use hz benefit reduc weight apparatus higher motor speed
+comput mainfram system often power hz use customersuppli kva motorgener set smaller mainfram may intern hz mg set case input mg set local customari voltag frequenc various japan north america europ volt various hz
+effect high frequenciesedit
+direct current flow uniform throughout crosssect uniform wire altern current frequenc forc away wire center toward outer surfac acceler electr charg altern current produc wave electromagnet radiat cancel propag electr toward center materi high conduct phenomenon call skin effect
+high frequenc current longer flow wire effect flow surfac wire within thick skin depth skin depth thick current densiti reduc even relat low frequenc use power transmiss hz nonuniform distribut current still occur suffici thick conductor exampl skin depth copper conductor approxim mm hz high current conductor usual hollow reduc mass cost
+sinc current tend flow peripheri conductor effect crosssect conductor reduc increas effect ac resist conductor sinc resist invers proport crosssect area ac resist often mani time higher dc resist caus much higher energi loss due ohmic heat also call ir loss
+techniqu reduc ac resistanceedit
+low medium frequenc conductor divid strand wire insul one relat posit individu strand special arrang within conductor bundl wire construct use techniqu call litz wire measur help partial mitig skin effect forc equal current throughout total cross section strand conductor litz wire use make highq inductor reduc loss flexibl conductor carri high current lower frequenc wind devic carri higher radio frequenc current hundr kilohertz switchmod power suppli radio frequenc transform
+techniqu reduc radiat lossedit
+written altern current made electr charg period acceler caus radiat electromagnet wave energi radiat lost depend frequenc differ techniqu use minim loss due radiat
+twist pairsedit
+frequenc ghz pair wire twist togeth cabl form twist pair reduc loss electromagnet radiat induct coupl twist pair must use balanc signal system two wire carri equal opposit current wire twist pair radiat signal effect cancel radiat wire result almost radiat loss
+coaxial cablesedit
+coaxial cabl common use audio frequenc conveni coaxial cabl conduct wire insid conduct tube separ dielectr layer current flow inner conductor equal opposit current flow inner surfac tube electromagnet field thus complet contain within tube ideal energi lost radiat coupl outsid tube coaxial cabl accept small loss frequenc ghz microwav frequenc greater ghz loss due main electr resist central conductor becom larg make waveguid effici medium transmit energi coaxial cabl air rather solid dielectr prefer transmit power lower loss
+waveguidesedit
+waveguid similar coax cabl consist tube biggest differ waveguid inner conductor waveguid arbitrari cross section rectangular cross section common waveguid inner conductor carri return current waveguid cannot deliv energi mean electr current rather mean guid electromagnet field although surfac current flow inner wall waveguid surfac current carri power power carri guid electromagnet field surfac current set guid electromagnet field effect keep field insid waveguid prevent leakag field space outsid waveguid
+waveguid dimens compar wavelength altern current transmit feasibl microwav frequenc addit mechan feasibl electr resist nonid metal form wall waveguid caus dissip power surfac current flow lossi conductor dissip power higher frequenc power lost dissip becom unaccept larg
+fiber opticsedit
+frequenc greater ghz waveguid dimens becom impract small ohmic loss waveguid wall becom larg instead fiber optic form dielectr waveguid use frequenc concept voltag current longer use
+mathemat ac voltagesedit
+altern current accompani caus altern voltag ac voltag v describ mathemat function time follow equat
+peak voltag unit volt
+angular frequenc unit radian per second
+angular frequenc relat physic frequenc unit hertz repres number cycl per second equat
+time unit second
+peaktopeak valu ac voltag defin differ posit peak negat peak sinc maximum valu minimum valu ac voltag swing peaktopeak voltag usual written therefor
+poweredit
+relationship voltag power deliv
+repres load resist
+rather use instantan power practic use time averag power averag perform integ number cycl therefor ac voltag often express root mean squar rms valu written
+power oscil
+follow trigonometr ident power oscil doubl frequenc voltag
+root mean squareedit
+sinusoid voltag
+factor call crest factor vari differ waveform
+triangl waveform center zero
+squar waveform center zero
+arbitrari period waveform period
+exampleedit
+illustr concept consid v ac main suppli use mani countri around world call root mean squar valu v mean timeaverag power deliv equival power deliv dc voltag v determin peak voltag amplitud rearrang equat
+v ac peak voltag therefor v
+inform transmissionedit
+altern current use transmit inform case telephon cabl televis inform signal carri wide rang ac frequenc pot telephon signal frequenc kilohertz close baseband audio frequenc cabl televis cabletransmit inform current may altern frequenc ten thousand megahertz frequenc similar electromagnet wave frequenc often use transmit type inform air
+historyedit
+first altern produc altern current dynamo electr generat base michael faraday principl construct french instrument maker hippolyt pixii pixii later ad commut devic produc common use direct current earliest record practic applic altern current guillaum duchenn inventor develop electrotherapi announc ac superior direct current electrotherapeut trigger muscl contract
+altern current technolog first develop europ due work guillaum duchenn hungarian ganz work sebastian ziani de ferranti lucien gaulard galileo ferrari
+russian engin pavel yablochkov invent light system base set induct coil primari wind connect sourc ac secondari wind could connect sever electr candl arc lamp design coil yablochkov employ function essenti transform
+ganz factori budapest hungari began manufactur equip electr light instal fifti system austriahungari ac system use arc incandesc lamp generat equip
+power transform develop lucien gaulard john dixon gibb demonstr london attract interest westinghous also exhibit invent turin
+dc distribut systemsedit
+initi year electr distribut edison direct current standard unit state edison want lose patent royalti direct current work well incandesc lamp princip load day motor directcurr system could direct use storag batteri provid valuabl loadlevel backup power interrupt generat oper directcurr generat could easili parallel allow econom oper use smaller machin period light load improv reliabl introduct edison system practic ac motor avail edison invent meter allow custom bill energi proport consumpt meter work direct current
+princip drawback directcurr distribut custom load distribut generat voltag general uneconom use high voltag transmiss reduc custom use even edison wire system place two volt custom load seri volt suppli high cost conductor requir generat close custom load otherwis loss made system uneconom oper
+transformersedit
+altern current system use transform chang voltag low high level back allow generat consumpt low voltag transmiss possibl great distanc high voltag save cost conductor energi loss
+bipolar opencor power transform develop lucien gaulard john dixon gibb demonstr london attract interest westinghous also exhibit invent turin howev earli induct coil open magnet circuit ineffici transfer power load paradigm ac power transmiss high voltag suppli low voltag load seri circuit opencor transform ratio near connect primari seri allow use high voltag transmiss present low voltag lamp inher flaw method turn singl lamp electr devic affect voltag suppli other circuit mani adjust transform design introduc compens problemat characterist seri circuit includ employ method adjust core bypass magnet flux around part coil
+direct current system drawback give signific advantag earli ac system
+pioneersedit
+autumn kroli zipernowski ott blthi miksa dri zbd three engin associ ganz factori determin opencor devic impract incap reliabl regul voltag joint patent applic novel transform later call zbd transform describ two design close magnet circuit copper wind either wound around iron wire ring core b surround iron wire core design magnet flux link primari secondari wind travel almost entir within confin iron core intent path air see toroid core new transform time effici opencor bipolar devic gaulard gibb
+ganz factori ship world first five higheffici ac transform first unit manufactur follow specif w hz v ratio onephas shell form
+zbd patent includ two major interrel innov one concern use parallel connect instead seri connect util load concern abil high turn ratio transform suppli network voltag could much higher initi v voltag util load v initi prefer employ parallel connect electr distribut system closedcor transform final made technic econom feasibl provid electr power light home busi public space
+essenti mileston introduct voltag sourc voltag intens vsvi system invent constant voltag generat ott blthi also invent first ac electr meter
+ac power system develop adopt rapid due abil distribut electr effici long distanc overcom limit direct current system zbd engin design ganz factori suppli electr equip world first power station use ac generat power parallel connect common electr network steampow romecerchi power plant reliabl ac technolog receiv impetus ganz work electrifi larg european metropoli rome
+uk sebastian de ferranti develop ac generat transform london sinc redesign ac system grosvenor galleri power station london electr suppli corpor lesco includ altern design transform design similar gaulard gibb design power station deptford convert grosvenor galleri station across thame electr substat show way integr older plant univers ac suppli system
+us william stanley jr design one first practic devic transfer ac power effici isol circuit use pair coil wound common iron core design call induct coil earli transform stanley also work engin adapt european design gaulard gibb transform us entrepreneur georg westinghous start build ac system spread westinghous ac system trigger push back late thoma edison propon direct current attempt discredit altern current danger public campaign call war current
+altern current system gain viabil introduct function ac motor someth system lack till design induct motor independ invent galileo ferrari nikola tesla tesla design licens westinghous us design develop modern practic threephas form mikhail dolivodobrovolski charl eugen lancelot brown
+ame hydroelectr generat plant spring origin niagara fall adam power plant august among first hydroelectr acpow plant first commerci power plant unit state use threephas altern current hydroelectr mill creek hydroelectr plant near redland california design almirian decker decker design incorpor volt threephas transmiss establish standard complet system generat transmiss motor use today
+jaruga hydroelectr power plant croatia set oper august two generat hz kw transform produc instal hungarian compani ganz transmiss line power plant citi ibenik kilomet mi long wooden tower municip distribut grid v v includ six transform station
+altern current circuit theori develop rapid latter part th earli th centuri notabl contributor theoret basi altern current calcul includ charl steinmetz oliv heavisid mani other calcul unbalanc threephas system simplifi symmetr compon method discuss charl legeyt fortescu
+see alsoedit
+referencesedit
+readingedit
+extern linksedit
+altern current interact java tutori explain altern current nation high magnet field laboratori
+acdc what differ edison miracl light american experi pbs
+acdc insid ac generat edison miracl light american experi pbs
+kuphaldt toni r lesson electr circuit volum ii ac march design scienc licens
+nave c r altern current circuit concept hyperphys
+altern current ac magnet particl inspect nondestruct test encyclopedia
+altern current analog process control servic
+hiob eric applic trigonometri vector altern current british columbia institut technolog
+introduct altern current transform integr publish
+chan keelin altern current tool jc physic
+william trip kingpin understand altern current power concept
+tabl voltag frequenc tv broadcast system radio broadcast countri
+professor mark csele tour hz rankin generat station
+hertz inform
+ac circuit anim explan vector phasor represent rlc circuit
+blalock thoma j frequenc changer era interconnect system vari cycl histori various frequenc interconvers scheme us begin th centuri
+italian generat ac voltag interact

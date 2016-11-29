@@ -1,0 +1,35 @@
+electr network interconnect electr compon eg batteri resistor inductor capacitor switch model interconnect consist electr element eg voltag sourc current sourc resist induct capacit electr circuit network consist close loop give return path current linear electr network special type consist sourc voltag current linear lump element resistor capacitor inductor linear distribut element transmiss line properti signal linear superimpos thus easili analyz use power frequenc domain method laplac transform determin dc respons ac respons transient respons
+resist circuit circuit contain resistor ideal current voltag sourc analysi resist circuit less complic analysi circuit contain capacitor inductor sourc constant dc sourc result dc circuit
+network contain activ electron compon known electron circuit network general nonlinear requir complex design analysi tool
+classificationedit
+passivityedit
+activ network network contain activ sourc either voltag sourc current sourc
+passiv network network contain activ sourc
+linearityedit
+network linear signal obey principl superposit otherwis nonlinear linear network compos entir independ sourc linear depend sourc linear passiv element
+classif sourcesedit
+sourc classifi independ sourc depend sourc
+independ sourcesedit
+ideal independ sourc maintain voltag current regardless element present circuit valu either constant dc sinusoid ac strength voltag current chang variat connect network
+depend sourcesedit
+depend sourc depend upon particular element circuit deliv power voltag current depend upon type sourc
+electr lawsedit
+number electr law appli electr network includ
+kirchhoff current law sum current enter node equal sum current leav node
+kirchhoff voltag law direct sum electr potenti differ around loop must zero
+ohm law voltag across resistor equal product resist current flow
+norton theorem network voltag current sourc resistor electr equival ideal current sourc parallel singl resistor
+thvenin theorem network voltag current sourc resistor electr equival singl voltag sourc seri singl resistor
+superposit theorem linear network sever independ sourc respons particular branch sourc act simultan equal linear sum individu respons calcul take one independ sourc time
+complex law may need network contain nonlinear reactiv compon nonlinear selfregen heterodyn system approxim appli law result set simultan equat solv either algebra numer
+design methodsedit
+design electr circuit either analog digit electr engin need abl predict voltag current place within circuit simpl linear circuit analyz hand use complex number theori complex case circuit may analyz special softwar program estim techniqu piecewiselinear model
+circuit simul softwar hspice languag vhdlam verilogam allow engin design circuit without time cost risk error involv build circuit prototyp
+network simul softwareedit
+complex circuit analyz numer softwar spice gnucap symbol use softwar sapwin
+linear around oper pointedit
+face new circuit softwar first tri find steadi state solut one node conform kirchhoff current law voltag across element circuit conform voltagecurr equat govern element
+steadi state solut found oper point element circuit known small signal analysi everi nonlinear element linear around oper point obtain smallsign estim voltag current applic ohm law result linear circuit matrix solv gaussian elimin
+piecewiselinear approximationedit
+softwar plec interfac simulink use piecewiselinear approxim equat govern element circuit circuit treat complet linear network ideal diod everi time diod switch vice versa configur linear network chang ad detail approxim equat increas accuraci simul also increas run time
+see alsoedit

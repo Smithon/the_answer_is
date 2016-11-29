@@ -1,0 +1,105 @@
+statist likelihood function often simpli likelihood function paramet statist model likelihood function play key role statist infer especi method estim paramet set statist inform context likelihood often use synonym probabl statist usag distinct made depend role outcom paramet probabl use describ function outcom given fix paramet valu exampl coin flip time fair coin probabl land headsup everi time likelihood use describ function paramet given outcom exampl coin flip time land headsup time likelihood coin fair
+definit
+likelihood set paramet valu given outcom x equal probabl observ outcom given paramet valu
+likelihood function defin differ discret continu probabl distribut
+discret probabl distribut
+let x random variabl discret probabl distribut p depend paramet function
+consid function call likelihood function given outcom x x sometim probabl valu x x paramet valu written often written emphas differ condit probabl paramet random variabl
+continu probabl distribut
+let x random variabl continu probabl distribut densiti function f depend paramet function
+consid function call likelihood function given outcom x x sometim densiti function valu x x paramet valu written confus consid condit probabl densiti
+discuss make infer via likelihood function see method maximum likelihood likelihoodratio test
+loglikelihood
+mani applic natur logarithm likelihood function call loglikelihood conveni work logarithm monoton increas function logarithm function achiev maximum valu point function henc loglikelihood use place likelihood maximum likelihood estim relat techniqu find maximum function often involv take deriv function solv paramet maxim often easier function maxim loglikelihood rather origin likelihood function
+exampl likelihood function paramet explain collect statist independ observ situat likelihood function factor product individu likelihood function logarithm product sum individu logarithm deriv sum term often easier comput deriv product addit sever common distribut likelihood function contain product factor involv exponenti logarithm function sum product easier differenti origin function
+edward establish axiomat basi use loglikelihood ratio measur relat support one hypothesi anoth support function natur logarithm likelihood function term use phylogenet adopt general treatment topic statist evid
+exampl gamma distribut
+gamma distribut two paramet likelihood function
+find maximum likelihood estim singl observ valu x look rather daunt logarithm much simpler work
+maxim loglikelihood first requir take partial deriv respect
+number independ observ x xn joint loglikelihood sum individu loglikelihood deriv sum sum deriv individu loglikelihood
+complet maxim procedur joint loglikelihood equat set zero solv
+denot maximumlikelihood estim sampl mean observ
+likelihood function parameter model
+among mani applic consid one broad theoret practic import given parameter famili probabl densiti function probabl mass function case discret distribut
+paramet likelihood function
+written
+x observ outcom experi word fx view function x fix probabl densiti function view function x fix likelihood function
+probabl paramet right one given observ sampl attempt interpret likelihood hypothesi given observ evid probabl hypothesi common error potenti disastr consequ medicin engin jurisprud see prosecutor fallaci exampl
+geometr standpoint consid f x function two variabl famili probabl distribut view famili curv parallel xaxi famili likelihood function orthogon curv parallel axi
+likelihood continu distribut
+use probabl densiti instead probabl specifi likelihood function may justifi simpl way suppos instead exact observ x observ valu short interv xj xj length j subscript refer predefin set interv probabl get observ interv j approxim
+x point interv j recal likelihood function defin multipl constant valid say likelihood function approxim
+consid length interv decreas zero
+likelihood mix continuousdiscret distribut
+extend simpl way allow consider distribut contain discret continu compon suppos distribut consist number discret probabl mass pk densiti fx sum ps ad integr f alway one assum possibl distinguish observ correspond one discret probabl mass one correspond densiti compon likelihood function observ continu compon dealt set interv length short enough exclud discret mass observ discret compon probabl either written direct treat within context say probabl get observ interv contain discret compon interv j contain discret compon k approxim
+point interv j consid length interv decreas zero likelihood function observ discret compon
+k index discret probabl mass correspond observ x
+fact likelihood function defin way includ contribut commensur densiti probabl mass aris way likelihood function defin constant proport constant chang observ x paramet
+exampl
+let probabl certain coin land head h toss probabl get two head two toss hh probabl see two head
+anoth way say likelihood given observ hh
+say probabl given observ hh probabl observ hh given true probabl given observ hh two head row prove coin alway come head two head row possibl
+likelihood function probabl densiti function integr likelihood function general exampl integr likelihood interv demonstr likelihood function cannot interpret probabl densiti function
+exampl
+consid jar contain n lotteri ticket number n pick ticket random get posit integ n probabl n n n probabl zero n n written
+iverson bracket n n n n otherwis consid function n fix n probabl distribut consid function n fix n likelihood function maximum likelihood estim n n n contrast unbias estim n
+likelihood function probabl distribut total
+diverg seri
+suppos howev pick two ticket rather one
+probabl outcom n n n n
+consid function n fix n likelihood function maximum likelihood estim n n n
+time total
+converg seri likelihood function normal probabl distribut
+pick ticket likelihood function well defin mean valu larger maximum likelihood estim pick ticket likelihood function well defin standard deviat
+relat likelihood
+relat likelihood function
+suppos maximum likelihood estim relat plausibl valu may found compar likelihood valu likelihood relat likelihood defin
+likelihood region
+general p likelihood region defin
+singl real paramet p likelihood region typic compris interv real valu case region call likelihood interv
+likelihood interv compar confid interv singl real paramet certain condit likelihood interv confid interv slight differ formul suit use loglikelihood see wilk theorem teststatist twice differ loglikelihood probabl distribut test statist approxim chisquar distribut degreesoffreedom df equal differ dfs two model therefor e likelihood interv confid interv assum differ dfs
+idea base interv estim relat likelihood goe back fisher use mani author sinc likelihood interv use without claim particular coverag probabl differ confid interv
+relat likelihood model
+definit relat likelihood general compar differ statist model general base aic akaik inform criterion sometim aicc akaik inform criterion correct
+suppos dataset two statist model m m also suppos aicm aicm relat likelihood m respect m defin
+expaicmaicm
+see general earlier definit suppos model m possibl multivari paramet set m m also set m m general definit give result earlier definit
+likelihood elimin nuisanc paramet
+mani case likelihood function one paramet interest focus estim one other consid nuisanc paramet sever altern approach develop elimin nuisanc paramet likelihood written function paramet paramet interest main approach margin condit profil likelihood
+approach use standard likelihood method becom unreli fail entir mani nuisanc paramet nuisanc paramet highdimension particular true nuisanc paramet consid miss data repres nonneglig fraction number observ fraction decreas sampl size increas often approach use deriv closedform formula statist test direct use maximum likelihood requir iter numer method approach find applic special topic sequenti analysi
+condit likelihood
+sometim possibl find suffici statist nuisanc paramet condit statist result likelihood depend nuisanc paramet
+one exampl occur tabl condit four margin total lead condit likelihood base noncentr hypergeometr distribut form condit also basi fisher exact test
+margin likelihood
+sometim remov nuisanc paramet consid likelihood base part inform data exampl use set rank rather numer valu anoth exampl occur linear mix model consid likelihood residu fit fix effect lead residu maximum likelihood estim varianc compon
+profil likelihood
+likelihood function depend mani paramet depend applic might interest subset paramet often possibl reduc number uninterest nuisanc paramet write function paramet interest exampl function might valu nuisanc paramet maxim likelihood given valu interest paramet
+procedur call concentr paramet result concentr likelihood function also occasion known maxim likelihood function often call profil likelihood function possibl simpler find valu paramet maxim profil likelihood function similar maximum likelihood
+exampl consid regress analysi model normal distribut error like valu error varianc varianc residu residu depend paramet henc varianc paramet written function paramet
+unlik condit margin likelihood profil likelihood method alway use even profil likelihood cannot written explicit howev profil likelihood true likelihood base direct probabl distribut lead less satisfactori properti attempt made improv result modifi profil likelihood
+idea profil likelihood also use comput confid interv often better smallsampl properti base asymptot standard error calcul full likelihood case paramet estim partial observ system profil likelihood also use identifi analysi result profil likelihood analysi incorpor uncertainti analysi model predict
+partial likelihood
+partial likelihood factor compon likelihood function isol paramet interest key compon proport hazard model
+histor remark
+likelihood eiko versimili captur idea someth like happen happen formal concept appear jurisprud commerc scholastic long given rigor mathemat foundat english likelihood distinguish relat weaker probabl sinc earliest use comparison hypothes evalu likelihood use centuri exampl john milton areopagitica greatest likelihood brought thing truli realli person ascrib
+netherland christiaan huygen use concept likelihood book van rekeningh spelen van geluck reason game chanc
+danish likelihood use thorvald n thiel
+english likelihood appear mani write charl sander peirc modelbas infer usual abduct sometim includ induct distinguish statist procedur base object random peirc prefer randomizationbas infer discuss illustr logic scienc theori probabl infer
+probabl strict object time great although never absolut conclus ought nevertheless influenc prefer one hypothesi anoth slight probabl even object worth consider mere subject likelihood disregard altogeth mere express preconceiv notion collect paper
+experi must chart econom navig experi show likelihood treacher guid noth caus much wast time mean sort research inquir becom wed certain likelihood forget factor economi research unless solid ground likelihood far better disregard near even seem solid ground proceed upon cautious tread eye consider recollect disast caus essenti peirc volum page
+like thiel peirc consid likelihood binomi distribut peirc use logarithm oddsratio throughout career peirc propens use log odd discuss stephen stigler
+great britain likelihood popular mathemat statist ronald fisher mathemat foundat theoret statist paper fisher also use term method maximum likelihood fisher argu invers probabl basi statist infer instead propos infer base likelihood function fisher use likelihood fix terminolog use statistician throughout world
+intergovernment panel climat chang publish follow likelihood scale use fifth assess report
+see also
+note
+refer
+hald histori mathemat statist john wiley son isbn
+hald histori maximum likelihood relat invers probabl least squar statist scienc doiss jstor
+pratt j w may f y edgeworth r fisher effici maximum likelihood estim annal statist doiao jstor
+stigler m franci ysidro edgeworth statistician journal royal statist societi seri doi jstor
+stigler m histori statist measur uncertainti harvard univers press isbn
+stigler m statist tabl histori statist concept method harvard univers press isbn
+extern link
+likelihood function planetmath
+likelihood function wolfram mathworld

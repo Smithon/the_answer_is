@@ -1,0 +1,90 @@
+compon electr circuit electron circuit connect mani differ way two simplest call seri parallel occur frequent compon connect seri connect along singl path current flow compon compon connect parallel connect voltag appli compon
+circuit compos sole compon connect seri known seri circuit likewis one connect complet parallel known parallel circuit
+seri circuit current compon voltag across circuit sum voltag across compon parallel circuit voltag across compon total current sum current compon
+consid simpl circuit consist four light bulb one v batteri wire join batteri one bulb next bulb next bulb next bulb back batteri one continu loop bulb said seri bulb wire batteri separ loop bulb said parallel four light bulb connect seri current voltag drop v across bulb may suffici make glow light bulb connect parallel current light bulb combin form current batteri voltag drop v across bulb glow
+seri circuit everi devic must function circuit complet one bulb burn seri circuit break circuit parallel circuit light circuit one light could burn last one still function
+seri circuit
+seri circuit sometim call currentcoupl daisi chaincoupl current seri circuit goe everi compon circuit therefor compon seri connect carri current one path seri circuit current flow formula search resist seri rs r r r rn
+seri circuit main disadvantag advantag depend intend role product overal design one path current flow open break seri circuit point caus entir circuit open stop oper exampl even one light bulb olderstyl string christma tree light burn remov entir string becom inoper bulb replac
+current
+seri circuit current element
+resistor
+total resist resistor seri equal sum individu resist
+electr conduct present reciproc quantiti resist total conduct seri circuit pure resistor therefor calcul follow express
+special case two resistor seri total conduct equal
+inductor
+inductor follow law total induct noncoupl inductor seri equal sum individu induct
+howev situat difficult prevent adjac inductor influenc magnet field one devic coupl wind neighbour influenc defin mutual induct m exampl two inductor seri two possibl equival induct depend magnet field inductor influenc
+two inductor mutual induct way coil influenc complic calcul larger number coil total combin induct given sum mutual induct various coil includ mutual induct given coil term selfinduct simpli induct three coil six mutual induct also three selfinduct three coil
+therefor
+reciproc last two group combin first three term repres sum selfinduct various coil formula easili extend number seri coil mutual coupl method use find selfinduct larg coil wire crosssect shape comput sum mutual induct turn wire coil everi turn sinc coil turn seri
+capacitor
+see also capacitor networkscapacitor follow law use reciproc total capacit capacitor seri equal reciproc sum reciproc individu capacit
+switch
+two switch seri form logic circuit carri current switch close see gate two switch parallel circuit form logic circuit carri current least one switch close see gate
+cell batteri
+batteri collect electrochem cell cell connect seri voltag batteri sum cell voltag exampl volt car batteri contain six volt cell connect seri vehicl truck two volt batteri seri feed volt system
+parallel circuit
+two compon connect parallel potenti differ voltag across end potenti differ across compon magnitud also ident polar voltag applic circuit compon connect parallel total current sum current individu compon accord kirchhoff current law
+voltag
+parallel circuit voltag element
+resistor
+current individu resistor found ohm law factor voltag give
+find total resist compon add reciproc resist compon take reciproc sum total resist alway less valu smallest resist
+two resistor unreciproc express reason simpl
+sometim goe mnemon product sum
+n equal resistor parallel reciproc sum express simplifi
+therefor
+find current compon resist use ohm law
+compon divid current accord reciproc resist case two resistor
+old term devic connect parallel multipl multipl connect arc lamp
+sinc electr conduct reciproc resist express total conduct parallel circuit resistor read
+relat total conduct resist stand complementari relationship express seri connect resist parallel connect conduct vice versa
+inductor
+inductor follow law total induct noncoupl inductor parallel equal reciproc sum reciproc individu induct
+inductor situat other magnet field approach invalid due mutual induct mutual induct two coil parallel m equival inductor
+sign depend magnet field influenc two equal tight coupl coil total induct close singl coil polar one coil revers m negat parallel induct near zero combin almost noninduct assum tight coupl case m near equal l howev induct equal coil tight coupl near short circuit condit high circul current posit negat valu m caus problem
+three inductor becom complex mutual induct inductor inductor influenc must consid three coil three mutual induct best handl matrix method sum term invers matrix case
+pertin equat form
+capacitor
+total capacit capacitor parallel equal sum individu capacit
+work voltag parallel combin capacitor alway limit smallest work voltag individu capacitor
+switch
+two switch parallel form logic circuit carri current least one switch see gate
+cell batteri
+cell batteri connect parallel batteri voltag cell voltag current suppli cell fraction total current exampl batteri contain four cell connect parallel deliv current amper current suppli cell amper parallelconnect batteri wide use power valv filament portabl radio rare solar electr system batteri parallel increas storag capac close approxim total amphour sum batteri parallel
+combin conduct
+kirchhoff circuit law deduc rule combin conduct two conduct parallel voltag across kirchhoff current law total current
+substitut ohm law conduct give
+equival conduct
+two conduct seri current kirchhoff voltag law tell us voltag across sum voltag across conduct
+substitut ohm law conduct give
+turn give formula equival conduct
+equat rearrang slight though special case rearrang like two compon
+notat
+valu two compon parallel often repres equat two vertic line borrow parallel line notat geometri
+simplifi express would otherwis becom complic expans term instanc express refer resistor parallel expand express
+applic
+common applic seri circuit consum electron volt block batteri fire alarm batteri intern built six cell volt
+seri circuit former use light electr multipl unit train exampl suppli voltag volt might eight volt bulb seri total volt plus resistor drop remain volt seri circuit train light supersed first motorgener solid state devic
+seri resist also appli arrang blood vessel within given organ organ suppli larg arteri smaller arteri arteriol capillari vein arrang seri total resist sum individu resist express follow equat rtotal rarteri rarteriol rcapillari largest proport resist seri contribut arteriol
+parallel resist illustr circulatori system organ suppli arteri branch aorta total resist parallel arrang express follow equat rtotal ra rb rn ra rb rn resist renal hepat arteri respect total resist less resist individu arteri
+see also
+network analysi electr circuit
+wheatston bridg
+y transform
+voltag divid
+current divid
+combin imped
+equival imped transform
+resist distanc
+seriesparallel partial order
+note
+refer
+resnick robert halliday david physic vol ii combin edit wiley intern edit librari congress catalog card
+smith rj circuit devic system wiley intern edit new york librari congress catalog card
+william tim circuit design companion butterworthheinemann isbn
+extern link
+seri circuit see page onward
+parallel circuit see page onward
+sameen ahm khan mani equival resist reson journal scienc educ vol may

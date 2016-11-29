@@ -1,0 +1,127 @@
+physic particular electromagnet lorentz forc combin electr magnet forc point charg due electromagnet field particl charg q move veloc v presenc electr field e magnet field b experi forc
+si unit variat basic formula describ magnet forc currentcarri wire sometim call laplac forc electromot forc wire loop move magnet field aspect faraday law induct forc charg particl might travel near speed light relativist form lorentz forc
+first deriv lorentz forc common attribut oliv heavisid although historian suggest earlier origin paper jame clerk maxwel hendrik lorentz deriv year heavisid
+equat si unitsedit
+charg particleedit
+forc f act particl electr charg q instantan veloc v due extern electr field e magnet field b given
+vector cross product boldfac quantiti vector explicit state
+r posit vector charg particl time overdot time deriv
+posit charg particl acceler linear orient e field curv perpendicular instantan veloc vector v b field accord righthand rule detail thumb right hand point along v index finger along b middl finger point along f
+term qe call electr forc term qv b call magnet forc accord definit term lorentz forc refer specif formula magnet forc total electromagnet forc includ electr forc given nonstandard name articl follow nomenclatur follow term lorentz forc refer express total forc
+magnet forc compon lorentz forc manifest forc act currentcarri wire magnet field context also call laplac forc
+continu charg distributionedit
+continu charg distribut motion lorentz forc equat becom
+df forc small piec charg distribut charg dq side equat divid volum small piec charg distribut dv result
+f forc densiti forc per unit volum charg densiti charg per unit volum next current densiti correspond motion charg continuum
+continu analogu equat
+total forc volum integr charg distribut
+elimin j use maxwel equat manipul use theorem vector calculus form equat use deriv maxwel stress tensor turn combin poynt vector obtain electromagnet stressenergi tensor use general relat
+term anoth way write lorentz forc per unit d volum
+c speed light denot diverg tensor field rather amount charg veloc electr magnet field equat relat energi flux flow energi per unit time per unit distanc field forc exert charg distribut see covari formul classic electromagnet detail
+historyedit
+earli attempt quantit describ electromagnet forc made midth centuri propos forc magnet pole johann tobia mayer other electr charg object henri cavendish obey inversesquar law howev case experiment proof neither complet conclus charlesaugustin de coulomb use torsion balanc abl definit show experi true soon discoveri h c rsted magnet needl act voltaic current andrmari ampr year abl devis experiment formula angular depend forc two current element descript forc alway given term properti object involv distanc rather term electr magnet field
+modern concept electr magnet field first aros theori michael faraday particular idea line forc later given full mathemat descript lord kelvin jame clerk maxwel modern perspect possibl identifi maxwel formul field equat form lorentz forc equat relat electr current howev time maxwel evid equat relat forc move charg object j j thomson first attempt deriv maxwel field equat electromagnet forc move charg object term object properti extern field interest determin electromagnet behavior charg particl cathod ray thomson publish paper wherein gave forc particl due extern magnet field
+thomson deriv correct basic form formula miscalcul incomplet descript displac current includ incorrect scalefactor half front formula oliv heavisid invent modern vector notat appli maxwel field equat fix mistak thomson deriv arriv correct form magnet forc move charg object final hendrik lorentz deriv modern form formula electromagnet forc includ contribut total forc electr magnet field lorentz began abandon maxwellian descript ether conduct instead lorentz made distinct matter luminifer aether sought appli maxwel equat microscop scale use heavisid version maxwel equat stationari ether appli lagrangian mechan see lorentz arriv correct complet form forc law bear name
+trajectori particl due lorentz forceedit
+mani case practic interest motion magnet field electr charg particl electron ion plasma treat superposit relat fast circular motion around point call guid center relat slow drift point drift speed may differ various speci depend charg state mass temperatur possibl result electr current chemic separ
+signific lorentz forceedit
+modern maxwel equat describ electr charg particl current move charg particl give rise electr magnet field lorentz forc law complet pictur describ forc act move point charg q presenc electromagnet field lorentz forc law describ effect e b upon point charg electromagnet forc entir pictur charg particl possibl coupl forc notabl graviti nuclear forc thus maxwel equat stand separ physic law coupl via charg current densiti respons point charg lorentz law one aspect generat e b current charg anoth
+real materi lorentz forc inadequ describ behavior charg particl principl matter comput charg particl materi medium respond e b field generat field complex transport equat must solv determin time spatial respons charg exampl boltzmann equat fokkerplanck equat navierstok equat exampl see magnetohydrodynam fluid dynam electrohydrodynam superconduct stellar evolut entir physic apparatus deal matter develop see exampl greenkubo relat green function manybodi theori
+lorentz forc law definit e bedit
+mani textbook treatment classic electromagnet lorentz forc law use definit electr magnet field e b specif lorentz forc understood follow empir statement
+electromagnet forc f test charg given point time certain function charg q veloc v parameter exact two vector e b function form
+valid countless experi shown even particl approach speed light magnitud v v c two vector field e b therebi defin throughout space time call electr field magnet field note field defin everywher space time respect forc test charg would receiv regardless whether charg present experi forc
+note also definit e b lorentz forc definit principl real particl oppos hypothet test charg infinitesimallysmal mass charg would generat finit e b field would alter electromagnet forc experi addit charg experi acceler forc curv trajectori extern agenc emit radiat caus brake motion see exampl bremsstrahlung synchrotron light effect occur direct effect call radiat reaction forc indirect affect motion nearbi charg current moreov net forc must includ graviti electroweak forc asid electromagnet forc
+forc currentcarri wireedit
+wire carri electr current place magnet field move charg compris current experi lorentz forc togeth creat macroscop forc wire sometim call laplac forc combin lorentz forc law definit electr current follow equat result case straight stationari wire
+vector whose magnitud length wire whose direct along wire align direct convent current flow
+wire straight curv forc comput appli formula infinitesim segment wire d ad forc integr formal net forc stationari rigid wire carri steadi current
+net forc addit usual torqu plus effect wire perfect rigid
+one applic ampr forc law describ two currentcarri wire attract repel sinc experi lorentz forc other magnet field inform see articl ampr forc law
+emfedit
+magnet forc q v b compon lorentz forc respons motion electromot forc motion emf phenomenon under mani electr generat conductor move magnet field magnet forc tri push electron wire creat emf term motion emf appli phenomenon sinc emf due motion wire
+electr generat magnet move conductor case emf due electr forc qe term lorentz forc equat electr field question creat chang magnet field result induc emf describ maxwellfaraday equat one four modern maxwel equat
+emf despit differ origin describ equat name emf rate chang magnet flux wire faraday law induct see einstein special theori relat partial motiv desir better understand link two effect fact electr magnet field differ face electromagnet field move one inerti frame anoth solenoid vector field portion efield chang whole part bfield vice versa
+lorentz forc faraday law inductionedit
+given loop wire magnet field faraday law induct state induc electromot forc emf wire
+magnet flux loop b magnet field surfac bound close contour time da infinitesim vector area element magnitud area infinitesim patch surfac direct orthogon surfac patch
+sign emf determin lenz law note valid stationari wire also move wire
+faraday law induct valid move wire instanc motor maxwel equat lorentz forc deduc revers also true lorentz forc maxwel equat use deriv faraday law
+let move wire move togeth without rotat constant veloc v intern surfac wire emf around close path given
+electr field d infinitesim vector element contour
+nb d da sign ambigu get correct sign righthand rule use explain articl kelvinstok theorem
+result compar version faraday law induct appear modern maxwel equat call maxwellfaraday equat
+maxwellfaraday equat also written integr form use kelvinstok theorem
+maxwel faraday equat
+faraday law
+two equival wire move use leibniz integr rule div b result
+use maxwel faraday equat
+sinc valid wire posit impli
+faraday law induct hold whether loop wire rigid stationari motion process deform hold whether magnet field constant time chang howev case faraday law either inadequ difficult use applic under lorentz forc law necessari see inapplic faraday law
+magnet field fix time conduct loop move field magnet flux b link loop chang sever way exampl bfield vari posit loop move locat differ bfield b chang altern loop chang orient respect bfield b da differenti element chang differ angl b da also chang b third exampl portion circuit swept uniform timeindepend bfield anoth portion circuit held stationari flux link entir close circuit chang due shift relat posit circuit compon part time surfac timedepend three case faraday law induct predict emf generat chang b
+note maxwel faraday equat impli electr field e non conserv magnet field b vari time express gradient scalar field subject gradient theorem sinc rotat zero
+lorentz forc term potentialsedit
+e b field replac magnet vector potenti scalar electrostat potenti
+gradient diverg curl
+forc becom
+use ident tripl product simplifi
+use chain rule total deriv
+express rewritten
+take conveni eulerlagrang form
+lorentz forc analyt mechanicsedit
+lagrangian charg particl mass m charg q electromagnet field equival describ dynam particl term energi rather forc exert classic express given
+potenti field use lagrang equat equat lorentz forc obtain
+potenti energi depend veloc particl forc veloc depend conserv
+relativist lagrangian
+action relativist arclength path particl space time minus potenti energi contribut plus extra contribut quantum mechan extra phase charg particl get move along vector potenti
+equat cgs unitsedit
+abovement formula use si unit common among experimentalist technician engin cgsgaussian unit somewhat common among theoret physicist one instead
+c speed light although equat look slight differ complet equival sinc one follow relat
+vacuum permitt vacuum permeabl practic subscript cgs si alway omit unit system assess context
+relativist form lorentz forceedit
+covari form lorentz forceedit
+field tensoredit
+use metric signatur lorentz forc charg q written covari form
+p fourmomentum defin
+proper time particl f contravari electromagnet tensor
+u covari veloc particl defin
+lorentz factor
+field transform frame move constant relat veloc
+lorentz transform tensor
+translat vector notationedit
+compon xcompon forc
+substitut compon covari electromagnet tensor f yield
+use compon covari fourveloc yield
+calcul forc compon y z direct yield similar result collect equat one
+sinc differenti coordin time dt proper time d relat lorentz factor
+arriv
+precis lorentz forc law howev import note p relativist express
+sta form lorentz forceedit
+electr magnet field depend veloc observ relativist form lorentz forc law best exhibit start coordinateindepend express electromagnet magnet field arbitrari timedirect
+spacetim bivector orient plane segment like vector orient line segment six degre freedom correspond boost rotat spacetim plane rotat rotat spacespac plane dot product vector pull vector space algebra translat part wedgeproduct creat trivector space algebra dual vector usual magnet field vector relativist veloc given timelik chang timeposit vector
+show choic metric veloc
+proper invari inadequ term transform defin form lorentz forc law simpli
+note order import bivector vector dot product antisymmetr upon space time split like one obtain veloc field yield usual express
+applicationsedit
+lorentz forc occur mani devic includ
+cyclotron circular path particl acceler
+mass spectromet
+veloc filter
+magnetron
+lorentz forc velocimetri
+manifest laplac forc electr current conductor forc occur mani devic includ
+see alsoedit
+footnotesedit
+referencesedit
+number refer refer part list immedi
+feynman richard phillip leighton robert b sand matthew l feynman lectur physic vol pearson addisonwesley isbn volum
+griffith david j introduct electrodynam rd ed upper saddl river nj prenticehal isbn x
+jackson john david classic electrodynam rd ed new york ny wiley isbn x
+serway raymond jewett john w jr physic scientist engin modern physic belmont ca thomson brookscol isbn x
+srednicki mark quantum field theori cambridg england new york ny cambridg univers press isbn
+extern linksedit
+interact java tutori lorentz forc nation high magnet field laboratori
+lorentz forc demonstr
+faraday law tankersley mosca
+note physic astronomi hyperphys georgia state univers see also home page
+interact java applet magnet deflect particl beam homogen magnet field wolfgang bauer

@@ -1,0 +1,133 @@
+equilibrium constant chemic reaction valu reaction quotient reaction reach equilibrium equilibrium constant valu independ analyt concentr reactant product speci mixtur depend temperatur ionic strength known equilibrium constant valu use determin composit system equilibrium
+general chemic equilibrium
+thermodynam equilibrium constant defin equilibrium
+cur bracket denot thermodynam activ chemic speci righthand side equat correspond reaction quotient q arbitrari valu activ becom equilibrium constant shown reaction equilibrium
+equilibrium constant relat standard gibb free energi chang reaction
+deviat ideal behaviour neglect activ solut may replac concentr activ quotient becom concentr quotient kc
+kc defin equal thermodynam equilibrium constant concentr reactant product instead activ kc appear unit concentr rais power k dimensionless howev discuss definit concentr factor kc proper divid standard concentr kc dimensionless also
+assum ideal behavior activ solvent may replac mole fraction approxim dilut solut activ pure liquid solid phase exact activ speci ideal gas phase may replac partial pressur
+knowledg equilibrium constant essenti understand mani chemic system well biochem process oxygen transport hemoglobin blood acidbas homeostasi human bodi
+stabil constant format constant bind constant associ constant dissoci constant type equilibrium constant see also determin equilibrium constant experiment comput method
+type equilibrium constantsedit
+cumul stepwis format constantsedit
+cumul overal constant given symbol constant format complex reagent exampl cumul constant format ml given
+stepwis constant k format complex ml l given
+follow
+cumul constant alway express product stepwis constant agre notat stepwis constant though symbol klml sometim found literatur best alway defin stabil constant refer equilibrium express
+competit methodedit
+particular use stepwis constant determin stabil constant valu outsid normal rang given method exampl edta complex mani metal outsid rang potentiometr method stabil constant complex determin competit weaker ligand
+format constant pdcn determin competit method
+associ dissoci constantsedit
+organ chemistri biochemistri customari use pka valu acid dissoci equilibria
+kdiss stepwis acid dissoci constant base base associ constant pkb use given acid base two constant relat pka pkb pkw pka alway use calcul
+hand stabil constant metal complex bind constant hostguest complex general express associ constant consid equilibria
+customari use associ constant ml hl also general comput program deal equilibrium constant general practic use cumul constant rather stepwis constant omit ionic charg equilibrium express exampl nta nitrilotriacet acid nchcoh design hl form complex ml mhl metal ion m follow express would appli dissoci constant
+cumul associ constant express
+note subscript defin stoichiometri equilibrium product
+microconstantsedit
+two site asymmetr molecul may involv equilibrium reaction one possibl equilibrium constant exampl molecul ldopa two nonequival hydroxyl group may deproton denot ldopa lh follow diagram show speci may form xchchnhcoh
+first proton constant
+lh klh lh klh
+concentr lh sum concentr two microspeci therefor equilibrium constant reaction macroconst sum microconst
+k k k
+way
+k k k
+last cumul constant
+kk kk kk
+thus although seven microand macroconst three mutual independ moreov isomer constant ki equal ratio microconst
+ki kk
+ldopa isomer constant microspeci lh lh almost equal concentr ph valu
+general macroconst equal sum microconst occup site proport microconst site proton import exampl biolog activ
+microconst cannot determin individu usual method give macroconst method use determin microconst includ
+block one site exampl methyl hydroxyl group determin one microconst
+use spectroscop techniqu infrar spectroscopi differ microspeci give differ signal
+appli mathemat procedur c nmr data
+ph consider brnsted constantsedit
+ph defin term activ hydrogen ion
+approxim ideal behaviour activ replac concentr ph measur mean glass electrod mix equilibrium constant also known brnsted constant may result
+depend whether electrod calibr refer solut known activ known concentr latter case equilibrium constant would concentr quotient electrod calibr term known hydrogen ion concentr would better write ph rather ph suggest general adopt
+hydrolysi constantsedit
+aqueous solut concentr hydroxid ion relat concentr hydrogen ion
+first step metal ion hydrolysi express two differ way
+follow kkw hydrolysi constant usual report form lead appear strang valu exampl lg k lg kw lg general hydrolysi product contain n hydroxid group lg lg k n lg kw
+condit constantsedit
+condit constant also known appar constant concentr quotient true equilibrium constant deriv common instanc ph fix particular valu exampl case ironiii interact edta condit constant could defin
+condit constant vari ph maximum certain ph ph ligand sequest metal effect
+biochemistri equilibrium constant often measur ph fix mean buffer solut constant definit condit differ valu may obtain use differ buffer
+gas phase equilibriaedit
+equilibria gas phase fugac f use place activ howev fugac dimens pressur must divid standard pressur usual bar order produc dimensionless quantiti f p equilibrium constant express term dimensionless quantiti exampl equilibrium
+fugac relat partial pressur p dimensionless fugac coeffici f p thus exampl
+usual standard pressur omit express express equilibrium constant gas phase resembl express solut equilibria fugac coeffici place activ coeffici partial pressur place concentr
+thermodynamicsedit
+definitionsedit
+general chemic equilibrium
+thermodynam definit equilibrium constant equilibrium
+activ equilibrium chemic speci etc convent put activ product numer reactant denomin sinc activ dimensionless quantiti thermodynam equilibrium constant k also dimensionless quantiti import k relat standard free energi chang g reaction
+r gas constant absolut thermodynam temperatur take logarithm k possibl k dimens pure posit number howev often conveni use concentr partial pressur gas phase activ equilibrium express may written product three compon reaction quotient equilibrium concentr qe quotient activ factor quotient standard concentr c
+symbol stand general concentr partial pressur chemic speci activ coeffici dimensionless ca stand standard concentr standard partial pressur convent standard concentr valu moldm atm third factor c numer valu unit reciproc unit concentr quotient k remain dimensionless express simplifi
+follow concentr constant kc relat thermodynam equilibrium constant
+note kc defin way dimens log kc permiss
+equilibrium constant valu determin three option deal activ coeffici
+use known calcul activ coeffici togeth concentr reactant equilibria solut estim activ coeffici charg speci obtain use debyehckel theori extend version sit theori uncharg speci activ coeffici most follow saltingout model log bi stand ionic strength
+assum activ coeffici equal accept speci uncharg solvent low polar
+equilibria solut use medium high ionic strength effect redefin standard state refer medium activ coeffici standard state definit equal valu equilibrium constant determin manner depend ionic strength publish constant refer ionic strength one requir particular applic may adjust mean specif ion theori sit theori
+unitsedit
+kc appear dimens concentr power z differ sum power numer denomin z must fact dimensionless would possibl take logarithm illus result omit standard concentr defin express nevertheless unusu particular text relat biochem equilibria see valu quot dimens exampl follow
+symbol m signifi molar concentr m mol dm write express implicit assumpt quotient activ coeffici equal furthermor subscript c often omit impli concentr quotient thermodynam equilibrium constant sens defin case unit effect specifi concentr scale concentr b etc refer implicit standard concentr scale
+speciat calcul one must defin equilibrium constant quotient concentr k qe equilibrium constant dimens m mol dm mm mmol dm unit sometim use biochemistri exampl format adduct b ab concentr b calcul solv equat massbal
+ta tb analyt concentr reagent b numer valu k known term express unit concentr numer valu concentr calcul exampl assum molar concentr product concentr ab kab dimens m m m m ta tb b
+deriv equilibrium constant expressionedit
+temperatur assum constant follow treatment
+thermodynam equilibrium character free energi whole close system minimum system constant pressur gibb free energi minimum slope reaction free energi gr respect reaction coordin zero free energi minimum valu
+free energi chang gr express weight sum chemic potenti partial molar free energi speci equilibrium potenti ith speci chemic reaction partial deriv free energi respect number mole speci ni
+general chemic equilibrium written
+nj stoichiometr coeffici reactant equilibrium equat mj coeffici product valu gr reaction function chemic potenti speci
+chemic potenti ith speci calcul term activ ai
+standard chemic potenti speci r gas constant temperatur set sum reactant j equal sum product k greq
+rearrang term
+relat standard gibb free energi chang g equilibrium constant k reaction quotient activ valu equilibrium
+temperatur dependenceedit
+van hoff equat
+show reaction exotherm h negat k decreas increas temperatur accord le chateli principl permit calcul reaction equilibrium constant temperatur reaction constant known standard reaction enthalpi assum independ temperatur even though standard enthalpi chang defin differ temperatur howev assumpt valid small temperatur differ fact standard thermodynam argument use show
+cp heat capac constant pressur equilibrium constant relat standard gibb energi chang reaction
+g standard gibb free energi chang reaction r gas constant absolut temperatur
+equilibrium constant determin standard reaction enthalpi also determin calorimetri exampl equat allow standard entropi chang reaction deriv
+complex formulationedit
+calcul k particular temperatur known k anoth given temperatur approach follow standard thermodynam properti avail effect temperatur equilibrium constant equival effect temperatur gibb energi
+rg reaction standard gibb energi sum standard gibb energi reaction product minus sum standard gibb energi reactant
+term standard denot ideal behaviour ie infinit dilut hypothet standard concentr typic molkg impli particular temperatur pressur although contrari iupac recommend conveni describ aqueous system wide temperatur pressur rang
+standard gibb energi speci entir reaction repres basic definit
+equat effect temperatur gibb energi thus equilibrium constant ascrib entir heat capac evalu integr equat form depend heat capac temperatur need known
+one express standard heat capac cp function absolut temperatur use correl follow form
+pure substanc solid gas liquid
+ionic speci deg c
+integr evalu follow final form obtain
+constant b c b absolut entropi requir evalu cpt well valu g k k mani speci tabular literatur
+pressur dependenceedit
+pressur depend equilibrium constant usual weak rang pressur normal encount industri therefor usual neglect practic true condens reactantproduct ie reactant product solid liquid well gaseous one
+gaseousreact exampl one may consid wellstudi reaction hydrogen nitrogen produc ammonia
+n h nh
+pressur increas addit inert gas neither composit equilibrium equilibrium constant appreci affect partial pressur remain constant assum idealga behaviour gase involv howev composit equilibrium depend appreci pressur
+pressur chang compress gaseous react system
+reaction result chang number mole gas system
+exampl reaction number mole chang increas pressur system compress result appreci ammonia equilibrium mixtur general case gaseous reaction
+chang mixtur composit pressur quantifi use
+p denot partial pressur compon p total system pressur x denot mole fraction kp equilibrium constant express term partial pressur kx equilibrium constant express term mole fraction
+chang composit accord le chateli principl involv chang equilibrium constant total system pressur inde idealga reaction kp independ pressur
+condens phase pressur depend equilibrium constant associ reaction molar volum reaction
+reaction molar volum
+v denot partial molar volum reactant product
+reaction one expect chang reaction equilibrium constant base either molefract molalconcentr scale pressur constant temperatur
+matter complic partial molar volum depend pressur
+data sourcesedit
+iupac scdatabas comprehens databas publish data equilibrium constant metal complex ligand
+nist standard refer databas critic select stabil constant metal complex
+inorgan organ acid base pka data water dmso
+nasa glenn thermodynam databas webpag link selfconsist temperaturedepend specif heat enthalpi entropi element molecul
+see alsoedit
+determin equilibrium constant
+stabil constant complex
+equilibrium fraction
+extern linksedit
+scienc aid equilibrium constant explan kc kp high school level
+referencesedit

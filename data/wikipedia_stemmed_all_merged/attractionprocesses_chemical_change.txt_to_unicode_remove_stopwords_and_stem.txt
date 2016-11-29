@@ -1,0 +1,180 @@
+mathemat ellips curv plane surround two focal point sum distanc two focal point constant everi point curv general circl special type ellips focal point locat shape ellips elong repres eccentr ellips number limit case circl arbitrarili close less
+ellips close type conic section plane curv result intersect cone plane see figur right ellips mani similar two form conic section parabola hyperbola open unbound cross section cylind ellips unless section parallel axi cylind
+analyt ellips also defin set point ratio distanc point curv given point call focus focal point distanc point curv given line call directrix constant call eccentr ellips
+ellips common physic astronomi engin exampl orbit planet solar system ellips barycent planetsun pair one focal point true moon orbit planet system two astronom bodi shape planet star often well describ ellipsoid ellips also aris imag circl parallel project bound case perspect project simpli intersect project cone plane project also simplest lissaj figur form horizont vertic motion sinusoid frequenc similar effect lead ellipt polar light optic
+name lleipsi omiss given apollonius perga conic emphas connect curv applic area
+element ellips
+ellips two perpendicular axe ellips symmetr axe intersect center ellips due symmetri larger two axe correspond largest distanc antipod point ellips call major axi figur right repres line segment point label point label smaller two axe smallest distanc across ellips call minor axi figur right repres line segment point label b point label b
+semimajor axi denot figur semiminor axi denot b figur one half major minor axe respect sometim call especi technic field major minor semiax major minor semiax major radius minor radius
+four point axe cross ellips vertic mark b b addit largest smallest distanc center point curvatur ellips maximum minimum
+two foci term focal point also use ellips two special point f f ellips major axi equidist center point sum distanc point p ellips two foci constant equal major axi pf pf figur right correspond sum two green line equal length major axi goe
+distanc focal point center ellips sometim call linear eccentr f ellips denot f often denot c due pythagorean theorem definit ellips explain previous paragraph f b
+second equival method construct ellips use directrix shown plot three blue line see directrix section articl inform method dash blue line directrix ellips shown
+eccentr ellips usual denot e ratio distanc two foci length major axi e fa fa ellips eccentr e eccentr foci coincid center point figur circl eccentr tend toward ellips get elong shape tend toward line segment see two foci remain finit distanc apart parabola one focus kept fix allow move arbitrarili far away eccentr also equal ratio distanc blue line pf particular point ellips one foci perpendicular distanc directrix point line pd e pfpd
+draw ellips
+pinsandstr method
+character ellips locus point sum distanc foci constant lead method draw one use two draw pin length string pencil method pin push paper two point becom ellips foci string tie end two pin tip pen pull loop taut form triangl tip pen trace ellips move keep string taut use two peg rope garden use procedur outlin ellipt flower bedthus call garden ellips
+trammel method
+ellips also drawn use ruler set squar pencil
+draw two perpendicular line mn paper major m minor n axe ellips mark three point b c ruler ac length semimajor axi bc length semiminor axi one hand move ruler paper turn slide keep point alway line n b line m hand keep pencil tip paper follow point c ruler tip trace ellips
+trammel archimed ellipsograph mechan devic implement principl ruler replac rod pencil holder point c one end two adjust side pin point b slide two perpendicular slot cut metal plate mechan use router cut ellips board materi mechan also use toy call noth grinder
+parallelogram method
+parallelogram method ellips construct point point use equal space point two horizont line equal space point two vertic line base steiner theorem generat conic section similar method exist parabola hyperbola
+mathemat definit properti
+euclidean geometri
+definit
+euclidean geometri ellips usual defin bound case conic section set point sum distanc two fix point foci constant ellips also defin set point distanc point set given point plane focus constant posit fraction less eccentr perpendicular distanc point set given line call directrix yet anoth equival definit ellips set point equidist one point plane focus particular circl directrix circl whose center focus
+equival definit prove use dandelin sphere
+equat
+equat ellips whose major minor axe coincid cartesian axe explain follow let independ paramet increas let
+plot x y valu angl result ellips note eccentr anomali angl trace point ellips see exampl x y y b x seen follow
+squar equat give
+divid two equat b respect give
+ad two equat togeth give
+appli pythagorean ident right hand side give
+mean noncircular ellips compress stretch circl circl treat like ellips area ellips would proport length either axi ie doubl length axi circular ellips would creat ellips doubl area origin circl
+focus
+distanc center c either focus f ae express term major minor radii
+sum distanc point p pxi ellips two foci constant equal major axi proof
+eccentr
+eccentr ellips common denot either e
+b onehalf ellips major minor axe respect f focal distanc express term use flatten factor
+formula eccentr ellips list articl eccentr conic section formula eccentr ellips express general quadrat form describ articl dedic conic section
+directrix
+focus f ellips associ line parallel minor axi call directrix refer illustr right ellips center origin distanc point p ellips focus f constant fraction point perpendicular distanc directrix result equal e pfpd ratio two distanc eccentr ellips properti prove use dandelin sphere taken anoth definit ellips
+besid wellknown ratio e fa f distanc center focus distanc center farthest vertic sharpli curv point ellips also true e ad d distanc center directrix
+circular directrix
+ellips also defin set point equidist one focus circl directrix circl center focus radius directrix circl equal ellips major axi focus entir ellips insid directrix circl
+ellips hypotrochoid
+ellips special case hypotrochoid r r shown imag right
+area
+area enclos ellips
+b semimajor semiminor axe half ellips major minor axe respect
+ellips defin implicit area
+area formula ab intuit start circl radius b area b stretch factor ab make ellips intuit justifi area factor bab ab howev rigor proof requir integr follow
+ellips standard form henc horizont intercept area comput twice integr posit squar root
+second integr area circl radius ie thus
+area formula also proven term polar coordin use coordin transform
+point insid ellips xintercept yintercept b defin term r
+defin area differenti coordin use jacobian matrix coordin transform time
+integr ellips find area
+circumfer
+circumfer ellips
+length semimajor axi e eccentr function complet ellipt integr second kind arc length ellips general closedform solut term elementari function ellipt integr motiv problem may evalu direct use carlson symmetr form give succinct rapid converg method evalu circumfer
+exact infinit seri
+doubl factori unfortun seri converg rather slowli howev expand term ivori bessel deriv express converg much rapid
+ramanujan give two good approxim circumfer
+error approxim obtain empir order respect
+general arc length portion circumfer function angl subtend given incomplet ellipt integr
+invers function angl subtend function arc length given ellipt function
+lower upper bound circumfer canon ellips b
+upper bound circumfer circumscrib concentr circl pass endpoint ellips major axi lower bound perimet inscrib rhombus vertic endpoint major minor axe
+chord
+midpoint set parallel chord ellips collinear
+latus rectum
+chord ellips perpendicular major axi pass one foci call latera recta ellips length latus rectum ba
+curvatur
+curvatur given local normal ellips bisect angl shown figur evid graphic parallelogram method construct proven analyt exampl use parametr form canon posit given
+reflex properti
+ray light origin one focus reflect inner surfac ellips alway pass focus
+project geometri
+project geometri defin field conic section defin set point intersect correspond line two pencil line plane relat project perspect map see steiner theorem project dualiti conic section also defin envelop line connect correspond point two line relat project perspect map
+pappian project plane one defin field conic section equival differ type conic section determin intersect line infin denot ellips conic section intersect line parabola conic section tangent hyperbola one cross twice sinc ellips intersect line infin proper belong affin plane determin remov line infin point project plane
+affin space
+ellips also result project circl sphere ellips three dimension affin space onto plane flat parallel line special case conic perspect project geometr object affin space point o onto plane p point o lie plane infin affin space set pappian project plane imag ellips affin map project map leav line infin invari ellips general imag ellips project map m line m touch cross ellips ellips
+analyt geometri
+general ellips
+analyt geometri ellips defin set point cartesian plane nondegener case satisfi implicit equat
+provid
+distinguish degener case nondegener case let determin
+ellips nondegener real ellips c c imaginari ellips point ellips
+general equat coeffici obtain known semimajor axi semiminor axi center coordin rotat angl use follow formula
+express deriv canon equat see next section substitut coordin express rotat translat coordin system
+canon form
+let chang coordin rotat axe translat axe general ellips describ canon implicit equat
+point coordin canon system whose origin center ellips whose axi unit vector coincid major axi whose axi perpendicular vector coincid minor axi
+system center origin foci
+ellips obtain rotat translat canon ellips proper semidiamet express ellips center
+moreov canon ellips obtain scale unit circl defin equat
+factor b along two axe
+ellips canon form
+distanc point ellips left right foci respect
+line segment type degener ellips
+line segment degener ellips semiminor axi eccentr focal point end although eccentr parabola radial ellipt trajectori nontrivi special case ellipt orbit ellips line segment
+trigonometri
+general parametr form
+ellips general posit express parametr path point
+paramet vari center ellips angl axi major axi ellips
+parametr form canon posit
+ellips canon posit center origin major axi along xaxi equat simplifi
+note paramet call eccentr anomali astronomi angl xaxi see diagram right
+given point ellips formula connect tangenti angl polar angl ellips center parametr angl
+polar form relat center
+polar coordin origin center ellips angular coordin measur major axi ellips equat
+polar form relat focus
+instead use polar coordin origin one focus angular coordin still measur major axi ellips equat
+sign denomin negat refer direct point toward center illustr right posit direct point away center
+slight general case ellips one focus origin focus angular coordin polar form
+angl formula call true anomali point numer formula semilatus rectum ellips usual denot distanc focus ellips ellips measur along line perpendicular major axi
+general polar form
+follow equat polar coordin r describ general ellips semidiamet b center point r axi rotat relat polar axi
+r radius central distanc
+angular eccentr
+angular eccentr angl whose sine eccentr e
+degre freedom
+ellips plane five degre freedom general conic section defin vertic horizont posit orient shape scale comparison circl three degre freedom horizont posit vertic posit scale parabola four said anoth way set ellips plane natur metric hausdorff distanc fivedimension manifold
+five degre freedom identifi exampl coeffici abcd implicit equat coeffici xc yc b general parametr form thus ellips uniqu determin five point lie
+applic
+ellips physic
+ellipt reflector acoust
+water surfac disturb one focus ellipt water tank circular wave disturb reflect wall converg simultan singl point second focus consequ total travel length along wallbounc path two foci
+similar light sourc place one focus ellipt mirror light ray plane ellips reflect second focus sinc smooth curv properti use altern definit ellips special case circl sourc center light would reflect back center ellips rotat along major axi produc ellipsoid mirror specif prolat spheroid properti hold ray sourc altern cylindr mirror ellipt crosssect use focus light linear fluoresc lamp along line paper mirror use document scanner
+sound wave reflect similar way larg ellipt room person stand one focus hear person stand focus remark well effect even evid vault roof shape section prolat spheroid room call whisper chamber effect demonstr two reflector shape like end cap spheroid place face proper distanc exampl nation statuari hall unit state capitol john quinci adam said use properti eavesdrop polit matter mormon tabernacl templ squar salt lake citi utah exhibit sound museum scienc industri chicago front univers illinoi urbanachampaign foelling auditorium also side chamber palac charl v alhambra
+planetari orbit
+th centuri johann kepler discov orbit along planet travel around sun ellips sun approxim one focus first law planetari motion later isaac newton explain corollari law univers gravit
+general gravit twobodi problem two bodi bound ie total energi negat orbit similar ellips common barycent one foci ellips focus either ellips known physic signific interest orbit either bodi refer frame also ellips bodi focus
+keplerian ellipt orbit result radial direct attract forc whose strength invers proport squar distanc thus principl motion two opposit charg particl empti space would also ellips howev conclus ignor loss due electromagnet radiat quantum effect becom signific particl move high speed
+ellipt orbit use relat involv eccentr
+radius apoapsi farthest distanc
+radius periapsi closest distanc
+length semimajor axi
+also term semimajor axi arithmet mean semiminor axi geometr mean semilatus rectum harmon mean word
+harmon oscil
+general solut harmon oscil two dimens also ellips case instanc long pendulum free move two dimens mass attach fix point perfect elast spring object move influenc attract forc direct proport distanc fix attractor unlik keplerian orbit howev harmon orbit center attract geometr center ellips fair simpl equat motion
+phase visual
+electron relat phase two sinusoid signal compar feed vertic horizont input oscilloscop display ellips rather straight line two signal phase
+ellipt gear
+two noncircular gear ellipt outlin pivot around one focus posit proper angl turn smooth maintain contact time altern connect link chain time belt case bicycl main chainr may ellipt ovoid similar ellips form ellipt gear may use mechan equip produc variabl angular speed torqu constant rotat drive axl case bicycl allow vari crank rotat speed invers vari mechan advantag
+ellipt bicycl gear make easier chain slide cog chang gear
+exampl gear applic would devic wind thread onto conic bobbin spin machin bobbin would need wind faster thread near apex near base
+optic
+materi optic anisotrop birefring refract index depend direct light depend describ index ellipsoid materi optic isotrop ellipsoid sphere
+lamppump solidst laser ellipt cylindershap reflector use direct light pump lamp coaxial one ellips focal axi activ medium rod coaxial second focal axi
+laserplasma produc euv light sourc use microchip lithographi euv light generat plasma posit primari focus ellipsoid mirror collect secondari focus input lithographi machin
+ellips statist financ
+statist bivari random vector x y joint ellipt distribut isodens contour loci equal valu densiti function ellips concept extend arbitrari number element random vector case general isodens contour ellipsoid special case multivari normal distribut ellipt distribut import financ rate return asset joint ellipt distribut portfolio character complet mean varianc two portfolio ident mean varianc portfolio return ident distribut portfolio return
+ellips comput graphic
+draw ellips graphic primit common standard display librari macintosh quickdraw api directd window jack bresenham ibm famous invent d draw primit includ line circl draw use fast integ oper addit branch carri bit m l v pitteway extend bresenham algorithm line conic anoth effici general draw ellips invent jerri van aken
+danni cohen present comput graphic confer england linear algorithm draw ellips circl l b smith publish similar algorithm conic section prove good properti algorithm need multipl addit calcul vector
+benefici use parametr formul comput graphic densiti point greatest curvatur thus chang slope success point small reduc appar jagged approxim
+draw bzier path
+composit bzier curv may also use draw ellips suffici accuraci sinc ellips may constru affin transform circl spline method use draw circl may use draw ellips sinc constitu bzier curv behav appropri transform
+draw three point parallelogram
+rytz construct use find minor major axe angl ellips conjug diamet seen three point parallelogram method use conjug diamet ellips map ellips unit circl affin transform calcul ellips paramet
+ellips optim theori
+sometim use find minimum bound ellips set point ellipsoid method quit use attack problem
+see also
+note
+refer
+besant wh chapter iii ellips conic section london georg bell son p
+coxet hsm introduct geometri nd ed new york wiley pp
+meserv bruce e fundament concept geometri dover isbn
+miller charl d lial margaret l schneider david fundament colleg algebra rd ed scott foresmanlittl p isbn
+extern link
+apollonius deriv ellips converg
+shape histori ellips washington dc clark kimberl
+ellips circumfer calcul
+collect anim ellips demonstr
+weisstein eric w ellips mathworld
+weisstein eric w ellips special case hypotrochoid mathworld
+ivanov ab ellips hazewinkel michiel encyclopedia mathemat springer isbn

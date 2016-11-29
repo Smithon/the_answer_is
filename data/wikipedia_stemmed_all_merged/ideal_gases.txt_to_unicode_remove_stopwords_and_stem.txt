@@ -1,0 +1,97 @@
+ideal gas theoret gas compos mani random move point particl interact except collid elast ideal gas concept use obey ideal gas law simplifi equat state amen analysi statist mechan one mole ideal gas volum l stp defin iupac
+normal condit standard temperatur pressur real gase behav qualit like ideal gas mani gase nitrogen oxygen hydrogen nobl gase heavier gase like carbon dioxid treat like ideal gase within reason toler general gas behav like ideal gas higher temperatur lower pressur potenti energi due intermolecular forc becom less signific compar particl kinet energi size molecul becom less signific compar empti space
+ideal gas model tend fail lower temperatur higher pressur intermolecular forc molecular size becom import also fail heavi gase mani refriger gase strong intermolecular forc notabl water vapor high pressur volum real gas often consider greater ideal gas low temperatur pressur real gas often consider less ideal gas point low temperatur high pressur real gase undergo phase transit liquid solid model ideal gas howev describ allow phase transit must model complex equat state deviat ideal gas behaviour describ dimensionless quantiti compress factor z
+ideal gas model explor newtonian dynam kinet theori quantum mechan gas box ideal gas model also use model behavior electron metal drude model free electron model one import model statist mechan
+type ideal gas
+three basic class ideal gas
+classic maxwellboltzmann ideal gas
+ideal quantum bose gas compos boson
+ideal quantum fermi gas compos fermion
+classic ideal gas separ two type classic thermodynam ideal gas ideal quantum boltzmann gas essenti except classic thermodynam ideal gas base classic statist mechan certain thermodynam paramet entropi specifi within undetermin addit constant ideal quantum boltzmann gas overcom limit take limit quantum bose gas quantum fermi gas limit high temperatur specifi addit constant behavior quantum boltzmann gas classic ideal gas except specif constant result quantum boltzmann gas use number case includ sackurtetrod equat entropi ideal gas saha ionize equat weak ioniz plasma
+classic thermodynam ideal gas
+macroscop account
+ideal gas law extens experiment discov gas law real fluid low densiti high temperatur approxim behavior classic ideal gas howev lower temperatur higher densiti real fluid deviat strong behavior ideal gas particular condens gas liquid deposit gas solid deviat express compress factor
+classic thermodynam properti ideal gas describ two equat state
+one well known ideal gas law
+pressur
+volum
+amount substanc gas mole
+gas constant jkmol
+absolut temperatur
+equat deriv boyl law constant n charless law constant p n avogadro law constant p
+constant use boyl law
+proport constant equal
+proport constant equal
+combin three law would demonstr would mean
+ideal condit
+equat state ideal gas must express joul law intern energi fix mass ideal gas function temperatur present purpos conveni postul exemplari version law write
+intern energi
+dimensionless specif heat capac constant volum monatom gas diatom gas complex molecul
+microscop model
+order switch macroscop quantiti left hand side follow equat microscop one right hand side use
+number gas particl
+boltzmann constant jk
+probabl distribut particl veloc energi given maxwel speed distribut
+ideal gas model depend follow assumpt
+molecul gas indistinguish small hard sphere
+collis elast motion frictionless energi loss motion collis
+newton law appli
+averag distanc molecul much larger size molecul
+molecul constant move random direct distribut speed
+attract repuls forc molecul apart determin pointlik collis
+forc gas molecul surround determin pointlik collis molecul wall
+simplest case longrang forc molecul gas surround
+assumpt spheric particl necessari rotat mode allow unlik diatom gas follow three assumpt relat molecul hard collis elast intermolecular forc assumpt space particl much larger particl paramount import explain ideal gas approxim fail high pressur
+heat capac
+heat capac constant volum includ ideal gas
+entropi dimensionless heat capac constant volum general function temperatur due intermolecular forc moder temperatur constant monatom gas diatom gas seen macroscop measur heat capac provid inform microscop structur molecul
+heat capac constant pressur r mole ideal gas
+enthalpi gas
+sometim distinct made ideal gas could vari temperatur perfect gas case
+ratio constant volum constant pressur heat capac
+air mixtur gase ratio
+entropi
+use result thermodynam go long way determin express entropi ideal gas import step sinc accord theori thermodynam potenti express entropi function u u thermodynam potenti volum v number particl n complet statement thermodynam behavior ideal gas abl deriv ideal gas law express intern energi
+sinc entropi exact differenti use chain rule chang entropi go refer state state entropi may written
+refer variabl may function number particl n use definit heat capac constant volum first differenti appropri maxwel relat second
+express term develop section differenti ideal gas equat state integr yield
+impli entropi may express
+constant incorpor logarithm fn function particl number n dimens order argument logarithm dimensionless impos constraint entropi extens mean extens paramet v n multipli constant entropi multipli constant mathemat
+find equat function fn
+differenti respect set equal uniti solv differenti equat yield fn
+may vari differ gase independ thermodynam state gas dimens substitut equat entropi
+use express intern energi ideal gas entropi may written
+sinc express entropi term u v n fundament equat properti ideal gas may deriv
+far go use thermodynam alon note equat flaw temperatur approach zero entropi approach negat infin contradict third law thermodynam ideal develop critic point absolut zero argument logarithm becom uniti entropi becom zero unphys equat good approxim argument logarithm much larger uniti concept ideal gas break low valu vn nevertheless best valu constant sens predict entropi close possibl actual entropi given flaw assumpt ideal quantummechan deriv constant develop deriv sackurtetrod equat express entropi monatom ideal gas sackurtetrod theori constant depend upon mass gas particl sackurtetrod equat also suffer diverg entropi absolut zero good approxim entropi monatom ideal gas high enough temperatur
+thermodynam potenti
+express entropi function v n
+chemic potenti ideal gas calcul correspond equat state see thermodynam potenti
+g gibb free energi equal
+thermodynam potenti ideal gas written function v n
+inform way write potenti term natur variabl sinc equat use deriv thermodynam variabl system term natur variabl thermodynam potenti singlespeci ideal gas
+statist mechan relationship helmholtz free energi partit function fundament use calcul thermodynam properti matter see configur integr detail
+speed sound
+speed sound ideal gas given
+adiabat index
+entropi per particl gas
+mass densiti gas
+pressur gas
+univers gas constant
+temperatur
+molar mass gas
+tabl ideal gas equat
+see tabl thermodynam equat ideal gas
+ideal quantum gase
+abovement sackurtetrod equat best choic entropi constant found proport quantum thermal wavelength particl point argument logarithm becom zero rough equal point averag distanc particl becom equal thermal wavelength fact quantum theori predict thing gas behav ideal gas high enough temperatur low enough densiti point sackurtetrod equat begin break gas begin behav quantum gas compos either boson fermion see gas box articl deriv ideal quantum gase includ ideal boltzmann gas
+gase tend behav ideal gas wider rang pressur temperatur reach boyl temperatur
+ideal boltzmann gas
+ideal boltzmann gas yield result classic thermodynam gas make follow identif undetermin constant
+thermal de brogli wavelength gas g degeneraci state
+ideal bose fermi gase
+ideal gas boson eg photon gas govern boseeinstein statist distribut energi form boseeinstein distribut ideal gas fermion govern fermidirac statist distribut energi form fermidirac distribut
+see also
+compress factor
+dynam billiard billiard ball model ideal gas
+tabl thermodynam equat
+scalefre ideal gas
+refer

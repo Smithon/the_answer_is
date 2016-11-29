@@ -1,0 +1,162 @@
+classic mechan laplacerungelenz vector simpli lrl vector vector use chiefli describ shape orient orbit one astronom bodi around anoth planet revolv around star two bodi interact newtonian graviti lrl vector constant motion mean matter calcul orbit equival lrl vector said conserv general lrl vector conserv problem two bodi interact central forc vari invers squar distanc problem call kepler problem
+hydrogen atom kepler problem sinc compris two charg particl interact coulomb law electrostat anoth invers squar central forc lrl vector essenti first quantum mechan deriv spectrum hydrogen atom develop schrdinger equat howev approach rare use today
+classic quantum mechan conserv quantiti general correspond symmetri system conserv lrl vector correspond unusu symmetri kepler problem mathemat equival particl move freeli surfac fourdimension hyperspher whole problem symmetr certain rotat fourdimension space higher symmetri result two properti kepler problem veloc vector alway move perfect circl given total energi veloc circl intersect two point
+laplacerungelenz vector name pierresimon de laplac carl rung wilhelm lenz also known laplac vector rungelenz vector lenz vector iron none scientist discov lrl vector rediscov sever time also equival dimensionless eccentr vector celesti mechan various general lrl vector defin incorpor effect special relat electromagnet field even differ type central forc
+context
+singl particl move conserv central forc least four constant motion total energi e three cartesian compon angular momentum vector l respect origin particl orbit confin plane defin particl initi momentum p equival veloc v vector r particl center forc see figur
+defin see mathemat definit laplacerungelenz vector lrl vector alway lie plane motion central forc howev constant inversesquar central forc central forc howev vector constant chang length direct central forc approxim inversesquar law vector approxim constant length slowli rotat direct general conserv lrl vector defin central forc general vector complic function posit usual express close form
+plane motion perpendicular angular momentum vector l constant may express mathemat vector dot product equat rl likewis sinc lie plane al
+lrl vector differ conserv quantiti follow properti wherea typic conserv quantiti correspond cyclic coordin threedimension lagrangian system exist coordin lrl vector thus conserv lrl vector must deriv direct eg method poisson bracket describ conserv quantiti kind call dynam contrast usual geometr conserv law eg angular momentum
+histori rediscoveri
+lrl vector constant motion import kepler problem use describ astronom orbit motion planet nevertheless never well known among physicist possibl less intuit momentum angular momentum consequ rediscov independ sever time last three centuri
+jakob hermann first show conserv special case inversesquar central forc work connect eccentr orbit ellips hermann work general modern form johann bernoulli end centuri pierresimon de laplac rediscov conserv deriv analyt rather geometr middl nineteenth centuri william rowan hamilton deriv equival eccentr vector defin use show momentum vector p move circl motion inversesquar central forc figur
+begin twentieth centuri josiah willard gibb deriv vector vector analysi gibb deriv use exampl carl rung popular german textbook vector referenc wilhelm lenz paper old quantum mechan treatment hydrogen atom vector use wolfgang pauli deriv spectrum hydrogen use modern quantum mechan schrdinger equat pauli public becam known main rungelenz vector
+mathemat definit
+singl particl act inversesquar central forc describ equat lrl vector defin mathemat formula
+m mass point particl move central forc
+p momentum vector
+l r p angular momentum vector
+k paramet describ strength central forc
+r posit vector particl figur
+correspond unit vector ie r magnitud r
+sinc assum forc conserv total energi e constant motion
+furthermor assum forc central forc thus angular momentum vector l also conserv defin plane particl travel lrl vector perpendicular angular momentum vector l p l r perpendicular l follow lie plane orbit
+definit lrl vector pertain singl point particl mass m move action fix forc howev definit may extend twobodi problem kepler problem take m reduc mass two bodi r vector two bodi
+varieti altern formul constant motion may also use common scale mk defin eccentr vector
+deriv kepler orbit
+shape orient kepler problem orbit determin lrl vector follow take dot product posit vector r give equat
+angl r figur permut scalar tripl product
+rearrang yield defin formula conic section provid constant case invers squar forc law
+eccentr e
+latus rectum
+major semiaxi conic section may defin use latus rectum eccentr
+minus sign pertain ellips plus sign hyperbola
+take dot product yield equat involv energi e
+may rewritten term eccentr
+thus energi e negat bound orbit eccentr less one orbit ellips convers energi posit unbound orbit also call scatter orbit eccentr greater one orbit hyperbola final energi exact zero eccentr one orbit parabola case direct lie along symmetri axi conic section point center forc toward periapsi point closest approach
+circular momentum hodograph
+conserv lrl vector angular momentum vector l use show momentum vector p move circl inversesquar central forc
+take dot product
+yield
+choos l along zaxi major semiaxi xaxi yield locus equat p
+word momentum vector p confin circl radius mkl l center al eccentr e correspond cosin angl shown figur
+degener limit circular orbit thus vanish circl center origin breviti also use introduc variabl circular hodograph use illustr symmetri kepler problem
+constant motion superintegr
+seven scalar quantiti e l vector latter two contribut three conserv quantiti relat two equat l mk mel give five independ constant motion sinc magnitud henc eccentr e orbit determin total angular momentum l energi e direct conserv independ moreov sinc must perpendicular l contribut one addit conserv quantiti
+consist six initi condit particl initi posit veloc vector three compon specifi orbit particl sinc initi time determin constant motion result dimension orbit dimension phase space thus complet specifi
+mechan system d degre freedom d constant motion sinc d initi condit initi time cannot determin constant motion system d constant motion call superintegr system d constant call maxim superintegr sinc solut hamiltonjacobi equat one coordin system yield d constant motion superintegr system must separ one coordin system kepler problem maxim superintegr sinc three degre freedom d five independ constant motion hamiltonjacobi equat separ spheric coordin parabol coordin describ
+maxim superintegr system follow close onedimension orbit phase space sinc orbit intersect phasespac isosurfac constant motion consequ orbit perpendicular gradient independ isosurfac five specif problem henc determin general cross product gradient result superintegr system automat describ nambu mechan altern equival hamiltonian mechan
+maxim superintegr system quantiz use commut relat illustr nevertheless equival also quantiz nambu framework classic kepler problem quantum hydrogen atom
+evolut perturb potenti
+laplacerungelenz vector conserv perfect inversesquar central forc practic problem planetari motion howev interact potenti energi two bodi exact invers squar law may includ addit central forc socal perturb describ potenti energi hr case lrl vector rotat slowli plane orbit correspond slow apsid precess orbit
+assumpt perturb potenti hr conserv central forc impli total energi e angular momentum vector l conserv thus motion still lie plane perpendicular l magnitud conserv equat mk mel perturb potenti hr may sort function signific weaker main inversesquar forc two bodi
+rate lrl vector rotat provid inform perturb potenti hr use canon perturb theori actionangl coordin straightforward show rotat rate
+orbit period ident l dt m r d use convert time integr angular integr figur express angular bracket hr repres perturb potenti averag one full period averag one full passag bodi around orbit mathemat time averag correspond follow quantiti cur brace averag help suppress fluctuat rate rotat
+approach use help verifi einstein theori general relat add small effect inversecub perturb normal newtonian gravit potenti
+insert function integr use equat
+express r term precess rate periapsi caus nonnewtonian perturb calcul
+close match observ anomal precess mercuri binari pulsar agreement experi strong evid general relat
+poisson bracket
+algebra structur problem explain later section three compon li angular momentum vector l poisson bracket
+ij fulli antisymmetr tensor ie levicivita symbol summat index use avoid confus forc paramet k defin poisson bracket extend quantum mechan commut relat next section lie bracket follow section
+note scale laplacerungelenz vector d may defin unit angular momentum divid poisson bracket d angular momentum vector l written similar form
+poisson bracket d depend sign e ie whether total energi e negat produc close ellipt orbit inversesquar central forc posit produc open hyperbol orbit inversesquar central forc negat energi ie bound system poisson bracket
+wherea posit energi poisson bracket opposit sign
+casimir invari negat energi
+vanish poisson bracket compon d l
+c trivial zero sinc two vector alway perpendicular
+howev invari c nontrivi depend m k e upon canon quantize invari allow energi level hydrogenlik atom deriv use quantum mechan canon commut relat instead convent solut schrdinger equat
+quantum mechan hydrogen atom
+poisson bracket provid simpl guid quantiz classic system commut relat two quantum mechan oper specifi poisson bracket correspond classic variabl multipli
+carri quantize calcul eigenvalu c casimir oper kepler problem wolfgang pauli abl deriv energi level hydrogenlik atom figur thus atom emiss spectrum eleg deriv obtain develop schrdinger equat
+subtleti quantum mechan oper lrl vector momentum angular momentum oper commut henc quantum oper cross product p l must defin care typic oper cartesian compon defin use symmetr hermitian product
+correspond addit ladder oper l defin
+connect differ eigenst l differ spin multiplet among
+normal first casimir invari oper quantum analog likewis defin
+h invers hamiltonian energi oper ident oper
+appli ladder oper eigenst mn total angular momentum azimuth angular momentum energi oper eigenvalu first casimir oper c seen quantiz n import dint vanish c independ m quantum number make energi level degener
+henc energi level given
+coincid rydberg formula hydrogenlik atom figur addit symmetri oper connect differ multiplet among given energi c dictat n state level effect enlarg angular momentum group
+conserv symmetri
+conserv lrl vector correspond subtl symmetri system classic mechan symmetri continu oper map one orbit onto anoth without chang energi system quantum mechan symmetri continu oper mix electron orbit energi ie degener energi level conserv quantiti usual associ symmetri exampl everi central forc symmetr rotat group lead conserv angular momentum l classic overal rotat system affect energi orbit quantum mechan rotat mix spheric harmon quantum number l without chang energi
+symmetri inversesquar central forc higher subtl peculiar symmetri kepler problem result conserv angular momentum vector l lrl vector defin quantum mechan ensur energi level hydrogen depend angular momentum quantum number l m symmetri subtl howev symmetri oper must take place higherdimension space symmetri often call hidden symmetri
+classic higher symmetri kepler problem allow continu alter orbit preserv energi angular momentum express anoth way orbit energi differ angular momentum eccentr transform continu one anoth quantum mechan correspond mix orbit differ l m quantum number l p l atom orbit mix cannot done ordinari threedimension translat rotat equival rotat higher dimens
+negat energi ie bound system higher symmetri group preserv length fourdimension vector
+vladimir fock show quantum mechan bound kepler problem equival problem free particl confin threedimension unit sphere fourdimension space specif fock show schrdinger wavefunct momentum space kepler problem stereograph project spheric harmon sphere rotat sphere reproject result continu map ellipt orbit without chang energi quantum mechan correspond mix orbit energi quantum number n valentin bargmann note subsequ poisson bracket angular momentum vector l scale lrl vector d form lie algebra simpli put six quantiti d l correspond six conserv angular momenta four dimens associ six possibl simpl rotat space six way choos two axe four conclus impli univers threedimension sphere mere mean particular physic problem twobodi problem inversesquar central forc mathemat equival free particl threedimension sphere
+posit energi ie unbound scatter system higher symmetri group preserv minkowski length vector
+negat positiveenergi case consid fock bargmann review encycloped bander itzykson
+orbit centralforc system kepler problem particular also symmetr reflect therefor group cite full symmetri group orbit full group o o o respect nevertheless connect subgroup need demonstr conserv angular momentum lrl vector reflect symmetri irrelev conserv may deriv lie algebra group
+rotat symmetri four dimens
+connect kepler problem fourdimension rotat symmetri readili visual let fourdimension cartesian coordin denot w x y z x y z repres cartesian coordin normal posit vector r threedimension momentum vector p associ fourdimension vector threedimension unit sphere
+unit vector along new waxi transform map p uniqu invert exampl xcompon momentum equal
+similar py pz word threedimension vector p stereograph project fourdimension vector scale p figur
+without loss general may elimin normal rotat symmetri choos cartesian coordin zaxi align angular momentum vector l momentum hodograph align figur center circl yaxi sinc motion planar p l perpendicular pz z attent may restrict threedimension vector w x y famili apollonian circl momentum hodograph figur correspond famili great circl threedimension sphere intersect xaxi two foci x correspond momentum hodograph foci px p great circl relat simpl rotat xaxi figur rotat symmetri transform orbit energi one anoth howev rotat orthogon usual threedimension rotat sinc transform fourth dimens w higher symmetri characterist kepler problem correspond conserv lrl vector
+eleg actionangl variabl solut kepler problem obtain elimin redund fourdimension coordin favor ellipt cylindr coordin
+sn cn dn jacobi ellipt function
+general potenti relat
+laplacerungelenz vector also general identifi conserv quantiti appli situat
+presenc uniform electr field e general laplacerungelenz vector
+q charg orbit particl although conserv give rise conserv quantiti name
+general laplacerungelenz vector potenti special relat general form written
+u r cf bertrand theorem cos angl defin
+lorentz factor may obtain conserv binorm vector b take cross product conserv angular momentum vector
+two vector may likewis combin conserv dyadic tensor w
+illustr lrl vector nonrelativist isotrop harmon oscil calcul sinc forc central
+angular momentum vector conserv motion lie plane
+conserv dyadic tensor written simpl form
+although note p r necessarili perpendicular
+correspond rungelenz vector complic
+natur oscil frequenc
+proof laplacerungelenz vector conserv kepler problem
+follow argument show lrl vector conserv central forc obey inversesquar law
+direct proof conserv
+central forc act particl
+function radius sinc angular momentum conserv central forc
+momentum tripl cross product simplifi use lagrang formula
+ident
+yield equat
+special case inversesquar central forc equal
+therefor conserv inversesquar central forc
+shorter proof obtain use relat angular momentum angular veloc hold particl travel plane perpendicular specifi inversesquar central forc time deriv
+last equal hold unit vector chang rotat orbit veloc rotat vector thus seen differ two vector equal time deriv
+describ lrl vector special case general conserv vector defin central forc howev sinc central forc produc close orbit see bertrand theorem analog vector rare simpl definit general multivalu function angl r
+hamiltonjacobi equat parabol coordin
+constanc lrl vector also deriv hamiltonjacobi equat parabol coordin defin equat
+r repres radius plane orbit
+invers coordin
+separ hamiltonjacobi equat coordin yield two equival equat
+constant motion subtract reexpress term cartesian momenta px py show equival lrl vector
+noether theorem
+connect rotat symmetri describ conserv lrl vector made quantit way noether theorem theorem use find constant motion state infinitesim variat general coordin physic system
+caus lagrangian vari first order total time deriv
+correspond conserv quantiti
+particular conserv lrl vector compon correspond variat coordin
+equal xi pi ith compon posit momentum vector r p respect usual repres kroneck delta result firstord chang lagrangian
+substitut general formula conserv quantiti yield conserv compon lrl vector
+lie transform
+noether theorem deriv conserv lrl vector eleg one drawback coordin variat xi involv posit r also momentum p equival veloc v drawback may elimin instead deriv conserv use approach pioneer sophus lie specif one may defin lie transform coordin r time scale differ power paramet figur
+transform chang total angular momentum l energi e
+preserv product el therefor eccentr e magnitud preserv may seen equat
+direct preserv well sinc semiax alter global scale transform also preserv kepler third law name semiaxi period form constant ta
+altern scale symbol formul
+unlik momentum angular momentum vector p l univers accept definit laplacerungelenz vector sever differ scale factor symbol use scientif literatur common definit given anoth common altern divid constant mk obtain dimensionless conserv eccentr vector
+v veloc vector scale vector e direct magnitud equal eccentr orbit scale version also possibl eg divid m alon
+p
+unit angular momentum vector l rare case sign lrl vector may revers ie scale common symbol lrl vector includ r f j v howev choic scale symbol lrl vector affect conserv
+altern conserv vector binorm vector b studi william rowan hamilton
+conserv point along minor semiaxi ellips lrl vector b l cross product b l figur
+vector b denot binorm sinc perpendicular l similar lrl vector binorm vector defin differ scale symbol
+two conserv vector b combin form conserv dyadic tensor w
+arbitrari scale constant repres tensor product relat vector cross product despit similar symbol written explicit compon equat read
+perpendicular anoth vector b view princip axe conserv tensor w ie scale eigenvector w perpendicular l
+sinc b perpendicular l well l l b clarif equat read explicit compon
+see also
+astrodynam orbit eccentr vector orbit element
+bertrand theorem
+binet equat
+twobodi problem
+refer
+read
+baez john mysteri gravit bodi problem
+deliseo mm firstord orbit equat american journal physic bibcodeamjphd doi
+leach pgl gp flessa generalis laplacerungelenz vector j nonlinear math phys arxivmathph bibcodejnmpl doijnmp

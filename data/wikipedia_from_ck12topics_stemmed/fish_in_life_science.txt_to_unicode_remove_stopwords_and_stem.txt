@@ -1,0 +1,124 @@
+differenti equat mathemat equat relat function deriv applic function usual repres physic quantiti deriv repres rate chang equat defin relationship two relat extrem common differenti equat play promin role mani disciplin includ engin physic econom biolog
+pure mathemat differenti equat studi sever differ perspect most concern solutionsth set function satisfi equat simplest differenti equat solvabl explicit formula howev properti solut given differenti equat may determin without find exact form
+selfcontain formula solut avail solut may numer approxim use comput theori dynam system put emphasi qualit analysi system describ differenti equat mani numer method develop determin solut given degre accuraci
+histori
+differenti equat first came exist invent calculus newton leibniz chapter work methodus fluxionum et serierum infinitarum isaac newton list three kind differenti equat
+solv exampl other use infinit seri discuss nonuniqu solut
+jacob bernoulli propos bernoulli differenti equat ordinari differenti equat form
+follow year leibniz obtain solut simplifi
+histor problem vibrat string music instrument studi jean le rond dalembert leonhard euler daniel bernoulli josephloui lagrang dalembert discov onedimension wave equat within ten year euler discov threedimension wave equat
+eulerlagrang equat develop euler lagrang connect studi tautochron problem problem determin curv weight particl fall fix point fix amount time independ start point
+lagrang solv problem sent solut euler develop lagrang method appli mechan led formul lagrangian mechan
+fourier publish work heat flow thori analytiqu de la chaleur analyt theori heat base reason newton law cool name flow heat two adjac molecul proport extrem small differ temperatur contain book fourier propos heat equat conduct diffus heat partial differenti equat taught everi student mathemat physic
+exampl
+exampl classic mechan motion bodi describ posit veloc time valu vari newton law allow given posit veloc acceler various forc act bodi one express variabl dynam differenti equat unknown posit bodi function time
+case differenti equat call equat motion may solv explicit
+exampl model real world problem use differenti equat determin veloc ball fall air consid graviti air resist ball acceler toward ground acceler due graviti minus acceler due air resist
+graviti consid constant air resist may model proport ball veloc mean ball acceler deriv veloc depend veloc veloc depend time find veloc function time involv solv differenti equat verifi valid
+main topic
+ordinari differenti equat
+ordinari differenti equat ode equat contain function one independ variabl deriv term ordinari use contrast term partial differenti equat may respect one independ variabl
+linear differenti equat solut ad multipli coeffici welldefin understood exact closedform solut obtain contrast ode lack addit solut nonlinear solv far intric one rare repres elementari function close form instead exact analyt solut ode seri integr form graphic numer method appli hand comput may approxim solut ode perhap yield use inform often suffic absenc exact analyt solut
+partial differenti equat
+partial differenti equat pde differenti equat contain unknown multivari function partial deriv contrast ordinari differenti equat deal function singl variabl deriv pdes use formul problem involv function sever variabl either solv hand use creat relev comput model
+pdes use describ wide varieti phenomena sound heat electrostat electrodynam fluid flow elast quantum mechan seem distinct physic phenomena formalis similar term pdes ordinari differenti equat often model onedimension dynam system partial differenti equat often model multidimension system pdes find generalis stochast partial differenti equat
+linear nonlinear
+ordinari partial differenti equat broad classifi linear nonlinear
+differenti equat linear unknown function deriv appear power product unknown function deriv allow nonlinear otherwis characterist properti linear equat solut form affin subspac appropri function space result much develop theori linear differenti equat homogen linear differenti equat subclass space solut linear subspac ie sum set solut multipl solut also solut coeffici unknown function deriv linear differenti equat allow known function independ variabl variabl coeffici constant one speak constant coeffici linear differenti equat
+method solv nonlinear differenti equat exact known typic depend equat particular symmetri nonlinear differenti equat exhibit complic behavior extend time interv characterist chao even fundament question exist uniqu extend solut nonlinear differenti equat wellposed initi boundari valu problem nonlinear pdes hard problem resolut special case consid signific advanc mathemat theori cf navierstok exist smooth howev differenti equat correct formul represent meaning physic process one expect solut
+linear differenti equat frequent appear approxim nonlinear equat approxim valid restrict condit exampl harmon oscil equat approxim nonlinear pendulum equat valid small amplitud oscil see
+exampl
+first group exampl let u unknown function x c known constant
+inhomogen firstord linear constant coeffici ordinari differenti equat
+homogen secondord linear ordinari differenti equat
+homogen secondord linear constant coeffici ordinari differenti equat describ harmon oscil
+inhomogen firstord nonlinear ordinari differenti equat
+secondord nonlinear due sine function ordinari differenti equat describ motion pendulum length l
+next group exampl unknown function u depend two variabl x x y
+homogen firstord linear partial differenti equat
+homogen secondord linear constant coeffici partial differenti equat ellipt type laplac equat
+thirdord nonlinear partial differenti equat kortewegd vri equat
+exist solut
+solv differenti equat like solv algebra equat solut oftentim unclear whether solut uniqu exist also notabl subject interest
+first order initi valu problem peano exist theorem give one set circumst solut exist given point xyplan defin rectangular region interior given differenti equat condit local solut problem continu solut exist interv center solut may uniqu see ordinari differenti equat result
+howev help us first order initi valu problem suppos linear initi valu problem nth order
+nonzero continu interv contain uniqu exist
+relat concept
+delay differenti equat dde equat function singl variabl usual call time deriv function certain time given term valu function earlier time
+stochast differenti equat sde equat unknown quantiti stochast process equat involv known stochast process exampl wiener process case diffus equat
+differenti algebra equat dae differenti equat compris differenti algebra term given implicit form
+connect differ equat
+theori differenti equat close relat theori differ equat coordin assum discret valu relationship involv valu unknown function function valu nearbi coordin mani method comput numer solut differenti equat studi properti differenti equat involv approxim solut differenti equat solut correspond differ equat
+applic
+studi differenti equat wide field pure appli mathemat physic engin disciplin concern properti differenti equat various type pure mathemat focus exist uniqu solut appli mathemat emphas rigor justif method approxim solut differenti equat play import role model virtual everi physic technic biolog process celesti motion bridg design interact neuron differenti equat use solv reallif problem may necessarili direct solvabl ie close form solut instead solut approxim use numer method
+mani fundament law physic chemistri formul differenti equat biolog econom differenti equat use model behavior complex system mathemat theori differenti equat first develop togeth scienc equat origin result found applic howev divers problem sometim origin quit distinct scientif field may give rise ident differenti equat whenev happen mathemat theori behind equat view unifi principl behind divers phenomena exampl consid propag light sound atmospher wave surfac pond may describ secondord partial differenti equat wave equat allow us think light sound form wave much like familiar wave water conduct heat theori develop joseph fourier govern anoth secondord partial differenti equat heat equat turn mani diffus process seem differ describ equat blackschol equat financ instanc relat heat equat
+physic
+eulerlagrang equat classic mechan
+hamilton equat classic mechan
+radioact decay nuclear physic
+newton law cool thermodynam
+wave equat
+heat equat thermodynam
+laplac equat defin harmon function
+poisson equat
+geodes equat
+navierstok equat fluid dynam
+diffus equat stochast process
+convectiondiffus equat fluid dynam
+cauchyriemann equat complex analysi
+poissonboltzmann equat molecular dynam
+shallow water equat
+univers differenti equat
+lorenz equat whose solut exhibit chaotic flow
+classic mechan
+long forc act particl known newton second law suffici describ motion particl independ relat forc act particl avail substitut newton second law obtain ordinari differenti equat call equat motion
+electrodynam
+maxwel equat set partial differenti equat togeth lorentz forc law form foundat classic electrodynam classic optic electr circuit field turn underli modern electr communic technolog maxwel equat describ electr magnet field generat alter charg current name scottish physicist mathematician jame clerk maxwel publish earli form equat
+general relat
+einstein field equat efe also known einstein equat set ten partial differenti equat albert einstein general theori relat describ fundament interact gravit result spacetim curv matter energi first publish einstein tensor equat efe equat local spacetim curvatur express einstein tensor local energi momentum within spacetim express stressenergi tensor
+quantum mechan
+quantum mechan analogu newton law schrdinger equat partial differenti equat quantum system usual atom molecul subatom particl whether free bound local simpl algebra equat general linear partial differenti equat describ timeevolut system wave function also call state function
+biolog
+verhulst equat biolog popul growth
+von bertalanffi model biolog individu growth
+replic dynam found theoret biolog
+hodgkinhuxley model neural action potenti
+predatorprey equat
+lotkavolterra equat also known predatorprey equat pair firstord nonlinear differenti equat frequent use describ dynam biolog system two speci interact one predat prey
+chemistri
+rate law rate equat chemic reaction differenti equat link reaction rate concentr pressur reactant constant paramet normal rate coeffici partial reaction order determin rate equat particular system one combin reaction rate mass balanc system
+econom
+key equat solowswan model
+blackschol pde
+malthusian growth model
+vidalewolf advertis model
+see also
+complex differenti equat
+exact differenti equat
+initi condit
+integr equat
+numer method
+picardlindelf theorem exist uniqu solut
+recurr relat also known differ equat
+refer
+read
+p abbott h neill teach calculus page
+p blanchard r l devaney g r hall differenti equat thompson
+e coddington n levinson theori ordinari differenti equat mcgrawhil
+e l inc ordinari differenti equat dover public
+w johnson treatis ordinari partial differenti equat john wiley son univers michigan histor math collect
+d polyanin v f zaitsev handbook exact solut ordinari differenti equat nd edit chapman hallcrc press boca raton isbn
+r porter elementari analysi chapter xix differenti equat
+teschl gerald ordinari differenti equat dynam system provid american mathemat societi isbn
+d zwilling handbook differenti equat rd edit academ press boston
+extern link
+lectur differenti equat mit open coursewar video
+onlin note differenti equat paul dawkin lamar univers
+differenti equat sos mathemat
+introduct model via differenti equat introduct model mean differenti equat critic remark
+mathemat assist web symbol ode tool use maxima
+exact solut ordinari differenti equat
+collect ode dae model physic system matlab model
+note diffi qs differenti equat engin introductori textbook differenti equat jiri lebl uiuc
+khan academi video playlist differenti equat topic cover first year cours differenti equat
+mathdiscuss video playlist differenti equat

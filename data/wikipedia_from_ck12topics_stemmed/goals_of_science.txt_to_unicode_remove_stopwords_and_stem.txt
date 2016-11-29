@@ -1,0 +1,98 @@
+mineralog crystallographi crystal structur uniqu arrang atom ion molecul crystallin liquid solid describ high order structur occur due intrins natur constitu form symmetr pattern
+box thought array small box infinit repeat three spatial direct unit cell smallest unit volum contain structur symmetri inform buildup macroscop structur lattic translat
+pattern locat upon point lattic array point repeat period three dimens length edg unit cell angl call lattic paramet symmetri properti crystal embodi space group
+crystal structur symmetri play role determin mani physic properti cleavag electron band structur optic transpar
+unit celledit
+crystal structur materi arrang atom within given type crystal describ term unit cell unit cell small box contain one atom arrang dimens unit cell stack threedimension space describ bulk arrang atom crystal unit cell repres term lattic paramet length cell edg ab c angl alpha beta gamma posit atom insid unit cell describ set atom posit xi yi zi measur lattic point common atom posit repres term fraction coordin relat unit cell length
+atom posit within unit cell calcul applic symmetri oper asymmetr unit asymmetr unit refer smallest possibl occup space within unit cell howev impli entireti asymmetr unit must lie within boundari unit cell symmetr transform atom posit calcul space group crystal structur usual black box oper perform comput program howev manual calcul atom posit within unit cell perform asymmetr unit applic symmetri oper describ within intern tabl crystallographi volum
+miller indicesedit
+vector atom plane crystal lattic describ threevalu miller index notat mn m n direct indic separ thus orthogon
+definit mn denot plane intercept three point multipl thereof miller indic proport invers intercept plane unit cell basi lattic vector one indic zero mean plane intersect axi ie intercept infin plane contain coordin axi translat longer contain axi miller indic determin miller indic plane integ common factor negat indic indic horizont bar orthogon coordin system cubic cell miller indic plane cartesian compon vector normal plane
+consid mn plane intersect one lattic point lattic plane distanc d adjac lattic plane relat shortest reciproc lattic vector orthogon plane formula
+plane directionsedit
+crystallograph direct geometr line link node atom ion molecul crystal likewis crystallograph plane geometr plane link node direct plane higher densiti node high densiti plane influenc behavior crystal follow
+optic properti refract index direct relat densiti period densiti fluctuat
+adsorpt reactiv physic adsorpt chemic reaction occur near surfac atom molecul phenomena thus sensit densiti node
+surfac tension condens materi mean atom ion molecul stabl surround similar speci surfac tension interfac thus vari accord densiti surfac
+microstructur defect pore crystallit tend straight grain boundari follow higher densiti plane
+cleavag typic occur preferenti parallel higher densiti plane
+plastic deform disloc glide occur preferenti parallel higher densiti plane perturb carri disloc burger vector along dens direct shift one node dens direct requir lesser distort crystal lattic
+direct plane defin symmetri crystal system monoclin rombohedr tetragon trigonalhexagon system one uniqu axi sometim call princip axi higher rotat symmetri two axe basal plane plane perpendicular princip axi crystal system triclin orthorhomb cubic crystal system axi design arbitrari princip axi
+cubic structuresedit
+special case simpl cubic crystal lattic vector orthogon equal length usual denot similar reciproc lattic common case miller indic mn mn simpli denot normalsdirect cartesian coordin cubic crystal lattic constant space d adjac mn lattic plane
+symmetri cubic crystal possibl chang place sign integ equival direct plane
+coordin angl bracket denot famili direct equival due symmetri oper negat direct
+coordin cur bracket brace denot famili plane normal equival due symmetri oper much way angl bracket denot famili direct
+facecent cubic fcc bodycent cubic bcc lattic primit lattic vector orthogon howev case miller indic convent defin relat lattic vector cubic supercel henc simpli cartesian direct
+classificationedit
+defin properti crystal inher symmetri mean certain oper crystal remain unchang crystal translat symmetri three direct symmetri element well exampl rotat crystal certain axi may result atom configur ident origin configur crystal said twofold rotat symmetri axi addit rotat symmetri like crystal may symmetri form mirror plane translat symmetri also socal compound symmetri combin translat rotationmirror symmetri full classif crystal achiev inher symmetri crystal identifi
+lattic systemsedit
+lattic system group crystal structur accord axial system use describ lattic lattic system consist set three axe particular geometr arrang seven lattic system similar quit seven crystal system six crystal famili
+simplest symmetr cubic isometr system symmetri cube exhibit four threefold rotat axe orient tetrahedr angl respect threefold axe lie along bodi diagon cube six lattic system hexagon tetragon rhombohedr often confus trigon crystal system orthorhomb monoclin triclin
+reciproc spacingedit
+space d adjac hkl lattic plane
+cubic
+tetragon
+hexagon
+rhombohedr
+orthorhomb
+monoclin
+atom coordinationedit
+consid arrang atom relat coordin number number nearest neighbor interatom distanc type bond etc possibl form general view structur altern way visual
+close packingedit
+principl involv understood consid effici way pack togeth equals sphere stack closepack atom plane three dimens exampl plane lie beneath plane b two possibl way place addit atom top layer b addit layer place direct plane would give rise follow seri
+abababab
+arrang atom crystal structur known hexagon close pack hcp
+howev three plane stagger relat fourth layer posit direct plane sequenc repeat follow sequenc aris
+abcabcabc
+type structur arrang known cubic close pack ccp
+unit cell ccp arrang atom facecent cubic fcc unit cell immedi obvious close pack layer parallel plane fcc unit cell four differ orient closepack layer
+pack effici work calcul total volum sphere divid volum cell follow
+pack effici maximum densiti possibl unit cell construct sphere one size crystallin form metal element hcp fcc bcc bodycent cubic coordin number atom hcp fcc structur atom pack factor apf number mention compar apf bcc structur
+bravai latticesedit
+crystal system combin various possibl lattic center arriv bravai lattic describ geometr arrang lattic point therebi translat symmetri crystal three dimens uniqu bravai lattic distinct one anoth translat symmetri contain crystallin materi recogn includ quasicryst fit one arrang fourteen threedimension lattic classifi crystal system shown bravai lattic sometim refer space lattic
+crystal structur consist group atom basi posit around everi lattic point group atom therefor repeat indefinit three dimens accord arrang one bravai lattic characterist rotat mirror symmetri group atom unit cell describ crystallograph point group
+point groupsedit
+crystallograph point group crystal class mathemat group compris symmetri oper leav least one point unmov leav appear crystal structur unchang symmetri oper includ
+reflect reflect structur across reflect plane
+rotat rotat structur specifi portion circl rotat axi
+invers chang sign coordin point respect center symmetri invers point
+improp rotat consist rotat axi follow invers
+rotat axe proper improp reflect plane center symmetri collect call symmetri element possibl crystal class one classifi one seven crystal system
+space groupsedit
+addit oper point group space group crystal structur contain translat symmetri oper includ
+pure translat move point along vector
+screw axe rotat point around axi translat parallel axi
+glide plane reflect point plane translat parallel plane
+distinct space group
+grain boundariesedit
+grain boundari interfac crystal differ orient meet grain boundari singlephas interfac crystal side boundari ident except orient term crystallit boundari sometim though rare use grain boundari area contain atom perturb origin lattic site disloc impur migrat lower energi grain boundari
+treat grain boundari geometr interfac singl crystal cut two part one rotat see five variabl requir defin grain boundari first two number come unit vector specifi rotat axi third number design angl rotat grain final two number specifi plane grain boundari unit vector normal plane
+grain boundari disrupt motion disloc materi reduc crystallit size common way improv strength describ hallpetch relationship sinc grain boundari defect crystal structur tend decreas electr thermal conduct materi high interfaci energi relat weak bond grain boundari often make prefer site onset corros precipit new phase solid also import mani mechan creep
+grain boundari general nanomet wide common materi crystallit larg enough grain boundari account small fraction materi howev small grain size achiev nanocrystallin solid grain boundari becom signific volum fraction materi profound effect properti diffus plastic limit small crystallit volum fraction grain boundari approach materi ceas crystallin charact thus becom amorph solid
+defect impuritiesedit
+real crystal featur defect irregular ideal arrang describ defect critic determin mani electr mechan properti real materi one atom substitut one princip atom compon within crystal structur alter electr thermal properti materi may ensu impur may also manifest spin impur certain materi research magnet impur demonstr substanti alter certain properti specif heat may affect small concentr impur exampl impur semiconduct ferromagnet alloy may lead differ properti first predict late disloc crystal lattic allow shear lower stress need perfect crystal structur
+predict structureedit
+difficulti predict stabl crystal structur base knowledg chemic composit long stumbl block way fulli comput materi design power algorithm highperform comput structur medium complex predict use approach evolutionari algorithm random sampl metadynam
+crystal structur simpl ionic solid eg nacl tabl salt long ration term paul rule first set linus paul refer mani sinc father chemic bond paul also consid natur interatom forc metal conclud half five dorbit transit metal involv bond remain nonbond dorbit respons magnet properti therefor abl correl number dorbit bond format bond length well mani physic properti substanc subsequ introduc metal orbit extra orbit necessari permit uninhibit reson valenc bond among various electron structur
+reson valenc bond theori factor determin choic one among altern crystal structur metal intermetal compound revolv around energi reson bond among interatom posit clear mode reson would make larger contribut mechan stabl other particular simpl ratio number bond number posit would except result principl special stabil associ simplest ratio bond number etc choic structur valu axial ratio determin relat bond length thus result effort atom use valenc format stabl bond simpl fraction bond number
+postul direct correl electron concentr crystal structur betaphas alloy humerotheri analyz trend melt point compress bond length function group number period tabl order establish system valenc transit element metal state treatment thus emphas increas bond strength function group number oper direct forc emphas one articl relat bond hybrid metal structur result correl electron crystallin structur summar singl paramet weight delectron per hybrid metal orbit dweight calcul fcc hcp bcc structur respect relationship delectron crystal structur thus becom appar
+polymorphismedit
+polymorph refer abil solid exist one crystallin form structur accord gibb rule phase equilibria uniqu crystallin phase depend intens variabl pressur temperatur polymorph potenti found mani crystallin materi includ polym miner metal relat allotropi refer element solid complet morpholog materi describ polymorph variabl crystal habit amorph fraction crystallograph defect polymorph differ stabil may spontan convert metast form thermodynam unstabl form stabl form particular temperatur also exhibit differ melt point solubl xray diffract pattern
+one good exampl quartz form silicon dioxid sio vast major silic si atom show tetrahedr coordin oxygen one crystallin form involv tetrahedr sio unit link togeth share vertic differ arrang differ miner tetrahedra show differ degre network polymer exampl occur singl join togeth pair larger finit cluster includ ring chain doubl chain sheet threedimension framework miner classifi group base structur thermodynam stabl crystallin form polymorph crystallin quartz edg sio tetrahedra share other yield net chemic formula silica sio
+anoth exampl element tin sn malleabl near ambient temperatur brittl cool chang mechan properti due exist two major allotrop tin two allotrop encount normal pressur temperatur tin tin common known gray tin white tin respect two allotrop exist temperatur c pressur sever gpa white tin metal stabl crystallin form room temperatur c tin exist gray form diamond cubic crystal structur similar diamond silicon germanium gray tin metal properti dullgray powderi materi use special semiconductor applic although transform temperatur tin nomin c impur eg al zn etc lower transit temperatur well c upon addit sb bi transform may occur
+physic propertiesedit
+twenti crystal class piezoelectr crystal belong one class point group display piezoelectr piezoelectr class lack centr symmetri materi develop dielectr polar electr field appli substanc natur charg separ even absenc field call polar materi whether materi polar determin sole crystal structur point group polar polar crystal pyroelectr polar crystal class sometim refer pyroelectr class
+crystal structur notabl perovskit structur exhibit ferroelectr behavior analog ferromagnet absenc electr field product ferroelectr crystal exhibit polar upon applic electr field suffici magnitud crystal becom perman polar polar revers suffici larg countercharg way ferromagnet revers howev although call ferroelectr effect due crystal structur presenc ferrous metal
+see alsoedit
+referencesedit
+extern linksedit
+intern structur crystal crystallographi beginn
+appendix manual atom softwar xaf
+intro miner crystal class system
+introduct crystallographi miner crystal system
+crystal plane miller indic
+interact d crystal model
+specif crystal d model
+crystallographi open databas crystal structur
+crystal lattic structur crystal structur web site

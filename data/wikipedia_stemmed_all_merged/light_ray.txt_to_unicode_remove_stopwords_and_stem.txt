@@ -1,0 +1,30 @@
+optic ray ideal model light obtain choos line perpendicular wavefront actual light point direct energi flow ray use model propag light optic system divid real light field discret ray comput propag system techniqu ray trace allow even complex optic system analyz mathemat simul comput ray trace use approxim solut maxwel equat valid long light wave propag around object whose dimens much greater light wavelength ray theori describ phenomena interfer diffract requir wave theori involv relat phase ray
+definitionedit
+light ray line straight curv perpendicular light wavefront tangent collinear wave vector light ray homogen media straight bend interfac two dissimilar media may curv medium refract index chang geometr optic describ ray propag optic system object imag treat collect independ point sourc produc spheric wavefront correspond outward ray ray object point mathemat propag locat correspond point imag
+slight rigor definit light ray follow fermat principl state path taken two point ray light path travers least time
+special raysedit
+mani special ray use optic model analyz optic system defin describ group type system use model
+interact surfacesedit
+incid ray ray light strike surfac angl ray perpendicular normal surfac angl incid
+reflect ray correspond given incid ray ray repres light reflect surfac angl surfac normal reflect ray known angl reflect law reflect say specular nonscatt surfac angl reflect alway equal angl incid
+refract ray transmit ray correspond given incid ray repres light transmit surfac angl ray normal known angl refract given snell law conserv energi requir power incid ray must equal sum power refract ray power reflect ray power absorb surfac
+materi birefring refract ray may split ordinari extraordinari ray experi differ index refract pass birefring materi
+optic systemsedit
+meridion ray tangenti ray ray confin plane contain system optic axi object point ray origin
+skew ray ray propag plane contain object point optic axi ray cross optic axi anywher parallel
+margin ray sometim known ray margin axial ray optic system meridion ray start point object cross optic axi touch edg apertur stop system ray use cross optic axi locat imag form distanc margin ray optic axi locat entranc pupil exit pupil defin size pupil sinc pupil imag apertur stop
+princip ray chief ray sometim known b ray optic system meridion ray start edg object pass center apertur stop ray cross optic axi locat pupil chief ray equival ray pinhol camera distanc chief ray optic axi imag locat defin size imag margin chief ray togeth defin lagrang invari character throughput etendu optic system author defin princip ray object point princip ray start point edg object may call margin princip ray
+sagitt ray transvers ray offaxi object point ray propag plane perpendicular meridion plane contain princip ray sagitt ray intersect pupil along line perpendicular meridion plane ray object point pass optic axi axi direct defin z axi meridion plane yz plane sagitt ray intersect pupil yp princip ray sagitt meridion sagitt ray skew ray
+paraxi ray ray make small angl optic axi system lie close axi throughout system ray model reason well use paraxi approxim discuss ray trace definit often revers paraxi ray ray model use paraxi approxim necessarili ray remain close axi
+finit ray real ray ray trace without make paraxi approxim
+parabas ray ray propag close defin base ray rather optic axi appropri paraxi model system lack symmetri optic axi comput model parabas ray real ray ray treat without make paraxi approxim parabas ray optic axi sometim use calcul firstord properti optic system
+fiber opticsedit
+meridion ray ray pass axi optic fiber
+skew ray ray travel nonplanar zigzag path never cross axi optic fiber
+guid ray bound ray trap ray ray multimod optic fiber confin core step index fiber light enter fiber guid make angl fiber axi less fiber accept angl
+leaki ray tunnel ray ray optic fiber geometr optic predict would total reflect boundari core clad suffer loss due curv core boundari
+see alsoedit
+paraxi approxim
+pencil beam
+ray transfer matrix analysi
+referencesedit

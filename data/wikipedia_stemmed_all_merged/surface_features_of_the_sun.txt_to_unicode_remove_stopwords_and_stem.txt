@@ -1,0 +1,53 @@
+imag spectroscopi also hyperspectr spectral imag chemic imag similar color photographi pixel acquir mani band light intens data spectrum instead three band rgb color model precis simultan acquisit spatial coregist imag mani spectral contigu band
+spectral imag contain imag plane spectral data cube other better thought full spectra everi locat imag exampl solar physicist use spectroheliograph make imag sun built scan slit spectrograph studi behavior surfac featur sun spectroheliogram may spectral resolut use measur local motion via doppler shift even magnet field via zeeman split hanl effect locat imag plane multispectr imag collect opportun rover contrast four wavelength band henc littl color imag
+scientif use measur done use intern recogn system unit
+one applic spectral geophys imag allow quantit qualit character surfac atmospher use radiometr measur measur use unambigu direct indirect identif surfac materi atmospher trace gase measur relat concentr subsequ assign proport contribut mix pixel signal eg spectral unmix problem deriv spatial distribut map problem final studi time multitempor analysi moon mineralog mapper chandrayaan geophys imag spectromet
+background
+sir isaac newton demonstr white light could split compon colour subsequ histori spectroscopi led precis measur provid empir foundat atom molecular physic born wolf signific achiev imag spectroscopi attribut airborn instrument particular aris earli goetz et al vane et al howev first imag spectromet launch space nasa moderateresolut imag spectroradiomet modi
+terminolog definit evolv time one time spectral band suffic justifi term imag spectromet present term seldom defin total minimum number spectral band rather contigu redund statement spectral band
+term hyperspectr imag sometim use interchang imag spectroscopi due heavi use militari relat applic civil world establish slight prefer use term imag spectroscopi
+unmix
+hyperspectr data often use determin materi present scene materi interest could includ roadway veget specif target ie pollut hazard materi etc trivial pixel hyperspectr imag could compar materi databas determin type materi make pixel howev mani hyperspectr imag platform low resolut m per pixel caus pixel mixtur sever materi process unmix one mix pixel call hyperspectr imag unmix simpli hyperspectr unmix
+model
+solut hyperspectr unmix revers mix process general two model mix assum linear nonlinear linear mix model ground flat incid sunlight ground caus materi radiat amount incid energi back sensor pixel model linear sum radiat energi curv materi make pixel therefor materi contribut sensor observ posit linear fashion addit conserv energi constraint often observ therebi forc weight linear mixtur sum one addit posit model describ mathemat follow
+repres pixel observ sensor matrix materi reflect signatur signatur column matrix proport materi present observ pixel type model also refer simplex
+satisfi two constraint abund nonneg constraint anc element x posit abund sumtoon constraint asc element x must sum one
+nonlinear mix result multipl scatter often due nonflat surfac build veget
+unmix endmemb detect algorithm
+mani algorithm unmix hyperspectr data strength weak mani algorithm assum pure pixel pixel contain one materi present scene algorithm perform unmix list
+pixel puriti index ppi work project pixel onto one vector set random vector span reflect space pixel receiv score repres extremum project pixel highest score deem spectral pure
+nfindr
+gift wrap algorithm
+independ compon analysi endmemb extract algorithm icaeea work assum pure pixel occur independ mix pixel assum pure pixel present
+vertex compon analysi vca work fact affin transform simplex anoth simplex help find hidden fold vertici simplex assum pure pixel present
+princip compon analysi pca could also use determin endmemb project princip axe could permit endmemb select smithjohnson et adam bateson et curtiss
+multi endmemb spatial mixtur analysi mesma base sma algorithm
+spectral phasor analysi spa base fourier transform spectra plot d plot
+nonlinear unmix algorithm also exist support vector machin svm analyt neural network ann
+probabilist method also attempt unmix pixel mont carlo unmix mcu algorithm
+abund map
+fundament materi scene determin often use construct abund map materi display fraction amount materi present pixel often linear program done observ anc asc
+sensor
+modi board eo terra aqua platform
+meri board envisat
+hyperion board earth observ
+sever commerci manufactur laboratori ground base aerial industri imag spectrograph
+see also
+remot sens
+hyperspectr imag
+full spectral imag
+list earth observ satellit
+chemic imag
+imag spectromet
+infrar microscopi
+phasor approach fluoresc lifetim spectral imag
+refer
+goetz afh vane g solomon je rock bn imag spectrometri earth remot sens scienc
+schaepman m spectrodirect imag pixel process inaugur address wageningen univers wageningen nl
+vane g chrisp m emmark h macenka solomon j airborn visibl infrar imag spectromet aviri advanc tool earth remot sens european space agenc special public esa sp
+extern link
+imag spectroscopi usg httpspeclabcrusgsgovaboutimsphtml
+link resourc oksi httpwwwtechexpocomwwwoptoknowledgeisresourceshtml
+special interest group imag spectroscopi earsel httpwwwopdlrdedaissigissigishtml
+applic spectroscop chemic imag research httpwwwimperialacukvibrationalspectroscopyandchemicalimagingresearch
+analysi tool spectral unmix httpwwwspechroncom

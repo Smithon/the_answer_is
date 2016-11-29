@@ -1,0 +1,327 @@
+list sensor sort sensor type
+acoust sound vibrationedit
+geophon
+hydrophon
+lace sensor guitar pickup
+microphon
+automot transportationedit
+airfuel ratio meter
+blind spot monitor
+crankshaft posit sensor
+curb feeler use warn driver curb
+defect detector use railroad detect axl signal problem pass train
+engin coolant temperatur sensor ect sensor use measur engin temperatur
+hall effect sensor use time speed wheel shaft
+map sensor manifold absolut pressur use regul fuel meter
+mass flow sensor mass airflow maf sensor use tell ecu mass air enter engin
+oxygen sensor use monitor amount oxygen exhaust
+park sensor use alert driver unseen obstacl park maneuv
+radar gun use detect speed object
+speedomet use measur instantan speed land vehicl
+speed sensor use detect speed object
+throttl posit sensor use monitor posit throttl intern combust engin
+tirepressur monitor sensor use monitor air pressur insid tire
+torqu sensor torqu transduc torquemet measur torqu twist forc rotat system
+transmiss fluid temperatur sensor use measur temperatur transmiss fluid
+turbin speed sensor tss input speed sensor iss use measur rotat speed input shaft torqu convert
+variabl reluct sensor use measur posit speed move metal compon
+vehicl speed sensor vss use measur speed vehicl
+water sensor waterinfuel sensor use indic presenc water fuel
+wheel speed sensor use read speed vehicl wheel rotat
+chemicaledit
+breathalyz
+carbon dioxid sensor
+carbon monoxid detector
+catalyt bead sensor
+chemic fieldeffect transistor
+electrochem gas sensor
+electron nose
+electrolyteinsulatorsemiconductor sensor
+fluoresc chlorid sensor
+holograph sensor
+hydrocarbon dew point analyz
+hydrogen sensor
+hydrogen sulfid sensor
+infrar point sensor
+ionselect electrod
+nondispers infrar sensor
+microwav chemistri sensor
+nitrogen oxid sensor
+olfactomet
+optod
+oxygen sensor
+ozon monitor
+pellistor
+ph glass electrod
+potentiometr sensor
+redox electrod
+smoke detector
+zinc oxid nanorod sensor
+electr current electr potenti magnet radioedit
+current sensor
+dali detector
+electroscop
+electron multipli
+faraday cup
+galvanomet
+hall effect sensor
+hall probe
+magnet anomali detector
+magnetomet
+mem magnet field sensor
+metal detector
+planar hall sensor
+radio direct finder
+voltag detector
+flow fluid velocityedit
+air flow meter
+anemomet
+flow sensor
+gas meter
+mass flow sensor
+water meter
+ioniz radiat subatom particlesedit
+cloud chamber
+geiger counter
+neutron detect
+navig instrumentsedit
+air speed indic
+altimet
+attitud indic
+depth gaug
+fluxgat compass
+gyroscop
+inerti navig system
+inerti refer unit
+magnet compass
+mhd sensor
+ring laser gyroscop
+turn coordin
+tialinx sensor
+variomet
+vibrat structur gyroscop
+yaw rate sensor
+posit angl displac distanc speed accelerationedit
+auxanomet
+capacit displac sensor
+capacit sens
+free fall sensor
+gravimet
+gyroscop sensor
+impact sensor
+inclinomet
+integr circuit piezoelectr sensor
+laser rangefind
+laser surfac velocimet
+lidar
+linear encod
+linear variabl differenti transform lvdt
+liquid capacit inclinomet
+odomet
+photoelectr sensor
+piezocapact sensor
+piezoelectr acceleromet
+posit sensor
+rate sensor
+rotari encod
+rotari variabl differenti transform
+selsyn
+shock detector
+shock data logger
+stretch sensor
+tilt sensor
+tachomet
+ultrason thick gaug
+variabl reluct sensor
+veloc receiv
+optic light imag photonedit
+chargecoupl devic
+cmos sensor
+colorimet
+contact imag sensor
+electroopt sensor
+flame detector
+infrar sensor
+kinet induct detector
+led light sensor
+lightaddress potentiometr sensor
+nichol radiomet
+fiber optic sensor
+optic posit sensor
+photodetector
+photodiod
+photomultipli tube
+phototransistor
+photoelectr sensor
+photoion detector
+photomultipli
+photoresistor
+photoswitch
+phototub
+scintillomet
+shackhartmann
+singlephoton avalanch diod
+superconduct nanowir singlephoton detector
+transit edg sensor
+visibl light photon counter
+wavefront sensor
+pressureedit
+barograph
+baromet
+boost gaug
+bourdon gaug
+hot filament ionize gaug
+ionize gaug
+mcleod gaug
+oscil utub
+perman downhol gaug
+piezomet
+pirani gaug
+pressur sensor
+pressur gaug
+tactil sensor
+time pressur gaug
+forc densiti leveledit
+bhangmet
+hydromet
+forc gaug forc sensor
+level sensor
+load cell
+magnet level gaug
+nuclear densiti gaug
+piezocapact pressur sensor
+piezoelectr sensor
+strain gaug
+torqu sensor
+viscomet
+thermal heat temperatureedit
+bolomet
+bimetal strip
+calorimet
+exhaust gas temperatur gaug
+flame detect
+gardon gaug
+golay cell
+heat flux sensor
+infrar thermomet
+microbolomet
+microwav radiomet
+net radiomet
+quartz thermomet
+resist temperatur detector
+resist thermomet
+silicon bandgap temperatur sensor
+special sensor microwaveimag
+temperatur gaug
+thermistor
+thermocoupl
+thermomet
+pyromet
+proxim presenceedit
+alarm sensor
+doppler radar
+motion detector
+occup sensor
+proxim sensor
+passiv infrar sensor
+reed switch
+stud finder
+triangul sensor
+touch switch
+wire glove
+sensor technologyedit
+activ pixel sensor
+backillumin sensor
+biochip
+biosensor
+capacit probe
+capacit sensor
+catadioptr sensor
+carbon past electrod
+digit sensor
+displac receiv
+electromechan film
+electroopt sensor
+fabryprot interferomet
+fisheri acoust
+imag sensor
+imag sensor format
+induct sensor
+intellig sensor
+labonachip
+leaf sensor
+machin vision
+microelectromechan system
+photoelast
+quantum sensor
+radar
+groundpenetr radar
+stretch sensor
+synthet apertur radar
+radar tracker
+sensor array
+sensor fusion
+sensor grid
+sensor node
+soft sensor
+sonar
+stare array
+transduc
+ultrason sensor
+video sensor
+visual sensor network
+wheatston bridg
+wireless sensor network
+sensor sensor relat properti conceptsedit
+actigraphi
+analog imag process
+atom forc microscopi
+atom gravit wave interferometr sensor
+altitud control spacecrafthorizon sensor earth sensor sun sensor
+catadioptr sensor
+chemoreceptor
+compress sens
+cryogen particl detector
+dew warn
+diffus tensor imag
+digit holographi
+electron tongu
+fine guidanc sensor
+flat panel detector
+function magnet reson imag
+glass break detector
+heartbeat sensor
+hyperspectr sensor
+iri biosensor interferometr reflect imag sensor
+laser beam profil
+littor airborn sensorhyperspectr
+lorro
+millimet wave scanner
+magnet reson imag
+moir deflectometri
+molecular sensor
+nanosensor
+nanotetherbal sensor
+omnidirect camera
+organolept sensor
+optic coher tomographi
+phase unwrap techniqu
+polygraph truth detect
+positron emiss tomographi
+push broom scanner
+quantize signal process
+rang imag
+scan squid microscop
+singlephoton emiss comput tomographi spect
+smartdust
+squid superconduct quantum interfer devic
+ssi special sensors electron scintil thermal plasma analysi packag
+ssmis special sensor microwav imag sounder
+structuredlight d scanner
+sun sensor attitud control spacecraft
+superconduct nanowir singlephoton detector
+thinfilm thick monitor
+timeofflight camera
+tridar triangul lidar autom rendezv dock
+unattend ground sensor
+referencesedit

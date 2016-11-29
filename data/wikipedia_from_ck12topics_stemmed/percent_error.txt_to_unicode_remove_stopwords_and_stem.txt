@@ -1,0 +1,33 @@
+approxim error data discrep exact valu approxim approxim error occur
+measur data precis due instrument eg accur read piec paper cm sinc ruler use decim round cm
+approxim use instead real data eg instead
+mathemat field numer analysi numer stabil algorithm numer analysi indic error propag algorithm
+formal definit
+one common distinguish relat error absolut error
+given valu v approxim vapprox absolut error
+vertic bar denot absolut valu relat error
+percent error
+word absolut error magnitud differ exact valu approxim relat error absolut error divid magnitud exact valu percent error relat error express term per
+general
+definit extend case ndimension vector replac absolut valu nnorm
+exampl
+exampl exact valu approxim absolut error relat error anoth exampl would measur beaker read ml correct read would ml mean percent error would
+use relat error
+relat error often use compar approxim number wide differ size exampl approxim number absolut error applic much wors approxim number absolut error first case relat error second
+two featur relat error kept mind first relat error undefin true valu zero appear denomin see second relat error make sens measur ratio scale ie scale true meaning zero otherwis would sensit measur unit exampl absolut error temperatur measur given celsius true valu c relat error percent error case temperatur given kelvin absolut error true valu k give relat error percent error celsius temperatur measur interv scale wherea kelvin scale true zero ratio scale
+instrument
+indic instrument accuraci guarante certain percentag fullscal read limit deviat specifi valu known limit error guarante error
+see also
+accept experiment valu
+relat differ
+uncertainti
+experiment uncertainti analysi
+propag uncertainti
+error residu statist
+roundoff error
+quantize error
+measur uncertainti
+measur error
+refer
+extern link
+weisstein eric w percentag error mathworld

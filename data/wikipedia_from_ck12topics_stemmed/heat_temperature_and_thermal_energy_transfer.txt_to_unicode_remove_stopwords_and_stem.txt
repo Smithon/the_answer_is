@@ -1,0 +1,151 @@
+heat transftutrutyuf exchang thermal energi physic system depend temperatur pressur dissip heat fundament mode heat transfer conduct diffus convect radiat
+heat transfer alway occur froytkyuym region high temperatur anoth region lower temperatur heat transfer chang intern energi system involv accord first law thermodynam second law thermodynam defin concept thermodynam entropi measur heat transfer
+thermal equilibrium reach involv bodi surround reach temperatur thermal expans tendenc matter chang volum respons chang temperatur
+overview
+heat defin physic transfer thermal energi across welldefin boundari around thermodynam system thermodynam free energi amount work thermodynam system perform enthalpi thermodynam potenti design letter h sum intern energi system u plus product pressur p volum v joul unit quantifi energi work amount heat
+heat transfer process function path function oppos function state therefor amount heat transfer thermodynam process chang state system depend process occur net differ initi final state process
+thermodynam mechan heat transfer calcul heat transfer coeffici proport heat flux thermodynam drive forc flow heat heat flux quantit vectori represent heat flow surfac
+engin context term heat taken synonym thermal energi usag origin histor interpret heat fluid calor transfer various caus also common languag laymen everyday life
+transport equat thermal energi fourier law mechan momentum newton law fluid mass transfer fick law diffus similar analog among three transport process develop facilit predict convers one other
+thermal engin concern generat use convers exchang heat transfer heat transfer involv almost everi sector economi heat transfer classifi various mechan thermal conduct thermal convect thermal radiat transfer energi phase chang
+mechan
+fundament mode heat transfer
+advect
+advect transport mechan fluid substanc conserv properti one locat anoth depend motion momentum
+conduct diffus
+transfer energi object physic contact thermal conduct properti materi conduct heat evalu primarili term fourier law heat conduct
+convect
+transfer energi object environ due fluid motion averag temperatur refer evalu properti relat convect heat transfer
+radiat
+transfer energi movement charg particl within atom convert electromagnet radiat
+advect
+transfer matter energyinclud thermal energyi move physic transfer hot cold object one place anoth simpl place hot water bottl heat bed movement iceberg chang ocean current practic exampl thermal hydraul describ formula
+q heat flux wm densiti kgm heat capac constant pressur jkgk chang temperatur k veloc ms
+conduct
+microscop scale heat conduct occur hot rapid move vibrat atom molecul interact neighbor atom molecul transfer energi heat neighbor particl word heat transfer conduct adjac atom vibrat one anoth electron move one atom anoth conduct signific mean heat transfer within solid solid object thermal contact fluidsespeci gasesar less conduct thermal contact conduct studi heat conduct solid bodi contact
+steadi state conduct see fourier law form conduct happen temperatur differ drive conduct constant equilibr time spatial distribut temperatur conduct object chang steadi state conduct amount heat enter section equal amount heat come
+transient conduct see heat equat occur temperatur within object chang function time analysi transient system complex often call applic approxim theori numer analysi comput
+convect
+flow fluid may forc extern process sometim gravit field buoyanc forc caus thermal energi expand fluid exampl fire plume thus influenc transfer latter process often call natur convect convect process also move heat part diffus well anoth form convect forc convect case fluid forc flow use pump fan mechan mean
+convect heat transfer convect transfer heat one place anoth movement fluid process essenti transfer heat via mass transfer bulk motion fluid enhanc heat transfer mani physic situat exampl solid surfac fluid convect usual domin form heat transfer liquid gase although sometim discuss third method heat transfer convect usual use describ combin effect heat conduct within fluid diffus heat transfer bulk fluid flow stream process transport fluid stream known advect pure advect term general associ mass transport fluid advect pebbl river case heat transfer fluid transport advect fluid alway also accompani transport via heat diffus also known heat conduct process heat convect understood refer sum heat transport advect diffusionconduct
+free natur convect occur bulk fluid motion stream current caus buoyanc forc result densiti variat due variat temperatur fluid forc convect term use stream current fluid induc extern meanssuch fan stirrer pumpscreat artifici induc convect current
+convectioncool
+convect cool sometim describ newton law cool
+howev definit valid newton law cool requir rate heat loss convect linear function proport temperatur differ drive heat transfer convect cool sometim case general convect linear depend temperatur gradient case strong nonlinear case newton law appli
+convect vs conduct
+bodi fluid heat underneath contain conduct convect consid compet domin heat conduct great fluid move convect heat conduct fast downward movement stop due buoyanc fluid move convect cool conduct fast drive buoyanc diminish hand heat conduct low larg temperatur gradient may form convect might strong
+rayleigh number measur determin relat strength conduct convect
+g acceler due graviti
+densiti densiti differ lower upper end
+dynam viscos
+thermal diffus
+volum thermal expans sometim denot elsewher
+temperatur
+kinemat viscos
+l characterist length
+rayleigh number understood ratio rate heat transfer convect rate heat transfer conduct equival ratio correspond timescal ie conduct timescal divid convect timescal numer factor seen follow calcul numer factor depend geometri system
+buoyanc forc drive convect rough correspond pressur rough steadi state cancel shear stress due viscos therefor rough equal v typic fluid veloc due convect order timescal conduct timescal hand order
+convect occur rayleigh number
+radiat
+thermal radiat occur vacuum transpar medium solid fluid transfer energi mean photon electromagnet wave govern law earth radiat balanc depend incom outgo thermal radiat earth energi budget anthropogen perturb climat system respons posit radiat forc reduc net longwav radiat loss space
+thermal radiat energi emit matter electromagnet wave due pool thermal energi matter temperatur absolut zero thermal radiat propag without presenc matter vacuum space
+thermal radiat direct result random movement atom molecul matter sinc atom molecul compos charg particl proton electron movement result emiss electromagnet radiat carri energi away surfac
+stefanboltzmann equat describ rate transfer radiant energi follow object vacuum
+radiat transfer two object equat follow
+q heat flux emiss uniti black bodi stefanboltzmann constant absolut temperatur kelvin rankin radiat typic import hot object object larg temperatur differ
+radiat sun solar radiat harvest heat power unlik conduct convect form heat transfer thermal radiat concentr small spot use reflect mirror exploit concentr solar power generat exampl sunlight reflect mirror heat ps solar power tower day heat water c f
+phase transit
+phase transit phase chang take place thermodynam system one phase state matter anoth one heat transfer phase chang exampl melt ice boil water mason equat explain growth water droplet base effect heat transport evapor condens
+type phase transit occur four fundament state matter includ
+solid deposit freez solid solid transform
+gas boilingevapor recombinationdeion sublim
+liquid condens meltingfus
+plasma ionize
+boil
+boil point substanc temperatur vapor pressur liquid equal pressur surround liquid liquid evapor result abrupt chang vapor volum
+satur temperatur mean boil point satur temperatur temperatur correspond satur pressur liquid boil vapor phase liquid said satur thermal energi addit thermal energi result phase transit
+standard atmospher pressur low temperatur boil occur heat transfer rate control usual singlephas mechan surfac temperatur increas local boil occur vapor bubbl nucleat grow surround cooler fluid collaps subcool nucleat boil effici heat transfer mechan high bubbl generat rate bubbl begin interfer heat flux longer increas rapid surfac temperatur departur nucleat boil dnb
+similar standard atmospher pressur high temperatur hydrodynamicallyquiet regim film boil reach heat flux across stabl vapor layer low rise slowli temperatur contact fluid surfac may seen probabl lead extrem rapid nucleat fresh vapor layer spontan nucleat higher temperatur still maximum heat flux reach critic heat flux chf
+leidenfrost effect demonstr nucleat boil slow heat transfer due gas bubbl heater surfac mention gasphas thermal conduct much lower liquidphas thermal conduct outcom kind gas thermal barrier
+condens
+condens occur vapor cool chang phase liquid condens latent heat vapor must releas amount heat absorb vapor fluid pressur
+sever type condens
+homogen condens format fog
+condens direct contact subcool liquid
+condens direct contact cool wall heat exchang common mode use industri
+filmwis condens liquid film form subcool surfac usual occur liquid wet surfac
+dropwis condens liquid drop form subcool surfac usual occur liquid wet surfac
+dropwis condens difficult sustain reliabl therefor industri equip normal design oper filmwis condens mode
+melt
+melt physic process result phase transit substanc solid liquid intern energi substanc increas typic applic heat pressur result rise temperatur melt point order ionic molecular entiti solid break less order state solid liquefi object melt complet molten substanc molten state general reduc viscos elev temperatur except maxim element sulfur whose viscos increas point due polymer decreas higher temperatur molten state
+model approach
+heat transfer model follow way
+climat model
+climat model studi radiant heat transfer use quantit method simul interact atmospher ocean land surfac ice
+heat equat
+heat equat import partial differenti equat describ distribut heat variat temperatur given region time case exact solut equat avail case equat must solv numer use comput method
+lump system analysi
+lump system analysi often reduc complex equat one firstord linear differenti equat case heat cool describ simpl exponenti solut often refer newton law cool
+system analysi lump capacit model common approxim transient conduct may use whenev heat conduct within object much faster heat conduct across boundari object method approxim reduc one aspect transient conduct systemthat within objectto equival steadi state system method assum temperatur within object complet uniform although valu may chang time
+method ratio conduct heat resist within object convect heat transfer resist across object boundari known biot number calcul small biot number approxim spatial uniform temperatur within object use presum heat transfer object time uniform distribut due lower resist compar resist heat enter object
+engin
+heat transfer broad applic function numer devic system heattransf principl may use preserv increas decreas temperatur wide varieti circumst heat transfer method use numer disciplin automot engin thermal manag electron devic system climat control insul materi process power station engin
+insul radianc resist
+thermal insul materi specif design reduc flow heat limit conduct convect thermal resist heat properti measur object materi resist heat flow heat per time unit thermal resist temperatur differ
+radianc spectral radianc measur quantiti radiat pass emit radiant barrier materi reflect radiat therefor reduc flow heat radiat sourc good insul necessarili good radiant barrier vice versa metal instanc excel reflector poor insul
+effect radiant barrier indic reflect fraction radiat reflect materi high reflect given wavelength low emiss wavelength vice versa specif wavelength reflect emiss ideal radiant barrier would reflect would therefor reflect percent incom radiat vacuum flask dewar silver approach ideal vacuum space satellit use multilay insul consist mani layer alumin shini mylar great reduc radiat heat transfer control satellit temperatur
+devic
+heat engin system perform convers heat thermal energi mechan energi use mechan work
+thermocoupl temperaturemeasur devic wide use type temperatur sensor measur control also use convert heat electr power
+thermoelectr cooler solid state electron devic pump transfer heat one side devic electr current pass base peltier effect
+thermal diod thermal rectifi devic caus heat flow preferenti one direct
+heat exchang
+heat exchang use effici heat transfer dissip heat heat exchang wide use refriger air condit space heat power generat chemic process one common exampl heat exchang car radiat hot coolant fluid cool flow air radiat surfac
+common type heat exchang flow includ parallel flow counter flow cross flow parallel flow fluid move direct transfer heat counter flow fluid move opposit direct cross flow fluid move right angl common construct heat exchang includ shell tube doubl pipe extrud fin pipe spiral fin pipe utub stack plate
+heat sink compon transfer heat generat within solid materi fluid medium air liquid exampl heat sink heat exchang use refriger air condit system radiat car heat pipe anoth heattransf devic combin thermal conduct phase transit effici transfer heat two solid interfac
+exampl
+architectur
+effici energi use goal reduc amount energi requir heat cool architectur condens air current caus cosmet structur damag energi audit help assess implement recommend correct procedur instanc insul improv air seal structur leak addit energyeffici window door
+smart meter devic record electr energi consumpt interv
+thermal transmitt rate transfer heat structur divid differ temperatur across structur express watt per squar meter per kelvin wmk wellinsul part build low thermal transmitt wherea poorlyinsul part build high thermal transmitt
+thermostat devic monitor control temperatur
+climat engin
+climat engin consist carbon dioxid remov solar radiat manag sinc amount carbon dioxid determin radiat balanc earth atmospher carbon dioxid remov techniqu appli reduc radiat forc solar radiat manag attempt absorb less solar radiat offset effect greenhous gase
+greenhous effect
+greenhous effect process thermal radiat planetari surfac absorb atmospher greenhous gase reradi direct sinc part reradi back toward surfac lower atmospher result elev averag surfac temperatur would absenc gase
+heat transfer human bodi
+principl heat transfer engin system appli human bodi order determin bodi transfer heat heat produc bodi continu metabol nutrient provid energi system bodi human bodi must maintain consist intern temperatur order maintain healthi bodili function therefor excess heat must dissip bodi keep overh person engag elev level physic activ bodi requir addit fuel increas metabol rate rate heat product bodi must use addit method remov addit heat produc order keep intern temperatur healthi level
+heat transfer convect driven movement fluid surfac bodi convect fluid either liquid gas heat transfer outer surfac bodi convect mechan depend surfac area bodi veloc air temperatur gradient surfac skin ambient air normal temperatur bodi approxim c heat transfer occur readili temperatur surround signific less normal bodi temperatur concept explain person feel cold enough cover worn expos cold environ cloth consid insul provid thermal resist heat flow cover portion bodi thermal resist caus temperatur surfac cloth less temperatur surfac skin smaller temperatur gradient surfac temperatur ambient temperatur caus lower rate heat transfer skin cover
+order ensur one portion bodi signific hotter anoth portion heat must distribut even bodili tissu blood flow blood vessel act convect fluid help prevent buildup excess heat insid tissu bodi flow blood vessel model pipe flow engin system heat carri blood determin temperatur surround tissu diamet blood vessel thick fluid veloc flow heat transfer coeffici blood veloc blood vessel diamet fluid thick relat reynold number dimensionless number use fluid mechan character flow fluid
+latent heat loss also known evapor heat loss account larg fraction heat loss bodi core temperatur bodi increas bodi trigger sweat gland skin bring addit moistur surfac skin liquid transform vapor remov heat surfac bodi rate evapor heat loss direct relat vapor pressur skin surfac amount moistur present skin therefor maximum heat transfer occur skin complet wet bodi continu lose water evapor signific amount heat loss occur period increas physic activ
+cool techniqu
+evapor cool
+evapor cool happen water vapor ad surround air energi need evapor water taken air form sensibl heat convert latent heat air remain constant enthalpi latent heat describ amount heat need evapor liquid heat come liquid surround gas surfac greater differ two temperatur greater evapor cool effect temperatur net evapor water air occur thus cool effect
+laser cool
+quantum physic laser cool use achiev temperatur near absolut zero c f atom molecular sampl observ uniqu quantum effect occur heat level
+doppler cool common method laser cool
+sympathet cool process particl one type cool particl anoth type typic atom ion direct lasercool use cool nearbi ion atom techniqu allow cool ion atom cannot laser cool direct
+magnet cool
+magnet evapor cool process lower temperatur group atom precool method laser cool magnet refriger cool k make use magnetocalor effect
+radiat cool
+radiat cool process bodi lose heat radiat outgo energi import effect earth energi budget case earthatmospher system refer process longwav infrar radiat emit balanc absorpt shortwav visibl energi sun convect transport heat evapor transport latent heat remov heat surfac redistribut atmospher
+thermal energi storag
+thermal energi storag refer technolog use collect store energi later use employ balanc energi demand day nighttim thermal reservoir may maintain temperatur hotter colder ambient environ applic includ later use space heat domest process hot water generat electr
+see also
+combin forc natur convect
+heat capac
+heat transfer physic
+stefanboltzmann law
+thermal contact conduct
+thermal physic
+thermal resist electron
+thermal scienc
+heat transfer enhanc
+refer
+extern link
+thermalfluidspedia onlin thermal fluid encyclopedia
+hyperphys articl heat transfer overview
+interseason heat transfer practic exampl heat transfer use heat build without burn fossil fuel
+aspect heat transfer cambridg univers
+thermalfluid central
+energyd interact heat transfer simul everyon

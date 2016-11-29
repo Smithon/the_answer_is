@@ -1,0 +1,60 @@
+artifici intellig strip stanford research institut problem solver autom planner develop richard fike nil nilsson sri intern name later use refer formal languag input planner languag base languag express autom plan problem instanc use today languag common known action languag articl describ languag planner
+definit
+strip instanc compos
+initi state
+specif goal state situat planner tri reach
+set action action follow includ
+precondit must establish action perform
+postcondit establish action perform
+mathemat strip instanc quadrupl compon follow mean
+set condit ie proposit variabl
+set oper ie action oper quadrupl element set condit four set specifi order condit must true action execut one must fals one made true action one made fals
+initi state given set condit initi true other assum fals
+specif goal state given pair specifi condit true fals respect order state consid goal state
+plan plan instanc sequenc oper execut initi state lead goal state
+formal state set condit state repres set condit true transit state model transit function function map state new state result execut action sinc state repres set condit transit function relat strip instanc function
+set subset therefor set possibl state
+transit function state defin follow use simplifi assumpt action alway execut effect precondit met
+function extend sequenc action follow recurs equat
+plan strip instanc sequenc action state result execut action order initi state satisfi goal condit formal plan satisfi follow two condit
+extens
+languag actual proposit version strip practic condit often object exampl posit robot model predic mean robot room case action free variabl implicit existenti quantifi word action repres possibl proposit action obtain replac free variabl valu
+initi state consid fulli known languag describ condit assum fals often limit assumpt natur exampl plan problem initi state fulli known extens strip develop deal partial known initi state
+sampl strip problem
+monkey locat lab box locat c monkey want banana hang ceil locat b need move box climb onto order reach
+initi state ata levellow boxatc bananasatb
+goal state havebanana
+action
+move x y
+movex y
+precondit atx levellow
+postcondit atx ati
+climb box
+climbuploc
+precondit atloc boxatloc levellow
+postcondit levelhigh levellow
+climb box
+climbdownloc
+precondit atloc boxatloc levelhigh
+postcondit levellow levelhigh
+move monkey box x y
+moveboxx y
+precondit atx boxatx levellow
+postcondit boxati boxatx ati atx
+take banana
+takebananasloc
+precondit atloc bananasatloc levelhigh
+postcondit havebanana
+complex
+decid whether plan exist proposit strip instanc pspacecomplet various restrict enforc order decid plan exist polynomi time least make npcomplet problem
+see also
+autom plan
+hierarch task network
+plan domain definit languag pddl
+action descript languag adl
+sussman anomali
+refer
+read
+c bckstrm b nebel complex result sas plan comput intellig
+byland complex result plan proceed twelfth intern joint confer artifici intellig ijcai page
+russel stuart j norvig peter artifici intellig modern approach nd ed upper saddl river new jersey prentic hall isbn

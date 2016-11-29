@@ -1,0 +1,174 @@
+quantum mechan uncertainti principl also known heisenberg uncertainti principl varieti mathemat inequ assert fundament limit precis certain pair physic properti particl known complementari variabl posit x momentum p known simultan
+introduc first german physicist werner heisenberg state precis posit particl determin less precis momentum known vice versa formal inequ relat standard deviat posit x standard deviat momentum p deriv earl hess kennard later year hermann weyl
+reduc planck constant h
+histor uncertainti principl confus somewhat similar effect physic call observ effect note measur certain system cannot made without affect system heisenberg offer observ effect quantum level see physic explan quantum uncertainti sinc becom clear howev uncertainti principl inher properti wavelik system aris quantum mechan simpli due matter wave natur quantum object thus uncertainti principl actual state fundament properti quantum system statement observ success current technolog must emphas measur mean process physicistobserv take part rather interact classic quantum object regardless observ
+sinc uncertainti principl basic result quantum mechan typic experi quantum mechan routin observ aspect certain experi howev may deliber test particular form uncertainti principl part main research program includ exampl test numberphas uncertainti relat superconduct quantum optic system applic depend uncertainti principl oper includ extrem low nois technolog requir gravitationalwav interferomet
+introduct
+fundament constraint higher level descript univers must superven quantum mechan descript includ heisenberg uncertainti relationship howev human form intuit understand uncertainti principl everyday life constraint readili appar macroscop scale everyday experi may help demonstr integr easili understood physic situat two altern conceptu quantum physic examin goal demonstr key role uncertainti principl play wave mechan pictur uncertainti principl provid visual intuit demonstr somewhat abstract matrix mechan pictur provid demonstr uncertainti principl easili general cover multitud physic context
+mathemat wave mechan uncertainti relat posit momentum aris express wavefunct two correspond orthonorm base hilbert space fourier transform one anoth ie posit momentum conjug variabl nonzero function fourier transform cannot sharpli local similar tradeoff varianc fourier conjug aris system underlain fourier analysi exampl sound wave pure tone sharp spike singl frequenc fourier transform give shape sound wave time domain complet deloc sine wave quantum mechan two key point posit particl take form matter wave momentum fourier conjug assur de brogli relat p k k wavenumb
+matrix mechan mathemat formul quantum mechan pair noncommut selfadjoint oper repres observ subject similar uncertainti limit eigenst observ repres state wavefunct certain measur valu eigenvalu exampl measur observ perform system particular eigenst observ howev particular eigenst observ need eigenst anoth observ b uniqu associ measur system eigenst observ
+wave mechan interpret
+ref
+accord de brogli hypothesi everi object univers wave situat give rise phenomenon posit particl describ wave function timeindepend wave function singlemod plane wave wavenumb k momentum p
+born rule state interpret probabl densiti function sens probabl find particl b
+case singlemod plane wave uniform distribut word particl posit extrem uncertain sens could essenti anywher along wave packet consid wave function sum mani wave howev may write
+repres relat contribut mode pn overal total figur right show addit mani plane wave wave packet becom local may take step continuum limit wave function integr possibl mode
+repres amplitud mode call wave function momentum space mathemat term say fourier transform x p conjug variabl ad togeth plane wave come cost name momentum becom less precis becom mixtur wave mani differ momenta
+one way quantifi precis posit momentum standard deviat sinc probabl densiti function posit calcul standard deviat
+precis posit improv ie reduc x use mani plane wave therebi weaken precis momentum ie increas p anoth way state x p invers relationship least bound uncertainti principl exact limit kennard bound click show button see semiform deriv kennard inequ use wave mechan
+matrix mechan interpret
+ref
+matrix mechan observ posit momentum repres selfadjoint oper consid pair observ import quantiti commut pair oper b one defin commut
+case posit momentum commut canon commut relat
+physic mean noncommut understood consid effect commut posit momentum eigenst let right eigenst posit constant eigenvalu x definit mean appli commut yield
+ident oper
+suppos sake proof contradict also right eigenst momentum constant eigenvalu p true one could write
+hand canon commut relat requir
+impli quantum state simultan posit momentum eigenst
+state measur project onto eigenst basi relev observ exampl particl posit measur state amount posit eigenst mean state momentum eigenst howev rather repres sum multipl momentum basi eigenst word momentum must less precis precis may quantifi standard deviat
+wave mechan interpret one see tradeoff respect precis two quantifi uncertainti principl
+robertsonschrding uncertainti relat
+common general form uncertainti principl robertson uncertainti relat
+arbitrari hermitian oper associ standard deviat
+bracket indic expect valu pair oper b may defin commut
+notat robertson uncertainti relat given
+robertson uncertainti relat immedi follow slight stronger inequ schrdinger uncertainti relat
+introduc anticommut
+sinc robertson schrdinger relat general oper relat appli two observ obtain specif uncertainti relat common relat found literatur given
+posit linear momentum canon commut relat impli kennard inequ
+two orthogon compon total angular momentum oper object
+j k distinct ji denot angular momentum along xi axi relat impli unless three compon vanish togeth singl compon system angular momentum defin arbitrari precis normal compon parallel extern magnet electr field moreov choic angular momentum multiplet j m bound casimir invari angular momentum squar thus yield use constraint j j m m henc j m among other
+nonrelativist mechan time privileg independ variabl nevertheless l mandelshtam e tamm deriv nonrelativist timeenergi uncertainti relat follow quantum system nonstationari state observ b repres selfadjoint oper follow formula hold
+e standard deviat energi oper hamiltonian state b stand standard deviat b although second factor lefthand side dimens time differ time paramet enter schrdinger equat lifetim state respect observ b word time interv expect valu chang appreci
+inform heurist mean principl follow state exist short time cannot definit energi definit energi frequenc state must defin accur requir state hang around mani cycl reciproc requir accuraci exampl spectroscopi excit state finit lifetim timeenergi uncertainti principl definit energi time decay energi releas slight differ averag energi outgo photon peak theoret energi state distribut finit width call natur linewidth fastdecay state broad linewidth slow decay state narrow linewidth
+linewidth effect also make difficult specifi rest mass unstabl fastdecay particl particl physic faster particl decay shorter lifetim less certain mass larger particl width
+number electron superconductor phase ginzburglandau order paramet
+exampl
+ref
+quantum harmon oscil stationari state
+consid onedimension quantum harmon oscil qho possibl express posit momentum oper term creation annihil oper
+use standard rule creation annihil oper eigenst qho
+varianc may comput direct
+product standard deviat
+particular kennard bound satur ground state n probabl densiti normal distribut
+quantum harmon oscil gaussian initi condit
+quantum harmon oscil characterist angular frequenc place state offset bottom potenti displac x
+describ width initi state need integr propag solv full timedepend solut mani cancel probabl densiti reduc
+use notat denot normal distribut mean varianc copi varianc appli trigonometr ident write product standard deviat
+relat
+conclud
+coher state
+coher state right eigenst annihil oper
+may repres term fock state
+pictur coher state massiv particl qho posit momentum oper may express term annihil oper formula use calcul varianc
+therefor everi coher state satur kennard bound
+posit momentum contribut amount balanc way moreov everi squeez coher state also satur kennard bound although individu contribut posit momentum need balanc general
+particl box
+consid particl onedimension box length eigenfunct posit momentum space
+use de brogli relat varianc calcul explicit
+product standard deviat therefor
+quantiti greater uncertainti principl never violat numer concret smallest valu occur case
+constant momentum
+assum particl initi momentum space wave function describ normal distribut around constant momentum p accord
+introduc refer scale describ width distributioncf nondimension state allow evolv free space timedepend momentum posit space wave function
+sinc interpret particl move along constant momentum arbitrarili high precis hand standard deviat posit
+uncertainti product increas time
+addit uncertainti relat
+mix state
+robertsonschrding uncertainti relat may general straightforward way describ mix state
+phase space
+phase space formul quantum mechan robertsonschrding relat follow posit condit real starsquar function given wigner function star product function f follow general true
+choos arriv
+sinc posit condit true b c follow eigenvalu matrix posit posit eigenvalu impli correspond posit condit determin
+explicit algebra manipul
+systemat error
+inequ focus statist imprecis observ quantifi standard deviat heisenberg origin version howev interest systemat error incur disturb quantum system measur apparatus ie observ effect let repres error ie accuraci measur observ repres disturb measur process follow inequ hold
+fact heisenberg uncertainti principl origin describ formul mention first term appli notat heisenberg positionmomentum relat heisenberg argument could rewritten
+heisenberg
+formul mathemat incorrect experiment refut also possibl deriv similar uncertainti relat combin statist systemat error compon nevertheless suffici care heisenberg intuit observ may formul proven mathemat consist manner
+entrop uncertainti principl
+mani distribut standard deviat particular natur way quantifi structur exampl uncertainti relat one observ angl littl physic mean fluctuat larger one period exampl includ high bimod distribut unimod distribut diverg varianc
+solut overcom issu uncertainti base entrop uncertainti instead product varianc formul manyworld interpret quantum mechan hugh everett iii conjectur stronger extens uncertainti principl base entrop certainti conjectur also studi hirschman proven beckner iwo bialynickibirula jerzi mycielski
+use shannon entropi quantum von neumann entropi
+arbitrari fix length scale
+invers logarithm sobolev inequ
+equival fact normal distribut maxim entropi given varianc readili follow entrop uncertainti principl stronger one base standard deviat
+remark inequ first choic base e matter popular convent physic logarithm altern base provid consist side inequ second numer valu right hand side assum unitari convent fourier transform use throughout physic elsewher articl third normal distribut satur inequ distribut properti maximum entropi probabl distribut among fix varianc cf proof
+harmon analysi
+context harmon analysi branch mathemat uncertainti principl impli one cannot time local valu function fourier transform wit follow inequ hold
+mathemat uncertainti inequ includ entrop uncertainti hold function f fourier transform
+signal process
+context signal process particular timefrequ analysi uncertainti principl refer gabor limit denni gabor sometim heisenberggabor limit basic result follow benedickss theorem function cannot time limit band limit function fourier transform cannot bound domainse bandlimit versus timelimit
+state altern one cannot simultan sharpli local signal function f time domain frequenc domain fourier transform
+appli filter result impli one cannot achiev high tempor resolut frequenc resolut time concret exampl resolut issu shorttim fourier transformif one use wide window one achiev good frequenc resolut cost tempor resolut narrow window opposit tradeoff
+altern theorem give precis quantit result timefrequ analysi rather interpret dimension time frequenc domain separ one instead interpret limit lower limit support function dimension timefrequ plane practic gabor limit limit simultan timefrequ resolut one achiev without interfer possibl achiev higher resolut cost differ compon signal interf
+benedickss theorem
+amreinberthi benedickss theorem intuit say set point f nonzero set point nonzero cannot small
+specif imposs function f lr fourier transform support set finit lebesgu measur quantit version
+one expect factor cec may replac cecsd known either convex
+hardi uncertainti principl
+mathematician g h hardi formul follow uncertainti principl possibl f rapid decreas specif f lr
+integ
+ab f ab polynomi p degre n
+later improv follow f lrd
+p polynomi degre n d real dd posit definit matrix
+result state beurl complet work without proof prove hrmander case bonami demang jame general case note hrmanderbeurl version impli case ab hardi theorem version bonamidemangejam cover full strength hardi theorem differ proof beurl theorem base liouvill theorem appear ref
+full descript case ab well follow extens schwarz class distribut appear ref
+theorem temper distribut
+conveni polynomi p real posit definit matrix type d d
+histori
+werner heisenberg formul uncertainti principl niel bohr institut copenhagen work mathemat foundat quantum mechan
+follow pioneer work hendrik kramer heisenberg develop matrix mechan replac ad hoc old quantum theori modern quantum mechan central premis classic concept motion fit quantum level electron atom travel sharpli defin orbit rather motion smear strang way fourier transform time depend involv frequenc could observ quantum jump radiat
+heisenberg paper admit unobserv quantiti like exact posit electron orbit time allow theorist talk fourier compon motion sinc fourier compon defin classic frequenc could use construct exact trajectori formal could answer certain over precis question electron fast go
+march work bohr institut heisenberg realiz noncommut impli uncertainti principl implic provid clear physic interpret noncommut laid foundat becam known copenhagen interpret quantum mechan heisenberg show commut relat impli uncertainti bohr languag complementar two variabl commut cannot measur simultaneouslyth precis one known less precis known heisenberg wrote
+express simplest form follow one never know perfect accuraci two import factor determin movement one smallest particlesit posit veloc imposs determin accur posit direct speed particl instant
+celebr paper ber den anschaulichen inhalt der quantentheoretischen kinematik und mechanik perceptu content quantum theoret kinemat mechan heisenberg establish express minimum amount unavoid momentum disturb caus posit measur give precis definit uncertainti x p instead gave plausibl estim case separ chicago lectur refin principl
+kennard first prove modern inequ
+h x p standard deviat posit momentum heisenberg prove relat special case gaussian state
+terminolog translat
+throughout main bodi origin paper written german heisenberg use word ungenauigkeit indeterminaci describ basic theoret principl endnot switch word unsicherheit uncertainti englishlanguag version heisenberg textbook physic principl quantum theori publish howev translat uncertainti use becam common use term english languag thereaft
+heisenberg microscop
+principl quit counterintuit earli student quantum theori reassur naiv measur violat bound alway unwork one way heisenberg origin illustr intrins imposs violat uncertainti principl use imaginari microscop measur devic
+imagin experiment tri measur posit momentum electron shoot photon
+problem photon short wavelength therefor larg momentum posit measur accur photon scatter random direct transfer larg uncertain amount momentum electron photon long wavelength low momentum collis disturb electron momentum much scatter reveal posit vagu
+problem larg apertur use microscop electron locat well resolv see rayleigh criterion principl conserv momentum transvers momentum incom photon affect electron beamlin momentum henc new momentum electron resolv poor small apertur use accuraci resolut way around
+combin tradeoff impli matter photon wavelength apertur size use product uncertainti measur posit measur momentum greater equal lower limit small numer factor equal planck constant heisenberg care formul uncertainti principl exact limit elabor prefer use instead heurist quantit statement correct small numer factor make radic new noncommut quantum mechan inevit
+critic reaction
+copenhagen interpret quantum mechan heisenberg uncertainti principl fact seen twin target detractor believ under determin realism accord copenhagen interpret quantum mechan fundament realiti quantum state describ prescript calcul experiment result way say state system fundament result observ might
+albert einstein believ random reflect ignor fundament properti realiti niel bohr believ probabl distribut fundament irreduc depend measur choos perform einstein bohr debat uncertainti principl mani year experi within first decad twentyfirst centuri cast doubt extens uncertainti principl appli
+einstein slit
+first einstein thought experi challeng uncertainti principl went follow
+consid particl pass slit width d slit introduc uncertainti momentum approxim hd particl pass wall let us determin momentum particl measur recoil wall find momentum particl arbitrari accuraci conserv momentum
+bohr respons wall quantum mechan well measur recoil accuraci p momentum wall must known accuraci particl pass introduc uncertainti posit wall therefor posit slit equal hp wall momentum known precis enough measur recoil slit posit uncertain enough disallow posit measur
+similar analysi particl diffract multipl slit given richard feynman
+anoth thought experi lawrenc marq goldberg theoriz one could exampl determin posit particl travel back time point first read measur veloc time travel back point second earlier read taken deliv result measur particl disturb measur need taken cours would result tempor paradox support content problem inher uncertain principl lay measur uncertainti physic
+einstein box
+bohr present einstein propos thought experi becom known einstein box einstein argu heisenberg uncertainti equat impli uncertainti time relat uncertainti energi product two relat planck constant consid said ideal box line mirror contain light indefinit box could weigh clockwork mechan open ideal shutter chosen instant allow one singl photon escap know explain einstein precis time photon left box weigh box chang mass tell energi emit light manner said einstein one could measur energi emit time releas desir precis contradict uncertainti principl
+bohr spent sleepless night consid argument eventu realiz flaw point box weigh say spring pointer scale sinc box must move vertic chang weight uncertainti vertic veloc therefor uncertainti height tabl furthermor uncertainti elev earth surfac result uncertainti rate clock einstein theori graviti effect time chain uncertainti bohr show einstein light box experi could simultan measur exact energi photon time escap
+epr paradox entangl particl
+bohr compel modifi understand uncertainti principl anoth thought experi einstein einstein podolski rosen see epr paradox publish analysi wide separ entangl particl measur one particl einstein realiz would alter probabl distribut yet particl could possibl disturb exampl led bohr revis understand principl conclud uncertainti caus direct interact
+einstein came much farreach conclus thought experi believ natur basic assumpt complet descript realiti would predict result experi local chang determinist quantiti therefor would includ inform maximum possibl allow uncertainti principl
+john bell show assumpt falsifi sinc would impli certain inequ probabl differ experi experiment result confirm predict quantum mechan rule einstein basic assumpt led suggest hidden variabl iron fact one best piec evid support karl popper philosophi invalid theori falsificationexperi say einstein basic assumpt becam falsifi experi base bell inequ object karl popper heisenberg inequ see
+possibl assum quantum mechan predict due nonloc hidden variabl fact david bohm invent formul resolut satisfactori vast major physicist question whether random outcom predetermin nonloc theori philosoph potenti intract hidden variabl constrain could list random digit use produc measur outcom make sensibl assumpt nonloc hidden variabl sometim augment second assumptionthat size observ univers put limit comput variabl nonloc theori sort predict quantum comput would encount fundament obstacl attempt factor number approxim digit potenti achiev task quantum mechan
+popper critic
+karl popper approach problem indeterminaci logician metaphys realist disagre applic uncertainti relat individu particl rather ensembl ident prepar particl refer statist scatter relat statist interpret particular measur may made arbitrari precis without invalid quantum theori direct contrast copenhagen interpret quantum mechan nondeterminist lack local hidden variabl
+popper publish zur kritik der ungenauigkeitsrelationen critiqu uncertainti relat naturwissenschaften year logik der forschung translat updat author logic scientif discoveri outlin argument statist interpret develop theori quantum theori schism physic write
+heisenberg formula beyond doubt deriv statist formula quantum theori habitu misinterpret quantum theorist said formula interpret determin upper limit precis measurementsorigin emphasi
+popper propos experi falsifi uncertainti relat although later withdrew initi version discuss weizscker heisenberg einstein experi may influenc formul epr experi
+manyworld uncertainti
+manyworld interpret origin outlin hugh everett iii part meant reconcil differ einstein bohr view replac bohr wave function collaps ensembl determinist independ univers whose distribut govern wave function schrdinger equat thus uncertainti manyworld interpret follow observ within univers knowledg goe univers
+free
+scientist includ arthur compton martin heisenberg suggest uncertainti principl least general probabilist natur quantum mechan could evid twostag model free standard view howev apart basic role quantum mechan foundat chemistri nontrivi biolog mechan requir quantum mechan unlik due rapid decoher time quantum system room temperatur
+see also
+note
+extern link
+hazewinkel michiel ed uncertainti principl encyclopedia mathemat springer isbn
+matter wave chapter onlin textbook
+quantum mechan myth fact
+stanford encyclopedia philosophi entri
+fourier transform uncertainti mathpag
+aiporg quantum mechan uncertainti principl
+eric weisstein world physic uncertainti principl
+john baez timeenergi uncertainti relat
+certainti principl
+common interpret heisenberg uncertainti principl prove fals

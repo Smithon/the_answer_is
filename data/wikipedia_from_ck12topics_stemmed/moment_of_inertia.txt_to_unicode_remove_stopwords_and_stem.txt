@@ -1,0 +1,198 @@
+moment inertia otherwis known angular mass rotat inertia rigid bodi determin torqu need desir angular acceler rotat axi depend bodi mass distribut axi chosen larger moment requir torqu chang bodi rotat extens addit properti moment inertia composit system sum moment inertia compon subsystem taken axi one definit second moment mass respect distanc axi r integr entir mass
+bodi constrain rotat plane suffici consid moment inertia axi perpendicular plane bodi free rotat three dimens moment describ symmetr matrix bodi set mutual perpendicular princip axe matrix diagon torqu around axe act independ
+introduct
+bodi rotat free rotat around axi torqu must appli chang angular momentum amount torqu need given rate chang angular momentum proport moment inertia bodi moment inertia may express term kilogramsquar metr kgm si unit poundsquar feet lbmft imperi us unit
+moment inertia play role rotat kinet mass inertia play linear kinet character resist bodi chang motion moment inertia depend mass distribut around axi rotat vari depend chosen axi pointlik mass moment inertia axi given dm d distanc axi m mass extend bodi moment inertia sum small piec mass multipli squar distanc axi question extend bodi regular shape uniform densiti summat sometim produc simpl express depend dimens shape total mass object
+christiaan huygen introduc paramet studi oscil bodi hang pivot known compound pendulum term moment inertia introduc leonhard euler book theoria motus corporum solidorum seu rigidorum incorpor euler second law
+natur frequenc oscil compound pendulum obtain ratio torqu impos graviti mass pendulum resist acceler defin moment inertia comparison natur frequenc simpl pendulum consist singl point mass provid mathemat formul moment inertia extend bodi
+moment inertia also appear momentum kinet energi newton law motion rigid bodi physic paramet combin shape mass interest differ way moment inertia appear planar spatial movement planar movement singl scalar defin moment inertia spatial movement calcul yield matrix moment inertia call inertia matrix inertia tensor
+moment inertia rotat flywheel use machin resist variat appli torqu smooth rotat output moment inertia airplan longitudin horizont vertic axe determin steer forc control surfac wing elev tail affect plane roll pitch yaw
+definit
+moment inertia defin ratio angular momentum l system angular veloc around princip axi
+angular momentum system constant moment inertia get smaller angular veloc must increas occur spin figur skater pull outstretch arm diver move straight posit tuck posit dive
+shape bodi chang moment inertia appear newton law motion ratio appli torqu bodi angular acceler around princip axi
+simpl pendulum definit yield formula moment inertia term mass m pendulum distanc r pivot point
+thus moment inertia depend mass m bodi geometri shape defin distanc r axi rotat
+simpl formula general defin moment inertia arbitrarili shape bodi sum element point mass dm multipli squar perpendicular distanc r axi
+general given object mass m effect radius k defin axi center mass valu moment inertia
+k known radius gyrat
+simpl pendulum
+moment inertia measur use simpl pendulum resist rotat caus graviti mathemat moment inertia pendulum ratio torqu due graviti pivot pendulum angular acceler pivot point simpl pendulum found product mass particl m squar distanc r pivot
+shown follow forc graviti mass simpl pendulum generat torqu around axi perpendicular plane pendulum movement r distanc vector perpendicular forc torqu axi f tangenti compon net forc mass associ torqu angular acceler string mass around axi sinc mass constrain circl tangenti acceler mass sinc torqu equat becom
+e unit vector perpendicular plane pendulum second last step occur baccab rule use fact alway perpendicular r quantiti mr moment inertia singl mass around pivot point
+quantiti mr also appear angular momentum simpl pendulum calcul veloc v r pendulum mass around pivot angular veloc mass pivot point angular momentum given
+use math similar use deriv previous equat
+similar kinet energi pendulum mass defin veloc pendulum around pivot yield
+show quantiti mr mass combin shape bodi defin rotat inertia moment inertia arbitrarili shape bodi sum valu mr element mass bodi
+compound pendulum
+compound pendulum bodi form assembl particl continu shape rotat rigid around pivot moment inertia sum moment inertia particl compos natur frequenc compound pendulum depend moment inertia
+mass object local acceler graviti distanc pivot point centr mass object measur frequenc oscil small angular displac provid effect way measur moment inertia bodi
+thus determin moment inertia bodi simpli suspend conveni pivot point swing freeli plane perpendicular direct desir moment inertia measur natur frequenc period oscil obtain
+period durat oscil usual averag multipl period
+moment inertia bodi centr mass calcul use parallel axi theorem
+mass bodi distanc pivot point centr mass
+moment inertia bodi often defin term radius gyrat radius ring equal mass around centr mass bodi moment inertia radius gyrat calcul bodi moment inertia mass length
+center oscil
+simpl pendulum natur frequenc compound pendulum defin length pivot point call centr oscil compound pendulum point also correspond centr percuss length determin formula
+second pendulum provid tick tock grandfath clock take one second swing sidetosid period two second natur frequenc radianssecond pendulum case distanc center oscil comput
+notic distanc center oscil second pendulum must adjust accommod differ valu local acceler graviti kater pendulum compound pendulum use properti measur local acceler graviti call gravimet
+measur moment inertia
+moment inertia complex system vehicl airplan around vertic axi measur suspend system three point form trifilar pendulum trifilar pendulum platform support three wire design oscil torsion around vertic centroid axi period oscil trifilar pendulum yield moment inertia system
+calcul moment inertia axi
+moment inertia axi bodi calcul sum mr everi particl bodi r perpendicular distanc specifi axi see moment inertia aris studi movement extend bodi conveni consid rigid assembl point mass equat use axe princip axe provid understood fulli describ moment inertia
+consid kinet energi assembl n mass mi lie distanc ri pivot point p nearest point axi rotat sum kinet energi individu mass
+show moment inertia bodi sum mr term
+thus moment inertia physic properti combin mass distribut particl around rotat axi notic rotat differ axe bodi yield differ moment inertia
+moment inertia continu bodi rotat specifi axi calcul way summat replac integr
+r radius vector point bodi specifi axi pivot p r mass densiti point r integr evalu volum v bodi moment inertia flat surfac similar mass densiti replac areal mass densiti integr evalu area
+note second moment area moment inertia bodi move plane second moment area beam crosssect often confus moment inertia bodi shape crosssect second moment area zaxi perpendicular crosssect weight densiti also call polar moment area sum second moment x y axe stress beam calcul use second moment crosssect area around either xaxi yaxi depend load
+exampl calcul moment inertia
+moment inertia compound pendulum construct thin disc mount end thin rod oscil around pivot end rod begin calcul moment inertia thin rod thin disc respect centr mass
+moment inertia thin rod constant crosssect densiti length l perpendicular axi centr mass determin integr align xaxi rod locat origin centr mass centr rod
+m mass rod
+moment inertia thin disc constant thick radius r densiti axi centr perpendicular face parallel axi rotat symmetri determin integr align zaxi axi disc defin volum element dv sr drd
+m rs mass
+moment inertia compound pendulum obtain ad moment inertia rod disc around pivot point p
+l length pendulum notic parallel axi theorem use shift moment inertia centr mass pivot point pendulum
+list moment inertia formula standard bodi shape provid way obtain moment inerti complex bodi assembl simpler shape bodi parallel axi theorem use shift refer point individu bodi refer point assembl
+one exampl consid moment inertia solid sphere constant densiti axi centr mass determin sum moment inertia thin disc form sphere surfac ball defin equat
+radius r disc crosssect z along zaxi
+therefor moment inertia ball sum moment inertia disc along zaxi
+m r mass ball
+moment inertia planar movement rigid bodi
+mechan system constrain move parallel fix plane rotat bodi system occur around axi k perpendicular plane case moment inertia mass system scalar known polar moment inertia definit polar moment inertia obtain consid momentum kinet energi newton law planar movement rigid system particl
+system n particl pi n assembl rigid bodi momentum system written term posit relat refer point r absolut veloc vi
+angular veloc system v veloc r
+planar movement angular veloc vector direct along unit vector k perpendicular plane movement introduc unit vector ei refer point r point ri unit vector ti k ei
+defin relat posit vector veloc vector rigid system particl move plane
+note cross product bodi move parallel ground plane trajectori point bodi lie plane parallel ground plane mean rotat bodi undergo must around axi perpendicular plane planar movement often present project onto ground plane axi rotat appear point case angular veloc angular acceler bodi scalar fact vector along rotat axi ignor usual prefer introduct topic case moment inertia combin mass geometri benefit geometr properti cross product reason section planar movement angular veloc acceler bodi vector perpendicular ground plane cross product oper use studi spatial rigid bodi movement
+angular momentum planar movement
+angular momentum vector planar movement rigid system particl given
+use centr mass c refer point
+defin moment inertia relat centr mass ic
+equat angular momentum simplifi
+moment inertia ic axi perpendicular movement rigid system centr mass known polar moment inertia
+given amount angular momentum decreas moment inertia result increas angular veloc figur skater chang moment inertia pull arm thus angular veloc achiev skater outstretch arm result greater angular veloc arm pull reduc moment inertia
+kinet energi planar movement
+kinet energi rigid system particl move plane given
+equat expand yield three term
+let refer point centr mass c system second term becom zero introduc moment inertia ic kinet energi given
+moment inertia ic polar moment inertia bodi
+newton law planar movement
+newton law rigid system n particl pi n written term result forc torqu refer point r yield
+ri denot trajectori particl
+kinemat rigid bodi yield formula acceler particl pi term posit r acceler refer particl well angular veloc vector angular acceler vector rigid system particl
+system constrain planar movement angular veloc angular acceler vector direct along k perpendicular plane movement simplifi acceler equat case acceler vector simplifi introduc unit vector ei refer point r point ri unit vector ti k ei
+yield result torqu system
+ei ei ei ti k unit vector perpendicular plane particl pi
+use centr mass c refer point defin moment inertia relat centr mass ic equat result torqu simplifi
+paramet ic polar moment inertia move bodi
+inertia matrix spatial movement rigid bodi
+scalar moment inertia appear element matrix system particl assembl rigid bodi move threedimension space inertia matrix appear calcul angular momentum kinet energi result torqu rigid system particl
+import applic inertia matrix newton law motion analysi spin top discuss articl gyroscop precess detail present found articl euler equat motion
+let system particl pi n locat coordin ri veloc vi relat fix refer frame possibl move refer point r relat posit
+absolut veloc
+angular veloc system vr veloc r
+angular momentum
+refer point r assembl bodi chosen centr mass c angular momentum take form
+term contain vr sum zero definit centr mass
+defin inertia matrix let us first note skewsymmetr matrix b could construct vector b perform cross product oper
+matrix b compon b bx bybz element form
+construct skewsymmetr matrix ri ric obtain relat posit vector riri c use skewsymmetr matrix defin
+ic defin
+symmetr inertia matrix rigid system particl measur relat centr mass c
+kinet energi
+kinet energi rigid system particl formul term centr mass matrix mass moment inertia system let system particl pi n locat coordin ri veloc vi kinet energi
+ri ric posit vector particl relat centr mass
+equat expand yield three term
+second term equat zero c centr mass introduc skewsymmetr matrix ri kinet energi becom
+thus kinet energi rigid system particl given
+ic inertia matrix relat centr mass m total mass
+result torqu
+inertia matrix appear applic newton second law rigid assembl particl result torqu system
+ai acceler particl pi kinemat rigid bodi yield formula acceler particl pi term posit r acceler refer point well angular veloc vector angular acceler vector rigid system
+use centr mass c refer point introduc skewsymmetr matrix riric repres cross product ri cx obtain
+calcul use ident
+obtain jacobi ident tripl cross product shown proof
+thus result torqu rigid system particl given
+ic inertia matrix relat centr mass
+parallel axi theorem
+inertia matrix bodi depend choic refer point use relationship inertia matrix relat centr mass c inertia matrix relat anoth point r relationship call parallel axi theorem
+consid inertia matrix ir obtain rigid system particl measur relat refer point r given
+let c centr mass rigid system
+d vector centr mass c refer point r use equat comput inertia matrix
+expand equat obtain
+first term inertia matrix ic relat centr mass second third term zero definit centr mass c last term total mass system multipli squar skewsymmetr matrix d construct d
+result parallel axi theorem
+d vector centr mass c refer point r
+note minus sign use skew symmetr matrix posit vector relat refer point inertia matrix particl form mr similar mr appear planar movement howev make work correct minus sign need minus sign absorb term mrtr desir use skewsymmetri properti r
+inertia matrix scalar moment inertia around arbitrari axi
+scalar moment inertia il bodi specifi axi whose direct specifi unit vector pass bodi point r follow
+ir moment inertia matrix system relat refer point r
+deriv follow let rigid assembl n particl pi n coordin ri choos r refer point comput moment inertia around axi l defin unit vector refer point r moment inertia system around line lrts comput determin perpendicular vector axi particl pi given
+ident matrix st outer product matrix form unit vector along line l
+relat scalar moment inertia inertia matrix bodi introduc skewsymmetr matrix sys x y ident
+reli fact unit vector
+magnitud squar perpendicular vector
+simplif equat use ident
+dot cross product interchang expand cross product comput
+ri skew symmetr matrix obtain vector rrir
+thus moment inertia around line l r direct obtain calcul
+ir moment inertia matrix system relat refer point r
+show inertia matrix use calcul moment inertia bodi around specifi rotat axi bodi
+inertia tensor
+inertia matrix often describ inertia tensor consist moment inertia product inertia three coordin axe inertia tensor construct nine compon tensor symbol tensor product
+ei three orthogon unit vector defin inerti frame bodi move use basi inertia tensor given
+tensor degre two compon tensor construct two basi vector form inertia tensor also call inertia binor
+rigid system particl pk k n mass mk posit coordin rkxk yk zk inertia tensor given
+e ident tensor
+inertia tensor continu bodi given
+r defin coordin point bodi r mass densiti point integr taken volum v bodi inertia tensor symmetr iij iji
+altern also written term hat oper
+inertia tensor use way inertia matrix comput scalar moment inertia arbitrari axi direct n
+dot product taken correspond element compon tensor product inertia term obtain comput
+interpret moment inertia around xaxi object rotat around yaxi
+compon tensor degre two assembl matrix inertia tensor matrix given
+common rigid bodi mechan use notat explicit identifi x y z axe ixx ixi compon inertia tensor
+ident skewsymmetr matrix
+comput moment inertia mass around axi perpendicular vector mass axi need axi l defin unit vector refer point r perpendicular vector line l point r given
+ident matrix st outer product matrix form unit vector along line l recal skewsymmetr matrix construct sys x y matrix isst equat subtract compon rrr parallel
+previous section show comput moment inertia matrix oper yield similar oper use compon vector r
+help keep follow ident mind compar equat defin inertia tensor inertia matrix
+let r skew symmetr matrix associ posit vector rx y z product inertia matrix becom
+view anoth way comput perpendicular distanc axi point matrix form outer product r rt yield identifi
+x ident matrix
+also notic
+tr denot sum diagon element outer product matrix known trace
+inertia matrix differ refer frame
+use inertia matrix newton second law assum compon comput relat axe parallel inerti frame relat bodyfix refer frame mean bodi move compon inertia matrix chang time contrast compon inertia matrix measur bodyfix frame constant
+bodi frame inertia matrix
+let bodi frame inertia matrix relat centr mass denot icb defin orient bodi frame relat inerti frame rotat matrix
+vector y bodi fix coordin frame coordin x inerti frame inertia matrix bodi measur inerti frame given
+notic chang bodi move icb remain constant
+princip axe
+measur bodi frame inertia matrix constant real symmetr matrix real symmetr matrix eigendecomposit product rotat matrix q diagon matrix given
+column rotat matrix q defin direct princip axe bodi constant call princip moment inertia result first shown j j sylvest form sylvest law inertia
+bodi constant densiti axi rotat symmetri princip axi
+inertia ellipsoid
+moment inertia matrix bodyfram coordin quadrat form defin surfac bodi call poinsot ellipsoid let inertia matrix relat centr mass align princip axe surfac
+defin ellipsoid bodi frame write equat form
+see semiprincip diamet ellipsoid given
+let point x ellipsoid defin term magnitud direct xxn n unit vector relationship present inertia matrix scalar moment inertia around axi direct n yield
+thus magnitud point x direct n inertia ellipsoid
+see also
+central moment
+instant centr rotat
+list moment inertia
+list moment inertia tensor
+rotat energi
+stretch rule
+tire balanc
+refer
+extern link
+angular momentum rigidbodi rotat two three dimens
+lectur note rigidbodi rotat moment inertia
+moment inertia tensor
+introductori lesson moment inertia keep vertic pole fall java simul
+tutori find moment inertia problem solut various basic shape
+note mechan manipul angular inertia tensor

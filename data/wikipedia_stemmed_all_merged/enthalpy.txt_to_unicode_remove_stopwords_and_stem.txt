@@ -1,0 +1,136 @@
+enthalpi defin thermodynam state function design letter h consist intern energi system u plus product pressur p volum v system
+sinc u p v function state thermodynam system enthalpi state function
+unit measur enthalpi intern system unit si joul histor convent unit still use british thermal unit calori
+enthalpi prefer express system energi chang mani chemic biolog physic measur constant pressur simplifi descript energi transfer constant pressur enthalpi chang equal energi transfer environ heat work expans work
+total enthalpi h system cannot measur direct situat exist classic mechan chang differ energi carri physic mean enthalpi thermodynam potenti order measur enthalpi system must refer defin refer point therefor measur chang enthalpi h h posit chang endotherm reaction negat heatreleas exotherm process
+process constant pressur h equal chang intern energi system plus pressurevolum work system done surround mean chang enthalpi condit heat absorb releas materi chemic reaction extern heat transfer enthalpi chemic substanc constant pressur assum standard state common bar pressur standard state strict speak specifi temperatur see standard state express enthalpi general refer standard heat format c
+enthalpi ideal gase incompress solid liquid depend pressur unlik entropi gibb energi real materi common temperatur pressur usual close approxim behavior great simplifi enthalpi calcul use practic design analys
+origin
+word enthalpi base greek enthalpein mean warm come classic greek prefix en mean put verb thalpein mean heat word enthalpi often incorrect attribut benot paul mile clapeyron rudolf clausius public clausiusclapeyron relat misconcept popular public mollier steam tabl diagram howev neither concept word symbol enthalpi exist well clapeyron death
+earliest write contain concept enthalpi appear josiah willard gibb introduc heat function constant pressur howev gibb use word enthalpi write
+actual word first appear scientif literatur public j p dalton accord public heik kamerlingh onn actual coin word
+year mani differ symbol use denot enthalpi alfr w porter propos symbol h accept standard thus final terminolog still use today
+formal definit
+enthalpi homogen system defin
+h enthalpi system
+u intern energi system
+p pressur system
+v volum system
+enthalpi extens properti mean homogen system enthalpi proport size system conveni introduc specif enthalpi h hm m mass system molar enthalpi hm hn n number mole h hm intens properti inhomogen system enthalpi sum enthalpi compos subsystem
+label k refer various subsystem case continu vari p andor composit summat becom integr
+densiti
+enthalpi homogen system view function hsp entropi pressur p differenti relat deriv follow start first law thermodynam close system infinitesim process
+q small amount heat ad system w small amount work perform system homogen system revers process take place second law thermodynam give q tds absolut temperatur system furthermor pv work done w pdv result
+ad dpv side express give
+express
+express dh term entropi pressur may unfamiliar reader howev express term familiar variabl temperatur pressur
+cp heat capac constant pressur coeffici cubic thermal expans
+express one principl determin enthalpi cp v known function p
+notic ideal gas
+general form first law describ intern energi addit term involv chemic potenti number particl various type differenti statement dh becom
+chemic potenti per particl ityp particl ni number particl last term also written idni dni number mole compon ad system case molar chemic potenti idmi dmi mass compon ad system case specif chemic potenti
+physic interpret
+u term interpret energi requir creat system pv term energi would requir make room system pressur environ remain constant system exampl n mole gas volum v pressur p temperatur creat brought present state absolut zero energi must suppli equal intern energi u plus pv pv work done push ambient atmospher pressur
+basic physic statist mechan may interest studi intern properti system therefor intern energi use basic chemistri experi often conduct constant atmospher pressur pressurevolum work repres energi exchang atmospher cannot access control h express chosen heat reaction
+relationship heat
+order discuss relat enthalpi increas heat suppli return first law close system du q w appli special case pressur surfac uniform case work term split two contribut socal pv work given pdv p pressur surfac dv increas volum system type work w shaft electromagnet interact write w pdvw case first law read
+relat see increas enthalpi system equal ad heat
+provid system constant pressur dp work done system expans work w
+applic
+thermodynam one calcul enthalpi determin requir creat system nothing mechan work requir pv differ base upon condit obtain creation thermodynam system
+energi must suppli remov particl surround make space creation system assum pressur p remain constant pv term suppli energi must also provid chang intern energi u includ activ energi ionize energi mix energi vapor energi chemic bond energi forth togeth constitut chang enthalpi u pv system constant pressur extern work done pv work chang enthalpi heat receiv system
+simpl system constant number particl differ enthalpi maximum amount thermal energi deriv thermodynam process pressur held constant
+heat reaction
+total enthalpi system cannot measur direct enthalpi chang system measur instead enthalpi chang defin follow equat
+enthalpi chang
+final enthalpi system express joul chemic reaction enthalpi product
+initi enthalpi system express joul chemic reaction enthalpi reactant
+exotherm reaction constant pressur system chang enthalpi equal energi releas reaction includ energi retain system lost expans surround similar manner endotherm reaction system chang enthalpi equal energi absorb reaction includ energi lost system gain compress surround relat easi way determin whether reaction exotherm endotherm determin sign h h posit reaction endotherm heat absorb system due product reaction greater enthalpi reactant hand h negat reaction exotherm overal decreas enthalpi achiev generat heat
+specif enthalpi
+specif enthalpi uniform system defin h hm m mass system si unit specif enthalpi joul per kilogram express specif quantiti h u pv u specif intern energi p pressur v specif volum equal densiti
+enthalpi chang
+enthalpi chang describ chang enthalpi observ constitu thermodynam system undergo transform chemic reaction differ enthalpi process complet ie enthalpi product initi enthalpi system ie reactant process revers enthalpi revers process negat valu forward chang
+common standard enthalpi chang enthalpi format determin larg number substanc enthalpi chang routin measur compil chemic physic refer work crc handbook chemistri physic follow select enthalpi chang common recogn thermodynam
+use recogn term qualifi chang usual drop properti simpli term enthalpi process sinc properti often use refer valu common quot standard set environment paramet standard condit includ
+temperatur c k
+pressur one atmospher atm kpa
+concentr m element compound present solut
+element compound normal physic state ie standard state
+standard valu name enthalpi common prefix term standard eg standard enthalpi format
+chemic properti
+enthalpi reaction defin enthalpi chang observ constitu thermodynam system one mole substanc react complet
+enthalpi format defin enthalpi chang observ constitu thermodynam system one mole compound form elementari anteced
+enthalpi combust defin enthalpi chang observ constitu thermodynam system one mole substanc burn complet oxygen
+enthalpi hydrogen defin enthalpi chang observ constitu thermodynam system one mole unsatur compound react complet excess hydrogen form satur compound
+enthalpi atom defin enthalpi chang requir atom one mole compound complet
+enthalpi neutral defin enthalpi chang observ constitu thermodynam system one mole water form acid base react
+standard enthalpi solut defin enthalpi chang observ constitu thermodynam system one mole solut dissolv complet excess solvent solut infinit dilut
+standard enthalpi denatur biochemistri defin enthalpi chang requir denatur one mole compound
+enthalpi hydrat defin enthalpi chang observ one mole gaseous ion complet dissolv water form one mole aqueous ion
+physic properti
+enthalpi fusion defin enthalpi chang requir complet chang state one mole substanc solid liquid state
+enthalpi vapor defin enthalpi chang requir complet chang state one mole substanc liquid gaseous state
+enthalpi sublim defin enthalpi chang requir complet chang state one mole substanc solid gaseous state
+lattic enthalpi defin energi requir separ one mole ionic compound separ gaseous ion infinit distanc apart mean forc attract
+enthalpi mix defin enthalpi chang upon mix two nonreact chemic substanc
+open system
+thermodynam open system matter may flow system boundari first law thermodynam open system state increas intern energi system equal amount energi ad system matter flow heat minus amount lost matter flow form work done system first law open system given
+averag intern energi enter system averag intern energi leav system
+region space enclos open system boundari usual call control volum may may correspond physic wall choos shape control volum flow occur perpendicular surfac flow matter system perform work piston fluid push mass system system perform work flow matter drive piston fluid two type work perform flow work describ perform fluid also often call pv work shaft work may perform mechan devic
+two type work express equat
+substitut equat control volum cv yield
+definit enthalpi permit us use thermodynam potenti account intern energi work fluid open system
+express describ fig allow also system boundari move eg due move piston get rather general form first law open system term time deriv read
+repres algebra sum indic k refer various place heat suppli matter flow system boundari move term repres enthalpi flow written
+mass flow molar flow posit k respect term dvkdt repres rate chang system volum posit k result pv power done system paramet p repres form power done system shaft power also eg electr power produc electr power plant note previous express hold true kinet energi flow rate conserv system inlet outlet otherwis includ enthalpi balanc steadyst oper devic see turbin pump engin averag dudt may set equal zero yield use express averag power generat devic absenc chemic reaction
+angl bracket denot time averag technic import enthalpi direct relat presenc first law open system formul
+diagram
+nowaday enthalpi valu import substanc obtain via commerci softwar practic relev materi properti obtain either tabular graphic form mani type diagram ht diagram give specif enthalpi function temperatur various pressur hp diagram give h function p various one common diagram temperatureentropi diagram tsdiagram exampl fig tsdiagram nitrogen give melt curv satur liquid vapor valu togeth isobar isenthalp diagram power tool hand thermal engin
+basic applic
+point h fig play role discuss section
+k p bar kjkgk h kjkg
+b k p bar kjkgk h kjkg
+c k p bar kjkgk h kjkg
+d k p bar kjkgk h kjkg
+e k p bar kjkgk h kjkg satur liquid bar
+f k p bar kjkgk h kjkg
+g k p bar kjkgk h kjkg satur liquid bar
+h k p bar kjkgk h kjkg satur gas bar
+throttl
+one simpl applic concept enthalpi socal throttl process also known joulethomson expans concern steadi adiabat flow fluid flow resist valv porous plug type flow resist shown figa process import sinc heart domest refriger respons temperatur drop ambient temperatur interior fridg also final stage mani type liquefi
+first law open system see appli system figa term zero except term enthalpi flow henc
+sinc mass flow constant specif enthalpi two side flow resist
+enthalpi per unit mass chang throttl consequ relat demonstr use fig point c fig bar room temperatur k joulethomson expans bar bar follow curv constant enthalpi rough kjkg shown fig lie kjkg isenthalp end point d temperatur k henc expans bar bar cool nitrogen k k valv lot friction lot entropi produc still final temperatur start valu
+point e chosen satur liquid line h kjkg correspond rough p bar k throttl point pressur one bar end twophas region point f mean mixtur gas liquid leav throttl valv sinc enthalpi extens paramet enthalpi f hf equal enthalpi g hg multipli liquid fraction f xf plus enthalpi h hh multipli gas fraction f xf
+number xf xf xf mean mass fraction liquid liquidga mixtur leav throttl valv
+compressor
+figb schemat draw compressor power p appli eg electr power compress adiabat gas temperatur goe revers case would constant entropi correspond vertic line fig eg compress nitrogen bar point bar point b would result temperatur increas k k order let compress gas exit ambient temperatur ta heat exchang eg cool water necessari ideal case compress isotherm averag heat flow surround sinc system steadi state first law give
+minimum power need compress realiz compress revers case second law thermodynam open system give
+elimin give minimum power
+eg compress kg nitrogen bar bar cost least hc ha tascsa data obtain fig find valu kjkg
+relat power simplifi write
+dh tds vdp result final relat
+see also
+standard enthalpi chang format data tabl
+calorimetri
+calorimet
+departur function
+hesss law
+isenthalp process
+stagnat enthalpi
+thermodynam databas pure substanc
+entropi
+note
+refer
+bibliographi
+jp dalton research joulekelvin effect especi low temperatur calcul hydrogen knaw proceed pp
+haas r physic chemistri advanc treatis jost w ed academ new york p
+gibb j w collect work j willard gibb vol yale univers press new haven connecticut reprint p
+ik howard h enthalpi thank heik kamerlingh onn alfr w porter journal chemic educ pp
+laidler k world physic chemistri oxford univers press oxford p
+c kittel h kroemer thermal physic r furphi compani new york p
+dehoff r thermodynam materi scienc nd ed taylor franci group new york
+extern link
+enthalpi eric weisstein world physic
+enthalpi georgia state univers
+enthalpi exampl calcul texa univers chemistri depart

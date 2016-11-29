@@ -1,0 +1,60 @@
+electromagnet induct product electromot forc across conductor expos time vari magnet field michael faraday mathemat describ faraday law induct general credit discoveri
+historyedit
+electromagnet induct first discov michael faraday made discoveri public discov independ joseph henri
+faraday first experiment demonstr august wrap two wire around opposit side iron ring torus arrang similar modern toroid transform base assess recent discov properti electromagnet expect current start flow one wire sort wave would travel ring caus electr effect opposit side plug one wire galvanomet watch connect wire batteri inde saw transient current call wave electr connect wire batteri anoth disconnect induct due chang magnet flux occur batteri connect disconnect within two month faraday found sever manifest electromagnet induct exampl saw transient current quick slid bar magnet coil wire generat steadi dc current rotat copper disk near bar magnet slide electr lead faraday disk
+faraday explain electromagnet induct use concept call line forc howev scientist time wide reject theoret idea main formul mathemat except jame clerk maxwel use faraday idea basi quantit electromagnet theori maxwel model time vari aspect electromagnet induct express differenti equat oliv heavisid refer faraday law even though slight differ faraday origin formul describ motion emf heavisid version see maxwellfaraday equat form recogn today group equat known maxwel equat
+heinrich lenz formul law name describ flux circuit lenz law give direct induc emf current result electromagnet induct elabor upon exampl
+follow understand brought law mani kind devic employ magnet induct invent
+theoryedit
+law physic describ process electromagnet induct known faraday law induct widespread version law state induc electromot forc close circuit equal rate chang magnet flux enclos circuit mathemat
+electromot forc emf b magnet flux direct electromot forc given lenz law version faraday law strict hold close circuit loop infinit thin wire invalid circumst differ version maxwellfaraday equat discuss valid circumst
+tight wound coil wire compos n ident turn magnet flux go result emf given
+faraday law induct make use magnet flux b hypothet surfac whose boundari wire loop sinc wire loop may move write surfac magnet flux defin surfac integr
+da element surfac area move surfac b magnet field bda vector dot product infinitesim amount magnet flux visual term magnet flux wire loop proport number magnet flux line pass loop
+flux changesbecaus b chang wire loop move deform bothfaraday law induct say wire loop acquir emf defin energi avail unit charg travel around wire loop equival voltag would measur cut wire creat open circuit attach voltmet lead
+accord lorentz forc law si unit
+emf wire loop
+e electr field b magnet field aka magnet flux densiti magnet induct d infinitesim arc length along wire line integr evalu along wire along curv coincid shape wire
+maxwellfaraday equationedit
+maxwellfaraday equat generalis faraday law state timevari magnet field alway accompani spatiallyvari nonconserv electr field vice versa maxwellfaraday equat
+si unit curl oper er electr field br magnet field field general function posit r time
+maxwellfaraday equat one four maxwel equat therefor play fundament role theori classic electromagnet also written integr form kelvinstok theorem
+indic figur
+surfac bound close contour
+e electr field b magnet field
+d infinitesim vector element contour
+da infinitesim vector element surfac direct orthogon surfac patch magnitud area infinitesim patch surfac
+d da sign ambigu get correct sign righthand rule use explain articl kelvinstok theorem planar surfac posit path element d curv defin righthand rule one point finger right hand thumb point direct normal n surfac
+integr around call path integr line integr
+applicationsedit
+principl electromagnet induct appli mani devic system includ
+electr generatoredit
+emf generat faraday law induct due relat movement circuit magnet field phenomenon under electr generat perman magnet move relat conductor vice versa electromot forc creat wire connect electr load current flow thus electr energi generat convert mechan energi motion electr energi exampl drum generat base upon figur right differ implement idea faraday disc shown simplifi form right
+faraday disc exampl disc rotat uniform magnet field perpendicular disc caus current flow radial arm due lorentz forc interest understand aris mechan work necessari drive current generat current flow conduct rim magnet field generat current ampr circuit law label induc b figur rim thus becom electromagnet resist rotat disc exampl lenz law far side figur return current flow rotat arm far side rim bottom brush bfield induc return current oppos appli bfield tend decreas flux side circuit oppos increas flux due rotat near side figur return current flow rotat arm near side rim bottom brush induc bfield increas flux side circuit oppos decreas flux due rotat thus side circuit generat emf oppos rotat energi requir keep disc move despit reactiv forc exact equal electr energi generat plus energi wast due friction joul heat ineffici behavior common generat convert mechan energi electr energi
+electr transformeredit
+electr current loop wire chang chang current creat chang magnet field second wire reach magnet field experi chang magnet field chang coupl magnet flux d b d therefor electromot forc set second loop call induc emf transform emf two end loop connect electr load current flow
+magnet flow meteredit
+faraday law use measur flow electr conduct liquid slurri instrument call magnet flow meter induc voltag generat magnet field b due conduct liquid move veloc v thus given
+distanc electrod magnet flow meter
+eddi currentsedit
+conductor finit dimens move uniform magnet field stationari within chang magnet field current induc within induc eddi current undesir sinc dissip energi resist conductor number method employ control undesir induct effect
+electromagnet electr motor generat transform use solid metal instead use thin sheet metal plate call lamin thin plate reduc parasit eddi current describ
+induct coil electron typic use magnet core minim parasit current flow mixtur metal powder plus resin binder hold shape binder prevent parasit current flow powder metal
+electromagnet laminationsedit
+eddi current occur solid metal mass rotat magnet field outer portion metal cut line forc inner portion henc induc electromot forc uniform tend set current point greatest least potenti eddi current consum consider amount energi often caus harm rise temperatur
+five lamin plate shown exampl show subdivis eddi current practic use number lamin punch rang per inch bring eddi current loss one percent plate separ insul voltag low natur rustoxid coat plate enough prevent current flow across lamin
+rotor approxim mm diamet dc motor use cd player note lamin electromagnet pole piec use limit parasit induct loss
+parasit induct within inductorsedit
+illustr solid copper bar inductor rotat armatur pass tip pole piec n field magnet note uneven distribut line forc across bar inductor magnet field concentr thus stronger left edg copper bar ab field weaker right edg cd sinc two edg bar move veloc differ field strength across bar creat whorl current eddi within copper bar
+high current powerfrequ devic electr motor generat transform use multipl small conductor parallel break eddi flow form within larg solid conductor principl appli transform use higher power frequenc exampl use switchmod power suppli intermedi frequenc coupl transform radio receiv
+see alsoedit
+referencesedit
+readingedit
+maxwel jame clerk treatis electr magnet vol ii chapter iii p oxford uk clarendon press isbn
+extern linksedit
+magnet academi
+simpl interact java tutori electromagnet induct nation high magnet field laboratori
+r vega induct faraday law lenz law high anim lectur
+faraday law emc engin
+tankersley mosca introduc faraday law
+free java simul motion emf

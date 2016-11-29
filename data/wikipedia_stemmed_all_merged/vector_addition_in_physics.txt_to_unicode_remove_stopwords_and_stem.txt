@@ -1,0 +1,185 @@
+mathemat physic engin euclidean vector sometim call geometr spatial vector ora heresimpli vector geometr object magnitud length direct ad vector accord vector algebra euclidean vector frequent repres line segment definit direct graphic arrow connect initi point termin point b denot
+vector need carri point point b latin word vector mean carrier first use th centuri astronom investig planet rotat around sun magnitud vector distanc two point direct refer direct displac b mani algebra oper real number addit subtract multipl negat close analogu vector oper obey familiar algebra law commut associ distribut oper associ law qualifi euclidean vector exampl general concept vector defin simpli element vector space
+vector play import role physic veloc acceler move object forc act describ vector mani physic quantiti use thought vector although repres distanc except exampl posit displac magnitud direct still repres length direct arrow mathemat represent physic vector depend coordin system use describ vectorlik object describ physic quantiti transform similar way chang coordin system includ pseudovector tensor
+historyedit
+concept vector know today evolv gradual period year dozen peopl made signific contribut
+giusto bellav abstract basic idea establish concept equipol work euclidean plane made equipol pair line segment length orient essenti realiz equival relat pair point plane thus erect first space vector plane
+term vector introduc william rowan hamilton part system quaternion q v scalar vector v thus hamilton vector dimension like bellav hamilton view vector repres class equipol direct segment complex number use imaginari unit complement real line hamilton consid vector v imaginari part quaternion
+algebra imaginari part geometr construct straight line radius vector general determin quaternion determin length determin direct space may call vector part simpli vector quaternion
+sever mathematician develop vectorlik system middl nineteenth centuri includ augustin cauchi hermann grassmann august mbius comt de saintven matthew obrien grassmann work theori der ebb und flut theori ebb flow first system spatial analysi similar today system idea correspond cross product scalar product vector differenti grassmann work larg neglect
+peter guthri tait carri quaternion standard hamilton elementari treatis quaternion includ extens treatment nabla del oper
+element dynam publish william kingdon clifford clifford simplifi quaternion studi isol dot product cross product two vector complet quaternion product approach made vector calcul avail engin other work three dimens skeptic fourth
+josiah willard gibb expos quaternion jame clerk maxwel treatis electr magnet separ vector part independ treatment first half gibbss element vector analysi publish present essenti modern system vector analysi edwin bidwel wilson publish vector analysi adapt gibb lectur banish mention quaternion develop vector calculus
+overviewedit
+physic engin vector typic regard geometr entiti character magnitud direct formal defin direct line segment arrow euclidean space pure mathemat vector defin general element vector space context vector abstract entiti may may character magnitud direct general definit impli abovement geometr entiti special kind vector element special kind vector space call euclidean space
+articl vector strict defin arrow euclidean space becom necessari distinguish special vector vector defin pure mathemat sometim refer geometr spatial euclidean vector
+arrow euclidean vector possess definit initi point termin point vector fix initi termin point call bound vector magnitud direct vector matter particular initi point import vector call free vector thus two arrow space repres free vector magnitud direct equival quadrilater abba parallelogram euclidean space equip choic origin free vector equival bound vector magnitud direct whose initi point origin
+term vector also general higher dimens formal approach much wider applic
+exampl one dimensionedit
+sinc physicist concept forc direct magnitud may seen vector exampl consid rightward forc f newton posit axi also direct rightward f repres vector n posit point leftward vector f n either case magnitud vector n likewis vector represent displac meter right would m m magnitud would m regardless
+physic engineeringedit
+vector fundament physic scienc use repres quantiti magnitud direct adher rule vector addit exampl veloc magnitud speed exampl veloc meter per second upward could repres vector dimens posit y axi anoth quantiti repres vector forc sinc magnitud direct follow rule vector addit vector also describ mani physic quantiti linear displac displac linear acceler angular acceler linear momentum angular momentum physic vector electr magnet field repres system vector point physic space vector field exampl quantiti magnitud direct fail follow rule vector addit angular displac electr current consequ vector
+cartesian spaceedit
+cartesian coordin system vector repres identifi coordin initi termin point instanc point b space determin free vector point point x xaxi point y yaxi
+typic cartesian coordin one consid primarili bound vector bound vector determin coordin termin point initi point alway coordin origin o thus bound vector repres vector unit length point origin along posit xaxi
+coordin represent vector allow algebra featur vector express conveni numer fashion exampl sum vector vector
+euclidean affin vectorsedit
+geometr physic set sometim possibl associ natur way length magnitud direct vector turn notion direct strict associ notion angl two vector length vector defin possibl also defin dot product scalarvalu product two vector give conveni algebra character length squar root dot product vector angl function dot product two nonzero vector three dimens possibl defin cross product suppli algebra character area orient space parallelogram defin two vector use side parallelogram
+howev alway possibl desir defin length vector natur way general type spatial vector subject vector space bound vector affin space free vector import exampl minkowski space import understand special relat general length permit nonzero vector zero length physic exampl come thermodynam mani quantiti interest consid vector space notion length angl
+generalizationsedit
+physic well mathemat vector often identifi tupl compon list number act scalar coeffici set basi vector basi transform exampl rotat stretch compon vector term basi also transform opposit sens vector chang basi compon vector must chang compens vector call covari contravari depend transform vector compon relat transform basi general contravari vector regular vector unit distanc displac distanc time unit veloc acceler covari vector hand unit oneoverdist gradient chang unit special case chang basi meter millimet scale factor displac m becom mma contravari chang numer valu contrast gradient km becom kmma covari chang valu see covari contravari vector tensor anoth type quantiti behav way vector one type tensor
+pure mathemat vector element vector space field often repres coordin vector vector describ articl special case general definit contravari respect ambient space contravari captur physic intuit behind idea vector magnitud direct
+representationsedit
+vector usual denot lowercas boldfac lowercas ital boldfac uppercas letter typic use repres matric convent includ especi handwrit altern use tild wavi underlin drawn beneath symbol eg convent indic boldfac type vector repres direct distanc displac point point b see figur also denot ab especi literatur german common repres vector small fraktur letter
+vector usual shown graph diagram arrow direct line segment illustr figur point call origin tail base initi point point b call head tip endpoint termin point final point length arrow proport vector magnitud direct arrow point indic vector direct
+twodimension diagram sometim vector perpendicular plane diagram desir vector common shown small circl circl dot centr unicod u indic vector point front diagram toward viewer circl cross inscrib unicod u indic vector point behind diagram thought view tip arrow head view flight arrow back
+order calcul vector graphic represent may cumbersom vector ndimension euclidean space repres coordin vector cartesian coordin system endpoint vector identifi order list n real number ntupl number coordin endpoint vector respect given cartesian coordin system typic call scalar compon scalar project vector axe coordin system
+exampl two dimens see figur vector origin o point simpli written
+notion tail vector coincid origin implicit easili understood thus explicit notat usual deem necessari rare use
+three dimension euclidean space r vector identifi tripl scalar compon
+also written
+generalis ndimension euclidean space rn
+number often arrang column vector row vector particular deal matric follow
+anoth way repres vector ndimens introduc standard basi vector instanc three dimens three
+intuit interpret vector unit length point x y z axi cartesian coordin system respect term vector r express form
+call vector compon vector project basi vector equival correspond cartesian axe x y z see figur respect scalar compon scalar project
+introductori physic textbook standard basi vector often instead denot hat symbol typic denot unit vector case scalar vector compon denot respect ax ay az ax ay az note differ boldfac thus
+notat ei compat index notat summat convent common use higher level mathemat physic engin
+decompositionedit
+explain vector often describ set vector compon add form given vector typic compon project vector set mutual perpendicular refer axe basi vector vector said decompos resolv respect set
+howev decomposit vector compon uniqu depend choic axe vector project
+moreov use cartesian unit vector basi repres vector mandat vector also express term arbitrari basi includ unit vector cylindr coordin system spheric coordin system latter two choic conveni solv problem possess cylindr spheric symmetri respect
+choic basi doesnt affect properti vector behaviour transform
+vector also decompos respect nonfix basi vector chang orient function time space exampl vector threedimension space decompos respect two axe respect normal tangent surfac see figur moreov radial tangenti compon vector relat radius rotat object former parallel radius latter orthogon
+case compon may turn decompos respect fix coordin system basi set eg global coordin system inerti refer frame
+basic propertiesedit
+follow section use cartesian coordin system basi vector
+assum vector origin common base point vector written
+equalityedit
+two vector said equal magnitud direct equival equal coordin equal two vector
+equal
+opposit parallel antiparallel vectorsedit
+two vector opposit magnitud opposit direct two vector
+opposit
+two vector parallel direct necessarili magnitud antiparallel opposit direct necessarili magnitud
+addit subtractionedit
+assum b necessarili equal vector may differ magnitud direct sum b
+addit may repres graphic place tail arrow b head arrow draw arrow tail head b new arrow drawn repres vector b illustr
+addit method sometim call parallelogram rule b form side parallelogram b one diagon b bound vector base point point also base point b one check geometr b b b c b c
+differ b
+subtract two vector geometr defin follow subtract b place tail b point draw arrow head b head new arrow repres vector b illustr
+subtract two vector may also perform ad opposit second vector first vector b b
+scalar multiplicationedit
+vector may also multipli rescal real number r context convent vector algebra real number often call scalar scale distinguish vector oper multipli vector scalar call scalar multipl result vector
+intuit multipli scalar r stretch vector factor r geometr visual least case r integ place r copi vector line endpoint one vector initi point next vector
+r negat vector chang direct flip around angl two exampl r r given
+scalar multipl distribut vector addit follow sens ra b ra rb vector b scalar r one also show b b
+lengthedit
+length magnitud norm vector denot less common confus absolut valu scalar norm
+length vector comput euclidean norm
+consequ pythagorean theorem sinc basi vector e e e orthogon unit vector
+happen equal squar root dot product discuss vector
+unit vector
+unit vector vector length one normal unit vector use simpli indic direct vector arbitrari length divid length creat unit vector known normal vector unit vector often indic hat
+normal vector scale vector reciproc length
+zero vector
+zero vector vector length zero written coordin vector common denot simpli unlik vector arbitrari indetermin direct cannot normal unit vector multipl zero vector sum zero vector vector
+dot productedit
+dot product two vector b sometim call inner product sinc result scalar scalar product denot b defin
+measur angl b see trigonometr function explan cosin geometr mean b drawn common start point length multipli length compon b point direct
+dot product also defin sum product compon vector
+cross productedit
+cross product also call vector product outer product meaning three seven dimens cross product differ dot product primarili result cross product two vector vector cross product denot b vector perpendicular b defin
+measur angl b n unit vector perpendicular b complet righthand system righthanded constraint necessari exist two unit vector perpendicular b name n n
+cross product b defin b b also becom righthand system note b necessarili orthogon righthand rule
+length b interpret area parallelogram b side
+cross product written
+arbitrari choic spatial orient allow lefthand well righthand coordin system cross product two vector pseudovector instead vector see
+scalar tripl productedit
+scalar tripl product also call box product mix tripl product realli new oper way appli two multipl oper three vector scalar tripl product sometim denot b c defin
+three primari use first absolut valu box product volum parallelepip edg defin three vector second scalar tripl product zero three vector linear depend easili prove consid order three vector make volum must lie plane third box product posit three vector b c righthand
+compon respect righthand orthonorm basi three vector thought row column order scalar tripl product simpli determin matrix three vector row
+scalar tripl product linear three entri antisymmetr follow sens
+multipl cartesian basesedit
+exampl thus far dealt vector express term basi name e e e howev vector express term number differ base necessarili align still remain vector exampl use vector
+n n n form anoth orthonorm basi align e e e valu u v w result vector sum exact
+uncommon encount vector known term differ base exampl one basi fix earth second basi fix move vehicl order perform mani oper defin necessari know vector term basi one simpl way express vector known one basi term anoth use column matric repres vector basi along third matrix contain inform relat two base exampl order find valu u v w defin n n n basi matrix multipl may employ form
+matrix element cjk direct cosin relat nj ek term direct cosin refer cosin angl two unit vector also equal dot product
+refer collect e e e e basi n n n n basi matrix contain cjk known transform matrix e n rotat matrix e n imagin rotat vector one basi anoth direct cosin matrix e n contain direct cosin
+properti rotat matrix invers equal transpos mean rotat matrix e n transpos rotat matrix n e
+appli sever matrix multipl success vector express basi long set direct cosin known relat success base
+dimensionsedit
+except cross tripl product formula generalis two dimens higher dimens exampl addit generalis two dimens
+four dimens
+cross product readili generalis dimens though close relat exterior product whose result bivector two dimens simpli pseudoscalar
+sevendimension cross product similar cross product result vector orthogon two argument howev natur way select one possibl product
+physicsedit
+vector mani use physic scienc
+length unitsedit
+abstract vector space length arrow depend dimensionless scale repres exampl forc scale physic dimens lengthforc thus typic consist scale among quantiti dimens otherwis scale ratio may vari exampl newton m repres arrow cm scale m n respect equal length vector differ dimens particular signific unless proport constant inher system diagram repres also length unit vector dimens length lengthforc etc coordinatesysteminvari signific
+vectorvalu functionsedit
+often area physic mathemat vector evolv time mean depend time paramet instanc r repres posit vector particl rt give parametr represent trajectori particl vectorvalu function differenti integr differenti integr compon vector mani familiar rule calculus continu hold deriv integr vectorvalu function
+posit veloc accelerationedit
+posit point x x x x threedimension space repres posit vector whose base point origin
+posit vector dimens length
+given two point x x x x y y y y displac vector
+specifi posit y relat x length vector give straightlin distanc x y displac dimens length
+veloc v point particl vector length give speed constant veloc posit time
+x posit time veloc time deriv posit dimens lengthtim
+acceler point vector time deriv veloc dimens lengthtim
+forc energi workedit
+forc vector dimens masslengthtim newton second law scalar multipl
+work dot product forc displac
+vector direct derivativesedit
+vector may also defin direct deriv consid function curv direct deriv scalar defin
+index sum appropri number dimens exampl dimension euclidean space dimension spacetim etc consid vector tangent
+direct deriv rewritten differenti form without given function
+therefor direct deriv identifi correspond vector vector identifi correspond direct deriv vector therefor defin precis
+vector pseudovector transformationsedit
+altern character euclidean vector especi physic describ list quantiti behav certain way coordin transform contravari vector requir compon transform opposit basi chang basi vector chang basi transform instead compon vector make chang cancel chang basi word refer axe basi deriv rotat one direct compon represent vector would rotat opposit way generat final vector similar refer axe stretch one direct compon vector would reduc exact compens way mathemat basi undergo transform describ invert matrix m coordin vector x transform x mx contravari vector v must similar transform via v mv import requir distinguish contravari vector tripl physic meaning quantiti exampl v consist x y zcompon veloc v contravari vector coordin space stretch rotat twist compon veloc transform way hand instanc tripl consist length width height rectangular box could make three compon abstract vector vector would contravari sinc rotat box chang box length width height exampl contravari vector includ displac veloc electr field momentum forc acceler
+languag differenti geometri requir compon vector transform accord matrix coordin transit equival defin contravari vector tensor contravari rank one altern contravari vector defin tangent vector rule transform contravari vector follow chain rule
+vector transform like contravari vector except reflect mirror flip gain minus sign transform switch righthanded lefthanded vice versa like mirror said chang orient space vector gain minus sign orient space chang call pseudovector axial vector ordinari vector sometim call true vector polar vector distinguish pseudovector pseudovector occur frequent cross product two ordinari vector
+one exampl pseudovector angular veloc drive car look forward wheel angular veloc vector point left world reflect mirror switch left right side car reflect angular veloc vector point right actual angular veloc vector wheel still point left correspond minus sign exampl pseudovector includ magnet field torqu general cross product two true vector
+distinct vector pseudovector often ignor becom import studi symmetri properti see pariti physic
+see alsoedit
+affin space distinguish vector point
+array data structur vector comput scienc
+banach space
+clifford algebra
+complex number
+coordin system
+covari contravari vector
+fourvector noneuclidean vector minkowski space ie fourdimension spacetim import relat
+function space
+grassmann ausdehnungslehr
+hilbert space
+normal vector
+null vector
+pseudovector
+quaternion
+tangenti normal compon vector
+tensor
+unit vector
+vector bundl
+vector calculus
+vector notat
+vectorvalu function
+notesedit
+referencesedit
+mathemat treatment
+apostol calculus vol onevari calculus introduct linear algebra john wiley son isbn
+apostol calculus vol multivari calculus linear algebra applic john wiley son isbn
+kane thoma r levinson david dynam onlin sunnyval california onlin dynam inc
+heinbockel j h introduct tensor calculus continuum mechan trafford publish isbn
+ito kiyosi encycloped dictionari mathemat nd ed mit press isbn
+ivanov ab vector geometr hazewinkel michiel encyclopedia mathemat springer isbn
+pedo d geometri comprehens cours dover isbn
+physic treatment
+ari r vector tensor basic equat fluid mechan dover isbn
+feynman r leighton r sand m chapter feynman lectur physic volum nd ed addison wesley isbn
+extern linksedit
+hazewinkel michiel ed vector encyclopedia mathemat springer isbn
+onlin vector ident pdf
+introduc vector conceptu introduct appli mathemat
+addit forc vector java applet
+french tutori vector applic video game

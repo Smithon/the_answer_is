@@ -1,0 +1,86 @@
+magnetohydrodynam mhd magneto fluid dynam hydromagnet studi magnet properti electr conduct fluid exampl magnetofluid includ plasma liquid metal salt water electrolyt word magnetohydrodynam mhd deriv magneto mean magnet field hydro mean water dynam mean movement field mhd initi hann alfvn receiv nobel prize physic
+fundament concept behind mhd magnet field induc current move conduct fluid turn polar fluid reciproc chang magnet field set equat describ mhd combin navierstok equat fluid dynam maxwel equat electromagnet differenti equat must solv simultan either analyt numer
+histori
+first record use word magnetohydrodynam hann alfvn
+last remark made transfer momentum sun planet fundament theori import magnetohydrodynam wave respect point
+eb salti water flow past london waterloo bridg interact earth magnet field produc potenti differ two riverbank michael faraday tri experi current small measur equip time river bed contribut shortcircuit signal howev similar process voltag induc tide english channel measur
+ideal resist mhd
+simplest form mhd ideal mhd assum fluid littl resist treat perfect conductor limit infinit magnet reynold number ideal mhd lenz law dictat fluid sens tie magnet field line explain ideal mhd small ropelik volum fluid surround field line continu lie along magnet field line even twist distort fluid flow system sometim refer magnet field line frozen fluid connect magnet field line fluid ideal mhd fix topolog magnet field fluidfor exampl set magnet field line tie knot remain long fluidplasma neglig resist difficulti reconnect magnet field line make possibl store energi move fluid sourc magnet field energi becom avail condit ideal mhd break allow magnet reconnect releas store energi magnet field
+ideal mhd equat
+ideal mhd equat consist continu equat cauchi momentum equat amper law neglect displac current temperatur evolut equat fluid descript kinet system closur approxim must appli highest moment particl distribut equat often accomplish approxim heat flux condit adiabat isotherm
+follow magnet field electr field bulk plasma veloc current densiti mass densiti plasma pressur time continu equat
+cauchi momentum equat
+lorentz forc term expand use amper law ident give
+first term right hand side magnet tension forc second term magnet pressur forc ideal ohm law plasma given
+faraday law
+lowfrequ amper law neglect displac current given
+magnet diverg constraint
+energi equat given
+ratio specif heat adiabat equat state energi equat cours applic absenc shock heat conduct assum entropi fluid element chang
+applic ideal mhd plasma
+ideal mhd strict applic
+plasma strong collision time scale collis shorter characterist time system particl distribut therefor close maxwellian
+resist due collis small particular typic magnet diffus time scale length present system must longer time scale interest
+interest length scale much longer ion skin depth larmor radius perpendicular field long enough along field ignor landau damp time scale much longer ion gyrat time system smooth slowli evolv
+import resist
+imperfect conduct fluid magnet field general move fluid follow diffus law resist plasma serv diffus constant mean solut ideal mhd equat applic limit time region given size diffus becom import ignor one estim diffus time across solar activ region collision resist hundr thousand year much longer actual lifetim sunspotso would seem reason ignor resist contrast meters volum seawat magnet diffus time measur millisecond
+even physic system larg conduct enough simpl estim lundquist number suggest resist ignor resist may still import mani instabl exist increas effect resist plasma factor billion enhanc resist usual result format small scale structur like current sheet fine scale magnet turbul introduc small spatial scale system ideal mhd broken magnet diffus occur quick happen magnet reconnect may occur plasma releas store magnet energi wave bulk mechan acceler materi particl acceler heat
+magnet reconnect high conduct system import concentr energi time space gentl forc appli plasma long period time caus violent explos burst radiat
+fluid cannot consid complet conduct condit ideal mhd satisfi possibl use extend model call resist mhd includ extra term ohm law model collision resist general mhd comput simul least somewhat resist comput grid introduc numer resist
+import kinet effect
+anoth limit mhd fluid theori general depend assumpt plasma strong collision first criterion list time scale collis shorter characterist time system particl distribut maxwellian usual case fusion space astrophys plasma case interest smaller spatial scale may necessari use kinet model proper account nonmaxwellian shape distribut function howev mhd relat simpl captur mani import properti plasma dynam often qualit accur therefor often first model tri
+effect essenti kinet captur fluid model includ doubl layer landau damp wide rang instabl chemic separ space plasma electron runaway case ultrahigh intens laser interact incred short timescal energi deposit mean hydrodynam code fail captur essenti physic
+structur mhd system
+mani mhd system electr current compress thin nearlytwodimension ribbon term current sheet divid fluid magnet domain insid current relat weak current sheet solar corona thought meter kilomet thick quit thin compar magnet domain thousand hundr thousand kilomet across anoth exampl earth magnetospher current sheet separ topolog distinct domain isol earth ionospher solar wind
+wave
+wave mode deriv use mhd plasma theori call magnetohydrodynam wave mhd wave general three mhd wave mode
+pure obliqu alfvn wave
+slow mhd wave
+fast mhd wave
+wave constant phase veloc frequenc henc dispers limit angl wave propag vector k magnet field b either degre wave mode call
+phase veloc depend angl wave vector k magnet field b mhd wave propag arbitrari angl respect time independ bulk field satisfi dispers relat
+alfvn speed branch correspond shear alfvn mode addit dispers equat giveswherei ideal gas sound speed plus branch correspond fastmhd wave mode minus branch correspond slowmhd wave mode
+mhd oscil damp fluid perfect conduct finit conduct viscous effect present
+mhd wave oscil popular tool remot diagnost laboratori astrophys plasma eg corona sun coron seismolog
+extens
+resist
+resist mhd describ magnet fluid finit electron diffus diffus lead break magnet topolog magnet field line reconnect collid usual term small reconnect handl think dissimilar shock process shown import earthsolar magnet interact
+extend
+extend mhd describ class phenomena plasma higher order resist mhd adequ treat singl fluid descript includ effect hall physic electron pressur gradient finit larmor radii particl gyromot electron inertia
+twofluid
+twofluid mhd describ plasma includ nonneglig hall electr field result electron ion momenta must treat separ descript close tie maxwel equat evolut equat electr field exist
+hall
+m j lighthil critic applic ideal resist mhd theori plasma concern neglect hall current term frequent simplif made magnet fusion theori hallmagnetohydrodynam hmhd take account electr field descript magnetohydrodynam import differ absenc field line break magnet field tie electron bulk fluid
+collisionless
+mhd also often use collisionless plasma case mhd equat deriv vlasov equat
+reduc
+use multiscal analysi resist mhd equat reduc set four close scalar equat allow eg effici numer calcul
+applic
+geophys
+beneath earth mantl lie core made two part solid inner core liquid outer core signific quantiti iron liquid outer core move presenc magnet field eddi set due corioli effect eddi develop magnet field boost earth origin magnet fielda process selfsustain call geomagnet dynamo
+base mhd equat glatzmaier paul robert made supercomput model earth interior run simul thousand year virtual time chang earth magnet field studi simul result good agreement observ simul correct predict earth magnet field flip everi hundr thousand year flip magnet field vanish altogetherit get complic
+earthquak
+monitor station report earthquak sometim preced spike ulf activ remark exampl occur loma prieta earthquak california although subsequ studi indic littl sensor malfunct decemb geoscientist announc demet satellit observ dramat increas ulf radio wave haiti month magnitud mw earthquak research attempt learn correl find whether method use part earli warn system earthquak
+astrophys cosmolog
+mhd appli quit well astrophys cosmolog sinc baryon matter content univers made plasma includ star interplanetari medium space planet interstellar medium space star intergalact medium nebula jet mani astrophys system local thermal equilibrium therefor requir addit kinemat treatment describ phenomena within system see astrophys plasma
+sunspot caus sun magnet field joseph larmor theoriz solar wind also govern mhd differenti solar rotat may longterm effect magnet drag pole sun mhd phenomenon due parker spiral shape assum extend magnet field sun
+previous theori describ format sun planet could explain sun mass yet angular momentum solar system close system cloud gas dust sun form mass angular momentum conserv conserv would impli mass concentr center cloud form sun would spin faster much like skater pull arm high speed rotat predict earli theori would flung protosun apart could form howev magnetohydrodynam effect transfer sun angular momentum outer solar system slow rotat
+breakdown ideal mhd form magnet reconnect known caus solar flare largest explos solar system magnet field solar activ region sunspot becom quit stress time store energi releas sudden burst motion xray radiat main current sheet collaps reconnect field
+paper koh haslam includ detail summari work done studi primordi magnet field cosmolog context part summari display
+magnet field thought play major role earli univers well known inflat earli univers good conductor even though number densiti free electron drop dramat recombin residu valu enough maintain high conduct baryon matter result cosmic magnet field remain frozen expand baryon fluid evolut one analyz magnet effect dynam earli univers ideal magnetohydrodynam hereaft refer mhd magnet field sourc consid perfect conductor energi momentum tensor ordinari magnet field
+hughston jacob show case pure magnet field bianchi type ii vi type iii vii admit field compon wherea type iv v vi vii viii ix admit field compon result led number paper bianchi model perfectfluid magnet field sourc
+respect dynam system approach appli latter leblanc studi bianchi type ii magnet cosmolog provid analysi futur past asymptot state result dynam system leblanc also studi asymptot state magnet perfectfluid bianchi type cosmolog paper new solut einstein field equat discov use phase plane analysi techniqu c b collin studi behaviour class perfectfluid anisotrop cosmolog model establish correspond magnet model bianchi type perfect fluid model bianchi type ii addit leblanc kerr wainwright studi asymptot state magnet bianchi type vi cosmolog work show finit probabl arbitrarili select model close isotropi time interv evolut note barrow maarten tsaga signific work reformul covari descript magnetohydrodynam equat provid understand clariti role largeval electromagnet field perturb friedmannlemaitrerobertsonwalk model
+viscous mhd bianchi model special interest regard earlyunivers cosmolog present literatur number occas van leeuwen salvati studi dynam general bianchi class model contain magnetovisc fluid largescal magnet field banerje sanyal present exact solut bianchi type iii cosmolog model consist viscous fluid axial magnet field benton tupper studi bianchi type model powersoft metric influenc viscous fluid magnet field salvati schell van leeuwen numer analyz evolut bianchi type univers viscous fluid largescal magnet field ribeiro sanyal studi bianchi type viscous fluid cosmolog axial magnet field obtain exact solut einstein field equat assum linear relat among squar root matter densiti shear expans scalar work koh haslam also give detail analysi base dynam system theori evolut bianchi type model presenc viscous fluid also discov new solut einstein field equat
+sensor
+magnetohydrodynam sensor use precis measur angular veloc inerti navig system aerospac engin accuraci improv size sensor sensor capabl surviv harsh environ
+engin
+mhd relat engin problem plasma confin liquidmet cool nuclear reactor electromagnet cast among other
+magnetohydrodynam drive mhd propulsor method propel seago vessel use electr magnet field move part use magnetohydrodynam work principl involv electrif propel gas water direct magnet field push vehicl opposit direct although work prototyp exist mhd drive remain impract
+first prototyp kind propuls built test steward way professor mechan engin univers california santa barbara way leav job westinghous electr assign senioryear undergradu student develop submarin new propuls system earli mitsubishi built boat yamato use magnetohydrodynam drive incorpor superconductor cool liquid helium could travel kmh
+mhd power generat fuel potassiumseed coal combust gas show potenti effici energi convers absenc solid move part allow oper higher temperatur fail due costprohibit technic difficulti one major engin problem failur wall primaryco combust chamber due abras
+microfluid mhd studi fluid pump produc continu nonpuls flow complex microchannel design
+magnet drug target
+import task cancer research develop precis method deliveri medicin affect area one method involv bind medicin biolog compat magnet particl eg ferrofluid guid target via care placement perman magnet extern bodi magnetohydrodynam equat finit element analysi use studi interact magnet fluid particl bloodstream extern magnet field
+see also
+note
+refer

@@ -1,0 +1,92 @@
+torqu moment moment forc see terminolog tendenc forc rotat object axi fulcrum pivot forc push pull torqu thought twist object mathemat torqu defin cross product posit vector point forc appli distanc vector forc vector tend produc rotat
+loos speak torqu measur turn forc object bolt flywheel exampl push pull handl wrench connect nut bolt produc torqu turn forc loosen tighten nut bolt
+symbol torqu typic lowercas greek letter tau call moment forc common denot m
+magnitud torqu depend three quantiti forc appli length lever arm connect axi point forc applic angl forc vector lever arm symbol
+torqu vector magnitud torqu
+r posit vector vector origin coordin system defin point forc appli
+f forc vector
+denot cross product
+angl forc vector lever arm vector
+si unit torqu newton metr nm unit torqu see unit
+terminologyedit
+articl follow us physic terminolog use word torqu uk us mechan engin call moment forc usual shorten moment us physic uk physic terminolog term interchang unlik us mechan engin term torqu use close relat result moment coupl
+torqu defin mathemat rate chang angular momentum object definit torqu state one angular veloc moment inertia object chang moment general term use tendenc one appli forc rotat object axi necessarili chang angular momentum object concept call torqu physic exampl rotat forc appli shaft caus acceler drill bit acceler rest result moment call torqu contrast later forc beam produc moment call bend moment sinc angular momentum beam chang bend moment call torqu similar forc coupl object chang angular momentum moment also call torqu
+articl follow us physic terminolog call moment term torqu whether caus angular momentum object chang
+historyedit
+concept torqu also call moment coupl origin studi archimed lever term torqu appar introduc english scientif literatur jame thomson brother lord kelvin
+definit relat angular momentumedit
+forc appli right angl lever multipli distanc lever fulcrum length lever arm torqu forc three newton appli two metr fulcrum exampl exert torqu forc one newton appli six metr fulcrum direct torqu determin use right hand grip rule finger right hand curl direct lever arm direct forc thumb point direct torqu
+general torqu particl posit r refer frame defin cross product
+r particl posit vector relat fulcrum f forc act particl magnitud torqu given
+r distanc axi rotat particl f magnitud forc appli angl posit forc vector altern
+f amount forc direct perpendicular posit particl forc direct parallel particl posit vector produc torqu
+follow properti cross product torqu vector perpendicular posit forc vector torqu vector point along axi rotat forc vector start rest would initi result torqu vector direct determin righthand rule
+unbalanc torqu bodi along axi rotat determin rate chang bodi angular momentum
+l angular momentum vector time multipl torqu act bodi instead net torqu determin rate chang angular momentum
+rotat fix axi
+moment inertia angular veloc follow
+angular acceler bodi measur rad equat limit torqu equat describ instantan axi rotat center mass type motion whether pure translat pure rotat mix motion moment inertia point torqu written either instantan axi rotat center mass bodi translatori equilibrium torqu equat point plane motion
+torqu necessarili limit rotat around fix axi howev may chang magnitud andor direct angular momentum vector depend angl veloc vector nonradi compon forc vector view pivot frame refer net torqu spin bodi therefor may result precess without necessarili caus chang spin rate
+proof equival definitionsedit
+definit angular momentum singl particl
+indic vector cross product p particl linear momentum r displac vector origin origin assum fix locat anywher space timederiv
+result easili proven split vector compon appli product rule use definit forc whether mass constant definit veloc
+cross product momentum associ veloc zero veloc momentum parallel second term vanish
+definit torqu r f therefor torqu particl equal first deriv angular momentum respect time
+multipl forc appli newton second law instead read fnet ma follow
+general proof
+unitsedit
+torqu dimens forc time distanc symbol lmt offici si literatur suggest use unit newton metr nm unit joul per radian unit newton metr proper denot nm n m avoid ambigu mn millinewton
+si unit energi work joul dimension equival forc one newton act distanc one metr use torqu energi torqu entir differ concept practic use differ unit name ie reserv newton metr torqu use joul energi help avoid mistak misunderstand dimension equival unit cours simpli coincid torqu nm appli full revolut requir energi exact joul mathemat
+e energi magnitud torqu angl move radian equat motiv altern unit name joul per radian
+imperi unit poundforcefeet lbft footpoundsforc inchpoundsforc ounceforceinch ozin use nonsi unit torqu includ metrekilogramsforc unit word forc often left exampl abbrevi poundforcefoot simpli poundfoot case would implicit pound poundforc poundmass exampl confus caus use english unit may avoid si unit care distinct si forc newton mass kilogram
+torqu sometim list unit make dimension sens gramcentimet case gram understood forc given weight gram surfac earth ie n surfac earth understood standard acceler graviti ms
+special case factsedit
+moment arm formulaedit
+use special case often given definit torqu field physic follow
+construct moment arm shown figur right along vector r f mention problem definit give direct torqu magnitud henc difficult use threedimension case forc perpendicular displac vector r moment arm equal distanc centr torqu maximum given forc equat magnitud torqu aris perpendicular forc
+exampl person place forc n termin end wrench m long forc n exact m twist point wrench length torqu nm assum person move wrench appli forc plane movement perpendicular wrench
+static equilibriumedit
+object static equilibrium must sum forc zero also sum torqu moment point twodimension situat horizont vertic forc sum forc requir two equat h v torqu third equat solv static determin equilibrium problem twodimens three equat use
+net forc versus torqueedit
+net forc system zero torqu measur point space exampl torqu currentcarri loop uniform magnet field regardless point refer net forc zero torqu measur torqu measur
+machin torqueedit
+torqu part basic specif engin power output engin express torqu multipli rotat speed axi internalcombust engin produc use torqu limit rang rotat speed typic around rpm small car vari torqu output rang measur dynamomet shown torqu curv
+steam engin electr motor tend produc maximum torqu close zero rpm torqu diminish rotat speed rise due increas friction constraint reciproc steam engin start heavi load zero rpm without clutch
+relationship torqu power energyedit
+forc allow act distanc mechan work similar torqu allow act rotat distanc work mathemat rotat fix axi center mass
+w work torqu repres respect initi final angular posit bodi follow workenergi theorem w also repres chang rotat kinet energi er bodi given
+moment inertia bodi angular speed
+power work per unit time given
+p power torqu angular veloc repres scalar product
+algebra equat may rearrang comput torqu given angular speed power output note power inject torqu depend instantan angular speed whether angular speed increas decreas remain constant torqu appli equival linear case power inject forc depend instantan speed result acceler
+practic relationship observ bicycl bicycl typic compos two road wheel front rear gear refer sprocket mesh circular chain derailleur mechan bicycl transmiss system allow multipl gear ratio use ie multispe bicycl attach frame cyclist person ride bicycl provid input power turn pedal therebi crank front sprocket common refer chainr input power provid cyclist equal product cadenc ie number pedal revolut per minut torqu spindl bicycl crankset bicycl drivetrain transmit input power road wheel turn convey receiv power road output power bicycl depend gear ratio bicycl torqu rpminput pair convert torqu rpmoutput pair use larger rear gear switch lower gear multispe bicycl angular speed road wheel decreas torqu increas product ie power chang
+consist unit must use metric si unit power watt torqu newton metr angular speed radian per second rpm revolut per second
+also unit newton metr dimension equival joul unit energi howev case torqu unit assign vector wherea energi assign scalar
+convers unitsedit
+convers factor may necessari use differ unit power torqu exampl rotat speed revolut per time use place angular speed radian per time multipli factor radian per revolut follow formula p power torqu rotat speed
+show unit
+divid second per minut give us follow
+rotat speed revolut per minut rpm
+peopl eg american automot engin use horsepow imperi mechan power footpound lbfft torqu rpm rotat speed result formula chang
+constant foot pound per minut chang definit horsepow exampl use metric horsepow becom approxim
+use unit eg btu per hour power would requir differ custom convers factor
+derivationedit
+rotat object linear distanc cover circumfer rotat product radius angl cover linear distanc radius angular distanc definit linear distanc linear speed time radius angular speed time
+definit torqu torqu radius forc rearrang determin forc torqu radius two valu substitut definit power
+radius r time drop equat howev angular speed must radian assum direct relationship linear speed angular speed begin deriv rotat speed measur revolut per unit time linear speed distanc increas proportion deriv give
+torqu newton metr rotat speed revolut per second equat give power newton metr per second watt imperi unit use torqu poundsforc feet rotat speed revolut per minut equat give power foot poundsforc per minut horsepow form equat deriv appli convers factor ftlbfmin per horsepow
+principl momentsedit
+principl moment also known varignon theorem confus geometr theorem name state sum torqu due sever forc appli singl point equal torqu due sum result forc mathemat follow
+torqu multiplieredit
+torqu multipli gear box reduct ratio greater given torqu input get multipli per reduct ratio transmit output therebi achiev greater torqu reduc rotat speed
+see alsoedit
+referencesedit
+extern linksedit
+horsepow torqu articl show power torqu gear affect vehicl perform
+torqu vs horsepow yet anoth argument automot perspect
+discuss torqu angular momentum onlin textbook
+torqu angular momentum circular motion project physnet
+interact simul torqu
+torqu unit convert
+feel torqu orderofmagnitud interact

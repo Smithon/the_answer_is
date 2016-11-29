@@ -1,0 +1,62 @@
+mechan physic simpl harmon motion type period motion restor forc direct proport displac act direct opposit displac
+simpl harmon motion serv mathemat model varieti motion oscil spring addit phenomena approxim simpl harmon motion includ motion simpl pendulum well molecular vibrat simpl harmon motion typifi motion mass spring subject linear elast restor forc given hook law motion sinusoid time demonstr singl reson frequenc simpl harmon motion accur model pendulum net forc object end pendulum must proport displac good approxim angl swing small
+simpl harmon motion provid basi character complic motion techniqu fourier analysi
+introduct
+diagram simpl harmon oscil consist weight attach one end spring shown end spring connect rigid support wall system left rest equilibrium posit net forc act mass howev mass displac equilibrium posit spring exert restor elast forc obey hook law
+mathemat restor forc f given
+f restor elast forc exert spring si unit n k spring constant nm x displac equilibrium posit m
+simpl mechan harmon oscil
+system displac equilibrium posit restor forc obey hook law tend restor system equilibrium
+mass displac equilibrium posit experi net restor forc result acceler start go back equilibrium posit mass move closer equilibrium posit restor forc decreas equilibrium posit net restor forc vanish howev x mass momentum acceler restor forc impart therefor mass continu past equilibrium posit compress spring net restor forc slow veloc reach zero whereupon acceler back equilibrium posit
+long system energi loss mass continu oscil thus simpl harmon motion type period motion
+dynam simpl harmon motion
+onedimension simpl harmon motion equat motion secondord linear ordinari differenti equat constant coeffici obtain mean newton second law hook law mass spring
+m inerti mass oscil bodi x displac equilibrium mean posit k constant spring constant mass spring
+therefor
+solv differenti equat produc solut sinusoid function
+solut c c two constant determin initi condit origin set equilibrium posit constant carri physic mean motion amplitud maximum displac equilibrium posit f angular frequenc phase
+use techniqu calculus veloc acceler function time found
+speed
+maximum speed equilibrium point
+maximum acceler extrem point
+definit mass m shm acceler direct proport displac
+sinc f
+sinc f time period
+equat demonstr simpl harmon motion isochron period frequenc independ amplitud initi phase motion
+energi
+kinet energi k system time
+potenti energi
+total mechan energi system therefor constant valu
+exampl
+follow physic system exampl simpl harmon oscil
+mass spring
+mass m attach spring spring constant k exhibit simpl harmon motion close space equat
+show period oscil independ amplitud gravit acceler equat also valid case addit constant forc appli mass ie addit constant forc cannot chang period oscil
+uniform circular motion
+simpl harmon motion consid onedimension project uniform circular motion object move angular speed around circl radius r center origin xy plane motion along coordin simpl harmon motion amplitud r angular frequenc
+mass simpl pendulum
+smallangl approxim motion simpl pendulum approxim simpl harmon motion period mass attach pendulum length gravit acceler g given
+show period oscil independ amplitud mass pendulum acceler due graviti g therefor pendulum length moon would swing slowli due moon lower gravit field strength
+approxim accur small angl express angular acceler proport sine displac angl
+moment inertia small sin therefor express becom
+make angular acceler direct proport satisfi definit simpl harmon motion
+scotch yoke
+scotch yoke mechan use convert rotat motion linear reciproc motion linear motion take various form depend shape slot basic yoke constant rotat speed produc linear motion simpl harmon form
+see also
+smallangl approxim
+isochron
+uniform circular motion
+complex harmon motion
+damp
+harmon oscil
+pendulum mathemat
+circl group
+note
+refer
+walker jearl principl physic th ed hoboken nj wiley isbn
+thornton stephen marion jerri b classic dynam particl system th ed brook cole isbn
+john r taylor classic mechan univers scienc book isbn x
+grant r fowl georg l cassiday analyt mechan th ed thomson brookscol isbn
+extern link
+simpl harmon motion hyperphys
+java simul springmass oscil

@@ -1,0 +1,122 @@
+electr imped measur opposit circuit present current voltag appli
+quantit term complex ratio voltag current altern current ac circuit imped extend concept resist ac circuit possess magnitud phase unlik resist magnitud circuit driven direct current dc distinct imped resist latter thought imped zero phase angl
+necessari introduc concept imped ac circuit two addit imped mechan taken account besid normal resist dc circuit induct voltag conductor selfinduc magnet field current induct electrostat storag charg induc voltag conductor capacit imped caus two effect collect refer reactanc form imaginari part complex imped wherea resist form real part
+symbol imped usual z may repres write magnitud phase form z howev cartesian complex number represent often power circuit analysi purpos
+term imped coin oliv heavisid juli arthur kennelli first repres imped complex number
+imped defin frequenc domain ratio voltag current word voltagecurr ratio singl complex exponenti particular frequenc general imped complex number unit resist si unit ohm sinusoid current voltag input polar form complex imped relat amplitud phase voltag current particular
+magnitud complex imped ratio voltag amplitud current amplitud
+phase complex imped phase shift current lag voltag
+reciproc imped admitt ie admitt currenttovoltag ratio convent carri unit siemen former call mhos
+complex impedanceedit
+imped repres complex quantiti term complex imped may use interchang
+polar form conveni captur magnitud phase characterist
+magnitud repres ratio voltag differ amplitud current amplitud argument common given symbol give phase differ voltag current imaginari unit use instead context avoid confus symbol electr current
+cartesian form imped defin
+real part imped resist imaginari part reactanc
+need add subtract imped cartesian form conveni quantiti multipli divid calcul becom simpler polar form use circuit calcul find total imped two imped parallel may requir convers form sever time calcul convers form follow normal convers rule complex number
+ohm lawedit
+mean electr imped understood substitut ohm law
+magnitud imped act like resist give drop voltag amplitud across imped given current phase factor tell us current lag voltag phase ie time domain current signal shift later respect voltag signal
+imped extend ohm law cover ac circuit result dc circuit analysi voltag divis current divis thvenin theorem norton theorem also extend ac circuit replac resist imped
+complex voltag currentedit
+order simplifi calcul sinusoid voltag current wave common repres complexvalu function time denot
+imped defin ratio quantiti
+substitut ohm law
+note must hold may equat magnitud phase obtain
+magnitud equat familiar ohm law appli voltag current amplitud second equat defin phase relationship
+valid complex representationedit
+represent use complex exponenti may justifi note euler formula
+realvalu sinusoid function repres either voltag current may broken two complexvalu function principl superposit may analys behaviour sinusoid lefthand side analys behaviour two complex term righthand side given symmetri need perform analysi one righthand term result ident end calcul may return realvalu sinusoid note
+phasorsedit
+phasor constant complex number usual express exponenti form repres complex amplitud magnitud phase sinusoid function time phasor use electr engin simplifi comput involv sinusoid often reduc differenti equat problem algebra one
+imped circuit element defin ratio phasor voltag across element phasor current element determin relat amplitud phase voltag current ident definit ohm law given recognis factor cancel
+devic examplesedit
+imped ideal resistor pure real refer resist imped
+case voltag current waveform proport phase
+ideal inductor capacitor pure imaginari reactiv imped
+imped inductor increas frequenc increas
+imped capacitor decreas frequenc increas
+case appli sinusoid voltag result current also sinusoid quadratur degre phase voltag howev phase opposit sign inductor current lag capacitor current lead
+note follow ident imaginari unit reciproc
+thus inductor capacitor imped equat rewritten polar form
+magnitud give chang voltag amplitud given current amplitud imped exponenti factor give phase relationship
+deriv devicespecif impedancesedit
+follow deriv imped three basic circuit element resistor capacitor inductor although idea extend defin relationship voltag current arbitrari signal deriv assum sinusoid signal sinc arbitrari signal approxim sum sinusoid fourier analysi
+resistoredit
+resistor relat
+ohm law
+consid voltag signal
+follow
+say ratio ac voltag amplitud altern current ac amplitud across resistor ac voltag lead current across resistor degre
+result common express
+capacitoredit
+capacitor relat
+consid voltag signal
+follow
+thus
+say ratio ac voltag amplitud ac current amplitud across capacitor ac voltag lag ac current across capacitor degre ac current lead ac voltag across capacitor degre
+result common express polar form
+appli euler formula
+inductoredit
+inductor relat
+time consid current signal
+follow
+thus
+say ratio ac voltag amplitud ac current amplitud across inductor ac voltag lead ac current across inductor degre
+result common express polar form
+use euler formula
+generalis splane impedanceedit
+imped defin term j strict appli circuit driven steadyst ac signal concept imped extend circuit energis arbitrari signal use complex frequenc instead j complex frequenc given symbol general complex number signal express term complex frequenc take laplac transform time domain express signal imped basic circuit element general notat follow
+dc circuit simplifi steadyst sinusoid ac signal j
+resist vs reactanceedit
+resist reactanc togeth determin magnitud phase imped follow relat
+mani applic relat phase voltag current critic magnitud imped signific
+resistanceedit
+resist real part imped devic pure resist imped exhibit phase shift voltag current
+reactanceedit
+reactanc imaginari part imped compon finit reactanc induc phase shift voltag across current
+pure reactiv compon distinguish sinusoid voltag across compon quadratur sinusoid current compon impli compon altern absorb energi circuit return energi circuit pure reactanc dissip power
+capacit reactanceedit
+capacitor pure reactiv imped invers proport signal frequenc capacitor consist two conductor separ insul also known dielectr
+low frequenc capacitor open circuit charg flow dielectr
+dc voltag appli across capacitor caus charg accumul one side electr field due accumul charg sourc opposit current potenti associ charg exact balanc appli voltag current goe zero
+driven ac suppli capacitor accumul limit amount charg potenti differ chang sign charg dissip higher frequenc less charg accumul smaller opposit current
+induct reactanceedit
+induct reactanc proport signal frequenc induct
+inductor consist coil conductor faraday law electromagnet induct give back emf voltag oppos current due rateofchang magnet flux densiti current loop
+inductor consist coil loop give
+backemf sourc opposit current flow constant direct current zero rateofchang see inductor shortcircuit typic made materi low resist altern current timeaverag rateofchang proport frequenc caus increas induct reactanc frequenc
+total reactanceedit
+total reactanc given
+total imped
+combin impedancesedit
+total imped mani simpl network compon calcul use rule combin imped seri parallel rule ident use combin resist except number general complex number general case howev equival imped transform addit seri parallel requir
+seri combinationedit
+compon connect seri current circuit element total imped sum compon imped
+explicit real imaginari term
+parallel combinationedit
+compon connect parallel voltag across circuit element ratio current two element invers ratio imped
+henc invers total imped sum invers compon imped
+n
+equival imped calcul term equival seri resist reactanc
+measurementedit
+estim frequenc respons dynam system imped requir measur imped respons input signal excit form impuls function sweep frequenc sine wave excit bandwidth interest appli spreadspectrum signal generat particular bandwidth mani measur method choos measur imped advantag disadvantag
+timevari impedanceedit
+use system identif method possibl identifi imped uncertainti bound measur input output signal particular linear timeinvari lti system theori permit user identifi subset system linear timeinvari behavior measur window applic imped exhibit nonlinear timevari behavior measur window eg cardiac imped corros studi cumbersom deal requir use timevari system identif theori tool
+see alsoedit
+bioelectr imped analysi
+characterist imped
+electr characterist dynam loudspeak
+high imped
+immitt
+imped bridg
+imped cardiographi
+imped match
+negat imped convert
+resist distanc
+imped control
+referencesedit
+extern linksedit
+explain imped
+antenna imped
+ece review circuit lti system brief explan laplacedomain circuit analysi includ definit imped

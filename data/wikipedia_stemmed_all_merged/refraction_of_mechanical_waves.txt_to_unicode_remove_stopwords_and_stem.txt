@@ -1,0 +1,124 @@
+optic refract index index refract n optic medium dimensionless number describ light radiat propag medium defin
+c speed light vacuum v phase veloc light medium
+refract index determin much light bent refract enter materi histor first use refract indic describ snell law refract n sin n sin angl incid refract respect ray cross interfac two media refract indic n n refract indic also determin amount light reflect reach interfac well critic angl total intern reflect brewster angl
+refract index seen factor speed wavelength radiat reduc respect vacuum valu phase veloc light medium v cn similar wavelength medium n wavelength light vacuum impli vacuum refract index frequenc f v wave affect refract index
+refract index vari wavelength light call dispers caus split white light constitu color prism rainbow chromat aberr lens light propag absorb materi describ use complexvalu refract index imaginari part handl attenu real part account refract
+concept refract index wide use within full electromagnet spectrum xray radio wave also use wave phenomena sound case speed sound use instead light refer medium vacuum must chosen
+definit
+refract index n optic medium defin ratio speed light vacuum c ms phase veloc v light medium
+phase veloc speed crest phase wave move may differ group veloc speed puls light envelop wave move
+definit sometim refer absolut refract index absolut index refract distinguish definit speed light refer media vacuum use histor air standard pressur temperatur common refer medium
+histori
+thoma young presum person first use invent name index refract time chang valu refract power singl number instead tradit ratio two number ratio disadvantag differ appear newton call proport sine incid refract wrote ratio two number like near water hauksbe call ratio refract wrote ratio fix numer like urin hutton wrote ratio fix denomin like water
+young use symbol index refract next year other start use differ symbol n m symbol n gradual prevail
+typic valu
+visibl light transpar media refract indic exampl given adjac tabl valu measur yellow doublet sodium dline wavelength nanomet convent done gase atmospher pressur refract indic close low densiti almost solid liquid refract indic aerogel clear except aerogel low densiti solid produc refract index rang diamond lie end rang refract index high plastic refract indic rang highrefractiveindex polym valu high
+infrar light refract indic consider higher germanium transpar wavelength region m refract index make import materi infrar optic
+refract index uniti
+accord theori relat inform travel faster speed light vacuum mean refract index cannot lower refract index measur phase veloc light carri inform phase veloc speed crest wave move faster speed light vacuum therebi give refract index occur close reson frequenc absorb media plasma xray xray regim refract indic lower close except close reson frequenc exampl water refract index xray radiat photon energi kev nm wavelength
+negat refract index
+recent research also demonstr exist materi negat refract index occur permitt permeabl simultan negat valu achiev period construct metamateri result negat refract ie revers snell law offer possibl superlen exot phenomena
+microscop explan
+microscal electromagnet wave phase veloc slow materi electr field creat disturb charg atom primarili electron proport electr suscept medium similar magnet field creat disturb proport magnet suscept electromagnet field oscil wave charg materi shaken back forth frequenc charg thus radiat electromagnet wave frequenc usual phase delay charg may move phase forc drive see sinusoid driven harmon oscil light wave travel medium macroscop superposit sum contribut materi origin wave plus wave radiat move charg wave typic wave frequenc shorter wavelength origin lead slow wave phase veloc radiat oscil materi charg modifi incom wave chang veloc howev net energi radiat direct even frequenc see scatter
+depend relat phase origin drive wave wave radiat charg motion sever possibl
+electron emit light wave phase light wave shake caus total light wave travel slowli call normal refract observ transpar materi like glass water correspond refract index real greater
+electron emit light wave phase light wave shake caus total light wave travel quick call anomal refract observ close absorpt line xray microwav system correspond refract index less even though phase veloc light greater speed light vacuum c signal veloc discuss respons suffici strong outofphas result negat refract index
+electron emit light wave phase light wave shake destruct interfer origin light reduc total light intens light absorpt opaqu materi correspond imaginari refract index
+electron emit light wave phase light wave shake amplifi light wave rare occur laser due stimul emiss correspond imaginari index refract opposit sign absorpt
+materi visiblelight frequenc phase somewher correspond combin refract absorpt
+dispers
+refract index materi vari wavelength frequenc light call dispers caus prism rainbow divid white light constitu spectral color refract index vari wavelength refract angl light goe one materi anoth dispers also caus focal length lens wavelength depend type chromat aberr often need correct imag system region spectrum materi absorb light refract index tend decreas increas wavelength thus increas frequenc call normal dispers contrast anomal dispers refract index increas wavelength visibl light normal dispers mean refract index higher blue light red
+optic visual rang amount dispers len materi often quantifi abb number
+accur descript wavelength depend refract index sellmeier equat use empir formula work well describ dispers sellmeier coeffici often quot instead refract index tabl
+dispers usual import specifi vacuum wavelength light refract index measur typic measur done various welldefin spectral emiss line exampl nd usual denot refract index fraunhof d line centr yellow sodium doubl emiss nm wavelength
+complex refract index
+light pass medium part alway attenu conveni taken account defin complex refract index
+real part n refract index indic phase veloc imaginari part call extinct coeffici although also refer mass attenu coeffici indic amount attenu electromagnet wave propag materi
+correspond attenu seen insert refract index express electr field plane electromagnet wave travel zdirect relat complex wave number k complex refract index n k n vacuum wavelength insert plane wave express
+see give exponenti decay expect beerlambert law sinc intens proport squar electr field depend depth materi expz attenu coeffici becom also relat penetr depth distanc intens reduc e p
+n depend frequenc circumst light absorb light travel forev without loss special situat especi gain medium laser also possibl correspond amplif light
+altern convent use n n instead n n still correspond loss therefor two convent inconsist confus differ relat defin sinusoid time depend reexpit versus reexpit see mathemat descript opac
+dielectr loss nonzero dc conduct materi caus absorpt good dielectr materi glass extrem low dc conduct low frequenc dielectr loss also neglig result almost absorpt howev higher frequenc visibl light dielectr loss may increas absorpt signific reduc materi transpar frequenc
+real n imaginari part complex refract index relat kramerskronig relat ar forouhi bloomer deduc equat describ function photon energi e applic amorph materi forouhi bloomer appli kramerskronig relat deriv correspond equat n function e formal appli crystallin materi forouhi bloomer
+refract index extinct coeffici n cannot measur direct must determin indirect measur quantiti depend reflect r transmitt ellipsometr paramet determin n measur quantiti involv develop theoret express r term valid physic model n fit theoret model measur r use regress analysi n deduc
+xray extrem ultraviolet radiat complex refract index deviat slight uniti usual real part smaller therefor normal written n n altern convent mention
+relat quantiti
+optic path length
+optic path length opl product geometr length d path light follow system index refract medium propag
+import concept optic determin phase light govern interfer diffract light propag accord fermat principl light ray character curv optim optic path length
+refract
+light move one medium anoth chang direct ie refract move medium refract index n one refract index n incid angl surfac normal refract angl calcul snell law
+light enter materi higher refract index angl refract smaller angl incid light refract toward normal surfac higher refract index closer normal direct light travel pass medium lower refract index light instead refract away normal toward surfac
+total intern reflect
+angl fulfil snell law ie
+light cannot transmit instead undergo total intern reflect occur go less optic dens materi ie one lower refract index get total intern reflect angl incid must larger critic angl
+reflect
+apart transmit light also reflect part reflect angl equal incid angl amount light reflect determin reflect surfac reflect calcul refract index incid angl fresnel equat normal incid reduc
+common glass air n n thus incid power reflect incid angl reflect also depend polar incom light certain angl call brewster angl ppolar light light electr field plane incid total transmit brewster angl calcul two refract indic interfac
+lens
+focal length len determin refract index n radii curvatur r r surfac power thin len air given lensmak formula
+f focal length len
+microscop resolut
+resolut good optic microscop main determin numer apertur na object len numer apertur turn determin refract index n medium fill space sampl len half collect angl light accord
+reason oil immers common use obtain high resolut microscopi techniqu object dip drop high refract index immers oil sampl studi
+relat permitt permeabl
+refract index electromagnet radiat equal
+r materi relat permitt r relat permeabl refract index use optic fresnel equat snell law relat permitt permeabl use maxwel equat electron natur occur materi nonmagnet optic frequenc r close therefor n approxim r particular case complex relat permitt r real imaginari part r r complex refract index n real imaginari part n latter call extinct coeffici follow relat
+compon relat
+complex modulus
+densiti
+general refract index glass increas densiti howev exist overal linear relat refract index densiti silic borosil glass relat high refract index low densiti obtain glass contain light metal oxid lio mgo opposit trend observ glass contain pbo bao seen diagram right
+mani oil oliv oil ethyl alcohol exampl liquid refract less dens water contrari general correl densiti refract index
+gase n proport densiti gas long chemic composit chang mean also proport pressur invers proport temperatur ideal gase
+group index
+sometim group veloc refract index usual call group index defin
+vg group veloc valu confus n alway defin respect phase veloc dispers small group veloc link phase veloc relat
+wavelength medium case group index thus written term wavelength depend refract index
+refract index medium known function vacuum wavelength instead wavelength medium correspond express group veloc index valu dispers
+wavelength vacuum
+momentum abrahamminkowski controversi
+hermann minkowski calcul momentum p refract ray follow
+e energi photon c speed light vacuum n refract index medium max abraham propos follow formula calcul
+studi suggest equat correct abraham version kinet momentum minkowski version canon momentum claim explain contradict experiment result use interpret
+relat
+shown fizeau experi light transmit move medium speed relat stationari observ
+refract index substanc relat polariz lorentzlorenz equat molar refract constitu gladstonedal relat
+refract
+atmospher applic refract taken n n atmospher refract often express either n n n n multipl factor use refract index air n deviat uniti part per ten thousand
+molar refract hand measur total polariz mole substanc calcul refract index
+densiti m molar mass
+nonscalar nonlinear nonhomogen refract
+far assum refract given linear equat involv spatial constant scalar refract index assumpt break differ way describ follow subsect
+birefring
+materi refract index depend polar propag direct light call birefring optic anisotropi
+simplest form uniaxi birefring one special direct materi axi known optic axi materi light linear polar perpendicular axi experi ordinari refract index light polar parallel experi extraordinari refract index ne birefring materi differ indic refract n ne light propag direct optic axi affect birefring sinc refract index independ polar propag direct light split two linear polar beam light travel perpendicular optic axi beam direct use chang polar direct linear polar light convert linear circular ellipt polar wavepl
+mani crystal natur birefring isotrop materi plastic glass also often made birefring introduc prefer direct eg extern forc electr field util determin stress structur use photoelast birefring materi place cross polar chang birefring alter polar therebi fraction light transmit second polar
+general case trirefring materi describ field crystal optic dielectr constant rank tensor matrix case propag light cannot simpli describ refract indic except polar along princip axe
+nonlinear
+strong electr field high intens light output laser may caus medium refract index vari light pass give rise nonlinear optic index vari quadrat field linear intens call optic kerr effect caus phenomena selffocus selfphas modul index vari linear field nontrivi linear coeffici possibl materi possess invers symmetri known pockel effect
+inhomogen
+refract index medium constant vari gradual posit materi known gradientindex grin medium describ gradient index optic light travel medium bent focus effect exploit produc lens optic fiber devic introduc grin element design optic system great simplifi system reduc number element much third maintain overal perform crystallin len human eye exampl grin len refract index vari inner core approxim less dens cortex common mirag caus spatial vari refract index air
+refract index measur
+homogen media
+refract index liquid solid measur refractomet typic measur angl refract critic angl total intern reflect first laboratori refractomet sold commerci develop ernst abb late th centuri principl still use today instrument thin layer liquid measur place two prism light shone liquid incid angl way ie light ray parallel surfac second prism index refract higher liquid light enter prism angl smaller critic angl total reflect angl measur either look telescop digit photodetector place focal plane len refract index n liquid calcul maximum transmiss angl n ng sin ng refract index prism
+type devic common use chemic laboratori identif substanc qualiti control handheld variant use agricultur eg wine maker determin sugar content grape juic inlin process refractomet use eg chemic pharmaceut industri process control
+gemolog differ type refractomet use measur index refract birefring gemston gem place high refract index prism illumin high refract index contact liquid use achiev optic contact gem prism small incid angl light transmit gem high angl total intern reflect occur prism critic angl normal measur look telescop
+refract index variat
+unstain biolog structur appear most transpar brightfieldmicroscopi cellular structur attenu appreci quantiti light nevertheless variat materi constitut structur also correspond variat refract index follow techniqu convert variat measur amplitud differ
+measur spatial variat refract index sampl phasecontrast imag method use method measur variat phase light wave exit sampl phase proport optic path length light ray travers thus give measur integr refract index along ray path phase cannot measur direct optic higher frequenc therefor need convert intens interfer refer beam visual spectrum done use zernik phasecontrast microscopi differenti interfer contrast microscopi dic interferometri
+zernik phasecontrast microscopi introduc phase shift low spatial frequenc compon imag phaseshift annulus fourier plane sampl highspatialfrequ part imag interfer lowfrequ refer beam dic illumin split two beam given differ polar phase shift differ shift transvers slight differ amount specimen two part made interfer give imag deriv optic path length direct differ transvers shift interferometri illumin split two beam partial reflect mirror one beam let sampl combin interfer give direct imag phase shift optic path length variat wavelength imag contain fring
+exist sever phasecontrast xray imag techniqu determin d d spatial distribut refract index sampl xray regim
+applic
+refract index import properti compon optic instrument use refract determin focus power lens dispers power prism general path light system increas refract index core guid light optic fiber variat refract index reduc reflect surfac treat antireflect coat
+sinc refract index fundament physic properti substanc often use identifi particular substanc confirm puriti measur concentr refract index use measur solid liquid gase common use measur concentr solut aqueous solut also use use tool differenti differ type gemston due uniqu chatoy individu stone display refractomet instrument use measur refract index solut sugar refract index use determin sugar content see brix
+gps index refract util raytrac account radio propag delay due earth electr neutral atmospher also use satellit link design comput radiowav attenu atmospher
+see also
+refer
+extern link
+nist calcul determin refract index air
+dielectr materi
+scienc world
+filmetr onlin databas free databas refract index absorpt coeffici inform
+refractiveindexinfo refract index databas featur onlin plot parameteris data
+soprasacom refract index databas text file signup requir
+luxpop thin film bulk index refract photon calcul

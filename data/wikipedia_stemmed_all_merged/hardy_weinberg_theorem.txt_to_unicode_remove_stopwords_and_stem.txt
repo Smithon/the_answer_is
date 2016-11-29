@@ -1,0 +1,129 @@
+hardyweinberg principl also known hardyweinberg equilibrium model theorem law state allel genotyp frequenc popul remain constant generat generat absenc evolutionari influenc influenc includ mate choic mutat select genet drift gene flow meiotic drive one influenc typic present real popul hardyweinberg principl describ ideal condit effect influenc analyz
+simplest case singl locus two allel denot frequenc fa p fa q respect expect genotyp frequenc faa p aa homozygot faa q aa homozygot faa pq heterozygot genotyp proport p pq q call hardyweinberg proport note sum genotyp frequenc case binomi expans squar sum p q sum repres total possibl must equal therefor p q p pq q solut equat q p
+union gamet produc next generat random shown new frequenc f satisfi allel frequenc constant generat
+principl name g h hardi wilhelm weinberg first demonstr mathemat
+deriv
+consid popul monoeci diploid organ produc male femal gamet equal frequenc two allel gene locus organ reproduc random union gamet gene pool popul model locus popul two allel occur initi frequenc fa p fa q respect allel frequenc generat obtain pool togeth allel genotyp generat accord expect contribut homozygot heterozygot genotyp respect
+differ way form genotyp next generat shown punnett squar proport genotyp equal product row column allel frequenc current generat
+sum entri p pq q genotyp frequenc must sum one
+note p q binomi expans p q p pq q give relationship
+sum element punnett squar binomi expans obtain expect genotyp proport among offspr singl generat
+frequenc defin hardyweinberg equilibrium mention genotyp frequenc first generat need equal genotyp frequenc initi generat eg faa faa howev genotyp frequenc futur time equal hardyweinberg frequenc eg ftaa faa follow sinc genotyp frequenc next generat depend allel frequenc current generat calcul equat preserv initi generat
+general case dioecious diploid organ either male femal reproduc random mate individu necessari calcul genotyp frequenc nine possibl mate parent genotyp aa aa aa either sex weight expect genotyp contribut mate equival one consid six uniqu diploiddiploid combin
+construct punnett squar calcul contribut next generat genotyp contribut weight accord probabl diploiddiploid combin follow multinomi distribut k exampl probabl mate combin aaaa ftaaftaa result aa genotyp overal result genotyp frequenc calcul
+one show allel frequenc time equal time constant time similar genotyp frequenc depend allel frequenc time also constant time
+either monoeci dioecious organ either allel genotyp proport initi unequ either sex shown constant proport obtain one generat random mate dioecious organ heterogamet gene locus locat x chromosom shown allel frequenc initi unequ two sex eg xx femal xy male human fa heterogamet sex chase fa homogamet sex previous generat equilibrium reach weight averag two initi frequenc
+deviat hardyweinberg equilibrium
+seven assumpt under hardyweinberg equilibrium follow
+organ diploid
+sexual reproduct occur
+generat non overlap
+mate random
+popul size infinit larg
+allel frequenc equal sex
+migrat mutat select
+violat hardyweinberg assumpt caus deviat expect affect popul depend assumpt violat
+random mate hwp state popul given genotyp frequenc call hardyweinberg proport singl generat random mate within popul random mate assumpt violat popul hardyweinberg proport common caus nonrandom mate inbreed caus increas homozygos gene
+popul violat one follow four assumpt popul may continu hardyweinberg proport generat allel frequenc chang time
+select general caus allel frequenc chang often quit rapid direct select eventu lead loss allel except favor one form select balanc select lead equilibrium without loss allel
+mutat subtl effect allel frequenc mutat rate order chang allel frequenc order recurr mutat maintain allel popul even strong select
+migrat genet link two popul togeth general allel frequenc becom homogen among popul model migrat inher includ nonrandom mate wahlund effect exampl model hardyweinberg proport normal valid
+small popul size caus random chang allel frequenc due sampl effect call genet drift sampl effect import allel present small number copi
+sex linkag
+gene sex link heterogamet sex eg mammalian male avian femal one copi gene term hemizyg homogamet sex eg human femal two copi genotyp frequenc equilibrium p q heterogamet sex p pq q homogamet sex
+exampl human redgreen colorblind xlink recess trait western european male trait affect q wherea affect femal compar q close hardyweinberg proport
+popul brought togeth male femal differ allel frequenc subpopul male femal allel frequenc male popul next generat follow femal popul son receiv x chromosom mother popul converg equilibrium quick
+general
+simpl deriv general two allel polyploidi
+general two allel
+consid extra allel frequenc r twoallel case binomi expans p q thus threeallel case trinomi expans p q r
+general consid allel given allel frequenc p pn
+give homozygot
+heterozygot
+general polyploidi
+hardyweinberg principl may also general polyploid system organ two copi chromosom consid two allel diploid case binomi expans
+therefor polyploid case polynomi expans
+c ploidi exampl tetraploid c
+depend whether organ true tetraploid amphidiploid determin long take popul reach hardyweinberg equilibrium
+complet general
+distinct allel ploid genotyp frequenc hardyweinberg equilibrium given individu term multinomi expans
+applic
+hardyweinberg principl may appli two way either popul assum hardyweinberg proport genotyp frequenc calcul genotyp frequenc three genotyp known test deviat statist signific
+applic case complet domin
+suppos phenotyp aa aa indistinguish ie complet domin assum hardyweinberg principl appli popul still calcul faa
+calcul thus estim faa faa deriv respect note howev popul cannot test equilibrium use signific test assum priori
+signific test deviat
+test deviat hwp general perform use pearson chisquar test use observ genotyp frequenc obtain data expect genotyp frequenc obtain use hwp system larg number allel may result data mani empti possibl genotyp low genotyp count often enough individu present sampl adequ repres genotyp class case asymptot assumpt chisquar distribut longer hold may necessari use form fisher exact test requir comput solv recent number mcmc method test deviat hwp propos guo thompson wigginton et al
+exampl test deviat
+data eb ford scarlet tiger moth phenotyp sampl popul record genotypephenotyp distinct assum neglig small null hypothesi popul hardyweinberg proport altern hypothesi popul hardyweinberg proport
+allel frequenc calcul
+hardyweinberg expect
+pearson chisquar test state
+degre freedom degre freedom test hardyweinberg proport genotyp allel signific level degre freedom sinc valu less null hypothesi popul hardyweinberg frequenc reject
+fisher exact test probabl test
+fisher exact test appli test hardyweinberg proport sinc test condit allel frequenc p q problem view test proper number heterozygot way hypothesi hardyweinberg proport reject number heterozygot larg small condit probabl heterozygot given allel frequenc given emigh
+n n n observ number three genotyp aa aa aa respect n number allel
+exampl use one exampl emigh consid case n p possibl observ heterozygot exact signific level given tabl
+use tabl one must look signific level test base observ number heterozygot exampl one observ heterozygot signific level test typic fisher exact test small sampl gradat signific level quit coars
+howev tabl like creat everi experi sinc tabl depend n p
+inbreed coeffici
+inbreed coeffici f see also fstatist one minus observ frequenc heterozygot expect hardyweinberg equilibrium
+expect valu hardyweinberg equilibrium given
+exampl ford data
+two allel chisquar good fit test hardyweinberg proport equival test inbreed f
+inbreed coeffici unstabl expect valu approach zero thus use rare common allel e o f e o f undefin
+histori
+mendelian genet rediscov howev remain somewhat controversi sever year known could caus continu characterist udni yule argu mendel thought domin allel would increas popul american william e castl show without select genotyp frequenc would remain stabl karl pearson found one equilibrium posit valu p q reginald punnett unabl counter yule point introduc problem g h hardi british mathematician play cricket hardi pure mathematician held appli mathemat contempt view biologist use mathemat come across paper describ simpl
+editor scienc reluct intrud discuss concern matter expert knowledg expect simpl point wish make familiar biologist howev remark mr udni yule mr r c punnett call attent suggest may still worth make
+suppos aa pair mendelian charact domin given generat number pure domin aa heterozygot aa pure recess aa pqr final suppos number fair larg mate may regard random sex even distribut among three varieti equal fertil littl mathemat multiplicationt type enough show next generat number p qp qq rq r pqr say
+interest question circumst distribut generat easi see condit q pr sinc q pr whatev valu p q r may distribut case continu unchang second generat
+principl thus known hardi law englishspeak world curt stern point first formul independ german physician wilhelm weinberg william castl also deriv ratio special case equal allel frequenc sometim rare call hardyweinbergcastl law
+deriv hardi equat
+deriv hardi equat illustr begin popul genotyp consist pure domin aa heterozygot aa pure recess aa relat proport pqr condit note
+rewrit p q q r squar side yield hardi result
+hardi equival condit
+generat first
+prove hardi statement successor generat proport equal equival condit hold
+equival condit hold show equal proport impli equival condit suppos equival condit hold
+symmetri final
+show thus proport equal show equival condit impli proport equal therefor proport equal equival condit hold claim
+sinc equival condit alway hold second generat succeed generat proport
+numer exampl
+exampl comput genotyp distribut given hardi origin equat instruct phenotyp distribut tabl use comput hardi initi genotyp distribut note p q valu use hardi use
+check distribut comput
+next generat hardi equat give
+check distribut comput
+expect valu reader may demonstr subsequ use secondgener valu third generat yield ident result
+graphic represent
+possibl repres distribut genotyp frequenc biallel locus within popul graphic use de finetti diagram use triangular plot also known trilinear triaxial ternari plot repres distribut three genotyp frequenc relat although differ mani plot direct one axe revers
+curv line diagram hardyweinberg parabola repres state allel hardyweinberg equilibrium
+possibl repres effect natur select effect allel frequenc graph eg ineichen batschelet
+de finetti diagram develop use extens w f edward book foundat mathemat genet
+see also
+regress toward mean
+multinomi distribut hardyweinberg trinomi distribut probabl
+refer
+bibliographi
+castl w e law galton mendel law govern race improv select proc amer acad art sci
+crow jf jul hardi weinberg languag impedi genet issn pmc pmid
+edward awf foundat mathemat genet cambridg univers press cambridg nd ed isbn
+emigh th comparison test hardyweinberg equilibrium biometr doi jstor
+ford eb ecolog genet london
+guo sw thompson ea jun perform exact test hardyweinberg proport multipl allel biometr biometr vol doi issn x jstor pmid
+hardi g h jul mendelian proport mix popul pdf scienc doiscienc issn pmid
+ineichen robert batschelet eduard genet select de finetti diagram journal mathemat biolog doibf
+masel joanna rethink hardyweinberg genet drift undergradu biolog bioessay doibi pmid
+pearson k mathemat contribut theori evolut xi influenc natur select variabl correl organ philosoph transact royal societi doirsta
+stern c hardyweinberg law scienc doiscienc jstor pmid
+weinberg w ber den nachwei der vererbung beim menschen jahresheft des verein fr vaterlndisch naturkund wrttemberg
+wigginton je cutler dj abecasi gr may note exact test hardyweinberg equilibrium american journal human genet doi issn pmc pmid
+yule g u mendel law probabl relat intraraci hered new phytol doijtbx
+extern link
+evolutionsolut bottom page
+hardyweinberg equilibrium calcul
+genet popul genet simul
+hardi c implement guo thompson
+sourc code ccfortranr wigginton et al
+onlin de finetti diagram generat hardyweinberg equilibrium test
+onlin hardyweinberg equilibrium test draw de finetti diagram
+hardyweinberg equilibrium calcul

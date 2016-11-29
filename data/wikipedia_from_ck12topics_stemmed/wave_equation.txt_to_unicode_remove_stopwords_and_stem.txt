@@ -1,0 +1,183 @@
+wave equat import secondord linear partial differenti equat descript wavesa occur physicssuch sound wave light wave water wave aris field like acoust electromagnet fluid dynam
+histor problem vibrat string music instrument studi jean le rond dalembert leonhard euler daniel bernoulli josephloui lagrang dalembert discov onedimension wave equat within ten year euler discov threedimension wave equat
+introduct
+wave equat hyperbol partial differenti equat typic concern time variabl one spatial variabl x x xn scalar function u u x x xn whose valu could model exampl mechan displac wave wave equat u
+spatial laplacian c fix constant
+solut equat describ propag disturb region fix speed one spatial direct physic wave plane local sourc constant c identifi propag speed wave equat linear therefor sum two solut solut physic properti call superposit principl
+wave equat alon specifi physic solut uniqu solut usual obtain set problem condit initi condit prescrib amplitud phase wave anoth import class problem occur enclos space specifi boundari condit solut repres stand wave harmon analog harmon music instrument
+wave equat modif also found elast quantum mechan plasma physic general relat
+scalar wave equat one space dimens
+wave equat one space dimens written follow
+equat typic describ one space dimens x independ variabl time nevertheless depend variabl u may repres second space dimens exampl displac u take place ydirect case string locat xy plane
+deriv wave equat
+wave equat one space dimens deriv varieti differ physic set famous deriv case string vibrat twodimension plane element pull opposit direct forc tension
+anoth physic set deriv wave equat one space dimens util hook law theori elast hook law approxim certain materi state amount materi bodi deform strain linear relat forc caus deform stress
+hook law
+wave equat onedimension case deriv hook law follow way imagin array littl weight mass m interconnect massless spring length h spring spring constant k
+depend variabl ux measur distanc equilibrium mass situat x ux essenti measur magnitud disturb ie strain travel elast materi forc exert mass m locat xh
+equat motion weight locat xh given equat two forc
+timedepend ux made explicit
+array weight consist n weight space even length l nh total mass m nm total spring constant array k kn write equat
+take limit n h assum smooth one get
+klm squar propag speed particular case
+stress puls bar
+case stress puls propag beam beam act much like infinit number spring seri taken extens equat deriv hook law beam constant cross section made linear elast materi stiff k given
+cross section area e young modulus materi wave equat becom
+al equal volum beam therefor densiti materi wave equat reduc
+speed stress wave beam therefor
+general solut
+algebra approach
+onedimension wave equat unusu partial differenti equat relat simpl general solut may found defin new variabl
+chang wave equat
+lead general solut
+equival
+word solut d wave equat sum right travel function f left travel function g travel mean shape individu arbitrari function respect x stay constant howev function translat left right time speed c deriv jean le rond dalembert
+anoth way arriv result note wave equat may factor
+therefor
+last two equat advect equat one left travel one right constant speed c
+initi valu problem arbitrari function f g determin satisfi initi condit
+result dalembert formula
+classic sens fx ck gx ck ut x ck howev waveform f g may also general function deltafunct case solut may interpret impuls travel right left
+basic wave equat linear differenti equat adher superposit principl mean net displac caus two wave sum displac would caus wave individu addit behavior wave analyz break wave compon eg fourier transform break wave sinusoid compon
+plane wave eigenmod
+anoth way solv solut onedimension wave equat first analyz frequenc eigenmod socal eigenmod solut oscil time welldefin constant angular frequenc tempor part wave function eigenmod take specif form rest wave function depend spatial variabl henc amount separ variabl write wave function
+obtain ordinari differenti equat spatial part
+therefor
+precis eigenvalu equat henc name eigenmod wellknown plane wave solut
+wave number
+total wave function eigenmod linear combin
+complex number depend general initi boundari condit problem
+eigenmod use construct full solut wave equat evolv time trivial phase factor full solut decompos eigenmod expans
+term plane wave
+exact form algebra approach function known fourier compon determin initi boundari condit socal frequencydomain method altern direct timedomain propag fdtd method wave packet complet repres wave absenc time dilat complet fourier expans repres wave presenc time dilat challeng chirp wave solut allow time variat chirp wave solut seem particular impli larg previous inexplic radar residu flybi anomali differ sinusoid solut receiv distanc proport shift frequenc time dilat correspond past chirp state sourc
+scalar wave equat three space dimens
+solut initialvalu problem wave equat three space dimens obtain correspond solut spheric wave result also use obtain solut two space dimens
+spheric wave
+wave equat solv use techniqu separ variabl obtain solut constant frequenc let us first fourier transform wave equat time
+get
+helmholtz equat solv use separ variabl solut angular part helmholtz equat given spheric harmon radial equat becom
+complet solut given
+spheric hankel function gain better understand natur spheric wave let us go back look case case angular depend amplitud depend radial distanc ie case wave equat reduc
+equat rewritten
+quantiti satisfi onedimension wave equat therefor solut form
+f g general solut onedimension wave equat interpret respect outgo incom spheric wave wave generat point sourc make possibl sharp signal whose form alter decreas amplitud r increas see illustr spheric wave top right wave exist case space odd dimens
+physic exampl nonspher wave solut d wave equat possess angular depend see dipol radiat
+monochromat spheric wave
+although word monochromat exact accur sinc refer light electromagnet radiat welldefin frequenc spirit discov eigenmod wave equat threedimens follow deriv previous section plane wave eigenmod restrict solut spheric wave oscil time welldefin constant angular frequenc transform function simpli plane wave solut
+observ peak intens spheric wave oscil character squar wave amplitud
+drop rate proport exampl inversesquar law
+solut general initialvalu problem
+wave equat linear u left unalt translat space time therefor generat great varieti solut translat sum spheric wave let arbitrari function three independ variabl let spheric wave form f deltafunct let f weak limit continu function whose integr uniti whose support region function nonzero shrink origin let famili spheric wave center let r radial distanc point thus
+u superposit wave weight function
+denomin c conveni
+definit deltafunct u may also written
+coordin unit sphere area element result interpret utx time mean valu sphere radius ct center x
+follow
+mean valu even function henc
+formula provid solut initialvalu problem wave equat show solut given point p given txyz depend data sphere radius ct intersect light cone drawn backward p depend upon data interior sphere thus interior sphere lacuna solut phenomenon call huygen principl true odd number space dimens one dimens integr perform boundari interv respect dirac measur satisfi even space dimens phenomenon lacuna extens investig atiyah bott grding
+scalar wave equat two space dimens
+two space dimens wave equat
+use threedimension theori solv problem regard u function three dimens independ third dimens
+threedimension solut formula becom
+first two coordin unit sphere d area element sphere integr may rewritten integr disc d center xy radius ct
+appar solut txi depend data light cone
+also data interior cone
+scalar wave equat general dimens kirchhoff formula
+want find solut uttu u rn r ux gx utx hx see evan detail
+odd dimens
+assum n odd integ g cmrn h cmrn m n let let
+u crn
+uttu rn
+even dimens
+assum n even integ g cmrn h cmrn m n let let
+u crn
+uttu rn
+problem boundari
+one space dimens
+sturmliouvill formul
+flexibl string stretch two point x x l satisfi wave equat x l boundari point u may satisfi varieti boundari condit general form appropri applic
+b nonneg case u requir vanish endpoint limit condit respect b approach infin method separ variabl consist look solut problem special form
+consequ
+eigenvalu must determin nontrivi solut boundaryvalu problem
+special case general problem sturmliouvill theori b posit eigenvalu posit solut trigonometr function solut satisfi squareintegr initi condit u ut obtain expans function appropri trigonometr seri
+investig numer method
+approxim continu string finit number equidist mass point one get follow physic model
+mass point mass m tension string f separ mass point x ui n offset n point equilibrium point ie posit straight line two attach point string vertic compon forc toward point
+vertic compon forc toward point
+take sum two forc divid mass m one get vertic motion
+mass densiti
+written
+wave equat obtain let x case uit take form ux ux continu function two variabl take form
+discret formul equat state finit number mass point suitabl one numer propag string motion boundari condit
+l length string take discret formul form outermost point u un equat motion
+n
+string approxim discret mass point one get coupl second order differenti equat equival coupl first order differenti equat
+propag time
+use th order multistep method state display figur found
+red curv initi state time zero string let free predefin shape blue curv state time ie time correspond time wave move nomin wave veloc would need one fourth length string
+figur display shape string time wave travel direct right speed without activ constraint boundari condit two extrem string shape wave constant ie curv inde form fxct
+figur display shape string time constraint right extrem start interfer motion prevent wave rais end string
+figur display shape string time direct motion revers red green blue curv state time black curv correspond state time wave start move back toward left
+figur figur final display shape string time wave travel toward left constraint end point activ final extrem string direct revers way similar display figur
+sever space dimens
+onedimension initialboundari valu theori may extend arbitrari number space dimens consid domain d mdimension x space boundari b wave equat satisfi x d boundari d solut u shall satisfi
+n unit outward normal b nonneg function defin b case u vanish b limit case approach infin initi condit
+f g defin d problem may solv expand f g eigenfunct laplacian d satisfi boundari condit thus eigenfunct v satisfi
+d
+b
+case two space dimens eigenfunct may interpret mode vibrat drumhead stretch boundari b b circl eigenfunct angular compon trigonometr function polar angl multipli bessel function integ order radial compon detail helmholtz equat
+boundari sphere three space dimens angular compon eigenfunct spheric harmon radial compon bessel function halfinteg order
+inhomogen wave equat one dimens
+inhomogen wave equat one dimens follow
+initi condit given
+function sx often call sourc function practic describ effect sourc wave medium carri physic exampl sourc function includ forc drive wave string charg current densiti lorenz gaug electromagnet
+one method solv initi valu problem initi valu pose take advantag special properti wave equat odd number space dimens name solut respect causal point xi ti valu uxi ti depend valu fxicti fxicti valu function gx xicti xicti seen dalembert formula state quantiti one show physic maximum propag speed c part wave cant propag given point given time affect amplitud point time
+term find solut causal properti mean given point line consid area need consid area encompass point could causal affect point consid denot area casual affect point xi ti rc suppos integr inhomogen wave equat region
+simplifi great use green theorem simplifi left side get follow
+left side sum three line integr along bound causal region turn fair easi comput
+term integr respect time disappear time interv involv zero thus dt
+two side region worth note xct constant name xicti sign chosen appropri use get relat dxcdt choos right sign
+similar final boundari segment
+ad three result togeth put back origin integr
+solv uxi ti arriv
+last equat sequenc bound integr sourc function made explicit look solut valid choic xi ti compat wave equat clear first two term simpli dalembert formula state solut homogen wave equat one dimens differ third term integr sourc
+coordin system
+three dimens wave equat written ellipt cylindr coordin may solv separ variabl lead mathieu differenti equat
+general
+elast wave
+elast wave equat three dimens describ propag wave isotrop homogen elast medium solid materi elast equat describ phenomena seismic wave earth ultrason wave use detect flaw materi linear equat complex form equat given must account longitudin transvers motion
+socal lam paramet describ elast properti medium
+densiti
+f sourc function drive forc
+u displac vector
+note equat forc displac vector quantiti thus equat sometim known vector wave equat aid understand reader observ f u set zero becom effect maxwel equat propag electr field e transvers wave
+nonlinear dispers relat
+dispers wave phenomena speed wave propag vari wavelength wave reflect dispers relat
+angular frequenc k wavevector describ plane wave solut light wave dispers relat c k general constant speed c get replac variabl phase veloc
+see also
+acoust attenu
+acoust wave equat
+bateman transform
+electromagnet wave equat
+helmholtz equat
+inhomogen electromagnet wave equat
+laplac oper
+mathemat oscil
+maxwel equat
+schrdinger equat
+stand wave
+vibrat circular membran
+wheelerfeynman absorb theori
+note
+refer
+m f atiyah r bott l gard lacuna hyperbol differenti oper constant coeffici acta math
+mf atiyah r bott l gard lacuna hyperbol differenti oper constant coeffici ii acta math
+r courant d hilbert method mathemat physic vol ii intersci wiley new york
+l evan partial differenti equat american mathemat societi provid
+linear wave equat eqworld world mathemat equat
+nonlinear wave equat eqworld world mathemat equat
+william c lane misn wave equat solut project physnet
+extern link
+nonlinear wave equat stephen wolfram rob knapp nonlinear wave equat explor stephen wolfram wolfram demonstr project
+mathemat aspect wave equat discuss dispers pde wiki
+graham w griffith william e schiesser linear nonlinear wave scholarpedia doischolarpedia

@@ -1,0 +1,71 @@
+electron scienc control electr energi energi electron fundament role electron deal electr circuit involv activ electr compon vacuum tube transistor diod integr circuit associ passiv electr compon interconnect technolog common electron devic contain circuitri consist primarili exclus activ semiconductor supplement passiv element circuit describ electron circuit
+nonlinear behaviour activ compon abil control electron flow make amplif weak signal possibl electron wide use inform process telecommun signal process abil electron devic act switch make digit inform process possibl interconnect technolog circuit board electron packag technolog vari form communic infrastructur complet circuit function transform mix compon regular work system
+electron distinct electr electromechan scienc technolog deal generat distribut switch storag convers electr energi energi form use wire motor generat batteri switch relay transform resistor passiv compon distinct start around invent lee de forest triod made electr amplif weak radio signal audio signal possibl nonmechan devic field call radio technolog princip applic design theori radio transmitt receiv vacuum tube
+today electron devic use semiconductor compon perform electron control studi semiconductor devic relat technolog consid branch solidst physic wherea design construct electron circuit solv practic problem come electron engin articl focus engin aspect electron
+branch electronicsedit
+electron branch follow
+digit electron
+analogu electron
+microelectron
+circuit design
+integr circuit
+optoelectron
+semiconductor
+semiconductor devic
+electron devic componentsedit
+electron compon physic entiti electron system use affect electron associ field manner consist intend function electron system compon general intend connect togeth usual solder print circuit board pcb creat electron circuit particular function exampl amplifi radio receiv oscil compon may packag singl complex group integr circuit common electron compon capacitor inductor resistor diod transistor etc compon often categor activ eg transistor thyristor passiv eg resistor diod inductor capacitor
+histori electron componentsedit
+vacuum tube thermion valv one earliest electron compon almost sole respons electron revolut first half twentieth centuri took electron parlor trick gave us radio televis phonograph radar long distanc telephoni much play lead role field microwav high power transmiss well televis receiv middl sinc time solid state devic complet taken vacuum tube still use specialist applic high power rf amplifi cathod ray tube specialist audio equip guitar amplifi microwav devic
+april ibm first ibm product use transistor circuit without vacuum tube believ world first alltransistor calcul manufactur commerci market contain germanium transistor thoma j watson jr order futur ibm product use transistor design time transistor almost exclus use comput logic peripher
+type circuitsedit
+circuit compon divid two group analog digit particular devic may consist circuitri one mix two type
+analog circuitsedit
+analog electron applianc radio receiv construct combin type basic circuit analog circuit use continu rang voltag current oppos discret level digit circuit
+number differ analog circuit far devis huge especi circuit defin anyth singl compon system contain thousand compon
+analog circuit sometim call linear circuit although mani nonlinear effect use analog circuit mixer modul etc good exampl analog circuit includ vacuum tube transistor amplifi oper amplifi oscil
+one rare find modern circuit entir analog day analog circuitri may use digit even microprocessor techniqu improv perform type circuit usual call mix signal rather analog digit
+sometim may difficult differenti analog digit circuit element linear nonlinear oper exampl compar take continu rang voltag output one two level digit circuit similar overdriven transistor amplifi take characterist control switch essenti two level output fact mani digit circuit actual implement variat analog circuit similar exampleaft aspect real physic world essenti analog digit effect realiz constrain analog behavior
+digit circuitsedit
+digit circuit electr circuit base number discret voltag level digit circuit common physic represent boolean algebra basi digit comput engin term digit circuit digit system logic interchang context digit circuit digit circuit use binari system two voltag level label often logic lower voltag refer low logic refer high howev system use revers definit high current base quit often logic design may revers definit one circuit next see fit facilit design definit level arbitrari
+ternari three state logic studi prototyp comput made
+comput electron clock programm logic control use control industri process construct digit circuit digit signal processor anoth exampl
+build block
+logic gate
+adder
+flipflop
+counter
+regist
+multiplex
+schmitt trigger
+high integr devic
+microprocessor
+microcontrol
+applicationspecif integr circuit asic
+digit signal processor dsp
+fieldprogramm gate array fpga
+heat dissip thermal managementedit
+heat generat electron circuitri must dissip prevent immedi failur improv long term reliabl heat dissip most achiev passiv conductionconvect mean achiev greater dissip includ heat sink fan air cool form comput cool water cool techniqu use convect conduct radiat heat energi
+noiseedit
+electron nois defin unwant disturb superpos use signal tend obscur inform content nois signal distort caus circuit nois associ electron circuit nois may electromagnet thermal generat decreas lower oper temperatur circuit type nois shot nois cannot remov due limit physic properti
+electron theoryedit
+mathemat method integr studi electron becom profici electron also necessari becom profici mathemat circuit analysi
+circuit analysi studi method solv general linear system unknown variabl voltag certain node current certain branch network common analyt tool spice circuit simul
+also import electron studi understand electromagnet field theori
+electron labedit
+due complex natur electron theori laboratori experiment import part develop electron devic experi use test verifi engin design detect error histor electron lab consist electron devic equip locat physic space although recent year trend toward electron lab simul softwar circuitlogix multisim pspice
+comput aid design cadedit
+today electron engin abil design circuit use premanufactur build block power suppli semiconductor ie semiconductor devic transistor integr circuit electron design autom softwar program includ schemat captur program print circuit board design program popular name eda softwar world ni multisim cadenc orcad eagl pcb schemat mentor pad pcb logic schemat altium protel labcentr electron proteus geda kicad mani other
+construct methodsedit
+mani differ method connect compon use year instanc earli electron often use point point wire compon attach wooden breadboard construct circuit cordwood construct wire wrap method use modern day electron use print circuit board made materi fr cheaper less hardwear synthet resin bond paper srbp also known paxolinepaxolin trade mark fr characteris brown colour health environment concern associ electron assembl gain increas attent recent year especi product destin european union restrict hazard substanc direct roh wast electr electron equip direct weee went forc juli
+see alsoedit
+referencesedit
+readingedit
+art electron isbn
+extern linksedit
+electron dmoz
+navi navi electr electron train seri neet
+doe electr scienc fundament handbook vol
+vol basic electr theori basic dc theori
+vol dc circuit batteri generat motor
+vol basic ac theori basic ac reactiv compon basic ac power basic ac generat
+vol ac motor transform test instrument measur devic electr distribut system

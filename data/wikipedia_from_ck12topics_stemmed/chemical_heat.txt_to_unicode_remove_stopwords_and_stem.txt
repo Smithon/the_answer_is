@@ -1,0 +1,204 @@
+capacitor origin known condens passiv twotermin electr compon use store electr energi temporarili electr field form practic capacitor vari wide contain least two electr conductor plate separ dielectr ie insul store energi becom polar conductor thin film foil sinter bead metal conduct electrolyt etc nonconduct dielectr act increas capacitor charg capac dielectr glass ceram plastic film air vacuum paper mica oxid layer etc capacitor wide use part electr circuit mani common electr devic unlik resistor ideal capacitor dissip energi instead capacitor store energi form electrostat field plate
+potenti differ across conductor eg capacitor attach across batteri electr field develop across dielectr caus posit charg q collect one plate negat charg q collect plate batteri attach capacitor suffici amount time current flow capacitor howev timevari voltag appli across lead capacitor displac current flow
+ideal capacitor character singl constant valu capacit capacit defin ratio electr charg q conductor potenti differ v si unit capacit farad f equal one coulomb per volt cv typic capacit valu rang pf f mf f
+larger surfac area plate conductor narrow gap greater capacit practic dielectr plate pass small amount leakag current also electr field strength limit known breakdown voltag conductor lead introduc undesir induct resist
+capacitor wide use electron circuit block direct current allow altern current pass analog filter network smooth output power suppli reson circuit tune radio particular frequenc electr power transmiss system stabil voltag power flow
+histori
+octob ewald georg von kleist pomerania germani found charg could store connect highvoltag electrostat generat wire volum water handheld glass jar von kleist hand water act conductor jar dielectr although detail mechan incorrect identifi time von kleist found touch wire result power spark much pain obtain electrostat machin follow year dutch physicist pieter van musschenbroek invent similar capacitor name leyden jar univers leiden work also impress power shock receiv write would take second shock kingdom franc
+daniel gralath first combin sever jar parallel batteri increas charg storag capac benjamin franklin investig leyden jar came conclus charg store glass water other assum also adopt term batteri denot increas power row similar unit batteri cannon subsequ appli cluster electrochem cell leyden jar later made coat insid outsid jar metal foil leav space mouth prevent arc foil earliest unit capacit jar equival nanofarad
+leyden jar power devic employ flat glass plate altern foil conductor use exclus invent wireless radio creat demand standard capacitor steadi move higher frequenc requir capacitor lower induct compact construct method began use flexibl dielectr sheet like oil paper sandwich sheet metal foil roll fold small packag
+earli capacitor also known condens term still occasion use today particular high power applic like automot system term first use purpos alessandro volta refer devic abil store higher densiti electr charg normal isol conductor
+sinc begin studi electr non conduct materi like glass porcelain paper mica use insul materi decad later also wellsuit use dielectr first capacitor paper capacitor made sandwich strip impregn paper strip metal roll result cylind common use late centuri manufactur start use earli th centuri decoupl capacitor telecommun telephoni porcelain precursor case capacitor belong famili ceram capacitor even earli year marconi wireless transmit apparatus porcelain capacitor use high voltag high frequenc applic transmitt
+receiv side smaller mica capacitor use reson circuit mica dielectr capacitor invent william dubili prior world war ii mica common dielectr capacitor unit state see ceram capacitorhistori
+charl pollak born karol pollak inventor aluminum electrolyt capacitor found oxid layer aluminum anod remain stabl neutral alkalin electrolyt even power switch file patent electr liquid capacitor aluminum electrod base idea use oxid layer polar capacitor combin neutral slight alkalin electrolyt see electrolyt capacitorhistori
+develop plastic materi organ chemist second world war capacitor industri began replac paper thinner polym film one earli develop film capacitor describ british patent see film capacitorhistori
+solid electrolyt tantalum capacitor invent bell laboratori earli miniatur reliabl lowvoltag support capacitor complement newli invent transistor see tantalum capacitorhistori
+last least electr doublelay capacitor supercapacitor invent h becker develop low voltag electrolyt capacitor porous carbon electrod believ energi store charg carbon pore use capacitor pore etch foil electrolyt capacitor doubl layer mechan known time wrote patent known exact take place compon use energi storag lead extrem high capac see supercapacitorhistori
+theori oper
+overview
+capacitor consist two conductor separ nonconduct region nonconduct region call dielectr simpler term dielectr electr insul exampl dielectr media glass air paper vacuum even semiconductor deplet region chemic ident conductor capacitor assum selfcontain isol net electr charg influenc extern electr field conductor thus hold equal opposit charg face surfac dielectr develop electr field si unit capacit one farad mean one coulomb charg conductor caus voltag one volt across devic
+ideal capacitor wholli character constant capacit c defin ratio charg q conductor voltag v
+conductor plate close togeth opposit charg conductor attract one anoth due electr field allow capacitor store charg given voltag conductor separ give capacitor larg capacit
+sometim charg buildup affect capacitor mechan caus capacit vari case capacit defin term increment chang
+hydraul analog
+hydraul analog charg carrier flow wire analog water flow pipe capacitor like rubber membran seal insid pipe water molecul cannot pass membran water move stretch membran analog clarifi aspect capacitor
+current alter charg capacitor flow water chang posit membran specif effect electr current increas charg one plate capacitor decreas charg plate equal amount water flow move rubber membran increas amount water one side membran decreas amount water side
+capacitor charg larger voltag drop ie push back charg current analog fact membran stretch push back water
+charg flow capacitor even though individu electron get one side analog fact water flow pipe even though water molecul pass rubber membran cours flow cannot continu direct forev capacitor experi dielectr breakdown analog membran eventu break
+capacit describ much charg store one plate capacitor given push voltag drop stretchi flexibl membran correspond higher capacit stiff membran
+chargedup capacitor store potenti energi analog stretch membran
+energi electr field
+work must done extern influenc move charg conductor capacitor extern influenc remov charg separ persist electr field energi store releas charg allow return equilibrium posit work done establish electr field henc amount energi store
+q charg store capacitor v voltag across capacitor c capacit
+case fluctuat voltag vt store energi also fluctuat henc power must flow capacitor power found take time deriv store energi
+currentvoltag relat
+current compon electr circuit defin rate flow charg qt pass actual chargeselectronscannot pass dielectr layer capacitor rather one electron accumul negat plate one leav posit plate result electron deplet consequ posit charg one electrod equal opposit accumul negat charg thus charg electrod equal integr current well proport voltag discuss antideriv constant integr ad repres initi voltag vt integr form capacitor equat
+take deriv multipli c yield deriv form
+dual capacitor inductor store energi magnet field rather electr field currentvoltag relat obtain exchang current voltag capacitor equat replac c induct l
+dc circuit
+seri circuit contain resistor capacitor switch constant dc sourc voltag v known charg circuit capacitor initi uncharg switch open switch close follow kirchhoff voltag law
+take deriv multipli c give firstord differenti equat
+voltag across capacitor zero voltag across resistor v initi current vr assumpt solv differenti equat yield
+rc time constant system capacitor reach equilibrium sourc voltag voltag across resistor current entir circuit decay exponenti case discharg charg capacitor likewis demonstr exponenti decay initi capacitor voltag replac v final voltag zero
+ac circuit
+imped vector sum reactanc resist describ phase differ ratio amplitud sinusoid vari voltag sinusoid vari current given frequenc fourier analysi allow signal construct spectrum frequenc whenc circuit reaction various frequenc may found reactanc imped capacitor respect
+j imaginari unit angular frequenc sinusoid signal j phase indic ac voltag v zi lag ac current posit current phase correspond increas voltag capacitor charg zero current correspond instantan constant voltag etc
+imped decreas increas capacit increas frequenc impli higherfrequ signal larger capacitor result lower voltag amplitud per current amplitudean ac short circuit ac coupl convers low frequenc reactanc high capacitor near open circuit ac analysisthos frequenc filter
+capacitor differ resistor inductor imped invers proport defin characterist ie capacit
+capacitor connect sinusoid voltag sourc caus displac current flow case voltag sourc vcost displac current express
+sint capacitor maximum peak current wherebi cv ratio peak voltag peak current due capacit reactanc denot xc
+xc approach zero approach infin xc approach capacitor resembl short wire strong pass current high frequenc xc approach infin approach zero xc approach infin capacitor resembl open circuit poor pass low frequenc
+current capacitor may express form cosin better compar voltag sourc
+situat current phase voltag radian degre ie current lead voltag
+laplac circuit analysi sdomain
+use laplac transform circuit analysi imped ideal capacitor initi charg repres domain
+c capacit
+complex frequenc
+parallelpl model
+simplest model capacitor consist two thin parallel conduct plate separ dielectr permitt model may also use make qualit predict devic geometri plate consid extend uniform area charg densiti qa exist surfac assum length width plate much greater separ d electr field near centr devic uniform magnitud e voltag defin line integr electr field plate
+solv c qv reveal capacit increas area plate decreas separ plate increas
+capacit therefor greatest devic made materi high permitt larg plate area small distanc plate
+parallel plate capacitor store finit amount energi dielectr breakdown occur capacitor dielectr materi dielectr strength ud set capacitor breakdown voltag v vbd udd maximum energi capacitor store therefor
+maximum energi function dielectr volum permitt dielectr strength chang plate area separ plate maintain volum caus chang maximum amount energi capacitor store long distanc plate remain much smaller length width plate addit equat assum electr field entir concentr dielectr plate realiti fring field outsid dielectr exampl side capacitor plate increas effect capacit capacitor sometim call parasit capacit simpl capacitor geometri addit capacit term calcul analyt becom neglig small ratio plate width separ length separ larg
+network
+capacitor parallel
+capacitor parallel configur appli voltag capacit add charg apport among size use schemat diagram visual parallel plate appar capacitor contribut total surfac area
+capacitor seri
+connect seri schemat diagram reveal separ distancenot plate area add capacitor store instantan charg buildup equal everi capacitor seri total voltag differ end end apport capacitor accord invers capacit entir seri act capacitor smaller compon
+capacitor combin seri achiev higher work voltag exampl smooth high voltag power suppli voltag rate base plate separ add capacit leakag current capacitor ident applic occas seri string connect parallel form matrix goal maxim energi storag network without overload capacitor highenergi storag capacitor seri safeti consider must appli ensur one capacitor fail leak current appli much voltag seri capacitor
+seri connect also sometim use adapt polar electrolyt capacitor bipolar ac use see electrolyt capacitordesign revers bias
+voltag distribut paralleltoseri network
+model distribut voltag singl charg capacitor connect parallel chain capacitor seri
+note correct capacit valu equal
+power transfer arrang
+nonid behavior
+capacitor deviat ideal capacitor equat number way leakag current parasit effect linear assum linear dealt ad virtual compon equival circuit capacitor usual method network analysi appli case breakdown voltag effect nonlinear normal ie linear network analysi cannot use effect must dealt separ yet anoth group may linear invalid assumpt analysi capacit constant exampl temperatur depend final combin parasit effect inher induct resist dielectr loss exhibit nonuniform behavior variabl frequenc oper
+breakdown voltag
+particular electr field known dielectr strength ed dielectr capacitor becom conduct voltag occur call breakdown voltag devic given product dielectr strength separ conductor
+maximum energi store safe capacitor limit breakdown voltag due scale capacit breakdown voltag dielectr thick capacitor made particular dielectr approxim equal maximum energi densiti extent dielectr domin volum
+air dielectr capacitor breakdown field strength order mvm mica breakdown mvm oil mvm much less materi use dielectr dielectr use thin layer absolut breakdown voltag capacitor limit typic rate capacitor use general electron applic rang volt kv voltag increas dielectr must thicker make highvoltag capacitor larger per capacit rate lower voltag breakdown voltag critic affect factor geometri capacitor conduct part sharp edg point increas electr field strength point lead local breakdown start happen breakdown quick track dielectr reach opposit plate leav carbon behind caus short relat low resist circuit result explos short capacitor draw current surround circuitri dissip energi
+usual breakdown rout field strength becom larg enough pull electron dielectr atom thus caus conduct scenario possibl impur dielectr dielectr crystallin natur imperfect crystal structur result avalanch breakdown seen semiconductor devic breakdown voltag also affect pressur humid temperatur
+equival circuit
+ideal capacitor store releas electr energi without dissip realiti capacitor imperfect within capacitor materi creat resist specifi equival seri resist esr compon add real compon imped
+frequenc approach infin capacit imped reactanc approach zero esr becom signific reactanc becom neglig power dissip approach prms vrms resr
+similar esr capacitor lead add equival seri induct esl compon usual signific relat high frequenc induct reactanc posit increas frequenc certain frequenc capacit cancel induct highfrequ engin involv account induct connect compon
+conductor separ materi small conduct rather perfect dielectr small leakag current flow direct capacitor therefor finit parallel resist slowli discharg time time may vari great depend capacitor materi qualiti
+q factor
+qualiti factor q capacitor ratio reactanc resist given frequenc measur effici higher q factor capacitor closer approach behavior ideal lossless capacitor
+q factor capacitor found follow formula
+angular frequenc capacit capacit reactanc seri resist capacitor
+rippl current
+rippl current ac compon appli sourc often switchedmod power suppli whose frequenc may constant vari rippl current caus heat generat within capacitor due dielectr loss caus chang field strength togeth current flow across slight resist suppli line electrolyt capacitor equival seri resist esr amount intern seri resist one would add perfect capacitor model type capacitor primarili tantalum aluminum electrolyt capacitor well film capacitor specifi rate valu maximum rippl current
+tantalum electrolyt capacitor solid manganes dioxid electrolyt limit rippl current general highest esr rate capacitor famili exceed rippl limit lead short burn part
+aluminum electrolyt capacitor common type electrolyt suffer shorten life expect higher rippl current rippl current exceed rate valu capacitor tend result explos failur
+ceram capacitor general rippl current limit lowest esr rate
+film capacitor low esr rate exceed rate rippl current may caus degrad failur
+capacit instabl
+capacit certain capacitor decreas compon age ceram capacitor caus degrad dielectr type dielectr ambient oper storag temperatur signific age factor oper voltag smaller effect age process may revers heat compon curi point age fastest near begin life compon devic stabil time electrolyt capacitor age electrolyt evapor contrast ceram capacitor occur toward end life compon
+temperatur depend capacit usual express part per million ppm per c usual taken broad linear function notic nonlinear temperatur extrem temperatur coeffici either posit negat sometim even amongst differ sampl type word spread rang temperatur coeffici encompass zero
+capacitor especi ceram capacitor older design paper capacitor absorb sound wave result microphon effect vibrat move plate caus capacit vari turn induc ac current dielectr also generat piezoelectr result interfer especi problemat audio applic potenti caus feedback unintend record revers microphon effect vari electr field capacitor plate exert physic forc move speaker generat audibl sound drain energi stress dielectr electrolyt
+current voltag revers
+current revers occur current chang direct voltag revers chang polar circuit revers general describ percentag maximum rate voltag revers polar dc circuit usual less often rang wherea ac circuit experi revers
+dc circuit puls circuit current voltag revers affect damp system voltag revers encount rlc circuit underdamp current voltag revers direct form harmon oscil induct capacit current voltag tend oscil may revers direct sever time peak lower previous system reach equilibrium often refer ring comparison critic damp overdamp system usual experi voltag revers revers also encount ac circuit peak current equal direct
+maximum life capacitor usual need abl handl maximum amount revers system experi ac circuit experi voltag revers underdamp dc circuit experi less revers creat excess electr field dielectr caus excess heat dielectr conductor dramat shorten life expect capacitor revers rate often affect design consider capacitor choic dielectr materi voltag rate type intern connect use
+dielectr absorpt
+capacitor made type dielectr materi show level dielectr absorpt soakag discharg capacitor disconnect short time may develop voltag due hysteresi dielectr effect objection applic precis sampl hold circuit time circuit level absorpt depend mani factor design consider charg time sinc absorpt timedepend process howev primari factor type dielectr materi capacitor tantalum electrolyt polysulfon film exhibit high absorpt polystyren teflon allow small level absorpt capacitor danger voltag energi exist flashtub televis set defibril dielectr absorpt recharg capacitor hazard voltag short discharg capacitor contain joul energi general consid hazard joul higher potenti lethal capacitor may regain anywher origin charg period sever minut allow seem safe capacitor becom surpris danger
+leakag
+leakag equival resistor parallel capacitor constant exposur heat caus dielectr breakdown excess leakag problem often seen older vacuum tube circuit particular oil paper foil capacitor use mani vacuum tube circuit interstag coupl capacitor use conduct vari signal plate one tube grid circuit next stage leaki capacitor caus grid circuit voltag rais normal bias set caus excess current signal distort downstream tube power amplifi caus plate glow red current limit resistor overheat even fail similar consider appli compon fabric solidst transistor amplifi owe lower heat product use modern polyest dielectr barrier oncecommon problem becom relat rare
+electrolyt failur disus
+aluminum electrolyt capacitor condit manufactur appli voltag suffici initi proper intern chemic state state maintain regular use equip former time rough around system use electrolyt capacitor unus long period time lose condit sometim fail short circuit next oper
+capacitor type
+practic capacitor avail commerci mani differ form type intern dielectr structur plate devic packag strong affect characterist capacitor applic
+valu avail rang low picofarad rang arbitrarili low valu principl possibl stray parasit capacit circuit limit factor kf supercapacitor
+approxim microfarad electrolyt capacitor usual use small size low cost compar type unless relat poor stabil life polaris natur make unsuit high capac supercapacitor use porous carbonbas electrod materi
+dielectr materi
+type capacitor includ dielectr spacer increas capacit dielectr often insul howev low capacit devic avail vacuum plate allow extrem high voltag oper low loss variabl capacitor plate open atmospher common use radio tune circuit later design use polym foil dielectr move stationari plate signific air space
+order maximis charg capacitor hold dielectr materi need high permitt possibl also high breakdown voltag possibl
+sever solid dielectr avail includ paper plastic glass mica ceram materi paper use extens older devic offer relat high voltag perform howev suscept water absorpt larg replac plastic film capacitor plastic offer better stabil age perform make use timer circuit although may limit low oper temperatur frequenc ceram capacitor general small cheap use high frequenc applic although capacit vari strong voltag age poor broad categor class dielectr predict variat capacit temperatur class dielectr oper higher voltag glass mica capacitor extrem reliabl stabl toler high temperatur voltag expens mainstream applic electrolyt capacitor supercapacitor use store small larger amount energi respect ceram capacitor often use reson parasit capacit occur circuit wherev simpl conductorinsulatorconductor structur form unintent configur circuit layout
+electrolyt capacitor use aluminum tantalum plate oxid dielectr layer second electrod liquid electrolyt connect circuit anoth foil plate electrolyt capacitor offer high capacit suffer poor toler high instabl gradual loss capacit especi subject heat high leakag current poor qualiti capacitor may leak electrolyt harm print circuit board conduct electrolyt drop low temperatur increas equival seri resist wide use powersuppli condit poor highfrequ characterist make unsuit mani applic electrolyt capacitor selfdegrad unus period around year full power appli may short circuit perman damag capacitor usual blow fuse caus failur rectifi diod instanc older equip arc rectifi tube restor use damag gradual appli oper voltag often done antiqu vacuum tube equip period minut use variabl transform suppli ac power unfortun use techniqu may less satisfactori solid state equip may damag oper normal power rang requir power suppli first isol consum circuit remedi may applic modern highfrequ power suppli produc full output voltag even reduc input
+tantalum capacitor offer better frequenc temperatur characterist aluminum higher dielectr absorpt leakag
+polym capacitor oscon occon ko ao use solid conduct polym polymer organ semiconductor electrolyt offer longer life lower esr higher cost standard electrolyt capacitor
+feedthrough capacitor compon serv main use capacit use conduct signal conduct sheet
+sever type capacitor avail specialist applic supercapacitor store larg amount energi supercapacitor made carbon aerogel carbon nanotub high porous electrod materi offer extrem high capacit kf use applic instead recharg batteri altern current capacitor specif design work line main voltag ac power circuit common use electr motor circuit often design handl larg current tend physic larg usual rug packag often metal case easili groundedearth also design direct current breakdown voltag least five time maximum ac voltag
+structur
+arrang plate dielectr mani variat depend desir rate capacitor small valu capacit microfarad less ceram disk use metal coat wire lead bond coat larger valu made multipl stack plate disk larger valu capacitor usual use metal foil metal film layer deposit surfac dielectr film make plate dielectr film impregn paper plastic roll save space reduc seri resist induct long plate plate dielectr stagger connect made common edg rolledup plate end foil metal film strip compris plate
+assembl encas prevent moistur enter dielectr earli radio equip use cardboard tube seal wax modern paper film dielectr capacitor dip hard thermoplast larg capacitor highvoltag use may roll form compress fit rectangular metal case bolt termin bush connect dielectr larger capacitor often impregn liquid improv properti
+capacitor may connect lead arrang mani configur exampl axial radial axial mean lead common axi typic axi capacitor cylindr bodi lead extend opposit end radial lead might accur refer tandem rare actual align along radii bodi circl term inexact although univers lead bent usual plane parallel flat bodi capacitor extend direct often parallel manufactur
+small cheap discoid ceram capacitor exist sinc remain widespread use sinc surfac mount packag capacitor wide use packag extrem small lack connect lead allow solder direct onto surfac print circuit board surfac mount compon avoid undesir highfrequ effect due lead simplifi autom assembl although manual handl made difficult due small size
+mechan control variabl capacitor allow plate space adjust exampl rotat slide set movabl plate align set stationari plate low cost variabl capacitor squeez togeth altern layer aluminum plastic screw electr control capacit achiev varactor varicap reversebias semiconductor diod whose deplet region width vari appli voltag use phaselock loop amongst applic
+capacitor mark
+capacitor number print bodi indic electr characterist larger capacitor like electrolyt usual display actual capacit togeth unit exampl f smaller capacitor like ceram howev use shorthand consist three numer digit letter digit indic capacit pf calcul xy z digit xyz letter indic toler j k m respect
+addit capacitor may show work voltag temperatur relev characterist
+typograph reason manufactur print mf capacitor indic microfarad f
+exampl
+capacitor text k v bodi capacit pf nf work voltag v work voltag capacitor highest voltag appli across without undu risk break dielectr layer
+applic
+energi storag
+capacitor store electr energi disconnect charg circuit use like temporari batteri like type recharg energi storag system capacitor common use electron devic maintain power suppli batteri chang prevent loss inform volatil memori
+convent capacitor provid less joul per kilogram specif energi wherea convent alkalin batteri densiti kjkg
+car audio system larg capacitor store energi amplifi use demand also flash tube capacitor use hold high voltag
+puls power weapon
+group larg special construct lowinduct highvoltag capacitor capacitor bank use suppli huge puls current mani puls power applic includ electromagnet form marx generat puls laser especi tea laser puls form network radar fusion research particl acceler
+larg capacitor bank reservoir use energi sourc explodingbridgewir deton slapper deton nuclear weapon specialti weapon experiment work way use bank capacitor power sourc electromagnet armour electromagnet railgun coilgun
+power condit
+reservoir capacitor use power suppli smooth output full half wave rectifi also use charg pump circuit energi storag element generat higher voltag input voltag
+capacitor connect parallel power circuit electron devic larger system factori shunt away conceal current fluctuat primari power sourc provid clean power suppli signal control circuit audio equip exampl use sever capacitor way shunt away power line hum get signal circuitri capacitor act local reserv dc power sourc bypass ac current power suppli use car audio applic stiffen capacitor compens induct resist lead leadacid car batteri
+power factor correct
+electr power distribut capacitor use power factor correct capacitor often come three capacitor connect three phase load usual valu capacitor given farad rather reactiv power voltamper reactiv var purpos counteract induct load devic like electr motor transmiss line make load appear most resist individu motor lamp load may capacitor power factor correct larger set capacitor usual automat switch devic may instal load center within build larg util substat
+suppress coupl
+signal coupl
+capacitor pass ac block dc signal charg appli dc voltag often use separ ac dc compon signal method known ac coupl capacit coupl larg valu capacit whose valu need accur control whose reactanc small signal frequenc employ
+decoupl
+decoupl capacitor capacitor use protect one part circuit effect anoth instanc suppress nois transient nois caus circuit element shunt capacitor reduc effect rest circuit common use power suppli ground altern name bypass capacitor use bypass power suppli high imped compon circuit
+decoupl capacitor need alway discret compon capacitor use applic may built print circuit board various layer often refer embed capacitor layer board contribut capacit properti also function power ground plane dielectr enabl oper parallel plate capacitor
+highpass lowpass filter
+nois suppress spike snubber
+induct circuit open current induct collaps quick creat larg voltag across open circuit switch relay induct larg enough energi generat spark caus contact point oxid deterior sometim weld togeth destroy solidst switch snubber capacitor across newli open circuit creat path impuls bypass contact point therebi preserv life common found contact breaker ignit system instanc similar smaller scale circuit spark may enough damag switch still radiat undesir radio frequenc interfer rfi filter capacitor absorb snubber capacitor usual employ lowvalu resistor seri dissip energi minim rfi resistorcapacitor combin avail singl packag
+capacitor also use parallel interrupt unit highvoltag circuit breaker order equal distribut voltag unit case call grade capacitor
+schemat diagram capacitor use primarili dc charg storag often drawn vertic circuit diagram lower negat plate drawn arc straight plate indic posit termin devic polar see electrolyt capacitor
+motor starter
+singl phase squirrel cage motor primari wind within motor hous capabl start rotat motion rotor capabl sustain one start motor secondari start wind seri nonpolar start capacitor introduc lead sinusoid current secondari start wind place angl respect primari run wind rotat electr field creat forc rotat field constant suffici start rotor spin rotor come close oper speed centrifug switch currentsensit relay seri main wind disconnect capacitor start capacitor typic mount side motor hous call capacitorstart motor relat high start torqu typic upto four time much start torqu splitphas motor use applic compressor pressur washer small devic requir high start torqu
+capacitorrun induct motor perman connect phaseshift capacitor seri second wind motor much like twophas induct motor
+motorstart capacitor typic nonpolar electrolyt type run capacitor convent paper plastic film dielectr type
+signal process
+energi store capacitor use repres inform either binari form dram analogu form analog sampl filter ccds capacitor use analog circuit compon integr complex filter negat feedback loop stabil signal process circuit also use capacitor integr current signal
+tune circuit
+capacitor inductor appli togeth tune circuit select inform particular frequenc band exampl radio receiv reli variabl capacitor tune station frequenc speaker use passiv analog crossov analog equal use capacitor select differ audio band
+reson frequenc f tune circuit function induct l capacit c seri given
+l henri c farad
+sens
+capacitor design maintain fix physic structur howev various factor chang structur capacitor result chang capacit use sens factor
+chang dielectr
+effect vari characterist dielectr use sens purpos capacitor expos porous dielectr use measur humid air capacitor use accur measur fuel level airplan fuel cover pair plate circuit capacit increas squeez dielectr chang capacitor ten bar pressur suffici use pressur sensor select otherwis standard polym dielectr capacitor immers compat gas liquid work use low cost pressur sensor mani hundr bar
+chang distanc plate
+capacitor flexibl plate use measur strain pressur industri pressur transmitt use process control use pressuresens diaphragm form capacitor plate oscil circuit capacitor use sensor condens microphon one plate move air pressur relat fix posit plate acceleromet use mem capacitor etch chip measur magnitud direct acceler vector use detect chang acceler tilt sensor detect free fall sensor trigger airbag deploy mani applic fingerprint sensor use capacitor addit user adjust pitch theremin music instrument move hand sinc chang effect capacit user hand antenna
+chang effect area plate
+capacit touch switch use mani consum electron product
+oscil
+capacitor possess springlik qualiti oscil circuit imag exampl capacitor act influenc bias voltag npn transistor base resist valu voltagedivid resistor capacit valu capacitor togeth control oscillatori frequenc
+produc light
+lightemit capacitor made dielectr use phosphoresc produc light one conduct plate made transpar materi light visibl lightemit capacitor use construct electroluminesc panel applic backlight laptop comput case entir panel capacitor use purpos generat light
+hazard safeti
+hazard pose capacitor usual determin foremost amount energi store caus thing like electr burn heart fibril factor voltag chassi materi secondari consider relat easili shock initi rather much damag occur
+capacitor may retain charg long power remov circuit charg caus danger even potenti fatal shock damag connect equip exampl even seem innocu devic disposablecamera flash unit power volt aa batteri capacitor may contain joul energi charg volt easili capabl deliv shock servic procedur electron devic usual includ instruct discharg larg highvoltag capacitor instanc use brinkley stick capacitor may also builtin discharg resistor dissip store energi safe level within second power remov highvoltag capacitor store termin short protect potenti danger voltag due dielectr absorpt transient voltag capacitor may pick static charg pass weather event
+old larg oilfil paper plastic film capacitor contain polychlorin biphenyl pcbs known wast pcbs leak groundwat landfil capacitor contain pcb label contain askarel sever trade name pcbfill paper capacitor found old pre fluoresc lamp ballast applic
+capacitor may catastroph fail subject voltag current beyond rate reach normal end life dielectr metal interconnect failur may creat arc vapor dielectr fluid result case bulg ruptur even explos capacitor use rf sustain highcurr applic overheat especi center capacitor roll capacitor use within highenergi capacitor bank violent explod short one capacitor caus sudden dump energi store rest bank fail unit high voltag vacuum capacitor generat soft xray even normal oper proper contain fuse prevent mainten help minim hazard
+highvoltag capacitor benefit precharg limit inrush current powerup high voltag direct current hvdc circuit extend life compon may mitig highvoltag hazard
+see also
+refer
+bibliographi
+dorf richard c svoboda jame introduct electr circuit th ed new york john wiley son isbn
+philosoph transact royal societi lxxii appendix volta coin word condens
+ulabi fawwaz tayssir fundament appli electromagnet upper saddl river new jersey prentic hall isbn
+zorpett glenn super charg tini south korean compani make capacitor power enough propel next generat hybridelectr car ieee spectrum north american ed doimspec
+deshpand rp capacitor mcgrawhil isbn
+extern link
+capacitor interact tutori nation high magnet field laboratori
+currier dean p adventur cybersound ewald christian von kleist archiv origin
+first condens beer glass sparkmuseum
+howstuffworkscom capacitor work
+capsit introduct capacitor
+capacitor tutori includ read capacitor temperatur code
+introduct capacitor capacitor code
+low esr capacitor manufactur
+capacitor work capacitor mark color code

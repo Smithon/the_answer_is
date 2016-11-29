@@ -1,0 +1,53 @@
+cylind greek kulindro roller tumbler one basic curvilinear geometr shape surfac form point fix distanc given straight line axi cylind solid enclos surfac two plane perpendicular axi also call cylind surfac area volum cylind known sinc deep antiqu
+common useedit
+common use cylind taken mean finit section right circular cylind ie cylind generat line perpendicular base end close form two circular surfac figur right end close one obtain open cylind whose surfac topolog equival open annulus
+cylind radius r length height h volum given
+v rh
+surfac area
+area top r
+area bottom r
+area side rh
+therefor open cylind without top bottom surfac area later area
+rh
+surfac includ top bottom well later area call close cylind surfac area
+r rh rr h dr h
+d diamet
+given volum close cylind smallest surfac area h r equival given surfac area close cylind largest volum h r ie cylind fit snug cube height diamet
+volumeedit
+right circular cylind height h unit base radius r unit coordin axe chosen origin center one base height measur along posit xaxi plane section distanc x unit origin area ax squar unit
+element volum right cylind base area awi squar unit thick ix unit thus v cubic unit volum right circular cylind riemann sum
+use cylindr coordin volum calcul integr
+surfac areaedit
+formula find surfac area cylind h height r radius surfac area b base area l later area
+cylindr sectionsedit
+cylindr section intersect cylind plane right circular cylind four possibl plane tangent cylind meet cylind singl straight line segment move parallel plane either intersect cylind intersect two parallel line segment plane intersect cylind ellips perpendicular axi cylind circl
+eccentr e cylindr section semimajor axi cylindr section depend radius cylind r angl secant plane cylind axi follow way
+type cylindersedit
+differenti geometri cylind defin broad rule surfac span oneparamet famili parallel line cylind whose cross section ellips parabola hyperbola call ellipt cylind parabol cylind hyperbol cylind respect
+ellipt cylind quadric surfac follow equat cartesian coordin
+equat ellipt cylind general ordinari circular cylind b ellipt cylind also known cylindroid name ambigu also refer plcker conoid volum ellipt cylind height h even general ellipt cylind general cylind crosssect curv
+cylind degener quadric least one coordin case z appear equat
+obliqu cylind top bottom surfac displac one anoth
+unusu type cylind imaginari ellipt cylind
+hyperbol cylind
+parabol cylind
+arbitrari axisedit
+consid infinit cylind whose axi lie along vector
+make use spheric coordin
+variabl use defin b orthogon vector form basi cylind
+defin may use familiar formula cylind
+r radius cylind result usual deriv use rotat matric
+project geometryedit
+project geometri cylind simpli cone whose apex infin
+use definit degener conic requir consid cylindr conic
+relat polyhedraedit
+cylind seen polyhedr limit case ngonal prism n approach infin also seen dual bicon infinitesid bipyramid
+see alsoedit
+cylindr coordin system
+rotat axe
+steinmetz solid intersect two three perpendicular cylind
+translat axe
+referencesedit
+extern linksedit
+surfac area cylind mathguid
+volum cylind mathguid

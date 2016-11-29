@@ -1,0 +1,84 @@
+resistorcapacitor circuit rc circuit rc filter rc network electr circuit compos resistor capacitor driven voltag current sourc first order rc circuit compos one resistor one capacitor simplest type rc circuit
+rc circuit use filter signal block certain frequenc pass other two common rc filter highpass filter lowpass filter bandpass filter bandstop filter usual requir rlc filter though crude one made rc filter
+introductionedit
+three basic linear passiv lump analog circuit compon resistor r capacitor c inductor l may combin rc circuit rl circuit lc circuit rlc circuit acronym indic compon use circuit among exhibit larg number import type behaviour fundament much analog electron particular abl act passiv filter articl consid rc circuit seri parallel form shown diagram
+articl reli knowledg complex imped represent capacitor knowledg frequenc domain represent signal
+natur responseedit
+simplest rc circuit capacitor resistor parallel circuit consist charg capacitor resistor capacitor discharg store energi resistor voltag across capacitor time depend found use kirchhoff current law current charg capacitor must equal current resistor result linear differenti equat
+c capacit capacitor
+solv equat v yield formula exponenti decay
+v capacitor voltag time
+time requir voltag fall call rc time constant given
+complex impedanceedit
+complex imped zc ohm capacitor capacit c farad
+complex frequenc general complex number
+repres imaginari unit
+exponenti decay constant radian per second
+sinusoid angular frequenc also radian per second
+sinusoid steadi stateedit
+sinusoid steadi state special case input voltag consist pure sinusoid exponenti decay result
+evalu becom
+seri circuitedit
+view circuit voltag divid voltag across capacitor
+voltag across resistor
+transfer functionsedit
+transfer function input voltag voltag across capacitor
+similar transfer function input voltag across resistor
+pole zerosedit
+transfer function singl pole locat
+addit transfer function resistor zero locat origin
+gain phaseedit
+magnitud gain across two compon
+phase angl
+express togeth may substitut usual express phasor repres output
+currentedit
+current circuit everywher sinc circuit seri
+impuls responseedit
+impuls respons voltag invers laplac transform correspond transfer function repres respons circuit input voltag consist impuls dirac delta function
+impuls respons capacitor voltag
+ut heavisid step function
+time constant
+similar impuls respons resistor voltag
+dirac delta function
+frequencydomain considerationsedit
+frequenc domain express analysi show frequenc circuit filter pass reject analysi rest consider happen gain frequenc becom larg small
+show output taken across capacitor high frequenc attenu short ground low frequenc pass thus circuit behav lowpass filter though output taken across resistor high frequenc pass low frequenc attenu sinc capacitor block signal frequenc approach configur circuit behav highpass filter
+rang frequenc filter pass call bandwidth point filter attenu signal half unfilt power term cutoff frequenc requir gain circuit reduc
+solv equat yield
+frequenc filter attenu half origin power
+clear phase also depend frequenc although effect less interest general gain variat
+dc hz capacitor voltag phase signal voltag resistor voltag lead frequenc increas capacitor voltag come lag relat signal resistor voltag come inphas signal
+timedomain considerationsedit
+section reli knowledg e natur logarithm constant
+straightforward way deriv time domain behaviour use laplac transform express given effect transform assum step input ie afterward
+partial fraction expans invers laplac transform yield
+equat calcul voltag across capacitor resistor respect capacitor charg discharg equat vice versa equat rewritten term charg current use relationship cqv vir see ohm law
+thus voltag across capacitor tend toward v time pass voltag across resistor tend toward shown figur keep intuit point capacitor charg suppli voltag time pass eventu fulli charg
+equat show seri rc circuit time constant usual denot time take voltag across compon either rise across c fall across r within final valu time take reach reach
+rate chang fraction per thus go voltag move way level toward final valu c charg essenti fulli charg voltag sourc replac shortcircuit c fulli charg voltag across c drop exponenti toward c discharg essenti fulli discharg note current circuit behav voltag across r via ohm law
+result may also deriv solv differenti equat describ circuit
+first equat solv use integr factor second follow easili solut exact obtain via laplac transform
+integratoredit
+consid output across capacitor high frequenc ie
+mean capacitor insuffici time charg voltag small thus input voltag approxim equal voltag across resistor see consid express given
+note frequenc condit describ mean
+ohm law
+integr across capacitor
+differentiatoredit
+consid output across resistor low frequenc ie
+mean capacitor time charg voltag almost equal sourc voltag consid express
+differenti across resistor
+accur integr differenti achiev place resistor capacitor appropri input feedback loop oper amplifi see oper amplifi integr oper amplifi differenti
+parallel circuitedit
+parallel rc circuit general less interest seri circuit larg output voltag equal input voltag result circuit act filter input signal unless fed current sourc
+complex imped
+show capacitor current phase resistor sourc current altern govern differenti equat may use
+fed current sourc transfer function parallel rc circuit
+see alsoedit
+rl circuit
+lc circuit
+rlc circuit
+electr network
+list electron topic
+step respons
+rc circuit continuousrepay mortgag

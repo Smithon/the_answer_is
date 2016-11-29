@@ -1,0 +1,81 @@
+electr engin switch electr compon break electr circuit interrupt current divert one conductor anoth mechan switch may oper direct human oper control circuit exampl light switch keyboard button may oper move object dooroper switch may oper sens element pressur temperatur flow relay switch oper electr switch made handl wide rang voltag current larg switch may use isol highvoltag circuit electr substat
+descript
+familiar form switch manual oper electromechan devic one set electr contact connect extern circuit set contact one two state either close mean contact touch electr flow open mean contact separ switch nonconduct mechan actuat transit two state open close either toggl flip switch continu momentari pushfor pushfor type
+switch may direct manipul human control signal system comput keyboard button control power flow circuit light switch automat oper switch use control motion machin exampl indic garag door reach full open posit machin tool posit accept anoth workpiec switch may oper process variabl pressur temperatur flow current voltag forc act sensor process use automat control system exampl thermostat temperatureoper switch use control heat process switch oper anoth electr circuit call relay larg switch may remot oper motor drive mechan switch use isol electr power system provid visibl point isol padlock necessari prevent accident oper machin mainten prevent electr shock
+ideal switch would voltag drop close would limit voltag current rate would zero rise time fall time state chang would chang state without bounc posit
+practic switch fall short ideal resist limit current voltag handl finit switch time etc ideal switch often use circuit analysi great simplifi system equat solv lead less accur solut theoret treatment effect nonid properti requir design larg network switch exampl use telephon exchang
+contact
+simplest case switch two conduct piec often metal call contact connect extern circuit touch complet make circuit separ open break circuit contact materi chosen resist corros metal form insul oxid would prevent switch work contact materi also chosen basi electr conduct hard resist abras wear mechan strength low cost low toxic
+sometim contact plate nobl metal may design wipe clean contamin nonmetal conductor conduct plastic sometim use prevent format insul oxid minimum wet current may specifi given switch design
+contact terminolog
+electron switch classifi accord arrang contact pair contact said close current flow one contact separ insul air gap said open current flow normal voltag term make closur contact break open contact also wide use
+term pole throw also use describ switch contact variat number pole number electr separ switch control singl physic actuat exampl pole switch two separ parallel set contact open close unison via mechan number throw number separ wire path choic open switch adopt pole singlethrow switch one pair contact either close open doublethrow switch contact connect either two contact triplethrow contact connect one three contact etc
+switch contact remain one state unless actuat pushbutton switch contact either normal open abbrevi close oper switch normal close nc nc open switch action switch type contact call changeov switch may makebeforebreak mbb short momentarili connect circuit may breakbeforemak bbm nonshort interrupt one circuit close
+term given rise abbrevi type switch use electron industri singlepol singlethrow spst simplest type singlepol doublethrow spdt connect either two termin common termin electr power wire ie hous build wire electrician name general involv suffix way howev term differ british english american english ie term two way three way use differ mean
+switch larger number pole throw describ replac d number eg pst pst etc case letter tripl q quadrupl rest articl term spst spdt intermedi use avoid ambigu
+contact bounc
+contact bounc also call chatter common problem mechan switch relay switch relay contact usual made springi metal contact strike togeth momentum elast act togeth caus bounc apart one time make steadi contact result rapid puls electr current instead clean transit zero full current effect usual unimport power circuit caus problem analogu logic circuit respond fast enough misinterpret onoff puls data stream
+effect contact bounc elimin use mercurywet contact infrequ use hazard mercuri releas altern contact circuit lowpass filter reduc elimin multipl puls digit system multipl sampl contact state taken time delay implement order contact bounc settl contact input use control anyth bounc spdt switch elimin sr flipflop latch schmitt trigger method refer debounc circuit
+analog term debounc arisen softwar develop industri describ ratelimit throttl frequenc method execut
+arc quench
+power switch suffici larg electron flow across open switch contact suffici ioniz air molecul across tini gap contact switch open form gas plasma also known electr arc plasma low resist abl sustain power flow even separ distanc switch contact steadili increas plasma also hot capabl erod metal surfac switch contact electr current arc caus signific degrad contact also signific electromagnet interfer emi requir use arc suppress method
+voltag suffici high arc also form switch close contact approach voltag potenti suffici exceed breakdown voltag air separ contact arc form sustain switch close complet switch surfac make contact
+either case standard method minim arc format prevent contact damag use fastmov switch mechan typic use springoper tippingpoint mechan assur quick motion switch contact regardless speed switch control oper user movement switch control lever appli tension spring tip point reach contact sudden snap open close spring tension releas
+power switch increas method use minim prevent arc format plasma hot rise due convect air current arc quench seri nonconduct blade span distanc switch contact arc rise length increas form ridg rise space blade arc long stay sustain extinguish puffer may use blow sudden high veloc burst gas across switch contact rapid extend length arc extinguish quick
+extrem larg switch excess watt capac often switch contact surround someth air rapid extinguish arc exampl switch contact may oper vacuum immers miner oil sulfur hexafluorid
+ac power servic current period pass zero effect make harder sustain arc open manufactur may rate switch lower voltag current rate use dc circuit
+power switch
+switch design switch signific power transit state switch well abil withstand continu oper current must consid switch state resist near zero littl power drop contact switch state resist extrem high even less power drop contact howev switch flick resist must pass state quarter load rate power wors load pure resist briefli drop switch
+reason power switch intend interrupt load current spring mechan make sure transit short possibl regardless speed user move rocker
+power switch usual come two type momentari onoff switch laser pointer usual take form button close circuit button depress regular onoff switch flashlight constant onoff featur dualact switch incorpor featur
+induct load
+strong induct load electr motor switch current cannot drop instantan zero spark jump across open contact switch induct load must rate handl case spark caus electromagnet interfer suppress snubber network resistor capacitor seri quell spark
+incandesc load
+turn incandesc lamp draw larg inrush current ten time steadyst current filament heat resist rise current decreas steadyst valu switch design incandesc lamp load withstand inrush current
+wet current
+wet current minimum current need flow mechan switch oper break film oxid may deposit switch contact film oxid occur often area high humid provid suffici amount wet current crucial step design system use delic switch small contact pressur sensor input fail might result switch remain electr open due contact oxid
+actuat
+move part appli oper forc contact call actuat may toggl dolli rocker pushbutton type mechan linkag see photo
+bias switch
+momentari pushbutton switch type bias switch common type pushtomak normallyopen switch make contact button press break button releas key comput keyboard exampl normallyopen pushtomak switch pushtobreak normallyclos nc switch hand break contact button press make contact releas exampl pushtobreak switch button use releas door held close electromagnet interior lamp household refriger control switch held open door close
+rotari switch
+rotari switch oper twist motion oper handl least two posit one posit switch may momentari bias spring requir oper hold switch posit posit may detent hold posit releas rotari switch may multipl level deck order allow control multipl circuit
+one form rotari switch consist spindl rotor contact arm spoke project surfac like cam array termin arrang circl around rotor serv contact spoke one number differ electr circuit connect rotor switch layer allow use multipl pole layer equival one pole usual switch detent mechan click one activ posit anoth rather stall intermedi posit thus rotari switch provid greater pole throw capabl simpler switch
+type use cam mechan oper multipl independ set contact
+rotari switch use channel selector televis receiv earli rang selector electr meter equip band selector multiband radio similar purpos industri rotari switch use control measur instrument switchgear control circuit exampl radio control overhead crane may larg multicircuit rotari switch transfer hardwir control signal local manual control cab output remot control receiv
+toggl switch
+toggl switch class electr switch manual actuat mechan lever handl rock mechan
+toggl switch avail mani differ style size use numer applic mani design provid simultan actuat multipl set electr contact control larg amount electr current main voltag
+word toggl refer kind mechan joint consist two arm almost line connect elbowlik pivot howev phrase toggl switch appli switch short handl posit snapact whether actual contain toggl mechan similar switch definit click heard call posit onoff switch common use type switch typic light switch electr outlet switch
+multipl toggl switch may mechan interlock prevent forbidden combin
+special type
+switch design respond type mechan stimulus exampl vibrat trembler switch tilt air pressur fluid level float switch turn key key switch linear rotari movement limit switch microswitch presenc magnet field reed switch mani switch oper automat chang environment condit motion machineri limit switch use exampl machin tool interlock oper proper posit tool heat cool system sail switch ensur air flow adequ duct pressur switch respond fluid pressur
+mercuri tilt switch
+mercuri switch consist drop mercuri insid glass bulb two contact two contact pass glass connect mercuri bulb tilt make mercuri roll
+type switch perform much better ball tilt switch liquid metal connect unaffect dirt debri oxid wet contact ensur low resist bouncefre connect movement vibrat produc poor contact type use precis work
+also use arc danger presenc explos vapour entir unit seal
+knife switch
+knife switch consist flat metal blade hing one end insul handl oper fix contact switch close current flow hing pivot blade fix contact switch usual enclos knife contact typic form copper steel brass depend applic fix contact may back spring sever parallel blade oper time one handl part may mount insul base termin wire may direct bolt insul switch board larg assembl sinc electr contact expos switch use peopl cannot accident come contact switch voltag low present hazard
+knife switch made mani size miniatur switch larg devic use carri thousand amper electr transmiss distribut gangoper switch use circuit highest voltag
+disadvantag knife switch slow open speed proxim oper expos live part metalenclos safeti disconnect switch use isol circuit industri power distribut sometim springload auxiliari blade fit momentarili carri full current open quick part rapid extinguish arc
+footswitch
+footswitch rug switch oper foot pressur exampl use control machin tool allow oper hand free manipul workpiec foot control electr guitar also footswitch
+revers switch
+dpdt switch six connect sinc polar revers common usag dpdt switch variat dpdt switch intern wire specif polar revers crossov switch four termin rather six two termin input two output connect batteri dc sourc way switch select either normal revers polar switch also use intermedi switch multiway switch system control lamp two switch
+light switch
+build wire light switch instal conveni locat control light occasion circuit use multiplepol switch multiway switch control lamp obtain two place end corridor stairwel wireless light switch allow remot control lamp conveni lamp includ touch switch electron control lamp touch anywher public build sever type vandal resist switch use prevent unauthor use
+electron switch
+relay electr oper switch mani relay use electromagnet oper switch mechan mechan oper principl also use solidst relay control power circuit move part instead use semiconductor devic perform switchingoften siliconcontrol rectifi triac
+analogu switch use two mosfet transistor transmiss gate arrang switch work much like relay advantag sever limit compar electromechan relay
+power transistor switch voltag regul power suppli unit use like switch altern let power flow block power flow
+mani peopl use metonymi call varieti devic switch conceptu connect disconnect signal communic path electr devic analog way mechan switch connect disconnect path electron flow two conductor earli telephon system use automat oper strowger switch connect telephon caller telephon exchang contain one crossbar switch today
+sinc advent digit logic term switch spread varieti digit activ devic transistor logic gate whose function chang output state two logic level connect differ signal line even comput network switch whose function provid connect differ port comput network term switch also appli telecommun network signifi network circuit switch provid dedic circuit communic end node public switch telephon network common featur usag refer devic control binari state either close open connect connect
+switch
+see also
+commut electr
+cutout
+din rail
+refer
+extern link
+glossari electr switch
+type switch onon onon etc

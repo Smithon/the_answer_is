@@ -1,0 +1,37 @@
+telecommun profession audio balanc line balanc signal pair transmiss line consist two conductor type equal imped along length equal imped ground circuit chief advantag balanc line format good reject extern nois fed differenti amplifi common form balanc line twinlead use radio frequenc signal twist pair use lower frequenc contrast unbalanc line coaxial cabl design return conductor connect ground circuit whose return conductor actual ground balanc unbalanc circuit interconnect use transform call balun
+circuit drive balanc line must balanc maintain benefit balanc may achiev transform coupl mere balanc imped conductor
+line carri symmetr signal equal opposit voltag ground leg often incorrect refer balanc actual differenti signal balanc line differenti signal often use togeth thing differenti signal make line balanc nois reject balanc cabl requir differenti signal
+explan
+transmiss signal balanc line reduc influenc nois interfer due extern stray electr field extern signal sourc tend induc common mode signal line balanc imped ground minim differenti pickup due stray electr field conductor sometim twist togeth ensur conductor equal expos extern magnet field could induc unwant nois
+balanc line also electromagnet shield reduc amount nois introduc
+balanc line allow differenti receiv reduc nois connect reject commonmod interfer line imped ground interf field current induc voltag wire sinc receiv respond differ wire influenc induc nois voltag balanc line use unbalanc circuit differ imped conductor ground current induc separ conductor caus differ voltag drop ground thus creat voltag differenti make line suscept nois exampl twist pair includ categori cabl
+compar unbalanc circuit balanc line reduc amount nois per distanc allow longer cabl run practic electromagnet interfer affect signal way similar two signal automat remov end transmiss path one signal subtract
+telephon system
+first applic balanc line telephon line interfer littl consequ telegraph system essenc digit could disturb telephon user initi format take two singlewir unbalanc telegraph line use pair prove insuffici howev growth electr power transmiss tend use rout telephon line run alongsid power line mani mile inevit interfer induc one leg sinc one nearer power line issu address swap posit two leg everi hundr yard crossov thus ensur leg equal interfer induc allow commonmod reject work telephon system grew becam prefer use cabl rather open wire save space also avoid poor perform bad weather cabl construct use balanc telephon cabl twist pair howev becom widespread repeat amplifi becam avail unamplifi telephon line twist pair cabl could manag maximum distanc km open wire hand lower capacit use enorm distancesth longest km new york chicago built load coil use improv distanc achiev cabl problem final overcom amplifi start instal twist pair balanc line still wide use local loop line connect subscrib premis respect exchang
+telephon trunk line especi frequenc divis multiplex carrier system usual wire circuit rather wire circuit least fibreopt becam widespread requir differ kind cabl format requir conductor arrang two pair one pair send go signal return signal greatest sourc interfer kind transmiss usual crosstalk go return circuit common cabl format star quad diagon opposit conductor form pair geometri give maximum common mode reject two pair altern format dm quad consist two twist pair twist differ pitch
+audio system
+exampl balanc line connect microphon mixer profession system classic dynam condens microphon use transform provid differentialmod signal transform still use larg major modern dynam microphon recent condens microphon like use electron drive circuitri leg irrespect signal ident imped ground pair cabl pairderiv star quad use maintain balanc imped close twist core ensur interfer common conductor provid receiv end usual mix consol disturb line balanc abl ignor commonmod nois signal extract differenti one system excel immun induc interfer
+typic profession audio sourc microphon threepin xlr connector one shield chassi ground two signal connect signal wire carri two copi signal opposit polar often term hot cold aesr standard eia standard rsa suggest pin carri posit signal result posit air pressur transduc deem hot pin design hot pin design serv use keep consist polar rest system sinc conductor travel path sourc destin assumpt interfer induc upon conductor equal applianc receiv signal compar differ two signal often disregard electr ground allow applianc ignor induc electr nois induc nois would present equal amount ident polar balanc signal conductor two signal differ would unchang success reject induc nois desir signal depend part balanc signal conductor receiv amount type interfer typic lead twist braid cojacket cabl use balanc signal transmiss
+balanc differenti
+explan balanc line assum symmetr antiphas signal unfortun confus signal symmetri balanc line quit independ essenti balanc line match imped driver line receiv condit ensur extern nois affect leg differenti line equal thus appear common mode signal remov receiv balanc drive circuit excel commonmod imped match leg provid symmetr signal symmetr differenti signal exist prevent interfer circuit electromagnet field cancel equal opposit current necessari interfer reject circuit
+balun
+convert signal balanc unbalanc requir balun exampl balun use send line level audio ecarri level signal coaxial cabl unbalanc feet m categori cabl use pair balun end cat run balun take unbalanc signal creat invert copi signal send signal across cat cabl balanc differenti signal upon recept end balun take differ two signal thus remov nois pick along way recreat unbalanc signal
+common applic radio frequenc balun found antenna termin televis receiv typic ohm balanc twin lead antenna input could connect coaxial cabl cabl tv system balun
+characterist imped
+characterist imped transmiss line import paramet higher frequenc oper parallel wire transmiss line
+half distanc wire centr wire radius respect permeabl permitt surround medium common use approxim valid wire separ much larger wire radius absenc magnet materi
+relat permitt surround medium
+electr power line
+electr power transmiss three conductor use threephas power transmiss refer balanc line sinc instantan sum three line voltag nomin zero howev balanc field refer symmetri sourc load noth imped balanc line sens mean telecommun
+transmiss singlephas electr power use railway electrif system two conductor use carri inphas outofphas voltag line balanc
+bipolar hvdc line pole oper voltag toward ground also balanc line
+see also
+differenti pair
+balanc transmiss standard
+rs
+rs
+lowvoltag differenti signal lvds
+refer
+huurdeman worldwid histori telecommun wileyiee
+extern link
+balanc line phantom power ground arcan mysteri macki

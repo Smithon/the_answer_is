@@ -1,0 +1,123 @@
+electromagnet electron induct properti electr conductor chang current flow induc electromot forc conductor nearbi conductor mutual induct
+effect deriv two fundament observ physic steadi current creat steadi magnet field describ oerst law timevari magnet field induc electromot forc nearbi conductor describ faraday law induct accord lenz law chang electr current circuit contain induct induc proport voltag oppos chang current selfinduct vari field circuit may also induc emf neighbour circuit mutual induct
+term induct coin oliv heavisid customari use symbol l induct honour physicist heinrich lenz si system measur unit induct henri unit symbol h name honor joseph henri discov induct independ faraday
+circuit analysisedit
+electron compon intend add induct circuit call inductor inductor typic manufactur coil wire design deliv two desir properti concentr magnet field small physic space link magnet field circuit multipl time
+relationship selfinduct l electr circuit voltag vt current circuit
+voltag induc across inductor back emf equal product inductor induct rate chang current inductor
+circuit practic induct may benefici detriment effect tune circuit induct use provid frequencyselect circuit practic inductor may use provid filter energi storag given network induct per unit length transmiss line one properti determin characterist imped balanc induct capacit cabl import distortionfre telegraphi telephoni induct long ac power transmiss line effect power capac line sensit circuit microphon comput network cabl may util special cabl construct limit induct coupl circuit
+general case k electr circuit current im voltag vm read
+induct l symmetr matrix diagon coeffici lmm call coeffici selfinduct offdiagon element call coeffici mutual induct coeffici induct constant long magnetiz materi nonlinear characterist involv direct consequ linear maxwel equat field current densiti coeffici induct becom function current nonlinear case
+deriv faraday law inductanceedit
+induct equat consequ maxwel equat straightforward deriv import case electr circuit consist thin wire
+system k wire loop one sever wire turn flux linkag loop m given
+nm denot number turn loop m m magnet flux loop lmn constant equat follow amper law magnet field flux linear function current faraday law induct
+vm denot voltag induc circuit m agre definit induct coeffici lmn identifi coeffici induct total current nnin contribut m also follow lmn proport product turn nmnn
+induct magnet field energyedit
+multipli equat vm imdt sum m give energi transfer system time interv dt
+must agre chang magnet field energi w caus current integr condit
+requir lmnlnm induct matrix lmn thus symmetr integr energi transfer magnet field energi function current
+equat also direct consequ linear maxwel equat help associ chang electr current buildup decreas magnet field energi correspond energi transfer requir generat voltag mechan analog k case magnet field energi li bodi mass m veloc u kinet energi mu rate chang veloc current multipli mass induct requir generat forc electr voltag
+coupl inductor mutual inductanceedit
+mutual induct occur chang current one inductor induc voltag anoth nearbi inductor import mechan transform work also caus unwant coupl conductor circuit
+mutual induct m also measur coupl two inductor mutual induct circuit circuit j given doubl integr neumann formula see calcul techniqu
+mutual induct also relationship
+mutual induct subscript specifi relationship voltag induc coil due current coil
+n number turn coil
+n number turn coil
+p permeanc space occupi flux
+mutual induct also relationship coupl coeffici coupl coeffici alway conveni way specifi relationship certain orient inductor arbitrari induct
+k coupl coeffici k
+l induct first coil
+l induct second coil
+mutual induct m determin factor use predict behavior circuit
+v voltag across inductor interest
+l induct inductor interest
+didt deriv respect time current inductor interest
+didt deriv respect time current inductor coupl first inductor
+m mutual induct
+minus sign aris sens current defin diagram current defin go dot sign m posit equat would read plus sign instead
+matrix representationedit
+circuit describ twoport network paramet matrix represent direct z paramet given
+complex frequenc variabl
+equival circuitedit
+mutual coupl inductor equival repres tcircuit inductor shown coupl strong inductor unequ valu seri inductor stepdown side may take negat valu
+analyz two port network output termin arbitrari imped z voltag gain av given
+tight coupl inductor k reduc
+independ load imped inductor wound core geometri express equal turn ratio two inductor induct proport squar turn ratio
+input imped network given
+k reduc
+thus current gain ai independ load unless condit
+met case
+tune transformeredit
+either side transform tune circuit amount mutual induct two wind togeth q factor circuit determin shape frequenc respons curv tune circuit togeth transform load form rlc circuit definit peak frequenc respons side transform tune describ doubletun coupl doubletun circuit describ loos critic overcoupl depend valu k two tune circuit loos coupl mutual induct bandwidth narrow amount mutual induct increas bandwidth continu grow mutual induct increas beyond critic point peak respons curv begin drop center frequenc attenu strong direct sideband known overcoupl
+ideal transformersedit
+k inductor refer close coupl addit selfinduct go infin inductor becom ideal transform case voltag current number turn relat follow way
+vs voltag across secondari inductor
+vp voltag across primari inductor one connect power sourc
+ns number turn secondari inductor
+np number turn primari inductor
+convers current
+current secondari inductor
+ip current primari inductor one connect power sourc
+ns number turn secondari inductor
+np number turn primari inductor
+note power one inductor power also note equat dont work inductor forc power sourc
+calcul techniquesedit
+general case induct calcul maxwel equat mani import case solv use simplif high frequenc current consid skin effect surfac current densiti magnet field may obtain solv laplac equat conductor thin wire selfinduct still depend wire radius distribut current wire current distribut approxim constant surfac volum wire wire radius much smaller length scale
+mutual induct two wire loopsedit
+mutual induct filamentari circuit m filamentari circuit n given doubl integr neumann formula
+symbol denot magnet constant hm cm cn curv span wire see deriv equat
+selfinduct wire loopedit
+formal selfinduct wire loop would given equat m n problem howev xx becom infinit make necessari take finit wire radius distribut current wire account remain contribut integr point xx correct term
+l denot radius length wire y constant depend distribut current wire y current flow surfac wire skin effect y current homogen across wire approxim accur wire long compar crosssect dimens
+method imagesedit
+case differ current distribut generat magnet field section space fact may use relat self induct method imag exampl consid two system
+wire distanc d front perfect conduct wall return
+two parallel wire distanc d opposit current
+magnet field two system coincid half space magnet field energi induct second system thus twice larg first system
+relat induct capacitanceedit
+induct per length l capacit per length c relat special case transmiss line consist two parallel perfect conductor arbitrari constant cross section
+denot dielectr constant magnet permeabl medium conductor embed electr magnet field insid conductor complet skin effect high frequenc current flow one line return signal propag along transmiss line speed electromagnet radiat nonconduct medium envelop conductor
+selfinduct simpl electr circuit airedit
+selfinduct mani type electr circuit given close form exampl list tabl
+symbol denot magnet constant hm high frequenc electr current flow conductor surfac skin effect depend geometri sometim necessari distinguish low high frequenc induct purpos constant y y current uniform distribut surfac wire skin effect y current uniform distribut cross section wire high frequenc case conductor approach addit screen current flow surfac express contain y becom invalid
+induct physic symmetryedit
+induct solenoidedit
+solenoid long thin coil ie coil whose length much greater diamet condit without magnet materi use magnet flux densiti within coil practic constant given
+magnet constant number turn current length coil ignor end effect total magnet flux coil obtain multipli flux densiti crosssect area
+combin definit induct
+follow induct solenoid given
+tabl induct short solenoid various diamet length ratio calcul delling whittmor ould
+induct complic shape deriv maxwel equat rigid aircor coil induct function coil geometri number turn independ current
+similar analysi appli solenoid magnet core length coil much greater product relat permeabl magnet core diamet limit simpl analysi lowperm core extrem long thin solenoid although rare use equat
+relat permeabl materi within solenoid
+follow induct solenoid given
+n squar definit induct
+note sinc permeabl ferromagnet materi chang appli magnet flux induct coil ferromagnet core general vari current
+induct coaxial lineedit
+let inner conductor radius permeabl let dielectr inner outer conductor permeabl let outer conductor inner radius outer radius permeabl assum dc current flow opposit direct two conductor uniform current densiti magnet field generat current point azimuth direct function radius comput use ampr law
+flux per length region conductor comput draw surfac contain axi
+insid conductor l comput equat energi store inductor energi store magnet field
+cylindr geometri depend energi per unit length
+induct per unit length inner conductor integr righthandsid outer conductor
+solv sum term region togeth give total induct per unit length
+howev typic coaxial line applic interest pass nondc signal frequenc resist skin effect cannot neglect case inner outer conductor term neglig case one may approxim
+phasor circuit analysi impedanceedit
+signal current voltag sine use phasor equival imped induct given
+j imaginari unit
+l induct
+f angular frequenc
+f frequenc
+l xl induct reactanc
+nonlinear inductanceedit
+mani inductor make use magnet materi materi larg enough rang exhibit nonlinear permeabl effect satur turn satur make result induct function appli current faraday law still hold induct ambigu differ whether calcul circuit paramet magnet flux
+secant largesign induct use flux calcul defin
+differenti smallsign induct hand use calcul voltag defin
+circuit voltag nonlinear inductor obtain via differenti induct shown faraday law chain rule calculus
+similar definit nonlinear mutual induct
+see alsoedit
+referencesedit
+general referencesedit
+extern linksedit
+clemson vehicular electron laboratori induct calcul

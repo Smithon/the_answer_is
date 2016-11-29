@@ -1,0 +1,67 @@
+linear algebra linear transform repres matric linear transform map rn rm column vector n entri
+mn matrix call transform matrix altern express transform matric involv row vector prefer author
+usesedit
+matric allow arbitrari linear transform repres consist format suitabl comput also allow transform concaten easili multipli matric
+linear transform one repres matric transform nonlinear ndimension euclidean space rn repres linear transform ndimension space rn includ affin transform translat project transform reason transform matric wide use d comput graphic ndimension transform matric call depend applic affin transform matric project transform matric general nonlinear transform matric respect ndimension matrix ndimension matrix describ augment matrix
+physic scienc activ transform one actual chang physic posit system make sens even absenc coordin system wherea passiv transform chang coordin descript physic system chang basi distinct activ passiv transform import default transform mathematician usual mean activ transform physicist could mean either
+put differ passiv transform refer descript object view two differ coordin frame
+find matrix transformationedit
+one linear transform function form easi determin transform matrix transform vector standard basi insert result column matrix word
+exampl function linear transform appli process suppos n case reveal
+must note matrix represent vector oper depend chosen basi similar matrix result altern basi nevertheless method find compon remain
+elabor vector v repres basi vector coordin
+express result transform matrix upon given basi
+element matrix determin given basi e appli everi observ respons vector equat defin want element jth column matrix
+eigenbasi diagon matrixedit
+yet special basi oper compon form diagon matrix thus multipl complex reduc n diagon mean coeffici zero leav one term sum surviv diagon element known eigenvalu design defin equat reduc result equat known eigenvalu equat eigenvector eigenvalu deriv via characterist polynomi
+diagon often possibl translat eigenbas
+exampl d comput graphicsedit
+common geometr transform keep origin fix linear includ rotat scale shear reflect orthogon project affin transform pure translat keep point fix point chosen origin make transform linear two dimens linear transform repres use transform matrix
+rotationedit
+rotat angl clockwis origin function form written matrix form becom
+similar rotat counterclockwis origin function form matrix form
+formula assum x axi point right y axi point format svg y axi point matric must swap
+shearingedit
+shear map visual similar slant two possibl
+shear parallel x axi written matrix form becom
+shear parallel y axi matrix form
+reflectionedit
+reflect vector line goe origin let vector direct line
+orthogon projectionedit
+project vector orthogon onto line goe origin let vector direct line use transform matrix
+reflect orthogon project onto line pass origin affin linear transform
+parallel project also linear transform repres simpli matrix howev perspect project repres matrix homogen coordin must use
+exampl d comput graphicsedit
+rotationedit
+matrix rotat angl axi defin unit vector lmn
+reflectionedit
+reflect point plane goe origin one use x ident matrix threedimension unit vector vector normal plane l norm uniti transform matrix express
+note particular case household reflect two three dimens reflect line plane go origin linear transform affin transform
+compos invert transformationsedit
+one main motiv use matric repres linear transform transform easili compos combin invert
+composit accomplish matrix multipl b matric two linear transform effect appli first b vector x given
+call associ properti word matrix combin transform follow b simpli product individu matric note multipl done opposit order english sentenc matrix follow b ba ab
+consequ abil compos transform multipli matric transform also invert simpli invert matric repres transform undo
+kind transformationsedit
+affin transformationsedit
+repres affin transform matric use homogen coordin mean repres vector x y vector x y similar higher dimens use system translat express matrix multipl function form becom
+ordinari linear transform includ set affin transform describ simplifi form affin transform therefor linear transform also repres general transform matrix latter obtain expand correspond linear transform matrix one row column fill extra space zero except lowerright corner must set exampl clockwis rotat matrix becom
+use transform matric contain homogen coordin translat seamless intermix type transform reason real plane map w plane real project space translat real euclidean space repres shear real project space although translat nonlinear transform d d euclidean space describ cartesian coordin becom d d project space describ homogen coordin simpl linear transform shear
+affin transform obtain composit two affin transform exampl given translat vector rotat r angl counterclockwis scale factor translat vector result m trst
+use affin transform homogen compon coordin vector normal call w never alter one therefor safe assum alway ignor howev true use perspect project
+perspect projectionedit
+anoth type transform import d comput graphic perspect project wherea parallel project use project point onto imag plane along parallel line perspect project project point onto imag plane along line eman singl point call center project mean object smaller project far away center project larger project closer
+simplest perspect project use origin center project z imag plane function form transform express homogen coordin
+carri matrix multipl homogen compon wc general equal therefor map back real plane must perform homogen divid perspect divid divid compon wc
+complic perspect project compos combin one rotat scale translat shear move imag plane center project wherev desir
+see alsoedit
+d project
+transform function
+referencesedit
+extern linksedit
+matrix page practic exampl povray
+refer page rotat axe
+linear transform calcul
+transform applet generat matric d transform vice versa
+coordin transform rotat d
+excel fun build d graphic spreadsheet interact transform matric live spreadsheet

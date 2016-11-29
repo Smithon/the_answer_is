@@ -1,0 +1,14 @@
+mathemat term wellpos problem stem definit given jacqu hadamard believ mathemat model physic phenomena properti
+solut exist
+solut uniqu
+solut behavior chang continu initi condit
+exampl archetyp wellpos problem includ dirichlet problem laplac equat heat equat specifi initi condit might regard natur problem physic process model problem
+problem wellpos sens hadamard term illpos invers problem often illpos exampl invers heat equat deduc previous distribut temperatur final data wellpos solut high sensit chang final data
+continuum model must often discret order obtain numer solut solut may continu respect initi condit may suffer numer instabl solv finit precis error data even problem wellpos may still illcondit mean small error initi data result much larger error answer illcondit problem indic larg condit number
+problem wellpos stand good chanc solut comput use stabl algorithm wellpos need reformul numer treatment typic involv includ addit assumpt smooth solut process known regular tikhonov regular one common use regular linear illpos problem
+see also
+total absorpt spectroscopi exampl invers problem illpos problem reallif situat solv mean expectationmaxim algorithm
+refer
+hadamard jacqu sur les problm aux drive partiell et leur signif physiqu princeton univers bulletin pp
+parker sybil b ed mcgrawhil dictionari scientif technic term th ed new york mcgrawhil isbn
+tikhonov n arsenin v y solut illpos problem new york winston isbn

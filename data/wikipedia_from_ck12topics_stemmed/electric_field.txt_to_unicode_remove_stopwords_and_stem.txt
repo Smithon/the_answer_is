@@ -1,0 +1,63 @@
+electr field compon electromagnet field vector field generat electr charg timevari magnet field describ maxwel equat concept electr field introduc michael faraday
+definit
+electr field given point defin vectori forc would exert stationari test particl unit charg electromagnet forc ie lorentz forc particl charg would subject forc
+si unit newton per coulomb nc equival volt per metr vm term si base unit kgmsa
+sourc electr field
+caus descript
+electr field caus electr charg vari magnet field former effect describ gausss law latter faraday law induct togeth enough defin behavior electr field function charg repartit magnet field howev sinc magnet field describ function electr field equat field coupl togeth form maxwel equat describ field function charg current
+special case steadi state stationari charg current maxwellfaraday induct effect disappear result two equat gausss law faraday law induct term taken togeth equival coulomb law written charg densiti denot posit space notic permitt vacuum must substitut charg consid nonempti media
+continu vs discret charg repartit
+equat electromagnet best describ continu descript howev charg sometim best describ discret point exampl model may describ electron punctual sourc charg densiti infinit infinitesim section space
+charg locat describ mathemat charg densiti dirac delta function three dimens use convers charg distribut approxim mani small punctual charg
+superposit principl
+electr field satisfi superposit principl maxwel equat linear result electr field result distribut charg distribut charg creat electr field instanc coulomb law linear charg densiti well
+principl use calcul field creat multipl point charg charg stationari space absenc current superposit principl prove result field sum field generat particl describ coulomb law
+electrostat field
+electrostat field efield chang time happen charg current stationari case coulomb law fulli describ field
+electr potenti
+faraday law electr field zero curl one defin electr potenti function analog gravit potenti
+parallel electrostat gravit field
+coulomb law describ interact electr charg
+similar newton law univers gravit
+suggest similar electr field e gravit field g associ potenti mass sometim call gravit charg similar
+electrostat gravit forc central conserv obey inversesquar law
+uniform field
+uniform field one electr field constant everi point approxim place two conduct plate parallel maintain voltag potenti differ approxim boundari effect near edg plane electr field distort plane continu assum infinit plane magnitud electr field e
+potenti differ plate d distanc separ plate negat sign aris posit charg repel posit charg experi forc away posit charg plate opposit direct voltag increas micro nanoappl instanc relat semiconductor typic magnitud electr field order vm achiev appli voltag order volt conductor space m apart
+electrodynam field
+electrodynam field efield chang time instanc charg motion
+electr field cannot describ independ magnet field case magnet vector potenti defin one still defin electr potenti
+one recov faraday law induct take curl equat
+justifi posteriori previous form e
+energi electr field
+magnet field b nonzero
+total energi per unit volum store electromagnet field
+permitt medium field exist magnet permeabl e b electr magnet field vector
+e b field coupl would mislead split express electr magnet contribut howev steadyst case field longer coupl see maxwel equat make sens case comput electrostat energi per unit volum
+total energi u store electr field given volum v therefor
+extens
+definit equat vector field
+presenc matter help electromagnet extend notion electr field three vector field rather one
+p electr polar volum densiti electr dipol moment d electr displac field sinc e p defin separ equat use defin d physic interpret d clear e effect field appli materi p induc field due dipol materi still serv conveni mathemat simplif sinc maxwel equat simplifi term free charg current
+constitut relat
+e d field relat permitt materi
+linear homogen isotrop materi e d proport constant throughout region posit depend inhomogen materi posit depend throughout materi
+anisotrop materi e d field parallel e d relat permitt tensor nd order tensor field compon form
+nonlinear media e d proport materi vari extent linear homogen isotropi
+see also
+classic electromagnet
+field strength
+signal strength telecommun
+magnet
+teltron tube
+teledelto conduct paper may use simpl analog comput model field
+refer
+extern link
+electr field electr magnet r nave hyperphys georgia state univers
+gausss law chapter frank wolfss lectur univers rochest
+electr field chapter frank wolfss lectur univers rochest
+applet show electr field move point charg
+field chapter onlin textbook
+learn simul interact simul electr field four point charg
+java simul electrostat d d
+interact flash simul pictur electr field userdefin preselect set point charg field vector field line equipotenti line author david chappel

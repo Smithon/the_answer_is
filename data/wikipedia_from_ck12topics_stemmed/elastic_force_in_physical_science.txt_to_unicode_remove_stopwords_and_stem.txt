@@ -1,0 +1,41 @@
+physic elast greek ductibl abil bodi resist distort influenc stress return origin size shape stress remov solid object deform forc appli materi elast object return initi shape size forc remov
+physic reason elast behavior quit differ differ materi metal atom lattic chang size shape forc appli energi ad system forc remov lattic goe back origin lower energi state rubber polym elast caus stretch polym chain forc appli
+perfect elast approxim real world materi remain pure elast even small deform engin amount elast materi determin two type materi paramet first type materi paramet call modulus measur amount forc per unit area stress need achiev given amount deform unit modulus pascal pa pound forc per squar inch psi also lbfin higher modulus typic indic materi harder deform second type paramet measur elast limit limit stress beyond materi longer behav elast deform materi take place stress releas materi elast return perman deform shape instead origin shape
+describ relat elast two materi modulus elast limit consid rubber typic low modulus tend stretch lot high elast limit appear elast metal high modulus low elast limit everyday experi two rubber materi elast limit one lower modulus appear elast
+overview
+elast materi deform due extern forc experi intern resist deform restor origin state extern forc longer appli various elast moduli young modulus shear modulus bulk modulus measur inher elast properti materi resist deform appli load various moduli appli differ kind deform instanc young modulus appli extensioncompress bodi wherea shear modulus appli shear
+elast materi describ stressstrain curv show relat stress averag restor intern forc per unit area strain relat deform metal crystallin materi curv linear small deform stressstrain relationship adequ describ hook law higherord term ignor howev larger stress beyond elast limit relat longer linear even higher stress materi exhibit plastic behavior deform irrevers return origin shape stress longer appli rubberlik materi elastom gradient stressstrain curv increas stress mean rubber progress becom difficult stretch metal gradient decreas high stress mean progress becom easier stretch elast exhibit solid nonnewtonian fluid viscoelast fluid also exhibit elast certain condit respons small rapid appli remov strain fluid may deform return origin shape larger strain strain appli longer period time fluid may start flow like viscous liquid
+elast materi describ term stressstrain relat essenti term stress strain defin without ambigu typic two type relat consid first type deal materi elast small strain second deal materi limit small strain clear second type relat general
+small strain measur stress use cauchi stress measur strain use infinitesim strain tensor stress strain measur relat linear relat known hook law linear elast describ behavior materi cauchi elast materi hypoelast materi model extend hook law allow possibl larg rotat
+general situat number stress measur use provid work conjug appropri finit strain measur ie product stress measur strain measur equal intern energi depend stress strain measur hyperelast prefer approach deal finit strain sever materi model analog hook law use
+linear elast
+note small deform elast materi spring exhibit linear elast describ linear relat stress strain relationship known hook law geometrydepend version idea first formul robert hook latin anagram ceiiinosssttuv publish answer ut tensio sic vis mean extens forc linear relationship common refer hook law law state relationship forc f displac x
+k constant known rate spring constant also state relationship stress strain
+e known elast modulus young modulus
+although general proport constant stress strain three dimens th order tensor system exhibit symmetri onedimension rod often reduc applic hook law
+finit elast
+elast behavior object undergo finit deform describ use number model cauchi elast materi model hypoelast materi model hyperelast materi model primari measur use quantiti finit strain deform gradient f conveni strain measur deriv primari quantiti
+cauchi elast materi
+materi said cauchyelast cauchi stress tensor function strain tensor deform gradient f alon
+even though stress cauchyelast materi depend state deform work done stress may depend path deform therefor cauchi elast materi nonconserv structur stress cannot deriv scalar elast potenti function
+hypoelast materi
+hypoelast materi describ relat form
+model extens linear elast suffer form nonconserv behaviour cauchi elast materi
+hyperelast materi
+hyperelast materi also call green elast materi conserv model deriv strain energi densiti function w stressstrain relat materi take form
+applic
+linear elast use wide design analysi structur beam plate shell sandwich composit theori also basi much fractur mechan
+hyperelast primarili use determin respons elastomerbas object gasket biolog materi soft tissu cell membran
+factor affect elast
+isotrop materi presenc fractur affect young shear modulus perpendicular plane crack decreas young modulus faster shear modulus fractur densiti increas indic presenc crack make bodi brittler microscop stressstrain relationship materi general govern helmholtz free energi thermodynam quantiti molecul settl configur minim free energi subject constraint deriv structur depend whether energi entropi term domin free energi materi broad classifi energyelast entropyelast microscop factor affect free energi equilibrium distanc molecul affect elast materi instanc inorgan materi equilibrium distanc molecul k increas bulk modulus decreas effect temperatur elast difficult isol numer factor affect instanc bulk modulus materi depend form lattic behavior expans well vibrat molecul depend temperatur
+see also
+elastographi
+tactil imag
+elast modulus
+linear elast
+pseudoelast
+resili
+rubber elast
+stiff
+ductil
+refer

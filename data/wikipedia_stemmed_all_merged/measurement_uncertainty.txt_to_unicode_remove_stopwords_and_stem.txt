@@ -1,0 +1,82 @@
+metrolog measur uncertainti nonneg paramet character dispers valu attribut measur quantiti uncertainti probabilist basi reflect incomplet knowledg quantiti measur subject uncertainti measur valu complet accompani statement associ uncertainti relat uncertainti measur uncertainti divid measur valu
+background
+purpos measur provid inform quantiti interest measurand exampl measurand might size cylindr featur per asm y volum vessel potenti differ termin batteri mass concentr lead flask water
+measur exact quantiti measur outcom depend measur system measur procedur skill oper environ effect even quantiti measur sever time way circumst differ measur valu would general obtain time assum measur system suffici resolut distinguish valu
+dispers measur valu would relat well measur perform averag would provid estim true valu quantiti general would reliabl individu measur valu dispers number measur valu would provid inform relat averag valu estim true valu howev inform would general adequ
+measur system may provid measur valu dispers true valu valu offset take domest bathroom scale suppos set show zero nobodi scale show valu offset zero matter mani time person mass remeasur effect offset would inher present averag valu
+measur uncertainti import econom consequ calibr measur activ calibr report magnitud uncertainti often taken indic qualiti laboratori smaller uncertainti valu general higher valu higher cost american societi mechan engin asm produc suit standard address various aspect measur uncertainti asm b guidelin decis rule determin conform specif address role measur uncertainti accept reject product base measur result product specif asm b guidelin evalu dimension measur uncertainti provid simplifi approach relat gum evalu dimension measur uncertainti asm b guidelin assess reliabl dimension measur uncertainti statement examin resolv disagr magnitud measur uncertainti statement asm b measur uncertainti conform test risk analysi provid guidanc risk involv product acceptancereject decis
+guid express uncertainti measur common known gum definit document subject gum adopt major nation measur institut nmis intern laboratori accredit standard iso requir intern laboratori accredit employ modern nation intern documentari standard measur method technolog see joint committe guid metrolog
+indirect measur
+discuss concern direct measur quantiti incident occur rare exampl bathroom scale may convert measur extens spring estim measurand mass person scale particular relationship extens mass determin calibr scale measur model convert quantiti valu correspond valu measurand
+mani type measur practic therefor mani model simpl measur model exampl scale mass proport extens spring might suffici everyday domest use altern sophist model weigh involv addit effect air buoyanc capabl deliv better result industri scientif purpos general often sever differ quantiti exampl temperatur humid displac contribut definit measurand need measur
+correct term includ measur model condit measur exact stipul term correspond systemat error given estim correct term relev quantiti correct estim uncertainti associ estim even estim zero often case instanc systemat error aris height measur align measur instrument perfect vertic ambient temperatur differ prescrib neither align instrument ambient temperatur specifi exact inform concern effect avail exampl lack align ambient temperatur time measur differ stipul c
+well raw data repres measur valu anoth form data frequent need measur model data relat quantiti repres physic constant known imperfect exampl materi constant modulus elast specif heat often relev data given refer book calibr certif etc regard estim quantiti
+item requir measur model defin measurand known input quantiti measur model model often refer function relationship output quantiti measur model measurand
+formal output quantiti denot inform requir often relat input quantiti denot inform avail measur model form
+known measur function general express measur model
+taken procedur exist calcul given uniqu defin equat
+propag distribut
+true valu input quantiti unknown gum approach character probabl distribut treat mathemat random variabl distribut describ respect probabl true valu lie differ interv assign base avail knowledg concern sometim interrel relev distribut known joint appli quantiti taken togeth
+consid estim respect input quantiti obtain certif report manufactur specif analysi measur data probabl distribut character chosen estim respect expect moreov th input quantiti consid socal standard uncertainti given symbol defin standard deviat input quantiti standard uncertainti said associ correspond estim
+use avail knowledg establish probabl distribut character quantiti interest appli also latter case character probabl distribut determin measur model togeth probabl distribut determin probabl distribut inform known propag distribut
+figur depict measur model case character differ rectangular uniform probabl distribut symmetr trapezoid probabl distribut case
+input quantiti character appropri probabl distribut measur model develop probabl distribut measurand fulli specifi term inform particular expect use estim standard deviat standard uncertainti associ estim
+often interv contain specifi probabl requir interv coverag interv deduc probabl distribut specifi probabl known coverag probabl given coverag probabl one coverag interv probabilist symmetr coverag interv interv probabl sum one minus coverag probabl valu left right interv equal shortest coverag interv interv length least coverag interv coverag probabl
+prior knowledg true valu output quantiti also consid domest bathroom scale fact person mass posit mass person rather motor car measur constitut prior knowledg possibl valu measurand exampl addit inform use provid probabl distribut give smaller standard deviat henc smaller standard uncertainti associ estim
+type type b evalu uncertainti
+knowledg input quantiti infer repeat measur valu type evalu uncertainti scientif judgement inform concern possibl valu quantiti type b evalu uncertainti
+type evalu measur uncertainti assumpt often made distribut best describ input quantiti given repeat measur valu obtain independ gaussian distribut expect equal averag measur valu standard deviat equal standard deviat averag uncertainti evalu small number measur valu regard instanc quantiti character gaussian distribut correspond distribut taken distribut consider appli measur valu obtain independ
+type b evalu uncertainti often avail inform lie specifi interv case knowledg quantiti character rectangular probabl distribut limit differ inform avail probabl distribut consist inform would use
+sensit coeffici
+sensit coeffici describ estim would influenc small chang estim input quantiti measur model sensit coeffici equal partial deriv first order respect evalu etc linear measur model
+independ chang equal would give chang statement would general approxim measur model relat magnitud term use assess respect contribut input quantiti standard uncertainti associ
+standard uncertainti associ estim output quantiti given sum term combin quadratur name express general approxim measur model
+known law propag uncertainti
+input quantiti contain depend formula augment term contain covari may increas decreas
+uncertainti evalu
+main stage uncertainti evalu constitut formul calcul latter consist propag summar formul stage constitut
+defin output quantiti measurand
+identifi input quantiti depend
+develop measur model relat input quantiti
+basi avail knowledg assign probabl distribut gaussian rectangular etc input quantiti joint probabl distribut input quantiti independ
+calcul stage consist propag probabl distribut input quantiti measur model obtain probabl distribut output quantiti summar use distribut obtain
+expect taken estim
+standard deviat taken standard uncertainti associ
+coverag interv contain specifi coverag probabl
+propag stage uncertainti evalu known propag distribut various approach avail includ
+gum uncertainti framework constitut applic law propag uncertainti character output quantiti gaussian distribut
+analyt method mathemat analysi use deriv algebra form probabl distribut
+mont carlo method approxim distribut function establish numer make random draw probabl distribut input quantiti evalu model result valu
+particular uncertainti evalu problem approach approach use general approxim exact provid solut numer accuraci control
+model number output quantiti
+measur model multivari number output quantiti concept extend output quantiti describ joint probabl distribut coverag interv becom coverag region law propag uncertainti natur general calcul procedur implement multivari mont carlo method avail
+altern perspect
+articl repres common view measur uncertainti assum random variabl proper mathemat model uncertain quantiti simpl probabl distribut suffici repres form measur uncertainti situat howev mathemat interv rather probabl distribut might better model uncertainti may includ situat involv period measur bin data valu censor detect limit plusminus rang measur particular probabl distribut seem justifi one cannot assum error among individu measur complet independ
+robust represent measur uncertainti case fashion interv interv ab differ rectangular uniform probabl distribut rang latter suggest true valu lie insid right half rang b b probabl one half within subinterv ab probabl equal width subinterv divid b interv make claim except simpli measur lie somewher within interv distribut measur interv summar probabl box dempstershaf structur real number incorpor aleator epistem uncertainti
+see also
+refer
+read
+jcgm intern vocabulari metrolog basic general concept associ term rd edit joint committe guid metrolog
+iso statist vocabulari symbol part general statist term term use probabl iso
+jcgm evalu measur data role measur uncertainti conform assess joint committe guid metrolog
+cox m g harri p m ssfm best practic guid uncertainti evalu technic report deme nation physic laboratori
+cox m g harri p m softwar specif uncertainti evalu technic report deme nation physic laboratori
+grabe m measur uncertainti scienc technolog springer
+grabe m general gaussian error calculus springer
+dietrich c f uncertainti calibr probabl adam hilger bristol uk
+nist uncertainti measur result
+bich w cox m g harri p m evolut guid express uncertainti measur metrologia ss
+ea express uncertainti measur calibr technic report ea european cooper accredit
+elster c toman b bayesian uncertainti analysi prior ignor measurand versus analysi use supplement guid comparison metrologia
+ferson kreinovich v hajago j oberkampf w ginzburg l experiment uncertainti estim statist data interv uncertainti sand
+lira evalu uncertainti measur fundament practic guidanc institut physic bristol uk
+majcen n taylor p editor practic exampl traceabl measur uncertainti valid chemistri vol isbn
+uka express uncertainti emc test technic report lab unit kingdom accredit servic
+uka m express uncertainti confid measur edit novemb uka
+nplunc
+estim temperatur uncertainti small system
+asm ptc test uncertainti new york american societi mechan engin
+introduct evalu uncertainti measur
+da silva rb bulska e godlewskazylkiewicz b hedrich m majcen n magnusson b marinc papadaki patriarca m vassileva e taylor p analyt measur measur uncertainti statisticsisbn
+arnaut l r measur uncertainti reverber chamber sampl statist technic report tqe nd ed nation physic laboratori
+estim measur uncertainti chemic analysi analyt chemistri onlin cours creat leito l jaluks helm univers tartu

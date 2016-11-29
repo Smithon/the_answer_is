@@ -1,0 +1,96 @@
+electrostat branch physic deal phenomena properti stationari slowmov electr charg acceler
+sinc classic physic known materi amber attract lightweight particl rub greek word amber electron sourc word electr electrostat phenomena aris forc electr charg exert forc describ coulomb law even though electrostat induc forc seem rather weak electrostat forc eg electron proton togeth make hydrogen atom order magnitud stronger gravit forc act
+mani exampl electrostat phenomena simpl attract plastic wrap hand remov packag attract paper charg scale appar spontan explos grain silo damag electron compon manufactur oper photocopi electrostat involv buildup charg surfac object due contact surfac although charg exchang happen whenev two surfac contact separ effect charg exchang usual notic least one surfac high resist electr flow charg transfer high resist surfac less trap long enough time effect observ charg remain object either bleed ground quick neutral discharg eg familiar phenomenon static shock caus neutral charg built bodi contact insul surfac
+coulomb lawedit
+begin magnitud electrostat forc newton two point charg coulomb conveni label one charg test charg call sourc charg develop theori sourc charg ad distanc meter two charg forc
+vacuum permitt permitt free space
+si unit equival kgm cnm f m coulomb constant
+use instead k express coulomb law relat fact forc invers proport surfac area sphere radius equal separ two charg
+singl proton charg e electron charg e
+physic constant k e current defin k exact defin e measur quantiti
+electr fieldedit
+electr field line use visual electr field field line begin posit charg termin negat charg electr field line parallel direct electr field densiti field line measur magnitud electr field given point electr field unit volt per meter vector field defin everywher except locat point charg diverg infin conveni place hypothet test charg point charg present coulomb law test charg experi forc use defin electr field follow
+see lorentz equat charg stationari
+consid collect particl charg locat point call sourc point electr field call field point
+displac vector sourc point field point unit vector indic direct field singl point charg origin magnitud electr field point away charg posit fact forc henc field calcul sum contribut due individu sourc particl exampl superposit principl electr field produc distribut charg given volum charg densiti obtain convert sum tripl integr
+gausss lawedit
+gausss law state total electr flux close surfac free space shape drawn electr field proport total electr charg enclos surfac mathemat gausss law take form integr equat
+volum element charg distribut surfac along line replac diverg theorem allow gausss law written differenti form
+diverg oper
+poisson laplac equationsedit
+definit electrostat potenti combin differenti form gausss law provid relationship potenti charg densiti
+relationship form poisson equat absenc unpair electr charg equat becom laplac equat
+electrostat approximationedit
+valid electrostat approxim rest assumpt electr field irrot
+faraday law assumpt impli absenc nearabs timevari magnet field
+word electrostat requir absenc magnet field electr current rather magnet field electr current exist must chang time worstcas must chang time slowli problem electrostat magnetostat may requir accur predict coupl two still ignor
+electrostat potentialedit
+electr field irrot possibl express electr field gradient scalar function call electrostat potenti also known voltag electr field point region high electr potenti region low electr potenti express mathemat
+gradient theorem use establish electrostat potenti amount work per unit charg requir move charg point point follow line integr
+equat see electr potenti constant region electr field vanish occur insid conduct object
+electrostat energyedit
+singl test particl potenti energi calcul line integr work integr point infin assum collect particl charg alreadi situat point potenti energi joul
+distanc charg test charg situat point electr potenti would test charg present two charg present potenti energi total electr potenti energi due collect n charg calcul assembl particl one time
+follow sum j n exclud j
+electr potenti would measur charg miss formula obvious exclud infinit energi would requir assembl point charg dispers cloud charg sum charg convert integr charg densiti use prescript
+second express electrostat energi use fact electr field negat gradient electr potenti well vector calculus ident way resembl integr part two integr electr field energi seem indic two mutual exclus formula electrostat energi densiti name yield equal valu total electrostat energi integr space
+electrostat pressureedit
+conductor surfac charg experi forc presenc electr field forc averag discontinu electr field surfac charg averag term field outsid surfac amount
+pressur tend draw conductor field regardless sign surfac charg
+triboelectr seriesedit
+triboelectr effect type contact electrif certain materi becom electr charg brought contact differ materi separ one materi acquir posit charg acquir equal negat charg polar strength charg produc differ accord materi surfac rough temperatur strain properti amber exampl acquir electr charg friction materi like wool properti first record thale miletus first electr phenomenon investig man exampl materi acquir signific charg rub togeth includ glass rub silk hard rubber rub fur
+electrostat generatorsedit
+presenc surfac charg imbal mean object exhibit attract repuls forc surfac charg imbal yield static electr generat touch two differ surfac togeth separ due phenomena contact electrif triboelectr effect rub two nonconduct object generat great amount static electr result friction two nonconduct surfac becom charg place one top sinc surfac rough textur take longer achiev charg contact rub rub object togeth increas amount adhes contact two surfac usual insul eg substanc conduct electr good generat hold surfac charg exampl substanc rubber plastic glass pith conduct object rare generat charg imbal except exampl metal surfac impact solid liquid nonconductor charg transfer contact electrif store surfac object static electr generat devic produc high voltag low current use classroom physic demonstr reli effect
+note presenc electr current detract electrostat forc spark corona discharg phenomena phenomena exist simultan system
+see also friction machin wimshurst machin van de graaff generat
+charg neutralizationedit
+natur electrostat phenomena familiar occasion annoy season low humid destruct harm situat eg electron manufactur work direct contact integr circuit electron especi delic mosfet presenc flammabl gas care must taken avoid accumul sudden discharg static charg see electrostat discharg
+charg inductionedit
+charg induct occur negat charg object repel negat charg electron surfac second object creat region second object posit charg attract forc exert object exampl balloon rub balloon stick wall attract forc exert two opposit charg surfac surfac wall gain electr charg due charg induct free electron surfac wall repel negat balloon creat posit wall surfac subsequ attract surfac balloon explor effect simul balloon static electr
+static electricityedit
+year michael faraday publish result experi ident electr physicist thought static electr somehow differ electr charg michael faraday prove electr induc magnet voltaic electr produc batteri static electr
+static electr usual caus certain materi rub like wool plastic sole shoe carpet process caus electron pull surfac one materi reloc surfac materi
+static shock occur surfac second materi negat charg electron touch posit charg conductor vice versa
+static electr common use xerographi air filter automot paint static electr buildup electr charg two object becom separ small electr compon easili damag static electr compon manufactur use number antistat devic avoid
+static electr chemic industryedit
+differ materi brought togeth separ accumul electr charg occur leav one materi posit charg becom negat charg mild shock receiv touch ground object walk carpet exampl excess electr charg accumul bodi friction charg shoe carpet result charg buildup upon bodi generat strong electr discharg although experi static electr may fun similar spark creat sever hazard industri deal flammabl substanc small electr spark may ignit explos mixtur devast consequ
+similar charg mechan occur within low conduct fluid flow pipelinesa process call flow electrif fluid low electr conduct picosiemen per meter call accumul fluid conduct psm call nonaccumul nonaccumul charg recombin fast separ henc electrostat charg generat signific petrochem industri psm recommend minimum valu electr conduct adequ remov charg fluid
+import concept insul fluid static relax time similar time constant tau within rc circuit insul materi ratio static dielectr constant divid electr conduct materi hydrocarbon fluid sometim approxim divid number electr conduct fluid thus fluid electr conduct pscm psm estim relax time second excess charg within fluid almost complet dissip time relax time second fluid exampl
+charg generat increas higher fluid veloc larger pipe diamet becom quit signific pipe inch mm larger static charg generat system best control limit fluid veloc british standard bs pd clctr former bspart code practic control undesir static electr prescrib veloc limit larg impact dielectr constant recommend veloc hydrocarbon fluid contain water limit ms
+bond earth usual way charg buildup prevent fluid electr conduct psm bond earth adequ charg dissip antistat addit may requir
+applic standardsedit
+bs pd clctr code practic control undesir static electr
+nfpa recommend practic static electr
+api rp protect ignit aris static lightn stray current
+electrostat induct commerci applicationsedit
+principl electrostat induct har benefici effect industri mani year begin introduct electrostat industri paint system econom even applic enamel polyurethan paint consum good includ automobil bicycl product
+see alsoedit
+electromagnet
+permitt relat permitt
+ionic bond
+electroneg
+electrostat discharg
+electrostat separ
+electrostat voltmet
+referencesedit
+faraday michael experiment research electr london royal inst
+ebook project gutenberg
+halliday david robert resnick kenneth krane physic new york john wiley son isbn
+griffith david j introduct electrodynam upper saddl river nj prentic hall isbn x
+hermann haus jame r melcher electromagnet field energi englewood cliff nj prenticehal isbn x
+readingedit
+essay
+william j beati human spark caus stop pain electr peopl
+book
+william cecil dampier theori experiment electr cambridg eng univers press cambridg physic seri xi p illus diagr cm lccn r
+william thomson kelvin reprint paper electrostat magnet william thomson kelvin macmillan
+alexand macaulay util quaternion physic electrostaticsgener problem macmillan
+alexand russel treatis theori altern current electrostat univers press
+extern linksedit
+man static jacket spark alert bbc news septemb
+static electr plastic
+shock static electr damag health wolfson electrostat news page
+invis wall static
+download electrostat bem modul matlab simpl capacit problem
+introduct electrostat point charg treat distribut use dirac delta function
+learn materi relat electrostat wikivers

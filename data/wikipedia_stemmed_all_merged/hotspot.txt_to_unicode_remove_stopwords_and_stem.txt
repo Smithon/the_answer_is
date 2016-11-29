@@ -1,0 +1,37 @@
+hotspot releas java hotspot perform engin java virtual machin desktop server maintain distribut oracl corpor featur techniqu justintim compil adapt optim design improv perform
+histori
+java hotspot perform engin first releas april built technolog strongtalk implement smalltalk program languag origin develop longview technolog trade animorph animorph virtualmachin technolog earlier success use sun research project self program languag sun microsystem purchas animorph
+short acquir animorph sun intend write new justintim jit compil newli develop virtual machin new compil would give rise name hotspot deriv fact softwar run java bytecod continu analyz program perform hot spot frequent repeat execut target optim lead highperform execut minimum overhead less performancecrit code one report jvm beat c c code benchmark
+initi avail addon java hotspot becam default sun jvm java
+featur
+sun jre featur two virtual machin one call client server client version tune quick load make use interpret server version load slowli put effort produc high optim jit compil yield higher perform vms compil oftenrun method use configur invocationcount threshold decid method compil
+hotspot java virtual machin written c state hotspot web page sourc contain approxim line code hotspot provid
+class loader
+bytecod interpret
+client server virtual machin optim respect use
+sever garbag collector
+set support runtim librari
+jvm flag
+hotspot support mani commandlin argument option virtual machin execut standard must found conform java virtual machin other specif hotspot may found jvms option begin x xx nonstandard
+licens
+novemb hotspot jvm jdk licens gpl version code becam part java codenam dolphin
+support platform
+maintain oracl
+whole jdk hotspot support oracl corpor microsoft window linux solari mac os x support isa ia x armv armv sparc exclus solari
+port third parti
+port also avail third parti various unix oper system sever differ hardwar architectur support includ x powerpc sparc solari
+port hotspot difficult code primarili written c contain lot assembl languag remedi icedtea project develop generic port hotspot interpret call zeroassembl hotspot zero almost assembl code port intend easi adapt interpret compon hotspot linux processor architectur code zeroassembl hotspot use nonx port hotspot ppc ia arm sinc version
+see also
+list java virtual machin
+comparison java virtual machin
+java perform
+openjdk
+da vinci machin start sun project aim prototyp extens jvm add support dynam languag
+refer
+extern link
+sun openjdk hotspot page
+list hotspot vmoption
+java virtual machin specif
+histori origin strongtalkhotspot team
+sun announc avail java hotspot perform engin wayback machin archiv decemb
+hotspot mercuri sourc code develop repositori version control system jdk

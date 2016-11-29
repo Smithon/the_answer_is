@@ -1,0 +1,166 @@
+relay electr oper switch mani relay use electromagnet mechan oper switch oper principl also use solidst relay relay use necessari control circuit lowpow signal complet electr isol control control circuit sever circuit must control one signal first relay use long distanc telegraph circuit amplifi repeat signal come one circuit retransmit anoth circuit relay use extens telephon exchang earli comput perform logic oper
+type relay handl high power requir direct control electr motor load call contactor solidst relay control power circuit move part instead use semiconductor devic perform switch relay calibr oper characterist sometim multipl oper coil use protect electr circuit overload fault modern electr power system function perform digit instrument still call protect relay
+histori
+american scientist joseph henri often claim invent relay order improv version electr telegraph develop earlier howev littl way offici document suggest made discoveri prior
+claim english inventor edward davi certain invent electr relay electr telegraph c
+simpl devic call relay includ origin telegraph patent samuel mors mechan describ act digit amplifi repeat telegraph signal thus allow signal propag far desir overcam problem limit rang earlier telegraphi scheme
+word relay appear context electromagnet oper
+basic design oper
+simpl electromagnet relay consist coil wire wrap around soft iron core iron yoke provid low reluct path magnet flux movabl iron armatur one set contact two relay pictur armatur hing yoke mechan link one set move contact held place spring relay deenerg air gap magnet circuit condit one two set contact relay pictur close set open relay may fewer set contact depend function relay pictur also wire connect armatur yoke ensur continu circuit move contact armatur circuit track print circuit board pcb via yoke solder pcb
+electr current pass coil generat magnet field activ armatur consequ movement movabl contact either make break depend upon construct connect fix contact set contact close relay deenerg movement open contact break connect vice versa contact open current coil switch armatur return forc approxim half strong magnet forc relax posit usual forc provid spring graviti also use common industri motor starter relay manufactur oper quick lowvoltag applic reduc nois high voltag current applic reduc arc
+coil energ direct current diod often place across coil dissip energi collaps magnet field deactiv would otherwis generat voltag spike danger semiconductor circuit compon diod wide use applic transistor relay driver soon becam ubiquit earli germanium transistor easili destroy surg automot relay includ diod insid relay case
+relay drive larg especi reactiv load may similar problem surg current around relay output contact case snubber circuit capacitor resistor seri across contact may absorb surg suitabl rate capacitor associ resistor sold singl packag compon commonplac use
+coil design energ altern current ac method use split flux two outofphas compon add togeth increas minimum pull armatur ac cycl typic done small copper shade ring crimp around portion core creat delay outofphas compon hold contact zero cross control voltag
+type
+latch relay
+latch relay also call impuls keep stay relay maintain either contact posit indefinit without power appli coil advantag one coil consum power instant relay switch relay contact retain set across power outag latch relay allow remot control build light without hum may produc continu ac energ coil
+one mechan two oppos coil overcent spring perman magnet hold contact posit coil deenerg puls one coil turn relay puls opposit coil turn relay type wide use control simpl switch singleend output control system relay found avion numer industri applic
+anoth latch type reman core retain contact oper posit reman magnet core type requir current puls opposit polar releas contact variat use perman magnet produc part forc requir close contact coil suppli suffici forc move contact open close aid oppos field perman magnet polar control relay need changeov switch h bridg drive circuit control relay may less expens type part offset increas cost extern circuit
+anoth type ratchet relay ratchet mechan hold contact close coil momentarili energ second impuls separ coil releas contact type may found certain car headlamp dip function altern oper switch actuat need
+step relay special kind multiway latch relay design earli automat telephon exchang
+earth leakag circuit breaker includ special latch relay
+earli comput often store bit magnet latch relay ferre later memre ess switch
+earli comput use ordinari relay kind latchthey store bit ordinari wire spring relay reed relay feed output wire back input result feedback loop sequenti circuit electr latch relay requir continu power maintain state unlik magnet latch relay mechan rachet relay
+comput memori latch relay relay replac delay line memori turn replac seri everfast eversmal memori technolog
+reed relay
+reed relay reed switch enclos solenoid switch set contact insid evacu inert gasfil glass tube protect contact atmospher corros contact made magnet materi make move influenc field enclos solenoid extern magnet
+reed relay switch faster larger relay requir littl power control circuit howev relat low switch current voltag rate though rare reed becom magnet time make stick even current present chang orient reed respect solenoid magnet field resolv problem
+seal contact mercurywet contact longer oper live less contact chatter kind relay
+mercurywet relay
+mercurywet reed relay form reed relay contact wet mercuri relay use switch lowvoltag signal one volt less mercuri reduc contact resist associ voltag drop lowcurr signal surfac contamin may make poor contact highspe applic mercuri elimin contact bounc mercuri wet relay positionsensit must mount vertic work proper toxic expens liquid mercuri relay rare use
+mercurywet relay one particular advantag contact closur appear virtual instantan mercuri globul contact coalesc current rise time contact general consid picosecond howev practic circuit limit induct contact wire quit common restrict use mercuri use mercurywet relay laboratori conveni mean generat fast rise time puls howev although rise time may picosecond exact time event like type relay subject consider jitter possibl millisecond due mechan imperfect
+coalesc process caus anoth effect nuisanc applic contact resist stabl immedi contact closur drift most downward sever second closur chang perhap ohm
+mercuri relay
+mercuri relay relay use mercuri switch element use contact eros would problem convent relay contact owe environment consider signific amount mercuri use modern altern compar uncommon
+polar relay
+polar relay place armatur pole perman magnet increas sensit polar relay use middl th centuri telephon exchang detect faint puls correct telegraph distort pole screw technician could first adjust maximum sensit appli bias spring set critic current would oper relay
+machin tool relay
+machin tool relay type standard industri control machin tool transfer machin sequenti control character larg number contact sometim extend field easili convert normal open normal close status easili replac coil form factor allow compact instal mani relay control panel although relay backbon autom industri automobil assembl programm logic control plc most displac machin tool relay sequenti control applic
+relay allow circuit switch electr equip exampl timer circuit relay could switch power preset time mani year relay standard method control industri electron system number relay could use togeth carri complex function relay logic principl relay logic base relay energ deenerg associ contact relay logic predecessor ladder logic common use programm logic control
+coaxial relay
+radio transmitt receiv share one antenna often coaxial relay use tr transmitrec relay switch antenna receiv transmitt protect receiv high power transmitt relay often use transceiv combin transmitt receiv one unit relay contact design reflect radio frequenc power back toward sourc provid high isol receiv transmitt termin characterist imped relay match transmiss line imped system exampl ohm
+time delay relay
+time relay arrang intent delay oper contact short fraction second delay would use copper disk armatur move blade assembl current flow disk maintain magnet field short time lengthen releas time slight longer minut delay dashpot use dashpot piston fill fluid allow escap slowli airfil oilfil dashpot use time period vari increas decreas flow rate longer time period mechan clockwork timer instal relay may arrang fix time period may field adjust remot set control panel modern microprocessorbas time relay provid precis time great rang
+relay construct kind shock absorb mechan attach armatur prevent immedi full motion coil either energ deenerg addit give relay properti timedelay actuat timedelay relay construct delay armatur motion coil energ deenerg
+timedelay relay contact must specifi either normal open normal close whether delay oper direct close direct open follow descript four basic type timedelay relay contact
+first normal open timedclos notc contact type contact normal open coil unpow deenerg contact close applic power relay coil coil continu power specifi amount time word direct contact motion either close open ident regular contact delay close direct delay occur direct coil energ type contact altern known normal open ondelay
+contactor
+contactor heavyduti relay use switch electr motor light load contactor general call relay continu current rate common contactor rang amp sever hundr amp highcurr contact made alloy contain silver unavoid arc caus contact oxid howev silver oxid still good conductor contactor overload protect devic often use start motor contactor make loud sound oper may unfit use nois chief concern
+contactor electr control switch use switch power circuit similar relay except higher current rate contactor control circuit much lower power level switch circuit
+contactor come mani form vari capac featur unlik circuit breaker contactor intend interrupt short circuit current contactor rang break current sever amper thousand amper v dc mani kilovolt physic size contactor rang devic small enough pick one hand larg devic approxim meter yard side
+solidst relay
+solid state relay ssr solid state electron compon provid function similar electromechan relay move compon increas longterm reliabl solidst relay use thyristor triac solidst switch devic activ control signal switch control load instead solenoid optocoupl lightemit diod led coupl photo transistor use isol control control circuit
+everi solidst devic small voltag drop across voltag drop limit amount current given ssr handl minimum voltag drop relay function materi use make devic solidst relay rate handl much amper becom commerci avail compar electromagnet relay may fals trigger transient general may suscept damag extrem cosmic ray emp episod
+solid state contactor relay
+solid state contactor heavyduti solid state relay includ necessari heat sink use frequent onoff cycl requir electr heater small electr motor light load move part wear contact bounc due vibrat activ ac control signal dc control signal programm logic control plcs pcs transistortransistor logic ttl sourc microprocessor microcontrol control
+buchholz relay
+buchholz relay safeti devic sens accumul gas larg oilfil transform alarm slow accumul gas shut transform gas produc rapid transform oil contact oper electr current pressur accumul gas oil flow
+forceguid contact relay
+forceguid contact relay relay contact mechan link togeth relay coil energ deenerg link contact move togeth one set contact relay becom immobil contact relay abl move function forceguid contact enabl safeti circuit check status relay forceguid contact also known positiveguid contact captiv contact lock contact mechan link contact safeti relay
+safeti relay follow design rule manufactur rule defin one main machineri standard en relay forcibl guid mechan link contact rule safeti design one defin type b standard en basic safeti principl welltri safeti principl machineri appli machin
+forceguid contact guarante contact state howev guarante subject gross mechan fault contact opposit state otherwis relay sever normal open contact may stick energis contact close other still slight open due mechan toler similar relay sever normal close nc contact may stick unenergis posit energis circuit one set contact broken margin gap remain close introduc nc contact common changeov contact relay becom possibl guarante nc contact close contact open convers contact close nc contact open possibl reliabl ensur particular contact close except potenti intrus safetydegrad sens circuit condit howev safeti system usual state import explain reliabl verifi detect closur contact opposit sens
+forceguid contact relay made differ main contact set either nc changeov one auxiliari contact set often reduc current voltag rate use monitor system contact may nc changeov mixtur monitor contact safeti system design select correct configur particular applic safeti relay use part engin safeti system
+overload protect relay
+electr motor need overcurr protect prevent damag overload motor protect short circuit connect cabl intern fault motor wind overload sens devic form heat oper relay coil heat bimetal strip solder pot melt releas spring oper auxiliari contact auxiliari contact seri coil overload sens excess current load coil deenerg
+thermal protect oper relat slowli allow motor draw higher start current protect relay trip overload relay expos environ motor use though crude compens motor ambient temperatur provid
+common overload protect system use electromagnet coil seri motor circuit direct oper contact similar control relay requir rather high fault current oper contact prevent short current spike caus nuisanc trigger armatur movement damp dashpot thermal magnet overload detect typic use togeth motor protect relay
+electron overload protect relay measur motor current estim motor wind temperatur use thermal model motor armatur system set provid accur motor protect motor protect relay includ temperatur detector input direct measur thermocoupl resist thermomet sensor embed wind
+vacuum relay
+sensit relay contact mount high evacu glass hous permit handl radiofrequ voltag high volt without flashov contact even though contact space hundredth inch open
+safeti relay
+safeti relay devic general implement safeti function event hazard task safeti function use appropri measur reduc exist risk accept level
+multivoltag relay
+multivoltag relay devic design work wide voltag rang vacvdc wide frequenc rang hz indic forto use instal stabl suppli voltag
+pole throw
+sinc relay switch terminolog appli switch also appli relay relay switch one pole whose contact thrown energ coil
+normal open contact connect circuit relay activ circuit disconnect relay inact also call form contact make contact contact may also distinguish earlymak noem mean contact close button switch fulli engag
+normal close nc contact disconnect circuit relay activ circuit connect relay inact also call form b contact break contact nc contact may also distinguish latebreak nclb mean contact stay close button switch fulli disengag
+changeov co doublethrow dt contact control two circuit one normal open contact one normal close contact common termin also call form c contact transfer contact break make type contact make break action call form d contact
+follow design common encount
+spst singl pole singl throw two termin connect disconnect includ two coil relay four termin total ambigu whether pole normal open normal close terminolog spno spnc sometim use resolv ambigu
+spdt singl pole doubl throw common termin connect either two other includ two coil relay five termin total
+dpst doubl pole singl throw two pair termin equival two spst switch relay actuat singl coil includ two coil relay six termin total pole may form form b one
+dpdt doubl pole doubl throw two row changeov termin equival two spdt switch relay actuat singl coil relay eight termin includ coil
+d may replac number indic multipl switch connect singl actuat exampl pdt indic four pole doubl throw relay switch termin
+en among applic standard relay termin number typic en compliant spdt relay termin would number c nc coil connect respect
+din defin contact number relay automot use
+relay coil
+relay coil
+common contact
+normal close contact
+b normal open contact
+applic
+relay use wherev necessari control high power high voltag circuit low power circuit especi galvan isol desir first applic relay long telegraph line weak signal receiv intermedi station could control contact regener signal transmiss highvoltag highcurr devic control small low voltag wire pilot switch oper isol high voltag circuit low power devic microprocessor drive relay control electr load beyond direct drive capabl automobil starter relay allow high current crank motor control small wire contact ignit key
+electromechan switch system includ strowger crossbar telephon exchang made extens use relay ancillari control circuit relay automat telephon compani also manufactur telephon exchang base sole relay switch techniqu design gotthilf ansgarius betuland first public relay base telephon exchang uk instal fleetwood juli remain servic
+use relay logic control complex switch system like telephon exchang studi claud shannon formal applic boolean algebra relay circuit design symbol analysi relay switch circuit relay perform basic oper boolean combinatori logic exampl boolean function realis connect normal open relay contact seri function connect normal open contact parallel invers logic input done normal close contact relay use control autom system machin tool product line ladder program languag often use design relay logic network
+earli electromechan comput arra harvard mark ii zuse z zuse z use relay logic work regist howev electron devic prove faster easier use
+relay much resist semiconductor nuclear radiat wide use safetycrit logic control panel radioact wastehandl machineri electromechan protect relay use detect overload fault electr line open close circuit breaker
+relay applic consider
+select appropri relay particular applic requir evalu mani differ factor
+number type contact normal open normal close doublethrow
+contact sequenc make break break make exampl old style telephon exchang requir makebeforebreak connect didnt get drop dial number
+contact current rate small relay switch amper larg contactor rate amper altern direct current
+contact voltag rate typic control relay rate vac vac automot type vdc special highvoltag relay v
+oper lifetim use life number time relay expect oper reliabl mechan life contact life contact life affect type load switch break load current caus undesir arc contact eventu lead contact weld shut contact fail due eros arc
+coil voltag machinetool relay usual vdc vac relay switchgear may v vdc coil
+coil current minimum current requir reliabl oper minimum hold current well effect power dissip coil temperatur various duti cycl sensit relay oper milliamper
+packageenclosur open touchsaf doublevoltag isol circuit explos proof outdoor oil splash resist washabl print circuit board assembl
+oper environ minimum maximum oper temperatur environment consider effect humid salt
+assembl relay featur sticker keep enclosur seal allow pcb post solder clean remov assembl complet
+mount socket plug board rail mount panel mount throughpanel mount enclosur mount wall equip
+switch time high speed requir
+dri contact switch low level signal special contact materi may need goldplat contact
+contact protect suppress arc induct circuit
+coil protect suppress surg voltag produc switch coil current
+isol coil contact
+aerospac radiationresist test special qualiti assur
+expect mechan load due acceler relay use aerospac applic design function shock load g
+size smaller relay often resist mechan vibrat shock better larger relay lower inertia move part higher natur frequenc smaller part larger relay often handl higher voltag current smaller relay
+accessori timer auxiliari contact pilot lamp test button
+regulatori approv
+stray magnet linkag coil adjac relay print circuit board
+mani consider involv correct select control relay particular applic consider includ factor speed oper sensit hysteresi although typic control relay oper ms ms rang relay switch speed fast us avail reed relay actuat low current switch fast suitabl control small current
+switch contact current unrel coil current must exceed given valu avoid damag highinduct circuit motor issu must address induct connect power sourc input surg current electromotor start current larger steadyst current exist circuit broken current cannot chang instantan creat potenti damag arc across separ contact
+consequ relay use control induct load must specifi maximum current may flow relay contact actuat make rate continu rate break rate make rate may sever time larger continu rate larger break rate
+derat factor
+control relay oper rate temperatur result increas degrad fatigu common practic derat degre celsius maximum rate temperatur limit relay oper rate load affect environ oil vapor may great decreas contact life dust dirt may caus contact burn end normal oper life control relay life cycl vari one million cycl depend electr load contact duti cycl applic extent relay derat control relay oper derat valu control smaller valu current maximum make break rate often done extend oper life control relay tabl list relay derat factor typic industri control applic
+undesir arc
+switch wet load caus undesir arc contact eventu lead contact weld shut contact fail due buildup contact surfac damag caus destruct arc energi
+insid ess switch matrix switch certain highreli design reed switch alway switch dri avoid problem lead much longer contact life
+without adequ contact protect occurr electr current arc caus signific degrad contact suffer signific visibl damag everi time relay transit either close open state break arc open close state make arc bounc arc load electr arc occur two contact point electrod relay mani situat break arc energet thus destruct particular resistivetyp load howev induct load caus destruct make arc exampl standard electr motor startup inrush current tend much greater run current translat enorm make arc
+arc event heat energi contain electr arc high ten thousand degre fahrenheit caus metal contact surfac melt pool migrat current extrem high temperatur arc crack surround gas molecul creat ozon carbon monoxid compound arc energi slowli destroy contact metal caus materi escap air fine particul matter action caus materi contact degrad quick result devic failur contact degrad drastic limit overal life relay rang oper level far mechan life devic excess million oper
+protect relay
+protect electr apparatus transmiss line electromechan relay accur oper characterist use detect overload shortcircuit fault mani relay remain use digit devic provid equival protect function
+railway signal
+railway signal relay larg consid most small voltag less v current perhap ma switch contact wide space prevent flashov short circuit lifetim may exceed fifti year br seri plugin relay wide use railway follow british practic mm high mm deep mm wide weigh g separ contact exampl make break contact mani relay come v v v version
+br qtype relay avail number differ configur
+qn neutral
+ql latch see
+qna acimmun
+qba bias acimmun see
+qnn twin neutral x x
+qbca contactor high current applic point motor also dc bias ac immun
+qtd slow releas timer
+qtd slow pick timer
+sinc rail signal circuit must high reliabl special techniqu use detect prevent failur relay system protect fals feed doubl switch relay contact often use posit negat side circuit two fals feed need caus fals signal relay circuit prove relianc construct featur carbon silver contact resist lightn induc contact weld provid ac immun
+optoisol also use instanc railway signal especi singl contact switch
+signal relay typic circuit draw symbol abbrevi nomenclatur etc come number school includ unit state franc germani unit kingdom
+see also
+contactor
+digit protect relay
+dri contact
+race condit
+step switch kind multiposit relay
+wire spring relay
+analogu switch
+nanoelectromechan relay
+refer
+extern link
+abdelmoumen abdelkad hamid bentarzi review protect relay develop trend journal energi southern africa httpwwwscieloorgzapdfjesavnpdf httpwwwscieloorgzascielophppidsxscriptsciarttexttlngpt
+electromagnet relay solidst relay ssr general technic descript function shutdown behaviour design featur
+electromechan relay
+inform relay latch relay circuit
+harri porter relay comput comput made relay
+relay comput two jon stanley
+interfac relay microcontrol
+relay technic write oen india limit
